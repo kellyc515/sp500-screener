@@ -652,11 +652,9 @@ const STAT_METRICS = {
   ret3m: { label: '3M Return %', lowerIsBetter: false },
   ret6m: { label: '6M Return %', lowerIsBetter: false },
   ret1y: { label: '1Y Return %', lowerIsBetter: false },
-  // No real "good/bad" direction asserted here per spec ("no color-scoring
-  // rules needed yet") - lowerIsBetter:false just means the percentile/marker
-  // color follows the raw number as-is, not an inverted claim that being
-  // closer to the high is better.
-  pctBelow52wHigh: { label: '% Below 52wk High', lowerIsBetter: false },
+  // Distance from the high is contextual, not inherently good or bad. Keep
+  // its percentile/rank useful while rendering its marker in neutral gray.
+  pctBelow52wHigh: { label: '% Below 52wk High', lowerIsBetter: false, neutral: true },
   valueOpportunity: { label: 'Value Opportunity', lowerIsBetter: false },
   trapRisk: { label: 'Trap Risk', lowerIsBetter: true }, // lower = safer, matches the coloring convention already used
   score: { label: 'Score', lowerIsBetter: false },
@@ -1739,7 +1737,7 @@ dashboardHTML +
 'var pct=((below+0.5*equal)/values.length)*100;' +
 'var goodnessPct=cfg.lowerIsBetter?(100-pct):pct;' +
 'var rank=values.filter(function(v){return cfg.lowerIsBetter?v<myValue:v>myValue;}).length+1;' +
-'var band=detailBandFor(goodnessPct);var markColor=DETAIL_BAND_COLOR[band]||"#7c8ba1";' +
+'var band=cfg.neutral?null:detailBandFor(goodnessPct);var markColor=cfg.neutral?"#7c8ba1":(DETAIL_BAND_COLOR[band]||"#7c8ba1");' +
 'var w=520,h=130,barW=w/binCount;' +
 'var bars=bins.map(function(count,i){' +
 'var barH=maxCount?(count/maxCount)*(h-14):0;' +

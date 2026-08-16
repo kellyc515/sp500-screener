@@ -16,6 +16,13 @@ const client = createHttpClient({ name: 'finnhub', pacingMs: 1100, maxAttempts: 
 
 const key = () => process.env.FINNHUB_API_KEY;
 const num = (v) => (v === null || v === undefined || Number.isNaN(Number(v)) ? null : Number(v));
+// Strict parsing is intentionally limited to the two new display-only fields.
+// Existing scoring inputs keep their established parsing behavior unchanged.
+const finiteMetricNum = (v) => {
+  if ((typeof v !== 'number' && typeof v !== 'string') || (typeof v === 'string' && v.trim() === '')) return null;
+  const n = Number(v);
+  return Number.isFinite(n) ? n : null;
+};
 const ymd = (d) => d.toISOString().slice(0, 10);
 
 async function fetchQuote(sym) {
@@ -45,8 +52,8 @@ async function fetchMetrics(sym) {
     // is where price (a separate Finnhub call) is already combined with
     // these metrics for pe/pb, so it's the natural place to combine price
     // with week52High too rather than duplicating that pattern here.
-    ret1y: num(m['52WeekPriceReturnDaily']),
-    week52High: num(m['52WeekHigh']),
+    ret1y: finiteMetricNum(m['52WeekPriceReturnDaily']),
+    week52High: finiteMetricNum(m['52WeekHigh']),
   };
 }
 
