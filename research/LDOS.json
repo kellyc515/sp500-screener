@@ -1,0 +1,60 @@
+{
+  "ticker": "LDOS",
+  "companyName": "Leidos Holdings, Inc.",
+  "researchedAt": "2026-08-12T02:15:00.000Z",
+  "researchMethod": "Phase 6 operational layer - filings fetched/extracted programmatically (research.js), analysis performed directly by Claude Code reading the extracted material, not by an automated LLM API call. Every factual claim below cites a specific source in the sources[] list.",
+  "filingsUsed": [
+    { "form": "10-Q", "filingDate": "2026-08-04", "reportDate": "2026-07-03", "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000246/ldos-20260703.htm" },
+    { "form": "10-K", "filingDate": "2026-02-17", "reportDate": "2026-01-02", "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/ldos-20260102.htm" }
+  ],
+  "quantContext": {
+    "note": "From this project's own scoring pipeline (companies.json + screener.js, Phases 1-5/7), included for reference only - not itself a research source.",
+    "pe": 12.99, "pb": 3.3, "roe": 27.4, "debtEquity": 0.224,
+    "sentiment": 0.667, "analystScore": 66, "beta": 0.5944, "ret3m": 5.97, "ret6m": -26.71
+  },
+  "questions": {
+    "whyCheapBearCase": {
+      "answer": "LDOS trades at a moderate P/E (12.99) for a company with a 27.4% ROE [source: 1], and the stock is down -26.71% over six months despite a strong FY2025 [source: 1]. The 10-Q's own Results of Operations table shows a real, current, filing-confirmed earnings headwind: Q2 2026 revenue grew 7.2% YoY ($4,558 million vs. $4,253 million) but operating income fell 10.0% ($514 million vs. $571 million) and net income fell 9.4% ($356 million vs. $393 million), with operating margin compressing from 13.4% to 11.3%; the six-month picture is similar (revenue +5.4%, operating income -7.2%, net income -8.8%) [source: 2]. Management attributes this specifically to a 7.6%-16.2% revenue/operating-income decline in the Health segment (the company's highest-margin segment, at 23-26% margin) due to 'a net decrease in volumes,' plus a much larger Corporate operating loss (-$58 million vs. -$9 million in Q2) from Entrust acquisition and integration costs and the loss of a one-time $25 million insurance reimbursement received in the prior year [source: 2]. Layered on top, the company took on substantial new debt (total debt $6.0 billion at July 3, 2026 vs. $4.6 billion at January 2, 2026, after issuing $600 million and $800 million of senior notes in March 2026) to fund the $2.4 billion Entrust acquisition, and the 10-Q explicitly flags a near-term, dated risk: 'Failure to pass the appropriations bills or a CR by September 30, 2026, will result in a full or partial federal government shutdown,' material given approximately 83-85% of revenue comes from U.S. government contracts [source: 2].",
+      "sourceRefs": [1, 2]
+    },
+    "revenueEpsTrend": {
+      "answer": "Mixed - revenue growth is accelerating even as profitability is declining in the most recent quarters, a genuine divergence from the FY2025 trend. FY2025 (year ended January 2, 2026): revenue +3% to $17,174 million, operating income +15% to $2,109 million, net income +17% to $1,462 million, operating margin improved to 12.3% from 11.0% [source: 3]. But per the 10-Q's own Results of Operations table, Q2 2026 revenue grew 7.2% YoY ($4,558 million vs. $4,253 million) while operating income fell 10.0% and net income fell 9.4%; H1 2026 revenue grew 5.4% while operating income fell 7.2% and net income fell 8.8% [source: 2]. So the top line is actually growing faster in the most recent data than it did for all of FY2025, but bottom-line profitability has reversed from improving to declining - a real, filing-confirmed divergence, not a quant-model artifact.",
+      "direction": "mixed_revenue_accelerating_but_profitability_declining_in_most_recent_quarters",
+      "sourceRefs": [2, 3]
+    },
+    "marginTrend": {
+      "answer": "Compressing in the most recent quarters, reversing the FY2025 improvement. FY2025 operating margin improved 130bps to 12.3% from 11.0% [source: 3]. But Q2 2026 operating margin fell to 11.3% from 13.4% a year earlier (six-month: 11.4% vs. 13.0%), per the 10-Q's own segment tables [source: 2]. The filing attributes this specifically to two factors: (1) the Health segment - the highest-margin segment at 23-26% - saw both revenue (-7.6% Q2, -3.8% H1) and margin (23.4% vs. 25.8% Q2; 23.7% vs. 25.0% H1) decline due to 'a net decrease in volumes'; and (2) Corporate operating losses widened sharply (-$58 million vs. -$9 million Q2; -$75 million vs. -$34 million H1) due to Entrust acquisition/integration costs and the prior-year comparison including a one-time $25 million insurance reimbursement for legal costs that did not repeat [source: 2].",
+      "direction": "compressing_in_most_recent_quarters_reversing_FY2025_improvement",
+      "sourceRefs": [2, 3]
+    },
+    "guidanceChange": {
+      "answer": "Not determinable from available sources. No explicit forward-looking numeric guidance was located in the extracted MD&A text for either filing - the extraction captured the historical Results of Operations, segment, and bookings/backlog tables, not a forward guidance section [source: 2, 3]. Cached news does show two real, dated, LDOS-specific analyst signals that imply forward views without disclosing company guidance itself: TD Cowen maintained a Hold rating but raised its price target to $135 (2026-08-07), and RBC argued the company's portfolio diversification is 'underappreciated' (2026-08-05) [source: 5, 6].",
+      "sourceRefs": [5, 6]
+    },
+    "catalysts": [
+      { "text": "Growing backlog and bookings: total backlog reached $48.711 billion (July 3, 2026) vs. $46.210 billion a year earlier, with net bookings of $8.2 billion in H1 2026 vs. $6.0 billion in H1 2025 - a real, filed forward-revenue indicator that could support margin recovery as bookings convert to revenue.", "sourceRefs": [2] },
+      { "text": "The $2.4 billion Entrust acquisition (closed March 27, 2026) is already contributing meaningfully to the fast-growing Homeland segment (+32.0% Q2 revenue, including $141 million recognized from Entrust); once integration costs roll off, this could shift from a near-term margin drag to an accretive contributor.", "sourceRefs": [2] },
+      { "text": "Two real, dated, LDOS-specific analyst signals in the past week of cached news: TD Cowen raised its price target to $135 (2026-08-07) and RBC called the company's portfolio diversification 'underappreciated' (2026-08-05) - external validation beyond the raw quant screen.", "sourceRefs": [5, 6] }
+    ],
+    "risks": [
+      { "text": "Explicit, dated federal government shutdown risk tied to the September 30, 2026 appropriations deadline, material given approximately 83-85% of revenue is generated from U.S. government contracts.", "sourceRefs": [2] },
+      { "text": "Real, filing-confirmed margin compression in the most recent quarter and half-year (H1 2026 operating margin 11.4% vs. 13.0% a year earlier), concentrated in the Health segment's volume decline and higher Corporate costs from the Entrust acquisition - not yet resolved as of the most recent quarter.", "sourceRefs": [2] },
+      { "text": "Materially increased leverage from debt-funded M&A: total debt grew from $4.6 billion to $6.0 billion in six months (issuance of $600 million and $800 million senior notes in March 2026) to fund the Entrust acquisition, raising non-operating expense (+35.2% H1 YoY) and adding integration execution risk.", "sourceRefs": [2] }
+    ],
+    "verdict": {
+      "classification": "opportunity_with_real_structural_risk",
+      "confidence": "medium",
+      "reasoning": "LDOS had a genuinely strong FY2025 (revenue +3%, operating income +15%, margin +130bps) and continues to grow its backlog and bookings [source: 2, 3], plus real, dated analyst support in the past week [source: 5, 6]. But the filing evidence also shows a clear, current reversal: operating margin compressed from 13.4% to 11.3% in Q2 2026 alone, concentrated in a specific, named segment (Health) and driven by a specific, named cause (Entrust acquisition/integration costs plus a lapped one-time insurance reimbursement) [source: 2]. Combined with a large, recent, debt-funded increase in leverage and an explicit, dated government-shutdown risk disclosure, this looks like a real near-term earnings headwind rather than a pure valuation discount, which is why confidence is medium rather than high.",
+      "sourceRefs": [1, 2, 3]
+    }
+  },
+  "sources": [
+    { "id": 1, "type": "internal-quant-data", "description": "companies.json / screener.js output for LDOS (pe, pb, roe, debtEquity, sentiment, analyst, beta, ret3m, ret6m) as of the current screener-report.html generation", "url": null, "date": "2026-08-11" },
+    { "id": 2, "type": "10-Q MD&A", "description": "Leidos Q2 2026 Form 10-Q (period ended July 3, 2026), Results of Operations, Segment and Corporate Results, Bookings and Backlog, and Liquidity and Capital Resources sections (revenue/operating income/net income tables, Health segment volume decline, Entrust acquisition and debt issuance, government shutdown risk)", "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000246/ldos-20260703.htm", "date": "2026-08-04" },
+    { "id": 3, "type": "10-K MD&A", "description": "Leidos FY2025 Form 10-K (year ended January 2, 2026), Results of Operations and Segment Results (revenue, operating income, net income, operating margin, segment detail)", "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/ldos-20260102.htm", "date": "2026-02-17" },
+    { "id": 4, "type": "SEC XBRL companyfacts", "description": "Multi-period OperatingIncomeLoss and related figures, CIK 0001336920, cross-checked against the 10-Q's own Results of Operations table", "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001336920.json", "date": "2026-08-12 (retrieved)" },
+    { "id": 5, "type": "cached news headline (Benzinga via Finnhub)", "description": "'TD Cowen Maintains Hold on Leidos Holdings, Raises Price Target to $135' - headline only, article content not fetched", "url": "https://finnhub.io/api/news?id=8e0a9451843cedddc26bb3ed1f188afed6d229f619de7169f6306c44d5518e36", "date": "2026-08-07" },
+    { "id": 6, "type": "cached news headline (Yahoo via Finnhub)", "description": "'Leidos Portfolio Diversification Seen Underappreciated, RBC Says' - headline only, article content not fetched", "url": "https://finnhub.io/api/news?id=de2f75803eba63b3cb49a3b6f4185e221eed81745f58922b69dff49451ed8d5d", "date": "2026-08-05" }
+  ],
+  "sourcingNote": "The 10-Q and 10-K MD&A extractions for LDOS both contained genuine Results of Operations narratives with exact dollar figures and percent changes, so most quantitative claims above are cited directly to the MD&A text (source 2, 3) rather than to XBRL; XBRL companyfacts (source 4) was used only as a secondary cross-check. Cached headlines about ICFI (a different company), a Leidos QTC Health Services volunteer event, and generic S&P 500 gainer/loser roundups were reviewed but not cited as they are not relevant to LDOS's fundamentals."
+}

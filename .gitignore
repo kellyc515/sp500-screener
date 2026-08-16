@@ -1,0 +1,29 @@
+# Secrets and machine-local configuration
+.env
+.env.*
+!.env.example
+.claude/
+.DS_Store
+
+# Dependencies and temporary files
+node_modules/
+*.tmp
+*.temp
+*.log
+
+# Live/generated market data and reports
+cache/
+companies.json
+history/
+screener-report.html
+research-queue.json
+research/_packets/
+
+# Manual snapshots and superseded working copies
+CURRENT_*.js
+screener-before-*.js
+screener-WORKING-*.js
+providers/*-before-*.js
+providers/*.backup-*
+README copy.md
+quantitative-audit.txt
