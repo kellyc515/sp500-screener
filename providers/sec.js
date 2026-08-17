@@ -426,6 +426,12 @@ async function fetchFundamentals(sym) {
   let fcfGrowth = null;
   let operatingMargin = null;
   let marginTrend = null;
+  let annualOcf = null;
+  let annualCapex = null;
+  let annualFcf = null;
+  let annualFcfPeriodStart = null;
+  let annualFcfPeriodEnd = null;
+  let sharesOutstanding = null;
 
   if (usGaap) {
     const netIncome = firstAvailable(usGaap, ['NetIncomeLoss', 'ProfitLoss'], (tag) => latestAnnual(tag, 'USD'));
@@ -486,6 +492,18 @@ async function fetchFundamentals(sym) {
       ],
       'USD'
     );
+
+    if (fcfPeriods.length >= 1) {
+      const currentOcf = fcfPeriods[0].numerator;
+      const currentCapex = fcfPeriods[0].denominator;
+      if (Number.isFinite(currentOcf) && Number.isFinite(currentCapex)) {
+        annualOcf = currentOcf;
+        annualCapex = currentCapex;
+        annualFcf = currentOcf - Math.abs(currentCapex);
+        annualFcfPeriodStart = fcfPeriods[0].start || null;
+        annualFcfPeriodEnd = fcfPeriods[0].end || null;
+      }
+    }
 
     if (fcfPeriods.length >= 2) {
       const currentFcf =
@@ -586,13 +604,16 @@ async function fetchFundamentals(sym) {
 
     // Book value per share: equity / period-end shares outstanding. dei's cover-page
     // figure is preferred (most current); us-gaap's balance-sheet tag is the fallback.
-    const sharesOutstanding = (dei && latestInstant(dei.EntityCommonStockSharesOutstanding, 'shares'))
+    sharesOutstanding = (dei && latestInstant(dei.EntityCommonStockSharesOutstanding, 'shares'))
       ?? latestInstant(usGaap.CommonStockSharesOutstanding, 'shares');
     if (equity && sharesOutstanding) secBookValuePerShare = +(equity / sharesOutstanding).toFixed(4);
   }
 
   const name = (submissions && submissions.name) || (facts && facts.entityName) || null;
   const sector = (submissions && submissions.sicDescription) || null;
+  const rawSic = submissions && submissions.sic;
+  const sicNumber = Number(rawSic);
+  const sic = Number.isFinite(sicNumber) && sicNumber > 0 ? sicNumber : null;
 
   return {
     name,
@@ -606,6 +627,13 @@ async function fetchFundamentals(sym) {
     fcfGrowth,
     operatingMargin,
     marginTrend,
+    annualOcf,
+    annualCapex,
+    annualFcf,
+    annualFcfPeriodStart,
+    annualFcfPeriodEnd,
+    sharesOutstanding: Number.isFinite(sharesOutstanding) && sharesOutstanding > 0 ? sharesOutstanding : null,
+    sic,
   };
 }
 

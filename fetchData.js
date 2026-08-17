@@ -145,12 +145,49 @@ const FUNDAMENTALS_MERGE_FIELDS = [
   'fcfGrowth',
   'operatingMargin',
   'marginTrend',
+  'annualOcf',
+  'annualCapex',
+  'annualFcf',
+  'annualFcfPeriodStart',
+  'annualFcfPeriodEnd',
+  'sharesOutstanding',
+  'sic',
 ];
 
 // Daily, price-derived valuation fields (ret3m/ret6m/ret1y/pctBelow52wHigh
 // included: Finnhub's 13/26/52-week returns and 52-week high come from the
 // same /stock/metric call as beta/EPS).
-const VALUATION_FIELDS = ['pe', 'pb', 'beta', 'ret3m', 'ret6m', 'ret1y', 'pctBelow52wHigh'];
+const VALUATION_FIELDS = ['pe', 'pb', 'beta', 'ret3m', 'ret6m', 'ret1y', 'pctBelow52wHigh', 'evEbitda', 'fcfYield'];
+
+// SIC 6000-6499 covers banks, credit institutions, securities brokers and
+// insurers. Conventional enterprise value/EBITDA is not comparable for these
+// businesses because financing is part of operations. REITs (notably SIC
+// 6798) are intentionally not excluded.
+function isExcludedFinancialInstitution(sic) {
+  return Number.isInteger(sic) && sic >= 6000 && sic <= 6499;
+}
+
+const EBITDA_SERIES_MAX_AGE_MS = 200 * 24 * 60 * 60 * 1000;
+const ANNUAL_FCF_MAX_AGE_MS = 550 * 24 * 60 * 60 * 1000;
+
+function hasCurrentPositiveTtmEbitda(rows, nowMs = Date.now()) {
+  if (!Array.isArray(rows) || rows.length < 4) return false;
+  const latestFour = rows.slice(0, 4);
+  const dates = latestFour.map((row) => new Date(row.period).getTime());
+  const values = latestFour.map((row) => row.value);
+  if (dates.some((v) => !Number.isFinite(v)) || values.some((v) => !Number.isFinite(v))) return false;
+  if (new Set(dates).size !== 4) return false;
+  if (dates[0] > nowMs + 14 * 24 * 60 * 60 * 1000 || nowMs - dates[0] > EBITDA_SERIES_MAX_AGE_MS) return false;
+
+  const spanDays = (dates[0] - dates[3]) / (24 * 60 * 60 * 1000);
+  if (spanDays < 200 || spanDays > 400) return false;
+  for (let i = 0; i < 3; i++) {
+    const gapDays = (dates[i] - dates[i + 1]) / (24 * 60 * 60 * 1000);
+    if (gapDays < 45 || gapDays > 140) return false;
+  }
+
+  return values.reduce((sum, value) => sum + value, 0) > 0;
+}
 
 function mergeFields(keys, ...sources) {
   const out = {};
@@ -195,6 +232,52 @@ async function fetchValuation(sym, fundamentalsEntry) {
     pctBelow52wHigh = +Math.max(0, raw).toFixed(2);
   }
 
+  let evEbitda = null;
+  if (
+    fundamentalsEntry.sic !== null &&
+    fundamentalsEntry.sic !== undefined &&
+    !isExcludedFinancialInstitution(fundamentalsEntry.sic) &&
+    Number.isFinite(metrics.evEbitdaTTM) &&
+    metrics.evEbitdaTTM > 0 &&
+    metrics.evEbitdaTTM <= 200 &&
+    Number.isFinite(metrics.ebitdPerShareTTM) &&
+    metrics.ebitdPerShareTTM > 0 &&
+    hasCurrentPositiveTtmEbitda(metrics.quarterlyEbitda)
+  ) {
+    evEbitda = metrics.evEbitdaTTM;
+  }
+
+  let fcfYield = null;
+  const calculatedMarketCapitalization = Number.isFinite(fundamentalsEntry.sharesOutstanding) &&
+    fundamentalsEntry.sharesOutstanding > 0 && Number.isFinite(quote.price) && quote.price > 0
+    ? quote.price * fundamentalsEntry.sharesOutstanding
+    : null;
+  const finnhubMarketCapitalization = Number.isFinite(metrics.marketCapitalization) && metrics.marketCapitalization > 0
+    ? metrics.marketCapitalization * 1e6
+    : null;
+  const marketCapComparisonRatio = calculatedMarketCapitalization !== null && finnhubMarketCapitalization !== null
+    ? calculatedMarketCapitalization / finnhubMarketCapitalization
+    : null;
+  const marketCapsConsistent = Number.isFinite(marketCapComparisonRatio) &&
+    marketCapComparisonRatio >= 0.75 && marketCapComparisonRatio <= 1.25;
+  const annualFcfPeriodMs = new Date(fundamentalsEntry.annualFcfPeriodEnd).getTime();
+  const annualFcfCurrent = Number.isFinite(annualFcfPeriodMs) &&
+    annualFcfPeriodMs <= Date.now() + 14 * 24 * 60 * 60 * 1000 &&
+    Date.now() - annualFcfPeriodMs <= ANNUAL_FCF_MAX_AGE_MS;
+  if (
+    Number.isFinite(fundamentalsEntry.annualFcf) &&
+    annualFcfCurrent &&
+    !isExcludedFinancialInstitution(fundamentalsEntry.sic) &&
+    Number.isFinite(fundamentalsEntry.sharesOutstanding) &&
+    fundamentalsEntry.sharesOutstanding > 0 &&
+    marketCapsConsistent
+  ) {
+    const equityMarketValue = calculatedMarketCapitalization;
+    if (Number.isFinite(equityMarketValue) && equityMarketValue > 0) {
+      fcfYield = +((fundamentalsEntry.annualFcf / equityMarketValue) * 100).toFixed(4);
+    }
+  }
+
   return {
     pe: eps !== null && eps > 0 ? +(quote.price / eps).toFixed(2) : null,
     pb: bookValue !== null && bookValue > 0 ? +(quote.price / bookValue).toFixed(2) : null,
@@ -203,7 +286,18 @@ async function fetchValuation(sym, fundamentalsEntry) {
     ret6m: metrics.ret6m ?? null,
     ret1y: metrics.ret1y ?? null,
     pctBelow52wHigh,
-    // Not part of companies.json's 19-field output (pe/pb/ret1y/pctBelow52wHigh
+    evEbitda,
+    fcfYield,
+    // Internal audit trail only; none of these fields enter companies.json.
+    annualOcf: fundamentalsEntry.annualOcf ?? null,
+    annualCapex: fundamentalsEntry.annualCapex ?? null,
+    annualFcfPeriodStart: fundamentalsEntry.annualFcfPeriodStart ?? null,
+    annualFcfPeriodEnd: fundamentalsEntry.annualFcfPeriodEnd ?? null,
+    secSharesOutstanding: fundamentalsEntry.sharesOutstanding ?? null,
+    calculatedMarketCapitalization,
+    finnhubMarketCapitalization,
+    marketCapComparisonRatio,
+    // Not part of companies.json's 21-field output (pe/pb/ret1y/pctBelow52wHigh
     // already derive from it) - cached here purely so the report's detail
     // panel can show a real, timestamped price without a live browser-side
     // fetch (see conversation).
@@ -257,6 +351,8 @@ async function main() {
       ret6m: quote.ret6m ?? null,
       ret1y: quote.ret1y ?? null,
       pctBelow52wHigh: quote.pctBelow52wHigh ?? null,
+      evEbitda: quote.evEbitda ?? null,
+      fcfYield: quote.fcfYield ?? null,
       roe: fundamentals.roe ?? null,
       debtEquity: fundamentals.debtEquity ?? null,
       revenueGrowth: fundamentals.revenueGrowth ?? null,

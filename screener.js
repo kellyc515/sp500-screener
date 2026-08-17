@@ -655,6 +655,8 @@ const STAT_METRICS = {
   // Distance from the high is contextual, not inherently good or bad. Keep
   // its percentile/rank useful while rendering its marker in neutral gray.
   pctBelow52wHigh: { label: '% Below 52wk High', lowerIsBetter: false, neutral: true },
+  evEbitda: { label: 'EV/EBITDA (TTM)', lowerIsBetter: true },
+  fcfYield: { label: 'Annual FCF Yield %', lowerIsBetter: false },
   valueOpportunity: { label: 'Value Opportunity', lowerIsBetter: false },
   trapRisk: { label: 'Trap Risk', lowerIsBetter: true }, // lower = safer, matches the coloring convention already used
   score: { label: 'Score', lowerIsBetter: false },
@@ -2036,7 +2038,7 @@ const TOP_TIER = 'A';
 // scoreUniverse(), not a separate risk model.
 const RISK_CLASSIFICATIONS = new Set([CLASSIFICATION.POSSIBLE_VALUE_TRAP, CLASSIFICATION.DISTRESSED]);
 
-// Lean by design, per spec - not the full 19-field companies.json record,
+// Lean by design, per spec - not the full 21-field companies.json record,
 // just what's needed to compute deltas and explain them.
 const HISTORY_FIELDS = [
   'composite', 'tier', 'classification', 'valueOpportunity', 'valueTrapRisk',

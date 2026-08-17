@@ -39,6 +39,11 @@ async function fetchMetrics(sym) {
   const r = await client.getJSON(FINNHUB_BASE + '/stock/metric?symbol=' + sym + '&metric=all&token=' + key(), sym + ' metrics');
   if (!r.ok) return {};
   const m = (r.data && r.data.metric) || {};
+  const quarterlyEbitda = ((((r.data || {}).series || {}).quarterly || {}).ebitda || [])
+    .map((row) => ({ period: row && row.period, value: finiteMetricNum(row && row.v) }))
+    .filter((row) => row.period && row.value !== null)
+    .sort((a, b) => String(b.period).localeCompare(String(a.period)))
+    .slice(0, 4);
   return {
     beta: num(m.beta),
     epsTTM: num(m.epsTTM),
@@ -54,6 +59,13 @@ async function fetchMetrics(sym) {
     // with week52High too rather than duplicating that pattern here.
     ret1y: finiteMetricNum(m['52WeekPriceReturnDaily']),
     week52High: finiteMetricNum(m['52WeekHigh']),
+    evEbitdaTTM: finiteMetricNum(m.evEbitdaTTM),
+    ebitdPerShareTTM: finiteMetricNum(m.ebitdPerShareTTM),
+    // Validation-only cross-check for class/share-count mismatches in the
+    // SEC-shares x cached-price FCF-yield denominator. Finnhub reports this
+    // field in USD millions; it is never used as the denominator itself.
+    marketCapitalization: finiteMetricNum(m.marketCapitalization),
+    quarterlyEbitda,
   };
 }
 
