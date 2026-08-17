@@ -2,12 +2,19 @@ name: Daily Refresh
 
 on:
   workflow_dispatch: {}
-  # Disabled until a successful manual run is confirmed. Targets ~8:10 AM
-  # America/New_York. 12:10 UTC covers EDT (UTC-4); switch to 13:10 for EST
-  # (UTC-5) if exact local time across the DST boundary matters. Weekdays
-  # only (1-5) to match the free-tier minutes budget this was sized against.
-  # schedule:
-  #   - cron: '10 12 * * 1-5'
+  # Targets ~8:10 AM America/New_York, weekdays only. GitHub cron is UTC-only
+  # with no timezone/DST awareness, and US DST transition dates (2nd Sunday
+  # of March / 1st Sunday of November) shift by about a week every year - a
+  # cron split on fixed months/days would silently drift wrong near those
+  # transitions without yearly maintenance. Instead: fire at BOTH possible
+  # UTC offsets every weekday (12:10 UTC covers EDT/UTC-4, 13:10 covers
+  # EST/UTC-5), and the "Guard" step below checks the real, live
+  # America/New_York clock and only lets the job proceed if it's actually
+  # within the intended window - permanently correct, no maintenance, and
+  # exactly one of these two firings ever does real work on any given day.
+  schedule:
+    - cron: '10 12 * * 1-5'
+    - cron: '10 13 * * 1-5'
 
 concurrency:
   group: daily-refresh
@@ -17,10 +24,29 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
+      # First and cheapest step, before checkout, so the "wrong offset" cron
+      # firing costs only a few seconds. Manual (workflow_dispatch) runs
+      # always bypass this - a human clicking "Run workflow" wants it to run
+      # right now, not be silently skipped for being outside the 8am window.
+      - name: Guard - only proceed at the intended local time
+        id: time_guard
+        run: |
+          set -euo pipefail
+          local_time=$(TZ="America/New_York" date +%H%M)
+          echo "Current America/New_York local time: $local_time"
+          if [ "$local_time" -ge "0800" ] && [ "$local_time" -le "0820" ]; then
+            echo "proceed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "proceed=false" >> "$GITHUB_OUTPUT"
+            echo "Outside the intended ~8:00-8:20 America/New_York window - this is the other UTC offset's cron firing (DST). Skipping without error."
+          fi
+
       - name: Checkout main
+        if: github.event_name != 'schedule' || steps.time_guard.outputs.proceed == 'true'
         uses: actions/checkout@v4
 
       - name: Set up Node
+        if: github.event_name != 'schedule' || steps.time_guard.outputs.proceed == 'true'
         uses: actions/setup-node@v4
         with:
           # LTS, not local's v25 (a non-LTS "Current" release with a short
@@ -30,6 +56,7 @@ jobs:
           node-version: '22'
 
       - name: Hydrate state from origin/state
+        if: github.event_name != 'schedule' || steps.time_guard.outputs.proceed == 'true'
         run: |
           set -euo pipefail
           git fetch origin state --depth=1
@@ -38,6 +65,7 @@ jobs:
           ls -la cache/ companies.json history/ research/ research-queue.json watchlist.json
 
       - name: Fetch data
+        if: github.event_name != 'schedule' || steps.time_guard.outputs.proceed == 'true'
         env:
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
@@ -46,12 +74,13 @@ jobs:
           node fetchData.js 2>&1 | tee fetchdata.log
 
       - name: Score + build report
+        if: github.event_name != 'schedule' || steps.time_guard.outputs.proceed == 'true'
         run: |
           set -euo pipefail
           node screener.js 2>&1 | tee screener.log
 
       - name: Upload report + logs (always, even on failure)
-        if: always()
+        if: always() && (github.event_name != 'schedule' || steps.time_guard.outputs.proceed == 'true')
         uses: actions/upload-artifact@v4
         with:
           name: screener-run-${{ github.run_id }}
@@ -69,6 +98,7 @@ jobs:
       # (default GH Actions fail-fast - no continue-on-error / if: always()
       # on this step or the ones before it).
       - name: Hydration/output integrity guard
+        if: github.event_name != 'schedule' || steps.time_guard.outputs.proceed == 'true'
         run: |
           set -euo pipefail
           MIN_BYTES=50000
@@ -100,6 +130,7 @@ jobs:
       # checkout here is never touched. Only reached on full success; only
       # commits+pushes if there's an actual diff.
       - name: Publish state
+        if: github.event_name != 'schedule' || steps.time_guard.outputs.proceed == 'true'
         run: |
           set -euo pipefail
           git worktree add ../state-worktree origin/state
