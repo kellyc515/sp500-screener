@@ -40,8 +40,14 @@ const CACHE_DIR = path.join(__dirname, 'cache');
 const UNIVERSE_PATH = path.join(__dirname, 'universe.json');
 
 // Refresh tiers: how old a cached group can be before we bother calling a provider again.
-const DAILY_MAX_AGE_MS = 20 * 60 * 60 * 1000;      // analyst, sentiment/news, price/returns, pe/pb/beta (price-derived)
+const DAILY_MAX_AGE_MS = 20 * 60 * 60 * 1000;      // quote/valuation: price/returns, pe/pb/beta/evEbitda/fcfYield/netDebtEbitda/peg (score-driving)
 const WEEKLY_MAX_AGE_MS = 7 * 24 * 60 * 60 * 1000; // fundamentals: roe, debtEquity, sector, name
+// Analyst consensus and news/sentiment move slowly enough that a daily refetch
+// is wasted quota - ~84h sits just past 3 full ~24h cron cycles, so with a
+// roughly-daily cron this refreshes every 4th run (~twice a week). Tune by
+// moving the hour count into the 48-72h band for a 3-day/~2.3x-week cadence
+// instead, or back down to DAILY_MAX_AGE_MS to restore the old behavior.
+const ANALYST_NEWS_MAX_AGE_MS = 84 * 60 * 60 * 1000;
 
 function loadUniverse() {
   if (!fs.existsSync(UNIVERSE_PATH)) {
@@ -445,8 +451,8 @@ async function main() {
 
     const fundamentals = await refreshGroup('fundamentals', fundamentalsCache, sym, WEEKLY_MAX_AGE_MS, fetchFundamentals, 'sec', stats.fundamentals, tickerLog);
     const quote = await refreshGroup('quote', quoteCache, sym, DAILY_MAX_AGE_MS, (t) => fetchValuation(t, fundamentals), 'finnhub', stats.quote, tickerLog);
-    const analystEntry = await refreshGroup('analyst', analystCache, sym, DAILY_MAX_AGE_MS, finnhub.fetchAnalyst, 'finnhub', stats.analyst, tickerLog);
-    const newsEntry = await refreshGroup('news', newsCache, sym, DAILY_MAX_AGE_MS, finnhub.fetchSentiment, 'finnhub', stats.news, tickerLog);
+    const analystEntry = await refreshGroup('analyst', analystCache, sym, ANALYST_NEWS_MAX_AGE_MS, finnhub.fetchAnalyst, 'finnhub', stats.analyst, tickerLog);
+    const newsEntry = await refreshGroup('news', newsCache, sym, ANALYST_NEWS_MAX_AGE_MS, finnhub.fetchSentiment, 'finnhub', stats.news, tickerLog);
 
     const tag = [
       tickerLog.cached.length ? 'cache: ' + tickerLog.cached.join(',') : null,
@@ -517,8 +523,8 @@ async function main() {
     '   (max age ' + tierHours + 'h)';
   console.log(fmtStat('fundamentals', Math.round(WEEKLY_MAX_AGE_MS / 3600000), stats.fundamentals));
   console.log(fmtStat('quote', Math.round(DAILY_MAX_AGE_MS / 3600000), stats.quote));
-  console.log(fmtStat('analyst', Math.round(DAILY_MAX_AGE_MS / 3600000), stats.analyst));
-  console.log(fmtStat('news', Math.round(DAILY_MAX_AGE_MS / 3600000), stats.news));
+  console.log(fmtStat('analyst', Math.round(ANALYST_NEWS_MAX_AGE_MS / 3600000), stats.analyst));
+  console.log(fmtStat('news', Math.round(ANALYST_NEWS_MAX_AGE_MS / 3600000), stats.news));
 
   console.log('\n  Next:  node screener.js\n');
 }
