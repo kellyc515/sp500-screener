@@ -16,6 +16,11 @@ on:
     - cron: '10 12 * * 1-5'
     - cron: '10 13 * * 1-5'
 
+permissions:
+  contents: write # needed for the state-branch push in "Publish state"
+  pages: write # needed to publish the report to GitHub Pages
+  id-token: write # needed by actions/deploy-pages to authenticate the deploy
+
 concurrency:
   group: daily-refresh
   cancel-in-progress: false
@@ -90,6 +95,35 @@ jobs:
             screener.log
           if-no-files-found: warn
           retention-days: 14
+
+      # Publishes ONLY screener-report.html (renamed index.html) to GitHub
+      # Pages. A fresh, otherwise-empty directory is the entire scoping
+      # mechanism: upload-pages-artifact only ever sees whatever is inside
+      # the directory its `path:` points at, so nothing else in this
+      # workspace - source, cache/, companies.json, secrets - can leak onto
+      # the public site no matter what else exists in the checkout.
+      # Deliberately placed here (right after the report is built), NOT
+      # after "Publish state" below - gated only on the report itself having
+      # built successfully, so a later, unrelated state-branch publish
+      # problem can never block an already-good report from going live.
+      - name: Prepare Pages publish directory
+        if: github.event_name != 'schedule' || steps.time_guard.outputs.proceed == 'true'
+        run: |
+          set -euo pipefail
+          rm -rf pages-publish
+          mkdir -p pages-publish
+          cp screener-report.html pages-publish/index.html
+          ls -la pages-publish/
+
+      - name: Upload Pages artifact
+        if: github.event_name != 'schedule' || steps.time_guard.outputs.proceed == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: pages-publish
+
+      - name: Deploy to GitHub Pages
+        if: github.event_name != 'schedule' || steps.time_guard.outputs.proceed == 'true'
+        uses: actions/deploy-pages@v4
 
       # Defense-in-depth: catches a silently-incomplete hydration or a
       # fetch/score step that exited 0 but wrote something truncated, before
