@@ -17,7 +17,8 @@ companies.json
 history/
 screener-report.html
 research-queue.json
-research/_packets/
+research/
+watchlist.json
 
 # Finished one-time migration scripts (already baked into their target file)
 add-growth-metrics.js
