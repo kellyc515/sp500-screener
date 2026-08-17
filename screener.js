@@ -644,6 +644,11 @@ function tvSymbolFor(ticker, exchange) {
 const STAT_METRICS = {
   pe: { label: 'P/E', lowerIsBetter: true },
   pb: { label: 'P/B', lowerIsBetter: true },
+  peg: {
+    label: 'PEG (P/E to Growth)',
+    lowerIsBetter: true,
+    description: 'Uses our own FY-over-FY SEC EPS growth, not analyst estimates. The P/E numerator is TTM-basis while growth is annual FY-over-FY, so this is not a perfectly time-aligned TTM PEG. Nulled when growth is below 2%, since PEG is not meaningful off a near-zero growth rate.',
+  },
   roe: { label: 'ROE %', lowerIsBetter: false },
   debtEquity: { label: 'Debt/Equity', lowerIsBetter: true },
   sentiment: { label: 'News Sentiment', lowerIsBetter: false },
@@ -2051,7 +2056,7 @@ const TOP_TIER = 'A';
 // scoreUniverse(), not a separate risk model.
 const RISK_CLASSIFICATIONS = new Set([CLASSIFICATION.POSSIBLE_VALUE_TRAP, CLASSIFICATION.DISTRESSED]);
 
-// Lean by design, per spec - not the full 25-field companies.json record,
+// Lean by design, per spec - not the full 26-field companies.json record,
 // just what's needed to compute deltas and explain them.
 const HISTORY_FIELDS = [
   'composite', 'tier', 'classification', 'valueOpportunity', 'valueTrapRisk',

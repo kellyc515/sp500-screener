@@ -197,6 +197,14 @@ function hasCurrentPositiveTtmEbitda(rows, nowMs = Date.now()) {
   return values.reduce((sum, value) => sum + value, 0) > 0;
 }
 
+// PEG rate-level floor: epsGrowth already has an upstream floor
+// (EPS_GROWTH_MIN_BASE in providers/sec.js), but that one protects a tiny
+// PRIOR EPS DOLLAR VALUE, not a tiny GROWTH RATE - a dollar-normal company
+// with a barely-positive growth rate (e.g. MKC at 0.34% -> an unguarded PEG
+// near 27) sails through that floor untouched. This is a separate,
+// PEG-specific gate on the rate itself. Tunable.
+const PEG_MIN_GROWTH_PCT = 2;
+
 const NET_DEBT_BALANCE_MAX_AGE_MS = 200 * 24 * 60 * 60 * 1000;
 
 function calculateNetDebtEbitda(metrics, fundamentalsEntry, nowMs = Date.now()) {
@@ -357,9 +365,25 @@ async function fetchValuation(sym, fundamentalsEntry) {
     }
   }
 
+  const pe = eps !== null && eps > 0 ? +(quote.price / eps).toFixed(2) : null;
+  const pb = bookValue !== null && bookValue > 0 ? +(quote.price / bookValue).toFixed(2) : null;
+
+  // PEG = P/E ÷ epsGrowth, using epsGrowth's stored percent value directly
+  // (e.g. 22.7 for 22.7% - NO additional *100 scaling). Null-gated, in
+  // order: pe null -> null; epsGrowth null -> null (already inherited from
+  // epsGrowth's own upstream guard, kept explicit here for safety);
+  // epsGrowth <= 0 -> null; epsGrowth < PEG_MIN_GROWTH_PCT -> null (see
+  // that constant's comment above). Never clipped - a gated PEG is null,
+  // not a capped number.
+  const epsGrowth = fundamentalsEntry.epsGrowth ?? null;
+  let peg = null;
+  if (pe !== null && epsGrowth !== null && epsGrowth > 0 && epsGrowth >= PEG_MIN_GROWTH_PCT) {
+    peg = +(pe / epsGrowth).toFixed(3);
+  }
+
   return {
-    pe: eps !== null && eps > 0 ? +(quote.price / eps).toFixed(2) : null,
-    pb: bookValue !== null && bookValue > 0 ? +(quote.price / bookValue).toFixed(2) : null,
+    pe,
+    pb,
     beta: metrics.beta ?? null,
     ret3m: metrics.ret3m ?? null,
     ret6m: metrics.ret6m ?? null,
@@ -368,6 +392,7 @@ async function fetchValuation(sym, fundamentalsEntry) {
     evEbitda,
     fcfYield,
     netDebtEbitda: netDebtResult.value,
+    peg,
     // Internal audit trail only; none of these fields enter companies.json.
     annualOcf: fundamentalsEntry.annualOcf ?? null,
     annualCapex: fundamentalsEntry.annualCapex ?? null,
@@ -385,7 +410,7 @@ async function fetchValuation(sym, fundamentalsEntry) {
     enterpriseValue: metrics.enterpriseValue ?? null,
     ebitdPerShareTTM: metrics.ebitdPerShareTTM ?? null,
     netDebtEbitdaAudit: netDebtResult.audit,
-    // Not part of companies.json's 21-field output (pe/pb/ret1y/pctBelow52wHigh
+    // Not part of companies.json's 26-field output (pe/pb/ret1y/pctBelow52wHigh
     // already derive from it) - cached here purely so the report's detail
     // panel can show a real, timestamped price without a live browser-side
     // fetch (see conversation).
@@ -442,6 +467,7 @@ async function main() {
       evEbitda: quote.evEbitda ?? null,
       fcfYield: quote.fcfYield ?? null,
       netDebtEbitda: quote.netDebtEbitda ?? null,
+      peg: quote.peg ?? null,
       roe: fundamentals.roe ?? null,
       debtEquity: fundamentals.debtEquity ?? null,
       roic: fundamentals.roic ?? null,
