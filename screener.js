@@ -664,6 +664,11 @@ const STAT_METRICS = {
     lowerIsBetter: true,
     description: 'Uses GAAP EBITDA; for REITs this is not the industry-adjusted EBITDAre measure.',
   },
+  basicShareChange: {
+    label: 'Annual Basic Weighted-Average Shares Change %',
+    lowerIsBetter: true,
+    description: 'Measures annual weighted-average basic-share exposure, not exact period-end ownership. Positive values indicate realized dilution; negative values indicate a share-count reduction.',
+  },
   valueOpportunity: { label: 'Value Opportunity', lowerIsBetter: false },
   trapRisk: { label: 'Trap Risk', lowerIsBetter: true }, // lower = safer, matches the coloring convention already used
   score: { label: 'Score', lowerIsBetter: false },
@@ -2046,7 +2051,7 @@ const TOP_TIER = 'A';
 // scoreUniverse(), not a separate risk model.
 const RISK_CLASSIFICATIONS = new Set([CLASSIFICATION.POSSIBLE_VALUE_TRAP, CLASSIFICATION.DISTRESSED]);
 
-// Lean by design, per spec - not the full 24-field companies.json record,
+// Lean by design, per spec - not the full 25-field companies.json record,
 // just what's needed to compute deltas and explain them.
 const HISTORY_FIELDS = [
   'composite', 'tier', 'classification', 'valueOpportunity', 'valueTrapRisk',

@@ -176,6 +176,120 @@ function annualSeries(tag, preferredUnit) {
   return unique;
 }
 
+// Display-only annual change in the basic weighted-average share denominator.
+// Both periods must be comparative facts from the same latest 10-K accession,
+// which keeps stock-split restatements on one basis and avoids mixing this
+// duration measure with point-in-time shares outstanding.
+function basicShareChangeFromTag(tag, asOfMs = Date.now()) {
+  const audit = {
+    reason: null,
+    concept: 'WeightedAverageNumberOfSharesOutstandingBasic',
+    unit: 'shares',
+    current: null,
+    prior: null,
+    rawValue: null,
+  };
+  const rows = unitsArray(tag, 'shares');
+  if (!rows) {
+    audit.reason = 'missing annual basic weighted-average shares';
+    return { value: null, audit };
+  }
+
+  const valid = rows.filter((row) => {
+    if (!row || row.form !== '10-K' || row.fp !== 'FY' || !row.accn || !row.filed || !row.start || !row.end) return false;
+    const value = num(row.val);
+    const startMs = new Date(row.start).getTime();
+    const endMs = new Date(row.end).getTime();
+    const durationDays = (endMs - startMs) / (24 * 60 * 60 * 1000);
+    return Number.isFinite(value) && value > 0 && Number.isFinite(durationDays) && durationDays >= 300 && durationDays <= 400;
+  });
+  if (!valid.length) {
+    audit.reason = 'no valid annual basic weighted-average share facts';
+    return { value: null, audit };
+  }
+
+  const latest = [...valid].sort((a, b) =>
+    String(b.filed).localeCompare(String(a.filed)) || String(b.end).localeCompare(String(a.end))
+  )[0];
+  audit.accession = latest.accn;
+  audit.filingDate = latest.filed;
+
+  const sameAccession = valid.filter((row) => row.accn === latest.accn);
+  const groups = new Map();
+  for (const row of sameAccession) {
+    const key = `${row.start}|${row.end}`;
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(row);
+  }
+
+  const periods = [];
+  for (const rowsForPeriod of groups.values()) {
+    const values = [...new Set(rowsForPeriod.map((row) => num(row.val)))];
+    const row = rowsForPeriod[0];
+    const durationDays = (new Date(row.end).getTime() - new Date(row.start).getTime()) / (24 * 60 * 60 * 1000);
+    periods.push({
+      value: values.length === 1 ? values[0] : null,
+      start: row.start,
+      end: row.end,
+      durationDays,
+      fy: row.fy ?? null,
+      fp: row.fp,
+      form: row.form,
+      filed: row.filed,
+      accn: row.accn,
+      frame: row.frame || null,
+      duplicateCount: rowsForPeriod.length,
+      duplicatesAgree: values.length === 1,
+    });
+  }
+  audit.contradictoryPeriodCount = periods.filter((period) => !period.duplicatesAgree).length;
+  periods.sort((a, b) => String(b.end).localeCompare(String(a.end)));
+  if (periods.length < 2) {
+    audit.reason = 'latest 10-K lacks a prior annual comparative basic-share fact';
+    return { value: null, audit };
+  }
+
+  const current = periods[0];
+  const prior = periods[1];
+  audit.current = current;
+  audit.prior = prior;
+  if (!current.duplicatesAgree || !prior.duplicatesAgree) {
+    audit.reason = 'contradictory annual basic-share facts in selected period';
+    return { value: null, audit };
+  }
+  const currentEndMs = new Date(current.end).getTime();
+  audit.asOfDate = Number.isFinite(asOfMs) ? new Date(asOfMs).toISOString().slice(0, 10) : null;
+  audit.currentPeriodAgeDays = Number.isFinite(currentEndMs) && Number.isFinite(asOfMs)
+    ? Math.floor((asOfMs - currentEndMs) / (24 * 60 * 60 * 1000))
+    : null;
+  if (!Number.isFinite(currentEndMs) || !Number.isFinite(asOfMs)) {
+    audit.reason = 'annual_period_stale';
+    return { value: null, audit };
+  }
+  if (currentEndMs > asOfMs + 14 * 24 * 60 * 60 * 1000) {
+    audit.reason = 'annual_period_future_dated';
+    return { value: null, audit };
+  }
+  if (asOfMs - currentEndMs > ANNUAL_QUALITY_MAX_AGE_MS) {
+    audit.reason = 'annual_period_stale';
+    return { value: null, audit };
+  }
+  const boundaryGapDays = (new Date(current.start).getTime() - new Date(prior.end).getTime()) / (24 * 60 * 60 * 1000);
+  audit.boundaryGapDays = boundaryGapDays;
+  if (!Number.isFinite(boundaryGapDays) || boundaryGapDays < 0 || boundaryGapDays > 7) {
+    audit.reason = 'annual basic-share periods are not consecutive fiscal years';
+    return { value: null, audit };
+  }
+
+  const rawValue = ((current.value / prior.value) - 1) * 100;
+  audit.rawValue = rawValue;
+  if (!Number.isFinite(rawValue)) {
+    audit.reason = 'annual basic-share change is non-finite';
+    return { value: null, audit };
+  }
+  return { value: +rawValue.toFixed(4), audit };
+}
+
 function firstAnnualSeries(usGaap, tagNames, preferredUnit) {
   const candidates = [];
 
@@ -720,11 +834,19 @@ async function fetchFundamentals(sym, options = {}) {
   let sharesOutstanding = null;
   let roic = null;
   let fcfConversion = null;
+  let basicShareChange = null;
   let netDebtBalanceCandidates = [];
   let roicAudit = { reason: 'missing SEC company facts' };
   let fcfConversionAudit = { reason: 'missing SEC company facts' };
+  let basicShareChangeAudit = { reason: 'missing SEC company facts' };
 
   if (usGaap) {
+    const shareChangeResult = basicShareChangeFromTag(
+      usGaap.WeightedAverageNumberOfSharesOutstandingBasic,
+      Number.isFinite(options.asOfMs) ? options.asOfMs : Date.now()
+    );
+    basicShareChange = shareChangeResult.value;
+    basicShareChangeAudit = shareChangeResult.audit;
     netDebtBalanceCandidates = recentNetDebtBalanceCandidates(usGaap);
     const netIncome = firstAvailable(usGaap, ['NetIncomeLoss', 'ProfitLoss'], (tag) => latestAnnual(tag, 'USD'));
     const equity = firstAvailable(
@@ -1024,8 +1146,10 @@ async function fetchFundamentals(sym, options = {}) {
     annualFcfPeriodEnd,
     roic,
     fcfConversion,
+    basicShareChange,
     roicAudit,
     fcfConversionAudit,
+    basicShareChangeAudit,
     netDebtBalanceCandidates,
     sharesOutstanding: Number.isFinite(sharesOutstanding) && sharesOutstanding > 0 ? sharesOutstanding : null,
     sic,
@@ -1046,10 +1170,22 @@ async function fetchDisplayQualityMetrics(sym, sic) {
   };
 }
 
+// Controlled population entry point for the display-only annual basic-share
+// change. Exactly one Company Facts request; no submissions/profile refresh.
+async function fetchDisplayShareMetrics(sym, asOfMs = Date.now()) {
+  const result = await fetchFundamentals(sym, { displayMetricsOnly: true, asOfMs });
+  return {
+    basicShareChange: result.basicShareChange ?? null,
+    basicShareChangeAudit: result.basicShareChangeAudit || { reason: 'missing SEC CIK mapping' },
+  };
+}
+
 module.exports = {
   name: 'sec',
   health: client.health,
   fetchFundamentals,
   fetchDisplayQualityMetrics,
+  fetchDisplayShareMetrics,
   recentNetDebtBalanceCandidates,
+  basicShareChangeFromTag,
 };

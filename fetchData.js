@@ -137,7 +137,7 @@ async function refreshGroup(label, cache, ticker, maxAgeMs, fetchFn, source, sta
 /* ---- fundamentals (weekly): SEC-primary ---- */
 // name/sector/roe/debtEquity only now - pe/pb/beta moved to the daily valuation
 // group below since they're price-derived and price moves daily, not weekly.
-const FUNDAMENTALS_FIELDS = ['name', 'sector', 'roe', 'debtEquity', 'roic', 'fcfConversion'];
+const FUNDAMENTALS_FIELDS = ['name', 'sector', 'roe', 'debtEquity', 'roic', 'fcfConversion', 'basicShareChange'];
 // secEps/secBookValuePerShare ride along in the same weekly-cached entry purely
 // as internal fallback inputs for fetchValuation() - never part of companies.json.
 const FUNDAMENTALS_MERGE_FIELDS = [
@@ -158,6 +158,7 @@ const FUNDAMENTALS_MERGE_FIELDS = [
   'sic',
   'roicAudit',
   'fcfConversionAudit',
+  'basicShareChangeAudit',
   'netDebtBalanceCandidates',
 ];
 
@@ -445,6 +446,7 @@ async function main() {
       debtEquity: fundamentals.debtEquity ?? null,
       roic: fundamentals.roic ?? null,
       fcfConversion: fundamentals.fcfConversion ?? null,
+      basicShareChange: fundamentals.basicShareChange ?? null,
       revenueGrowth: fundamentals.revenueGrowth ?? null,
       epsGrowth: fundamentals.epsGrowth ?? null,
       fcfGrowth: fundamentals.fcfGrowth ?? null,
