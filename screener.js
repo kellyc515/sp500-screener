@@ -659,6 +659,11 @@ const STAT_METRICS = {
   fcfYield: { label: 'Annual FCF Yield %', lowerIsBetter: false },
   roic: { label: 'Annual GAAP ROIC %', lowerIsBetter: false },
   fcfConversion: { label: 'Annual FCF Conversion vs Net Income %', lowerIsBetter: false },
+  netDebtEbitda: {
+    label: 'Net Debt / EBITDA (TTM)',
+    lowerIsBetter: true,
+    description: 'Uses GAAP EBITDA; for REITs this is not the industry-adjusted EBITDAre measure.',
+  },
   valueOpportunity: { label: 'Value Opportunity', lowerIsBetter: false },
   trapRisk: { label: 'Trap Risk', lowerIsBetter: true }, // lower = safer, matches the coloring convention already used
   score: { label: 'Score', lowerIsBetter: false },
@@ -1718,18 +1723,19 @@ dashboardHTML +
 
 'function renderStatChart(container,metricId,ticker){' +
 'var cfg=STAT_METRICS[metricId];' +
+'var note=cfg.description?("<p class=\\"hint\\">"+escapeHtml(cfg.description)+"</p>"):"";' +
 'var values=METRIC_DIST[metricId]||[];' +
 'var d=STOCK_DETAIL[ticker];' +
 'var myValue=d.metrics[metricId];' +
 'var cov=d.scoreCoverage||{};' +
 'if(metricId==="score"&&cov.mainEligible===false){' +
 'var mainPct=Math.round((cov.main==null?0:cov.main)*100);' +
-'container.innerHTML="<p class=\\"hint\\">Insufficient data for universe Score ranking · "+mainPct+"% coverage. This stock is excluded from normal Score percentile/rank comparisons.</p>";return;}' +
+'container.innerHTML=note+"<p class=\\"hint\\">Insufficient data for universe Score ranking · "+mainPct+"% coverage. This stock is excluded from normal Score percentile/rank comparisons.</p>";return;}' +
 'if(metricId==="valueOpportunity"&&cov.valueOpportunityEligible===false){' +
 'var voPct=Math.round((cov.valueOpportunity==null?0:cov.valueOpportunity)*100);' +
-'container.innerHTML="<p class=\\"hint\\">Insufficient data for Value Opportunity ranking · "+voPct+"% coverage. This stock is excluded from normal Value Opportunity percentile/rank comparisons.</p>";return;}' +
+'container.innerHTML=note+"<p class=\\"hint\\">Insufficient data for Value Opportunity ranking · "+voPct+"% coverage. This stock is excluded from normal Value Opportunity percentile/rank comparisons.</p>";return;}' +
 'if(!values.length||myValue===null||myValue===undefined){' +
-'container.innerHTML="<p class=\\"hint\\">No data for this metric on this ticker.</p>";return;}' +
+'container.innerHTML=note+"<p class=\\"hint\\">No data for this metric on this ticker.</p>";return;}' +
 'var min=Math.min.apply(null,values),max=Math.max.apply(null,values);' +
 'var binCount=20;var span=(max-min)||1;var binWidth=span/binCount;' +
 'var bins=new Array(binCount).fill(0);' +
@@ -1750,7 +1756,7 @@ dashboardHTML +
 'return "<rect x=\\""+(i*barW+1)+"\\" y=\\""+(h-barH)+"\\" width=\\""+(barW-2)+"\\" height=\\""+barH+"\\" fill=\\""+fill+"\\"></rect>";' +
 '}).join("");' +
 'var markerX=myBin*barW+barW/2;' +
-'container.innerHTML=' +
+'container.innerHTML=note+' +
 '"<svg viewBox=\\"0 0 "+w+" "+h+"\\" width=\\"100%\\" height=\\"130\\" preserveAspectRatio=\\"none\\">"+bars+' +
 '"<line x1=\\""+markerX+"\\" y1=\\"0\\" x2=\\""+markerX+"\\" y2=\\""+h+"\\" stroke=\\""+markColor+"\\" stroke-width=\\"2\\" stroke-dasharray=\\"3,2\\"></line>"+' +
 '"</svg>"+' +
@@ -2040,7 +2046,7 @@ const TOP_TIER = 'A';
 // scoreUniverse(), not a separate risk model.
 const RISK_CLASSIFICATIONS = new Set([CLASSIFICATION.POSSIBLE_VALUE_TRAP, CLASSIFICATION.DISTRESSED]);
 
-// Lean by design, per spec - not the full 23-field companies.json record,
+// Lean by design, per spec - not the full 24-field companies.json record,
 // just what's needed to compute deltas and explain them.
 const HISTORY_FIELDS = [
   'composite', 'tier', 'classification', 'valueOpportunity', 'valueTrapRisk',

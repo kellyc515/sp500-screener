@@ -98,7 +98,7 @@ function mergeCacheEntry(cache, ticker, fields, source) {
     // The two display-only annual quality ratios deliberately overwrite with
     // null when a newer filing fails their strict economic-validity checks;
     // preserving an older numeric value would misrepresent it as current.
-    const nullIsMeaningful = k === 'roic' || k === 'fcfConversion';
+    const nullIsMeaningful = k === 'roic' || k === 'fcfConversion' || k === 'netDebtEbitda';
     if ((v === null || v === undefined) && !nullIsMeaningful) continue; // preserve existing null-protection for every established field
     entry[k] = v;
     changed = true;
@@ -158,12 +158,13 @@ const FUNDAMENTALS_MERGE_FIELDS = [
   'sic',
   'roicAudit',
   'fcfConversionAudit',
+  'netDebtBalanceCandidates',
 ];
 
 // Daily, price-derived valuation fields (ret3m/ret6m/ret1y/pctBelow52wHigh
 // included: Finnhub's 13/26/52-week returns and 52-week high come from the
 // same /stock/metric call as beta/EPS).
-const VALUATION_FIELDS = ['pe', 'pb', 'beta', 'ret3m', 'ret6m', 'ret1y', 'pctBelow52wHigh', 'evEbitda', 'fcfYield'];
+const VALUATION_FIELDS = ['pe', 'pb', 'beta', 'ret3m', 'ret6m', 'ret1y', 'pctBelow52wHigh', 'evEbitda', 'fcfYield', 'netDebtEbitda'];
 
 // SIC 6000-6499 covers banks, credit institutions, securities brokers and
 // insurers. Conventional enterprise value/EBITDA is not comparable for these
@@ -193,6 +194,76 @@ function hasCurrentPositiveTtmEbitda(rows, nowMs = Date.now()) {
   }
 
   return values.reduce((sum, value) => sum + value, 0) > 0;
+}
+
+const NET_DEBT_BALANCE_MAX_AGE_MS = 200 * 24 * 60 * 60 * 1000;
+
+function calculateNetDebtEbitda(metrics, fundamentalsEntry, nowMs = Date.now()) {
+  const sic = fundamentalsEntry && fundamentalsEntry.sic;
+  const ebitdaAudit = metrics && metrics.ttmEbitdaAudit;
+  const audit = {
+    reason: null,
+    sic: Number.isInteger(sic) ? sic : null,
+    latestEbitdaPeriod: ebitdaAudit ? ebitdaAudit.latestPeriod : null,
+    ttmEbitda: ebitdaAudit ? ebitdaAudit.ttmEbitda : null,
+    ttmEbitdaUnit: 'USD millions',
+    ebitdaValidation: ebitdaAudit || null,
+    selectedBalance: null,
+    balanceOffsetDays: null,
+    netDebt: null,
+    netDebtUnit: 'USD',
+    interpretation: sic === 6798 ? 'REIT: uses GAAP EBITDA, not EBITDAre.' : null,
+  };
+
+  if (!Number.isInteger(sic)) audit.reason = 'missing_valid_sic';
+  else if (isExcludedFinancialInstitution(sic)) audit.reason = 'financial_institution_excluded';
+  else if (!ebitdaAudit) audit.reason = 'ttm_ebitda_audit_missing';
+  else if (ebitdaAudit.reason) audit.reason = ebitdaAudit.reason;
+  if (audit.reason) return { value: null, audit };
+
+  const targetMs = new Date(ebitdaAudit.latestPeriod).getTime();
+  if (!Number.isFinite(targetMs)) {
+    audit.reason = 'quarterly_ebitda_invalid_period';
+    return { value: null, audit };
+  }
+
+  const candidates = Array.isArray(fundamentalsEntry.netDebtBalanceCandidates)
+    ? fundamentalsEntry.netDebtBalanceCandidates
+    : [];
+  const aligned = candidates
+    .map((candidate) => ({
+      candidate,
+      offsetDays: Math.round((new Date(candidate.date).getTime() - targetMs) / (24 * 60 * 60 * 1000)),
+    }))
+    .filter((row) => Number.isFinite(row.offsetDays) && Math.abs(row.offsetDays) <= 14)
+    .sort((a, b) => Math.abs(a.offsetDays) - Math.abs(b.offsetDays) || String(b.candidate.date).localeCompare(String(a.candidate.date)));
+  if (!aligned.length) {
+    audit.reason = 'aligned_sec_balance_missing';
+    return { value: null, audit };
+  }
+
+  const selected = aligned[0];
+  audit.selectedBalance = selected.candidate;
+  audit.balanceOffsetDays = selected.offsetDays;
+  const balanceMs = new Date(selected.candidate.date).getTime();
+  if (!Number.isFinite(balanceMs) || balanceMs > nowMs + 14 * 24 * 60 * 60 * 1000 || nowMs - balanceMs > NET_DEBT_BALANCE_MAX_AGE_MS) {
+    audit.reason = 'sec_balance_stale_or_future';
+  } else if (selected.candidate.reason) {
+    audit.reason = selected.candidate.reason;
+  } else if (!Number.isFinite(selected.candidate.netDebt)) {
+    audit.reason = 'net_debt_nonfinite';
+  }
+  if (audit.reason) return { value: null, audit };
+
+  audit.netDebt = selected.candidate.netDebt;
+  const denominator = ebitdaAudit.ttmEbitda * 1e6;
+  const rawValue = selected.candidate.netDebt / denominator;
+  if (!Number.isFinite(rawValue)) {
+    audit.reason = 'net_debt_ebitda_nonfinite';
+    return { value: null, audit };
+  }
+  audit.rawValue = rawValue;
+  return { value: +rawValue.toFixed(4), audit };
 }
 
 function mergeFields(keys, ...sources) {
@@ -254,6 +325,7 @@ async function fetchValuation(sym, fundamentalsEntry) {
   }
 
   let fcfYield = null;
+  const netDebtResult = calculateNetDebtEbitda(metrics, fundamentalsEntry);
   const calculatedMarketCapitalization = Number.isFinite(fundamentalsEntry.sharesOutstanding) &&
     fundamentalsEntry.sharesOutstanding > 0 && Number.isFinite(quote.price) && quote.price > 0
     ? quote.price * fundamentalsEntry.sharesOutstanding
@@ -294,6 +366,7 @@ async function fetchValuation(sym, fundamentalsEntry) {
     pctBelow52wHigh,
     evEbitda,
     fcfYield,
+    netDebtEbitda: netDebtResult.value,
     // Internal audit trail only; none of these fields enter companies.json.
     annualOcf: fundamentalsEntry.annualOcf ?? null,
     annualCapex: fundamentalsEntry.annualCapex ?? null,
@@ -303,6 +376,14 @@ async function fetchValuation(sym, fundamentalsEntry) {
     calculatedMarketCapitalization,
     finnhubMarketCapitalization,
     marketCapComparisonRatio,
+    // Internal Net Debt/EBITDA audit inputs. These stay in quote cache only.
+    quarterlyEbitda: metrics.quarterlyEbitda ?? [],
+    ttmEbitda: metrics.ttmEbitda ?? null,
+    ttmEbitdaLatestPeriod: metrics.ttmEbitdaLatestPeriod ?? null,
+    ttmEbitdaAudit: metrics.ttmEbitdaAudit ?? null,
+    enterpriseValue: metrics.enterpriseValue ?? null,
+    ebitdPerShareTTM: metrics.ebitdPerShareTTM ?? null,
+    netDebtEbitdaAudit: netDebtResult.audit,
     // Not part of companies.json's 21-field output (pe/pb/ret1y/pctBelow52wHigh
     // already derive from it) - cached here purely so the report's detail
     // panel can show a real, timestamped price without a live browser-side
@@ -359,6 +440,7 @@ async function main() {
       pctBelow52wHigh: quote.pctBelow52wHigh ?? null,
       evEbitda: quote.evEbitda ?? null,
       fcfYield: quote.fcfYield ?? null,
+      netDebtEbitda: quote.netDebtEbitda ?? null,
       roe: fundamentals.roe ?? null,
       debtEquity: fundamentals.debtEquity ?? null,
       roic: fundamentals.roic ?? null,
@@ -413,7 +495,14 @@ async function main() {
   console.log('\n  Next:  node screener.js\n');
 }
 
-main().catch((err) => {
-  console.error('\n  Fatal error: ' + err.message);
-  process.exit(1);
-});
+if (require.main === module) {
+  main().catch((err) => {
+    console.error('\n  Fatal error: ' + err.message);
+    process.exit(1);
+  });
+}
+
+// Exported for the controlled, metric-only population/audit workflow. Requiring
+// this module does not run the normal refresh pipeline, so unrelated providers
+// and cache groups remain untouched.
+module.exports = { calculateNetDebtEbitda };

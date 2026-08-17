@@ -24,6 +24,107 @@ const finiteMetricNum = (v) => {
   return Number.isFinite(n) ? n : null;
 };
 const ymd = (d) => d.toISOString().slice(0, 10);
+const DAY_MS = 24 * 60 * 60 * 1000;
+const EBITDA_SERIES_MAX_AGE_MS = 200 * DAY_MS;
+
+// Build the complete validation packet for display-only TTM EBITDA metrics.
+// Finnhub reports quarterly EBITDA, enterprise value, and market cap in USD
+// millions. Nothing here feeds an existing scoring input.
+function validateTtmEbitda(quarterlyEbitda, rawMetrics, nowMs = Date.now()) {
+  const enterpriseValue = finiteMetricNum(rawMetrics.enterpriseValue);
+  const marketCapitalization = finiteMetricNum(rawMetrics.marketCapitalization);
+  const evEbitdaTTM = finiteMetricNum(rawMetrics.evEbitdaTTM);
+  const ebitdPerShareTTM = finiteMetricNum(rawMetrics.ebitdPerShareTTM);
+  const audit = {
+    reason: null,
+    quarterlyEbitda,
+    unit: 'USD millions',
+    enterpriseValue,
+    marketCapitalization,
+    evEbitdaTTM,
+    ebitdPerShareTTM,
+    ttmEbitda: null,
+    latestPeriod: quarterlyEbitda[0] ? quarterlyEbitda[0].period : null,
+    spanDays: null,
+    gapDays: [],
+    evDerivedEbitda: null,
+    crosscheckDifferencePct: null,
+    companyScale: null,
+    ebitdaCompanyScalePct: null,
+  };
+
+  if (quarterlyEbitda.length < 4 || quarterlyEbitda.some((row) => !Number.isFinite(row.value))) {
+    audit.reason = 'quarterly_ebitda_incomplete_or_nonfinite';
+    return audit;
+  }
+
+  const latestFour = quarterlyEbitda.slice(0, 4);
+  const dates = latestFour.map((row) => new Date(row.period).getTime());
+  if (dates.some((value) => !Number.isFinite(value))) {
+    audit.reason = 'quarterly_ebitda_invalid_period';
+    return audit;
+  }
+  if (new Set(dates).size !== 4) {
+    audit.reason = 'quarterly_ebitda_duplicate_period';
+    return audit;
+  }
+  if (dates[0] > nowMs + 14 * DAY_MS) {
+    audit.reason = 'quarterly_ebitda_future_dated';
+    return audit;
+  }
+  if (nowMs - dates[0] > EBITDA_SERIES_MAX_AGE_MS) {
+    audit.reason = 'quarterly_ebitda_stale';
+    return audit;
+  }
+
+  audit.spanDays = (dates[0] - dates[3]) / DAY_MS;
+  audit.gapDays = [0, 1, 2].map((index) => (dates[index] - dates[index + 1]) / DAY_MS);
+  if (audit.spanDays < 200 || audit.spanDays > 400) {
+    audit.reason = 'quarterly_ebitda_period_span_invalid';
+    return audit;
+  }
+  if (audit.gapDays.some((days) => days < 45 || days > 140)) {
+    audit.reason = 'quarterly_ebitda_period_gap_invalid';
+    return audit;
+  }
+
+  audit.ttmEbitda = latestFour.reduce((sum, row) => sum + row.value, 0);
+  if (!Number.isFinite(audit.ttmEbitda) || audit.ttmEbitda <= 0) {
+    audit.reason = 'quarterly_ebitda_nonpositive';
+    return audit;
+  }
+
+  if (!Number.isFinite(enterpriseValue) || !Number.isFinite(evEbitdaTTM) || evEbitdaTTM === 0) {
+    audit.reason = 'ev_ebitda_crosscheck_missing_or_zero';
+    return audit;
+  }
+  audit.evDerivedEbitda = enterpriseValue / evEbitdaTTM;
+  if (!Number.isFinite(audit.evDerivedEbitda) || audit.evDerivedEbitda <= 0) {
+    audit.reason = 'ev_derived_ebitda_nonpositive';
+    return audit;
+  }
+  audit.crosscheckDifferencePct = Math.abs(audit.evDerivedEbitda - audit.ttmEbitda) /
+    Math.abs(audit.ttmEbitda) * 100;
+  if (!Number.isFinite(audit.crosscheckDifferencePct) || audit.crosscheckDifferencePct > 10) {
+    audit.reason = 'ebitda_crosscheck_contradiction';
+    return audit;
+  }
+  if (!Number.isFinite(ebitdPerShareTTM) || ebitdPerShareTTM <= 0) {
+    audit.reason = 'ebitda_per_share_missing_or_nonpositive';
+    return audit;
+  }
+
+  audit.companyScale = Number.isFinite(marketCapitalization)
+    ? Math.max(Math.abs(enterpriseValue), marketCapitalization)
+    : null;
+  audit.ebitdaCompanyScalePct = Number.isFinite(audit.companyScale) && audit.companyScale > 0
+    ? audit.ttmEbitda / audit.companyScale * 100
+    : null;
+  if (!Number.isFinite(audit.ebitdaCompanyScalePct) || audit.ebitdaCompanyScalePct < 0.5) {
+    audit.reason = 'quarterly_ebitda_too_small_relative_to_company_scale';
+  }
+  return audit;
+}
 
 async function fetchQuote(sym) {
   const r = await client.getJSON(FINNHUB_BASE + '/quote?symbol=' + sym + '&token=' + key(), sym + ' quote');
@@ -44,6 +145,7 @@ async function fetchMetrics(sym) {
     .filter((row) => row.period && row.value !== null)
     .sort((a, b) => String(b.period).localeCompare(String(a.period)))
     .slice(0, 4);
+  const ttmEbitdaAudit = validateTtmEbitda(quarterlyEbitda, m);
   return {
     beta: num(m.beta),
     epsTTM: num(m.epsTTM),
@@ -61,11 +163,15 @@ async function fetchMetrics(sym) {
     week52High: finiteMetricNum(m['52WeekHigh']),
     evEbitdaTTM: finiteMetricNum(m.evEbitdaTTM),
     ebitdPerShareTTM: finiteMetricNum(m.ebitdPerShareTTM),
+    enterpriseValue: finiteMetricNum(m.enterpriseValue),
     // Validation-only cross-check for class/share-count mismatches in the
     // SEC-shares x cached-price FCF-yield denominator. Finnhub reports this
     // field in USD millions; it is never used as the denominator itself.
     marketCapitalization: finiteMetricNum(m.marketCapitalization),
     quarterlyEbitda,
+    ttmEbitda: ttmEbitdaAudit.reason === null ? ttmEbitdaAudit.ttmEbitda : null,
+    ttmEbitdaLatestPeriod: ttmEbitdaAudit.latestPeriod,
+    ttmEbitdaAudit,
   };
 }
 
@@ -124,4 +230,5 @@ module.exports = {
   fetchMetrics,
   fetchAnalyst,
   fetchSentiment,
+  validateTtmEbitda,
 };

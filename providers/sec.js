@@ -490,6 +490,22 @@ function selectDebtAt(usGaap, targetDate, preferredAccn) {
     return fact ? { ...fact, tagName } : null;
   };
 
+  // The conventional current/noncurrent pair is also a useful same-filing
+  // reconciliation target when a filer supplies more than one consolidated
+  // total. ON Semiconductor, for example, reports both a generic $1.6M
+  // DebtAndCapitalLeaseObligations fact and a $4.4594B
+  // LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities fact;
+  // only the latter reconciles to its complete current/noncurrent debt pair.
+  // Evaluate the pair once, but never add it to a selected consolidated total.
+  const conventionalCurrent = get('LongTermDebtCurrent');
+  const conventionalNoncurrent = get('LongTermDebtNoncurrent');
+  const conventionalShortTerm = get('ShortTermBorrowings');
+  const hasConventionalComponents = conventionalCurrent && conventionalNoncurrent;
+  const conventionalValue = hasConventionalComponents
+    ? conventionalCurrent.value + conventionalNoncurrent.value + (conventionalShortTerm ? conventionalShortTerm.value : 0)
+    : null;
+  const conventionalFacts = [conventionalCurrent, conventionalNoncurrent, conventionalShortTerm].filter(Boolean);
+
   const families = [
     {
       totals: ['DebtAndCapitalLeaseObligations', 'LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities'],
@@ -504,10 +520,50 @@ function selectDebtAt(usGaap, targetDate, preferredAccn) {
   ];
 
   for (const family of families) {
-    const total = family.totals.map(get).find(Boolean) || null;
+    const totals = family.totals.map(get).filter(Boolean);
     const current = get(family.current);
     const noncurrent = get(family.noncurrent);
     const hasComponents = current && noncurrent;
+    const componentValue = hasComponents ? current.value + noncurrent.value : null;
+
+    // Multiple same-date/same-accession totals must not be resolved by object
+    // order. Use complete component representations to identify the one
+    // trustworthy total. If totals disagree and components cannot uniquely
+    // disambiguate them, fail closed instead of guessing.
+    if (totals.length > 1) {
+      const totalsAgree = totals.every((total) => debtValuesReconcile(totals[0].value, [total.value]));
+      const reconciled = totals.filter((total) =>
+        (hasComponents && debtValuesReconcile(total.value, [componentValue])) ||
+        (hasConventionalComponents && debtValuesReconcile(total.value, [conventionalValue]))
+      );
+      const reconciledAgree = reconciled.length > 1 &&
+        reconciled.every((total) => debtValuesReconcile(reconciled[0].value, [total.value]));
+
+      if (reconciled.length === 1 || reconciledAgree) {
+        const selected = reconciled[0];
+        return {
+          value: selected.value,
+          reason: null,
+          method: [selected.tagName],
+          facts: [...totals, current, noncurrent, ...conventionalFacts].filter(Boolean),
+        };
+      }
+      if (totalsAgree) {
+        return {
+          value: totals[0].value,
+          reason: null,
+          method: [totals[0].tagName],
+          facts: [...totals, current, noncurrent].filter(Boolean),
+        };
+      }
+      return {
+        value: null,
+        reason: 'conflicting consolidated debt totals without one reconciled representation',
+        facts: [...totals, current, noncurrent, ...conventionalFacts].filter(Boolean),
+      };
+    }
+
+    const total = totals[0] || null;
 
     if (total && hasComponents && !debtValuesReconcile(total.value, [current.value, noncurrent.value])) {
       return { value: null, reason: 'consolidated debt total contradicts current/noncurrent components', facts: [total, current, noncurrent] };
@@ -516,9 +572,9 @@ function selectDebtAt(usGaap, targetDate, preferredAccn) {
     if (hasComponents) return { value: current.value + noncurrent.value, reason: null, method: [current.tagName, noncurrent.tagName], facts: [current, noncurrent] };
   }
 
-  const current = get('LongTermDebtCurrent');
-  const noncurrent = get('LongTermDebtNoncurrent');
-  const shortTerm = get('ShortTermBorrowings');
+  const current = conventionalCurrent;
+  const noncurrent = conventionalNoncurrent;
+  const shortTerm = conventionalShortTerm;
   const facts = [current, noncurrent, shortTerm].filter(Boolean);
   if (!current || !noncurrent) {
     return {
@@ -552,6 +608,53 @@ function balanceInputsAt(usGaap, targetDate, preferredAccn) {
     : null;
 
   return { targetDate, debt, equity, cash, assets, investedCapital };
+}
+
+// Recent balance-sheet candidates for display-only Net Debt/EBITDA. The
+// orchestrator aligns one of these exact SEC dates to Finnhub's latest EBITDA
+// quarter. Keep rejected candidates too so a null result remains auditable.
+function recentNetDebtBalanceCandidates(usGaap, nowMs = Date.now()) {
+  const assetsRows = unitsArray(usGaap.Assets, 'USD') || [];
+  const byDate = new Map();
+  for (const row of assetsRows) {
+    if (!row || !row.end || !['10-Q', '10-K'].includes(row.form) || !Number.isFinite(num(row.val))) continue;
+    const endMs = new Date(row.end).getTime();
+    if (!Number.isFinite(endMs) || endMs > nowMs + 14 * 24 * 60 * 60 * 1000 || nowMs - endMs > 550 * 24 * 60 * 60 * 1000) continue;
+    const candidate = {
+      date: row.end,
+      form: row.form,
+      filed: row.filed || null,
+      accession: row.accn || null,
+      assets: num(row.val),
+    };
+    const existing = byDate.get(row.end);
+    if (!existing || String(candidate.filed).localeCompare(String(existing.filed)) > 0) byDate.set(row.end, candidate);
+  }
+
+  return [...byDate.values()]
+    .sort((a, b) => String(b.date).localeCompare(String(a.date)))
+    .slice(0, 8)
+    .map((anchor) => {
+      const balance = balanceInputsAt(usGaap, anchor.date, anchor.accession);
+      const debtFactsShareDate = Array.isArray(balance.debt.facts) &&
+        balance.debt.facts.every((fact) => fact.end === anchor.date);
+      const cashSharesDate = balance.cash && balance.cash.end === anchor.date;
+      let reason = balance.debt.reason || null;
+      if (!reason && !Number.isFinite(balance.debt.value)) reason = 'debt_representation_missing';
+      if (!reason && !debtFactsShareDate) reason = 'debt_balance_date_mismatch';
+      if (!reason && !balance.cash) reason = 'cash_missing';
+      if (!reason && !cashSharesDate) reason = 'cash_balance_date_mismatch';
+      const netDebt = !reason && Number.isFinite(balance.debt.value) && balance.cash
+        ? balance.debt.value - balance.cash.value
+        : null;
+      return {
+        ...anchor,
+        debt: balance.debt,
+        cash: balance.cash,
+        netDebt,
+        reason,
+      };
+    });
 }
 
 function priorBalanceDate(periodStart) {
@@ -617,10 +720,12 @@ async function fetchFundamentals(sym, options = {}) {
   let sharesOutstanding = null;
   let roic = null;
   let fcfConversion = null;
+  let netDebtBalanceCandidates = [];
   let roicAudit = { reason: 'missing SEC company facts' };
   let fcfConversionAudit = { reason: 'missing SEC company facts' };
 
   if (usGaap) {
+    netDebtBalanceCandidates = recentNetDebtBalanceCandidates(usGaap);
     const netIncome = firstAvailable(usGaap, ['NetIncomeLoss', 'ProfitLoss'], (tag) => latestAnnual(tag, 'USD'));
     const equity = firstAvailable(
       usGaap,
@@ -921,6 +1026,7 @@ async function fetchFundamentals(sym, options = {}) {
     fcfConversion,
     roicAudit,
     fcfConversionAudit,
+    netDebtBalanceCandidates,
     sharesOutstanding: Number.isFinite(sharesOutstanding) && sharesOutstanding > 0 ? sharesOutstanding : null,
     sic,
   };
@@ -945,4 +1051,5 @@ module.exports = {
   health: client.health,
   fetchFundamentals,
   fetchDisplayQualityMetrics,
+  recentNetDebtBalanceCandidates,
 };
