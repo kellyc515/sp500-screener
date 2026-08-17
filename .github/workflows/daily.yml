@@ -115,5 +115,5 @@ jobs:
             git -c user.name="github-actions[bot]" \
                 -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
                 commit -m "Daily refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git push origin state
+            git push origin HEAD:refs/heads/state
           fi
