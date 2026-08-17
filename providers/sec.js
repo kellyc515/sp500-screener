@@ -164,6 +164,12 @@ function annualSeries(tag, preferredUnit) {
       start: row.start,
       end: row.end,
       value: num(row.val),
+      fy: row.fy ?? null,
+      fp: row.fp ?? null,
+      form: row.form || null,
+      filed: row.filed || null,
+      accn: row.accn || null,
+      frame: row.frame || null,
     });
   }
 
@@ -192,7 +198,7 @@ function firstAnnualSeries(usGaap, tagNames, preferredUnit) {
     String(b.latestEnd).localeCompare(String(a.latestEnd))
   );
 
-  return candidates[0].series;
+  return candidates[0].series.map((row) => ({ ...row, tagName: candidates[0].tagName }));
 }
 
 
@@ -233,7 +239,13 @@ function bestRevenueSeries(usGaap) {
           start: row.start,
           end: row.end,
           value: row.value,
-          sourceTag: tagName
+          sourceTag: tagName,
+          fy: row.fy,
+          fp: row.fp,
+          form: row.form,
+          filed: row.filed,
+          accn: row.accn,
+          frame: row.frame,
         });
       }
     }
@@ -242,6 +254,24 @@ function bestRevenueSeries(usGaap) {
   return [...byPeriod.values()].sort((a, b) =>
     String(b.end).localeCompare(String(a.end))
   );
+}
+
+// Separate allowlist for the display-only annual quality metrics. Including
+// assessed tax is required for issuers such as NCLH, but keeping it out of
+// bestRevenueSeries() ensures this addition cannot change the existing
+// revenueGrowth scoring input.
+function bestQualityMetricRevenueSeries(usGaap) {
+  const base = bestRevenueSeries(usGaap);
+  const includingTax = annualSeries(usGaap.RevenueFromContractWithCustomerIncludingAssessedTax, 'USD')
+    .map((row) => ({ ...row, sourceTag: 'RevenueFromContractWithCustomerIncludingAssessedTax' }));
+  const byPeriod = new Map();
+  for (const row of [...base, ...includingTax]) {
+    if (!Number.isFinite(row.value) || row.value <= 0) continue;
+    const key = `${row.start}|${row.end}`;
+    const existing = byPeriod.get(key);
+    if (!existing || row.value > existing.value) byPeriod.set(key, row);
+  }
+  return [...byPeriod.values()].sort((a, b) => String(b.end).localeCompare(String(a.end)));
 }
 
 // Match two already-built annual series by exact start/end dates.
@@ -390,6 +420,145 @@ function sumLatestInstant(usGaap, tagNames, preferredUnit) {
   return found ? sum : null;
 }
 
+const ANNUAL_QUALITY_MAX_AGE_MS = 550 * 24 * 60 * 60 * 1000;
+const BALANCE_DATE_TOLERANCE_DAYS = 3;
+const DEBT_RECONCILIATION_REL_TOLERANCE = 0.01;
+const DEBT_RECONCILIATION_ABS_TOLERANCE = 1_000_000;
+
+function annualPeriodIsCurrent(end, nowMs = Date.now()) {
+  const endMs = new Date(end).getTime();
+  return Number.isFinite(endMs) &&
+    endMs <= nowMs + 14 * 24 * 60 * 60 * 1000 &&
+    nowMs - endMs <= ANNUAL_QUALITY_MAX_AGE_MS;
+}
+
+function annualFactForPeriod(series, period, preferredAccn, preferLargest = false) {
+  const matches = series.filter((row) => row.start === period.start && row.end === period.end);
+  if (!matches.length) return null;
+  const sameAccession = preferredAccn ? matches.filter((row) => row.accn === preferredAccn) : [];
+  const pool = sameAccession.length ? sameAccession : matches;
+  if (preferLargest) return [...pool].sort((a, b) => b.value - a.value)[0];
+  return pool[0];
+}
+
+function instantFactAt(tag, preferredUnit, targetDate, preferredAccn) {
+  const arr = unitsArray(tag, preferredUnit);
+  if (!arr || !targetDate) return null;
+  const targetMs = new Date(targetDate).getTime();
+  if (!Number.isFinite(targetMs)) return null;
+
+  const candidates = arr
+    .filter((row) => row && row.end && row.val !== null && row.val !== undefined)
+    .map((row) => ({
+      value: num(row.val),
+      end: row.end,
+      form: row.form || null,
+      filed: row.filed || null,
+      accn: row.accn || null,
+      frame: row.frame || null,
+      offsetDays: Math.round((new Date(row.end).getTime() - targetMs) / (24 * 60 * 60 * 1000)),
+    }))
+    .filter((row) => Number.isFinite(row.value) && Math.abs(row.offsetDays) <= BALANCE_DATE_TOLERANCE_DAYS)
+    .sort((a, b) => {
+      const aSame = preferredAccn && a.accn === preferredAccn ? 1 : 0;
+      const bSame = preferredAccn && b.accn === preferredAccn ? 1 : 0;
+      if (aSame !== bSame) return bSame - aSame;
+      if (Math.abs(a.offsetDays) !== Math.abs(b.offsetDays)) return Math.abs(a.offsetDays) - Math.abs(b.offsetDays);
+      return String(b.filed).localeCompare(String(a.filed));
+    });
+
+  return candidates[0] || null;
+}
+
+function firstInstantFactAt(usGaap, tagNames, targetDate, preferredAccn) {
+  for (const tagName of tagNames) {
+    const fact = instantFactAt(usGaap[tagName], 'USD', targetDate, preferredAccn);
+    if (fact) return { ...fact, tagName };
+  }
+  return null;
+}
+
+function debtValuesReconcile(total, components) {
+  const componentTotal = components.reduce((sum, value) => sum + value, 0);
+  const tolerance = Math.max(DEBT_RECONCILIATION_ABS_TOLERANCE, Math.abs(total) * DEBT_RECONCILIATION_REL_TOLERANCE);
+  return Math.abs(total - componentTotal) <= tolerance;
+}
+
+function selectDebtAt(usGaap, targetDate, preferredAccn) {
+  const get = (tagName) => {
+    const fact = instantFactAt(usGaap[tagName], 'USD', targetDate, preferredAccn);
+    return fact ? { ...fact, tagName } : null;
+  };
+
+  const families = [
+    {
+      totals: ['DebtAndCapitalLeaseObligations', 'LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities'],
+      current: 'LongTermDebtAndCapitalLeaseObligationsCurrent',
+      noncurrent: 'LongTermDebtAndCapitalLeaseObligations',
+    },
+    {
+      totals: ['LongTermDebtAndFinanceLeaseObligations'],
+      current: 'LongTermDebtAndFinanceLeaseObligationsCurrent',
+      noncurrent: 'LongTermDebtAndFinanceLeaseObligationsNoncurrent',
+    },
+  ];
+
+  for (const family of families) {
+    const total = family.totals.map(get).find(Boolean) || null;
+    const current = get(family.current);
+    const noncurrent = get(family.noncurrent);
+    const hasComponents = current && noncurrent;
+
+    if (total && hasComponents && !debtValuesReconcile(total.value, [current.value, noncurrent.value])) {
+      return { value: null, reason: 'consolidated debt total contradicts current/noncurrent components', facts: [total, current, noncurrent] };
+    }
+    if (total) return { value: total.value, reason: null, method: [total.tagName], facts: [total, current, noncurrent].filter(Boolean) };
+    if (hasComponents) return { value: current.value + noncurrent.value, reason: null, method: [current.tagName, noncurrent.tagName], facts: [current, noncurrent] };
+  }
+
+  const current = get('LongTermDebtCurrent');
+  const noncurrent = get('LongTermDebtNoncurrent');
+  const shortTerm = get('ShortTermBorrowings');
+  const facts = [current, noncurrent, shortTerm].filter(Boolean);
+  if (!current || !noncurrent) {
+    return {
+      value: null,
+      reason: facts.length
+        ? 'incomplete conventional current/noncurrent debt representation'
+        : 'no supported debt representation at balance date',
+      facts,
+    };
+  }
+
+  return {
+    value: current.value + noncurrent.value + (shortTerm ? shortTerm.value : 0),
+    reason: null,
+    method: facts.map((fact) => fact.tagName),
+    facts,
+  };
+}
+
+function balanceInputsAt(usGaap, targetDate, preferredAccn) {
+  const debt = selectDebtAt(usGaap, targetDate, preferredAccn);
+  const equity = firstInstantFactAt(usGaap, [
+    'StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest',
+    'StockholdersEquity',
+  ], targetDate, preferredAccn);
+  const cash = firstInstantFactAt(usGaap, ['CashAndCashEquivalentsAtCarryingValue'], targetDate, preferredAccn);
+  const assets = firstInstantFactAt(usGaap, ['Assets'], targetDate, preferredAccn);
+
+  const investedCapital = Number.isFinite(debt.value) && equity && cash
+    ? debt.value + equity.value - cash.value
+    : null;
+
+  return { targetDate, debt, equity, cash, assets, investedCapital };
+}
+
+function priorBalanceDate(periodStart) {
+  const startMs = new Date(periodStart).getTime();
+  return Number.isFinite(startMs) ? new Date(startMs - 24 * 60 * 60 * 1000).toISOString().slice(0, 10) : null;
+}
+
 /* ---- per-company lookups ---- */
 async function fetchSubmissions(cik) {
   const r = await client.getJSON(SEC_DATA + '/submissions/CIK' + cik + '.json', 'CIK' + cik + ' submissions');
@@ -401,7 +570,7 @@ async function fetchCompanyFacts(cik) {
   return r.ok ? r.data : null;
 }
 
-async function fetchFundamentals(sym) {
+async function fetchFundamentals(sym, options = {}) {
   const map = await ensureCikMap();
   // SEC's own files use dash for share classes (BRK-B); tickers coming from
   // universe.json / most market data use dot notation (BRK.B) - normalize.
@@ -409,13 +578,27 @@ async function fetchFundamentals(sym) {
   const entry = map[secTicker] || map[sym.toUpperCase()];
   if (!entry) return {}; // not in SEC's map (e.g. wrong ticker/exchange) - let FMP cover it entirely
 
-  const [submissions, facts] = await Promise.all([
-    fetchSubmissions(entry.cik),
-    fetchCompanyFacts(entry.cik),
-  ]);
+  const displayMetricsOnly = options.displayMetricsOnly === true;
+  const [submissions, facts] = displayMetricsOnly
+    ? [null, await fetchCompanyFacts(entry.cik)]
+    : await Promise.all([
+      fetchSubmissions(entry.cik),
+      fetchCompanyFacts(entry.cik),
+    ]);
 
   const usGaap = facts && facts.facts && facts.facts['us-gaap'];
   const dei = facts && facts.facts && facts.facts['dei'];
+  const rawSic = displayMetricsOnly ? options.sic : submissions && submissions.sic;
+  const sicNumber = Number(rawSic);
+  const sic = Number.isFinite(sicNumber) && sicNumber > 0 ? sicNumber : null;
+  const qualityMetricEligibilityReason = !Number.isInteger(sic)
+    ? 'missing valid SIC for comparability check'
+    : sic >= 6000 && sic <= 6499
+      ? 'excluded financial institution SIC 6000-6499'
+      : sic === 6798
+        ? 'excluded REIT SIC 6798'
+        : null;
+  const excludedQualityMetricSector = qualityMetricEligibilityReason !== null;
 
   let roe = null;
   let debtEquity = null;
@@ -432,6 +615,10 @@ async function fetchFundamentals(sym) {
   let annualFcfPeriodStart = null;
   let annualFcfPeriodEnd = null;
   let sharesOutstanding = null;
+  let roic = null;
+  let fcfConversion = null;
+  let roicAudit = { reason: 'missing SEC company facts' };
+  let fcfConversionAudit = { reason: 'missing SEC company facts' };
 
   if (usGaap) {
     const netIncome = firstAvailable(usGaap, ['NetIncomeLoss', 'ProfitLoss'], (tag) => latestAnnual(tag, 'USD'));
@@ -474,6 +661,7 @@ async function fetchFundamentals(sym) {
 
     // Revenue growth: compare the two most recent comparable annual 10-K periods.
     const revenueSeries = bestRevenueSeries(usGaap);
+    const qualityRevenueSeries = bestQualityMetricRevenueSeries(usGaap);
 
     if (revenueSeries.length >= 2) {
       revenueGrowth = growthPct(
@@ -564,6 +752,107 @@ async function fetchFundamentals(sym) {
       }
     }
 
+    // Display-only annual GAAP ROIC. This is intentionally calculated outside
+    // the existing scoring metrics and returned with a full internal audit
+    // trail so every accepted or rejected input can be reconciled later.
+    const operatingIncomeFact = operatingIncomeSeries[0] || null;
+    if (!operatingIncomeFact) {
+      roicAudit = {
+        reason: excludedQualityMetricSector
+          ? qualityMetricEligibilityReason
+          : 'missing annual operating income',
+      };
+    } else {
+      const period = { start: operatingIncomeFact.start, end: operatingIncomeFact.end };
+      const taxSeries = firstAnnualSeries(usGaap, ['IncomeTaxExpenseBenefit'], 'USD');
+      const pretaxSeries = firstAnnualSeries(usGaap, [
+        'IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest',
+        'IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments',
+      ], 'USD');
+      const taxFact = annualFactForPeriod(taxSeries, period, operatingIncomeFact.accn);
+      const pretaxFact = annualFactForPeriod(pretaxSeries, period, operatingIncomeFact.accn);
+      const begin = balanceInputsAt(usGaap, priorBalanceDate(period.start), operatingIncomeFact.accn);
+      const end = balanceInputsAt(usGaap, period.end, operatingIncomeFact.accn);
+      const audit = {
+        reason: null,
+        period,
+        operatingIncome: operatingIncomeFact,
+        taxExpense: taxFact,
+        pretaxIncome: pretaxFact,
+        begin,
+        end,
+      };
+
+      if (excludedQualityMetricSector) audit.reason = qualityMetricEligibilityReason;
+      else if (!annualPeriodIsCurrent(period.end)) audit.reason = 'annual period is stale or future-dated';
+      else if (!taxFact || !pretaxFact) audit.reason = 'missing matching-period tax expense or pretax income';
+      else if (!Number.isFinite(pretaxFact.value) || pretaxFact.value <= 0) audit.reason = 'pretax income is not positive';
+      else if (begin.debt.reason || end.debt.reason) audit.reason = begin.debt.reason || end.debt.reason;
+      else if (!begin.equity || !begin.cash || !begin.assets || !end.equity || !end.cash || !end.assets) audit.reason = 'missing beginning or ending equity, cash, or assets';
+      else {
+        const effectiveTaxRate = taxFact.value / pretaxFact.value;
+        const averageInvestedCapital = (begin.investedCapital + end.investedCapital) / 2;
+        const averageAssets = (begin.assets.value + end.assets.value) / 2;
+        audit.effectiveTaxRate = effectiveTaxRate;
+        audit.averageInvestedCapital = averageInvestedCapital;
+        audit.averageAssets = averageAssets;
+
+        if (!Number.isFinite(effectiveTaxRate) || effectiveTaxRate < 0 || effectiveTaxRate > 0.50) audit.reason = 'effective tax rate is outside 0%-50%';
+        else if (![begin.investedCapital, end.investedCapital, averageInvestedCapital, averageAssets].every(Number.isFinite) ||
+          begin.investedCapital <= 0 || end.investedCapital <= 0 || averageInvestedCapital <= 0 || averageAssets <= 0) {
+          audit.reason = 'invested capital or assets are missing, non-finite, or nonpositive';
+        } else if (averageInvestedCapital < averageAssets * 0.01) audit.reason = 'average invested capital is below 1% of average assets';
+        else {
+          const nopat = operatingIncomeFact.value * (1 - effectiveTaxRate);
+          const rawRoic = (nopat / averageInvestedCapital) * 100;
+          audit.nopat = nopat;
+          audit.rawValue = rawRoic;
+          if (Number.isFinite(rawRoic)) roic = +rawRoic.toFixed(4);
+          else audit.reason = 'ROIC result is non-finite';
+        }
+      }
+      roicAudit = audit;
+    }
+
+    // Display-only annual GAAP FCF conversion versus matching-period annual
+    // GAAP net income. Negative FCF is preserved when the denominator is a
+    // sufficiently meaningful positive earnings base.
+    const ocfSeries = firstAnnualSeries(usGaap, ['NetCashProvidedByUsedInOperatingActivities'], 'USD');
+    const capexSeries = firstAnnualSeries(usGaap, [
+      'PaymentsToAcquirePropertyPlantAndEquipment',
+      'PaymentsForAdditionsToPropertyPlantAndEquipment',
+    ], 'USD');
+    const netIncomeSeries = firstAnnualSeries(usGaap, ['NetIncomeLoss', 'ProfitLoss'], 'USD');
+    const ocfFact = ocfSeries[0] || null;
+    if (!ocfFact) {
+      fcfConversionAudit = { reason: 'missing annual operating cash flow' };
+    } else {
+      const period = { start: ocfFact.start, end: ocfFact.end };
+      const capexFact = annualFactForPeriod(capexSeries, period, ocfFact.accn);
+      const netIncomeFact = annualFactForPeriod(netIncomeSeries, period, ocfFact.accn);
+      const revenueFact = annualFactForPeriod(qualityRevenueSeries, period, ocfFact.accn, true);
+      const audit = { reason: null, period, operatingCashFlow: ocfFact, capex: capexFact, netIncome: netIncomeFact, revenue: revenueFact };
+
+      if (excludedQualityMetricSector) audit.reason = qualityMetricEligibilityReason;
+      else if (!annualPeriodIsCurrent(period.end)) audit.reason = 'annual period is stale or future-dated';
+      else if (!capexFact || !netIncomeFact || !revenueFact) audit.reason = 'missing matching-period CapEx, net income, or revenue';
+      else if (!Number.isFinite(netIncomeFact.value) || netIncomeFact.value <= 0) audit.reason = 'net income is not positive';
+      else {
+        const revenueFloor = revenueFact.value * 0.001;
+        audit.revenueFloor = revenueFloor;
+        if (!Number.isFinite(revenueFloor) || netIncomeFact.value < revenueFloor) audit.reason = 'net income is below 0.1% of annual revenue';
+        else {
+          const annualFcfForConversion = ocfFact.value - Math.abs(capexFact.value);
+          const rawConversion = (annualFcfForConversion / netIncomeFact.value) * 100;
+          audit.annualFcf = annualFcfForConversion;
+          audit.rawValue = rawConversion;
+          if (Number.isFinite(rawConversion)) fcfConversion = +rawConversion.toFixed(4);
+          else audit.reason = 'FCF conversion result is non-finite';
+        }
+      }
+      fcfConversionAudit = audit;
+    }
+
 
     // EPS: prefer the figure companies actually file over deriving one, since
     // filed EPS already accounts for the correct GAAP share-count methodology.
@@ -611,10 +900,6 @@ async function fetchFundamentals(sym) {
 
   const name = (submissions && submissions.name) || (facts && facts.entityName) || null;
   const sector = (submissions && submissions.sicDescription) || null;
-  const rawSic = submissions && submissions.sic;
-  const sicNumber = Number(rawSic);
-  const sic = Number.isFinite(sicNumber) && sicNumber > 0 ? sicNumber : null;
-
   return {
     name,
     sector,
@@ -632,8 +917,26 @@ async function fetchFundamentals(sym) {
     annualFcf,
     annualFcfPeriodStart,
     annualFcfPeriodEnd,
+    roic,
+    fcfConversion,
+    roicAudit,
+    fcfConversionAudit,
     sharesOutstanding: Number.isFinite(sharesOutstanding) && sharesOutstanding > 0 ? sharesOutstanding : null,
     sic,
+  };
+}
+
+// Controlled population entry point for the display-only annual quality
+// metrics. It performs exactly one SEC Company Facts request, reuses the SIC
+// already cached by the normal fundamentals pipeline, and returns no unrelated
+// fields for persistence.
+async function fetchDisplayQualityMetrics(sym, sic) {
+  const result = await fetchFundamentals(sym, { displayMetricsOnly: true, sic });
+  return {
+    roic: result.roic ?? null,
+    fcfConversion: result.fcfConversion ?? null,
+    roicAudit: result.roicAudit || { reason: 'missing SEC CIK mapping' },
+    fcfConversionAudit: result.fcfConversionAudit || { reason: 'missing SEC CIK mapping' },
   };
 }
 
@@ -641,4 +944,5 @@ module.exports = {
   name: 'sec',
   health: client.health,
   fetchFundamentals,
+  fetchDisplayQualityMetrics,
 };

@@ -95,7 +95,11 @@ function mergeCacheEntry(cache, ticker, fields, source) {
   const entry = cache[ticker] || {};
   let changed = false;
   for (const [k, v] of Object.entries(fields)) {
-    if (v === null || v === undefined) continue; // never overwrite a good value with null
+    // The two display-only annual quality ratios deliberately overwrite with
+    // null when a newer filing fails their strict economic-validity checks;
+    // preserving an older numeric value would misrepresent it as current.
+    const nullIsMeaningful = k === 'roic' || k === 'fcfConversion';
+    if ((v === null || v === undefined) && !nullIsMeaningful) continue; // preserve existing null-protection for every established field
     entry[k] = v;
     changed = true;
   }
@@ -133,7 +137,7 @@ async function refreshGroup(label, cache, ticker, maxAgeMs, fetchFn, source, sta
 /* ---- fundamentals (weekly): SEC-primary ---- */
 // name/sector/roe/debtEquity only now - pe/pb/beta moved to the daily valuation
 // group below since they're price-derived and price moves daily, not weekly.
-const FUNDAMENTALS_FIELDS = ['name', 'sector', 'roe', 'debtEquity'];
+const FUNDAMENTALS_FIELDS = ['name', 'sector', 'roe', 'debtEquity', 'roic', 'fcfConversion'];
 // secEps/secBookValuePerShare ride along in the same weekly-cached entry purely
 // as internal fallback inputs for fetchValuation() - never part of companies.json.
 const FUNDAMENTALS_MERGE_FIELDS = [
@@ -152,6 +156,8 @@ const FUNDAMENTALS_MERGE_FIELDS = [
   'annualFcfPeriodEnd',
   'sharesOutstanding',
   'sic',
+  'roicAudit',
+  'fcfConversionAudit',
 ];
 
 // Daily, price-derived valuation fields (ret3m/ret6m/ret1y/pctBelow52wHigh
@@ -355,6 +361,8 @@ async function main() {
       fcfYield: quote.fcfYield ?? null,
       roe: fundamentals.roe ?? null,
       debtEquity: fundamentals.debtEquity ?? null,
+      roic: fundamentals.roic ?? null,
+      fcfConversion: fundamentals.fcfConversion ?? null,
       revenueGrowth: fundamentals.revenueGrowth ?? null,
       epsGrowth: fundamentals.epsGrowth ?? null,
       fcfGrowth: fundamentals.fcfGrowth ?? null,
