@@ -1,0 +1,119 @@
+name: Daily Refresh
+
+on:
+  workflow_dispatch: {}
+  # Disabled until a successful manual run is confirmed. Targets ~8:10 AM
+  # America/New_York. 12:10 UTC covers EDT (UTC-4); switch to 13:10 for EST
+  # (UTC-5) if exact local time across the DST boundary matters. Weekdays
+  # only (1-5) to match the free-tier minutes budget this was sized against.
+  # schedule:
+  #   - cron: '10 12 * * 1-5'
+
+concurrency:
+  group: daily-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          # LTS, not local's v25 (a non-LTS "Current" release with a short
+          # support window). App has zero dependencies and no version-
+          # specific syntax, so nothing is gained by chasing the newest major
+          # - 22 is guaranteed available and stable for unattended CI.
+          node-version: '22'
+
+      - name: Hydrate state from origin/state
+        run: |
+          set -euo pipefail
+          git fetch origin state --depth=1
+          git checkout origin/state -- .
+          echo "Hydrated from origin/state:"
+          ls -la cache/ companies.json history/ research/ research-queue.json watchlist.json
+
+      - name: Fetch data
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: |
+          set -euo pipefail
+          node fetchData.js 2>&1 | tee fetchdata.log
+
+      - name: Score + build report
+        run: |
+          set -euo pipefail
+          node screener.js 2>&1 | tee screener.log
+
+      - name: Upload report + logs (always, even on failure)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: screener-run-${{ github.run_id }}
+          path: |
+            screener-report.html
+            fetchdata.log
+            screener.log
+          if-no-files-found: warn
+          retention-days: 14
+
+      # Defense-in-depth: catches a silently-incomplete hydration or a
+      # fetch/score step that exited 0 but wrote something truncated, before
+      # the destructive `rsync --delete` below can propagate that damage to
+      # origin/state. Only reached if fetch+score both already succeeded
+      # (default GH Actions fail-fast - no continue-on-error / if: always()
+      # on this step or the ones before it).
+      - name: Hydration/output integrity guard
+        run: |
+          set -euo pipefail
+          MIN_BYTES=50000
+          check() {
+            local f="$1"
+            if [ ! -f "$f" ]; then
+              echo "::error::Guard failed - missing file: $f"
+              exit 1
+            fi
+            local size
+            size=$(wc -c < "$f")
+            if [ "$size" -lt "$MIN_BYTES" ]; then
+              echo "::error::Guard failed - $f is only $size bytes (< $MIN_BYTES)"
+              exit 1
+            fi
+            echo "OK: $f ($size bytes)"
+          }
+          check companies.json
+          check cache/fundamentals.json
+          check cache/quote.json
+          check cache/analyst.json
+          check cache/news.json
+          check cache/sec-cik-map.json
+          echo "Guard passed - safe to publish to origin/state."
+
+      # Separate worktree directory, not a branch switch in this workspace -
+      # `git worktree add` checks state out into a brand-new empty
+      # directory, so there is nothing there for git to delete and main's
+      # checkout here is never touched. Only reached on full success; only
+      # commits+pushes if there's an actual diff.
+      - name: Publish state
+        run: |
+          set -euo pipefail
+          git worktree add ../state-worktree origin/state
+          rsync -a --delete cache/ ../state-worktree/cache/
+          rsync -a --delete history/ ../state-worktree/history/
+          rsync -a --delete research/ ../state-worktree/research/
+          cp companies.json research-queue.json watchlist.json ../state-worktree/
+          cd ../state-worktree
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No state changes to publish."
+          else
+            git -c user.name="github-actions[bot]" \
+                -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+                commit -m "Daily refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push origin state
+          fi
