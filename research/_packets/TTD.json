@@ -1,0 +1,684 @@
+{
+  "ticker": "TTD",
+  "entityName": "Trade Desk, Inc.",
+  "cik": "0001671933",
+  "generatedAt": "2026-08-11T18:21:58.150Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-08-06",
+        "reportDate": "2026-06-30",
+        "accessionNumber": "0001671933-26-000086",
+        "primaryDocument": "ttd-20260630.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1671933/000167193326000086/ttd-20260630.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1671933/000167193326000086/"
+      },
+      "textLength": 285291,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations, before making investment decisions related to our Class A common stock. If any of the following risks are realized, our business, financial condition, results of operations and prospects could be materially and adversely affected. In that event, the market price of our Class A common stock could decline and you could lose part or all of your investment. Risks Related to Our Business and Industry If we fail to maintain and grow our client base and spend through our platform and related offerings, our revenue and business may be negatively impacted. To sustain or increase our revenue, we must regularly add new clients and encourage existing clients to maintain or increase the amount of spend through our platform and adopt existing or new offerings that we make available. If competitors introduce lower cost or differentiated offerings that compete with or are perceived to compete with our offerings, our ability to sell our services to new or existing clients could be impaired. We focus on the value of our platform and related offerings. Agencies and advertisers may have an adverse reaction to the related pricing, which could impair our ability to maintain and attract existing and new clients and our share of their advertising budgets. We have spent significant effort in cultivating our relationships with advertising agencies and advertisers, which has resulted in an increase in the budgets allocated to, and the amount of advertising purchased on, our platform. However, it is possible that we may reach a point of saturation at which we cannot continue to grow our revenue from such agencies or advertisers because of internal limits that advertisers may place on the allocation of their advertising budgets to digital media to a particular provider or otherwise. While we generally have master services agreements (&#8220;MSAs&#8221;) in place with our clients, such agreements allow our clients to choose the amount they spend through our platform and terminate our services with limited notice. We at times supplement our MSAs with joint business plans and other incentive programs designed to increase spend from existing clients; however, such increased spend may not materialize in the amounts we expect or at all. We do not typically have exclusive relationships with our clients and there is limited cost and difficulty to moving their media spend to our competitors. As a result, we have limited visibility to our future advertising revenue streams. We cannot assure you that our clients will continue to use our platform or related offerings to the extent that we expect or at all, or that we will be able to replace, in a timely or effective manner, departing clients with new clients that generate comparable revenue. If a major client representing a significant portion of our business decides to materially reduce its use of our platform or related offerings or to cease their use altogether, it is possible that our revenue or revenue growth rate could be significantly reduced, and our business negatively impacted. The loss of advertising agencies, advertisers or holding companies as clients could significantly harm our business, financial condition and results of operations. Our client base consists primarily of advertising agencies and advertisers. We do not have exclusive relationships with advertising agencies or advertisers, and we depend on agencies to work with us to build and maintain advertiser relationships and execute advertising campaigns. The loss of agencies or advertisers as clients, especially those that represent relatively large amounts of our gross billings, could significantly harm our business, financial condition and results of operations. If we fail to maintain satisfactory relationships with an advertising agency, we risk losing business from the current and future advertisers represented by that agency. Advertisers may change advertising agencies. If an advertiser switches from an agency that utilizes our platform to one that does not, we will lose revenue from that advertiser. In addition, some advertising agencies have their own relationships with suppliers of advertising inventory and data and can directly connect advertisers with such suppliers. Our 34 Table of Contents business may suffer to the extent that advertising agencies and such suppliers purchase and sell advertising inventory or data directly from one another or through intermediaries other than us. Our clients include advertising agencies, many of which are owned by holding companies, where decision making is decentralized such that purchasing decisions are made, and relationships with advertisers are located, at the agency, local branch or division level. If all of our individual client contractual relationships were aggregated at the holding company level, two holding companies would have each represented more than 10% of our gross billings for 2025. In most cases, we enter into separate contracts and billing relationships with the individual agencies and account for them as separate clients. A holding company may be acquired by, or consolidate with, another holding company that does not utilize our platform, or a holding company may choose to exert control over its individual agencies in a way that may otherwise result in an overall reduction in our revenue. If so, any consolidation of, or loss of relationships with such holding companies and consequently, of their agencies, local branches or divisions, as clients could significantly harm our business, financial condition and results of operations. Any decrease in the use of the advertising channels that we are primarily dependent upon, failure to expand the use of emerging channels, or unexpected shift in use among the channels in which we operate, could harm our growth prospects, financial condition and results of operations. Historically, our clients have predominantly used our platform to purchase CTV and other video, mobile and display advertising inventory. In particular, the CTV market is quickly evolving and the demand for CTV inventory on our platform has been a significant driver of growth. We expect that these will continue to be significant channels used by our clients for digital advertising in the future. We also believe that our revenue growth may depend on our ability to expand within our channels, especially CTV, and we have been, and are continuing to, enhance such channels. Any decrease in the use of video, mobile and display advertising, whether due to clients losing confidence in the value or effectiveness of such channels, regulatory restrictions, consumer choices, or other causes, or any inability to further penetrate certain channels including CTV, or enter new and emerging advertising channels, could harm our growth prospects, financial condition and results of operations. Each advertising channel presents distinct and substantial risk and, in many cases, requires us to continue to develop additional functionality or features to address the particular requirements of the channel. Our ability to provide capabilities across multiple advertising channels, which we refer to as omnichannel, may be constrained if we are not able to maintain or grow advertising inventory for such channels, and some of our omnichannel offerings may not gain market acceptance. If we fail to maintain a diversified channel mix, a decrease in the demand for any channel or channels that we become primarily dependent upon could harm our business, financial condition and results of operations. We may not be able to accurately predict changes in overall advertiser demand for the channels in which we operate and cannot assure you that our investment in channel development will correspond to any such changes. Furthermore, if our channel mix changes due to a shift in client demand, such as clients shifting their spend more quickly or more extensively than expected to channels in which we have relatively less functionality, features, or inventory, then demand for our platform could decrease, and our business, financial condition, and results of operations could be adversely affected. Macroeconomic conditions beyond our control could harm the overall demand for advertising and the economic health of agencies and advertisers, which could adversely affect our business, financial condition and results of operations. Our business depends on the overall demand for advertising and on the economic health of the agencies and advertisers that use our platform. Market uncertainties or downturns, whether global, local or industry or sector specific, and any associated macroeconomic conditions, such as growing inflation, concerns around a potential recession, changes in interest rates, changes in foreign currency exchange rates, changes in trade policies and practices, supply chain disruptions, the impact of global instability in many parts of the world and public health crises, may disrupt the operations of our clients and partners and cause agencies and advertisers to decrease or pause their advertising budgets, which could reduce spend though our platform and adversely affect our business, financial condition and results of operations. As we explore new countries to expand our business, economic downturns or unstable market conditions in any of those countries could also result in our investments not yielding the returns we anticipate. 35 Table of Contents If our access to quality advertising inventory is diminished or fails to expand, our revenue could decline and our growth could be impeded. We must maintain a consistent supply of quality ad inventory that is attractive to our clients. Our success depends on our ability to secure quality inventory on reasonable terms across a broad range of advertising networks and exchanges and social media platforms, including CTV and other video, mobile, display and audio inventory. The amount, quality and cost of inventory available to us can change at any time, including as publishers and other inventory suppliers respond to competition, consolidation among media companies or changes in the legal and regulatory landscape. A few inventory suppliers hold a significant portion of the programmatic inventory either generally or concentrated in a particular channel, such as audio and social media. In addition, we compete with companies with which we have business relationships. For example, Google is one of our largest advertising inventory suppliers in addition to being one of our competitors. If Google or any other company with attractive advertising inventory limits our access to its advertising inventory, our business could be adversely affected. If our relationships with certain of our suppliers were to cease, or if the material terms of these relationships were to change unfavorably, our business would be negatively impacted. Our suppliers are generally not bound by long-term contracts. As a result, there is no guarantee that we will have access to a consistent supply of quality inventory on favorable terms or at all. If we are unable to compete favorably for advertising inventory available on real-time advertising exchanges, or if real-time advertising exchanges decide not to make their advertising inventory available to us, we may not be able to place advertisements or find alternative sources of inventory with comparable traffic patterns and consumer demographics in a timely manner. Furthermore, the inventory that we access through real-time advertising exchanges may be of low quality or misrepresented to us, despite attempts by us and our suppliers to prevent fraud and conduct quality assurance checks. Inventory suppliers control the bidding process, rules and procedures for the inventory they supply. Additionally, suppliers and other third parties in the programmatic supply chain may extract more value than they add. As a result, supply chains in the market for programmatic ad buying may not always work in our favor or for the benefit of our clients and may have inefficiencies and lack transparency. Although we have in the past and continue to undertake efforts to improve supply chain efficiency and transparency, we may not be successful in such efforts. Given the importance of ensuring access to quality inventory for our advertisers, we launched our OpenPath offering in order to give clients a simplified, direct connection to publishers. We have been investing in this offering and plan to continue to grow the amount of OpenPath inventory and publishers available through our platform, but we cannot guarantee that this or future offerings will prove attractive to our clients or otherwise be successful. As new types of inventory become available, we will need to expend significant resources to ensure we have access to such new inventory. For example, although television advertising is a large market, only a very small percentage of it is currently purchased through digital advertising exchanges. We are investing heavily in our programmatic television offering, including by increasing our workforce and by adding new features, functions and integrations to our platform. If the CTV market does not continue to grow as we anticipate or we fail to successfully serve such market, our growth prospects could be harmed. Our success depends on consistently adding valued inventory in a cost-effective manner. If we are unable to maintain a consistent supply of quality inventory for any reason, client retention and loyalty, and our financial condition and results of operations could be harmed. The market in which we participate is intensely competitive, and we may not be able to compete successfully with our current or future competitors. We operate in a highly competitive and rapidly changing industry. We expect competition to persist and intensify in the future, which could harm our ability to increase revenue and maintain profitability. New technologies and methods of buying advertising present a dynamic competitive challenge, as market participants develop and offer new products and services aimed at capturing advertising spend or disrupting the digital marketing landscape, such as analytics, automated media buying and exchanges. Additionally, the impact of AI on our industry is still emerging and uncertain. We have been developing and implementing AI and machine learning models in our platform for nearly a decade and plan to continue such efforts, but there can be no assurance that our implementation of AI initiatives will continue to enhance our platform and related offerings in the manner we expect. We expect our AI initiatives will require increased investment in infrastructure and drive higher platform operations expense. To the extent we fail to adopt such technologies effectively or as intended, experience delays in integrating these technologies into our operations or our competit",
+        "charRange": [
+          139411,
+          154411
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors If we fail to maintain an effective system of internal control over financial reporting in the future, we may not be able to accurately or timely report our financial condition or results of operations. If our internal control over financial reporting is not effective, it may adversely affect investor confidence in us and the price of our common stock. As a public company, we are required to maintain internal control over financial reporting and to report any material weaknesses in such internal control. Section 404 of the Sarbanes-Oxley Act of 2002, as amended (the &#8220;Sarbanes-Oxley Act&#8221;) requires that we evaluate and determine the effectiveness of our internal control over financial reporting and provide a management report on internal control over financial reporting. Our platform system applications are complex, multi-faceted and include applications that are highly customized in order to serve and support our clients, advertising inventory and data suppliers, as well as support our financial reporting obligations. We regularly make improvements to our platform to maintain and enhance our competitive position. In the future, we may implement new offerings and engage in business transactions, such as acquisitions, reorganizations or implementation of new information systems. These factors require us to develop and maintain our internal controls, processes and reporting systems, and we expect to incur ongoing costs in this effort. We may not be successful in developing and maintaining effective internal controls , and any failure to develop or maintain effective controls, or any difficulties encountered in their implementation or improvement, could harm our operating results or cause us to fail to meet our reporting obligations and may result in a restatement of our financial statements for prior periods . If we identify material weaknesses in our internal control over financial reporting, we will be unable to assert that our internal control over financial reporting is effective. If we are unable to assert that our internal control over financial reporting is effective, if our independent registered public accounting firm is unable to express an opinion as to the effectiveness of our internal control over financial reporting, or if we are unable to comply with the requirements of the Sarbanes-Oxley Act in a timely manner, then, we may be late with the filing of our periodic reports, investors may lose confidence in the accuracy and completeness of our financial reports and the market price of our common stock could be negatively affected. Such failures could also subject us to investigations by Nasdaq, the stock exchange on which our securities are listed, the SEC or other regulatory authorities, and to litigation from stockholders, which could harm our reputation, financial condition or divert financial and management resources from our core business. The requirements of being a public company may strain our resources, divert our management's attention and affect our ability to attract and retain qualified board members. As a public company, we are subject to the reporting requirements of the Exchange Act, and are required to comply with the applicable requirements of the Sarbanes-Oxley Act and the Dodd-Frank Wall Street Reform and Consumer Protection Act, the listing requirements of Nasdaq, and other applicable securities rules and regulations. Compliance with these rules and regulations increases our legal and financial compliance costs, make some activities more difficult, time-consuming or costly and increase demand on our systems and resources. Among other things, the Exchange Act requires that we file annual, quarterly and current reports with respect to our business and results of operations and maintain effective disclosure controls and procedures and internal controls over financial reporting. Significant resources and management oversight are required to maintain and, if required, improve our disclosure controls and procedures and internal controls over financial reporting to meet this standard. As a result, management's attention may be diverted from other business concerns, which could harm our business and results of operations. Future acquisitions, strategic investments or alliances could disrupt our business and harm our business, financial condition and results of operations. We explore, on an ongoing basis, potential acquisitions of companies or technologies, strategic investments, or alliances to strengthen our business; however, we have limited experience in acquiring and integrating businesses, products and technologies. Even if we identify an appropriate acquisition candidate, we may not be successful in negotiating the terms or financing of the acquisition, and our due diligence may fail to identify all of the problems, liabilities or other 57 Table of Contents shortcomings or challenges of an acquired business, product or technology, including issues related to intellectual property, product quality or architecture, regulatory compliance practices, revenue recognition or other accounting practices or employee or client issues. Acquisitions involve numerous risks, any of which could harm our business, including: &#8226; regulatory hurdles; &#8226; anticipated benefits may not materialize; &#8226; diversion of management time and focus from operating our business to addressing acquisition integration challenges; &#8226; retention of employees from the acquired company; &#8226; cultural challenges associated with integrating employees from the acquired company into our organization; &#8226; integration of the acquired company's products and technology; &#8226; integration of the acquired company's accounting, management information, human resources and other administrative systems; &#8226; the need to implement or improve controls, procedures and policies at a business that, prior to the acquisition, may have lacked effective controls, procedures and policies; &#8226; coordination of product development and sales and marketing functions; &#8226; liability for activities of the acquired company before the acquisition, including relating to privacy and data security, patent and trademark infringement claims, violations of laws, commercial disputes, tax liabilities and other known and unknown liabilities; and &#8226; litigation or other claims in connection with the acquisition, including claims from terminated employees, users, former stockholders or other third parties. Failure to appropriately mitigate these risks or other issues related to such acquisitions and strategic investments could result in reducing or completely eliminating any anticipated benefits of transactions, and harm our business generally. Future acquisitions could also result in dilutive issuances of our equity securities, the incurrence of debt, contingent liabilities, amortization expenses or the impairment of goodwill, any of which could harm our business, financial condition and results of operations. Exposure to foreign currency exchange rate fluctuations could negatively impact our results of operations. While the majority of the transactions through our platform are denominated in U.S. Dollars, we have transacted in foreign currencies, both for inventory and data and for payments by clients from use of our platform. We also have expenses denominated in currencies other than the U.S. Dollar. Given our anticipated international growth, we expect the number of transactions in a variety of foreign currencies to continue to grow in the future. While we generally require a fee from our clients that pay in non-U.S. currency, this fee may not always cover foreign currency exchange rate fluctuations. In addition, for those clients that pay in non-U.S. currency, we often pay for the advertising inventory and data purchased by such clients in U.S. Dollars. As a result, any increase in the value of the U.S. Dollar against these foreign currencies could cause our revenue to decline relative to our costs. Although we currently have a program to hedge exposure to foreign currency fluctuations, the use of hedging instruments may not be available for all currencies or may not always offset losses resulting from foreign currency exchange rate fluctuations. Moreover, the use of hedging instruments can itself result in losses if we are unable to structure effective hedges with such instruments. We may not be able to secure additional financing on favorable terms, or at all, to meet our future capital needs, which may in turn impair our growth. We intend to continue to grow our business, which will require additional capital to develop new features or enhance our platform, improve our operating infrastructure, finance working capital requirements, or acquire complementary businesses and technologies. We cannot assure you that our business will generate sufficient cash flow from operations or that future borrowings will be available to us under our existing credit facility in an amount sufficient to fund our working capital needs. Accordingly, we may need to engage in additional equity or debt financings to secure additional capital. We cannot assure you that we would be able to locate additional financing on commercially reasonable terms or at all. Any debt financing that we secure in the future could involve restrictive covenants relating to our capital 58 Table of Contents raising activities and other financial and operational matters, which may make it more difficult for us to obtain additional capital and to pursue business opportunities. If our cash flows and credit facility borrowings are insufficient to fund our working capital requirements, we may not be able to grow at the rate we currently expect or at all. In addition, in the absence of sufficient cash flows from operations, we might be unable to meet our obligations under our credit facility, and we may therefore be at risk of default thereunder. If we raise additional funds through future issuances of equity or convertible debt securities, our existing stockholders could suffer significant dilution, and any new equity securities we issue could have rights, preferences and privileges superior to those of holders of our common stock. If we are unable to secure additional funding on favorable terms, or at all, when we require it, our ability to continue to grow our business to react to market conditions could be impaired and our business may be harmed. Our tax liabilities may be greater than anticipated. The U.S. and non-U.S. tax laws applicable to our business activities are subject to interpretation and are changing. We are subject to audit by the Internal Revenue Service and by taxing authorities of the state, local and foreign jurisdictions in which we operate. Our tax obligations are based in part on our corporate operating structure, including the manner in which we develop, value, use and hold our intellectual property, the jurisdictions in which we operate, how tax authorities assess revenue-based taxes such as sales and use taxes and other indirect taxes such as value-added taxes, the scope of our international operations and the value we ascribe to our intercompany transactions. Taxing authorities may challenge, and have challenged, our tax positions and methodologies for valuing developed technology or intercompany arrangements, positions regarding the collection of sales and use taxes, and the jurisdictions in which we are subject to taxes, which could expose us to additional taxes. Any adverse outcomes of such challenges to our tax positions could result in additional taxes for prior periods, interest and penalties, as well as higher future taxes. In addition, our future tax expense could increase as a result of changes in tax laws, regulations or accounting principles, or as a result of earning income in jurisdictions that have higher tax rates. For example, the European Commission has proposed, and various jurisdictions, including a number of states in the United States, are considering enacting or have enacted laws that impose separate taxes on specified digital services, which may increase our tax obligations in such jurisdictions. In addition, the Organization for Economic Cooperation and Development announced an Inclusive Framework on Base Erosion and Profit Shifting, including Pillar Two Model Rules defining a global minimum tax, which calls for the taxation of large multinational corporations at a minimum rate of 15%. Further, on July 4, 2025, the United States enacted the One Big Beautiful Bill Act that changes or makes permanent certain tax laws for corporations. On June 29, 2026, the State of California enacted Senate Bill 122, which, among other changes, extended annual limitations on research and development credits, which may limit or delay the realizability of tax benefits from the Company's research and development efforts in California; in addition, Senate Bill 122 expanded its state sales and use tax base to include digital products beginning January 1, 2027. While the changes from these rules have not had a significant, negative impact to our financial condition or results of operations, they could increase our effective tax rate and cash tax payments, or otherwise negatively impact our profitability, in future periods. Any increase in our tax expense could have a negative effect on our financial condition and results of operations. Moreover, the determination of our provision for income taxes and other tax liabilities requires significant estimates and judgment by management, and the tax treatment of certain transactions is uncertain. Any changes, ambiguity, or uncertainty in taxing jurisdictions' administrative interpretations, decisions, policies and positions, including, the position of taxing authorities with respect to revenue generated by reference to certain digital services, could also materially impact our income tax liabilities. Although we believe we will make reasonable estimates and judgments, the ultimate outcome of any particular issue may differ from the amounts previously recorded in our financial statements and any such occurrence could materially affect our financial condition and results of operations. 59 Table of Contents Item 2. Unregistered Sales of Equity Securities and Use of Proceeds. Sales of Unregistered Securities None. Issuer Purchases of Equity Securities The following table summarizes share repurchase activity for the three months ended June 30, 2026. Total Number of Shares Purchased (1) Average Price Paid Per Share (2) Total Number of Shares Purchased as Part of Publicly Announced Programs (1) Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs (1) (in thousands) (in thousands) (in millions) April 1-30 900 $ 22.07 900 $ 307 May 1-31 1,800 $ 21.53 1,800 $ 269 June 1-30 — $ — — $ 269 2,700 2,700 _______________ (1) On February 15, 2023, we announced t",
+        "charRange": [
+          265006,
+          280006
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 12629,
+            "context": "001671933 us-gaap:IndemnificationGuaranteeMember 2025-06-30 0001671933 us-gaap:IndemnificationGuaranteeMember 2026-06-30 0001671933 ttd:SecuritiesClassActionMember 2025-03-05 2025-03-05 0001671933 2025-06-04 0001671933 ttd:PlatformAndRelatedOfferingsLitigationMember 2025-03-28 2025-03-28 Table of Contents UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 ______________________________ FORM 10-Q ______________________________ (Mark One) x QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the quarterly period ended June 30, 2026 OR"
+          },
+          {
+            "charIndex": 59474,
+            "context": "s business and condensed consolidated financial statements. Due to the inherent complexity and uncertainty of these matters and judicial process in certain jurisdictions, the final outcome may be materially different from the Company's expectations. Litigation From time to time, the Company is subject to various legal proceedings, litigation and claims, either asserted or unasserted, that arise in the ordinary course of business. Although the outcome of the various legal proceedings, litigation and claims cannot be predicted with certainty, management does not believe it is probable that any o"
+          },
+          {
+            "charIndex": 59557,
+            "context": "plexity and uncertainty of these matters and judicial process in certain jurisdictions, the final outcome may be materially different from the Company's expectations. Litigation From time to time, the Company is subject to various legal proceedings, litigation and claims, either asserted or unasserted, that arise in the ordinary course of business. Although the outcome of the various legal proceedings, litigation and claims cannot be predicted with certainty, management does not believe it is probable that any of these proceedings or other claims will have a material adverse effect on the Comp"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 60235,
+            "context": "rdless of the outcome, litigation can have an adverse impact on the Company because of defense and settlement costs, diversion of management resources and other factors. Litigation Related to Reincorporation On October 4, 2024, a stockholder filed a class action complaint in the Court of Chancery in the State of Delaware alleging claims for breach of contract against the Company and breach of fiduciary duties against the Company's then-directors, in connection with the Company's reincorporation from Delaware to Nevada. Gunderson v. The Trade Desk, Inc. , No. 2024-1029 (Del. Ch.) (the &#8220;Gu"
+          },
+          {
+            "charIndex": 62465,
+            "context": "ranted the 15 Table of Contents motion to intervene and stayed the Gunderson Action pending completion of the books and records inspection in the Scarantino Action. On July 27, 2026, the stockholder from the Scarantino Action (defined below) filed a class action complaint in the Gunderson Action and a motion to appoint itself as lead plaintiff and its counsel as lead counsel in that action (the &#8220;Scarantino Complaint&#8221;). The Scarantino Complaint challenges the Company's reincorporation from Delaware to Nevada and asserts breach of fiduciary duty claims against Jeff Green in his capac"
+          },
+          {
+            "charIndex": 64818,
+            "context": "otice of appeal of the Vice Chancellor's December 5, 2025, order to the Delaware Supreme Court. On June 26, 2026, the Delaware Supreme Court issued an order affirming the Magistrate's and Vice Chancellor's decisions. Litigation Related to Securities Class Actions On February 19, 2025, plaintiff United Union of Roofers, Waterproofers & Allied Workers Local Union No. 8 WBPA Fund filed a purported federal securities class action complaint in the United States District Court, Central District of California, captioned United Union of Roofers, Waterproofers, and Allied Workers Local Union No. 8 v. T"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 31592,
+            "context": "ractical expedient) related to the estimation of expected credit losses for current accounts receivable and current contract assets that arise from transactions accounted for under Accounting Standards Codification (&#8220;ASC&#8221;) Topic 606. The guidance is effective on a prospective basis for annual periods, including interim reporting periods therein, beginning after December 15, 2025, with early adoption permitted. The Company adopted ASU 2025-05 in the first quarter of 2026 with no material impact to the condensed consolidated financial statements. Recent Accounting Pronouncements Not"
+          },
+          {
+            "charIndex": 32308,
+            "context": "xpense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses, which requires additional disclosure of specific expense categories included in the expense captions presented on the statements of operations. The new guidance does not change the expense captions on the statements of operations. In January 2025, the FASB issued ASU No. 2025-01, Income Statement — Reporting Comprehensive Income — Expense Disaggregation Disclosures (Subtopic 220-40) which clarified the effective date of ASU No. 2024-03. The guidance will be effective on a prospective basis, with a"
+          },
+          {
+            "charIndex": 32601,
+            "context": "ns on the statements of operations. In January 2025, the FASB issued ASU No. 2025-01, Income Statement — Reporting Comprehensive Income — Expense Disaggregation Disclosures (Subtopic 220-40) which clarified the effective date of ASU No. 2024-03. The guidance will be effective on a prospective basis, with an option to apply it retrospectively, for annual periods beginning with the Company's Annual Report on Form 10-K for the year ending December 31, 2027, and for interim periods beginning with the Company's Quarterly Report on Form 10-Q for the quarter ending March 31, 2028. Early adoption is p"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 29054,
+            "context": "rovisions of each lease, (4) allowances for credit losses, (5) the recognition and disclosure of contingent liabilities, (6) the useful lives of long-lived assets and (7) the fair values and recoverable amounts of long-lived assets and any potential impairments. These estimates are based on historical data and experience, as well as various other factors that management believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. As of June 30, 202"
+          },
+          {
+            "charIndex": 271951,
+            "context": "eliminating any anticipated benefits of transactions, and harm our business generally. Future acquisitions could also result in dilutive issuances of our equity securities, the incurrence of debt, contingent liabilities, amortization expenses or the impairment of goodwill, any of which could harm our business, financial condition and results of operations. Exposure to foreign currency exchange rate fluctuations could negatively impact our results of operations. While the majority of the transactions through our platform are denominated in U.S. Dollars, we have transacted in foreign currencies,"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 107158,
+            "context": "istrative expense will fluctuate period to period, including as a percentage of revenue, as we make disciplined investments in corporate infrastructure. We expect general and administrative expenses will also fluctuate based upon various litigation, regulatory and governance matters. We expect to invest in hiring and retaining top talent while optimizing for our business and strategic priorities. Total Other Income, Net Total other income, net, decreased by $5 million for the three months ended June 30, 2026, as compared to the three months ended June 30, 2025. The decrease was primarily due t"
+          },
+          {
+            "charIndex": 146093,
+            "context": "our channels, especially CTV, and we have been, and are continuing to, enhance such channels. Any decrease in the use of video, mobile and display advertising, whether due to clients losing confidence in the value or effectiveness of such channels, regulatory restrictions, consumer choices, or other causes, or any inability to further penetrate certain channels including CTV, or enter new and emerging advertising channels, could harm our growth prospects, financial condition and results of operations. Each advertising channel presents distinct and substantial risk and, in many cases, requires"
+          },
+          {
+            "charIndex": 149637,
+            "context": "play and audio inventory. The amount, quality and cost of inventory available to us can change at any time, including as publishers and other inventory suppliers respond to competition, consolidation among media companies or changes in the legal and regulatory landscape. A few inventory suppliers hold a significant portion of the programmatic inventory either generally or concentrated in a particular channel, such as audio and social media. In addition, we compete with companies with which we have business relationships. For example, Google is one of our largest advertising inventory suppliers"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 24094,
+            "context": "activities 164,919 ( 346,155 ) FINANCING ACTIVITIES: Repurchases of Class A common stock ( 241,331 ) ( 647,093 ) Proceeds from exercise of stock options 4,706 14,085 Proceeds from employee stock purchase plan 11,929 32,450 Taxes paid relating to net settlement of restricted stock ( 20,818 ) ( 57,048 ) Proceeds from short-term borrowings — 74,239 Net cash used in financing activities ( 245,514 ) ( 583,367 ) Increase (decrease) in cash and cash equivalents 464,804 ( 473,076 ) Cash and cash equivalents—Beginning of period 658,175 1,369,463 Cash and cash equivalents—End of period $ 1,122,979 $ 896"
+          },
+          {
+            "charIndex": 60084,
+            "context": "oceedings or other claims will have a material adverse effect on the Company's business, financial condition, results of operations or cash flows. Regardless of the outcome, litigation can have an adverse impact on the Company because of defense and settlement costs, diversion of management resources and other factors. Litigation Related to Reincorporation On October 4, 2024, a stockholder filed a class action complaint in the Court of Chancery in the State of Delaware alleging claims for breach of contract against the Company and breach of fiduciary duties against the Company's then-directors"
+          },
+          {
+            "charIndex": 122764,
+            "context": "Financing Activities For the six months ended June 30, 2026, we used $246 million of cash in financing activities, consisting of $241 million of cash paid for repurchases of our Class A common stock and $21 million of taxes paid for restricted stock settlements, partially offset by $12 million of proceeds from our ESPP and $5 million of proceeds from stock option exercises. For the six months ended June 30, 2025, we used $583 million of cash in financing activities, consisting of $647 million of cash paid for repurchases of our Class A common stock and $57 million of taxes paid for restricted"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 119257,
+            "context": "ts. The decrease in operating lease liabilities was primarily due to rent payments. The decrease in accrued expenses and other liabilities was primarily due to the timing and seasonality of payments for certain personnel costs and a reduction of the liability relating to the ESPP due to the purchase of shares in accordance with the plan. For the six months ended June 30, 2025, cash provided by operating activities of $456 million resulted primarily from net income adjusted for noncash items of $470 million and a net decrease from our operating assets and liabilities of $14 million. The net dec"
+          },
+          {
+            "charIndex": 120188,
+            "context": "n $80 million decrease in accounts receivable. The decrease in operating lease liabilities was due primarily to rent payments. The decrease in accrued expenses and other liabilities was primarily due to tax payments against the prior year income tax liability and a reduction of the liability relating to the ESPP due to the purchase of shares in accordance with the plan, partially offset by the timing of payment for certain personnel costs. The decrease in accounts payable was due to the timing and seasonality of payments to suppliers for Supplier Components. The increase in prepaid expenses an"
+          },
+          {
+            "charIndex": 120221,
+            "context": "s receivable. The decrease in operating lease liabilities was due primarily to rent payments. The decrease in accrued expenses and other liabilities was primarily due to tax payments against the prior year income tax liability and a reduction of the liability relating to the ESPP due to the purchase of shares in accordance with the plan, partially offset by the timing of payment for certain personnel costs. The decrease in accounts payable was due to the timing and seasonality of payments to suppliers for Supplier Components. The increase in prepaid expenses and other assets was primarily due"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-02-27",
+        "reportDate": "2025-12-31",
+        "accessionNumber": "0001671933-26-000014",
+        "primaryDocument": "ttd-20251231.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1671933/000167193326000014/ttd-20251231.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1671933/000167193326000014/"
+      },
+      "textLength": 427165,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations&#8221; in our Annual Report on Form 10-K for the fiscal year ended December 31, 2024, filed with 49 Table o f Contents SEC on February 21, 2025. References to &#8220;Notes&#8221; are notes to our consolidated financial statements in &#8220;Item 8. Financial Statements and Supplementary Data.&#8221; The following table sets forth our consolidated results of operations for the periods presented. For the Year Ended December 31, 2025 2024 (in thousands) (% of Revenue) (in thousands) (% of Revenue) Revenue $ 2,896,284 100 % $ 2,444,831 100 % Operating expenses: Platform operations 619,067 21 % 472,012 19 % Sales and marketing 644,300 22 % 546,517 22 % Technology and development 525,141 18 % 463,319 19 % General and administrative 518,455 18 % 535,816 22 % Total operating expenses 2,306,963 80 % 2,017,664 83 % Income from operations 589,321 20 % 427,167 17 % Other expense (income): Total other income, net (69,434) (2) % (80,135) (3) % Income before income taxes 658,755 23 % 507,302 21 % Provision for income taxes 215,451 7 % 114,226 5 % Net income $ 443,304 15 % $ 393,076 16 % __________________ Note: Percentages may not sum due to rounding. Revenue Revenue increased by $451 million, or 18%, for the year ended December 31, 2025, as compared to the year ended December 31, 2024. The overall increase was driven by an 11% increase in gross spend on our platform, which was primarily driven by more overall advertising campaigns executed by new and existing clients, increased application of and changes in the mix of revenue-generating value-added services and data and higher spend per campaign. The increase in revenue was also driven by a higher proportion of revenue earned from client spend due to increased utilization of our value-added services and data; and higher platform fees. Enhancements to our platform and the value-added services and data available to clients in 2025, including from Kokai and other features, and increased pricing associated with value-added services and data, enabled both our clients and us to capture increased value and drove higher utilization of our value-added services and data. Revenue earned from gross spend on our platform may fluctuate from period to period based on the types of services rendered and the extent to which our platform's value-added services and data are utilized by clients; our client and channel mix; changes in our platform or related offerings; pricing; volume discounts; and the amount of certain costs of supplier-provided components of value-added services and data recorded as reductions to revenue versus as expenses in platform operations. Platform Operations Platform operations expense increased by $147 million, or 31%, for the year ended December 31, 2025, as compared to the year ended December 31, 2024. The increase was primarily due to increases of $123 million in hosting costs and $20 million in personnel costs, which included a $5 million increase in stock-based compensation. The increase in hosting costs was primarily attributable to support costs relating to the increased use of our platform to query ad opportunities and purchase ad impressions on the platform, increased use of features by our technical teams in support of our platform and investment in new data centers to support the continued growth of our platform. The increase in personnel costs was primarily due to headcount growth as well as the increase in stock-based compensation driven by new equity awards. We expect platform operations expense to increase in absolute dollars in future periods as we continue to experience an increased volume of queries per second (&#8220;QPS&#8221;) and media impressions purchased through our platform; 50 Table o f Contents invest in our hosting capabilities, including to support new technical features and functionality of our platform and related offerings and our growing our growing AI and machine learning capabilities, subject to rising prices for data center components; and hire additional personnel to support our clients. Platform operations expense also may vary due to the amount of certain costs of supplier-provided components of value-added services and data recorded as platform operations expense versus as reductions to revenue. Sales and Marketing Sales and marketing expense increased by $98 million, or 18%, for the year ended December 31, 2025, as compared to the year ended December 31, 2024. The increase was primarily due to increases of $74 million in personnel costs, which included a $13 million increase in stock-based compensation, $17 million in marketing costs and $7 million in allocated facilities costs. The increase in personnel costs was primarily due to headcount growth to support our sales efforts and to continue to develop and maintain relationships with our clients, an increase in incentive compensation driven by headcount, an increase in severance benefit costs and an increase in travel costs. The increase in stock-based compensation was primarily driven by new equity awards. The increase in marketing costs was primarily due to an increase in marketing campaigns, creatives, client engagement, sponsorships and marketing events. The increase in allocated facilities costs was primarily driven by new leases for additional office space to support our future growth as well as office support expenses. We expect sales and marketing expenses to increase in absolute dollars in future periods, as we focus on increasing the adoption of our platform and related offerings with existing and new clients and expanding our international business. Technology and Development Technology and development expense increased by $62 million, or 13%, for the year ended December 31, 2025, as compared to the year ended December 31, 2024. The increase was primarily due to increases of $52 million in personnel costs, which included a $25 million increase in stock-based compensation, and $6 million in allocated facilities costs. The increase in personnel costs was primarily attributable to headcount growth to maintain and support further development of our platform and related offerings, partially offset by a decrease in taxes on equity awards. The increase in stock-based compensation was primarily driven by new equity awards. The increase in allocated facilities costs was primarily driven by new leases for additional office space to support our future growth as well as office support expenses. We expect technology and development expense to increase in absolute dollars as we continue to hire additional personnel, invest in the development of our platform and related offerings to support additional platform features and functionality including AI and machine learning, increase the number of advertising inventory and data suppliers and support the anticipated increase in volume of QPS on our platform. General and Administrative General and administrative expense decreased by $17 million, or 3%, for the year ended December 31, 2025, as compared to the year ended December 31, 2024. The decrease was primarily due to a $48 million decrease in stock-based compensation, partially offset by increases of $18 million in administrative costs, $11 million in personnel costs and $2 million in allocated facilities costs. The decrease in stock-based compensation was primarily due to a $61 million decrease relating to the CEO Performance Option driven by the graded-vesting attribution method, under which more expense is recognized earlier in the option's life, partially offset by a $13 million increase primarily driven by new equity awards and an acceleration of stock-based compensation in connection with an executive transition. The increase in administrative costs was primarily driven by increases in external professional fees, including legal expenses for various litigation, regulatory and governance matters. The increase in personnel costs was primarily attributable to increased headcount to support our growth, partially offset by a decrease in cash incentive award expenses. The increase in allocated facilities costs was primarily driven by new leases for additional office space to support our future growth as well as office support expenses. Excluding the impact of the CEO Performance Option, the stock-based compensation for which is expected to be fully recognized by the first quarter of 2026, we expect general and administrative expenses to increase primarily due to continued investment in corporate infrastructure, headcount to support growth and various litigation, regulatory and governance matters, for which expenses may fluctuate from period to period. For additional information regarding the CEO Performance Option, refer to Note 10— Stock-Based Compensation . 51 Table o f Contents Other Income, Net Total other income, net decreased by $11 million for the year ended December 31, 2025, as compared to the year ended December 31, 2024. The decrease was primarily due to lower interest income on our cash and cash equivalents and short-term investments primarily driven by lower amounts invested in money market funds and falling portfolio interest rates. Provision for Income Taxes The difference between the effective tax rate in 2025 of 33% and the U.S. federal statutory income tax rate of 21% was primarily due to nondeductible stock-based compensation, net of tax benefits associated with stock-based awards, and the impact of taxes in state and foreign jurisdictions, partially offset by research and development tax credits. For 2025, the provision for income taxes included approximately $9 million of tax benefits associated with stock-based awards and $18 million of research and development tax credits, excluding changes in unrecognized tax benefits. The difference between the effective tax rate in 2024 of 23% and the U.S. federal statutory income tax rate of 21% was primarily due to nondeductible stock-based compensation, net of tax benefits associated with stock-based awards, and the impact of taxes in foreign and state jurisdictions, partially offset by research and development tax credits. For 2024, the provision from income taxes included approximately $73 million of tax benefits associated with stock-based awards and $30 million of research and development tax credits, excluding changes in unrecognized tax benefits. On July 4, 2025, the United States enacted the OBBBA, which changes or makes permanent certain tax laws for corporations. The provisions of the OBBBA did not have a material impact on our effective tax rate or total provision for income taxes for the year ended December 31, 2025. However, the OBBBA allows for the accelerated deduction of any remaining unamortized domestic research and development costs over a one-year or two-year period beginning after December 31, 2024, at our election. As a result, during the year ended December 31, 2025, we recognized $175 million relating to domestic research and development costs as income taxes receivable, presented in prepaid expenses and other current assets, with a corresponding reduction in deferred tax assets. While we do not currently expect the provisions of the OBBBA to have a material effect on our effective tax rate or total provision for income taxes in the near term, we continue to monitor for changes in our operations that could be impacted by the legislation. Refer to Note 11—Income Taxes for additional information. Liquidity and Capital Resources As of December 31, 2025, we had working capital of $2.0 billion, which included $658 million in cash and cash equivalents, $104 million of which was held by our international subsidiaries, and $645 million in short-term investments in marketable securities. Additionally, we had $445 million available under our Amended Credit Facility (refer to the &#8220;Credit Facility&#8221; section below). For the year ended December 31, 2025, we generated $993 million in cash flows from operating activities. We believe our existing cash and cash equivalents, cash flow from operations and our undrawn available balance under our Amended Credit Facility will be sufficient to meet our working capital requirements and investments we make from time to time for at least the next 12 months. We believe our existing cash and cash equivalents, short-term investments and cash flow from operations will be sufficient to fund our share repurchase program. Further, we have a shelf registration statement on Form S-3 on file with the SEC (the &#8220;Shelf Registration&#8221;), which permits us to issue equity securities and equity-linked securities from time to time, subject to certain limitations. The Shelf Registration is intended to provide us with additional flexibility to access capital markets for general corporate purposes, subject to market conditions and our capital needs. Our future capital requirements and the adequacy of available funds will depend on many factors, including those set forth in &#8220;Item 1A. Risk Factors&#8221; in Part I of this Annual Report on Form 10-K . In the future, we may attempt to raise additional capital through the sale of equity securities or through equity-linked or debt-financing arrangements, such as a new credit facility arrangement. If we raise additional funds by issuing equity or equity-linked securities, the ownership of our existing stockholders will be diluted. If we raise additional financing by incurring additional indebtedness, we may be subject to increased fixed payment obligations and could also be subject to additional restrictive covenants, such as limitations on our ability to incur additional debt, and other operating restrictions that could adversely impact our ability to conduct our business. Any future indebtedness we incur may result in terms that could be unfavorable to equity investors. 52 Table o f Contents There can be no assurance that we will be able to raise additional capital. The inability to raise capital would adversely affect our ability to achieve our business objectives. In addition, if our operating performance during the next 12 months is below our expectations, our liquidity and ability to operate our business could be adversely affected. We are closely monitoring the effect that current macroeconomic factors may have on our working capital requirements. Credit Facility On June 15, 2021, we and a syndicate of banks, led by JPMorgan Chase Bank, N.A., as agent, entered into a Loan and Security Agreement (the &#8220;Credit Facility&#8221;). The Credit Facility consists of a $450 million revolving loan facility, with a $20 million sublimit for swingline borrowings and a $15 million sublimit for the issuance of letters of credit. Under certain circumstances, we have the right to increase the Credit Facility by an amount not to exceed $300 million. On December 17, 2021, we amended the Credit Facility to expand the process for issuing letters of cre",
+        "charRange": [
+          255156,
+          270156
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors&#8221; in Part I of this Annual Report on Form 10-K . In the future, we may attempt to raise additional capital through the sale of equity securities or through equity-linked or debt-financing arrangements, such as a new credit facility arrangement. If we raise additional funds by issuing equity or equity-linked securities, the ownership of our existing stockholders will be diluted. If we raise additional financing by incurring additional indebtedness, we may be subject to increased fixed payment obligations and could also be subject to additional restrictive covenants, such as limitations on our ability to incur additional debt, and other operating restrictions that could adversely impact our ability to conduct our business. Any future indebtedness we incur may result in terms that could be unfavorable to equity investors. 52 Table o f Contents There can be no assurance that we will be able to raise additional capital. The inability to raise capital would adversely affect our ability to achieve our business objectives. In addition, if our operating performance during the next 12 months is below our expectations, our liquidity and ability to operate our business could be adversely affected. We are closely monitoring the effect that current macroeconomic factors may have on our working capital requirements. Credit Facility On June 15, 2021, we and a syndicate of banks, led by JPMorgan Chase Bank, N.A., as agent, entered into a Loan and Security Agreement (the &#8220;Credit Facility&#8221;). The Credit Facility consists of a $450 million revolving loan facility, with a $20 million sublimit for swingline borrowings and a $15 million sublimit for the issuance of letters of credit. Under certain circumstances, we have the right to increase the Credit Facility by an amount not to exceed $300 million. On December 17, 2021, we amended the Credit Facility to expand the process for issuing letters of credit and the related invoicing, particularly with respect to letters of credit not denominated in U.S. Dollars. On February 9, 2023, we further amended the Credit Facility (as amended, the &#8220;Amended Credit Facility&#8221;) to transition from a variable interest rate based on the London Interbank Offered Rate (&#8220;LIBOR&#8221;) to a variable interest rate based on the Secured Overnight Financing Rate (&#8220;SOFR&#8221;). As of December 31, 2025, we did not have an outstanding debt balance under the Amended Credit Facility. Availability under the Amended Credit Facility was $445 million as of December 31, 2025, which is net of outstanding letters of credit of $5 million. The Amended Credit Facility matures, and all outstanding amounts become due and payable, on June 15, 2026. As of December 31, 2025, we were in compliance with all covenants. For additional information regarding the Amended Credit Facility , refer to Note 7—Debt . Share Repurchase Program In February 2023, our board of directors approved a share repurchase program to repurchase our Class A common stock. The share repurchase program, which has no expiration date, is designed to help offset the impact of future share dilution from employee stock issuances. Repurchases under the program may be made in the open market, in privately negotiated transactions or otherwise, with the amount and timing of repurchases determined at our discretion, depending on market conditions and corporate needs. Open market repurchases are structured to occur in accordance with applicable federal securities laws, including within the pricing and volume requirements of Rule 10b-18 under the Exchange Act. We may also, from time to time, enter into Rule 10b5-1 plans to facilitate repurchases of shares under this authorization. This program does not obligate us to acquire any particular amount of Class A common stock, and may be modified, suspended or terminated at any time at the discretion of our board of directors. As of December 31, 2024, $464 million remained available and authorized for repurchases. At the end of January 2025, an additional $564 million was authorized under this program, bringing the total amount for future repurchases to $1 billion. In October 2025, an additional $500 million was authorized under this program after the previous authorization was used. During the year ended December 31, 2025, we repurchased and subsequently retired 26.2 million shares of our Class A common stock for an aggregate repurchase amount of $1.4 billion. The aggregate repurchase amount for the year ended December 31, 2025, included $10 million relating to the 1% excise tax on share repurchases, net of share issuances, from the IRA. As of December 31, 2025, $150 million remained available and authorized for repurchases. In February 2026, an additional $350 million was authorized under our share repurchase program, bringing the total amount available for future repurchases to $500 million. Cash Flows The following table summarizes our cash flows for the periods presented (in thousands): Year Ended December 31, 2025 2024 Net cash provided by operating activities $ 992,721 $ 739,456 Net cash used in investing activities $ (292,632) $ (157,513) Net cash used in financing activities $ (1,411,377) $ (107,609) 53 Table o f Contents Operating Activities Our cash flows from operating activities are primarily influenced by growth in our operations, increases or decreases in collections from our clients and related payments to our suppliers for Supplier Components. We typically pay suppliers in advance of collections from our clients. Our collection and payment cycles can vary from period to period. In addition, we expect seasonality to impact cash flows from operating activities on a sequential quarterly basis during the year. In 2025, cash provided by operating activities of $993 million resulted primarily from net income adjusted for noncash items of $1.3 billion and a net decrease from our operating assets and liabilities of $275 million. The net decrease was primarily due to a $433 million increase in accounts receivable, a $77 million increase in prepaid expenses and other assets and a $64 million decrease in operating lease liabilities, partially offset by a $291 million increase in accounts payable. The increase in accounts receivable resulted primarily from the growth of our business and the timing of cash receipts from clients. The increase in prepaid expenses and other assets was primarily due to the recognition of income taxes receivable for domestic research and development expenses pursuant to the OBBBA and estimated tax payments, partially offset by the tax provision. The decrease in operating lease liabilities was due primarily to rent payments. The increase in accounts payable was due to the growth of our business and the timing of payments to suppliers for Supplier Components. In 2024, cash provided by operating activities of $739 million resulted primarily from net income adjusted for noncash items of $949 million and a net decrease from our operating assets and liabilities of $209 million. The net decrease was primarily due to a $474 million increase in accounts receivable, a $42 million decrease in operating lease liabilities and a $39 million increase in prepaid expenses and other assets, partially offset by a $299 million increase in accounts payable and a $47 million increase in accrued expenses and other liabilities. The increase in accounts receivable resulted primarily from the growth of our business and the timing of cash receipts from clients. The decrease in operating lease liabilities was due primarily to rent payments. The increase in prepaid expenses and other assets was primarily due to the prepayment of certain travel costs, office lease deposits and software, networking and infrastructure costs to support our platform. The increase in accounts payable was due to the growth of our business and the timing of payments to suppliers for Supplier Components. The increase in accrued expenses and other liabilities was primarily due to an increase in income tax liability driven by the current income tax provision net of tax payments; an increase in various accrued personnel-related costs primarily driven by headcount growth, growth in our business and the timing of accruals and payments; and an increase in the liability related to the ESPP for employee contributions toward the upcoming purchase of shares. Investing Activities Our primary investing activities consist of investing in short-term marketable securities, capital expenditures for property and equipment for the expansion of facilities to support our hosting capabilities and growing headcount as well as capital expenditures to develop our software in support of enhancing our platform and related offerings. As our business grows, we expect our capital expenditures to increase, and our other investment activity may increase. Capital expenditures to support our hosting capabilities are also subject to rising prices for data center components, the timing, extent and duration of which cannot be predicted. In 2025, we used $293 million of cash in investing activities, consisting of $197 million to purchase property and equipment, $79 million of net purchases of short-term investments, $13 million of investments in capitalized software and $4 million for the acquisition of certain assets accounted for as a business combination. In 2024, we used $158 million of cash in investing activities, consisting of $98 million to purchase property and equipment, $50 million of net purchases of short-term investments and $9 million of investments in capitalized software. Financing Activities Our financing activities consist primarily of repurchases of our Class A common stock, proceeds from our stock-based award plans and taxes paid to net settle restricted stock. In 2025, we used $1.4 billion of cash in financing activities, consisting of $1.4 billion of cash paid for repurchases of Class A common stock and $98 million of taxes paid for restricted stock settlements, partially offset by $43 million of proceeds from the ESPP and $24 million of proceeds from stock option exercises. 54 Table o f Contents In 2024, we used $108 million of cash in financing activities, consisting of $235 million of cash paid for repurchases of Class A common stock and $139 million of taxes paid for restricted stock settlements, partially offset by $216 million of proceeds from stock option exercises and $50 million of proceeds from the ESPP. Off-Balance Sheet Arrangements We do not have any relationships with other entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities that have been established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes. We did not have any off-balance sheet arrangements at December 31, 2025, other than the indemnification agreements described below. Contractual Obligations and Known Future Cash Requirements Our principal commitments consist of non-cancelable operating leases for our various office and hosting facilities, and other contractual commitments consisting of obligations primarily for our hosting services, hardware providers and providers of software as a service. In certain cases, the terms of the lease agreements provide for rental payments on a graduated basis. The following table summarizes our non-cancelable contractual obligations as of December 31, 2025 (in thousands): Payments Due by Period 2026 2027 and Thereafter Total Operating lease commitments $ 90,748 $ 704,445 $ 795,193 Other contractual commitments 226,727 39,123 265,850 Total $ 317,475 $ 743,568 $ 1,061,043 In January 2026, we entered into non-cancelable commitments of $92 million with certain cloud-based hosting and data-related service providers to support our platform and related offerings. These commitments commence in 2026 and expire in 2028. As of December 31, 2025, our total amount of gross unrecognized tax benefits was $116 million before netting with deferred tax assets for tax credit carryforwards and is considered a long-term obligation. Due to their nature, there is a high degree of uncertainty regarding the timing of future cash outflows and other events that extinguish these liabilities. In the ordinary course of business, we enter into agreements in which we may agree to indemnify clients, suppliers, vendors, lessors, business partners, lenders, stockholders and other parties with respect to certain matters, including losses resulting from claims of intellectual property infringement, damages to property or persons, business losses or other liabilities. Generally, these indemnity and defense obligations relate to our own business operations, obligations and acts or omissions. However, under some circumstances, we agree to indemnify and defend contract counterparties against losses resulting from their own business operations, obligations and acts or omissions, or the business operations, obligations and acts or omissions of third parties. These indemnity provisions generally survive termination or expiration of the agreements in which they appear. In addition, we have entered into indemnification agreements with our directors, executive officers and other officers that will require us to indemnify them against liabilities that may arise by reason of their status or service as directors, officers or employees. In the ordinary course of business, demands have been made upon us to provide indemnification under such agreements, but we are not aware of any claims that could have a material effect on our consolidated financial statements. Accordingly, no material amounts have been recorded at December 31, 2025. 55 Table o f Contents Non-GAAP Financial Measures In addition to our GAAP results, we consider certain non-GAAP financial measures, including Adjusted EBITDA as described below. Management believes that Adjusted EBITDA allows investors to evaluate the Company's performance using one of the same key operating measures as used by management and securities analysts. This Non-GAAP financial measure is supplemental to our GAAP measures, and this non-GAAP financial measure should not be considered in isolation of, as a replacement for or as superior to corresponding, similarly captioned, GAAP measures. Adjusted EBITDA We use Adjusted EBITDA to evaluate our financial performance, operational efficiency and profitability and for certain financial and operational decision-making purposes, including annual budgeting and evaluating the effectiveness of business strategies. We define Adjusted EBITDA as net income before depreciation and amortization expense; stock-based compensation expense; interest income, net; and provision for income taxes. Adjusted EBITDA is influenced primarily by fluctuations in our revenue and operating expenses, except for the income and expenses it excludes. Fluctuations impacting",
+        "charRange": [
+          268216,
+          283216
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 13529,
+            "context": "er 2025-12-31 0001671933 us-gaap:IndemnificationGuaranteeMember 2024-12-31 0001671933 ttd:TwentyTwentyOneCEOPerformanceOptionMember 2022-05-27 2022-06-27 0001671933 ttd:SecuritiesClassActionMember 2025-03-05 0001671933 ttd:PlatformAndRelatedOfferingsLitigationMember 2025-03-28 2025-03-28 0001671933 ttd:CloudBasedHostingAndDataRelatedServiceProvidersMember us-gaap:SubsequentEventMember 2026-01-31 0001671933 us-gaap:CommonClassAMember ttd:TwentyTwentyThreeStockRepurchaseProgramMember us-gaap:SubsequentEventMember 2026-02-28 0001671933 2025-10-01 2025-12-31 Table o f Contents UNITED STATES SECURI"
+          },
+          {
+            "charIndex": 26596,
+            "context": "tional harm and legal and financial liabilities. &#8226; Privacy and data protection laws to which we and our clients, inventory partners, and third-party data providers are subject may cause us to incur additional or unexpected costs, subject us to litigation, investigations or enforcement actions for alleged compliance failures, result in less demand for our offerings, or cause us to change our platform, related offerings or business model, which may have a material adverse effect on our business. &#8226; Third parties control our access to unique identifiers, and if the use of &#8220;third-"
+          },
+          {
+            "charIndex": 28848,
+            "context": "mpression counts and related disputes and customer collections could impact our business and reputation. &#8226; Advertising technology industry self-regulation may lead to investigation by government or self-regulatory bodies, government or private litigation, and operational costs or harm to reputation or brand. &#8226; Seasonal fluctuations in advertising activity could have a negative impact on our revenue, cash flow and results of operations. &#8226; We often have long sales cycles, which can result in significant time between initial contact with a prospect and execution of a client agre"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 102032,
+            "context": "ailure to respond sufficiently to a security incident could disrupt our services and result in theft, misuse, loss, corruption, or improper use or disclosure of our systems or data. This could result in government investigations, lawsuits (including class actions), enforcement actions and other legal and financial liability, and/or loss of confidence in the availability and security of our offerings, all of which could seriously harm our reputation and brand and impair our ability to attract and retain clients. As some of our offerings involve the receipt and processing of identifiable informa"
+          },
+          {
+            "charIndex": 122492,
+            "context": "ctices involve an invasion of privacy or are designed with insufficient protections, whether or not such practices are consistent with current or future laws, regulations, or industry practices, may subject us to public criticism, additional private class actions, reputational harm, or claims by regulators, which could disrupt our business and expose us to increased liability. We may be unable to make changes and modifications to our business and offerings in a commercially reasonable manner or at all, and our ability to develop new offerings or certain features could be limited. All of this c"
+          },
+          {
+            "charIndex": 190598,
+            "context": "f those companies. The trading price of our Class A common stock might also decline in reaction to events that affect other companies in our industry even if these events do not directly affect us. For example, in February and March 2025, securities class action litigation was filed against us following a drop in our stock price. For additional information regarding the pending legal proceedings, refer to Note 13—Commitments and Contingencies—Litigation . Our involvement in securities litigation will subject us to substantial costs, divert resources and the attention of management from our cor"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 107312,
+            "context": "ng as data brokers to certain restricted countries or entities &#8220;controlled&#8221; by such countries, and the Department of Justice could act on authority granted under an executive order restricting similar practices, for which regulations and guidance have recently taken effect. Other companies in the advertising technology space have been subject to government investigation by regulatory bodies; advocacy organizations have also filed complaints with data protection authorities against advertising technology companies, arguing that certain of these companies' practices do not comply wit"
+          },
+          {
+            "charIndex": 116696,
+            "context": "the U.K. extension to the EU-U.S. DPF. In relation to such cross border transfers of personal information, we expect the existing legal complexity and uncertainty regarding international personal information transfers to continue. As the regulatory guidance and enforcement landscape in relation to data transfers continue to develop, we could suffer additional costs, complaints or regulatory investigations or fines; we may have to stop using certain tools and vendors and make other operational changes; we may have to implement alternative data transfer mechanisms under the GDPR or take additio"
+          },
+          {
+            "charIndex": 218202,
+            "context": "ctices. Risk is assessed across the potential technological, operational, financial, legal, regulatory and reputational impacts to our company, including the materiality of cybersecurity incidents pursuant to SEC disclosure rules. Although we follow guidance from various standards related to cybersecurity and engage third-party attestation services to test controls relevant to our business, this does not imply that we meet any particular technical standards, specifications or requirements. We have not identified risks from known cybersecurity threats, including as a result of prior cybersecuri"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 209561,
+            "context": "eliminating any anticipated benefits of transactions, and harm our business generally. Future acquisitions could also result in dilutive issuances of our equity securities, the incurrence of debt, contingent liabilities, amortization expenses or the impairment of goodwill, any of which could harm our business, financial condition and results of operations. Exposure to foreign currency exchange rate fluctuations could negatively impact our results of operations. While the majority of the transactions through our platform are denominated in U.S. Dollars, we have transacted in foreign currencies,"
+          },
+          {
+            "charIndex": 315080,
+            "context": "rovisions of each lease, (4) allowances for credit losses, (5) the recognition and disclosure of contingent liabilities, (6) the useful lives of long-lived assets and (7) the fair values and recoverable amounts of long-lived assets and any potential impairments. These estimates are based on historical data and experience, as well as various other factors that management believes to be reasonable under the circumstances; the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. As of December 31,"
+          },
+          {
+            "charIndex": 332335,
+            "context": "ASU&#8221;) No. 2016-13, Financial Instruments-Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments (Accounting Standards Codification (&#8220;ASC&#8221;) 326 or &#8220;CECL&#8221;), to assess the investment portfolio for impairment at the individual security level and evaluates all securities in an unrealized loss position to determine if the impairment is credit related (resulting in realized credit loss, recorded in earnings) or non-credit related (resulting in an unrealized loss, recorded in stockholders' equity). The Company has not recorded any impairment char"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 28807,
+            "context": "; Evolving industry standards regarding impression counts and related disputes and customer collections could impact our business and reputation. &#8226; Advertising technology industry self-regulation may lead to investigation by government or self-regulatory bodies, government or private litigation, and operational costs or harm to reputation or brand. &#8226; Seasonal fluctuations in advertising activity could have a negative impact on our revenue, cash flow and results of operations. &#8226; We often have long sales cycles, which can result in significant time between initial contact with"
+          },
+          {
+            "charIndex": 74977,
+            "context": "ing cross-border or data residency restrictions, which could reduce the amount of data we can collect or process and, as a result, significantly impact our business. In addition, the online advertising ecosystem is subject to best practices and self-regulatory standards, such as those promulgated by the Network Advertising Initiative, or NAI, the Digital Advertising Alliance, or DAA, and their international counterparts. Available Information We file Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, proxy statements and related amendments, exhibits and o"
+          },
+          {
+            "charIndex": 82917,
+            "context": "our channels, especially CTV, and we have been, and are continuing to, enhance such channels. Any decrease in the use of video, mobile and display advertising, whether due to clients losing confidence in the value or effectiveness of such channels, regulatory restrictions, consumer choices, or other causes, or any inability to further penetrate certain channels including CTV, or enter new and emerging advertising channels, could harm our growth prospects, financial condition and results of operations. 15 Table o f Contents Each advertising channel presents distinct and substantial risk and, i"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 183031,
+            "context": "ntations are untrue, we may be exposed to potential liability and our reputation may be damaged. While our clients are typically obligated to indemnify us, such indemnification may not fully cover us, or we may not be able to collect. In addition to settlement costs, we may be responsible for our own litigation costs, which can be expensive. We are subject to anti-bribery, anti-corruption and similar laws and non-compliance with such laws can subject us to criminal penalties or significant fines and harm our business and reputation. We are subject to anti-bribery and similar laws, such as the"
+          },
+          {
+            "charIndex": 184491,
+            "context": "ltants, our risks under these laws will increase. We adopt appropriate policies and procedures and conduct training, but cannot guarantee that improprieties will not occur. Noncompliance with these laws could subject us to investigations, sanctions, settlements, prosecution, other enforcement actions, disgorgement of profits, significant fines, damages, other civil and criminal penalties or injunctions, suspension and/or debarment from contracting with specified persons, the loss of export privileges, reputational harm, 33 Table o f Contents adverse media coverage, and other collateral consequ"
+          },
+          {
+            "charIndex": 278258,
+            "context": "rd plans and taxes paid to net settle restricted stock. In 2025, we used $1.4 billion of cash in financing activities, consisting of $1.4 billion of cash paid for repurchases of Class A common stock and $98 million of taxes paid for restricted stock settlements, partially offset by $43 million of proceeds from the ESPP and $24 million of proceeds from stock option exercises. 54 Table o f Contents In 2024, we used $108 million of cash in financing activities, consisting of $235 million of cash paid for repurchases of Class A common stock and $139 million of taxes paid for restricted stock settl"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 27983,
+            "context": "our ability to attract, hire, retain and motivate highly skilled employees in the future. &#8226; Operational performance and internal control issues may adversely affect our business, financial condition and results of operations and subject us to liability. &#8226; We may experience outages, disruptions and malfunctions on our platform and related offerings if we fail to maintain adequate security and supporting infrastructure and processes, which may harm our reputation and negatively impact our business, financial condition and results of operations. &#8226; Our failure to meet standards"
+          },
+          {
+            "charIndex": 102098,
+            "context": "t our services and result in theft, misuse, loss, corruption, or improper use or disclosure of our systems or data. This could result in government investigations, lawsuits (including class actions), enforcement actions and other legal and financial liability, and/or loss of confidence in the availability and security of our offerings, all of which could seriously harm our reputation and brand and impair our ability to attract and retain clients. As some of our offerings involve the receipt and processing of identifiable information, the risks associated with data, including risks related to a"
+          },
+          {
+            "charIndex": 103217,
+            "context": "o compromise our own trade secrets and other confidential information and result in such information being disclosed to others and becoming less valuable, which could negatively affect our business. Although we maintain errors or omissions and cyber liability insurance, the costs related to an incident or other security threats or disruptions may not be fully insured or indemnified by other means and insurance and other safeguards might only partially reimburse us for our losses, if at all. We also cannot guarantee that applicable insurance will be available to us in the future on economically"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 715057000,
+          "accn": "0001671933-26-000086",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-06",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 1403914000,
+          "accn": "0001671933-26-000086",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-06"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 688857000,
+          "accn": "0001671933-26-000054",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-07",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 2896284000,
+          "accn": "0001671933-26-000014",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-27",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 739433000,
+          "accn": "0001671933-25-000144",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-06",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 2049493000,
+          "accn": "0001671933-25-000144",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-06"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 694039000,
+          "accn": "0001671933-26-000086",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-06",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 694039000,
+          "accn": "0001671933-25-000125",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-07"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 0.14,
+          "accn": "0001671933-26-000086",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-06",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 0.22,
+          "accn": "0001671933-26-000086",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-06"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 0.08,
+          "accn": "0001671933-26-000054",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-07",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 0.9,
+          "accn": "0001671933-26-000014",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-27",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 0.23,
+          "accn": "0001671933-25-000144",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-06",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 0.52,
+          "accn": "0001671933-25-000144",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-06"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 0.18,
+          "accn": "0001671933-26-000086",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-06",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 0.18,
+          "accn": "0001671933-25-000125",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-07"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 64394000,
+          "accn": "0001671933-26-000086",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-06",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 104391000,
+          "accn": "0001671933-26-000086",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-06"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 39997000,
+          "accn": "0001671933-26-000086",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-06",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 39997000,
+          "accn": "0001671933-26-000054",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-07"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 443304000,
+          "accn": "0001671933-26-000014",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-27"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 115547000,
+          "accn": "0001671933-25-000144",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-06",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 256354000,
+          "accn": "0001671933-25-000144",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-06"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 90129000,
+          "accn": "0001671933-26-000086",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-06",
+          "frame": "CY2025Q2"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 101577000,
+          "accn": "0001671933-26-000086",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-06",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 168224000,
+          "accn": "0001671933-26-000086",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-06"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 66647000,
+          "accn": "0001671933-26-000054",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-07",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 589321000,
+          "accn": "0001671933-26-000014",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-27",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 161219000,
+          "accn": "0001671933-25-000144",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-06",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 332448000,
+          "accn": "0001671933-25-000144",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-06"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 116777000,
+          "accn": "0001671933-26-000086",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-06",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 116777000,
+          "accn": "0001671933-25-000125",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-07"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "TTD",
+    "name": "Trade Desk, Inc.",
+    "sector": "Services-Computer Programming, Data Processing, Etc.",
+    "pe": 15.89,
+    "pb": 2.44,
+    "ret3m": -42.5239,
+    "ret6m": -53.6134,
+    "roe": 17.22,
+    "debtEquity": 1.239,
+    "sentiment": -0.238,
+    "analyst": 61.9,
+    "beta": 0.9861373
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "Why Did TTD, PZZA, EBS Stocks Plummet To 52 Week Lows?",
+        "url": "https://finnhub.io/api/news?id=23fea948da3baff7233c04f3f2e32f4f0544246671a1786c25426fca1741a4d3",
+        "source": "Yahoo",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Why The Trade Desk (TTD) Shares Are Plunging Today",
+        "url": "https://finnhub.io/api/news?id=65608b696dc8e0df2bcd979717b5101679ebba7d53b81c0d229cf1f16fbac854",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Discover which S&P500 stocks are making waves on Monday.",
+        "url": "https://finnhub.io/api/news?id=33fd1ad98365e1c3dbe7cfb12732e37392475fc9a30b95ecb5247d60db37ef4c",
+        "source": "ChartMill",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Trade Desk (TTD) Stock Is Falling Today: What’s Behind the Drop, and Are Its Peers Moving Too?",
+        "url": "https://finnhub.io/api/news?id=795366a1067508ff6f9bcdcc68c56b2259124113696e2a3ec8e8934739f91009",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Most active S&P500 stocks in Monday's session",
+        "url": "https://finnhub.io/api/news?id=e70d1226589f0903ccae81f7dfc28a84486a4791d7a36b439ddaadc5b167af77",
+        "source": "ChartMill",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Update: US Equity Indexes Mixed as Crude Oil, Treasury Yields Jump Amid Worsening Iran Geopolitics",
+        "url": "https://finnhub.io/api/news?id=40eddcd697149f9176464933c15c64efeb6643a396a3b050219f9f5bf3f76481",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      }
+    ],
+    "cachedAt": "2026-08-11T06:08:05.284Z"
+  }
+}

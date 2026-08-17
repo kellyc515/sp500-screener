@@ -1,0 +1,669 @@
+{
+  "ticker": "NOC",
+  "entityName": "NORTHROP GRUMMAN CORP /DE/",
+  "cik": "0001133421",
+  "generatedAt": "2026-08-11T18:22:19.283Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-07-21",
+        "reportDate": "2026-06-30",
+        "accessionNumber": "0001133421-26-000034",
+        "primaryDocument": "noc-20260630.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1133421/000113342126000034/noc-20260630.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1133421/000113342126000034/"
+      },
+      "textLength": 160652,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations,&#8221; &#8220;Liquidity and Capital Resources,&#8221; &#8220;Quantitative and Qualitative Disclosures About Market Risks&#8221; and &#8220;Risk Factors&#8221; in our 2025 Annual Report on Form 10-K, which provides additional information on our business, the environment in which we operate and our operating results. Divestiture of Training Services Business On May 24, 2025 (the &#8220;Divestiture date&#8221;), the company completed its previously announced sale of substantially all of the Immersive Mission Solutions (IMS) operating unit of Defense Systems (the &#8220;training services&#8221; business or &#8220;divestiture&#8221;) for $333 million in cash and recorded a pre-tax gain on sale of $231 million. IMS is a provider of mission training and satellite ground network communications software for U.S. government customers. 2025 operating results include sales and operating income for the training services business prior to the Divestiture date. Global Security Environment The U.S. and its allies continue to face a dynamic global security environment of heightened tensions and instability, threats from state and non-state actors, including in particular major global powers, as well as terrorist organizations, increasing nuclear tensions, diverse regional security concerns, political instability and uncertainty concerning global strategic alliances. The market for defense products, services and solutions globally is driven by these complex and rapidly evolving security challenges, considered in the broader context of political and socioeconomic circumstances and priorities. Our operations and financial performance, as well as demand for our products and services, are impacted by these events, including global unrest. The same is true for our suppliers and other business partners. The ongoing conflicts in Ukraine and Iran and threats elsewhere, particularly in the Middle East and the Western Pacific region, have increased global tensions and instability and highlighted security requirements globally. These conflicts have resulted in and may continue to result in increased demand for defense products and services from allies and partner nations, particularly in those regions. We continue to monitor developments in these regions, but have not experienced, and do not anticipate experiencing, significant adverse financial impacts directly from these conflicts. We believe the current global security environment, characterized by significant national security threats to the U.S. and its allies, continues to highlight the need for strong deterrence and robust defense capabilities. We are actively evaluating both opportunities and risks associated with this environment and are moving with speed and at scale to deliver innovative solutions to our customers. We believe our capabilities, particularly in space, C4ISR, air and missile defense, battle management, solid rocket motors, advanced weapons, strategic deterrence, survivable aircraft, autonomous aircraft systems and mission systems should help our customers in the U.S. and globally defend against current and future threats and, as a result, continue to position us for long-term profitable business growth. Global Economic Environment Over the past several years, the global economic environment has experienced challenges, including inflationary pressures; widespread delays and disruptions in supply chains; constraints on the availability of critical materials, including rare earth minerals and metals; business slowdowns or shutdowns; workforce challenges and labor shortfalls; and market volatility. These macroeconomic factors have contributed, and could continue to contribute, to increased costs, delays, disruptions and other performance challenges, as well as increased competing demands for -22- Table of Contents NORTHROP GRUMMAN CORPORATION limited resources to address such increased costs and other challenges, for our company, suppliers and partners, and customers. In addition, if interest rates increase or otherwise fluctuate, it could impact government spending priorities (in the U.S. and allied countries, in particular), including the demand for defense products. Economic tensions and changes in international trade policies, including, for example, widespread tariffs announced since last year by the U.S. on its major trading partners, higher tariffs on imported goods and materials and actions taken in response (such as retaliatory tariffs or other trade protectionist measures or the renegotiation of free trade agreements), could also further impact the global market for defense products, services and solutions. In addition, following the first quarter 2026 U.S. Supreme Court decision that invalidated tariffs imposed pursuant to the International Emergency Economic Powers Act (&#8220;IEEPA&#8221;), the U.S. announced tariffs under different statutory authorities, including a 10% global tariff. The full impact of these governmental actions on macroeconomic conditions and on our business is uncertain, difficult to predict and depends on a number of factors, including the extent and duration of tariffs, the availability of exemptions, changes in the amount and scope of tariffs, any reversal or temporary suspension of announced tariffs, the availability of refunds for tariffs paid under IEEPA, the imposition of new tariffs and other measures that target countries may take in response to U.S. trade policies, and possible resulting general inflationary pressures in the global economy. We are continuing to monitor the impact on our business, suppliers and customers, but do not believe that the tariffs, including the IEEPA tariffs, have had or will have a material adverse effect on our business. U.S. Political, Budget and Regulatory Environment The U.S. continues to face an uncertain and evolving political, budget and regulatory environment. In particular, it is difficult to predict the specific course of future defense budgets. Current and future requirements related to the conflicts in Ukraine and Iran and threats in the Middle East, the Western Pacific and Latin America and other security priorities, as well as the macroeconomic environment, the national debt, and other domestic priorities, among other things, in the U.S. and globally, will continue to impact our customers' budgets, spending and priorities, and our industry. The U.S. political environment may also impact defense budgets and priorities, issues related to the national debt, and government spending more broadly. We anticipate that issues related to budgetary priorities, defense spending levels and the debt ceiling will continue to be subjects of considerable debate, with a potentially significant impact on our programs and the company. On July 4, 2025, the FY 2025 reconciliation bill titled the One Big Beautiful Bill Act (the &#8220;OBBBA&#8221;) was enacted. The OBBBA allocated approximately $150 billion in mandatory defense funding, including funding for air and missile defense, munitions, strategic deterrence, shipbuilding and supply chains and other military capabilities. The appropriated funds will remain available to be obligated until September 30, 2029 and expended through FY 2034. Funding from the OBBBA has allowed for increased investments by the DoW in defense modernization projects, homeland missile defense capabilities, and increased production capacity across a number of key programs. See Note 4 to the financial statements for additional information on key income tax provisions of the OBBBA. On February 3, 2026, annual appropriations to fund a vast majority of the federal government for FY 2026, including approximately $859 billion for defense, were enacted. Appropriations to partially fund the Department of Homeland Security were enacted on April 30, 2026, with the remaining appropriations enacted on June 10, 2026. On April 3, 2026, the Trump Administration (the &#8220;Administration&#8221;) released its FY 2027 budget request. The request includes $1.45 trillion for defense, with $1.1 trillion in the base budget (discretionary funding) and $350 billion in reconciliation (mandatory) funding. The total defense budget request reflects an increase of 44% ($441 billion) above the FY 2026 enacted levels (including $153 billion in FY 2026 reconciliation funding). Congress is evaluating the Administration's budget request as it drafts authorization and appropriations legislation for FY 2027. Additionally, the Administration recently transmitted an $88 billion supplemental funding request for FY 2026, of which $67 billion is intended to address the operational costs associated with the Iran conflict and other defense priorities. There is uncertainty as to when Congress will act on the reconciliation funding and supplemental request. The Administration has issued numerous executive orders, including orders to undertake a comprehensive overhaul of the Federal Acquisition Regulation, to reform the DoW defense acquisition process and, more recently, to promote the use of fixed price contracts where appropriate and to address underperformance and insufficient prioritization of government contracts, insufficient investment in production and production speed and incentive compensation metrics applicable to defense contractors. See &#8220;Risk factors&#8221; for further discussion regarding risks associated with executive orders and regulatory changes. Some of the Administration's executive orders are subject to ongoing court challenges. Implementation of certain of these executive orders could adversely affect our business or create a more challenging or costly regulatory, operating and economic environment. -23- Table of Contents NORTHROP GRUMMAN CORPORATION In light of the ongoing conflicts and heightened global instability as well as political tensions and related legal challenges, we expect continued uncertainty in the global security, U.S. political, budget and regulatory environment. Initiatives to reduce governmental spending, federal budget and debt ceiling action, and further changes in U.S. government policy positions, including trade and foreign policy, tax policy and DoW policies or priorities, could materially impact defense spending broadly and the company's programs in particular. B-21 Program In 2015, the U.S. Air Force awarded Northrop Grumman the B-21 contract, which includes a base contract for EMD and five low-rate initial production (LRIP) options for a baseline total of 21 aircraft. The EMD phase of the program is largely cost type and began at contract award. The LRIP options are largely fixed price and are expected to continue to be awarded and executed through approximately the end of the decade. We have previously recognized and disclosed cumulative losses of approximately $2.0 billion on the LRIP phase of the program. Northrop Grumman and the U.S. Air Force have also established not to exceed (NTE) pricing for two additional lots. Final terms, quantity, and pricing for the NTE lots are not fully negotiated; however, the average value for these NTE lots is above the average unit price of the five LRIP lots, and the NTE lots include an economic price adjustment clause to help protect against certain inflationary pressures. During the first quarter of 2026, we reached an agreement with the U.S. Air Force to expand production capacity for the B-21 program and increase the aircraft production rate. We continue to expect to invest approximately $2.5 billion over a multi-year period to expand production capacity; in return, we have the opportunity to earn improved returns on the LRIP and NTE phases of the program. During the second quarter of 2026, we again reviewed our estimated profitability on the LRIP phase of the program and made no significant changes to the previously recognized loss. As we finalized certain details associated with the first quarter 2026 agreement with the U.S. Air Force described above, certain costs shifted between LRIP lots resulting in favorable EAC adjustments on the first four LRIP lots and an increase in the loss contingency accrual on the remainder of the program. The company's second quarter 2026 results reflect our current best estimate of cost to complete the LRIP and NTE aircraft, as well as the outcome of ongoing discussions with our suppliers. If our estimated cost to complete the aircraft changes, or if our assumptions regarding contract performance, quantities, or supplier negotiations are resolved more or less favorably than what we have estimated, our financial position, results of operations and/or cash flows could be materially affected. Sentinel Program In 2020, the U.S. Air Force awarded Northrop Grumman a $13.3 billion contract for the EMD phase of the Sentinel program. In January 2024, the U.S. Air Force provided congressional notification that the Sentinel program was under a Nunn-McCurdy breach review, which is required when total program cost estimates exceed certain defined thresholds. This notification, which had been driven primarily by increases in cost estimates for the Production and Deployment phases, commenced the process to achieve certification for continuance of the program and update its baseline cost estimates. We are currently executing under a cost-type contract for the EMD phase, and the Production and Deployment phases are yet to be priced and negotiated. In July 2024, the Sentinel program was certified for continuation by the DoW upon completion of the Nunn-McCurdy breach review. In connection with the certification, the DoW directed that the program be restructured, including plans for infrastructure related to the command and launch segment, which was the main driver of the increased cost estimates for the Production and Deployment phases. During the second quarter of 2025, we partnered with the U.S. Air Force in defining the preliminary execution framework necessary for successful restructure of the program. The program restructure will include a revision to the acquisition strategy, joint establishment of a new program baseline, and other critical preparation activities necessary to re-accomplish Milestone B approval. During the second quarter of 2026, we continued to make progress on joint activities with the U.S. Air Force. These efforts, which included requirements and design maturation, risk reduction activities, and evaluation of options to accelerate fielding of initial capability, have resulted in further definition and authorization of elements of the program execution plan, resulting in a $7.6 billion increase in program backlog. We also reviewed our estimated profitability on the program and recognized a favorable earnings adjustment related to our recent achievement of certain contract incentives. If our estimated cost to complete the restructured EMD effort or our achievement of future contract incentives is more or",
+        "charRange": [
+          100182,
+          115182
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors For a discussion of our risk factors please see the section entitled &#8220;Risk Factors&#8221; in our 2025 Annual Report on Form 10-K. Item 2. Unregistered Sales of Equity Securities and Use of Proceeds We had no repurchases of common stock during the three months ended June 30, 2026. The approximate dollar value of shares that may yet be purchased under the company's share repurchase authorization is $2.5 billion as of June 30, 2026. Share repurchases take place from time to time, subject to market and regulatory conditions and management's discretion, in the open market or in privately negotiated transactions. The company retires its common stock upon repurchase. See Note 2 to the financial statements for further information on our share repurchase programs. Item 5. Other Information Consistent with Item 408 of Regulation S-K, the following table reflects Rule 10b5-1 trading arrangements and non-Rule 10b5-1 trading arrangements (as defined in Item 408) entered into by any director or officer (as defined in Rule 16a-1(f) of the Exchange Act) during the quarter ended June 30, 2026. Name (Title) Type of Trading Arrangement Date of Adoption Expiration Date of Trading Arrangement Aggregate Number of Securities to Be Purchased or Sold Kathryn G. Simpson Rule 10b5-1 Trading Arrangement April 27, 2026 March 31, 2027 or such earlier date upon the completion of all trades under the plan or the occurrence of such other termination events as specified in the plan. Sale of shares to be received upon payout of 2024 RSRs and RPSRs (1) (Corporate Vice President and General Counsel) (1) The aggregate number of shares to be sold will depend, in part, on future company performance. -38- Table of Contents NORTHROP GRUMMAN CORPORATION Item 6. Exhibits *+10.1 Non-Employee Director Compensation Term Sheet, effective May 20, 2026 *15 Letter from Independent Registered Public Accounting Firm *31.1 Certification of Kathy J. Warden pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 *31.2 Certification of John T. Greene pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 **32.1 Certification of Kathy J. Warden pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 **32.2 Certification of John T. Greene pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 *101 Northrop Grumman Corporation Quarterly Report on Form 10-Q for the quarter ended June 30, 2026, formatted as inline XBRL (Extensible Business Reporting Language): (i) the Cover Page, (ii) Condensed Consolidated Statements of Earnings and Comprehensive Income, (iii) Condensed Consolidated Statements of Financial Position, (iv) Condensed Consolidated Statements of Cash Flows, (v) Condensed Consolidated Statements of Changes in Shareholders' Equity, (vi) Notes to Condensed Consolidated Financial Statements, and (vii) Other Information. The instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. *104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) + Management contract or compensatory plan or arrangement * Filed with this report ** Furnished with this report -39- Table of Contents NORTHROP GRUMMAN CORPORATION",
+        "charRange": [
+          157003,
+          160245
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 39854,
+            "context": "Statements 1. Summary of Significant Accounting Policies 5 2. Earnings Per Share, Share Repurchases and Dividends on Common Stock 8 3. Inventoried Costs, Net 8 4. Income Taxes 9 5. Fair Value of Financial Instruments 9 6. Investigations, Claims and Litigation 11 7. Commitments and Contingencies 11 8. Retirement Benefits 13 9. Stock Compensation Plans and Other Compensation Arrangements 13 10. Segment Information 14 Report of Independent Registered Public Accounting Firm 21 Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations Overview 22 Consolidated Op"
+          },
+          {
+            "charIndex": 72874,
+            "context": "tes and $ 257 million of 7.75 % unsecured senior notes upon maturity. In January 2025, the company repaid $ 1.5 billion of 2.93 % unsecured senior notes upon maturity. -10- Table of Contents NORTHROP GRUMMAN CORPORATION 6. INVESTIGATIONS, CLAIMS AND LITIGATION For over 25 years, the company has worked closely with the United States Navy, the United States Environmental Protection Agency, the New York State Department of Environmental Conservation, the New York State Department of Health and other federal, state and local governmental authorities, to address environmental conditions allegedly r"
+          },
+          {
+            "charIndex": 147200,
+            "context": "andards updates. FORWARD-LOOKING STATEMENTS AND PROJECTIONS This Form 10-Q and the information we are incorporating by reference contain statements that constitute &#8220;forward-looking statements&#8221; within the meaning of the Private Securities Litigation Reform Act of 1995. Words such as &#8220;will,&#8221; &#8220;expect,&#8221; &#8220;anticipate,&#8221; &#8220;intend,&#8221; &#8220;may,&#8221; &#8220;could,&#8221; &#8220;should,&#8221; &#8220;plan,&#8221; &#8220;project,&#8221; &#8220;forecast,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;guidance,&#8221; &#8220;outlook,"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 74248,
+            "context": "ts through which those disputes were resolved. The company continues to be involved in other remediation-related disputes, none of which are material individually or in the aggregate. We are also a party to various individual lawsuits and a putative class action in the Eastern District of New York alleging personal injury and property damage related to the legacy Bethpage environmental conditions (the &#8220;Bethpage EDNY cases&#8221;). The court had previously stayed the filed individual lawsuits and, at an April 24 hearing, denied plaintiffs' motion to lift that stay as to a subset of plaint"
+          },
+          {
+            "charIndex": 74719,
+            "context": "d the filed individual lawsuits and, at an April 24 hearing, denied plaintiffs' motion to lift that stay as to a subset of plaintiffs. The parties have submitted supplemental briefing on pending class certification and expert motions in the putative class action. The parties remain engaged in a mediation. We are also a party, and may become a party, to other lawsuits brought by or against insurance carriers, and by other individual plaintiffs and/or putative classes, as well as other parties. We cannot at this time predict or reasonably estimate the potential outcomes or ranges of possible lia"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 66991,
+            "context": "earnings before income taxes. The year to date 2026 ETR decreased to 10.4 percent from 17.5 percent primarily due to the remeasurement of UTPs described above, as well as higher research credits, including a $ 19 million benefit related to the CAMT guidance discussed above. The year to date 2026 ETR includes benefits of $ 244 million for research credits, inclusive of the UTP remeasurement, and $ 19 million for FDDEI, partially offset by $ 25 million of interest expense on unrecognized tax benefits. The year to date 2025 ETR included benefits of $ 103 million for research credits and $ 18 mil"
+          },
+          {
+            "charIndex": 120657,
+            "context": "million of higher earnings before income taxes. The year to date 2026 ETR decreased to 10.4 percent from 17.5 percent primarily due to the remeasurement of UTPs described above, as well as higher research credits, including a benefit related to CAMT guidance recently issued by the IRS. See Note 4 to the financial statements for additional information. Net Earnings Current Quarter Second quarter 2026 net earnings decreased $80 million, or 7 percent, primarily due to the $329 million decrease in operating income described above, partially offset by a $179 million decrease in income tax expense,"
+          },
+          {
+            "charIndex": 147518,
+            "context": "220;expect,&#8221; &#8220;anticipate,&#8221; &#8220;intend,&#8221; &#8220;may,&#8221; &#8220;could,&#8221; &#8220;should,&#8221; &#8220;plan,&#8221; &#8220;project,&#8221; &#8220;forecast,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;guidance,&#8221; &#8220;outlook,&#8221; &#8220;trends,&#8221; &#8220;goals&#8221; and similar expressions generally identify these forward-looking statements. Forward-looking statements include, among other things, statements relating to our future financial condition, results of operations and/or cash flows. Forward-looking statements are based up"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 147542,
+            "context": "0;anticipate,&#8221; &#8220;intend,&#8221; &#8220;may,&#8221; &#8220;could,&#8221; &#8220;should,&#8221; &#8220;plan,&#8221; &#8220;project,&#8221; &#8220;forecast,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;guidance,&#8221; &#8220;outlook,&#8221; &#8220;trends,&#8221; &#8220;goals&#8221; and similar expressions generally identify these forward-looking statements. Forward-looking statements include, among other things, statements relating to our future financial condition, results of operations and/or cash flows. Forward-looking statements are based upon assumptions, expectat"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 63549,
+            "context": "ses of the company's common stock. Repurchases under the p rogram commenced in September 2025 and $ 2.5 billion of the share repurchase authorization remained as of June 30, 2026. Share repurchases take place from time to time, subject to market and regulatory conditions and management's discretion, in the open market or in privately negotiated transactions. The company retires its common stock upon repurchase and, in the periods presented, has not made any purchases of common stock other than in connection with these publicly announced repurchase programs. Dividends on Common Stock In May 202"
+          },
+          {
+            "charIndex": 73824,
+            "context": "overies of potential contaminants. It is also possible that applicable remediation standards and other requirements to which we are subject may continue to change, and that our costs may increase materially. In 2022, we resolved several disputes and regulatory proceedings concerning the scope and allocation of remediation responsibilities and costs related to this site and we continue remediation consistent with agreements through which those disputes were resolved. The company continues to be involved in other remediation-related disputes, none of which are material individually or in the agg"
+          },
+          {
+            "charIndex": 106039,
+            "context": "economy. We are continuing to monitor the impact on our business, suppliers and customers, but do not believe that the tariffs, including the IEEPA tariffs, have had or will have a material adverse effect on our business. U.S. Political, Budget and Regulatory Environment The U.S. continues to face an uncertain and evolving political, budget and regulatory environment. In particular, it is difficult to predict the specific course of future defense budgets. Current and future requirements related to the conflicts in Ukraine and Iran and threats in the Middle East, the Western Pacific and Latin"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 57237,
+            "context": "er the next 24 months, with the remainder to be recognized thereafter. Contract Assets and Liabilities For each of the company's contracts, the timing of revenue recognition, customer billings, and cash collections results in a net contract asset or liability at the end of each reporting period. Contract assets are equivalent to and reflected as Unbilled receivables in the unaudited condensed consolidated statements of financial position and are primarily related to long-term contracts where revenue recognized under the cost-to-cost method exceeds amounts billed to customers. Contract liabilit"
+          },
+          {
+            "charIndex": 57892,
+            "context": "and billings in excess of costs incurred in the unaudited condensed consolidated statements of financial position. The amount of revenue recognized for the three and six months ended June 30, 2026 that was included in the December 31, 2025 contract liability balance was $ 784 million and $ 2.6 billion, respectively. The amount of revenue recognized for the three and six months ended June 30, 2025 that was included in the December 31, 2024 contract liability balance was $ 780 million and $ 2.7 billion, respectively. Disaggregation of Revenue See Note 10 for information regarding the company's"
+          },
+          {
+            "charIndex": 58095,
+            "context": "was included in the December 31, 2025 contract liability balance was $ 784 million and $ 2.6 billion, respectively. The amount of revenue recognized for the three and six months ended June 30, 2025 that was included in the December 31, 2024 contract liability balance was $ 780 million and $ 2.7 billion, respectively. Disaggregation of Revenue See Note 10 for information regarding the company's sales by customer type, contract type and geographic region for each of our segments. We believe those categories best depict how the nature, amount, timing and uncertainty of our revenue and cash flows"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-01-27",
+        "reportDate": "2025-12-31",
+        "accessionNumber": "0001133421-26-000003",
+        "primaryDocument": "noc-20251231.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1133421/000113342126000003/noc-20251231.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1133421/000113342126000003/"
+      },
+      "textLength": 416383,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations&#8221; (MD&A) of our Form 10-K for the year ended December 31, 2024 (&#8220;2024 Annual Report on Form 10-K&#8221;). To the extent the January 1, 2025 SSAS realignment impacted the disclosures in the 2024 Annual Report on Form 10-K, we recast those prior year disclosures herein. Divestiture of Training Services Business On May 24, 2025 (the &#8220;Divestiture date&#8221;), the company completed its previously announced sale of substantially all of the Immersive Mission Solutions (IMS) operating unit of Defense Systems (the &#8220;training services&#8221; business or &#8220;divestiture&#8221;) for $333 million in cash and recorded a pre-tax gain on sale of $231 million. IMS is a provider of mission training and satellite ground network communications software for U.S. government customers. Operating results include sales and operating income for the training services business prior to the Divestiture date. Global Security Environment The U.S. and its allies continue to face a global security environment of heightened tensions and instability, threats from state and non-state actors, including in particular major global powers, as well as terrorist organizations, increasing nuclear tensions, diverse regional security concerns and political instability. The market for defense products, services and solutions globally is driven by these complex and evolving security challenges, considered in the broader context of political and socioeconomic circumstances and priorities. Our operations and financial performance, as well as demand for our products and services, are impacted by these events, including global unrest. The same is true for our suppliers and other business partners. The ongoing conflict in Ukraine, recent events in Venezuela and threats elsewhere, particularly in the Middle East and the Western Pacific region, have increased global tensions and instability and highlighted security requirements globally, including in Europe, the Middle East, the Pacific region and Latin America, as well as the U.S. These conflicts have resulted in and may continue to result in increased demand for defense products and services from allies and partner nations, particularly in those regions. For example, we experienced an increase in demand for certain of our products and services directly and indirectly related to the conflict in Ukraine. We continue to monitor developments in these regions, but have not experienced, and do not anticipate experiencing, significant adverse financial impacts directly from these conflicts. We believe the current global security environment, characterized by significant national security threats to the U.S. and its allies, continues to highlight the need for strong deterrence and robust defense capabilities, and we are actively evaluating both opportunities and risks associated with this environment. We believe our capabilities, particularly in space, C4ISR, air and missile defense, battle management, advanced weapons, strategic deterrence, survivable aircraft and mission systems should help our customers in the U.S. and globally defend against current and future threats and, as a result, continue to position us for long-term profitable business growth. Global Economic Environment Over the past several years, the global economic environment has experienced challenges, including inflationary pressures; widespread delays and disruptions in supply chains; business slowdowns or shutdowns; workforce challenges and labor shortfalls; and market volatility. These macroeconomic factors can and have contributed, and could continue to contribute, to increased costs, delays, disruptions and other performance challenges, as well as increased competing demands for limited resources to address such increased costs and other challenges, for our company, our suppliers and partners, and our customers. We continue to work to address challenges to our business caused by the macroeconomic environment. We have seen progress in the supply chain as on-time deliveries and quality continue to improve. In remaining areas of pressure, we are proactively working with our suppliers to help meet our contract commitments. In addition, although interest rates have declined over the past year, they remain elevated compared to recent years and have raised the cost of borrowing for governments. If rates increase or remain elevated, it could impact government spending priorities (in the U.S. and allied countries, in particular), including the demand for defense products. Economic tensions and changes in international trade policies, including, for example, the widespread tariffs announced since last year by the U.S. on its major trading partners, higher tariffs on imported goods and materials and actions taken in response (such as retaliatory tariffs or other trade protectionist measures or the renegotiation of free trade agreements), could also further impact the global market for defense products, services and solutions. The full impact of these governmental actions on macroeconomic conditions and on our business is uncertain, difficult to predict and depends on a number of factors, including the extent and duration of tariffs, any -27- Table of Contents NORTHROP GRUMMAN CORPORATION reversal or temporary suspension of announced tariffs, the availability of exemptions, changes in the amount and scope of tariffs, the imposition of new tariffs and other measures that target countries may take in response to U.S. trade policies, and possible resulting general inflationary pressures in the global economy. We are continuing to monitor the impact on our business, suppliers and customers, but do not believe that the tariffs in effect at this time will have a material adverse effect on our business. U.S. Political, Budget and Regulatory Environment The U.S. continues to face an uncertain and evolving political, budget and regulatory environment. In particular, it is difficult to predict the specific course of future defense budgets. Current and future requirements related to the conflict in Ukraine and threats in the Middle East, the Western Pacific and Latin America and other security priorities, as well as the macroeconomic environment, the national debt, and other domestic priorities, among other things, in the U.S. and globally, will continue to impact our customers' budgets, spending and priorities, and our industry. The U.S. political environment may also impact defense budgets and priorities, issues related to the national debt, and government spending more broadly. We anticipate that issues related to budgetary priorities, defense spending levels and the debt ceiling will continue to be subjects of considerable debate, with a potentially significant impact on our programs and the company. On July 4, 2025, the FY 2025 reconciliation bill titled the One Big Beautiful Bill Act (the &#8220;OBBBA&#8221;) was enacted. The OBBBA allocates approximately $150 billion in funds for defense spending, including funding for air and missile defense, munitions, strategic deterrence, shipbuilding and supply chains and other military capabilities, and the appropriated funds will remain available to be obligated until September 30, 2029 and expended through FY 2034. The OBBBA is expected to result in increased investments by the DoW in defense modernization projects and Pacific region deterrence, among other programs. See Note 6 to the financial statements for additional information on key income tax provisions of the OBBBA. Annual appropriations to fund the federal government for FY 2026 have not yet been enacted. On October 1, 2025, the U.S. Government entered a shutdown, which ended on November 12, 2025. The federal government is currently operating under a continuing resolution (&#8220;CR&#8221;) that extends funding for most agencies (including DoW) until January 30, 2026. It remains uncertain when the government will approve FY 2026 appropriations and what levels of funding the appropriations will provide. Government operations under an extended CR or a government shutdown could have adverse impacts on our programs and new starts, in particular, and the U.S. Government's ability to make timely payments. The Presidential Administration (the &#8220;Administration&#8221;) has issued numerous executive orders, including orders to undertake a comprehensive overhaul of the Federal Acquisition Regulation, to reform the DoW defense acquisition process and, more recently, to address underperformance and insufficient prioritization of government contracts, insufficient investment in production and production speed and incentive compensation metrics applicable to defense contractors. See &#8220;Risk factors&#8221; for further discussion regarding risks associated with executive orders and regulatory changes. Some of the Administration's executive orders are subject to ongoing court challenges. Implementation of certain of these executive orders could adversely affect our business or create a more challenging or costly regulatory, operating and economic environment. In light of the ongoing conflicts and heightened global instability as well as political tensions and related legal challenges, we expect continued uncertainty in the global security, U.S. political, budget and regulatory environment. Initiatives to reduce governmental spending, federal budget and debt ceiling action, and further changes in U.S. government policy positions, including trade and foreign policy, tax policy and DoW policies or priorities, could materially impact defense spending broadly and the company's programs in particular. B-21 Program In 2015, the U.S. Air Force awarded Northrop Grumman the B-21 contract, which includes a base contract for engineering and manufacturing development (EMD) and five low-rate initial production (LRIP) options for a baseline total of 21 aircraft. The EMD phase of the program is largely cost type and began at contract award. The LRIP options are largely fixed price and are expected to continue to be awarded and executed through approximately the end of the decade. In addition to the five LRIP options, Northrop Grumman and the U.S. Air Force have established not to exceed (NTE) pricing for additional aircraft up to unit 40. The average NTE value for these subsequent lots is above the average unit price of the five LRIP lots, and the NTE lots include an economic price adjustment clause to help protect against certain inflationary pressures. Final terms, quantity, and pricing for these subsequent lots are not fully negotiated. We are in discussions with the U.S. Air Force regarding the potential for an accelerated production rate on the program. While the ultimate outcome of these discussions remains uncertain, we currently expect any agreement to accelerate production rate would require future investment by the -28- Table of Contents NORTHROP GRUMMAN CORPORATION company to expand production capacity along with the opportunity to earn improved returns on the LRIP and NTE phases of the program. During the fourth quarter of 2023, we recognized a projected loss of $1.56 billion across the five LRIP options. During the first quarter of 2025, we recognized an additional $477 million loss across the five LRIP options. During the fourth quarter of 2025, we again reviewed our estimated profitability on the LRIP phase of the program and made no significant changes to the previously recognized loss. The company's 2025 results reflect our current best estimate of cost to complete the LRIP and NTE aircraft, as well as the outcome of ongoing discussions with our suppliers. If our estimated cost to complete the aircraft changes, if we reach an agreement with the customer regarding an accelerated production rate, or if our assumptions regarding contract performance, quantities, supplier negotiations, or funding to mitigate the impact of macroeconomic disruptions are resolved more or less favorably than what we have estimated, our financial position, results of operations and/or cash flows could be materially affected. Sentinel Program In 2020, the U.S. Air Force awarded Northrop Grumman a $13.3 billion contract for the EMD phase of the Sentinel program. In January 2024, the U.S. Air Force provided congressional notification that the Sentinel program was under a Nunn-McCurdy breach review, which is required when total program cost estimates exceed certain defined thresholds. This notification, which had been driven primarily by increases in cost estimates for the Production and Deployment phases, commenced the process to achieve certification for continuance of the program and update its baseline cost estimates. We are currently executing under a cost-type contract for the EMD phase, and the Production and Deployment phases are yet to be priced and negotiated. In July 2024, the Sentinel program was certified for continuation by the DoW upon completion of the Nunn-McCurdy breach review. In connection with the certification, the DoW directed that the program be restructured, including plans for infrastructure related to the command and launch segment, which was the main driver of the increased cost estimates for the Production and Deployment phases. During the second quarter of 2025, we partnered with the U.S. Air Force in defining the preliminary execution framework necessary for successful restructure of the program. The program restructure will include a revision to the acquisition strategy, joint establishment of a new program baseline, and other critical preparation activities necessary to re-accomplish Milestone B approval. Based on this preliminary execution framework, we updated our estimated profitability on the program and recognized a $76 million favorable estimate-at-completion (EAC) adjustment during the second quarter of 2025 largely related to our expectations for achieving certain contract incentives. During the fourth quarter of 2025, we reviewed our estimated profitability on the Sentinel program and made no significant changes. If our estimated cost to complete the restructured EMD effort or our expectations for achieving contract incentives are more or less favorable than what we have estimated, our financial position, results of operations and/or cash flows could be materially affected. Operating Performance Assessment and Reporting We manage and assess our business based on our performance on contracts and programs (typically larger contracts or two or more closely-related contracts). We recognize sales from our portfolio of long-term contracts as control is transferred to the customer, primarily over time on a cost-to-cost basis (cost incurred relative to costs estimated at completion). As a result, sales tend to fluctuate in concert with costs incurred across our large portfolio of contracts. Due to the applicable FAR and CAS requirements that govern our U.S.",
+        "charRange": [
+          172290,
+          187290
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk factors&#8221; for further discussion regarding risks associated with executive orders and regulatory changes. Some of the Administration's executive orders are subject to ongoing court challenges. Implementation of certain of these executive orders could adversely affect our business or create a more challenging or costly regulatory, operating and economic environment. In light of the ongoing conflicts and heightened global instability as well as political tensions and related legal challenges, we expect continued uncertainty in the global security, U.S. political, budget and regulatory environment. Initiatives to reduce governmental spending, federal budget and debt ceiling action, and further changes in U.S. government policy positions, including trade and foreign policy, tax policy and DoW policies or priorities, could materially impact defense spending broadly and the company's programs in particular. B-21 Program In 2015, the U.S. Air Force awarded Northrop Grumman the B-21 contract, which includes a base contract for engineering and manufacturing development (EMD) and five low-rate initial production (LRIP) options for a baseline total of 21 aircraft. The EMD phase of the program is largely cost type and began at contract award. The LRIP options are largely fixed price and are expected to continue to be awarded and executed through approximately the end of the decade. In addition to the five LRIP options, Northrop Grumman and the U.S. Air Force have established not to exceed (NTE) pricing for additional aircraft up to unit 40. The average NTE value for these subsequent lots is above the average unit price of the five LRIP lots, and the NTE lots include an economic price adjustment clause to help protect against certain inflationary pressures. Final terms, quantity, and pricing for these subsequent lots are not fully negotiated. We are in discussions with the U.S. Air Force regarding the potential for an accelerated production rate on the program. While the ultimate outcome of these discussions remains uncertain, we currently expect any agreement to accelerate production rate would require future investment by the -28- Table of Contents NORTHROP GRUMMAN CORPORATION company to expand production capacity along with the opportunity to earn improved returns on the LRIP and NTE phases of the program. During the fourth quarter of 2023, we recognized a projected loss of $1.56 billion across the five LRIP options. During the first quarter of 2025, we recognized an additional $477 million loss across the five LRIP options. During the fourth quarter of 2025, we again reviewed our estimated profitability on the LRIP phase of the program and made no significant changes to the previously recognized loss. The company's 2025 results reflect our current best estimate of cost to complete the LRIP and NTE aircraft, as well as the outcome of ongoing discussions with our suppliers. If our estimated cost to complete the aircraft changes, if we reach an agreement with the customer regarding an accelerated production rate, or if our assumptions regarding contract performance, quantities, supplier negotiations, or funding to mitigate the impact of macroeconomic disruptions are resolved more or less favorably than what we have estimated, our financial position, results of operations and/or cash flows could be materially affected. Sentinel Program In 2020, the U.S. Air Force awarded Northrop Grumman a $13.3 billion contract for the EMD phase of the Sentinel program. In January 2024, the U.S. Air Force provided congressional notification that the Sentinel program was under a Nunn-McCurdy breach review, which is required when total program cost estimates exceed certain defined thresholds. This notification, which had been driven primarily by increases in cost estimates for the Production and Deployment phases, commenced the process to achieve certification for continuance of the program and update its baseline cost estimates. We are currently executing under a cost-type contract for the EMD phase, and the Production and Deployment phases are yet to be priced and negotiated. In July 2024, the Sentinel program was certified for continuation by the DoW upon completion of the Nunn-McCurdy breach review. In connection with the certification, the DoW directed that the program be restructured, including plans for infrastructure related to the command and launch segment, which was the main driver of the increased cost estimates for the Production and Deployment phases. During the second quarter of 2025, we partnered with the U.S. Air Force in defining the preliminary execution framework necessary for successful restructure of the program. The program restructure will include a revision to the acquisition strategy, joint establishment of a new program baseline, and other critical preparation activities necessary to re-accomplish Milestone B approval. Based on this preliminary execution framework, we updated our estimated profitability on the program and recognized a $76 million favorable estimate-at-completion (EAC) adjustment during the second quarter of 2025 largely related to our expectations for achieving certain contract incentives. During the fourth quarter of 2025, we reviewed our estimated profitability on the Sentinel program and made no significant changes. If our estimated cost to complete the restructured EMD effort or our expectations for achieving contract incentives are more or less favorable than what we have estimated, our financial position, results of operations and/or cash flows could be materially affected. Operating Performance Assessment and Reporting We manage and assess our business based on our performance on contracts and programs (typically larger contracts or two or more closely-related contracts). We recognize sales from our portfolio of long-term contracts as control is transferred to the customer, primarily over time on a cost-to-cost basis (cost incurred relative to costs estimated at completion). As a result, sales tend to fluctuate in concert with costs incurred across our large portfolio of contracts. Due to the applicable FAR and CAS requirements that govern our U.S. government business, most types of costs are allocable to U.S. government contracts. As such, we do not focus on individual cost groupings (such as manufacturing, engineering and design labor, subcontractor, material, overhead and general and administrative (G&A) costs), as much as we do on total contract cost, which is the key driver of our sales and operating income. In evaluating our operating performance, we primarily focus on changes in sales and operating margin rates. Where applicable, significant fluctuations in operating performance attributable to individual contracts or programs, or changes in a specific cost element across multiple contracts, are described in our analysis. Based on this approach and the nature of our operations, the discussion of results of operations below first focuses on our four segments before distinguishing between products and services. Changes in sales are generally described in terms of volume, while changes in operating margin rates are generally described in terms of performance and/or contract mix. For purposes of this discussion, volume generally refers to increases or decreases in sales or cost from production/service activity levels and performance generally refers to non-volume-related changes in profitability, which are typically described in terms of changes in net EAC adjustments. Contract mix generally refers to changes in the ratio -29- Table of Contents NORTHROP GRUMMAN CORPORATION of contract type and/or life cycle (e.g., cost-type, fixed-price, development, production, and/or sustainment). Contract mix can also refer to differences in the profitability of the programs that drive changes in sales (e.g., sales growth or decreases on programs with accretive or dilutive margin rates). CONSOLIDATED OPERATING RESULTS Non-GAAP Financial Measures For purposes of the operating results discussion below, we assess our performance using certain financial measures that are not calculated in accordance with accounting principles generally accepted in the United States of America (&#8220;GAAP&#8221; or &#8220;FAS&#8221;), as follows: &#8226; Organic sales is defined as total sales excluding sales attributable to the company's former training services business. This measure may be useful to investors and other users of our financial statements as a supplemental measure in evaluating the company's underlying sales growth as well as in understanding our ongoing business and future sales trends by presenting the company's sales adjusted for the impact of the divestiture. &#8226; Mark-to-market adjusted net earnings (MTM-adjusted net earnings) and MTM-adjusted earnings per share (MTM-adjusted EPS) exclude MTM pension and OPB benefit (expense) and related tax impacts, which are generally only recognized during the fourth quarter. These non-GAAP measures may be useful to investors and other users of our financial statements as supplemental measures in evaluating the company's underlying financial performance by presenting the company's operating results before the non-operational impact of pension and OPB actuarial gains and losses. These measures are also consistent with how management views the underlying performance of the business as the impact of MTM accounting is not considered in management's assessment of the company's operating performance or in its determination of incentive compensation awards. We reconcile these non-GAAP financial measures to their most directly comparable GAAP financial measures below. These non-GAAP measures may not be defined and calculated by other companies in the same manner and should not be considered in isolation or as an alternative to operating results presented in accordance with GAAP. Financial Highlights Selected financial highlights are presented in the table below: Year Ended December 31 % Change in $ in millions, except per share amounts 2025 2024 2023 2025 2024 Sales $ 41,954 $ 41,033 $ 39,290 2 % 4 % Operating costs and expenses 37,674 36,663 36,753 3 % — % Operating costs and expenses as a % of sales 89.8 % 89.4 % 93.5 % Gain on sale of business 231 — — NM — % Operating income 4,511 4,370 2,537 3 % 72 % Operating margin rate 10.8 % 10.6 % 6.5 % Mark-to-market pension and OPB benefit (expense) 527 443 (422) 19 % NM Federal and foreign income tax expense 886 842 290 5 % 190 % Effective income tax rate 17.5 % 16.8 % 12.4 % Net earnings 4,182 4,174 2,056 — % 103 % Diluted earnings per share $ 29.08 $ 28.34 $ 13.53 3 % 109 % -30- Table of Contents NORTHROP GRUMMAN CORPORATION Sales The table below reconciles sales to organic sales: Year Ended December 31 % Change in $ in millions 2025 2024 2023 2025 2024 Sales $ 41,954 $ 41,033 $ 39,290 2 % 4 % Less: Training services sales (112) (304) (302) Organic sales $ 41,842 $ 40,729 $ 38,988 3 % 4 % 2025 sales increased $921 million, or 2 percent, due to higher sales of $1.1 billion at Mission Systems, $603 million at Defense Systems, net of a $192 million reduction related to the training services divestiture, and $596 million at Aeronautics Systems. These increases were partially offset by $960 million of lower sales at Space Systems, largely due to a $738 million sales reduction associated with wind-down of work on the restricted space and NGI programs, and $425 million of higher intercompany eliminations. See &#8220;Segment Operating Results&#8221; below for further information by segment and &#8220;Product and Service Analysis&#8221; for product and service detail. See Note 15 to the consolidated financial statements for information regarding the company's sales by customer type, contract type and geographic region for each of our segments. Operating Income and Margin Rate 2025 operating income increased $141 million, or 3 percent, primarily due to a $231 million pre-tax gain on sale for the training services divestiture and a $218 million increase in the FAS/CAS operating adjustment. These increases were partially offset by a $167 million decrease in segment operating income, primarily driven by $423 million of lower operating income at Aeronautics Systems reflecting the first quarter B-21 loss provision, and a $126 million increase in non-divestiture-related unallocated corporate expense largely driven by higher deferred state tax expense. 2025 operating margin rate increased to 10.8 percent from 10.6 percent reflecting the items above. 2025 G&A costs as a percentage of sales of 9.6 percent were comparable to the prior year. See &#8220;Segment Operating Results&#8221; below for further information by segment. For further information regarding product and service operating costs and expenses, see &#8220;Product and Service Analysis&#8221; below. Mark-to-Market Pension and OPB Benefit/Expense The primary components of pre-tax MTM benefit (expense) are presented in the table below: Year Ended December 31 $ in millions 2025 2024 2023 Actuarial (losses) gains on projected benefit obligation $ (609) $ 1,314 $ (1,489) Actuarial gains (losses) on plan assets 1,136 (871) 1,067 MTM benefit (expense) $ 527 $ 443 $ (422) The 2025 MTM benefit of $527 million was primarily driven by actual net plan asset returns of 11.3 percent compared to our 7.5 percent asset return assumption, partially offset by a 15 basis point decrease in the discount rate from year end 2024. Federal and Foreign Income Taxes In July 2025, the OBBBA was enacted. Key income tax-related provisions of the OBBBA include the repeal of mandatory capitalization of research and development expenditures under Internal Revenue Code (IRC) Section 174 (reinstating full expensing beginning in 2025), extension of bonus depreciation, and revisions to international tax regimes. The company recognized the income tax effects of the OBBBA in its 2025 financial statements. -31- Table of Contents NORTHROP GRUMMAN CORPORATION 2025 income tax expense increased $44 million, or 5 percent, due to a higher effective tax rate (ETR) and higher earnings before income taxes. The 2025 ETR increased to 17.5 percent from 16.8 percent in 2024 primarily due to a net reduction in tax reserves in the prior year, lower research credits principally due to enactment of the OBBBA, and additional income tax expense related to nondeductible goodwill in the divested training services business. These increases were partially offset by lower interest expense on unrecognized tax benefits. The MTM benefit in both 2025 and 2024 increased each respective year's ETR by 0.4 percentage points. See Note 6 to the consolidated financial statements for additional information. Net Earnings The table below reconciles net earnings to MTM-adjusted net earnings: Year Ended December 31 % Change in $ in millions 2025 2024 2023 2025 2024 Net earnings $ 4,182 $ 4,174 $ 2,056 — % 103 % MTM (benefit) expense (527) (443) 422 19",
+        "charRange": [
+          181096,
+          196096
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 49496,
+            "context": "0 3. Accounts Receivable, Net 61 4. Unbilled Receivables, Net 61 5. Inventoried Costs, Net 62 6. Income Taxes 62 7. Goodwill and Other Purchased Intangible Assets 67 8. Fair Value of Financial Instruments 67 9. Debt 68 10. Investigations, Claims and Litigation 70 11. Commitments and Contingencies 70 12. Retirement Benefits 72 13. Stock Compensation Plans and Other Compensation Arrangements 76 14. Leases 79 15. Segment Information 80 i Page Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 87 Item 9A. Controls and Procedures 87 Management's Report on I"
+          },
+          {
+            "charIndex": 99719,
+            "context": "REAs, ECPs or other claims, but the impacts of these challenges are uncertain and our efforts to mitigate them may not be successful. Legal and Regulatory Risks &#8226; We are subject to various investigations, claims, disputes, enforcement actions, litigation, and other legal proceedings that could ultimately be resolved against us and could have a material adverse effect on our financial position, results of operations and/or cash flows. The size, nature and complexity of our business make us particularly susceptible to investigations, claims, disputes, enforcement actions, prosecutions, lit"
+          },
+          {
+            "charIndex": 100066,
+            "context": "ve a material adverse effect on our financial position, results of operations and/or cash flows. The size, nature and complexity of our business make us particularly susceptible to investigations, claims, disputes, enforcement actions, prosecutions, litigation and other legal proceedings (collectively &#8220;legal proceedings&#8221;), particularly those involving governments, which may continue to increase. We are or may become subject to legal proceedings globally (including criminal, civil and administrative) and across a broad array of matters, including, but not limited to, government cont"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 113376,
+            "context": "material additional costs in excess of those anticipated. -13- Table of Contents NORTHROP GRUMMAN CORPORATION We are and may become a party to various legal proceedings and disputes involving government and private parties (including individual and class actions) relating to alleged impacts from pollutants released into the environment, including bodily injury and property damage. For example, please see Note 10 for a discussion of certain disputes and lawsuits related to legacy Bethpage environmental conditions. These matters could result in material compensatory or other damages, remediatio"
+          },
+          {
+            "charIndex": 330391,
+            "context": "ts through which those disputes were resolved. The company continues to be involved in other remediation-related disputes, none of which are material individually or in the aggregate. We are also a party to various individual lawsuits and a putative class action in the Eastern District of New York alleging personal injury and property damage related to the legacy Bethpage environmental conditions (the &#8220;Bethpage EDNY cases&#8221;). The court has stayed the filed individual lawsuits, pending its decision on class certification. Although the court has ordered supplemental briefing on pendin"
+          },
+          {
+            "charIndex": 330798,
+            "context": "8220;Bethpage EDNY cases&#8221;). The court has stayed the filed individual lawsuits, pending its decision on class certification. Although the court has ordered supplemental briefing on pending class certification and expert motions in the putative class action, the parties remain engaged in a mediation. We are also a party, and may become a party, to other lawsuits brought by or against insurance carriers, and by other individual plaintiffs and/or putative classes, as well as other parties. We cannot at this time predict or reasonably estimate the potential outcomes or ranges of possible lia"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 58632,
+            "context": "ity air-to-surface tactical missile for the F-35; &#8226; Hypersonic Attack Cruise Missile (HACM) air-breathing, scramjet propulsion subsystem for the hypersonic air-launched cruise missile to travel at speeds of Mach 5 or greater; &#8226; Precision Guidance Kit (PGK), replaces conventional fuzes for artillery and mortar munitions and transforms them into Global Positioning System (GPS) enabled precision guided weapons; and &#8226; Production of solid rocket motors for the Precision Strike Missile (PrSM) program and Third Stage Rocket Motor (TSRM) for the Standard Missile (SM-3) program. -2- T"
+          },
+          {
+            "charIndex": 144825,
+            "context": "ilities, but they may not be successful. In addition, our customers, or others, may use, handle or test our products and services in ways that can be unusually hazardous or risky, or in ways that are not intended, not authorized or inconsistent with guidance and warnings, which may create potential liabilities for our company, as well as reputational harm. &#8226; We may not be able to adequately protect and fully exploit our intellectual property rights or obtain necessary rights to intellectual property of others, which could materially and adversely affect our ability to compete and perform"
+          },
+          {
+            "charIndex": 153857,
+            "context": "220;expect,&#8221; &#8220;anticipate,&#8221; &#8220;intend,&#8221; &#8220;may,&#8221; &#8220;could,&#8221; &#8220;should,&#8221; &#8220;plan,&#8221; &#8220;project,&#8221; &#8220;forecast,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;guidance,&#8221; &#8220;outlook,&#8221; &#8220;trends,&#8221; &#8220;goals&#8221; and similar expressions generally identify these forward-looking statements. Forward-looking statements include, among other things, statements relating to our future financial condition, results of operations and/or cash flows. Forward-looking statements are based up"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 153881,
+            "context": "0;anticipate,&#8221; &#8220;intend,&#8221; &#8220;may,&#8221; &#8220;could,&#8221; &#8220;should,&#8221; &#8220;plan,&#8221; &#8220;project,&#8221; &#8220;forecast,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;guidance,&#8221; &#8220;outlook,&#8221; &#8220;trends,&#8221; &#8220;goals&#8221; and similar expressions generally identify these forward-looking statements. Forward-looking statements include, among other things, statements relating to our future financial condition, results of operations and/or cash flows. Forward-looking statements are based upon assumptions, expectat"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 153118,
+            "context": "ent contracts. Although the fair value of our reporting units and the net realizable value of our other long-lived assets currently exceed their respective carrying values, changes in business conditions, the market-based inputs used in our goodwill impairment test, or our assumptions related to the recoverability of our long-lived assets, could result in significant write-offs of goodwill or other long-lived assets. FORWARD-LOOKING STATEMENTS AND PROJECTIONS This Annual Report on Form 10-K and the information we are incorporating by reference contain statements that constitute &#8220;forward-"
+          },
+          {
+            "charIndex": 241431,
+            "context": "ent (PP&E) for capital assets used in operating our business. The cost of PP&E utilized in support of our government contracts is generally allowable and allocable cost in accordance with applicable FAR and CAS requirements, which limits our risk of impairment on those assets. However, the cost of PP&E utilized in support of our commercial business, including approximately $600 million of PP&E used in our -43- Table of Contents NORTHROP GRUMMAN CORPORATION commercial space business, is not allocable to government contracts and is therefore subject to greater recoverability risk. Impairment Tes"
+          },
+          {
+            "charIndex": 241767,
+            "context": "rcial business, including approximately $600 million of PP&E used in our -43- Table of Contents NORTHROP GRUMMAN CORPORATION commercial space business, is not allocable to government contracts and is therefore subject to greater recoverability risk. Impairment Testing &#8211; We test for impairment of goodwill annually as of December 31 at each of our reporting units, which comprise our operating segments, or more frequently if events occur or circumstances change such that it is more likely than not an impairment may exist. When testing for goodwill impairment, we may perform both qualitative"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 71558,
+            "context": "15 collective agreements in the U.S., of which we negotiated seven renewals in 2025 and expect to negotiate two renewals in 2026. See &#8220;Risk Factors&#8221; for further discussion regarding risks related to our workforce and employee relations. REGULATORY MATTERS Government Contract Security Restrictions We are prohibited by the U.S. government from publicly discussing the details of classified programs. These programs are generally referred to as &#8220;restricted&#8221; in this Annual Report. The consolidated financial statements and -5- Table of Contents NORTHROP GRUMMAN CORPORATION fi"
+          },
+          {
+            "charIndex": 99613,
+            "context": "odity price risk, and seeking the inclusion of economic price adjustment clauses or seeking to recover on REAs, ECPs or other claims, but the impacts of these challenges are uncertain and our efforts to mitigate them may not be successful. Legal and Regulatory Risks &#8226; We are subject to various investigations, claims, disputes, enforcement actions, litigation, and other legal proceedings that could ultimately be resolved against us and could have a material adverse effect on our financial position, results of operations and/or cash flows. The size, nature and complexity of our business ma"
+          },
+          {
+            "charIndex": 110845,
+            "context": "o face similar challenges and incur additional compliance costs that may be passed on to us. These direct and indirect costs can adversely impact our results of operations and financial condition, and, if we are unable to comply with legislative and regulatory requirements, our reputation and ability to do business could be negatively impacted. Environmental impacts create short and long-term financial risks to our business globally. We have significant operations located in regions that have been, and may in the future be, exposed to significant weather events and other natural disasters. The"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 239705,
+            "context": "e derived from sources of authority in the tax law and their applicability to the facts and circumstances of the position. In measuring the tax position, the company considers the amounts and probabilities of the outcomes that could be realized upon settlement. When it is more likely than not that a tax position will be sustained, we record the largest amount of tax benefit with a greater than 50 percent likelihood of being realized upon ultimate settlement with a taxing authority. As of December 31, 2025, we have approximately $1.6 billion in unrecognized tax benefits. To the extent we prevai"
+          },
+          {
+            "charIndex": 239906,
+            "context": "ties of the outcomes that could be realized upon settlement. When it is more likely than not that a tax position will be sustained, we record the largest amount of tax benefit with a greater than 50 percent likelihood of being realized upon ultimate settlement with a taxing authority. As of December 31, 2025, we have approximately $1.6 billion in unrecognized tax benefits. To the extent we prevail in matters for which reserves have been established or are required to pay amounts in excess of reserves, there could be a significant impact on our consolidated financial position, annual results of"
+          },
+          {
+            "charIndex": 282556,
+            "context": "or speculative purposes, nor does it use leveraged financial instruments. Credit risk related to derivative financial instruments is considered minimal and is managed through the use of multiple counterparties with high credit standards and periodic settlements of positions, as well as by entering into master netting agreements with most of our counterparties. Inventoried Costs The company records inventoried costs at the lower of cost or net realizable value. Inventoried costs are categorized into raw materials, work in process, and finished goods. Raw materials are recognized using the avera"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 107413,
+            "context": "articipate can impact our reputation and our ability to do business, which could have a material adverse effect on our financial position, results of operations and/or cash flows. -12- Table of Contents NORTHROP GRUMMAN CORPORATION We face potential liability based on misconduct by employees, agents or others working with us or on our behalf that could violate the applicable laws of the jurisdictions in which we operate, including laws governing improper payments to government officials, the protection of export controlled or classified information, false claims, procurement integrity, cost ac"
+          },
+          {
+            "charIndex": 148328,
+            "context": "g intellectual property rights varies among countries and the protections under foreign laws and courts may not be favorable and are subject to change. General and Other Risk Factors &#8226; Our insurance coverage, customer indemnifications or other liability protections may be unavailable or inadequate to cover our significant risks, which could have a material adverse effect on our financial position, results of operations and/or cash flows. We endeavor to obtain insurance from financially stable, responsible, highly rated counterparties in established markets to cover significant risks and"
+          },
+          {
+            "charIndex": 148835,
+            "context": "sponsible, highly rated counterparties in established markets to cover significant risks and liabilities (including, for example, natural disasters, space launches and on-orbit operations, cybersecurity, hazardous operations, energetics and products liability). Not every risk or liability can be insured, and insurance coverage is not always reasonably available. Further, policy limits and terms of coverage reasonably obtainable may not be sufficient to cover actual losses or liabilities. For example, the space insurance market is experiencing increased price volatility and capacity constraints"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "Revenues",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 10876000000,
+          "accn": "0001133421-26-000034",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-21",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 20757000000,
+          "accn": "0001133421-26-000034",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-21"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 9881000000,
+          "accn": "0001133421-26-000016",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-21",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 41954000000,
+          "accn": "0001133421-26-000003",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-01-27",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 10423000000,
+          "accn": "0001133421-25-000053",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-21",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 30242000000,
+          "accn": "0001133421-25-000053",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-21"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 10351000000,
+          "accn": "0001133421-26-000034",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-21",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 10351000000,
+          "accn": "0001133421-25-000049",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-22"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 7.68,
+          "accn": "0001133421-26-000034",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-21",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 13.83,
+          "accn": "0001133421-26-000034",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-21"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 6.14,
+          "accn": "0001133421-26-000016",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-21",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 29.08,
+          "accn": "0001133421-26-000003",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-01-27",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 7.67,
+          "accn": "0001133421-25-000053",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-21",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 19.12,
+          "accn": "0001133421-25-000053",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-21"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 8.15,
+          "accn": "0001133421-26-000034",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-21",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 8.15,
+          "accn": "0001133421-25-000049",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-22"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 1094000000,
+          "accn": "0001133421-26-000034",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-21",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 1969000000,
+          "accn": "0001133421-26-000034",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-21"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 875000000,
+          "accn": "0001133421-26-000016",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-21",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 4182000000,
+          "accn": "0001133421-26-000003",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-01-27",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 1100000000,
+          "accn": "0001133421-25-000053",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-21",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 2755000000,
+          "accn": "0001133421-25-000053",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-21"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1174000000,
+          "accn": "0001133421-26-000034",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-21",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1174000000,
+          "accn": "0001133421-25-000049",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-22"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 1096000000,
+          "accn": "0001133421-26-000034",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-21",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 2085000000,
+          "accn": "0001133421-26-000034",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-21"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 989000000,
+          "accn": "0001133421-26-000016",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-21",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 4511000000,
+          "accn": "0001133421-26-000003",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-01-27",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 1242000000,
+          "accn": "0001133421-25-000053",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-21",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 3240000000,
+          "accn": "0001133421-25-000053",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-21"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1425000000,
+          "accn": "0001133421-26-000034",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-21",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1425000000,
+          "accn": "0001133421-25-000049",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-22"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "NOC",
+    "name": "NORTHROP GRUMMAN CORP /DE/",
+    "sector": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+    "pe": 18.36,
+    "pb": 4.59,
+    "ret3m": 4.639,
+    "ret6m": -18.0275,
+    "roe": 23.38,
+    "debtEquity": 0.905,
+    "sentiment": 0.259,
+    "analyst": 70.5,
+    "beta": -0.11101692
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "GE Stock Keeps Climbing. Should You Climb On?",
+        "url": "https://finnhub.io/api/news?id=fbacc75f9afc73087360c55f7f3e4e7ea6cea89be4c89b2021155d3abf6f3808",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "2 Industrials Stocks to Research Further and 1 We Avoid",
+        "url": "https://finnhub.io/api/news?id=eb44da477c889cd39ffc3b6d8d16c70087d1ccc4a475577ecf55c70e2bb171f3",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Rocket Lab Stock's Surge Was Booked Before It Was Priced",
+        "url": "https://finnhub.io/api/news?id=edd217aa1db77fcb83e86fd727efc5d568d03e6ad0d74e81d7fa0af3764ca3c8",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Embraer's Second-Quarter Earnings and Revenues Surpass Estimates",
+        "url": "https://finnhub.io/api/news?id=5ed80731a0b4e6d4f6805f80a749efb9bb57a61c737fbe48690cee1825155843",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Boeing, Archer Join Forces in Major Autonomous Aviation Deal",
+        "url": "https://finnhub.io/api/news?id=2d01e7f93aab56f5cc2dfad30326a835739f6ddcf812dbc568268ac52d706d6c",
+        "source": "Benzinga",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Palantir AI Boosts Pentagon Capabilities but LMT, RTX May Be the Better Missile Shortage Plays",
+        "url": "https://finnhub.io/api/news?id=e13767358caa0f98e861f81978b2dca82541190c07b9d8a00d22d54c825c3860",
+        "source": "Benzinga",
+        "date": "2026-08-10"
+      }
+    ],
+    "cachedAt": "2026-08-11T06:01:18.176Z"
+  }
+}

@@ -1,0 +1,701 @@
+{
+  "ticker": "LULU",
+  "entityName": "lululemon athletica inc.",
+  "cik": "0001397187",
+  "generatedAt": "2026-08-12T01:37:39.409Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-06-04",
+        "reportDate": "2026-05-03",
+        "accessionNumber": "0001397187-26-000078",
+        "primaryDocument": "lulu-20260503.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718726000078/lulu-20260503.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1397187/000139718726000078/"
+      },
+      "textLength": 173885,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations\" of our 2025 Annual Report on Form 10-K filed with the SEC on March 17, 2026. 27 Table of Contents Operating Locations Our company-operated stores by market as of May 3, 2026 and February 1, 2026 are summarized in the table below. Number of company-operated stores by market May 3, 2026 February 1, 2026 United States 377 379 Canada 72 71 Mexico 27 26 Americas 476 476 China Mainland 173 172 Australia 33 34 South Korea 23 22 Hong Kong SAR 11 11 Japan 10 10 Singapore 9 9 New Zealand 8 8 Taiwan 8 7 Thailand 7 5 Malaysia 5 5 Macau SAR 3 3 APAC 117 114 United Kingdom 21 20 Germany 9 9 France 6 6 Ireland 4 4 Spain 3 3 Netherlands 2 2 Sweden 2 2 Italy 1 1 Norway 1 1 Switzerland 1 1 EMEA 50 49 Rest of World 167 163 Total company-operated stores 816 811 28 Table of Contents Retail locations operated by third parties by market as of May 3, 2026 and February 1, 2026 are summarized in the table below. Number of retail locations operated by third parties by market May 3, 2026 February 1, 2026 United Arab Emirates 13 13 Israel 8 8 Saudi Arabia 8 9 Kuwait 4 4 Qatar 4 4 Turkey 3 3 Belgium 2 2 Bahrain 1 1 Denmark 1 1 Hungary 1 — Poland 1 — Total locations operated by third parties under license and supply arrangements 46 45 ITEM 3.",
+        "charRange": [
+          87181,
+          88500
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "risk factors should be considered in evaluating our business. Our business, financial condition, or results of operations could be materially adversely affected as a result of any of the progression, resultant effects, or outcome of these risks. Risks related to our business and industry Our success depends on our ability to maintain our brand value and reputation. The lululemon name is integral to our business and our expansion strategies. Maintaining, promoting, and positioning our brand will depend largely on the success of our marketing and merchandising efforts and our ability to provide a consistent, high-quality product, and guest experience. Our brand positioning, products, and marketing efforts may not be considered distinct, culturally relevant, or desirable to guests, employees, and other stakeholders. Our brand and reputation could be adversely affected by negative publicity, if we fail to deliver innovative and high-quality products acceptable to our guests, or if we face or mishandle a product recall, which could be amplified by social media. Our reputation could also be impacted by adverse publicity, whether or not valid, regarding allegations that we, or persons currently or previously associated with us, have violated laws or regulations, including but not limited to those related to safety, employment, discrimination, harassment, whistle-blowing, privacy, corporate citizenship, improper business practices, or cybersecurity. Certain activities on the part of stakeholders, including nongovernmental organizations and governmental institutions, could cause reputational damage, distract senior management, and disrupt our business. Additionally, while we devote considerable effort and resources to protecting our intellectual property, if these efforts are not successful the value of our brand may be harmed. Any harm to our brand and reputation could have a material adverse effect on our financial condition. We operate in a highly competitive market and our competitors may compete more effectively than we can, resulting in a loss of our market share and a decrease in our net revenue and profitability. The market for our products is highly competitive. Competition may result in pricing pressures, reduced profit margins or lost market share, or a failure to grow or maintain our market share, any of which could substantially harm our business and results of operations. We compete directly against global as well as regional and country-specific wholesalers and direct retailers of athletic apparel, including large, diversified apparel companies with substantial market share, and established companies expanding their production and marketing of technical athletic apparel, as well as against smaller retailers and those specifically focused on women's athletic apparel. We also face competition from wholesalers and direct retailers of traditional commodity athletic apparel, such as cotton T-shirts and sweatshirts. Many of our competitors are large apparel and sporting goods companies with strong worldwide brand recognition. Because of the fragmented nature of the industry, we also compete with other apparel sellers, including those specializing in yoga apparel and other activewear. Our competitors may be able to achieve and maintain brand awareness and market share more quickly and effectively than we can. We may fail to acknowledge or react appropriately to the entry or growth of a viable competitor or disruptive force, and could struggle to continue to innovate, differentiate, and sustain the value of our brand. Our brand presence and visibility in certain markets may encourage some guests to try or migrate to emerging competitors. In addition, because we hold limited patents and exclusive intellectual property rights in the technology, fabrics or processes underlying our products, our current and future competitors are able to manufacture and sell products with performance characteristics, fabrication techniques, and styling similar to ours. Even when these products infringe our 31 Table of Contents intellectual property rights, we may not be able to identify all infringing parties, enforce our rights effectively, or obtain timely and meaningful relief. If \"dupe\" or imitation products proliferate, whether through traditional retail channels or social media-driven trends, and lead consumers to perceive less differentiation between our products and lower-priced alternatives, our ability to maintain our brand premium, drive net revenue growth, and sustain our profitability could be adversely affected. If we are unable to anticipate consumer preferences and successfully develop and introduce new, innovative, and differentiated products, we may not be able to maintain or increase our sales and profitability. Our success depends on our ability to identify and originate product trends as well as to anticipate and react to changing consumer preferences on a timely basis and effectively. Our products are subject to changing consumer preferences that cannot be anticipated with certainty. If we are unable to introduce new products or technologies on a timely basis, or if our new offerings are not accepted by guests, competitors may introduce similar products more quickly, which could undermine our goal to be viewed as a leader in technical athletic apparel innovation. Our new products may not meet consumer needs and consumer preferences could shift rapidly to different types of athletic apparel or away from the types of products we make altogether, and our future success depends in part on our ability to anticipate and respond to these changes. Our failure to anticipate and respond effectively to changing consumer preferences could lead to, among other things, lower sales, lower margins, and excess inventory levels. We may not have or successfully leverage relevant data to effectively understand and react to consumer preferences and expectations. Even if we are successful in anticipating consumer preferences, our ability to adequately react to and address those preferences will in part depend upon our continued ability to develop and introduce innovative, high-quality products. Our failure to effectively introduce new products that are accepted by consumers could result in a decrease in net revenue and excess inventory levels, which could have a material adverse effect on our financial condition. If any of our products have manufacturing or design defects or are otherwise unacceptable to us or our guests, our business could be harmed. We have occasionally received, and may in the future receive, product shipments that fail to comply with our specifications or conform to our quality standards. We have also received, and may in the future receive, products that are otherwise unacceptable to us or our guests, including if they fail to meet quality, performance, and fit expectations. Under these circumstances, unless we are able to obtain replacement products in a timely manner, we risk the loss of net revenue resulting from the inability to sell those products and related increased administrative and shipping costs. Additionally, if the unacceptability of our products is not discovered until after such products are sold, our guests could lose confidence in our products, we could face a product recall, we could have regulatory exposure, and our results of operations could suffer and our business, reputation, and brand could be harmed. The hardware previously sold by our lululemon Studio subsidiary, as well as services currently offered, can be affected by design and manufacturing defects. Sophisticated operating system software and applications, such as those offered by lululemon Studio, often have issues that can unexpectedly interfere with the intended operation of hardware or software products. Defects may also exist in components and products that we source from third parties. Any defects could make our products unsafe and create a risk of property damage or personal injury. The occurrence of real or perceived defects in any of our products, now or in the future, could result in negative publicity, regulatory investigations, or lawsuits filed against us. Our sales and profitability may decline as a result of increasing costs and decreasing selling prices. Our business is subject to pressure on costs and pricing caused by many factors, including tariffs, intense competition, constrained sourcing capacity, inflationary pressure, the availability of qualified labor and wage inflation, pricing pressure from consumers, and changes in consumer demand. These and other factors have, and may in the future, cause us to experience increased costs, reduce our selling prices or experience reduced sales in response to increased prices, any of which could cause our operating margin to decline if we are unable to offset these factors with reductions in operating costs and could have a material adverse effect on our financial condition, operating results, and cash flows. Unionization efforts or other employee organizing activities could lead to higher people costs or reduce our flexibility to manage our employees which may negatively disrupt our operations. Our results of operations could be materially harmed if we are unable to accurately forecast guest demand for our products. To ensure adequate inventory supply, we forecast inventory needs and place orders with our manufacturers based on estimates of future demand. Our ability to forecast demand for our products could be affected by many factors, including an increase or decrease in demand for our or our competitors' products, our failure to accurately forecast guest acceptance of new products, product introductions by competitors, unanticipated changes in market conditions (for example, because of global economic conditions such as inflation, an economic downturn, or local and international shipping delays and labor 32 Table of Contents shortages), and weakening of economic conditions or consumer confidence in future economic conditions (for example, because of inflationary pressures, or because of sanctions, restrictions, and other responses related to geopolitical events). If we fail to accurately forecast guest demand, we may experience excess inventory levels or a shortage of products available for sale. Inventory levels in excess of demand may result in inventory write-downs or write-offs and the sale of excess inventory at discounted prices, which would cause our gross margin to suffer and could impair the strength and exclusivity of our brand. Conversely, if we underestimate demand, our manufacturers may not be able to deliver products to meet our requirements, and this could result in damage to our reputation and guest relationships. Our limited operating experience and limited brand recognition in new international markets and new product categories may limit our expansion and cause our business and growth to suffer. Our future growth depends in part on our expansion efforts outside of the Americas. We have limited experience with regulatory environments and market practices internationally, and we may not be able to penetrate or successfully operate in any new market. In connection with our expansion efforts, we may encounter obstacles we did not face in the Americas, including cultural and linguistic differences, differences in regulatory environments, labor practices and market practices, difficulties in keeping abreast of market, business and technical developments, and international guests' tastes and preferences. We may also encounter difficulty expanding into new international markets because of limited brand recognition leading to delayed acceptance of our technical athletic apparel by guests in these new international markets. Our failure to develop our business in new international markets or disappointing growth outside of existing markets could harm our business and results of operations. In addition, our growth depends in part on our ability to expand product categories and introduce new product lines. We may not be able to successfully manage integration of new product categories or the new product lines with our existing products. Successfully selling new product categories and lines will require developing and testing different strategies. We may be unsuccessful in entering new product categories and developing or launching new product lines, which requires management of new suppliers, potential new customers, and new business models. We may not have the experience of selling in these new product categories and we may not be able to grow as planned. For example, we acquired MIRROR in 2020, which was rebranded as lululemon Studio, and in 2023, we discontinued selling its hardware and offering its digital app-only subscription. If we are unable to effectively and successfully further develop current and future new product categories and lines, we may not be able to increase or maintain our sales and our operating margins may be adversely affected. This may also divert the attention of management and cause additional expenses. We may, from time to time, evaluate and pursue other strategic investments or acquisitions. These involve various inherent risks and the benefits sought may not be realized. Our future success is dependent on the service of our senior management and our ability to maintain our culture and to attract, manage, and retain highly qualified individuals. The performance of our senior management team and other key employees and contractors may not meet our needs and expectations. Also, the loss of services of any of these key individuals, or any negative public perception with respect to these individuals, may be disruptive to, or cause uncertainty in, our business and could have a negative impact on our ability to manage and grow our business effectively. Such disruption could have a material adverse impact on our financial performance, financial condition, and the market price of our stock. If we are unable to successfully maintain and evolve our unique culture, offer competitive compensation and benefits, and a desirable work model, we may be unable to attract and retain qualified individuals to support our business and growth. Our work model may not meet the needs and expectations of our employees and may not be perceived as favorable compared to other companies. We also face risks related to employee engagement and productivity which could result in increased headcount and labor costs. Our former Chief Executive Officer \"CEO\" stepped down effective January 31, 2026, and we appointed interim co-CEOs to lead during the transition period. On April 21, 2026, we entered into an employment agreement to appoint Heidi O'Neill as CEO effective September 8, 2026. In addition, we have had other recent changes at the senior executive level. These changes may create uncertainty and divert management's attention and resources. Our interim leadership m",
+        "charRange": [
+          97197,
+          112197
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 11083,
+            "context": "025-02-03 2025-05-04 0001397187 us-gaap:ProductAndServiceOtherMember us-gaap:CorporateNonSegmentMember 2025-02-03 2025-05-04 0001397187 us-gaap:ProductAndServiceOtherMember 2025-02-03 2025-05-04 0001397187 lulu:DerivativeActionsMember us-gaap:PendingLitigationMember 2024-11-04 2026-05-03 Table of Contents UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 Form 10-Q (Mark One) &#9745; QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the quarterly period ended May 3, 2026 or &#9744; TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)"
+          },
+          {
+            "charIndex": 50732,
+            "context": "matters. The Company believes the ultimate resolution of any such legal proceedings, audits, and inspections is not reasonably likely to have a material adverse effect on its consolidated balance sheets, results of operations or cash flows; however, litigation and regulatory matters are inherently 16 Table of Contents uncertain, and it is possible that an adverse outcome in one or more matters could have a material impact in a particular reporting period. The Company has recognized immaterial provisions related to the expected outcome of legal proceedings. On August 8, 2024, lululemon athletic"
+          },
+          {
+            "charIndex": 53528,
+            "context": "Bhavsar v. McDonald et al. voluntarily dismissed the complaint and that action has been terminated. On August 1, 2025, the Derivative Actions were consolidated for all purposes under the caption In re lululemon athletica inc. Stockholder Derivative Litigation , Master File No. 1:24-cv-08507. Subject to the terms of the parties' stipulation, which the Court \"so ordered\" on May 18, 2026, the Derivative Actions are stayed pending resolution of the securities class action. Tariffs On February 20, 2026, the U.S. Supreme Court invalidated tariffs imposed under the International Emergency Economic P"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 51176,
+            "context": "porting period. The Company has recognized immaterial provisions related to the expected outcome of legal proceedings. On August 8, 2024, lululemon athletica inc. and certain officers of the Company were named as defendants in a purported securities class action ( Patel v. Lululemon Athletica Inc., et al ., No. 1:24-cv-06033) in the United States District Court for the Southern District of New York. On March 10, 2025, plaintiffs filed an amended complaint, asserting claims under Sections 10(b) and 20(a) of the Securities Exchange Act of 1934 based on allegedly false and misleading public state"
+          },
+          {
+            "charIndex": 53739,
+            "context": "athletica inc. Stockholder Derivative Litigation , Master File No. 1:24-cv-08507. Subject to the terms of the parties' stipulation, which the Court \"so ordered\" on May 18, 2026, the Derivative Actions are stayed pending resolution of the securities class action. Tariffs On February 20, 2026, the U.S. Supreme Court invalidated tariffs imposed under the International Emergency Economic Power Act (the \"IEEPA\"). Immediately following this IEEPA decision, the U.S. Administration initiated new tariffs at different rates under alternative legislative powers. The U.S. Administration also confirmed th"
+          },
+          {
+            "charIndex": 54518,
+            "context": "ated interest. The ultimate amounts that it may recover remain uncertain and as of May 3, 2026, it has not recognized an asset in relation to IEEPA refund claims. On March 27, 2026, lululemon usa inc. was named as a defendant in a purported consumer class action ( Neuman v. Lululemon USA Inc. , No. 2:26-cv-11029) in the United States District Court for the Eastern District of Michigan, asserting equitable claims relating to alleged tariff-related pricing actions and potential governmental tariff reimbursements. The complaint seeks unspecified damages or restitution for the alleged tariff-cost"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 28123,
+            "context": "g after December 15, 2026, and interim periods beginning after December 15, 2027, and will be applied 8 Table of Contents retrospectively for periods presented in the financial statements. The Company is currently evaluating the impact that this new guidance may have on its financial statement disclosures. In September 2025, the FASB issued ASU 2025&#8209;06, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350&#8209;40): Targeted Improvements to the Accounting for Internal-Use Software. The amendment replaces the previous project-stage model with a principles-based approach for"
+          },
+          {
+            "charIndex": 28520,
+            "context": "rnal-Use Software (Subtopic 350&#8209;40): Targeted Improvements to the Accounting for Internal-Use Software. The amendment replaces the previous project-stage model with a principles-based approach for capitalizing internal-use software costs. This guidance is effective for annual reporting periods beginning after December 15, 2027 and interim reporting periods within that year. The Company is currently evaluating the impact that this new guidance may have on its accounting policies and related disclosures. Note 3. Net Revenue Disaggregated net revenue In addition to the disaggregation of net"
+          },
+          {
+            "charIndex": 28714,
+            "context": "oach for capitalizing internal-use software costs. This guidance is effective for annual reporting periods beginning after December 15, 2027 and interim reporting periods within that year. The Company is currently evaluating the impact that this new guidance may have on its accounting policies and related disclosures. Note 3. Net Revenue Disaggregated net revenue In addition to the disaggregation of net revenue by reportable segment in Note 11. Segmented Information, the following table disaggregates the Company's net revenue by geographic area. First Quarter 2026 2025 (In thousands) United St"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 83408,
+            "context": "r plans complying with the provisions of Rule 10b5-1 and Rule 10b-18 of the Securities Exchange Act of 1934, with the timing and actual number of shares repurchased depending upon market conditions, eligibility to trade, and other factors. Liquidity Outlook We believe our cash and cash equivalent balances, cash generated from operations, and borrowings available to us under our committed revolving credit facility will be adequate to meet our liquidity needs and capital expenditure requirements for at least the next 12 months. Our ability to access borrowings under the credit facility depends o"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 114913,
+            "context": "pabilities. We plan to continue to expand square footage and open new company-operated stores to support our growth objectives. The diversion of sales from our company-operated stores could adversely impact our return on investment and could lead to impairment charges and store closures, including incurring lease exit costs. We could have difficulty in recreating the in-store experience through direct channels. Our failure to successfully integrate our digital and physical channels and respond to these risks might adversely impact our business and results of operations, as well as damage our r"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 50747,
+            "context": "mpany believes the ultimate resolution of any such legal proceedings, audits, and inspections is not reasonably likely to have a material adverse effect on its consolidated balance sheets, results of operations or cash flows; however, litigation and regulatory matters are inherently 16 Table of Contents uncertain, and it is possible that an adverse outcome in one or more matters could have a material impact in a particular reporting period. The Company has recognized immaterial provisions related to the expected outcome of legal proceedings. On August 8, 2024, lululemon athletica inc. and cert"
+          },
+          {
+            "charIndex": 104543,
+            "context": "d increased administrative and shipping costs. Additionally, if the unacceptability of our products is not discovered until after such products are sold, our guests could lose confidence in our products, we could face a product recall, we could have regulatory exposure, and our results of operations could suffer and our business, reputation, and brand could be harmed. The hardware previously sold by our lululemon Studio subsidiary, as well as services currently offered, can be affected by design and manufacturing defects. Sophisticated operating system software and applications, such as those"
+          },
+          {
+            "charIndex": 105345,
+            "context": "rce from third parties. Any defects could make our products unsafe and create a risk of property damage or personal injury. The occurrence of real or perceived defects in any of our products, now or in the future, could result in negative publicity, regulatory investigations, or lawsuits filed against us. Our sales and profitability may decline as a result of increasing costs and decreasing selling prices. Our business is subject to pressure on costs and pricing caused by many factors, including tariffs, intense competition, constrained sourcing capacity, inflationary pressure, the availabilit"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 19253,
+            "context": "uary 1, 2026 5,116 5,116 $ — 111,380 $ 557 $ 669,392 $ 4,522,581 $ ( 230,690 ) $ 4,961,840 Net income 195,048 195,048 Other comprehensive income (loss), net of tax 13,302 13,302 Stock-based compensation expense 29,186 29,186 Common stock issued upon settlement of stock-based compensation 179 1 ( 1 ) — Shares withheld related to net share settlement of stock-based compensation ( 80 ) — ( 12,019 ) ( 12,019 ) Repurchase of common stock, including excise tax ( 2,171 ) ( 11 ) ( 5,406 ) ( 356,339 ) ( 361,756 ) Balance as of May 3, 2026 5,116 5,116 $ — 109,308 $ 547 $ 681,152 $ 4,361,290 $ ( 217,388"
+          },
+          {
+            "charIndex": 19343,
+            "context": "Net income 195,048 195,048 Other comprehensive income (loss), net of tax 13,302 13,302 Stock-based compensation expense 29,186 29,186 Common stock issued upon settlement of stock-based compensation 179 1 ( 1 ) — Shares withheld related to net share settlement of stock-based compensation ( 80 ) — ( 12,019 ) ( 12,019 ) Repurchase of common stock, including excise tax ( 2,171 ) ( 11 ) ( 5,406 ) ( 356,339 ) ( 361,756 ) Balance as of May 3, 2026 5,116 5,116 $ — 109,308 $ 547 $ 681,152 $ 4,361,290 $ ( 217,388 ) $ 4,825,601 Quarter Ended May 4, 2025 Exchangeable Stock Special Voting Stock Common Sto"
+          },
+          {
+            "charIndex": 20114,
+            "context": "uary 2, 2025 5,116 5,116 $ — 116,166 $ 581 $ 638,190 $ 4,109,717 $ ( 424,441 ) $ 4,324,047 Net income 314,572 314,572 Other comprehensive income (loss), net of tax 87,719 87,719 Stock-based compensation expense 23,091 23,091 Common stock issued upon settlement of stock-based compensation 195 — 221 221 Shares withheld related to net share settlement of stock-based compensation ( 89 ) — ( 25,641 ) ( 25,641 ) Repurchase of common stock, including excise tax ( 1,363 ) ( 7 ) ( 3,297 ) ( 431,135 ) ( 434,439 ) Balance as of May 4, 2025 5,116 5,116 $ — 114,909 $ 574 $ 632,564 $ 3,993,154 $ ( 336,722 )"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 16453,
+            "context": "es Accounts payable $ 294,323 $ 331,421 Accrued liabilities and other 586,317 662,982 Accrued compensation and related expenses 172,395 187,887 Current lease liabilities 357,204 298,724 Current income taxes payable 50,130 43,948 Unredeemed gift card liability 296,361 316,632 Other current liabilities 37,586 45,954 1,794,316 1,887,548 Non-current lease liabilities 1,778,804 1,499,717 Deferred income tax liabilities 75,251 52,278 Other non-current liabilities 57,469 55,360 3,705,840 3,494,903 Commitments and contingencies Stockholders' equity Undesignated preferred stock, $ 0.01 par value: 5,000"
+          },
+          {
+            "charIndex": 21544,
+            "context": "t assets ( 33,472 ) ( 13,524 ) Accounts payable ( 37,691 ) 22,489 Accrued liabilities and other ( 67,927 ) ( 42,971 ) Accrued compensation and related expenses ( 16,054 ) ( 65,635 ) Current income taxes payable 5,818 ( 160,295 ) Unredeemed gift card liability ( 20,461 ) ( 40,665 ) Right-of-use lease assets and current and non-current lease liabilities 18,158 ( 2,924 ) Other current and non-current liabilities 16,250 ( 1,927 ) Net cash provided by (used in) operating activities 214,440 ( 118,954 ) Cash flows from investing activities Purchase of property and equipment ( 127,380 ) ( 152,263 ) Se"
+          },
+          {
+            "charIndex": 50428,
+            "context": "tions by governmental agencies and other third parties which are incidental to the conduct of its business. This includes legal matters such as initiation and defense of proceedings to protect intellectual property rights, employment claims, product liability claims, personal injury claims, and similar matters. The Company believes the ultimate resolution of any such legal proceedings, audits, and inspections is not reasonably likely to have a material adverse effect on its consolidated balance sheets, results of operations or cash flows; however, litigation and regulatory matters are inherent"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-03-17",
+        "reportDate": "2026-02-01",
+        "accessionNumber": "0001397187-26-000020",
+        "primaryDocument": "lulu-20260201.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718726000020/lulu-20260201.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1397187/000139718726000020/"
+      },
+      "textLength": 314249,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations (\"MD&A\") is provided as a supplement to, and should be read in conjunction with, our consolidated financial statements and the related notes included elsewhere in this Annual Report on Form 10-K. Components of this MD&A include: &#8226; Overview &#8226; Financial Highlights and Market Conditions and Trends &#8226; Results of Operations &#8226; Comparison of 2025 to 2024 &#8226; Comparable Sales and Sales Per Square Foot &#8226; Non-GAAP Financial Measures &#8226; Liquidity and Capital Resources &#8226; Liquidity Outlook &#8226; Contractual Obligations and Commitments &#8226; Critical Accounting Policies and Estimates Our fiscal year ends on the Sunday closest to January 31 of the following year, typically resulting in a 52-week year, but occasionally giving rise to an additional week, resulting in a 53-week year. Fiscal 2025 was a 52-week year and fiscal 2024 was a 53-week year. Net revenue for 2024 includes results from the 53rd week; however, comparable sales are calculated on a one-week shifted basis such that the 52 weeks ended February 1, 2026 are compared to the 52 weeks ended February 2, 2025 rather than January 26, 2025. This discussion and analysis contains forward-looking statements based on current expectations that involve risks, uncertainties and assumptions, such as our plans, objectives, expectations, and intentions included in the \"Special Note Regarding Forward-Looking Statements.\" Our actual results and the timing of events may differ materially from those anticipated in these forward-looking statements as a result of various factors, including those described under \"Item 1A. Risk Factors\" of this report. These statements speak only as of the date of this report, and we do not undertake to update them, except as required by law. We use comparable sales as a metric to evaluate the performance of our business. Refer to the Comparable Sales and Sales Per Square Foot section of this MD&A for further information. We provide constant dollar changes, which is a non-GAAP financial measure, as supplemental information to help investors understand the underlying growth rate of net revenue excluding the impact of changes in foreign currency exchange rates. Refer to the Non-GAAP Financial Measures section of this MD&A for reconciliations between the non-GAAP financial measures and the most directly comparable measures calculated in accordance with GAAP. We disclose material non-public information through one or more of the following channels: our investor relations website (http://corporate.lululemon.com/investors), the social media channels identified on our investor relations website, press releases, SEC filings, public conference calls, and webcasts. Information contained on or accessible through our websites is not incorporated into, and does not form a part of, this annual report or any other report or document we file with the SEC, and any references to our websites are intended to be inactive textual references only. Overview In 2025, we delivered net revenue growth of 5%, with a 22% increase in our international regions offsetting a decrease of 1% in the Americas. Our international revenue growth was driven by a 29% increase in China Mainland, and a 16% increase in Rest of World. By product category, we saw a 5% increase in women's, 4% growth in men's, and an 8% increase in accessories and other categories. We expanded our retail presence by adding 44 net new company-operated stores, contributing to an 11% increase in square footage. Company-operated store net revenue increased 1% and e-commerce net revenue increased 8%. Operating margin decreased 380 basis points and diluted earnings per share decreased by 9%, mainly due to the impact from increased tariff rates in the United States, and the removal of the de minimis provision. We have taken mitigating actions, including selective price increases and vendor negotiations; however, we do not expect these actions to fully offset these incremental costs, and we believe tariffs and de minimis changes will continue to adversely affect gross margin and income from operations in 2026. See \"Import Tariffs\" below for additional information. 27 Table of Contents Over the course of 2025, we repurchased 5.0 million shares for $1.2 billion, and in December 2025, our board of directors approved a $1.0 billion increase to our stock repurchase authorization. Priorities and actions We have experienced declining revenue trends in North America and have developed an action plan to drive improvement in this region, while maintaining revenue growth in our international businesses. Our action plan is structured around three strategic pillars: product creation, product activation, and enterprise efficiency. Product Creation The goal of our Product Creation pillar is to ensure we deliver the product that our guests expect from lululemon. We are leveraging our Science of Feel principles across our performance and lifestyle assortments. Work streams within this pillar include: &#8226; Increasing the frequency and breadth of new styles. In 2025 new styles included Daydrift, Be Calm, Big Cozy, and Mile Maker. We are working to reinvigorate several of our key franchises including Scuba, Dance Studio, and ABC, while also maintaining a strong pipeline of new innovations across our performance offering. &#8226; Improving our speed to market. We are executing initiatives intended to reduce our product development timelines, which we believe may support more timely introduction of new styles and innovation. In addition, we have been enhancing our chase capabilities, with the objective of enabling more responsive replenishment of select strong&#8209;performing styles. Product Activation The aim of the Product Activation pillar is to ensure we are bringing our product to life for our guest in new and compelling ways across all channels. Work streams within this pillar include: &#8226; Improving the in-store experience by maximizing the impact of our assortments through individual item count reduction, improving in-store storytelling by shifting product adjacencies, and enhancing visual merchandising. &#8226; Improving the digital experience through continued enhancements to our website to elevate the guest experience and improve storytelling with the goal to increase conversion. &#8226; Continued investment in integrated marketing with a plan focused on driving awareness and excitement for product newness and innovation across our performance and lifestyle assortments. We are leveraging our ambassadors as well as carefully sourced creators, with a focus on engaging guests through social channels and community activations. Enterprise Efficiency We continue to take actions in both the near and longer term to ensure we are operating as efficiently as possible. These actions help mitigate the cost of increased tariffs and current revenue trends in the Americas. These include enterprise-wide operating efficiency and cost-saving initiatives, selective price increases, and supply chain initiatives. Financial Highlights The summary below compares 2025 to 2024: &#8226; Net revenue increased 5% to $11.1 billion. &#8226; Comparable sales increased 2%. &#8211; Americas comparable sales decreased 3%. &#8211; China Mainland comparable sales increased 20%, or 19% on a constant dollar basis. &#8211; Rest of World comparable sales increased 9%, or 7% on a constant dollar basis. &#8226; Gross profit was consistent at $6.3 billion. &#8226; Gross margin decreased 260 basis points to 56.6%. &#8226; Income from operations decreased 12% to $2.2 billion. 28 Table of Contents &#8226; Operating margin decreased 380 basis points to 19.9%. &#8226; Income tax expense decreased 13% to $659.8 million. Our effective tax rate for 2025 was 29.5% compared to 29.6% for 2024. &#8226; Diluted earnings per share were $13.26 for 2025 compared to $14.64 in 2024. Market Conditions and Trends Segment Trends Net revenue in the Americas decreased 1% and comparable sales in the Americas decreased 3%. We experienced lower conversion rates, store traffic, and average order value in the Americas, partially reflective of certain product categories, including core categories, experiencing lower demand. The decline in Americas comparable sales also contributed to a decline in global sales per square foot. We experienced a decrease in product margin in the Americas segment of 340 basis points, primarily reflective of the impact of tariffs and increased markdowns. We have initiated an action plan to drive sustainable net revenue growth in the Americas, as outlined in the overview section, which includes a plan to reduce the percentage of markdowns on our products. Net revenue in China Mainland and Rest of World increased 29% and 16%, and comparable sales increased 20% and 9%, respectively. We experienced increased traffic in these markets partially due to brand awareness and product category growth, which led to higher comparable sales, and opening 21 net new stores in China Mainland and nine net new stores in Rest of World contributed to the respective increases in net revenue. Across all markets, our business continues to be influenced by macroeconomic conditions, including trade policies, shifting consumer demand, foreign currency fluctuations, and geopolitical instability. These factors have had varying effects across our markets and are expected to continue to impact our business throughout 2026 and beyond. Import Tariffs On April 2, 2025, the U.S. Administration announced the implementation of a 10% baseline tariff on imports from nearly all countries with higher country-specific tariff rates scheduled to begin April 9, 2025. Subsequently, certain countries, including Vietnam, announced trade deals with the United States and most negotiated tariff rates are higher than the 10% baseline rate. The U.S. Administration eliminated the de minimis exemption for all countries effective August 29, 2025, with legislation enacted to repeal the statutory exemption entirely by July 1, 2027. These changes in the tariff landscape, including the de minimis removal, had a significant adverse effect on our business and results of operations. The countries from which we source the majority of our products are now subject to higher tariffs on imports into the United States. Further, the majority of our sales to U.S. e-commerce guests are currently fulfilled from distribution centers in Canada, and historically a significant proportion of these orders qualified for the de minimis exemption. The removal of this exemption increased the cost of fulfilling those orders. The unmitigated impact of increased tariffs and the removal of the de minimis exemption resulted in a reduction to gross profit for 2025 of approximately $275 million. As part of our enterprise efficiency efforts, we continue to take actions in both the near and longer term to help mitigate the cost of increased tariffs. On February 20, 2026, the U.S. Supreme Court invalidated tariffs imposed under the International Emergency Economic Power Act (\"IEEPA\"). Immediately following this IEEPA decision, the U.S. Administration initiated new tariffs at different rates under alternative legislative powers. The U.S. Administration also confirmed that the IEEPA decision does not impact the removal of the de minimis exemption. In 2025, we remitted $216 million of tariffs under the IEEPA; however, the IEEPA decision did not address the processes or timing for refund claims, and the ultimate amounts, if any, that we may recover remain uncertain. There remains significant uncertainty regarding the duration and scope of newly initiated tariffs and whether the United States will pursue additional trade actions or impose further tariffs. Based on the current landscape, mitigating actions are not expected to fully offset the effect of imposed tariffs and the removal of the de minimis exemption, and we expect continued decline in our gross margin and operating margin in 2026. Because this is an evolving area, future developments may change our expectations materially. For additional information on related risks, please see &#8220;Risk Factors&#8221; in this report. 29 Table of Contents Our updated forecasts, inclusive of the trends above, resulted in changes in the probability of achieving performance conditions of performance-based restricted stock units. Therefore, we recognized a reversal of stock-based compensation expense of $26.3 million during the second quarter of 2025. Other Factors Affecting Our Business Foreign currency fluctuations positively impacted our financial results during 2025, increasing net revenue growth by $27.6 million compared to 2024. We expect ongoing exchange rate volatility to continue affecting our financial results. The OBBBA includes, among other provisions, the permanent extension of certain provisions of the Tax Cuts and Jobs Act, the reinstatement of 100% bonus depreciation, the immediate expensing of qualifying research and development costs, and modifications to the international tax framework including changes to global intangible low-tax income, the base erosion and anti-abuse tax, and foreign-derived intangible income. Based on our current evaluation of the legislation, we do not expect these tax law changes to have a material impact on our consolidated financial statements. We will continue to assess the potential impacts of OBBBA as additional regulatory guidance becomes available. Results of Operations The following table summarizes key components of our results of operations for the periods indicated: 2025 2024 2025 2024 (In thousands) (Percentage of net revenue) Net revenue $ 11,102,600 $ 10,588,126 100.0 % 100.0 % Cost of goods sold 4,818,468 4,317,315 43.4 40.8 Gross profit 6,284,132 6,270,811 56.6 59.2 Selling, general and administrative expenses 4,066,556 3,762,379 36.6 35.5 Amortization of intangible assets 6,961 2,735 0.1 — Income from operations 2,210,615 2,505,697 19.9 23.7 Other income (expense), net 28,352 70,380 0.3 0.7 Income before income tax expense 2,238,967 2,576,077 20.2 24.3 Income tax expense 659,784 761,461 5.9 7.2 Net income $ 1,579,183 $ 1,814,616 14.2 % 17.1 % Comparison of 2025 to 2024 Net Revenue 2025 2024 2025 2024 Year over year change (In thousands) (Percentage of net revenue) (In thousands) (Percentage) (Constant dollar change) Americas $ 7,847,044 $ 7,928,156 70.7 % 74.9 % $ (81,112) (1) % (1) % China Mainland 1,754,799 1,361,337 15.8 12.9 393,462 29 28 Rest of World 1,500,757 1,298,633 13.5 12.3 202,124 16 14 Net revenue $ 11,102,600 $ 10,588,126 100.0 % 100.0 % $ 514,474 5 % 5 % The increase in net revenue was primarily due to increased China Mainland and Rest of World net revenue. Comparable sales increased 2%. The increase in comparable sales was primarily a result of higher e-commerce traffic, partially offset by lower conversion rates and a d",
+        "charRange": [
+          139400,
+          154400
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors\". In addition, we may make discretionary capital improvements with respect to our stores, distribution facilities, headquarters, or systems, or we may repurchase shares under an approved stock repurchase program, which we would expect to fund through the use of cash, issuance of debt or equity securities or other 36 Table of Contents external financing sources to the extent we were unable to fund such expenditures out of our cash and cash equivalents and cash generated from operations. The following table includes certain measures of our liquidity: February 1, 2026 (In thousands) Cash and cash equivalents $ 1,807,202 Working capital (1) excluding cash and cash equivalents 567,951 Capacity under committed revolving credit facility 593,635 __________ (1) Working capital is calculated as current assets of $4.3 billion less current liabilities of $1.9 billion. Capital expenditures are expected to range between $725.0 million and $745.0 million in 2026. Our current commitments with respect to inventory purchases are included within our purchase obligations outlined below. The timing and cost of our inventory purchases will vary depending on a variety of factors such as revenue growth, assortment and purchasing decisions, product costs including freight and duty, and the availability of production capacity and speed. Our inventory balance as of February 1, 2026 was $1.7 billion, an increase of 18% from February 2, 2025. We expect that our inventories will increase in the mid-single digits by the end of 2026. On a unit basis, we expect inventories to slightly decrease. Our existing Americas credit facility provides for $600.0 million in commitments under an unsecured five-year revolving credit facility. The credit facility has a maturity date of October 15, 2030. As of February 1, 2026, no borrowings were outstanding under this facility other than letters of credit and guarantee of $6.4 million. Further information regarding our credit facilities and associated covenants is outlined in Note 13. Revolving Credit Facilities included in Item 8 of Part II of this report. Contractual Obligations and Commitments Leases. We lease certain store and other retail locations, distribution centers, offices, and equipment under non-cancelable operating leases. Our leases generally have initial terms of between two and 15 years, and generally can be extended in increments between two and five years, if at all. The following table details our future minimum lease payments. Minimum lease commitments exclude variable lease expenses including contingent rent payments, common area maintenance, property taxes, and landlord's insurance. Purchase obligations. The amounts listed for purchase obligations in the table below represent agreements (including open purchase orders) to purchase products and for other expenditures in the ordinary course of business that are enforceable and legally binding and that specify all significant terms. In some cases, values are subject to change, such as for product purchases throughout the production process. The reported amounts exclude liabilities included in our consolidated balance sheets as of February 1, 2026. The following table summarizes our contractual arrangements due by fiscal year as of February 1, 2026, and the timing and effect that such commitments are expected to have on our liquidity and cash flows in future periods: Total 2026 2027 2028 2029 2030 Thereafter (In thousands) Operating leases (minimum rent) $ 2,103,820 $ 370,705 $ 391,976 $ 334,124 $ 287,375 $ 182,005 $ 537,635 Purchase obligations 631,644 578,093 16,347 24,204 13,000 — — As of February 1, 2026, our minimum operating lease commitment for distribution center operating leases which have been committed to, but not yet commenced, was $278.5 million, which is not reflected in the table above. We enter into standby letters of credit to secure certain of our obligations, including leases, taxes, and duties. As of February 1, 2026, letters of credit and letters of guarantee totaling $14.5 million had been issued, including $6.4 million under our committed revolving credit facility. 37 Table of Contents Critical Accounting Policies and Estimates The preparation of financial statements in conformity with U.S. generally accepted accounting principles requires management to make estimates and assumptions. Predicting future events is inherently an imprecise activity and, as such, requires the use of significant judgment. Actual results may vary from our estimates in amounts that may be material to the financial statements. An accounting policy is deemed to be critical if it requires an accounting estimate to be made based on assumptions about matters that are highly uncertain at the time the estimate is made, and if different estimates that reasonably could have been used or changes in the accounting estimates that are reasonably likely to occur periodically, could materially impact our consolidated financial statements. Management has reviewed these critical accounting policies and estimates and discussed them with the audit committee. Our critical accounting policies, estimates, and judgments are as follows, and see Note 2. Summary of Significant Accounting Policies included in Item 8 of Part II for additional information: Inventory provision Inventory is valued at the lower of cost and net realizable value. We periodically review our inventories and make a provision for obsolescence and goods that have quality issues or that are damaged. We record a provision at an amount that is equal to the difference between the inventory cost and its net realizable value. As of February 1, 2026, the net carrying value of our inventories was $1.7 billion, which included provisions for obsolete and damaged inventory of $87.1 million. The provision is determined based upon assumptions about product quality, damages, future demand, selling prices, and market conditions. A decrease in product demand due to changing consumer preferences, or increased competition could impact the Company's evaluation of its inventory, and additional reserves might be required. Deferred taxes on undistributed net investment of foreign subsidiaries. We have not recognized U.S. state income taxes and foreign withholding taxes on the net investment in our subsidiaries which we have determined to be indefinitely reinvested. This determination is based on the cash flow projections and operational and fiscal objectives of each of our foreign subsidiaries. Such estimates are inherently imprecise since many assumptions utilized in the projections are subject to revision in the future. For the portion of our net investment in our Canadian subsidiaries that is not indefinitely reinvested, we have recorded a deferred tax liability for the taxes which would be due upon repatriation. For distributions made by our Canadian subsidiaries, the amount of tax payable is partially dependent on how the repatriation transactions are made. The deferred tax liability has been recorded on the basis that we would choose to make the repatriation transactions in the most tax-efficient manner. Specifically, to the extent that the Canadian subsidiaries have sufficient paid-up capital, any such distributions would be made as a return of capital, rather than as a dividend, and therefore would not be subject to Canadian withholding tax. As of February 1, 2026, the net investment in our Canadian subsidiaries was $3.3 billion, of which $1.6 billion was determined to be indefinitely reinvested. The paid-up capital balance of the Canadian subsidiaries was approximately $368.7 million. We have recognized a deferred tax liability of $80.7 million as of February 1, 2026 which represents the Canadian withholding taxes payable on the portion of our Canadian earnings and other foreign earnings that are not indefinitely reinvested and cannot be repatriated as a return of capital, and U.S. state income taxes payable upon repatriation of the amounts which are not indefinitely reinvested. In future periods, if the net investment in our Canadian subsidiaries and other foreign subsidiaries continues to grow, whether due to the accumulation of profits by these subsidiaries or due to a change in the amount that is indefinitely reinvested, we will record additional deferred tax liabilities, including both Canadian and foreign withholding taxes for the amounts in excess of the paid-up capital balance and U.S. state income taxes. Contingencies We are involved in legal proceedings regarding contractual and employment relationships and a variety of other matters. We record contingent liabilities when a loss is assessed to be probable and its amount is reasonably estimable. If it is reasonably possible that a material loss could occur through ongoing litigation, we provide disclosure in the footnotes to our financial statements. Assessing probability of loss and estimating the amount of probable losses requires analysis of multiple factors, including in some cases judgments about the potential actions of third-party claimants and courts. Should we experience adverse court judgments or should negotiated outcomes differ to our expectations with respect to such ongoing litigation, it could have a material adverse effect on our results of operations, financial position, and cash flows. 38 Table of Contents ITEM 7A.",
+        "charRange": [
+          174699,
+          184085
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 27444,
+            "context": "ort and some documents incorporated by reference include estimates, projections, statements relating to our business plans, objectives, and expected operating results that are \"forward-looking statements\" within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. We use words such as \"anticipates,\" \"believes,\" \"estimates,\" \"may,\" \"intends,\" \"expects,\" and similar expressions to identify forward-looking statements. Discussions containing forward-looking statements may be found unde"
+          },
+          {
+            "charIndex": 103082,
+            "context": "he storage, transmission, and safeguarding of this information. However, despite our safeguards and security processes and protections, security breaches could occur and expose us to a risk of theft or misuse of this information, and could result in litigation and potential liability. The retail industry has been the target of recent cyberattacks. We may not have the resources or technical sophistication to anticipate, detect, or prevent rapidly evolving types of cyberattacks. Attacks may be targeted at us, our vendors or customers, or others who have entrusted us with information. In addition"
+          },
+          {
+            "charIndex": 108383,
+            "context": "providers to comply with these laws, regulations, policies or regulatory guidance may (2) PRC includes China Mainland, Hong Kong SAR, Taiwan, and Macau SAR. 18 Table of Contents subject us to potential regulatory enforcement activity, fines, private litigation including class actions, and other costs and might have a materially adverse impact on our reputation, business operations, financial condition, or results of operations. Disruption of our technology systems or unexpected network interruption could disrupt our business. We are dependent on networks, technology systems, and third parties"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 108404,
+            "context": "ith these laws, regulations, policies or regulatory guidance may (2) PRC includes China Mainland, Hong Kong SAR, Taiwan, and Macau SAR. 18 Table of Contents subject us to potential regulatory enforcement activity, fines, private litigation including class actions, and other costs and might have a materially adverse impact on our reputation, business operations, financial condition, or results of operations. Disruption of our technology systems or unexpected network interruption could disrupt our business. We are dependent on networks, technology systems, and third parties to operate our e-comm"
+          },
+          {
+            "charIndex": 118311,
+            "context": "ic claims and litigation that could result in unexpected expenses and could ultimately be resolved against us. From time to time, we are involved in litigation and other proceedings, including matters related to product liability claims, stockholder class action and derivative claims, commercial disputes and intellectual property, as well as trade, regulatory, employment, and other claims related to our business. Any of these proceedings could result in significant settlement amounts, damages, fines, or other penalties, divert financial and management resources, and result in significant legal"
+          },
+          {
+            "charIndex": 286880,
+            "context": "porting period. The Company has recognized immaterial provisions related to the expected outcome of legal proceedings. On August 8, 2024, lululemon athletica inc. and certain officers of the Company were named as defendants in a purported securities class action ( Patel v. Lululemon Athletica Inc., et al ., No. 1:24-cv-06033) in the United States District Court for the Southern District of New York. On March 10, 2025, plaintiffs filed an amended complaint, asserting claims under Sections 10(b) and 20(a) of the Securities Exchange Act of 1934 based on allegedly false and misleading public state"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 77989,
+            "context": "tes. Changes in tariff and customs policy and legislation could affect the level of duties imposed and our overall product costs. This volatility makes it more difficult to forecast costs, plan our global supply chain, and provide reliable financial guidance. Policy changes often require rapid operational adjustments that can increase costs and reduce efficiency. Announcements of tariff and custom changes, as well as our disclosures of their potential impacts, have at times contributed to fluctuations in our stock price. We expect such volatility and uncertainty to continue, posing ongoing cha"
+          },
+          {
+            "charIndex": 82729,
+            "context": "changes in rates, sudden elimination or reinstatement of exemptions, shifts in implementation dates, and uncertainty around transshipment rules, makes it more difficult to forecast costs, plan our global supply chain, and provide reliable financial guidance. Changes in tax laws, transfer pricing, or unanticipated tax liabilities could adversely affect our effective income tax rate and profitability. We are subject to the income tax laws of the United States, Canada, China Mainland, and other international jurisdictions. Our effective income tax rates could be unfavorably impacted by changes i"
+          },
+          {
+            "charIndex": 83269,
+            "context": "income tax rates could be unfavorably impacted by changes in the mix of earnings amongst countries with differing statutory tax rates, changes in the valuation of deferred tax assets and liabilities, changes in tax laws, new tax interpretations and guidance, the outcome of income tax audits, and any repatriation of unremitted earnings for which we have not previously accrued applicable income taxes and withholding taxes. Repatriations from our Canadian subsidiaries may be subject to Canadian withholding taxes depending on the amount of paid-up capital available. Since 2022, we have recognized"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 140004,
+            "context": "lights and Market Conditions and Trends &#8226; Results of Operations &#8226; Comparison of 2025 to 2024 &#8226; Comparable Sales and Sales Per Square Foot &#8226; Non-GAAP Financial Measures &#8226; Liquidity and Capital Resources &#8226; Liquidity Outlook &#8226; Contractual Obligations and Commitments &#8226; Critical Accounting Policies and Estimates Our fiscal year ends on the Sunday closest to January 31 of the following year, typically resulting in a 52-week year, but occasionally giving rise to an additional week, resulting in a 53-week year. Fiscal 2025 was a 52-week year and fiscal 2"
+          },
+          {
+            "charIndex": 174055,
+            "context": "r plans complying with the provisions of Rule 10b5-1 and Rule 10b-18 of the Securities Exchange Act of 1934, with the timing and actual number of shares repurchased depending upon market conditions, eligibility to trade, and other factors. Liquidity Outlook We believe our cash and cash equivalent balances, cash generated from operations, and borrowings available to us under our committed revolving credit facility will be adequate to meet our liquidity needs and capital expenditure requirements for at least the next 12 months. Our ability to access borrowings under the credit facility depends o"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 72924,
+            "context": "pabilities. We plan to continue to expand square footage and open new company-operated stores to support our growth objectives. The diversion of sales from our company-operated stores could adversely impact our return on investment and could lead to impairment charges and store closures, including incurring lease exit costs. We could have difficulty in recreating the in-store experience through direct channels. Our failure to successfully integrate our digital and physical channels and respond to these risks might adversely impact our business and results of operations, as well as damage our r"
+          },
+          {
+            "charIndex": 202134,
+            "context": "ebruary 2, 2025 January 28, 2024 Net revenue $ 11,102,600 $ 10,588,126 $ 9,619,278 Cost of goods sold 4,818,468 4,317,315 4,009,873 Gross profit 6,284,132 6,270,811 5,609,405 Selling, general and administrative expenses 4,066,556 3,762,379 3,397,218 Impairment of assets and restructuring costs — — 74,501 Amortization of intangible assets 6,961 2,735 5,010 Income from operations 2,210,615 2,505,697 2,132,676 Other income (expense), net 28,352 70,380 43,059 Income before income tax expense 2,238,967 2,576,077 2,175,735 Income tax expense 659,784 761,461 625,545 Net income $ 1,579,183 $ 1,814,616"
+          },
+          {
+            "charIndex": 205715,
+            "context": "ting activities Net income $ 1,579,183 $ 1,814,616 $ 1,550,190 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 496,228 446,524 379,384 lululemon Studio obsolescence provision — — 23,709 Impairment of assets and restructuring costs — — 74,501 Stock-based compensation expense 62,203 90,011 93,560 Derecognition of unredeemed gift card liability ( 37,766 ) ( 36,231 ) ( 28,547 ) Settlement of derivatives not designated in a hedging relationship ( 34,552 ) ( 47,763 ) 32,527 Deferred income taxes ( 53,379 ) 57,451 ( 28,383 ) Changes in o"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 62431,
+            "context": "d increased administrative and shipping costs. Additionally, if the unacceptability of our products is not discovered until after such products are sold, our guests could lose confidence in our products, we could face a product recall, we could have regulatory exposure, and our results of operations could suffer and our business, reputation, and brand could be harmed. The hardware previously sold by our lululemon Studio subsidiary, as well as services currently offered, can be affected by design and manufacturing defects. Sophisticated operating system software and applications, such as those"
+          },
+          {
+            "charIndex": 63233,
+            "context": "rce from third parties. Any defects could make our products unsafe and create a risk of property damage or personal injury. The occurrence of real or perceived defects in any of our products, now or in the future, could result in negative publicity, regulatory investigations, or lawsuits filed against us. 10 Table of Contents Our sales and profitability may decline as a result of increasing costs and decreasing selling prices. Our business is subject to pressure on costs and pricing caused by many factors, including tariffs, intense competition, constrained sourcing capacity, inflationary pres"
+          },
+          {
+            "charIndex": 66169,
+            "context": "ognition in new international markets and new product categories may limit our expansion and cause our business and growth to suffer. Our future growth depends in part on our expansion efforts outside of the Americas. We have limited experience with regulatory environments and market practices internationally, and we may not be able to penetrate or successfully operate in any new market. In connection with our expansion efforts, we may encounter obstacles we did not face in the Americas, including cultural and linguistic differences, differences in regulatory environments, labor practices and"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 87863,
+            "context": "e imposition of significant penalties or claims, which could harm our results of operations or our ability to conduct our business. In addition, any audits and inspections by governmental agencies related to these matters could result in significant settlement amounts, damages, fines, or other penalties, divert financial and management resources, and result in significant legal fees. An unfavorable outcome of any particular proceeding could have an adverse impact on our business, financial condition, and results of operations. In addition, the adoption of new regulations or changes in the inte"
+          },
+          {
+            "charIndex": 118531,
+            "context": "liability claims, stockholder class action and derivative claims, commercial disputes and intellectual property, as well as trade, regulatory, employment, and other claims related to our business. Any of these proceedings could result in significant settlement amounts, damages, fines, or other penalties, divert financial and management resources, and result in significant legal fees. An unfavorable outcome of any particular proceeding could exceed the limits of our insurance policies or the carriers may decline to fund such final settlements and/or judgments and could have an adverse impact on"
+          },
+          {
+            "charIndex": 118817,
+            "context": "or other penalties, divert financial and management resources, and result in significant legal fees. An unfavorable outcome of any particular proceeding could exceed the limits of our insurance policies or the carriers may decline to fund such final settlements and/or judgments and could have an adverse impact on our business, financial condition, and results of operations. In addition, any proceeding could negatively impact our reputation among our guests and our brand image. There is considerable patent and other intellectual property development activity in our market, and litigation, based"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 98855,
+            "context": "laws or there is negative publicity regarding the production methods of any of our suppliers or manufacturers, even if unfounded or not specific to our supply chain, our reputation and sales could be adversely affected, we could be subject to legal liability, or could cause us to contract with alternative suppliers or manufacturing sources. The fluctuating cost of raw materials and the cost of producing our products could increase our cost of goods sold. The fabrics used to make our products include synthetic fabrics whose raw materials include petroleum-based products. Our products also incl"
+          },
+          {
+            "charIndex": 103107,
+            "context": "and safeguarding of this information. However, despite our safeguards and security processes and protections, security breaches could occur and expose us to a risk of theft or misuse of this information, and could result in litigation and potential liability. The retail industry has been the target of recent cyberattacks. We may not have the resources or technical sophistication to anticipate, detect, or prevent rapidly evolving types of cyberattacks. Attacks may be targeted at us, our vendors or customers, or others who have entrusted us with information. In addition, despite taking measures"
+          },
+          {
+            "charIndex": 115334,
+            "context": "iness and the number of products we offer. Our defense of any claim, regardless of its merit, could be expensive and time-consuming and could divert management resources. Successful infringement claims against us could result in significant monetary liability or prevent us from selling some of our products. In addition, resolution of claims may require us to redesign our products, license rights from third parties, or cease using those rights altogether. Any of these events could harm our business and cause our results of operations, liquidity, and financial condition to suffer. Risks related"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "points": [
+        {
+          "start": "2026-02-02",
+          "end": "2026-05-03",
+          "val": 2471603000,
+          "accn": "0001397187-26-000078",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-06-04",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-02-03",
+          "end": "2026-02-01",
+          "val": 11102600000,
+          "accn": "0001397187-26-000020",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-17",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-08-04",
+          "end": "2025-11-02",
+          "val": 2565920000,
+          "accn": "0001397187-25-000055",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-11",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-02-03",
+          "end": "2025-11-02",
+          "val": 7461799000,
+          "accn": "0001397187-25-000055",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-11"
+        },
+        {
+          "start": "2025-05-05",
+          "end": "2025-08-03",
+          "val": 2525219000,
+          "accn": "0001397187-25-000039",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-09-04",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-02-03",
+          "end": "2025-08-03",
+          "val": 4895879000,
+          "accn": "0001397187-25-000039",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-09-04"
+        },
+        {
+          "start": "2025-02-03",
+          "end": "2025-05-04",
+          "val": 2370660000,
+          "accn": "0001397187-26-000078",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-06-04",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-02-03",
+          "end": "2025-05-04",
+          "val": 2370660000,
+          "accn": "0001397187-25-000027",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-06-05"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-02-02",
+          "end": "2026-05-03",
+          "val": 1.69,
+          "accn": "0001397187-26-000078",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-06-04",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-02-03",
+          "end": "2026-02-01",
+          "val": 13.26,
+          "accn": "0001397187-26-000020",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-17",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-08-04",
+          "end": "2025-11-02",
+          "val": 2.59,
+          "accn": "0001397187-25-000055",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-11",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-02-03",
+          "end": "2025-11-02",
+          "val": 8.29,
+          "accn": "0001397187-25-000055",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-11"
+        },
+        {
+          "start": "2025-05-05",
+          "end": "2025-08-03",
+          "val": 3.1,
+          "accn": "0001397187-25-000039",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-09-04",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-02-03",
+          "end": "2025-08-03",
+          "val": 5.7,
+          "accn": "0001397187-25-000039",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-09-04"
+        },
+        {
+          "start": "2025-02-03",
+          "end": "2025-05-04",
+          "val": 2.6,
+          "accn": "0001397187-26-000078",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-06-04",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-02-03",
+          "end": "2025-05-04",
+          "val": 2.6,
+          "accn": "0001397187-25-000027",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-06-05"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-02-02",
+          "end": "2026-05-03",
+          "val": 195048000,
+          "accn": "0001397187-26-000078",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-06-04",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-02-03",
+          "end": "2026-02-01",
+          "val": 1579183000,
+          "accn": "0001397187-26-000020",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-17"
+        },
+        {
+          "start": "2025-08-04",
+          "end": "2025-11-02",
+          "val": 306835000,
+          "accn": "0001397187-25-000055",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-11",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-02-03",
+          "end": "2025-11-02",
+          "val": 992312000,
+          "accn": "0001397187-25-000055",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-11"
+        },
+        {
+          "start": "2025-05-05",
+          "end": "2025-08-03",
+          "val": 370905000,
+          "accn": "0001397187-25-000039",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-09-04",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-02-03",
+          "end": "2025-08-03",
+          "val": 685477000,
+          "accn": "0001397187-25-000039",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-09-04"
+        },
+        {
+          "start": "2025-02-03",
+          "end": "2025-05-04",
+          "val": 314572000,
+          "accn": "0001397187-26-000078",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-06-04",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-02-03",
+          "end": "2025-05-04",
+          "val": 314572000,
+          "accn": "0001397187-25-000027",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-06-05"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2026-02-02",
+          "end": "2026-05-03",
+          "val": 276946000,
+          "accn": "0001397187-26-000078",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-06-04",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-02-03",
+          "end": "2026-02-01",
+          "val": 2210615000,
+          "accn": "0001397187-26-000020",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-17",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-08-04",
+          "end": "2025-11-02",
+          "val": 435886000,
+          "accn": "0001397187-25-000055",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-11",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-02-03",
+          "end": "2025-11-02",
+          "val": 1398325000,
+          "accn": "0001397187-25-000055",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-11"
+        },
+        {
+          "start": "2025-05-05",
+          "end": "2025-08-03",
+          "val": 523814000,
+          "accn": "0001397187-25-000039",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-09-04",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-02-03",
+          "end": "2025-08-03",
+          "val": 962439000,
+          "accn": "0001397187-25-000039",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-09-04"
+        },
+        {
+          "start": "2025-02-03",
+          "end": "2025-05-04",
+          "val": 438625000,
+          "accn": "0001397187-26-000078",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-06-04",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-02-03",
+          "end": "2025-05-04",
+          "val": 438625000,
+          "accn": "0001397187-25-000027",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-06-05"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "LULU",
+    "name": "lululemon athletica inc.",
+    "sector": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
+    "pe": 10.32,
+    "pb": 3.17,
+    "ret3m": -4.3342,
+    "ret6m": -25.5115,
+    "roe": 32.73,
+    "debtEquity": 0,
+    "revenueGrowth": 4.86,
+    "epsGrowth": -9.43,
+    "fcfGrowth": -41.79,
+    "operatingMargin": 19.91,
+    "marginTrend": -3.76,
+    "sentiment": 0.444,
+    "analyst": 46.3,
+    "beta": 0.91164774
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "Michael Burry Is Buying Lululemon (LULU) and MercadoLibre (MELI). Should You?",
+        "url": "https://finnhub.io/api/news?id=174bec34ea4494cdf7eb4178f89433692c5dbfc4b214926f9b5d1724c6e4be8e",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Are International Logistics Improvements Paying Off for NIKE?",
+        "url": "https://finnhub.io/api/news?id=84041876629b155c523d608c0f5340474f3dd5c0a296d0f850ddcdfca41f96dd",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "lululemon: International Growth, Execution Improvements And Low Valuation",
+        "url": "https://finnhub.io/api/news?id=098f1d1d693e62e1183b65e2b8b9cd35819ceaa3443eb7c2a8f257fe29e05125",
+        "source": "SeekingAlpha",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Under Armour stock drops: AlphaSpace chart breakdown",
+        "url": "https://finnhub.io/api/news?id=6ffc4a48960ca4e309b86054842956961125b92316945d4dc3bf32ba782f49ca",
+        "source": "Yahoo",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "Why The Federal Reserve Might Hike Rates After The July CPI Report",
+        "url": "https://finnhub.io/api/news?id=b79a6cfd5154d938a7678508720307af5f37004d433fa1953d4328a22224feec",
+        "source": "SeekingAlpha",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "Fashion’s biggest brands spent years letting eBay and Depop resell their clothes. Now they want the money.",
+        "url": "https://finnhub.io/api/news?id=a2af15d0c629e83e02339f0b53c5770b74a90c13126b7403c052435e74f55d55",
+        "source": "Yahoo",
+        "date": "2026-08-06"
+      }
+    ],
+    "cachedAt": "2026-08-11T05:58:17.977Z"
+  }
+}

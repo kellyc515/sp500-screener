@@ -1,0 +1,547 @@
+{
+  "ticker": "NKE",
+  "entityName": "NIKE, Inc.",
+  "cik": "0000320187",
+  "generatedAt": "2026-08-11T18:22:17.411Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-04-01",
+        "reportDate": "2026-02-28",
+        "accessionNumber": "0000320187-26-000037",
+        "primaryDocument": "nke-20260228.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000037/nke-20260228.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000037/"
+      },
+      "textLength": 190935,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations\" section within the Annual Report have the greatest potential impact on our Unaudited Condensed Consolidated Financial Statements, so we consider these to be our critical accounting estimates. Because of the uncertainty inherent in these matters, actual results could differ from these estimates. Within the context of these critical accounting estimates, we are not currently aware of any reasonably likely events or circumstances that would result in materially different amounts being reported. 46 Table of Contents ITEM 3.",
+        "charRange": [
+          178066,
+          178679
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "risk factors from those disclosed in Part I, Item 1A of our Annual Report on Form 10-K for the fiscal year ended May 31, 2025. 49 Table of Contents ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS In June 2022, the Board of Directors approved a four-year, $18 billion share repurchase program. As of February 28, 2026, the Company had repurchased 124.4 million shares at an average price of $97.57 per share for a total approximate cost of $12.1 billion under the program. No shares were repurchased during the quarter ended February 28, 2026. We paused repurchases under this program during the first quarter of fiscal 2026. All share repurchases were made under NIKE's publicly announced program, and there are no other programs under which the Company repurchases shares. 50 Table of Contents ITEM 5. OTHER INFORMATION Rule 10b5-1 Trading Plans During the fiscal quarter ended February 28, 2026, none of our directors or officers (as defined in Rule 16a-1 under the Exchange Act) adopted or terminated a \"Rule 10b5-1 trading arrangement\" or \"non-Rule 10b5-1 trading arrangement\" (as those terms are defined in Item 408 of Regulation S-K), except as follows: On December 12, 2025 , Venkatesh Alagirisamy , Executive Vice President, Chief Operating Officer , adopted a Rule 10b5-1 trading arrangement for the sale of up to 53,331 shares of our Class B Common Stock, subject to certain conditions. The arrangement's expiration date is April 30, 2027 . On December 24, 2025 , Mark Parker , Executive Chairman , adopted a Rule 10b5-1 trading arrangement for the sale of up to 165,000 shares of our Class B Common Stock and also provides for gifts of up to 44,731 shares of our Class B Common Stock, subject to certain conditions. The arrangement's expiration date is November 13, 2026 . 51 Table of Contents ITEM 6.",
+        "charRange": [
+          187137,
+          188970
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 181686,
+            "context": "r incorporated by reference from time to time by NIKE or its representatives in this report, other reports, filings with the SEC, press releases, conferences or otherwise, are \"forward-looking statements\" within the meaning of the Private Securities Litigation Reform Act of 1995 and Section 21E of the Securities Exchange Act of 1934, as amended. Forward-looking statements include, without limitation, any statement that may predict, forecast, indicate or imply future results, performance or achievements, and may contain the words \"believe,\" \"anticipate,\" \"expect,\" \"estimate,\" \"project,\" \"will b"
+          },
+          {
+            "charIndex": 185660,
+            "context": "in borrowing costs due to any decline in NIKE's debt ratings; changes in business strategy or development plans; the impact of, including business and legal developments relating to, climate change, extreme weather conditions and natural disasters; litigation, regulatory proceedings, sanctions or any other claims asserted against NIKE; the ability to attract and retain qualified employees, and any negative public perception with respect to key personnel or our corporate culture, values or purpose; the effects of NIKE's decision to invest in or divest of businesses or capabilities; health epid"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 58351,
+            "context": "ash provided (used) by operations: Net income $ 2,039 $ 3,008 Adjustments to reconcile net income to net cash provided (used) by operations: Depreciation and amortization 554 576 Deferred income taxes ( 132 ) ( 304 ) Stock-based compensation 555 544 Impairment and other 40 35 Net foreign currency adjustments 1 24 Changes in certain working capital components and other assets and liabilities: (Increase) decrease in accounts receivable ( 623 ) ( 164 ) (Increase) decrease in inventories 24 ( 99 ) (Increase) decrease in prepaid expenses, operating lease right-of-use assets and other current and no"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 185672,
+            "context": "g costs due to any decline in NIKE's debt ratings; changes in business strategy or development plans; the impact of, including business and legal developments relating to, climate change, extreme weather conditions and natural disasters; litigation, regulatory proceedings, sanctions or any other claims asserted against NIKE; the ability to attract and retain qualified employees, and any negative public perception with respect to key personnel or our corporate culture, values or purpose; the effects of NIKE's decision to invest in or divest of businesses or capabilities; health epidemics, pande"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 132212,
+            "context": "nsactions outside the normal course of business. THIRD QUARTER OF FISCAL 2026 COMPARED TO THIRD QUARTER OF FISCAL 2025 Other (income) expense, net increased from $38 million of other income, net, to $82 million of other income, net, primarily due to settlements of legal matters, partially offset by an unfavorable net change in foreign currency conversion gains and losses, including hedges. FIRST NINE MONTHS OF FISCAL 2026 COMPARED TO FIRST NINE MONTHS OF FISCAL 2025 Other (income) expense, net decreased from $101 million of other income, net, to $43 million of other income, net, primarily due"
+          },
+          {
+            "charIndex": 132678,
+            "context": "2025 Other (income) expense, net decreased from $101 million of other income, net, to $43 million of other income, net, primarily due to an unfavorable net change in foreign currency conversion gains and losses, including hedges, partially offset by settlements of legal matters. INCOME TAXES THREE MONTHS ENDED FEBRUARY 28, NINE MONTHS ENDED FEBRUARY 28, 2026 2025 % CHANGE 2026 2025 % CHANGE Effective tax rate 20.0 % 5.9 % 1,410 bps 20.7 % 15.7 % 500 bps THIRD QUARTER OF FISCAL 2026 COMPARED TO THIRD QUARTER OF FISCAL 2025 Our effective tax rate increased from 5.9% to 20.0%, primarily due to a"
+          },
+          {
+            "charIndex": 161276,
+            "context": "rofit; &#8226; a favorable change of $12 million in Operating overhead expense, primarily related to lower other administrative costs, partially offset by higher wage-related expense; and &#8226; a favorable change of $5 million primarily related to settlements of legal matters, mostly offset by remeasurement of monetary assets and liabilities denominated in non-functional currencies and the impact of certain foreign currency derivative instruments, reported as a component of consolidated Other (income) expense, net. FIRST NINE MONTHS OF FISCAL 2026 COMPARED TO FIRST NINE MONTHS OF FISCAL 2025"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 69978,
+            "context": "$ 376 $ 98 Interest rate swaps (1) 85 — 85 — — — TOTAL $ 250 $ 140 $ 110 $ 474 $ 376 $ 98 (1) If the foreign exchange and interest rate swap derivative instruments had been netted on the Unaudited Condensed Consolidated Balance Sheets, the asset and liability positions each would have been reduced by $ 225 million as of February 28, 2026. As of that date, the Company received $ 18 million from various counterparties on the derivative asset balance and posted $ 189 million of cash collateral to counterparties on the derivative liability balance. MAY 31, 2025 DERIVATIVE ASSETS DERIVATIVE LIABILI"
+          },
+          {
+            "charIndex": 70260,
+            "context": "ave been reduced by $ 225 million as of February 28, 2026. As of that date, the Company received $ 18 million from various counterparties on the derivative asset balance and posted $ 189 million of cash collateral to counterparties on the derivative liability balance. MAY 31, 2025 DERIVATIVE ASSETS DERIVATIVE LIABILITIES (Dollars in millions) ASSETS AT FAIR VALUE OTHER CURRENT ASSETS OTHER LONG-TERM ASSETS LIABILITIES AT FAIR VALUE ACCRUED LIABILITIES OTHER LONG-TERM LIABILITIES Level 2: Foreign exchange forwards and options (1) $ 107 $ 85 $ 22 $ 368 $ 226 $ 142 Interest rate swaps (1) 24 — 24"
+          },
+          {
+            "charIndex": 70797,
+            "context": "107 $ 85 $ 22 $ 368 $ 226 $ 142 Interest rate swaps (1) 24 — 24 3 — 3 TOTAL $ 131 $ 85 $ 46 $ 371 $ 226 $ 145 (1) If the foreign exchange and interest rate swap derivative instruments had been netted on the Consolidated Balance Sheets, the asset and liability positions each would have been reduced by $ 131 million as of May 31, 2025. As of that date, the Company posted $ 166 million of cash collateral to various counterparties on the derivative liability balance and no amount of collateral was received from counterparties on the derivative asset balance. For additional information related to t"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-07-15",
+        "reportDate": "2026-05-31",
+        "accessionNumber": "0000320187-26-000088",
+        "primaryDocument": "nke-20260531.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/"
+      },
+      "textLength": 420666,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations in our fiscal 2025 Form 10-K, which was filed with the United States Securities and Exchange Commission on July 17, 2025. 2026 FORM 10-K 29 Table of Contents FACTORS IMPACTING OUR BUSINESS We are navigating through several external factors that create uncertainty and volatility in the operating environment, including, but not limited to, geopolitical dynamics, tax regulation, fluctuating foreign currency exchange rates and evolving tariff policies. These factors, and any changes to these factors, among others, could have a material adverse impact on consumer behavior and on our future Revenues and overall profitability. For a discussion of these factors and other risks, refer to Item 1A. Risk Factors. Despite these factors, we are focused on driving distinction within key sports, building a complete product portfolio, creating stories to inspire and emotionally connect with consumers, and elevating and growing the entire marketplace as we continue to take actions across the following areas: &#8226; Product Management: Accelerating product innovation and reducing the supply of certain footwear products in the marketplace to rebalance the mix of our footwear portfolio. &#8226; Marketplace Management: Repositioning NIKE Brand Digital as a full-price platform and reinvesting in wholesale distribution. This includes liquidating inventory through increased markdowns across NIKE Direct, and higher sales returns and discounts with our wholesale partners to reduce inventory and create capacity for new product. We are also making investments to elevate the presentation of our brands in physical retail. &#8226; Brand Management: Increasing investment in demand creation including brand marketing and sports marketing, to support key product launches and sports moments. Our reportable operating segments are at different stages of progress, and we expect to complete these actions by the end of December 2026. The timing of financial impacts has varied and will continue to vary by segment. North America has made the most progress against these actions, while Greater China and Converse will take more time. Additionally, in Greater China, a trend of declining store traffic, elevated promotional activity and higher levels of inventory across the marketplace are negatively impacting revenues and overall profitability, while Converse is in the midst of a strategic reset of the brand and marketplace. We expect negative impacts from Greater China and Converse to continue throughout fiscal 2027. While these product, marketplace and brand management actions taken across our portfolio have had, and in the future may have, a negative impact on our Revenues and overall profitability, we believe they will reignite brand momentum and reposition our business to drive long-term shareholder value. We have also taken steps to operate more efficiently and profitably, primarily through realigning costs across our supply chain and technology to serve an integrated marketplace. In fiscal 2026, we recognized charges of $385 million associated with employee severance costs. We continue to evaluate opportunities across the Company and may take additional actions which could lead to additional charges in future quarters. For additional information, refer to Note 18 — Severance, Restructuring and Other Employee Costs within the accompanying Notes to the Consolidated Financial Statements. OTHER MATTERS On February 20, 2026, the U.S. Supreme Court ruled that U.S. tariffs imposed under the International Emergency Economic Powers Act (\"IEEPA\") on goods imported into the U.S. were unauthorized. During the fourth quarter of fiscal 2026, we deemed the recovery of IEEPA tariffs paid to be probable. Accordingly, we recognized a benefit of $986 million in Cost of sales within the Consolidated Statements of Income for the recovery of IEEPA tariffs paid, for which $965 million and $21 million of the benefit was classified within North America and Converse, respectively, largely offsetting the impact of the IEEPA tariffs recognized during fiscal 2026. As of May 31, 2026, we received $302 million and recorded $684 million of outstanding IEEPA tariff receivables reflected within Accounts receivable, net on the Consolidated Balance Sheets. Subsequent to May 31, 2026, we received substantially all of the remaining IEEPA tariff receivable. We will continue to monitor developments pertaining to the import and export policies of the U.S. and other countries, as well as those pertaining to tariff refunds and litigation, that could impact our financial position, results of operations and cash flows. USE OF NON-GAAP FINANCIAL MEASURES Throughout this Annual Report on Form 10-K, we discuss non-GAAP financial measures, which should be considered in addition to, and not in lieu of, the financial measures calculated and presented in accordance with generally accepted accounting principles in the United States of America (\"U.S. GAAP\"). References to these measures should not be considered in isolation or as a substitute for other financial measures calculated and presented in accordance with U.S. GAAP and may not be comparable to similarly titled measures used by other companies. Management uses these non-GAAP measures when evaluating the Company's performance, including when making financial and operating decisions. Additionally, management believes these non-GAAP financial measures provide investors with additional financial information that should be considered when assessing our underlying business performance and trends. 2026 FORM 10-K 30 Table of Contents Earnings Before Interest and Taxes (\"EBIT\") and EBIT margin : Calculated as Net income before Interest (income) expense, net and Income tax expense in the Consolidated Statements of Income and total NIKE, Inc. EBIT divided by total NIKE, Inc. Revenues in the Consolidated Statements of Income, respectively. Total NIKE, Inc. EBIT and EBIT margin calculations in fiscal 2026, 2025 and 2024 are as follows: YEAR ENDED MAY 31, (Dollars in millions) 2026 2025 2024 Net income $ 3,108 $ 3,219 $ 5,700 Add: Interest (income) expense, net (50) (107) (161) Add: Income tax expense 792 666 1,000 EBIT $ 3,850 $ 3,778 $ 6,539 Total NIKE, Inc. Revenues 46,398 46,309 51,362 Net income margin 6.7% 7.0% 11.1% EBIT margin 8.3% 8.2% 12.7% Return on Invested Capital (\"ROIC\") : Represents a performance measure that management believes is useful information in understanding the Company's ability to effectively manage invested capital. Our ROIC calculation as of May 31, 2026 and 2025 is as follows: FOR THE TRAILING FOUR QUARTERS ENDED (Dollars in millions) MAY 31, 2026 MAY 31, 2025 Numerator Net income $ 3,108 $ 3,219 Add: Interest (income) expense, net (50) (107) Add: Income tax expense 792 666 EBIT 3,850 3,778 Income tax adjustment (1) (782) (645) Earnings before interest and after taxes $ 3,068 $ 3,133 AVERAGE FOR THE TRAILING FIVE QUARTERS ENDED (Dollars in millions) MAY 31, 2026 MAY 31, 2025 Denominator Total debt (2) $ 11,113 $ 11,814 Add: Shareholders' equity 13,944 13,926 Less: Cash and equivalents and Short-term investments 8,631 10,236 Total invested capital $ 16,426 $ 15,504 ROIC 18.7% 20.2% (1) Equals EBIT multiplied by the effective tax rate as of each of the respective quarter ends. (2) Total debt includes the following: 1) Current portion of long-term debt, 2) Current portion of operating lease liabilities, 3) Long-term debt and 4) Operating lease liabilities. Currency-neutral revenues : Currency-neutral revenues enhance visibility to underlying business trends, excluding the impact of translation arising from foreign currency exchange rate fluctuations. Currency-neutral revenues are calculated using actual exchange rates in use during the comparative prior year period in place of the exchange rates in use during the current period. COMPARABLE STORE SALES Comparable store sales : This key metric, which excludes NIKE Brand Digital sales, comprises revenues from NIKE-owned in-line and factory stores for which all three of the following requirements have been met: (1) the store has been open at least one year, (2) square footage has not changed by more than 15% within the past year and (3) the store has not been permanently repositioned within the past year. Comparable store sales represents a performance metric that we believe is useful information for management and investors in understanding the performance of our established NIKE-owned in-line and factory stores. Management considers this metric when making financial and operating decisions. The method of calculating comparable store sales varies across the retail industry. As a result, our calculation of this metric may not be comparable to similarly titled metrics used by other companies. 2026 FORM 10-K 31 Table of Contents RESULTS OF OPERATIONS (Dollars in millions, except per share data) FISCAL 2026 FISCAL 2025 % CHANGE FISCAL 2024 % CHANGE Revenues $ 46,398 $ 46,309 0 % $ 51,362 -10 % Cost of sales 26,487 26,519 0 % 28,475 -7 % Gross profit 19,911 19,790 1 % 22,887 -14 % Gross margin 42.9 % 42.7 % 44.6 % Demand creation expense 4,754 4,689 1 % 4,285 9 % Operating overhead expense 11,360 11,399 0 % 12,291 -7 % Total selling and administrative expense 16,114 16,088 0 % 16,576 -3 % % of revenues 34.7 % 34.7 % 32.3 % Interest (income) expense, net (50) (107) — (161) — Other (income) expense, net (53) (76) — (228) — Income before income taxes 3,900 3,885 0 % 6,700 -42 % Income tax expense 792 666 19 % 1,000 -33 % Effective tax rate 20.3 % 17.1 % 14.9 % NET INCOME $ 3,108 $ 3,219 -3 % $ 5,700 -44 % Diluted earnings per common share $ 2.10 $ 2.16 -3 % $ 3.73 -42 % CONSOLIDATED OPERATING RESULTS REVENUES (Dollars in millions) FISCAL 2026 FISCAL 2025 % CHANGE % CHANGE EXCLUDING CURRENCY CHANGES (1) FISCAL 2024 % CHANGE % CHANGE EXCLUDING CURRENCY CHANGES (1) NIKE, Inc. Revenues: NIKE Brand Revenues by: Footwear $ 29,525 $ 29,510 0 % -2 % $ 33,427 -12 % -11 % Apparel 13,449 12,965 4 % 2 % 13,775 -6 % -5 % Equipment 2,199 2,191 0 % -2 % 2,075 6 % 6 % Global Brand Divisions (2) 49 48 2 % 2 % 45 7 % 10 % TOTAL NIKE BRAND REVENUES (3) $ 45,222 $ 44,714 1 % -1 % $ 49,322 -9 % -9 % Converse 1,174 1,692 -31 % -32 % 2,082 -19 % -18 % Corporate (4) 2 (97) — — (42) — — TOTAL NIKE, INC. REVENUES $ 46,398 $ 46,309 0 % -2 % $ 51,362 -10 % -9 % Supplemental NIKE Brand Revenues Details: NIKE Brand Revenues by: Sales to Wholesale Customers $ 27,453 $ 25,883 6 % 4 % $ 27,758 -7 % -6 % Sales through NIKE Direct 17,720 18,783 -6 % -8 % 21,519 -13 % -12 % Global Brand Divisions (2) 49 48 2 % 2 % 45 7 % 10 % TOTAL NIKE BRAND REVENUES (3) $ 45,222 $ 44,714 1 % -1 % $ 49,322 -9 % -9 % (1) The percent change excluding currency changes represents a non-GAAP financial measure. For additional information, see \"Use of Non-GAAP Financial Measures\". (2) Global Brand Divisions revenues include NIKE Brand licensing and other miscellaneous revenues that are not part of a geographic operating segment. (3) Included in NIKE Brand revenues are sales of Jordan Brand products of $7,034 million, $7,270 million and $8,701 million in fiscal 2026, 2025 and 2024, respectively, decreasing 3% and 16% on a reported basis and decreasing 5% and 16% on a currency-neutral basis, for fiscal 2026 and 2025, respectively. (4) Corporate revenues primarily consist of foreign currency gains and losses related to revenues generated by entities within the NIKE Brand geographic operating segments and Converse, but managed through our central foreign exchange risk management program. 2026 FORM 10-K 32 Table of Contents FISCAL 2026 NIKE BRAND REVENUE HIGHLIGHTS The following tables present NIKE Brand revenues disaggregated by reportable operating segment, distribution channel and major product line: FISCAL 2026 COMPARED TO FISCAL 2025 &#8226; NIKE, Inc. Revenues were $46.4 billion in fiscal 2026 compared to $46.3 billion in fiscal 2025. On a currency-neutral basis, NIKE, Inc. Revenues decreased 2%, primarily due to lower revenues in Greater China, Converse and Europe, Middle East & Africa (\"EMEA\"), which decreased NIKE, Inc. Revenues by approximately 2, 1 and 1 percentage points, respectively. Higher revenues in North America increased NIKE, Inc. Revenues by approximately 2 percentage points. &#8226; NIKE Brand revenues were $45.2 billion in fiscal 2026 compared to $44.7 billion in fiscal 2025, an increase of 1% and a decrease of 1% on a reported and currency-neutral basis, respectively. &#8226; NIKE Brand footwear revenues were $29.5 billion in fiscal 2026 compared to $29.5 billion in fiscal 2025. On a currency-neutral basis, NIKE Brand footwear revenues decreased 2%. Unit sales of footwear decreased 1%, while lower average selling price (\"ASP\") per pair reduced footwear revenues by approximately 1 percentage point. Lower ASP per pair was primarily due to channel mix, partially offset by product mix and strategic pricing. &#8226; NIKE Brand apparel revenues were $13.4 billion in fiscal 2026 compared to $13.0 billion in fiscal 2025. On a currency-neutral basis, NIKE Brand apparel revenues increased 2%. Unit sales of apparel increased 1%, while higher ASP per unit contributed approximately 1 percentage point of apparel revenue growth. Higher ASP per unit was primarily due to product mix, partially offset by higher discounts and channel mix. &#8226; NIKE Brand wholesale revenues were $27.5 billion in fiscal 2026 compared to $25.9 billion in fiscal 2025, up 6% on a reported basis and up 4% on a currency-neutral basis. The increase on a currency-neutral basis was driven by higher revenues in North America, primarily offset by lower revenues in Greater China. &#8226; NIKE Direct revenues were $17.7 billion in fiscal 2026 compared to $18.8 billion in fiscal 2025, down 6% on a reported basis. On a currency-neutral basis, NIKE Direct revenues were down 8% due to declines in NIKE Brand Digital sales of 12% and declines in NIKE store sales of 4%. NIKE Brand Digital sales were $8.6 billion in fiscal 2026 compared to $9.6 billion in fiscal 2025, with declines primarily due to reduced traffic. NIKE store sales were $9.1 billion in fiscal 2026 compared to $9.2 billion in fiscal 2025. Comparable store sales decreased 4%. For additional information regarding comparable store sales, including the definition, see \"Comparable Store Sales\". 2026 FORM 10-K 33 Table of Contents GROSS MARGIN FISCAL 2026 COMPARED TO FISCAL 2025 For fiscal 2026, our consolidated gross profit increased 1% to $19.9 billion compared to $19.8 billion for fiscal 2025. Gross margin increased 20 basis points to 42.9% for fiscal 2026 compared to 42.7% for fiscal 2025 due to the following: &#8226; Lower warehousing and logistics costs (increasing gross margin approximately 20 basis points), primarily due to channel mix; &#8226; Favorable changes in net foreign currency exchange rates, including hedges (increasing gross",
+        "charRange": [
+          203646,
+          218646
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors. Despite these factors, we are focused on driving distinction within key sports, building a complete product portfolio, creating stories to inspire and emotionally connect with consumers, and elevating and growing the entire marketplace as we continue to take actions across the following areas: &#8226; Product Management: Accelerating product innovation and reducing the supply of certain footwear products in the marketplace to rebalance the mix of our footwear portfolio. &#8226; Marketplace Management: Repositioning NIKE Brand Digital as a full-price platform and reinvesting in wholesale distribution. This includes liquidating inventory through increased markdowns across NIKE Direct, and higher sales returns and discounts with our wholesale partners to reduce inventory and create capacity for new product. We are also making investments to elevate the presentation of our brands in physical retail. &#8226; Brand Management: Increasing investment in demand creation including brand marketing and sports marketing, to support key product launches and sports moments. Our reportable operating segments are at different stages of progress, and we expect to complete these actions by the end of December 2026. The timing of financial impacts has varied and will continue to vary by segment. North America has made the most progress against these actions, while Greater China and Converse will take more time. Additionally, in Greater China, a trend of declining store traffic, elevated promotional activity and higher levels of inventory across the marketplace are negatively impacting revenues and overall profitability, while Converse is in the midst of a strategic reset of the brand and marketplace. We expect negative impacts from Greater China and Converse to continue throughout fiscal 2027. While these product, marketplace and brand management actions taken across our portfolio have had, and in the future may have, a negative impact on our Revenues and overall profitability, we believe they will reignite brand momentum and reposition our business to drive long-term shareholder value. We have also taken steps to operate more efficiently and profitably, primarily through realigning costs across our supply chain and technology to serve an integrated marketplace. In fiscal 2026, we recognized charges of $385 million associated with employee severance costs. We continue to evaluate opportunities across the Company and may take additional actions which could lead to additional charges in future quarters. For additional information, refer to Note 18 — Severance, Restructuring and Other Employee Costs within the accompanying Notes to the Consolidated Financial Statements. OTHER MATTERS On February 20, 2026, the U.S. Supreme Court ruled that U.S. tariffs imposed under the International Emergency Economic Powers Act (\"IEEPA\") on goods imported into the U.S. were unauthorized. During the fourth quarter of fiscal 2026, we deemed the recovery of IEEPA tariffs paid to be probable. Accordingly, we recognized a benefit of $986 million in Cost of sales within the Consolidated Statements of Income for the recovery of IEEPA tariffs paid, for which $965 million and $21 million of the benefit was classified within North America and Converse, respectively, largely offsetting the impact of the IEEPA tariffs recognized during fiscal 2026. As of May 31, 2026, we received $302 million and recorded $684 million of outstanding IEEPA tariff receivables reflected within Accounts receivable, net on the Consolidated Balance Sheets. Subsequent to May 31, 2026, we received substantially all of the remaining IEEPA tariff receivable. We will continue to monitor developments pertaining to the import and export policies of the U.S. and other countries, as well as those pertaining to tariff refunds and litigation, that could impact our financial position, results of operations and cash flows. USE OF NON-GAAP FINANCIAL MEASURES Throughout this Annual Report on Form 10-K, we discuss non-GAAP financial measures, which should be considered in addition to, and not in lieu of, the financial measures calculated and presented in accordance with generally accepted accounting principles in the United States of America (\"U.S. GAAP\"). References to these measures should not be considered in isolation or as a substitute for other financial measures calculated and presented in accordance with U.S. GAAP and may not be comparable to similarly titled measures used by other companies. Management uses these non-GAAP measures when evaluating the Company's performance, including when making financial and operating decisions. Additionally, management believes these non-GAAP financial measures provide investors with additional financial information that should be considered when assessing our underlying business performance and trends. 2026 FORM 10-K 30 Table of Contents Earnings Before Interest and Taxes (\"EBIT\") and EBIT margin : Calculated as Net income before Interest (income) expense, net and Income tax expense in the Consolidated Statements of Income and total NIKE, Inc. EBIT divided by total NIKE, Inc. Revenues in the Consolidated Statements of Income, respectively. Total NIKE, Inc. EBIT and EBIT margin calculations in fiscal 2026, 2025 and 2024 are as follows: YEAR ENDED MAY 31, (Dollars in millions) 2026 2025 2024 Net income $ 3,108 $ 3,219 $ 5,700 Add: Interest (income) expense, net (50) (107) (161) Add: Income tax expense 792 666 1,000 EBIT $ 3,850 $ 3,778 $ 6,539 Total NIKE, Inc. Revenues 46,398 46,309 51,362 Net income margin 6.7% 7.0% 11.1% EBIT margin 8.3% 8.2% 12.7% Return on Invested Capital (\"ROIC\") : Represents a performance measure that management believes is useful information in understanding the Company's ability to effectively manage invested capital. Our ROIC calculation as of May 31, 2026 and 2025 is as follows: FOR THE TRAILING FOUR QUARTERS ENDED (Dollars in millions) MAY 31, 2026 MAY 31, 2025 Numerator Net income $ 3,108 $ 3,219 Add: Interest (income) expense, net (50) (107) Add: Income tax expense 792 666 EBIT 3,850 3,778 Income tax adjustment (1) (782) (645) Earnings before interest and after taxes $ 3,068 $ 3,133 AVERAGE FOR THE TRAILING FIVE QUARTERS ENDED (Dollars in millions) MAY 31, 2026 MAY 31, 2025 Denominator Total debt (2) $ 11,113 $ 11,814 Add: Shareholders' equity 13,944 13,926 Less: Cash and equivalents and Short-term investments 8,631 10,236 Total invested capital $ 16,426 $ 15,504 ROIC 18.7% 20.2% (1) Equals EBIT multiplied by the effective tax rate as of each of the respective quarter ends. (2) Total debt includes the following: 1) Current portion of long-term debt, 2) Current portion of operating lease liabilities, 3) Long-term debt and 4) Operating lease liabilities. Currency-neutral revenues : Currency-neutral revenues enhance visibility to underlying business trends, excluding the impact of translation arising from foreign currency exchange rate fluctuations. Currency-neutral revenues are calculated using actual exchange rates in use during the comparative prior year period in place of the exchange rates in use during the current period. COMPARABLE STORE SALES Comparable store sales : This key metric, which excludes NIKE Brand Digital sales, comprises revenues from NIKE-owned in-line and factory stores for which all three of the following requirements have been met: (1) the store has been open at least one year, (2) square footage has not changed by more than 15% within the past year and (3) the store has not been permanently repositioned within the past year. Comparable store sales represents a performance metric that we believe is useful information for management and investors in understanding the performance of our established NIKE-owned in-line and factory stores. Management considers this metric when making financial and operating decisions. The method of calculating comparable store sales varies across the retail industry. As a result, our calculation of this metric may not be comparable to similarly titled metrics used by other companies. 2026 FORM 10-K 31 Table of Contents RESULTS OF OPERATIONS (Dollars in millions, except per share data) FISCAL 2026 FISCAL 2025 % CHANGE FISCAL 2024 % CHANGE Revenues $ 46,398 $ 46,309 0 % $ 51,362 -10 % Cost of sales 26,487 26,519 0 % 28,475 -7 % Gross profit 19,911 19,790 1 % 22,887 -14 % Gross margin 42.9 % 42.7 % 44.6 % Demand creation expense 4,754 4,689 1 % 4,285 9 % Operating overhead expense 11,360 11,399 0 % 12,291 -7 % Total selling and administrative expense 16,114 16,088 0 % 16,576 -3 % % of revenues 34.7 % 34.7 % 32.3 % Interest (income) expense, net (50) (107) — (161) — Other (income) expense, net (53) (76) — (228) — Income before income taxes 3,900 3,885 0 % 6,700 -42 % Income tax expense 792 666 19 % 1,000 -33 % Effective tax rate 20.3 % 17.1 % 14.9 % NET INCOME $ 3,108 $ 3,219 -3 % $ 5,700 -44 % Diluted earnings per common share $ 2.10 $ 2.16 -3 % $ 3.73 -42 % CONSOLIDATED OPERATING RESULTS REVENUES (Dollars in millions) FISCAL 2026 FISCAL 2025 % CHANGE % CHANGE EXCLUDING CURRENCY CHANGES (1) FISCAL 2024 % CHANGE % CHANGE EXCLUDING CURRENCY CHANGES (1) NIKE, Inc. Revenues: NIKE Brand Revenues by: Footwear $ 29,525 $ 29,510 0 % -2 % $ 33,427 -12 % -11 % Apparel 13,449 12,965 4 % 2 % 13,775 -6 % -5 % Equipment 2,199 2,191 0 % -2 % 2,075 6 % 6 % Global Brand Divisions (2) 49 48 2 % 2 % 45 7 % 10 % TOTAL NIKE BRAND REVENUES (3) $ 45,222 $ 44,714 1 % -1 % $ 49,322 -9 % -9 % Converse 1,174 1,692 -31 % -32 % 2,082 -19 % -18 % Corporate (4) 2 (97) — — (42) — — TOTAL NIKE, INC. REVENUES $ 46,398 $ 46,309 0 % -2 % $ 51,362 -10 % -9 % Supplemental NIKE Brand Revenues Details: NIKE Brand Revenues by: Sales to Wholesale Customers $ 27,453 $ 25,883 6 % 4 % $ 27,758 -7 % -6 % Sales through NIKE Direct 17,720 18,783 -6 % -8 % 21,519 -13 % -12 % Global Brand Divisions (2) 49 48 2 % 2 % 45 7 % 10 % TOTAL NIKE BRAND REVENUES (3) $ 45,222 $ 44,714 1 % -1 % $ 49,322 -9 % -9 % (1) The percent change excluding currency changes represents a non-GAAP financial measure. For additional information, see \"Use of Non-GAAP Financial Measures\". (2) Global Brand Divisions revenues include NIKE Brand licensing and other miscellaneous revenues that are not part of a geographic operating segment. (3) Included in NIKE Brand revenues are sales of Jordan Brand products of $7,034 million, $7,270 million and $8,701 million in fiscal 2026, 2025 and 2024, respectively, decreasing 3% and 16% on a reported basis and decreasing 5% and 16% on a currency-neutral basis, for fiscal 2026 and 2025, respectively. (4) Corporate revenues primarily consist of foreign currency gains and losses related to revenues generated by entities within the NIKE Brand geographic operating segments and Converse, but managed through our central foreign exchange risk management program. 2026 FORM 10-K 32 Table of Contents FISCAL 2026 NIKE BRAND REVENUE HIGHLIGHTS The following tables present NIKE Brand revenues disaggregated by reportable operating segment, distribution channel and major product line: FISCAL 2026 COMPARED TO FISCAL 2025 &#8226; NIKE, Inc. Revenues were $46.4 billion in fiscal 2026 compared to $46.3 billion in fiscal 2025. On a currency-neutral basis, NIKE, Inc. Revenues decreased 2%, primarily due to lower revenues in Greater China, Converse and Europe, Middle East & Africa (\"EMEA\"), which decreased NIKE, Inc. Revenues by approximately 2, 1 and 1 percentage points, respectively. Higher revenues in North America increased NIKE, Inc. Revenues by approximately 2 percentage points. &#8226; NIKE Brand revenues were $45.2 billion in fiscal 2026 compared to $44.7 billion in fiscal 2025, an increase of 1% and a decrease of 1% on a reported and currency-neutral basis, respectively. &#8226; NIKE Brand footwear revenues were $29.5 billion in fiscal 2026 compared to $29.5 billion in fiscal 2025. On a currency-neutral basis, NIKE Brand footwear revenues decreased 2%. Unit sales of footwear decreased 1%, while lower average selling price (\"ASP\") per pair reduced footwear revenues by approximately 1 percentage point. Lower ASP per pair was primarily due to channel mix, partially offset by product mix and strategic pricing. &#8226; NIKE Brand apparel revenues were $13.4 billion in fiscal 2026 compared to $13.0 billion in fiscal 2025. On a currency-neutral basis, NIKE Brand apparel revenues increased 2%. Unit sales of apparel increased 1%, while higher ASP per unit contributed approximately 1 percentage point of apparel revenue growth. Higher ASP per unit was primarily due to product mix, partially offset by higher discounts and channel mix. &#8226; NIKE Brand wholesale revenues were $27.5 billion in fiscal 2026 compared to $25.9 billion in fiscal 2025, up 6% on a reported basis and up 4% on a currency-neutral basis. The increase on a currency-neutral basis was driven by higher revenues in North America, primarily offset by lower revenues in Greater China. &#8226; NIKE Direct revenues were $17.7 billion in fiscal 2026 compared to $18.8 billion in fiscal 2025, down 6% on a reported basis. On a currency-neutral basis, NIKE Direct revenues were down 8% due to declines in NIKE Brand Digital sales of 12% and declines in NIKE store sales of 4%. NIKE Brand Digital sales were $8.6 billion in fiscal 2026 compared to $9.6 billion in fiscal 2025, with declines primarily due to reduced traffic. NIKE store sales were $9.1 billion in fiscal 2026 compared to $9.2 billion in fiscal 2025. Comparable store sales decreased 4%. For additional information regarding comparable store sales, including the definition, see \"Comparable Store Sales\". 2026 FORM 10-K 33 Table of Contents GROSS MARGIN FISCAL 2026 COMPARED TO FISCAL 2025 For fiscal 2026, our consolidated gross profit increased 1% to $19.9 billion compared to $19.8 billion for fiscal 2025. Gross margin increased 20 basis points to 42.9% for fiscal 2026 compared to 42.7% for fiscal 2025 due to the following: &#8226; Lower warehousing and logistics costs (increasing gross margin approximately 20 basis points), primarily due to channel mix; &#8226; Favorable changes in net foreign currency exchange rates, including hedges (increasing gross margin approximately 20 basis points); and &#8226; Lower other costs (increasing gross margin approximately 20 basis points). This was partially offset by: &#8226; Lower gross margin from Converse (decreasing gross margin approximately 20 basis points); and &#8226; Higher NIKE Brand product costs (decreasing gross margin approximately 20 basis points). TOTAL SELLING AND ADMINISTRATIVE EXPENSE (Dollars in millions) FISCAL 2026 FISCAL 2025 % CHANGE FISCAL 2024 % CHANGE Demand creation expense (1) $ 4,754 $ 4,689 1 % $ 4,285 9 % Operating overhead expense (2) 11,360 11,399 0 % 12,291 -7 % Total selling and administrative expense $ 16,114 $ 16,088 0 % $ 16,576 -3 % % of revenues 34.7 % 34.7 % 0 bps 32.3 % 240 bps (1) Demand creation expense consists of brand marketing expense",
+        "charRange": [
+          204429,
+          219429
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 110614,
+            "context": "etail stores, suppliers, manufacturers, customers, distribution centers, offices, headquarters and vendors are located could adversely affect our operating results and financial condition. Moreover, natural disasters such as earthquakes, hurricanes, wildfires, tsunamis, floods or droughts, whether occurring in the United States or abroad, and their related consequences and effects, including, but not limited to, energy shortages and public health issues, have in the past temporarily disrupted, and could in the future disrupt, our operations, the operations of our vendors, manufacturers and oth"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 90418,
+            "context": "ic vision for the Company's Legal, Social and Community Impact, Government and Public Affairs and Resilience teams. Mr. Leinwand previously served as Vice President, Deputy General Counsel, Enterprise which included oversight of the Company's Global Litigation, Employment Law/Employee Relations, Brand Protection, Supply Chain and Corporate Governance functions. Prior to joining NIKE, Mr. Leinwand was a shareholder at the law firm of Littler Mendelson. Phil McCartney , Executive Vice President, Chief Innovation, Design & Product Officer — Mr. McCartney, 51, joined NIKE in 1998 and has served as"
+          },
+          {
+            "charIndex": 93153,
+            "context": "porated by reference from time to time by NIKE or its representatives in this Annual Report, other reports, filings with the SEC, press releases, conferences or otherwise, are \"forward-looking statements\" within the meaning of the Private Securities Litigation Reform Act of 1995 and Section 21E of the Securities Exchange Act of 1934, as amended. Forward-looking statements include, without limitation, any statement that may predict, forecast, indicate or imply future results, performance or achievements, and may contain the words \"believe,\" \"anticipate,\" \"expect,\" \"estimate,\" \"project,\" \"will b"
+          },
+          {
+            "charIndex": 97139,
+            "context": "in borrowing costs due to any decline in NIKE's debt ratings; changes in business strategy or development plans; the impact of, including business and legal developments relating to, climate change, extreme weather conditions and natural disasters; litigation, regulatory proceedings, sanctions or any other claims asserted against NIKE; the ability to attract and retain qualified employees, and any negative public perception with respect to key personnel or our corporate culture, values or purpose; the effects of NIKE's decision to invest in or divest of businesses or capabilities; health epid"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 189529,
+            "context": "on Stock has experienced volatility, and the scope and time horizon of any guidance we provide may change from period to period, each of which could contribute to further volatility in our stock price. We are currently subject to multiple securities class action and shareholder derivative lawsuits relating to a drop in our stock price and could become involved in additional litigation of this type in the future if our stock price is volatile for any reason. Any litigation could result in reputational damage, substantial costs and a diversion of management's attention and resources needed to su"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 188939,
+            "context": "various securities analysts follow our financial results and issue reports on us. These reports include information about our historical financial results as well as analysts' opinions of our future performance, which may, in part, be based upon any guidance we have provided. Analysts' estimates are often different from our estimates or expectations. If our operating results are below the estimates or expectations of public market analysts and investors, our stock price could decline (which has happened in the past and could happen in the future). The market price of our Class B Common Stock h"
+          },
+          {
+            "charIndex": 189354,
+            "context": "ns of public market analysts and investors, our stock price could decline (which has happened in the past and could happen in the future). The market price of our Class B Common Stock has experienced volatility, and the scope and time horizon of any guidance we provide may change from period to period, each of which could contribute to further volatility in our stock price. We are currently subject to multiple securities class action and shareholder derivative lawsuits relating to a drop in our stock price and could become involved in additional litigation of this type in the future if our sto"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 173954,
+            "context": "riation of our consumers', users' or employees' personal information or a disruption of our 2026 FORM 10-K 20 Table of Contents business. Any of these outcomes could have a material adverse effect on our business, including unwanted media attention, impairment of our consumer and customer relationships, damage to our reputation; resulting in lost sales and consumers, fines, lawsuits, or significant legal and remediation expenses. We also may need to expend significant resources to protect against, respond to and/or redress problems caused by any breach. In addition, we must comply with increas"
+          },
+          {
+            "charIndex": 297493,
+            "context": "operations: Net income $ 3,108 $ 3,219 $ 5,700 Adjustments to reconcile net income to net cash provided (used) by operations: Depreciation and amortization 747 775 796 Deferred income taxes ( 96 ) ( 288 ) ( 497 ) Stock-based compensation 715 709 804 Impairment and other 50 33 48 Net foreign currency adjustments 22 37 ( 138 ) Changes in certain working capital components and other assets and liabilities: (Increase) decrease in accounts receivable ( 1,207 ) ( 257 ) ( 329 ) (Increase) decrease in inventories ( 31 ) 120 908 (Increase) decrease in prepaid expenses, operating lease right-of-use asse"
+          },
+          {
+            "charIndex": 317399,
+            "context": "ts with respect to these employees is limited to the time directly spent on such projects. Costs associated with preliminary project stage activities, training, maintenance and all other post-implementation stage activities are expensed as incurred. IMPAIRMENT OF LONG-LIVED ASSETS The Company reviews the carrying value of long-lived assets or asset groups to be used in operations whenever events or changes in circumstances indicate the carrying amount of the assets might not be recoverable. Factors that would necessitate an impairment assessment include a significant adverse change in the exte"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 97151,
+            "context": "g costs due to any decline in NIKE's debt ratings; changes in business strategy or development plans; the impact of, including business and legal developments relating to, climate change, extreme weather conditions and natural disasters; litigation, regulatory proceedings, sanctions or any other claims asserted against NIKE; the ability to attract and retain qualified employees, and any negative public perception with respect to key personnel or our corporate culture, values or purpose; the effects of NIKE's decision to invest in or divest of businesses or capabilities; health epidemics, pande"
+          },
+          {
+            "charIndex": 114359,
+            "context": "licting expectations regarding our policies, practices, disclosures, goals and targets. In addition, federal, state, local and foreign governmental authorities have adopted or proposed, and are likely to continue to adopt or propose, legislative and regulatory initiatives regarding corporate responsibility and sustainability-related matters, ranging from the disclosure of corporate greenhouse gas emissions to limitations on corporate diversity programs, among others, and these requirements may differ or conflict across jurisdictions, increasing the complexity and cost of compliance. Responding"
+          },
+          {
+            "charIndex": 115918,
+            "context": "our goals, targets or strategies, or be satisfied with our efforts to implement them. Execution of these strategies and achievement of our goals and targets are subject to risks and uncertainties, many of which are outside of our control, including regulatory developments; the availability and cost of raw materials and renewable energy; unforeseen production, design, operational and technological difficulties; the outcome of research efforts and future technology developments, including the ability to scale projects and technologies on a commercially competitive basis; customer acceptance of"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 168448,
+            "context": "liability, antitrust, trademark rights and a variety of other matters. It is not possible to predict with certainty the outcome of any such proceedings or investigations, and we could in the future incur judgments, fines or penalties, or enter into settlements of lawsuits and claims that could have a material adverse effect on our business, financial condition and results of operations and negatively impact our reputation. The global nature of our business means legal and compliance risks, such as anti-bribery, anti-corruption, fraud, trade, environmental, sustainability, competition, AI, pri"
+          },
+          {
+            "charIndex": 221610,
+            "context": "2025 Other (income) expense, net decreased from $76 million of other income, net, to $53 million of other income, net, primarily due to an unfavorable net change in foreign currency conversion gains and losses, including hedges, partially offset by settlements of legal matters. INCOME TAXES FISCAL 2026 FISCAL 2025 % CHANGE FISCAL 2024 % CHANGE Effective tax rate 20.3 % 17.1 % 320 bps 14.9 % 220 bps FISCAL 2026 COMPARED TO FISCAL 2025 Our effective tax rate increased from 17.1% to 20.3%, primarily due to a prior year one-time, non-cash deferred tax benefit provided by U.S. tax regulations rela"
+          },
+          {
+            "charIndex": 241246,
+            "context": "nd &#8226; an unfavorable change of $31 million primarily related to the remeasurement of monetary assets and liabilities denominated in non-functional currencies and the impact of certain foreign currency derivative instruments, partially offset by settlements of legal matters, reported as a component of consolidated Other (income) expense, net. 2026 FORM 10-K 42 Table of Contents FOREIGN CURRENCY EXPOSURES AND HEDGING PRACTICES OVERVIEW As a global company with significant operations outside the United States, in the normal course of business we are exposed to risk arising from changes in cu"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 74163,
+            "context": "rs for additional information. NIKE is the largest seller of athletic footwear and apparel in the world. Important aspects of competition in this industry are: &#8226; Product attributes such as quality; innovation and development; performance and reliability; new product style and design; as well as consumer price/value. &#8226; Consumer connection, engagement and affinity for brands and products, developed through marketing, promotion and digital experiences; social media interaction; customer support and service; identification with prominent and influential athletes, influencers, public fi"
+          },
+          {
+            "charIndex": 137822,
+            "context": "ecific to our digital commerce business also include diversion of sales from our and our retailers' brick and mortar stores, pricing pressure on our products, difficulty in recreating the in-store experience through our digital commerce business and liability for online content. Our failure to successfully respond to these risks might adversely affect sales in our digital commerce business, as well as damage our reputation and brands. We rely significantly on information technology to operate our business, including our supply chain and retail operations, and any failure, inadequacy or interru"
+          },
+          {
+            "charIndex": 138907,
+            "context": "r business processes and may be negatively impacted by any service interruption or shutdown. For example, our ability to effectively manage and maintain our inventory and to ship products to customers on a timely basis depends significantly on the reliability of these Information Technology Systems. Over a number of years, we have implemented Information Technology Systems in all of the geographical regions in which we operate. Our work to integrate, secure and enhance these systems and related processes in our global operations is ongoing and NIKE will continue to invest in these efforts. We"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "points": [
+        {
+          "start": "2025-06-01",
+          "end": "2026-05-31",
+          "val": 46398000000,
+          "accn": "0000320187-26-000088",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-07-15",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-12-01",
+          "end": "2026-02-28",
+          "val": 11279000000,
+          "accn": "0000320187-26-000037",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-04-01",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-06-01",
+          "end": "2026-02-28",
+          "val": 35426000000,
+          "accn": "0000320187-26-000037",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-04-01"
+        },
+        {
+          "start": "2025-09-01",
+          "end": "2025-11-30",
+          "val": 12427000000,
+          "accn": "0000320187-25-000151",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-12-30",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2025-06-01",
+          "end": "2025-11-30",
+          "val": 24147000000,
+          "accn": "0000320187-25-000151",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-12-30"
+        },
+        {
+          "start": "2025-06-01",
+          "end": "2025-08-31",
+          "val": 11720000000,
+          "accn": "0000320187-25-000097",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-10-01",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2024-06-01",
+          "end": "2025-05-31",
+          "val": 46309000000,
+          "accn": "0000320187-26-000088",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-07-15",
+          "frame": "CY2024"
+        },
+        {
+          "start": "2024-06-01",
+          "end": "2025-05-31",
+          "val": 46309000000,
+          "accn": "0000320187-25-000047",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-07-17"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2025-06-01",
+          "end": "2026-05-31",
+          "val": 2.1,
+          "accn": "0000320187-26-000088",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-07-15",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-12-01",
+          "end": "2026-02-28",
+          "val": 0.35,
+          "accn": "0000320187-26-000037",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-04-01",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-06-01",
+          "end": "2026-02-28",
+          "val": 1.38,
+          "accn": "0000320187-26-000037",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-04-01"
+        },
+        {
+          "start": "2025-09-01",
+          "end": "2025-11-30",
+          "val": 0.53,
+          "accn": "0000320187-25-000151",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-12-30",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2025-06-01",
+          "end": "2025-11-30",
+          "val": 1.03,
+          "accn": "0000320187-25-000151",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-12-30"
+        },
+        {
+          "start": "2025-06-01",
+          "end": "2025-08-31",
+          "val": 0.49,
+          "accn": "0000320187-25-000097",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-10-01",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2024-06-01",
+          "end": "2025-05-31",
+          "val": 2.16,
+          "accn": "0000320187-26-000088",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-07-15",
+          "frame": "CY2024"
+        },
+        {
+          "start": "2024-06-01",
+          "end": "2025-05-31",
+          "val": 2.16,
+          "accn": "0000320187-25-000047",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-07-17"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2025-06-01",
+          "end": "2026-05-31",
+          "val": 3108000000,
+          "accn": "0000320187-26-000088",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-07-15"
+        },
+        {
+          "start": "2025-12-01",
+          "end": "2026-02-28",
+          "val": 520000000,
+          "accn": "0000320187-26-000037",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-04-01",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-06-01",
+          "end": "2026-02-28",
+          "val": 2039000000,
+          "accn": "0000320187-26-000037",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-04-01"
+        },
+        {
+          "start": "2025-09-01",
+          "end": "2025-11-30",
+          "val": 792000000,
+          "accn": "0000320187-25-000151",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-12-30",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2025-06-01",
+          "end": "2025-11-30",
+          "val": 1519000000,
+          "accn": "0000320187-25-000151",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-12-30"
+        },
+        {
+          "start": "2025-06-01",
+          "end": "2025-08-31",
+          "val": 727000000,
+          "accn": "0000320187-25-000097",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-10-01",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2024-06-01",
+          "end": "2025-05-31",
+          "val": 3219000000,
+          "accn": "0000320187-26-000088",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-07-15"
+        },
+        {
+          "start": "2024-06-01",
+          "end": "2025-05-31",
+          "val": 3219000000,
+          "accn": "0000320187-25-000047",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-07-17"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": null,
+      "points": []
+    }
+  },
+  "companyMetrics": {
+    "ticker": "NKE",
+    "name": "NIKE, Inc.",
+    "sector": "Rubber & Plastics Footwear",
+    "pe": 20.07,
+    "pb": 4.2,
+    "ret3m": -5.179,
+    "ret6m": -30.8879,
+    "roe": 20.91,
+    "debtEquity": 0.534,
+    "sentiment": 0.136,
+    "analyst": 64.1,
+    "beta": 1.1188323
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "Stay informed with the top movers within the dow jones index on Monday.",
+        "url": "https://finnhub.io/api/news?id=2f75049ab7be9065daa72677147eb7c5f80eb38c8674a895383a372bc4e3f887",
+        "source": "ChartMill",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "What Does Nike (NKE) Gain From Its Victor Wembanyama Signature Shoe Bet?",
+        "url": "https://finnhub.io/api/news?id=ea4bf069d89d8d9a2c5e2901b80217d886958830e82f0ca2c33da67e1b758f46",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "These dow jones stocks are moving in today's session",
+        "url": "https://finnhub.io/api/news?id=215d57159ac550eaecc53a55f0b8bce07ef790c46ea7ddd57f4536b07ae4ddab",
+        "source": "ChartMill",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Consumers Seek Value, Deal With Stress During Back-to-School Shopping Season",
+        "url": "https://finnhub.io/api/news?id=9e65b10f1c6670229032fd62e401bb3a611414ac16519a96dda23ea762ba7bd1",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Are International Logistics Improvements Paying Off for NIKE?",
+        "url": "https://finnhub.io/api/news?id=84041876629b155c523d608c0f5340474f3dd5c0a296d0f850ddcdfca41f96dd",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Dick’s Sporting Goods: Analyst sees long-term upside outweighing near-term noise",
+        "url": "https://finnhub.io/api/news?id=7b3c76b4f92e1b1a8e317b763a9eee171757d99061c2262138922588bc0c51f5",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      }
+    ],
+    "cachedAt": "2026-08-11T06:00:58.871Z"
+  }
+}

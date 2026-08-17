@@ -1,0 +1,629 @@
+{
+  "ticker": "DECK",
+  "entityName": "DECKERS OUTDOOR CORP",
+  "cik": "0000910521",
+  "generatedAt": "2026-08-12T01:37:19.300Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-07-30",
+        "reportDate": "2026-06-30",
+        "accessionNumber": "0000910521-26-000022",
+        "primaryDocument": "deck-20260630.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052126000022/deck-20260630.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/910521/000091052126000022/"
+      },
+      "textLength": 103039,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations,&#8221; and Note 8, &#8220;Stockholders' Equity,&#8221; of our condensed consolidated financial statements in Part I, Item 1 within this Quarterly Report , for further information on our stock repurchase program . Table of Contents 32 ITEM 5. OTHER INFORMATION Director and Officer Trading Plans and Arrangements O ur directors and executive officers may enter trading plans or other arrangements with financial institutions to purchase or sell shares of our common stock. These plans or arrangements may constitute Rule 10b5-1 trading arrangements or non-Rule 10b5-1 trading arrangements, in each case as defined under Item 408(a) of Regulation S-K. D uring the three months ended June 30, 2026 , no Rule 10b5-1 trading arrangements or non-Rule 10b5-1 trading arrangements were adopted , modified, or terminated by our directors or executive officers. Table of Contents 33 ITEM 6.",
+        "charRange": [
+          100068,
+          101036
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "RISK FACTORS An investment in our common stock involves risks. Before making an investment decision, you should carefully consider all the information within Part I, Item 2, &#8220;Management's Discussion and Analysis of Financial Condition and Results of Operations,&#8221; as well as in our condensed consolidated financial statements and the related notes contained in Part I, Item 1 within this Quarterly Report . In addition, you should carefully consider the risks and uncertainties described in Part I, Item 1A, &#8220;Risk Factors,&#8221; of our 2026 Annual Report , as well as in our other public filings with the SEC . If any of the identified risks are realized, our business, results of operations, financial condition, liquidity, and prospects could be materially and adversely affected. In that case, the trading price of our common stock may decline, and you could lose all or part of your investment. In addition, other risks of which we are currently unaware, or which we do not currently view to be material, could have a material adverse effect on our business, results of operations, financial condition, liquidity, and prospects. During the three months ended June 30, 2026 , there were no material changes to the risks and uncertainties described in Part I, Item 1A, &#8220;Risk Factors,&#8221; of our 2026 Annual Report . Table of Contents 31 ITEM 2.",
+        "charRange": [
+          96585,
+          97959
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 10687,
+            "context": "change Act of 1934, as amended ( Exchange Act ) , which statements are subject to considerable risks and uncertainties. These forward-looking statements are intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. Forward-looking statements include all statements other than statements of historical fact contained in, or incorporated by reference within, this Quarterly Report . We have attempted to identify forward-looking statements by using words such as &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;could,&#8221; &#8"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 45972,
+            "context": "ensed consolidated financial statements . The Company continues to closely monitor these developments and assess the potential impact on its condensed consolidated financial statements . The Company was named as a defendant in two purported consumer class actions relating to alleged tariff-related pricing actions and potential governmental tariff reimbursements. The Company intends to defend these matters vigorously. Note 7. Derivative Instruments The Company enters into foreign currency forward or option contracts ( derivative contracts ) to manage foreign currency risk and certain of these d"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 14641,
+            "context": "audits that may impact our tax liability and effective tax rates; &#8226; our cash repatriation strategy regarding earnings of non-US subsidiaries and the resulting tax impacts; and &#8226; the value of long-lived assets and potential write-downs or impairment charges. Forward-looking statements represent management's current expectations and predictions about trends affecting our business and industry and are based on information available at the time such statements are made. Although we do not make forward-looking statements unless we believe we have a reasonable basis for doing so, we cann"
+          },
+          {
+            "charIndex": 56507,
+            "context": "222,642 Segment income from operations $ 253,528 $ 53,983 $ 7,753 $ 315,264 Segment operating margin (3) 38.8 % 20.4 % 16.7 % 32.7 % ( 1) Depreciation and other related costs generally include depreciation of property and equipment, amortization and impairment of intangible assets or other long-lived assets, accretion, loss on disposal of assets, and other miscellaneous costs. (2) Other segment items are comprised of other SG&A expenses, which primarily include credit card fees, sales commissions, materials and supplies, travel, certain 3PL service fees, and other miscellaneous expenses . (3 )"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 95257,
+            "context": "rk infringement, patent infringement, trade dress infringement, and trademark dilution. We generally have multiple actions such as these pending at any given point in time. These actions may result in seizure of counterfeit merchandise, out-of-court settlements with defendants, or other outcomes. In addition, from time to time, we are subject to claims in which opposing parties will raise, either as affirmative defenses or as counterclaims, the invalidity or unenforceability of certain of our intellectual property rights, including allegations that the UGG brand trademark registrations and des"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 10639,
+            "context": "ies Act ) , and Section 21E of the Securities Exchange Act of 1934, as amended ( Exchange Act ) , which statements are subject to considerable risks and uncertainties. These forward-looking statements are intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. Forward-looking statements include all statements other than statements of historical fact contained in, or incorporated by reference within, this Quarterly Report . We have attempted to identify forward-looking statements by using words such as &#8220;anticipate,&#8221;"
+          },
+          {
+            "charIndex": 12752,
+            "context": "global third-party logistics providers ( 3PL s), and third-party carriers, including those arising from global supply chain disruptions, labor shortages, and logistics constraints; &#8226; availability of materials and manufacturing capacity, the reliability of overseas production and storage, and the geographic concentration of manufacturing operations; &#8226; expansion of our brands, product offerings, and investments in our distribution facilities, e-commerce websites, and retail store footprint; &#8226; our business, operating, investing, capital allocation, marketing, and financing plan"
+          },
+          {
+            "charIndex": 14422,
+            "context": "the outcomes of legal proceedings, including the impact they may have on our business and intellectual property rights; &#8226; our interpretation of applicable global tax regulations and changes in global tax laws and audits that may impact our tax liability and effective tax rates; &#8226; our cash repatriation strategy regarding earnings of non-US subsidiaries and the resulting tax impacts; and &#8226; the value of long-lived assets and potential write-downs or impairment charges. Forward-looking statements represent management's current expectations and predictions about trends affecting o"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-05-22",
+        "reportDate": "2026-03-31",
+        "accessionNumber": "0001628280-26-037664",
+        "primaryDocument": "deck-20260331.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/910521/000162828026037664/deck-20260331.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/910521/000162828026037664/"
+      },
+      "textLength": 370891,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations,&#8221; of our Annual Report on Form 10-K for the fiscal year ended March 31, 2025 , filed with the SEC on May 23, 2025 . Certain statements made in this section constitute &#8220;forward-looking statements,&#8221; which are subject to numerous risks and uncertainties. Our actual results of operations may differ materially from those expressed or implied by these forward-looking statements as a result of many factors, including those set forth in the section titled &#8220;Cautionary Note Regarding Forward-Looking Statements&#8221; and Part I, Item 1A, &#8220;Risk Factors,&#8221; within this Annual Report . Unless otherwise indicated, all figures herein are expressed in thousands, except per share data . References to &#8220; domestic &#8221; refer to the US . Overview We are a global leader in designing, marketing, and distributing innovative footwear, apparel, and accessories developed for both everyday casual lifestyle use and high-performance activities. We market our products primarily under three proprietary brands : HOKA , UGG , and Teva . Refer to the section below entitled &#8220;Reportable Operating Segments Overview&#8221; for information regarding the phase out of standalone operations for the Koolaburra brand and AHNU brand, and the prior sale of the Sanuk brand. Our brands compete across the fashion and casual lifestyle, performance, running, and outdoor markets. We believe our products are distinctive and appeal to a broad demographic. Our brands sell our products through quality domestic and international retailers and international distributors in our wholesale channel, and directly to global consumers through our DTC channel, which is comprised of an e&#8209;commerce and retail store presence. We seek to differentiate our brands and products by offering diverse lines that emphasize fashion, performance, authenticity, functionality, quality, and comfort, and products tailored to a variety of activities, seasons, and demographic groups. Independent third-party contractors manufacture all of our products. Financial Highlights Consolidated financial performance highlights for fiscal year 2026 ( current period ), compared to fiscal year 2025 ( the prior period ), were as follows: &#8226; Net sales increased 9.8% to $5,472,296 . &#9702; Brand &#9642; HOKA brand net sales increased 15.9% to $2,587,330 . &#9642; UGG brand net sales increased 8.2% to $2,738,758 . &#9642; Other brands net sales decreased 33.9% to $146,208 . &#9702; Channel &#9642; Wholesale channel net sales increased 12.3% to $3,208,107 . &#9642; DTC channel net sales increased 6.3% to $2,264,189 . &#9702; Geography &#9642; Domestic net sales increased 0.2% to $3,191,518 . &#9642; International net sales increased 26.8% to $2,280,778 . &#8226; Gross profit as a percentage of net sales ( gross margin ) decreased 20 basis points to 57.7% . Table of Contents 33 &#8226; SG&A expenses increased 11.0% to $1,894,823 . &#8226; Income from operations increased 7.1% to $1,262,903 . &#8226; Income from operations as a percentage of net sales ( operating margin ) decreased 50 basis points to 23.1% . &#8226; Diluted earnings per share increased 10.9% to $7.02 per share. Trends And Uncertainties Impacting Our Business And Industry Our business and industry are subject to several important trends and uncertainties, including the following: Macroeconomic and Geopolitical Factors &#8226; Macroeconomic factors, including inflationary pressures, increased tariffs, rising supply chain costs, high interest rates, foreign currency exchange rate volatility, escalating global conflicts, changes in discretionary spending, and recession risks, are creating a complex and challenging environment for our business and industry that may continue to pressure our results of operations, including our gross margin . For example, prolonged or escalating conflicts in the Middle East could disrupt our supply chain and increase energy, transportation, and commodity costs, as well as cause shipping delays. While these factors did not materially impact our results of operations during the current period , they could negatively affect us in future periods. &#8226; We are exposed to risks from evolving trade policies, including higher tariffs and restrictions affecting goods imported from certain regions where we have a concentration of sourcing and manufacturing . Recent judicial, regulatory, and administrative developments regarding tariffs imposed under the International Emergency Economic Powers Act and other authorities have increased uncertainty related to both our future duty costs and potential recovery of previously paid duties. The US Customs and Border Protection have announced a phased process for submitting refund requests; however, the availability, timing, and amount of any refunds remain uncertain. As of March 31, 2026, we have not recognized any amounts related to potential tariff refunds or other recoveries. We continue to monitor developments and pursue mitigation strategies, including selective pricing actions, i nventory and sourcing management, supplier diversification, and negotiating cost-sharing arrangements; however, we may be unable to offset tariff-related cost impacts, which could materially and adversely affect our gross margin and demand for our products. Brand and Omnichannel Strategy &#8226; We are focused on increasing global consumer awareness, cultural relevance, and adoption of our brands, which has contributed positively to our results of operations. Our global brand growth strategy seeks to drive adoption through product innovation and marketing investments across geographies and channels , while enhancing the customer experience through category expansion and loyalty-driven engagement. &#8226; We continue to manage marketplace inventory through product segmentation and differentiation . During the current period , promotional activity slightly increased compared to exceptionally low levels in the prior period ; however, we continued to achieve high levels of full-price sell through by aligning product assortments with marketplace demand. These efforts contributed to largely maintaining our gross margin compared to the prior period , even as the retail environment became more promotional. We may not realize similar gross margin benefits in our fi scal year ending March 31, 2027 ( next fiscal year ) due to various factors, including the macroeconomic and geopolitical factors discussed above and the potential impact from our pricing strategies. &#8226; Our long-term strategy is to grow our DTC channel to represent a larger portion of our total net sales by differentiating the consumer experience relative to the wholesale channel and driving consumer acquisition and retention. We are investing in e-commerce platform upgrades, data analytics, consumer experience initiatives, and selective global retail store expansion. We expect growth in our DTC channel's net sales to continue to positively impact our gross margin ; h owever, as we also seek to expand distribution with wholesale partners to drive brand awareness and Table of Contents 34 market share, our wholesale channel may represent a larger portion of our net sales in certain periods, which could pressure gross margin in those periods. &#8226; We are pursuing growth strategies for the HOKA brand and UGG brand to grow international sales to represent a larger portion of our total net sales . We continue to selectively expand our HOKA brand presence through additional wholesale partner locations and targeted DTC channel retail store expansion . We are also investing in regions that provide influential market presence to build brand awareness , including through the launch of our US HOKA brand loyalty program during fiscal year 2026. W e expect to continue investing in the UGG brand and HOKA brand global loyalty programs . &#8226; W e continue to take actions to reposition the Teva brand, including refocusing certain wholesale channel distribution toward outdoor and premium retail partners and emphasizing brand messaging around its outdoor-adventure heritage. Our efforts to reposition the Teva brand and our future results of operations remain uncertain. In particular, macroeconomic pressure on value&#8209;oriented domestic wholesale consumers may continue to adversely affect Teva brand performance. Supply Chain &#8226; To support our growth, we c ontinue to invest in our global distribution network, including our warehouses and DC s, as well as 3PL s. We also continue to diversify our independent manufacturers and the regions in which they operate; however, we maintain a significant concentration of sourcing and manufacturing in Southeast Asia . In addition, w e are currently transitioning one of our international 3PL s to a new partner, which may create temporary operational risks . We expect to continue upgrading our global distribution network to continue meeting customer and consumer demand. Reportable Operating Segments Overview As of March 31, 2026 , our three reportable operating segments include the worldwide operations of the HOKA brand, UGG brand, and Other brands . HOKA Brand. The HOKA brand is an authentic premium line of year-round performance footwear, which offers enhanced cushioning and inherent stability with minimal weight. Originally designed for ultra-runners, the brand now appeals to world champions, tastemakers, and everyday athletes. Expansion into additional product categories, elevated marketing campaigns, and investments in brand experiences, coupled with strategic marketplace presence have fueled both domestic and international sales growth of the HOKA brand, which has quickly become a leading brand within run and outdoor specialty wholesale accounts and is growing across its global marketplace. The HOKA brand's product line includes running, trail, hiking, fitness, and lifestyle footwear offerings, as well as apparel and accessories. We believe demand for HOKA brand products will continue to be driven by the following: &#8226; Leading performance product innovation, a deep connection to culture and community, category expansion into apparel and lifestyle, and key franchise management, including consumer led product flow and strategic product lifecycle cadence. &#8226; Increased global brand awareness and new consumer adoption through enhanced global marketing activations and online consumer acquisition, including building a connected ecosystem through social media platforms, e-commerce, and retail. &#8226; Thoughtful and strategic distribution choices, allowing the HOKA brand access and introduction to a broader, more diverse, consumer base. &#8226; Strategic investment in scaling lifestyle footwear, apparel, and accessories. UGG Bran d. The UGG brand is one of the most iconic and recognized brands in our industry, which highlights our successful track record of building niche brands into consumer-focused fashion lifestyle market leaders. Born on the California coast to warm surfers after they caught and rode the waves, we create iconic products and experiences that are made for people to feel comfort, softness, warmth, and confidence. With loyal consumers around the world, Table of Contents 35 innovative products, and elevated storytelling, the UGG brand has proven to be a highly resilient consumer-focused line of premium footwear, apparel, and accessories that has driven both domestic and international sales growth with year-round product offerings that appeal to a growing global audience and a broad demographic. We believe demand for UGG brand products will continue to be driven by the following: &#8226; Successful acquisition of a diverse global consumer base, and focusing on key markets, through strategic marketing activations and collaborations that resonate with a fashionable consumer. &#8226; High consumer brand loyalty due to elevated brand experiences and consistent delivery of crafted; purposefully built and luxuriously comfortable footwear, apparel, and accessories. &#8226; Diversification of our footwear product offerings, such as our spring and summer lines, as well as expanded category offerings for Men's products such as the slip-on shoe and sneaker category, and more iconic fashion product for our Classics line, including reimagining existing iconic styles into new categories. &#8226; Continued expansion of our apparel and accessories businesses. Other Brands . Other brands consist primarily of the Teva brand . The Teva brand's products are built for a range of outdoor pursuits and include a variety of footwear options, from classic sandals and shoes to boots. The Other brands reportable operating segment includes financial results of the Koolaburra brand and AHNU brand, for which the phase out of standalone operations were completed during the third and fourth quarters of fiscal year 2026 , as well as financial results for the former Sanuk brand during the prior period through the sale date of August 15, 2024 ( Sanuk Brand Sale Date ). Refer to the section titled &#8220;Reportable Operating Segments&#8221; in Note 1, &#8220;General,&#8221; of our consolidated financial statements in Part IV within this Annual Report for further information. Use of Non- GAAP Financial Measures We disclose supplemental financial measures calculated and presented in accordance with generally accepted accounting principles in the United States ( US GAAP ); however, throughout this Annual Report , including within our consolidated financial statements, we provide certain financial information on a non-GAAP basis ( non-GAAP financial measures ). We provide non-GAAP financial measures and information that may assist investors in understanding our results of operations and assessing our prospects for future performance, which primarily consist of certain constant currency measures and total segment-level financial information. We believe presenting certain financial and operating measures on a constant currency basis is important as it excludes the impact of foreign currency exchange rate fluctuations that are not indicative of our core results of operations and are largely outside of our control. We calculate our constant currency non-GAAP financial measures for current period financial information, such as total net sales using the foreign currency exchange rates that were in effect during the previous comparable period , excluding the effects of foreign currency exchange rate hedges and remeasurements in the consolidated financial statements . We also report comparable DTC sales on a constant currency basis for DTC operations that were open throughout the current and prior reporting periods, and we may adjust prior reporting periods to conform to current period accounting policies. The information presented on a constant currency basis, as we present such information, may not necessar",
+        "charRange": [
+          158693,
+          173693
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors,&#8221; within this Annual Report. F urthermore, our liquidity needs may evolve due to a number of factors, including changes in business conditions, changes in strategic initiatives, including any investments or acquisitions we may decide to pursue, changes in our capital allocation strategy, including the timing and scope of share repurchases, and changes in the macroeconomic or geopolitical landscape. If there are unexpected material impacts on our business in future periods, we may need to raise additional cash to fund our operations or pursue our business strategy, in which case we may seek to borrow under our revolving credit facilities, seek new or modified borrowing arrangements, or sell additional debt or equity securities. I ncurring Table of Contents 40 indebtedness under new or modified borrowing arrangements would subject us to debt service obligations and additional covenants that could restrict our operations and further encumber our assets . The sale of convertible debt or equity securities could result in additional dilution to our stockholders, and equity securities may have rights or preferences that are superior to those of our existing stockholders. Although we believe we have adequate sources of liquidity to support our cash needs and business strategy over the long term, factors such as changes in consumer preferences or tastes and changes in the macroeconomic or geopolitical environment could adversely affect our liquidity and capital resources. Sources of Liquidity . We finance our working capital and operating requirements using a combination of cash and cash equivalents balances, cash provided by operating activities, and repatriation of cash. We also have available borrowing capacity under our revolving credit facilities. We believe our sources of cash and cash equivalents will provide sufficient liquidity to enable us to meet our working capital requirements and contractual obligations for at least the next 12 months and will be sufficient to allow us to pursue our business strategies and plans. Cash and Cash Equivalents. As of March 31, 2026 , and 2025 , our cash and cash equivalents balance is $1,907,249 and $1,889,188 , r espectively, the majority of which is held in highly rated money market funds and interest-bearing bank deposit accounts with established national and global financial institutions . Cash Provided by Operating Activities. For the years ended March 31, 2026 , and 2025 , we generated $1,181,955 and $1,044,523 , respectively, of cash from operating activities. Refer to the section titled &#8220;Cash Flows&#8221; below for further discussion on cash flows generated from ongoing operating activities. Repatriation of Cash. Our cash repatriation strategy, and by extension, our liquidity, may be impacted by several additional considerations, which include future changes to, or our interpretations of, global tax law and regulations, and our actual earnings in various jurisdictions in future periods. During the years ended March 31, 2026 , and 2025 , no cash and cash equivalents were repatriated from an international subsidiary that were subject to income taxes . As of March 31, 2026 , and 2025 , we have $653,924 and $481,836 , respectively, of cash and cash equivalents held by international subsidiaries, a portion of which may be subject to additional foreign withholding taxes if it were to be repatriated. We continue to evaluate our cash repatriation strategy and currently anticipate repatriating current and future unremitted earnings of non- US subsidiaries to the extent they have been subject to US income tax, if such cash is not required to fund ongoing international operations. Refer to Note 5, &#8220;Income Taxes,&#8221; of our consolidated financial statements in Part IV within this Annual Report for further information regarding our cash repatriation strategy. During the years ended March 31, 2026 , and 2025 , we did not generate significant pre-tax earnings from any countries which do not impose a corporate income tax. A small portion of our unremitted accumulated earnings of non- US subsidiaries, for which no US federal or state income tax have been paid, are currently expected to be reinvested outside of the US indefinitely. Such earnings would become taxable upon the sale or liquidation of these subsidiaries. Revolving Credit Facilities. Information about our revolving credit facilities available as of March 31, 2026 , is as follows: &#8226; Primary Credit Facility . We have a five -year unsecured revolving credit facility, which provides for borrowings up to $400,000 ( Primary Credit Facility ) and contains a $25,000 sublimit for the issuance of letters of credit. Under the Primary Credit Facility , there is no outstanding balance, $399,407 of available borrowings, and $593 of outstanding letters of credit. &#8226; China Credit Facility. We have an uncommitted revolving line of credit of up to CNY300,000 , or $43,512 , with an overdraft facility sublimit of CNY100,000 , or $14,504 ( China Credit Facility ). Under the China Credit Facility , there is no outstanding balance, $43,032 of available borrowings, and $480 of outstanding bank guarantees . &#8226; Debt Covenants. W e are in compliance with all financial covenants under our Primary Credit Facility and China Credit Facility . Refer to Note 6, &#8220;Revolving Credit Facilities,&#8221; of our consolidated financial statements in Part IV within this Annual Report for further information regarding the terms of our revolving credit facilities. Table of Contents 41 Primary Cash Requirements. Our primary cash requirements include working capital, purchase obligations, payments to fulfill operating lease obligations, capital expenditures, and our stock repurchase program. Working Capital . Our working capital requirements begin when we purchase materials and inventories and continue until we collect the resulting trade accounts receivable. A significant portion of the UGG brand's business has historically been seasonal, with a higher concentration of net sales in the third fiscal quarter, which contributes to variability in our working capital requirements and necessitates the use of available cash to build inventory levels in advance of higher selling seasons. While the impact of seasonality has been partially mitigated by the increasing contribution of HOKA brand net sales, which are generally more evenly distributed throughout the fiscal year, as well as by the diversification and expansion of our year-round product offerings across our brands, we expect working capital requirements to continue to fluctuate period to period. Purchase Obligations. We have various types of purchase obligations, including obligations to purchase product, commodities, and other purchase obligations such as service contracts, which are incurred in the normal course of business but are considered commitments and contingencies that are not recorded in our consolidated financial statements . As of March 31, 2026 , our purchase obligations total $1,374,265 . Refer to Note 8, &#8220;Commitments and Contingencies,&#8221; of our consolidated financial statements in Part IV within this Annual Report for further information on our purchase obligations. Operating Lease Obligations. We primarily lease retail stores, showrooms, offices, and distribution facilities. As of March 31, 2026 , undiscounted operating lease payments recorded in the consolidated balance sheets total $436,556 . This amount excludes undiscounted minimum operating lease payments totaling $22,727 related to leases signed during fiscal year 2026 that had not yet commenced. Refer to Note 7, &#8220;Leases,&#8221; of our consolidated financial statements in Part IV within this Annual Report for further information on our operating lease obligations. Capital Expenditures and Cloud Computing Arrangements. We estimate that aggregate capital expenditures and certain implementation costs for cloud computing arrangements to be made before the end of our next fiscal year will range from approximately $145,000 to $155,000 . We anticipate these expenditures will primarily relate to expanding and upgrading our HOKA brand and UGG brand retail store fleet, completing IT infrastructure and system improvements, upgrading our office facilities, and upgrading our existing warehouses and DCs. However, the actual amount of our future capital expenditures may differ significantly from this estimate depending on numerous factors, including the timing of facility and retail store openings, as well as unforeseen needs to upgrade or replace facilities. Stock Repurchase Program. We continue to evaluate our capital allocation strategy and consider further opportunities to utilize our cash resources in a way that will profitably grow our business, meet our strategic objectives, and drive stockholder value, including by potentially repurchasing additional shares of our common stock. As of March 31, 2026 , the aggregate remaining approved amount under our stock repurchase program is $1,549,602 . Our stock repurchase program does not obligate us to acquire any amount of common stock and may be suspended at any time at our discretion. On May 20, 2026, our Board approved an additional authorization of $3,500,000 to repurchase shares of our common stock under the same conditions as the prior stock repurchase program, resulting in an aggregate remaining authorization of approximately $4,840,000 as of that date. Refer to Note 11, &#8220;Stockholders' Equity,&#8221; of our consolidated financial statements in Part IV and to Part II, Item 5, &#8220;Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities,&#8221; within this Annual Report for further information regarding our stock repurchase program. Table of Contents 42 Cash Flows The following table summarizes the major components of our consolidated statements of cash flows for the periods presented: Years Ended March 31, 2026 2025 Change Amount Amount Amount % Net cash provided by operating activities $ 1,181,955 $ 1,044,523 $ 137,432 13.2 % Net cash used in investing activities (84,612) (75,003) (9,609) (12.8) Net cash used in financing activities (1,084,044) (581,334) (502,710) (86.5) Effect of foreign currency exchange rates on cash and cash equivalents 4,762 (1,049) 5,811 554.0 Net change in cash and cash equivalents $ 18,061 $ 387,137 $ (369,076) (95.3) % Operating Activities. Our primary source of liquidity was net cash provided by operating activities, which was driven by our net income after non-cash adjustments and changes in operating assets and liabilities. The increase in net cash provided by operating activities during the year ended March 31, 2026 , compared to the prior period , was due to $80,635 of favorable net income after non-cash adjustments , as well as $56,797 of favorable changes in operating assets and liabilities . Changes in operating assets and liabilities were primarily due to favorable impacts from (1) timing of tax payments and receipts; (2) a higher rate of collections for trade accounts receivable, net, on higher net sales; and (3) timing of purchases of inventory; partially offset by unfavorable impacts from (4) net trade accounts payable from timing of receipts of goods and services and related disbursements; (5) timing of derivative contract cash settlements recorded to prepaid expenses and other current assets; and (6) timing of commodity deposits and investments in cloud computing arrangements recorded in other assets. Investing Activities. The increase in net cash used in investing activities during the year ended March 31, 2026 , compared to the prior period , was primarily due to cash proceeds from the sale of assets received during the prior period, partially offset by a decrease in purchases of property and equipment. Financing Activities. The increase in net cash used in financing activities during the year ended March 31, 2026 , compared to the prior period , was primarily due to a higher dollar value of stock repurchases, inclusive of excise taxes. C ritical Accounting Estimates The p reparation of our consolidated financial statements in accordance with US GAAP requires management to make estimates and assumptions that affect the amounts reported. Management bases these estimates and assumptions upon historical experience, existing and known circumstances, authoritative accounting pronouncements, and other factors it believes to be reasonable. In addition, management has considered the potential impact of macroeconomic and geopolitical factors on our financial condition, results of operations, and liquidity, including inflationary pressures, increased tariffs, rising supply chain costs, high interest rates, foreign currency exchange rate volatility, escalating global conflicts, changes in discretionary spending, and recession risks. A lthough the full impact of these factors is unknown, management believes it has made appropriate accounting estimates and assumptions based on the facts and circumstances available as of the reporting date. However, actual results could differ materially from these estimates and assumptions, which may result in material effects on our financial condition, results of operations and liquidity. We believe the following critical accounting estimates involve a significant level of estimation uncertainty and the balances have had or are reasonably likely to have a material impact on our financial condition or results of operations. Refer to Note 1, &#8220;General,&#8221; of our consolidated financial statements in Part IV within this Annual Report for further discussion of our significant accounting policies and use of estimates, as well as the impact of recent accounting pronouncements. Table of Contents 43 Sales Returns and Chargebacks. Revenue is recognized net of estimates, including for sales returns and chargebacks. Actual sales returns and chargebacks may differ from our estimates and are based on various factors including the following: Sales Return Liability. The estimate of the sales return liability is determined based on several factors, including known and actual returns, historical returns, and any recent events that could result in a change from historical return rates. For our wholesale channel, we base our estimate of sales returns on approved customer return requests, historical returns experience, and recent events that may affect expected return rates. For our DTC channel, we estimate sales returns using a lag compared to the prior period and consider historical experience and recent events or trends that may affect expected return rates. Allowance for Chargebacks. We record a chargeback allowance based primarily on known circumstances, such as price adjustments and short shipments, as well as unknown circumstances based on historical trends related to the timing and amount of chargebacks taken agains",
+        "charRange": [
+          187654,
+          202654
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 27186,
+            "context": "33, as amended ( Securities Act ), and Section 21E of the Securities Exchange Act of 1934, as amended ( Exchange Act ). These forward-looking statements are intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. Forward-looking statements include all statements other than statements of historical fact contained in, or incorporated by reference within, this Annual Report . We have attempted to identify forward- looking statements by using words such as &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;could,&#8221; &#822"
+          },
+          {
+            "charIndex": 92718,
+            "context": "y our expectations and standards , or experiences operational or financial difficulties, it may be challenging and time-consuming to identify and transition to an acceptable alternative. In addition, disputes under these arrangements could result in litigation, arbitration, settlement costs, or operational disruptions. We may also be adversely affected by our customers' actions or omissions, including failures to comply with applicable laws, regulatory requirements, labor or employment standards, or our policies. Such conduct could harm our reputation, subject us to regulatory scrutiny or liab"
+          },
+          {
+            "charIndex": 107101,
+            "context": "ractices and disclosures, including the social and environmental impacts of their operations. We periodically communicate ESG initiatives, including through our annual Creating Change Report and may face heightened scrutiny, regulatory inquiries, or litigation regarding the accuracy, completeness, or consistency of such disclosures, including allegations of &#8220;greenwashing.&#8221; Our ESG disclosures address a broad range of topics, including human rights, governance, environmental compliance, sustainability, human capital management, supply chain practices, and diversity and inclusion. De"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 136996,
+            "context": "ially higher tax expense or a higher effective tax rate on our worldwide earnings. For example, global tax authorities may take differing positions in interpreting the Organization for Economic Co-operation and Development's (commonly known as OECD) guidance, including with respect to Pillar Two model rules, which could modify existing tax principles and increase our tax liabilities; in addition, the enactment of H.R. 1, also known as the One Big Beautiful Bill Act, or similar future legislation, may also affect applicable tax rules and interpretations. These changes and potential other tax la"
+          },
+          {
+            "charIndex": 266554,
+            "context": "oes not expect the adoption of this ASU to have a material impact on its annual consolidated financial statements and interim condensed consolidated financial statements. ASU 2025-06 - Internal-Use Software This ASU amends recognition and disclosure guidance for internal-use software costs, removing the previous software development stage model with a more principles-based, probable-to-complete recognition threshold. This ASU is effective on either a retrospective, prospective, or modified prospective basis, for fiscal years beginning after December 15, 2027, including interim periods within t"
+          },
+          {
+            "charIndex": 267303,
+            "context": "onsolidated financial statements and interim condensed consolidated financial statements. ASU 2025-09 - Derivatives and Hedging (Topic 815): Hedge Accounting Improvements This ASU clarifies and improves certain aspects of hedge accounting, including guidance on the assessment of similar risk exposure for groups of forecasted transactions related to cash flow hedges and other targeted amendments intended to better align hedge accounting with an entity's risk management activities. This ASU is effective on a prospective basis for fiscal years beginning after December 15, 2026, including interim"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 139936,
+            "context": "#8226; announcements made by us or our competitors regarding product launches or developments; &#8226; announcements by our competitors, or other companies in our industry, regarding changes in financial condition, results of operations or financial outlook; &#8226; legal proceedings, regulatory actions, and legislative changes impacting us, our competitors, or the industry in which we operate; &#8226; the declaration of stock or cash dividends, stock repurchases, or stock or reverse stock splits; &#8226; consumer confidence and discretionary spending levels; &#8226; broad market fluctuations"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 31174,
+            "context": "udits that may impact our tax liability and effective tax rates; &#8226; our cash repatriation strategy regarding earnings of non- US subsidiaries and the resulting tax impacts; and &#8226; the value of long-lived assets and potential write-downs or impairment charges. Forward-looking statements represent management's current expectations and predictions about trends affecting our business and industry and are based on information available at the time such statements are made. Although we do not make forward- looking statements unless we believe we have a reasonable basis for doing so, we can"
+          },
+          {
+            "charIndex": 104602,
+            "context": "arket positioning, our retail growth may be limited, and we may be unable to avoid losses or negative cash flows from these locations. In addition, investments in new or expanded retail locations may not generate expected returns and could result in impairments or reduced profitability. Furthermore, our future growth depends in part on our ability to effectively manage the profitability of our existing retail locations. For example, our failure to successfully identify and close underperforming stores in a timely manner could have a number of material adverse effects, such as impairments and a"
+          },
+          {
+            "charIndex": 104935,
+            "context": "t on our ability to effectively manage the profitability of our existing retail locations. For example, our failure to successfully identify and close underperforming stores in a timely manner could have a number of material adverse effects, such as impairments and a negative impact on our financial condition and results of operations. We also license the right to operate our brand retail stores to third parties through our partner retail program. All of the partner retail stores are operated in international markets . We provide training to support these stores and set and monitor operational"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 92914,
+            "context": "on, disputes under these arrangements could result in litigation, arbitration, settlement costs, or operational disruptions. We may also be adversely affected by our customers' actions or omissions, including failures to comply with applicable laws, regulatory requirements, labor or employment standards, or our policies. Such conduct could harm our reputation, subject us to regulatory scrutiny or liability, disrupt our relationships with other customers and business partners, and adversely affect demand for our products. Transitioning away from an existing customer, whether due to performance"
+          },
+          {
+            "charIndex": 93041,
+            "context": "may also be adversely affected by our customers' actions or omissions, including failures to comply with applicable laws, regulatory requirements, labor or employment standards, or our policies. Such conduct could harm our reputation, subject us to regulatory scrutiny or liability, disrupt our relationships with other customers and business partners, and adversely affect demand for our products. Transitioning away from an existing customer, whether due to performance or compliance concerns, may result in lost sales, significant transition costs, and operational disruption as we identify, onbo"
+          },
+          {
+            "charIndex": 100336,
+            "context": "ility, most significantly sheepskin. Although sheepskin pricing has been relatively stable in recent years, prices and availability may fluctuate due to changes in supply and demand, weather conditions, energy and logistics costs, labor disruptions, regulatory developments, disease incidence, the effects of climate change, and broader market dynamics. While we use contracts and other pricing arrangements to mitigate price volatility, prolonged increases in sheepskin costs or other key inputs could increase manufacturing expenses and negatively impact our gross margin , and we may be unable to"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 92743,
+            "context": "andards , or experiences operational or financial difficulties, it may be challenging and time-consuming to identify and transition to an acceptable alternative. In addition, disputes under these arrangements could result in litigation, arbitration, settlement costs, or operational disruptions. We may also be adversely affected by our customers' actions or omissions, including failures to comply with applicable laws, regulatory requirements, labor or employment standards, or our policies. Such conduct could harm our reputation, subject us to regulatory scrutiny or liability, disrupt our relati"
+          },
+          {
+            "charIndex": 134376,
+            "context": "ave faced claims that the word &#8220;ugg&#8221; is a generic term. Such a claim was successful in Australia, but similar claims have been rejected by courts in the US , China, the Republic of T&#252;rkiye, and the Netherlands. Any court decision or settlement that invalidates or limits trademark protection of our brands, which allows a third-party to continue to sell products similar to our products or to sell counterfeit products, could lead to intensified competition and a reduction in our sales and adversely affect the value of our brands. Our revolving credit facility agreements expose us"
+          },
+          {
+            "charIndex": 151526,
+            "context": "rk infringement, patent infringement, trade dress infringement, and trademark dilution. We generally have multiple actions such as these pending at any given point in time. These actions may result in seizure of counterfeit merchandise, out-of-court settlements with defendants, or other outcomes. In addition, from time to time, we are subject to claims in which opposing parties will raise, either as affirmative defenses or as counterclaims, the invalidity or unenforceability of certain of our intellectual property rights, including allegations that the UGG brand trademark registrations and des"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 27138,
+            "context": "aning of Section 27A of the Securities Act of 1933, as amended ( Securities Act ), and Section 21E of the Securities Exchange Act of 1934, as amended ( Exchange Act ). These forward-looking statements are intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. Forward-looking statements include all statements other than statements of historical fact contained in, or incorporated by reference within, this Annual Report . We have attempted to identify forward- looking statements by using words such as &#8220;anticipate,&#8221; &"
+          },
+          {
+            "charIndex": 29268,
+            "context": "global third-party logistics providers ( 3PL s), and third-party carriers, including those arising from global supply chain disruptions, labor shortages , and logistics constraints; &#8226; availability of materials and manufacturing capacity, the reliability of overseas production and storage, and the geographic concentration of manufacturing operations; &#8226; expansion of our brands, product offerings, and investments in our distribution facilities, e-commerce websites, and retail store footprint ; &#8226; our business, operating, investing, capital allocation, marketing, and financing pla"
+          },
+          {
+            "charIndex": 30954,
+            "context": "the outcomes of legal proceedings, including the impact they may have on our business and intellectual property rights; &#8226; our interpretation of applicable global tax regulations and changes in global tax laws and audits that may impact our tax liability and effective tax rates; &#8226; our cash repatriation strategy regarding earnings of non- US subsidiaries and the resulting tax impacts; and &#8226; the value of long-lived assets and potential write-downs or impairment charges. Forward-looking statements represent management's current expectations and predictions about trends affecting"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 1019531000,
+          "accn": "0000910521-26-000022",
+          "fy": 2027,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-07-30",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2026-03-31",
+          "val": 5472296000,
+          "accn": "0001628280-26-037664",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-05-22",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2025-12-31",
+          "val": 1957549000,
+          "accn": "0000910521-26-000005",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-02-03",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-12-31",
+          "val": 4352927000,
+          "accn": "0000910521-26-000005",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-02-03"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 1430840000,
+          "accn": "0000910521-25-000044",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-10-31",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-09-30",
+          "val": 2395378000,
+          "accn": "0000910521-25-000044",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-10-31"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 964538000,
+          "accn": "0000910521-26-000022",
+          "fy": 2027,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-07-30",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 964538000,
+          "accn": "0000910521-25-000037",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-07-31"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 0.94,
+          "accn": "0000910521-26-000022",
+          "fy": 2027,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-07-30",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2026-03-31",
+          "val": 7.02,
+          "accn": "0001628280-26-037664",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-05-22",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2025-12-31",
+          "val": 3.33,
+          "accn": "0000910521-26-000005",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-02-03",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-12-31",
+          "val": 6.04,
+          "accn": "0000910521-26-000005",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-02-03"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 1.82,
+          "accn": "0000910521-25-000044",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-10-31",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-09-30",
+          "val": 2.74,
+          "accn": "0000910521-25-000044",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-10-31"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 0.93,
+          "accn": "0000910521-26-000022",
+          "fy": 2027,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-07-30",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 0.93,
+          "accn": "0000910521-25-000037",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-07-31"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 129972000,
+          "accn": "0000910521-26-000022",
+          "fy": 2027,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-07-30",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2026-03-31",
+          "val": 1024071000,
+          "accn": "0001628280-26-037664",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-05-22"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2025-12-31",
+          "val": 481145000,
+          "accn": "0000910521-26-000005",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-02-03",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-12-31",
+          "val": 888500000,
+          "accn": "0000910521-26-000005",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-02-03"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 268152000,
+          "accn": "0000910521-26-000005",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-02-03",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 268152000,
+          "accn": "0000910521-25-000044",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-10-31"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-09-30",
+          "val": 407355000,
+          "accn": "0000910521-25-000044",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-10-31"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 139203000,
+          "accn": "0000910521-26-000022",
+          "fy": 2027,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-07-30",
+          "frame": "CY2025Q2"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 155301000,
+          "accn": "0000910521-26-000022",
+          "fy": 2027,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-07-30",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2026-03-31",
+          "val": 1262903000,
+          "accn": "0001628280-26-037664",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-05-22",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2025-12-31",
+          "val": 614366000,
+          "accn": "0000910521-26-000005",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-02-03",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-12-31",
+          "val": 1106174000,
+          "accn": "0000910521-26-000005",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-02-03"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 326521000,
+          "accn": "0000910521-25-000044",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-10-31",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-09-30",
+          "val": 491808000,
+          "accn": "0000910521-25-000044",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-10-31"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 165287000,
+          "accn": "0000910521-26-000022",
+          "fy": 2027,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-07-30",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 165287000,
+          "accn": "0000910521-25-000037",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-07-31"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "DECK",
+    "name": "DECKERS OUTDOOR CORP",
+    "sector": "Rubber & Plastics Footwear",
+    "pe": 13.83,
+    "pb": 5.79,
+    "ret3m": -5.1402,
+    "ret6m": -14.0286,
+    "roe": 44.49,
+    "debtEquity": 0,
+    "revenueGrowth": 9.76,
+    "epsGrowth": 10.9,
+    "fcfGrowth": 14.5,
+    "operatingMargin": 23.08,
+    "marginTrend": -0.57,
+    "sentiment": 0.731,
+    "analyst": 68.9,
+    "beta": 1.141508
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "Deckers Outdoor (DECK) Stock Fair Value Edges Lower As Analysts Weigh Mixed Outlook",
+        "url": "https://finnhub.io/api/news?id=17d01aaa8e89c186505535fc99535878733676c623daac6b60d781b6e262eaaa",
+        "source": "Yahoo",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "CPRI Q1 Earnings Beat Estimates on Margin Gains, Jimmy Choo Growth",
+        "url": "https://finnhub.io/api/news?id=0f36f3122039d71fc826301a52f25c3a753e13f4e5c8d83f52a2f9166017c7f9",
+        "source": "Yahoo",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "ONON Stock Decision Growth Potential Versus Premium Valuation Now",
+        "url": "https://finnhub.io/api/news?id=bc07c808f44094f539da80d1b9396bafe84c7902722a655e30a247435a18b1f2",
+        "source": "Yahoo",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "DECK or IDEXY: Which Is the Better Value Stock Right Now?",
+        "url": "https://finnhub.io/api/news?id=e0d408f3dfd68439513be91bff8254591dd59e6ff558e44f0998dc547cdaa2da",
+        "source": "Yahoo",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "ONON Gains 11.2% in 3 Months: Can Growth Momentum Continue Longer Term",
+        "url": "https://finnhub.io/api/news?id=ad61f953b7fc58a111c0acb9c6986dfe2bac7150a73cc7ea61cc6bd91939c5dc",
+        "source": "Yahoo",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "Will BOOT's Raised Fiscal 2027 Outlook Hold as Tariff Refunds Fade?",
+        "url": "https://finnhub.io/api/news?id=e622e20b597878a78379d1e44d2cc34791da1d389faf3c822e50d90b6578c1d1",
+        "source": "Yahoo",
+        "date": "2026-08-04"
+      }
+    ],
+    "cachedAt": "2026-08-11T05:48:31.368Z"
+  }
+}

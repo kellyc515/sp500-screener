@@ -1,0 +1,710 @@
+{
+  "ticker": "INTU",
+  "entityName": "INTUIT INC.",
+  "cik": "0000896878",
+  "generatedAt": "2026-08-12T01:37:02.620Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-05-20",
+        "reportDate": "2026-04-30",
+        "accessionNumber": "0000896878-26-000025",
+        "primaryDocument": "intu-20260430.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000025/intu-20260430.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000025/"
+      },
+      "textLength": 296335,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended July 31, 2025 have the greatest potential impact on our financial statements, so we consider them to be our critical accounting estimates. There were no significant changes in those critical accounting estimates during the first nine months of fiscal 2026. Senior management has reviewed the development and selection of our critical accounting estimates and their disclosure in this Quarterly Report on Form 10-Q with the Audit and Risk Committee of our Board of Directors. RESULTS OF OPERATIONS Financial Overview (Dollars in millions, except per share amounts) Q3 FY26 Q3 FY25 $ Change % Change YTD Q3 FY26 YTD Q3 FY25 $ Change % Change Total net revenue $ 8,558 $ 7,754 $ 804 10 % $ 17,094 $ 15,000 $ 2,094 14 % Operating income 4,020 3,720 300 8 % 5,409 4,584 825 18 % Net income 3,064 2,820 244 9 % 4,203 3,488 715 20 % Diluted net income per share $ 11.09 $ 10.02 $ 1.07 11 % $ 15.05 $ 12.33 $ 2.72 22 % Current Fiscal Quarter Total net revenue for the third quarter of fiscal 2026 increased $804 million, or 10%, compared with the same quarter of fiscal 2025. Consumer segment revenue increased 8% due to growth in assisted tax and our consumer money offerings, and strength in our Credit Karma personal loan and insurance verticals, partially offset by a decrease in revenue due to fewer TurboTax federal units. Our Global Business Solutions segment revenue increased 15% during the quarter due to growth in our Online Ecosystem revenue. See &#8220;Segment Results&#8221; later in this Item 2 for more information about the results for all of our reportable segments. Operating income for the third quarter of fiscal 2026 increased $300 million, or 8%, compared with the same quarter of fiscal 2025. The increase in operating income was due to the increase in revenue described above, partially offset by an increase in expenses. Expenses increased due to increases in expenses for outside services, which include hosting, staffing, marketing, SaaS subscriptions and licenses, and share-based compensation. See &#8220;Cost of Revenue&#8221; and &#8220;Operating Expenses&#8221; later in this Item 2 for more information. Net income for the third quarter of fiscal 2026 increased $244 million, or 9%, compared with the same quarter of fiscal 2025. The increase in net income was due to the increase in operating income described above and an increase in interest and other income, partially offset by an increase in income tax expense. The increase in interest and other income is the result of $46 million in net gains on long-term investments recorded during the period. The increase in income tax expense is due to the increase in operating income described above and tax shortfalls related to share-based compensation. Diluted net income per share increased to $11.09 for the third quarter of fiscal 2026 compared to $10.02 for the same quarter of fiscal 2025, due to the increase in net income and decrease in our weighted shares outstanding as a result of our increased share repurchase activity. Fiscal Year to Date Total net revenue for the first nine months of fiscal 2026 increased $2.1 billion, or 14%, compared with the same period of fiscal 2025. Our Global Business Solutions segment revenue increased 17% during the period due to growth in our Online Ecosystem revenue. Consumer segment revenue increased 10% due to growth in assisted tax and our consumer money offerings, and strength in our Credit Karma personal loan, credit card, and insurance verticals, partially offset by a decrease in revenue due to fewer TurboTax federal units. See &#8220;Segment Results&#8221; later in this Item 2 for more information about the results for all of our reportable segments. Operating income for the first nine months of fiscal 2026 increased $825 million, or 18%, compared with the same period of fiscal 2025. The increase in operating income was due to the increase in revenue described above, partially offset by an increase in expenses. Expenses increased due to increases in expenses for outside services, which include hosting, staffing, marketing, share-based compensation, and SaaS subscriptions and licenses. See &#8220;Cost of Revenue&#8221; and &#8220;Operating Expenses&#8221; later in this Item 2 for more information. Intuit Q3 Fiscal 2026 Form 10-Q 36 Table of Contents Net income for the first nine months of fiscal 2026 increased $715 million, or 20%, compared with the same period of fiscal 2025. The increase in net income was due to the increase in operating income described above and an increase in interest and other income, partially offset by an increase in income tax expense. The increase in interest and other income is the result of $104 million in net gains on long-term investments recorded in the first nine months of fiscal 2026 and $43 million in net losses on long-term investments recorded during the same period of fiscal 2025. The increase in income tax expense is due to the increase in operating income described above and lower tax benefits related to share-based compensation. Diluted net income per share increased to $15.05 for the first nine months of fiscal 2026 compared to $12.33 for the same period of fiscal 2025, due to the increase in net income and decrease in our weighted shares outstanding as a result of our increased share repurchase activity. Segment Results The information below is organized in accordance with our two reportable segments. See &#8220;Executive Overview &#8211; About Intuit&#8221; earlier in this Item 2 and Note 12 to the condensed consolidated financial statements in Part I, Item 1 of this Quarterly Report for more information. All of our segments operate and sell to customers primarily in the U.S. Total international net revenue was approximately 6% and 7% of consolidated net revenue for the three and nine months ended April 30, 2026, respectively. Total international net revenue was approximately 5% and 7% of consolidated net revenue for the three and nine months ended April 30, 2025, respectively. Effective August 1, 2025, we combined our Consumer, Credit Karma, and ProTax businesses into a single Consumer segment in order to better serve the diverse financial needs of our customers as one consumer platform. Our chief operating decision maker allocates resources and assesses segment performance using regularly provided segment revenue and segment operating income information under this updated segment structure. To align results under this segment change, certain selling and marketing, product development, and general and administrative expenses for Credit Karma that were managed at the segment level are now managed at the platform level and are included in other corporate expenses rather than in segment expenses. Also on August 1, 2025, we reorganized certain marketing, communications, and customer success functions in our Global Business Solutions segment that support and benefit our overall platform and are managed at that level rather than at the segment level. Additionally, certain data science and analytics teams that were managed at the platform level are now managed at the segment level. We have recast certain previously reported amounts to conform to these segment changes. As a result of these changes, for the three and nine months ended April 30, 2025, we reclassified expenses totaling $1 million and $7 million from Global Business Solutions and $155 million and $456 million from Consumer to other corporate expenses, respectively, to conform to the current presentation. Segment operating income or loss is segment net revenue less segment cost of revenue and operating expenses. See &#8220;Executive Overview &#8211; Industry Trends and Seasonality&#8221; earlier in this Item 2 for a description of the seasonality of our business. We include expenses such as corporate selling and marketing, general and administrative, and non-employment related legal and litigation settlement costs, which are not allocated to specific segments, in unallocated corporate items as part of other corporate expenses. As part of our platform strategy, we also include customer success and product development for our segments in unallocated corporate items as we do not allocate these expenses to the segments because they are managed at the platform level. Customer success includes the costs of tax and bookkeeping experts that support our TurboTax Expert Assist, TurboTax Expert Full Service, and QuickBooks Live offerings. Unallocated corporate items also include share-based compensation, amortization of acquired technology, amortization of other acquired intangible assets, goodwill and intangible asset impairment charges, professional fees and transaction costs related to business combinations, and restructuring charges. These unallocated corporate costs for all segments totaled $7.6 billion and $6.9 billion for the nine months ended April 30, 2026 and April 30, 2025, respectively. Unallocated corporate items increased in the fiscal 2026 period, primarily due to increases in research and development expense, cost of service revenue, and selling and marketing expense. See Note 12 to the condensed consolidated financial statements in Part I, Item 1 of this Quarterly Report for reconciliations of total segment operating income or loss to consolidated operating income or loss for each fiscal period presented. Intuit Q3 Fiscal 2026 Form 10-Q 37 Table of Contents Global Business Solutions Global Business Solutions segment revenue includes both Online Ecosystem and Desktop Ecosystem revenue. Our Online Ecosystem includes revenue from: &#8226; QuickBooks Online and Intuit Enterprise Suite financial and business management offerings; &#8226; QuickBooks Live; &#8226; Workforce solutions, including QuickBooks Online Payroll and QuickBooks Time; &#8226; Money offerings for businesses that use online offerings, which include merchant payment processing and bill pay services, and financing for small and mid-market businesses (QuickBooks Capital); and &#8226; Mailchimp's marketing automation offerings. Our Desktop Ecosystem includes revenue from: &#8226; QuickBooks Desktop software subscriptions (QuickBooks Desktop Plus, QuickBooks Enterprise, and ProAdvisor Program memberships for accounting professionals who serve small businesses); &#8226; Desktop workforce solutions, including payroll products; &#8226; Money offerings for businesses that use desktop offerings, which include merchant payment processing services and financing for small and mid-market businesses (QuickBooks Capital); and &#8226; Financial supplies. Segment service revenue is primarily derived from our Online Ecosystem revenue and revenue from the services, support, and when-and-if-available product upgrades and enhancements that are provided as part of our QuickBooks Desktop subscriptions, services and support for our desktop payroll offerings, and merchant payment processing services. Segment product and other revenue is primarily derived from revenue related to delivery of software licenses, version protection updates, and payroll software updates for our QuickBooks Desktop subscriptions and desktop payroll offerings, which are part of our Desktop Ecosystem. (Dollars in millions) Q3 FY26 Q3 FY25 % Change YTD Q3 FY26 YTD Q3 FY25 % Change Service revenue $ 2,761 $ 2,362 17 % $ 8,125 $ 6,832 19 % Product and other revenue 524 487 8 % 1,315 1,232 7 % Total segment revenue $ 3,285 $ 2,849 15 % $ 9,440 $ 8,064 17 % % of total revenue 38 % 37 % 55 % 54 % Segment operating income $ 2,520 $ 2,189 15 % $ 7,257 $ 6,243 16 % % of related revenue 77 % 77 % 77 % 77 % Intuit Q3 Fiscal 2026 Form 10-Q 38 Table of Contents Revenue classified by significant service and product offerings was as follows: (Dollars in millions) Q3 FY26 Q3 FY25 % Change YTD Q3 FY26 YTD Q3 FY25 % Change Net revenue: QuickBooks Online Accounting $ 1,278 $ 1,044 22 % $ 3,732 $ 3,017 24 % Online Services 1,219 1,059 15 % 3,583 3,067 17 % Total Online Ecosystem 2,497 2,103 19 % 7,315 6,084 20 % QuickBooks Desktop Accounting 507 476 7 % 1,271 1,160 10 % Desktop Services and Supplies 281 270 4 % 854 820 4 % Total Desktop Ecosystem 788 746 6 % 2,125 1,980 7 % Total Global Business Solutions $ 3,285 $ 2,849 15 % $ 9,440 $ 8,064 17 % Revenue for our Global Business Solutions segment increased $436 million, or 15%, in the third quarter of fiscal 2026 and $1.4 billion, or 17%, in the first nine months of fiscal 2026 compared with the same periods of fiscal 2025. The increase in both periods was primarily due to growth in Online Ecosystem revenue. Online Ecosystem Revenue Online Ecosystem revenue increased $394 million, or 19%, in the third quarter of fiscal 2026 compared with the same period of fiscal 2025. QuickBooks Online Accounting revenue increased $234 million, or 22%, in the third quarter of fiscal 2026 due to the interrelated factors of higher effective prices, customer growth, and mix shift. Online Services revenue increased $160 million, or 15%, in the third quarter of fiscal 2026, due to increases in revenue from our money offerings of $107 million and our payroll offerings of $55 million. Revenue increases were due to the interrelated factors described below. Money revenue increased $107 million due to a $61 million increase in payments revenue from payments customer growth and an increase in total payment volume per customer, and a $46 million increase from QuickBooks Capital. Online payroll revenue increased due to mix shift, customer growth, and higher effective prices. Online Ecosystem revenue increased $1.2 billion, or 20%, in the first nine months of fiscal 2026 compared with the same period of fiscal 2025. QuickBooks Online Accounting revenue increased $715 million, or 24%, in the first nine months of fiscal 2026 due to the interrelated factors of higher effective prices, customer growth, and mix shift. Online Services revenue increased $516 million, or 17%, in the first nine months of fiscal 2026, due to increases in revenue from our money offerings of $327 million and our payroll offerings of $204 million. Revenue increases were due to the interrelated factors described below. Money revenue increased $327 million due to a $183 million increase in payments revenue from payments customer growth and an increase in total payment volume per customer, and a $144 million increase from QuickBooks Capital. Online payroll revenue increased due to mix shift, customer growth, and higher effective prices. Desktop Ecosystem Revenue Desktop Ecosystem revenue increased $42 million, or 6%, in the third quarter of fiscal 2026 and $145 million, or 7%, in the first nine months of fiscal 2026 compared with the same periods of fiscal 2025 due to higher effective prices. Global Business Solutions segment operating income increased $331 million, or 15%, in the third quarter",
+        "charRange": [
+          150121,
+          165121
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "RISK FACTORS Our businesses routinely encounter and address risks, many of which could cause our future results to be materially different than we presently anticipate. Below, we describe material factors, events and uncertainties that make an investment in our securities speculative or risky, categorized solely for ease of reference as strategic, operational, legal and compliance, and financial risks, and which you should consider carefully in evaluating our business. The following events and consequences could have a material adverse effect on our business, growth, prospects, financial condition, results of operations, cash flows, liquidity, reputation and credit rating, and the trading price of our common stock could decline. Some of the factors, events, and uncertainties discussed below may have occurred in the past. However, these disclosures are not representations as to whether or not the factors, events or uncertainties have occurred in the past, instead they reflect our beliefs and opinions as to the factors, events or uncertainties that could materially and adversely affect us in the future. We could also be affected by other events, factors or uncertainties that are presently unknown to us or that we do not currently consider to present significant risks to our business. These risks may be amplified by the effects of global developments and conditions or events, including macroeconomic and geopolitical conditions, which have caused significant global economic instability and uncertainty. Therefore, you should not consider the following risks to be a complete statement of all the potential risks or uncertainties that we face. STRATEGIC RISKS We face intense competitive pressures that may harm our operating results. We face intense competition in all of our businesses, and we expect competition to continue to intensify in the future. Our competitors and potential competitors range from large and established entities to emerging start-ups. Our competitors may introduce superior products and services, successfully use and deploy new technologies such as AI that may reduce customer demand for our products or services, reduce prices, have greater technical, marketing and other resources, have greater name recognition, have larger installed bases of customers, have well-established relationships with our current and potential customers and partners, advertise aggressively or beat us to market with new products and services. In addition, we face competition from existing companies with large established consumer user bases and broad-based platforms, who may change or expand the focus of their business strategies and marketing to target our customers, including small businesses, tax and personal financial management customers. We also face competition from companies with a variety of business models and monetization strategies, including increased competition from providers of free and low cost offerings, particularly in our tax, accounting, payments and consumer finance platform businesses. We have also introduced free offerings in several categories, but we may not be able to attract and retain customers as effectively as our competitors with different business models. In addition, other providers of free offerings may provide features that we do not offer and customers who have formerly paid for our products and services may elect to use our competitors' free offerings instead. These competitive factors may diminish our revenue and profitability, and harm our ability to acquire and retain customers. Our consumer tax business also faces significant, increasing competition from the public sector, where we face the risk of federal and state taxing authorities implementing revenue-raising strategies that involve developing and providing government tax software or other government return preparation systems at public expense. These or similar programs have been and may continue to be introduced or expanded in the future, which may change the voluntary compliance tax system in ways that could cause us to lose customers and revenue. For example, although the IRS free direct filing system was suspended, proponents of these programs continue to advocate for them. Additionally, the legacy IRS Free File Program enables the IRS to offer free commercial tax software directly to qualifying taxpayers, and taxpayer adoption of this program could expand with increased awareness of and government support for the program. Through these or other programs, federal and state governments are or could become publicly funded direct competitors of the U.S. tax services industry and of Intuit. Government funded services that curtail or eliminate the role of taxpayers in preparing their own taxes could potentially have material and adverse revenue implications on us. Intuit Q3 Fiscal 2026 Form 10-Q 50 Table of Contents Future revenue growth depends upon our ability to adapt to technological change and successfully extend our platform, introduce new and enhanced products, features, services and business models. We operate in industries that are characterized by rapidly changing technology, evolving industry standards and frequent new product introductions. To meet the evolving needs and expectations of our customers and partners and attract and retain top technical talent, we must continue to innovate, develop and extend our platform, introduce new products, services, and features, and enhance our ability to anticipate and solve new and existing customer problems, including with emerging technologies, such as AI. If we are not able to do this successfully, we may face a competitive disadvantage and our business could be harmed. We have and will continue to devote significant resources to continue to develop our skills, tools and capabilities to capitalize on existing and emerging technologies, including AI. There can be no assurance that we or our customers will realize the expected benefits from these investments. Legislation or regulatory changes in these areas may mandate changes in our products that make them less attractive to users and hinder our ability to leverage emerging technologies and build out our platform capabilities. Our consumer and professional tax businesses depend significantly on revenue from customers who return each year to use our updated tax preparation and filing software and services. They include customers who use our free consumer tax products and whose tax scenarios evolve in subsequent years to require paid services. Encouraging continued use of our offerings in successive years can become increasingly difficult if customers do not perceive our offerings to provide continuing or meaningfully incremental value. The growth of our business depends, in part, on our ability to successfully provide customers value in this way. In addition, when customers consent to the use of their data across our platform, we work to provide additional benefits to them through our existing offerings and through the development of new offerings. Our inability to demonstrate value of any of these offerings to existing customers may negatively impact our ability to build new data-driven offerings and our revenue. We may expend a significant amount of resources and management attention on offerings that do not ultimately succeed in their markets. We have encountered difficulty in launching new offerings in the past. If we misjudge customer needs in the future, our new offerings may not succeed and our revenues and earnings may be harmed. We have also invested, and in the future, expect to invest in new business models, technologies, geographies, strategies and initiatives. Such endeavors may involve significant risks and uncertainties, including a rapidly changing regulatory environment, diversion of management's attention from current operations, expenses associated with the initiatives, inadequate return on investments, and social or ethical scrutiny. Because these new initiatives are inherently risky, they may not be successful and may harm our financial condition, operating results, or reputation. We rely on intellectual property in our products and services. Many of our products and services utilize our own intellectual property, as well as the intellectual property of third parties, which we license under agreements that may need to be renewed or renegotiated from time to time. We may not be able to obtain licenses to these third-party technologies or content on reasonable terms, or at all, in the future. If we are unable to obtain the rights necessary to use certain intellectual property in our products and services, we may not be able to provide the affected offerings, and customers who are currently using the affected product may be disrupted, which may in turn harm our future financial results, damage our brand, and result in customer loss. Also, we and our customers have been and may continue to be subject to infringement claims as a result of the third-party intellectual property incorporated in our offerings, including through our use of AI. If an infringement claim is successfully asserted against us, it could require us to pay substantial damages or ongoing royalty payments, prevent us from offering our services, require us to change our products, technology, or business practices, or require our compliance with other unfavorable contractual terms. Even if we are not ultimately liable for any potential infringement, pending claims require us to use significant resources, require management attention and could result in loss of customers. Some of our offerings include third-party software that is licensed under &#8220;open source&#8221; licenses, some of which may include a requirement that, under certain circumstances, we make available, or grant licenses to, any modifications or derivative works we create based upon the open source software. Our established internal review and approval processes may not mitigate these risks, and we cannot be sure that all open source software is submitted for approval prior to use in our products. Our inability to mitigate the risks associated with the usage of open source software may harm our business. Our intellectual property rights are valuable, and any inability to protect them could reduce the value of our products, services and brand. Our patents, trademarks, trade secrets, copyrights, domain names and other intellectual property rights are important assets for us. We aggressively protect our intellectual property rights by relying on federal, state and common law rights in the U.S. and internationally, as well as a variety of administrative procedures and contractual restrictions. However, the efforts that we take to protect our proprietary rights, including through litigation, monitoring, and enforcement programs, may not always be sufficient or effective. We often observe unauthorized copies of our software being sold through online marketplaces, and despite our effort to implement technical countermeasures, we expect piracy to continue to remain a persistent problem that results in lost revenue and increased expenses. In addition, there is uncertainty about the validity and enforceability of intellectual property rights that may result from our use of GenAI. Protecting our intellectual property rights is costly and time consuming and may not be successful in every location. Any significant impairment of our intellectual property rights could harm our business, our brand, and our ability to compete. Intuit Q3 Fiscal 2026 Form 10-Q 51 Table of Contents Our business depends on our strong reputation and the value of our brands. Developing and maintaining awareness of our brands and platform strategy is critical to achieving widespread acceptance of our existing and future products and services and is an important element in attracting new customers and expanding our business with existing customers. Adverse publicity (whether or not justified) relating to events, activities, or views attributed to us, members of our workforce or Board of Directors, agents, third parties we rely on, or our users, may tarnish our reputation and reduce the value of our brands. Perceived social harm or unfairness of outcomes relating to the use of new and evolving technologies such as AI in our offerings, may result in reputational harm and liability, and may cause us to incur additional research and development costs to resolve such issues. Our brand value also depends on our ability to provide secure and trustworthy products and services, as well as our ability to protect and use our customers' data in a manner that meets their expectations. In addition, a security incident that results in unauthorized disclosure of our customers' sensitive data could cause material reputational harm. Damage to our reputation and loss of brand equity may reduce demand for our products or services and thus have an adverse effect on our future financial results, as well as require additional resources to rebuild our reputation and restore the value of the brands and could also reduce our stock price. Our efforts related to environment, social, and governance matters expose us to risks that could adversely affect our reputation and performance. Environmental, social and governance matters continue to be an area of focus for shareholders, regulators, customers, employees, and other stakeholders. Our efforts and reporting on these matters expose us to risks that could adversely affect our reputation, operations, and performance. This could happen if we fail, or are perceived to fail, to meet evolving stakeholder expectations or varying state or federal regulatory requirements, or to uphold or achieve our public commitments. Standards and best practices for tracking and reporting these matters continue to evolve and we may not be able to implement new and changing standards and best practices in ways that meet the varied expectations of all of our stakeholders. Any of the foregoing may also expose us to increased scrutiny from stakeholders and negatively impact demand for our products, our ability to attract and retain talent or our relationships with customers, suppliers or other stakeholders. Our acquisition and divestiture activities may disrupt our ongoing business, may involve increased expenses and may present risks not contemplated at the time of the transactions. We have acquired and may continue to acquire companies, products, technologies and talent that complement our strategic direction, both in and outside the United States. Acquisitions involve significant risks and uncertainties, including: &#8226; inability to successfully integrate the acquired technology, data assets and operations into our business and maintain uniform standards, controls, policies, and procedures; &#8226; inability to realize synergies or anticipated benefits within the expected time frame or at all; &#8226; disruption of our",
+        "charRange": [
+          204875,
+          219875
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 261070,
+            "context": "climate change. For example, our offices globally have historically experienced, and are projected to continue to experience, climate-related events at an increasing frequency, including drought, water scarcity, heat waves, cold waves, extreme wind, wildfires and resultant air quality impacts and power shutoffs associated with wildfire prevention. Furthermore, it is more difficult to mitigate the impact of these events on our employees to the extent they work away from our offices. Changing market dynamics, global policy developments and the increasing frequency and impact of extreme weather e"
+          },
+          {
+            "charIndex": 261149,
+            "context": ", and are projected to continue to experience, climate-related events at an increasing frequency, including drought, water scarcity, heat waves, cold waves, extreme wind, wildfires and resultant air quality impacts and power shutoffs associated with wildfire prevention. Furthermore, it is more difficult to mitigate the impact of these events on our employees to the extent they work away from our offices. Changing market dynamics, global policy developments and the increasing frequency and impact of extreme weather events on critical infrastructure in the U.S. and elsewhere have the potential t"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 54973,
+            "context": "ing variable consideration to be included in the transaction price. We use estimates in determining the collectibility of accounts receivable and notes receivable held for investment, the appropriate levels of various accruals including accruals for litigation contingencies, the discount rate used to calculate lease liabilities, the amount of our worldwide tax provision, the realizability of deferred tax assets, the credit losses of available-for-sale debt securities, the fair value of assets acquired and liabilities assumed for business combinations, and the fair value of notes receivable hel"
+          },
+          {
+            "charIndex": 121018,
+            "context": "olution or settlement of these proceedings and inquiries could involve significant costs to us. Intuit is subject to certain routine legal proceedings, including class action lawsuits, as well as demands, claims, government inquiries, and threatened litigation, that arise in the normal course of our business, including assertions that we may be infringing patents or other intellectual property rights of others. Our failure to obtain necessary licenses or other rights, or litigation arising out of intellectual property claims could adversely affect our business. We currently believe that, in ad"
+          },
+          {
+            "charIndex": 121244,
+            "context": "quiries, and threatened litigation, that arise in the normal course of our business, including assertions that we may be infringing patents or other intellectual property rights of others. Our failure to obtain necessary licenses or other rights, or litigation arising out of intellectual property claims could adversely affect our business. We currently believe that, in addition to any amounts accrued, the amount of potential losses, if any, for any pending claims of any type (either alone or combined) will not have a material impact on our condensed consolidated financial statements. The ultim"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 120242,
+            "context": "ding our advertising and marketing practices. We recorded this as a one-time charge in the quarter ended April 30, 2022, and paid the full amount to the fund administrator in the quarter ended January 31, 2023. The pending proceedings also include a class action lawsuit that was filed in the Ontario (Canada) Superior Court of Justice on August 25, 2022. In view of the complexity and ongoing and uncertain nature of the outstanding proceedings and inquiries, at this time, we are unable to estimate a reasonably possible financial loss or range of financial loss that we may incur to resolve or set"
+          },
+          {
+            "charIndex": 120930,
+            "context": "these proceedings and inquiries have not been material. The ongoing defense and any resolution or settlement of these proceedings and inquiries could involve significant costs to us. Intuit is subject to certain routine legal proceedings, including class action lawsuits, as well as demands, claims, government inquiries, and threatened litigation, that arise in the normal course of our business, including assertions that we may be infringing patents or other intellectual property rights of others. Our failure to obtain necessary licenses or other rights, or litigation arising out of intellectu"
+          },
+          {
+            "charIndex": 270157,
+            "context": "a party to litigation and regulatory inquiries which could result in an unfavorable outcome and have an adverse effect on our business, financial condition, results of operation and cash flows. We are subject to various legal proceedings (including class action lawsuits), claims and regulatory inquiries that have arisen out of the ordinary conduct of our business and are not yet resolved and additional proceedings, claims and inquiries may arise in the future. The number and significance of these proceedings, claims and inquiries may increase as our businesses evolve. Any proceedings, claims"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 65103,
+            "context": "rd may vary on an issue-by-issue basis. We are currently evaluating the impact of our pending adoption of ASU 2025-12 on our consolidated financial statements and related disclosures. 2. Fair Value Measurements Fair Value Hierarchy The authoritative guidance defines fair value as the price that would be received from the sale of an asset or paid to transfer a liability in an orderly transaction between market participants on the measurement date. When determining fair value, we consider the principal or most advantageous market for an asset or liability and assumptions that market participants"
+          },
+          {
+            "charIndex": 65650,
+            "context": "or liability and assumptions that market participants would use when pricing the asset or liability. In addition, we consider and use all valuation methods that are appropriate in estimating the fair value of an asset or liability. The authoritative guidance establishes a fair value hierarchy that is based on the extent and level of judgment used to estimate the fair value of assets and liabilities. In general, the authoritative guidance requires us to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. An asset or liability's categoriza"
+          },
+          {
+            "charIndex": 65833,
+            "context": "imating the fair value of an asset or liability. The authoritative guidance establishes a fair value hierarchy that is based on the extent and level of judgment used to estimate the fair value of assets and liabilities. In general, the authoritative guidance requires us to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. An asset or liability's categorization within the fair value hierarchy is based upon the lowest level of input that is significant to the measurement of its fair value. The three levels of input defined by the authori"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 71315,
+            "context": "ities in privately-held companies that do not have a readily determinable fair value. They are accounted for at cost and adjusted based on observable price changes from orderly transactions for identical or similar investments of the same issuer, or impairment. These investments are classified as Level 3 in the fair value hierarchy because we estimate the value of these investments using a valuation method based on observable transaction price changes at the transaction date. Intuit Q3 Fiscal 2026 Form 10-Q 15 Table of Contents The following table summarizes the adjustments to the carrying val"
+          },
+          {
+            "charIndex": 71879,
+            "context": "the adjustments to the carrying value of our long-term investments. Three Months Ended Nine Months Ended (In millions) April 30, 2026 April 30, 2025 April 30, 2026 April 30, 2025 Upward adjustments $ 46 $ — $ 104 $ 8 Downward adjustments, including impairments — — — ( 51 ) Net adjustments $ 46 $ — $ 104 $ ( 43 ) Cumulative upward adjustments amounted to $ 125 million, and cumulative downward adjustments, including impairments, amounted to $ 27 million through April 30, 2026 for measurement alternative investments held as of April 30, 2026. The carrying value of long-term investments on our co"
+          },
+          {
+            "charIndex": 72048,
+            "context": "l 30, 2025 Upward adjustments $ 46 $ — $ 104 $ 8 Downward adjustments, including impairments — — — ( 51 ) Net adjustments $ 46 $ — $ 104 $ ( 43 ) Cumulative upward adjustments amounted to $ 125 million, and cumulative downward adjustments, including impairments, amounted to $ 27 million through April 30, 2026 for measurement alternative investments held as of April 30, 2026. The carrying value of long-term investments on our condensed consolidated balance sheets was $ 176 million and $ 94 million as of April 30, 2026 and July 31, 2025, respectively. 3. Cash and Cash Equivalents, Investments, a"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 37273,
+            "context": "trategic priorities; &#8226; our expectations regarding the timing and costs associated with our restructuring plan; and &#8226; our assessments and beliefs regarding the future developments and outcomes of pending legal proceedings and inquiries by regulatory authorities, the liability, if any, that Intuit may incur as a result of those proceedings and inquiries, and the impact of any potential losses or expenses associated with such proceedings or inquiries on our financial statements. We caution investors that forward-looking statements are only predictions based on our current expectations"
+          },
+          {
+            "charIndex": 117740,
+            "context": "on-vested stock options with a weighted-average vesting period of 2.6 years. We adjust unrecognized compensation cost for actual forfeitures as they occur. 11. Legal Proceedings Beginning in May 2019, various legal proceedings were filed and certain regulatory inquiries were commenced in connection with our provision and marketing of free online tax preparation programs. We believe that the allegations contained within these legal proceedings are without merit and continue to defend our interests in them. In June 2021, we received a demand and draft complaint from the Federal Trade Commission"
+          },
+          {
+            "charIndex": 147877,
+            "context": "curity and anti-fraud measures, including sharing information regarding suspicious activity. We also work with the broader industry and government to protect our customers against this type of fraud. Our operations are impacted by a rapidly-evolving regulatory environment and face increasingly heightened scrutiny. We are subject to numerous federal, state, and local, as well as foreign laws and regulations covering a broad and increasing range of subjects, both in the U.S. and internationally. For a complete discussion of the most significant risks and uncertainties affecting our business, ple"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 119636,
+            "context": "ntend to continue to defend our position on the merits of this case. However, the defense and resolution of this matter could involve significant costs. The state attorneys general did not join the FTC Actions, and, on May 4, 2022, we entered into a settlement agreement with the attorneys general of the 50 states and the District of Columbia, admitting no wrongdoing, that resolved the states' inquiry, as well as actions brought by the Los Angeles City Attorney and the Santa Clara County (California) Counsel. As part of this agreement, we agreed to pay $ 141 million and made certain commitments"
+          },
+          {
+            "charIndex": 120779,
+            "context": "or range of financial loss that we may incur to resolve or settle the remaining matters. To date, the legal and other fees we have incurred related to these proceedings and inquiries have not been material. The ongoing defense and any resolution or settlement of these proceedings and inquiries could involve significant costs to us. Intuit is subject to certain routine legal proceedings, including class action lawsuits, as well as demands, claims, government inquiries, and threatened litigation, that arise in the normal course of our business, including assertions that we may be infringing pat"
+          },
+          {
+            "charIndex": 126801,
+            "context": "mately 5 % and 7 % of consolidated net revenue for the three and nine months ended April 30, 2025, respectively. We include expenses such as corporate selling and marketing, general and administrative, and non-employment related legal and litigation settlement costs, which are not allocated to specific segments, in unallocated corporate items as part of other corporate expenses. As part of our platform strategy, we also include customer success and product development for our segments in unallocated corporate items as we do not allocate these expenses to the segments because they are managed a"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 37301,
+            "context": "our expectations regarding the timing and costs associated with our restructuring plan; and &#8226; our assessments and beliefs regarding the future developments and outcomes of pending legal proceedings and inquiries by regulatory authorities, the liability, if any, that Intuit may incur as a result of those proceedings and inquiries, and the impact of any potential losses or expenses associated with such proceedings or inquiries on our financial statements. We caution investors that forward-looking statements are only predictions based on our current expectations about future events and are"
+          },
+          {
+            "charIndex": 65215,
+            "context": "25-12 on our consolidated financial statements and related disclosures. 2. Fair Value Measurements Fair Value Hierarchy The authoritative guidance defines fair value as the price that would be received from the sale of an asset or paid to transfer a liability in an orderly transaction between market participants on the measurement date. When determining fair value, we consider the principal or most advantageous market for an asset or liability and assumptions that market participants would use when pricing the asset or liability. In addition, we consider and use all valuation methods that are"
+          },
+          {
+            "charIndex": 65403,
+            "context": "d be received from the sale of an asset or paid to transfer a liability in an orderly transaction between market participants on the measurement date. When determining fair value, we consider the principal or most advantageous market for an asset or liability and assumptions that market participants would use when pricing the asset or liability. In addition, we consider and use all valuation methods that are appropriate in estimating the fair value of an asset or liability. The authoritative guidance establishes a fair value hierarchy that is based on the extent and level of judgment used to e"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2025-09-03",
+        "reportDate": "2025-07-31",
+        "accessionNumber": "0000896878-25-000035",
+        "primaryDocument": "intu-20250731.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687825000035/intu-20250731.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/896878/000089687825000035/"
+      },
+      "textLength": 449966,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations (MD&A) is intended to provide readers of our consolidated financial statements with the perspectives of management. This should allow the readers of this report to obtain a comprehensive understanding of our businesses, strategies, current trends, and future prospects. Our MD&A includes the following sections: &#8226; Executive Overview : High-level discussion of our operating results and some of the trends that affect our business. &#8226; Critical Accounting Estimates : Policies and estimates that we believe are important to understanding the assumptions and judgments underlying our financial statements. &#8226; Results of Operations : A more detailed discussion of our revenue and expenses. &#8226; Liquidity and Capital Resources : Discussion of key aspects of our consolidated statements of cash flows, changes in our consolidated balance sheets, and our financial commitments. You should note that this MD&A contains forward-looking statements that involve risks and uncertainties. Please see the section entitled &#8220;Forward-Looking Statements&#8221; immediately preceding Part I of this Annual Report for important information to consider when evaluating such statements. You should read this MD&A in conjunction with the consolidated financial statements and related notes in Item 8 of this Annual Report. In the Results of Operations sections of this MD&A, where we describe two or more factors that contributed to changes in revenue and operating income, we have, where possible, quantified the impact of those factors. Where a change is the result of multiple factors that are interrelated and cannot be separately quantified, we have identified the interrelated factors without quantifying them. In July 2024, our management approved, committed to, and initiated a plan of reorganization (the Plan) focused on reallocating resources to our key growth areas. The Plan included the exit of employees and the closing of real estate sites in certain markets to support growing technology teams and capabilities in strategic locations. The actions associated with the Plan were substantially complete in the first quarter of fiscal 2025. Total restructuring costs associated with the Plan were $238 million. During the twelve months ended July 31, 2025 and 2024, we recorded charges in connection with the Plan of $15 million and $223 million, respectively. These charges are primarily related to severance and employee benefits and are recorded to restructuring in our consolidated statements of operations. See Note 15 to the consolidated financial statements in Item 8 of this Annual Report for more information. On August 1, 2024, we renamed our Small Business & Self-Employed segment as the Global Business Solutions segment. This new name better aligns with the global reach of the Mailchimp and QuickBooks platform, our focus on serving both small and mid-market businesses, and our vision to become the all-in-one platform that customers use to grow and run their business. On August 1, 2024, we reorganized certain technology and customer success functions in our Global Business Solutions, Consumer, and ProTax segments that support and benefit our overall platform and are managed at the corporate level rather than at the segment level. As a result of these reorganizations, costs associated with these functions are no longer included in segment operating income and are now included in other corporate expenses. For the twelve months ended July 31, 2024 and 2023, we reclassified $1.4 billion and $1.3 billion from Global Business Solutions, $573 million and $475 million from Consumer, and $33 million and $34 million from ProTax to other corporate expenses, respectively, to conform to the current presentation. See Note 14 to the consolidated financial statements in Item 8 of this Annual Report for more information. Consistent with our vision to deliver one consumer platform, effective August 1, 2025, we combined the Consumer, Credit Karma, and ProTax businesses into a single Consumer business. We will reflect this new organization in our fiscal 2026 segment reporting. EXECUTIVE OVERVIEW This overview provides a high-level discussion of our operating results and some of the trends that affect our business. We believe that an understanding of these trends is important in order to understand our financial results for fiscal 2025, as well as our future prospects. This summary is not intended to be exhaustive, nor is it a substitute for the detailed discussion and analysis provided elsewhere in this Annual Report on Form 10-K. Intuit Fiscal 2025 Form 10-K 33 Table of Contents Industry Trends and Seasonality Industry Trends AI, including GenAI, predictive AI, and agentic AI, is transforming multiple industries, in particular financial technology. Disruptive start-ups, emerging ecosystems, and mega-platforms are harnessing new technology to create personalized experiences, deliver data-driven insights, and increase speed of service. These shifts are creating a more dynamic and highly competitive environment where customer expectations are shifting around the world as more services become digitized and the array of choices continues to increase. Seasonality Our Consumer and ProTax offerings have a significant and distinct seasonal pattern as sales and revenue from our income tax preparation products and services are typically heavily concentrated in the period from November through April. This seasonal pattern typically results in higher net revenues during our second and third quarters ending January 31 and April 30, respectively. We expect the seasonality of our Consumer and ProTax businesses to continue to have a material impact on our quarterly financial results in the future. Key Challenges and Risks Our growth strategy depends upon our ability to innovate, develop, and introduce emerging technologies, including AI and GenAI, to drive broad adoption of our products and services and enter new markets. Our future growth also increasingly depends on the strength of our third-party business relationships and our ability to continue to develop, maintain, and strengthen new and existing relationships. To remain competitive and continue to grow, we are investing significant resources in our product development, marketing, and sales capabilities, and we expect to continue to do so in the future. Much of our future success also depends on our ability to continue to attract, retain, and develop highly skilled employees, including those in technical and leadership roles who are critical to our strategic growth, in a highly competitive talent environment. As we offer more online services, the ongoing operation and availability of our platforms and systems and those of our external service providers is becoming increasingly important. Because we help customers manage their financial lives, we face risks associated with the hosting, collection, use, and retention of personal customer information and data. We are investing significant management attention and resources in our information technology infrastructure and in our privacy and security capabilities, and we expect to continue to do so in the future. We operate in industries that are experiencing an increasing amount of fraudulent activities by malicious third parties, and those fraudulent activities are becoming increasingly sophisticated, including through the use of AI. We implement additional security measures, and we continue to work with state and federal governments to implement industry-wide security and anti-fraud measures, including sharing information regarding suspicious activity. We continue to invest in security measures and to work with the broader industry and government to protect our customers against this type of fraud. Our operations are impacted by a rapidly-evolving regulatory environment and face increasingly heightened scrutiny. We are subject to numerous federal, state, and local, as well as foreign laws and regulations covering a broad and increasing range of subjects, both in the United States (U.S.) and internationally. For a complete discussion of the most significant risks and uncertainties affecting our business, please see &#8220;Forward-Looking Statements&#8221; immediately preceding Part I and &#8220;Risk Factors&#8221; in Item 1A of Part I of this Annual Report. 34 Intuit Fiscal 2025 Form 10-K Table of Contents Overview of Financial Results The most important financial indicators that we use to assess our business are revenue growth for the company as a whole and for each reportable segment; operating income growth for the company as a whole; earnings per share; and cash flow from operations. We also track certain non-financial drivers of revenue growth and, when material, identify them in the applicable discussions of segment results below. Service offerings are a significant part of our business. Our total service revenue was $16.4 billion, or 87% of our total revenue in fiscal 2025, and we expect our total service revenue as a percentage of our total revenue to grow over the long term. Key highlights for fiscal 2025 include the following: Revenue of Global Business Solutions revenue of Consumer revenue of $18.8 B $11.1 B $4.9 B up 16% from fiscal 2024 up 16% from fiscal 2024 up 10% from fiscal 2024 Credit Karma revenue of ProTax revenue of Operating income of $2.3 B $621 M $4.9 B up 32% from fiscal 2024 up 4% from fiscal 2024 up 36% from fiscal 2024 Net income of Diluted net income per share of Cash flow from operations of $3.9 B $13.67 $6.2 B up 31% from fiscal 2024 up 31% from fiscal 2024 up 27% from fiscal 2024 CRITICAL ACCOUNTING ESTIMATES In preparing our consolidated financial statements in accordance with U.S. generally accepted accounting principles (GAAP), we are required to make estimates, assumptions, and judgments that can have a material impact on our net revenue, operating income or loss, and net income or loss, as well as on the value of certain assets and liabilities on our consolidated balance sheets. Actual results could differ materially from our estimates. Critical accounting estimates are those estimates that involve a significant level of estimations and uncertainty and have had, or are reasonably likely to have, a material impact on our financial condition or results of operations. We believe that the estimates, assumptions, and judgments involved in the following accounting policies have the greatest potential impact on our consolidated financial statements, so we consider these to be our critical accounting estimates: &#8226; Revenue Recognition &#8226; Goodwill, Acquired Intangible Assets, and Other Long-Lived Assets &#8211; Impairment Assessments &#8226; Legal Contingencies &#8226; Accounting for Income Taxes &#8211; Estimates of Deferred Taxes, Valuation Allowances, and Uncertain Tax Positions Our senior management has reviewed the development and selection of these critical accounting estimates and their disclosure in this Annual Report on Form 10-K with the Audit and Risk Committee of our Board of Directors. For further information on all of our significant accounting policies, see Note 1, &#8220; Description of Business and Summary of Significant Accounting Policies &#8221; to the consolidated financial statements in Item 8 of this Annual Report. Intuit Fiscal 2025 Form 10-K 35 Table of Contents Revenue Recognition We derive our revenue primarily from the sale of online services such as tax, accounting, payroll, merchant payment processing services, delivery of qualified links, marketing automation, live expert advice, financing for small and mid-market businesses, and desktop software products, desktop software subscriptions, and financial supplies. Our contracts with customers often include promises to transfer multiple products and services, which are primarily recognized ratably over the relevant period or when the customer consumes the related service. In determining how revenue should be recognized, a five-step process is used, which requires judgment and estimates within the revenue recognition process. The primary judgments include identifying the performance obligations in the contract and determining whether the performance obligations are distinct. If any of these judgments were to change, it could cause a material increase or decrease in the amount of revenue we report in a particular period. For additional information, see &#8220;Description of Business and Summary of Significant Accounting Policies &#8211; Revenue Recognition&#8221; in Note 1 to the consolidated financial statements in Item 8 of this Annual Report. Goodwill, Acquired Intangible Assets, and Other Long-Lived Assets &#8211; Impairment Assessments We estimate the fair value of acquired intangible assets and other long-lived assets that have finite useful lives whenever an event or change in circumstances indicates that the carrying value of the asset may not be recoverable. We test for potential impairment of goodwill annually in our fourth fiscal quarter or whenever indicators of impairment arise. The timing of the annual test may result in charges to our consolidated statements of operations in our fourth fiscal quarter that could not have been reasonably foreseen in prior periods. As described in &#8220;Description of Business and Summary of Significant Accounting Policies &#8211; Goodwill, Acquired Intangible Assets and Other Long-Lived Assets&#8221; in Note 1 to the consolidated financial statements in Item 8 of this Annual Report, in order to estimate the fair value of goodwill, we use a weighted combination of a discounted cash flow model (known as the income approach) and comparisons to publicly traded companies engaged in similar businesses (known as the market approach). The income approach requires us to use a number of assumptions, including market factors specific to the business, the amount and timing of estimated future cash flows to be generated by the business over an extended period of time, long-term growth rates for the business, and a rate of return that considers the relative risk of achieving the cash flows and the time value of money. We evaluate cash flows at the reporting unit level. Although the assumptions we use in our discounted cash flow model are consistent with the assumptions we use to generate our internal strategic plans and forecasts, significant judgment is required to estimate the amount and timing of future cash flows from each reporting unit and the relative risk of achieving those cash flows. When using the market approach, we make judgments about the comparability of publicly traded companies engaged in similar businesses. We base our judgments on factors such as size, growth rates, profitability, risk, and return on investment. We also make judgments when adjusting market multiples of revenue, operating income, and earnings for thes",
+        "charRange": [
+          196084,
+          211084
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors&#8221; in Item 1A of Part I of this Annual Report, including without limitation the risk that &#8220; Security incidents, improper access to or disclosure of our data or customers' data, or other cyberattacks on our systems could harm our reputation, business, and financial condition. &#8221; GOVERNANCE Management is responsible for the day-to-day administration of Intuit's cybersecurity policies, processes, practices, and risk management. The Audit and Risk Committee of our Board of Directors provides primary oversight of cybersecurity risks and the Company's efforts to mitigate those risks. MANAGEMENT OVERSIGHT As part of management oversight, our Chief Executive Officer (CEO) receives monthly updates from the CISO and representatives from CyberCRAFT . These updates provide a recurring overview of cybersecurity trends and status updates (e.g., security events, fraud detection, IT roadmap progress, follow-up from prior assessments, security awareness exercise results), as well as a more focused analysis on select cybersecurity topics for the month. Examples of prior topics include: recent cybersecurity legislation, cybersecurity incidents affecting external entities, and trends in cybersecurity controls and adoption. As part of our incident response processes, incidents are classified based on the incident's characteristics. For certain risk-based classifications of incidents, the CEO and other members of the executive leadership team are also informed and contribute as part of our incident response processes. BOARD OVERSIGHT Our full Board of Directors provides ultimate oversight for the cybersecurity program, in addition to other significant risks of Intuit. The Board of Directors has delegated primary oversight of cybersecurity risks to the Audit and Risk Committee. On a quarterly basis, the CISO and CyberCRAFT specialists provide the Audit and Risk Committee with updates, metrics, and trends, such as the status of prior security events, existing and emerging threat landscapes, the results of audits or assessments, fraud prevention efforts, vulnerability detection and disclosure changes, and the status of projects to strengthen our security systems and improve incident readiness, and how these may affect broader enterprise risk management. Under our incident response processes' risk-based escalation protocols, the CISO, or other management, escalates certain incidents to the chair of the Audit and Risk Committee, who may then involve the broader committee or the full Board of Directors, as appropriate. ITEM 2 - PROPERTIES Our principal locations, their purposes, and the expiration dates for the leases on facilities at those locations as of July 31, 2025, are shown in the table below. We have renewal options on many of our leases. Location Purpose Approximate Square Feet Principal Lease Expiration Dates Mountain View, California Corporate headquarters and principal offices for Global Business Solutions segment 364,000 Owned Mountain View, California Corporate headquarters and principal offices for Global Business Solutions segment 359,000 2026 - 2034 Bangalore, India Principal offices for Intuit India 478,000 2026 - 2029 San Diego, California Principal offices for Consumer segment 466,000 Owned Oakland, California Principal offices for Credit Karma segment 167,000 2031 Plano, Texas Principal offices for ProTax segment 166,000 2026 We also lease or own facilities in a number of domestic locations and lease facilities internationally in Canada, Israel, the United Kingdom, Australia, and other locations. We believe our facilities are suitable and adequate for our current and near-term needs, and that we will be able to locate additional facilities as needed. See Note 9 to the consolidated financial statements in Item 8 of this Annual Report for more information about our lease commitments. ITEM 3 -",
+        "charRange": [
+          188107,
+          191990
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 152894,
+            "context": "climate change. For example, our offices globally have historically experienced, and are projected to continue to experience, climate-related events at an increasing frequency, including drought, water scarcity, heat waves, cold waves, extreme wind, wildfires and resultant air quality impacts and power shutoffs associated with wildfire prevention. Furthermore, it is more difficult to mitigate the impact of these events on our employees to the extent they work away from our offices. Changing market dynamics, global policy developments and the increasing frequency and impact of extreme weather e"
+          },
+          {
+            "charIndex": 152973,
+            "context": ", and are projected to continue to experience, climate-related events at an increasing frequency, including drought, water scarcity, heat waves, cold waves, extreme wind, wildfires and resultant air quality impacts and power shutoffs associated with wildfire prevention. Furthermore, it is more difficult to mitigate the impact of these events on our employees to the extent they work away from our offices. Changing market dynamics, global policy developments and the increasing frequency and impact of extreme weather events on critical infrastructure in the U.S. and elsewhere have the potential t"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 80995,
+            "context": "patents could be determined to be invalid or unenforceable against competitive products in every jurisdiction. In addition, third parties have asserted and may continue to assert infringement claims against us and our customers. These claims and any litigation may result in invalidation of our proprietary rights or a finding of infringement along with an assessment of damages. Litigation, even if without merit, could result in substantial costs and divert resources and management attention. Additionally, third-party licenses may not continue to be available to us on commercially acceptable ter"
+          },
+          {
+            "charIndex": 81125,
+            "context": "parties have asserted and may continue to assert infringement claims against us and our customers. These claims and any litigation may result in invalidation of our proprietary rights or a finding of infringement along with an assessment of damages. Litigation, even if without merit, could result in substantial costs and divert resources and management attention. Additionally, third-party licenses may not continue to be available to us on commercially acceptable terms, or at all. HUMAN CAPITAL We consider our employees to be one of our four key True North stakeholders because they are critical"
+          },
+          {
+            "charIndex": 107575,
+            "context": "y relying on federal, state and common law rights in the U.S. and internationally, as well as a variety of administrative procedures and contractual restrictions. However, the efforts that we take to protect our proprietary rights, including through litigation, monitoring, and enforcement programs, may not always be sufficient or effective. We often observe unauthorized copies of our software being sold through online marketplaces, and despite our effort to implement technical countermeasures, we expect piracy to continue to remain a persistent problem that results in lost revenue and increase"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 161972,
+            "context": "a party to litigation and regulatory inquiries which could result in an unfavorable outcome and have an adverse effect on our business, financial condition, results of operation and cash flows. We are subject to various legal proceedings (including class action lawsuits), claims and regulatory inquiries that have arisen out of the ordinary conduct of our business and are not yet resolved and additional proceedings, claims and inquiries may arise in the future. The number and significance of these proceedings, claims and inquiries may increase as our businesses evolve. Any proceedings, claims"
+          },
+          {
+            "charIndex": 182804,
+            "context": "cial markets and, in turn, our stock price. Further, any changes in the amounts or frequency of share repurchases or dividends may also adversely affect our stock price. A significant drop in our stock price could expose us to the risk of securities class action lawsuits, which may result in substantial costs and divert management's attention and resources, which may adversely affect our business. 28 Intuit Fiscal 2025 Form 10-K Table of Contents ITEM 1B - UNRESOLVED STAFF COMMENTS None. ITEM 1C - CYBERSECURITY RISK MANAGEMENT AND STRATEGY We host, collect, process, use, and retain large amoun"
+          },
+          {
+            "charIndex": 414239,
+            "context": "d marketing of free online tax preparation programs. We believe that the allegations contained within these legal proceedings are without merit and continue to defend our interests in them. These proceedings included, among others, multiple putative class actions that were consolidated into a single putative class action in the Northern District of California in September 2019 (the Intuit Free File Litigation). In August 2020, the Ninth Circuit Court of Appeals ordered that the putative class action claims be resolved through arbitration. In May 2021, the Intuit Free File Litigation was dismis"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 55713,
+            "context": "billable hours per client. Access Advice QuickBooks Live . Businesses can get support through Expert Assisted and Full-Service Bookkeeping. With QuickBooks Live Expert Assisted, businesses have on-demand access to expert bookkeepers who can provide guidance and support on managing their books and making smart business decisions. With QuickBooks Live Full-Service Bookkeeping, businesses get one-on-one support from our team of expert bookkeepers to manage and maintain books with guaranteed accuracy. Our experienced bookkeepers are certified QuickBooks ProAdvisors, and many are Certified Public"
+          },
+          {
+            "charIndex": 185071,
+            "context": "s for identifying and assessing material risks from cybersecurity threats includes incorporation of an internally developed threat catalog and our tracking of trends for areas such as vulnerability management, our leverage of technical standards and guidance, input from our participation and collaboration with law enforcement and government initiatives, and our internal and vendor-supported threat intelligence initiatives. The cybersecurity risk assessment operates alongside our broader overall enterprise-wide risk assessment and management process, and key cybersecurity risks are presented to"
+          },
+          {
+            "charIndex": 238915,
+            "context": "an assets (2) 24 24 12 Other (3) (41) (9) (22) Total interest and other income, net $ 158 $ 162 $ 96 (1) Interest income increased in fiscal 2025 compared to fiscal 2024 due to higher average investable balances. (2) In accordance with authoritative guidance, we record gains and losses associated with executive deferred compensation plan assets in interest and other income, and gains and losses associated with the related liabilities in operating expenses. The total amounts recorded in operating expenses for each period are approximately equal to the total amounts recorded in interest and othe"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 108214,
+            "context": "tainty about the validity and enforceability of intellectual property rights that may result from our use of GenAI. Protecting our intellectual property rights is costly and time consuming and may not be successful in every location. Any significant impairment of our intellectual property rights could harm our business, our brand, and our ability to compete. Our business depends on our strong reputation and the value of our brands. Developing and maintaining awareness of our brands and platform strategy is critical to achieving widespread acceptance of our existing and future products and serv"
+          },
+          {
+            "charIndex": 112453,
+            "context": "ess, including product or service quality issues, security policies, standards, and practices, intellectual property issues and legal contingencies; &#8226; failure to successfully further develop an acquired business or technology and any resulting impairment of amounts currently capitalized as intangible assets; &#8226; risks associated with businesses we acquire or invest in, which may differ from or be more significant than the risks our other businesses face; &#8226; in the case of foreign acquisitions and investments, the impact of particular economic, tax, currency, political, legal and"
+          },
+          {
+            "charIndex": 167928,
+            "context": "er of tax returns we prepare and file and the operating results of our tax business. Other factors that may affect our quarterly or annual financial results include the timing of acquisitions, divestitures, and goodwill and acquired intangible asset impairment charges. Any fluctuations in our operating results may adversely affect our stock price. If actual customer refunds for our offerings exceed the amount we have reserved, our future financial results may be harmed. Like many software companies, we refund customers for product returns and subscription and service cancellations. We establis"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 40733,
+            "context": "egic priorities; &#8226; our expectations regarding the timing and costs associated with our plan of reorganization; and &#8226; our assessments and beliefs regarding the future developments and outcomes of pending legal proceedings and inquiries by regulatory authorities, the liability, if any, that Intuit may incur as a result of those proceedings and inquiries, and the impact of any potential losses or expenses associated with such proceedings or inquiries on our financial statements. We caution investors that forward-looking statements are only predictions based on our current expectations"
+          },
+          {
+            "charIndex": 64847,
+            "context": "cycle required to accurately incorporate federal and state tax law and tax form changes within a rigid timetable. The development timing for our small business payroll and merchant payment processing services offerings varies with business needs and regulatory requirements, and the length of the development cycle depends on the scope and complexity of each project. We continue to make substantial investments in research and development. We expect to focus our future research and development efforts on enhancing existing products and services with done-for-you experiences, financial recommendat"
+          },
+          {
+            "charIndex": 78922,
+            "context": "iness Solutions segment offers products and services to small and mid-market businesses and consumers, such as payroll, payments, financing for small and mid-market businesses, and other financial service offerings, which are also subject to certain regulatory 10 Intuit Fiscal 2025 Form 10-K Table of Contents requirements. Our Credit Karma segment offers personal finance products and services to consumers, such as recommendations of credit card, loan, and insurance products and access to credit scores and reports, which are also subject to certain regulatory requirements. For additional inform"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 217783,
+            "context": "on of any related appeals or litigation processes. For tax positions that are more likely than not of being sustained upon audit, the second step is to measure the tax benefit as the largest amount that is more than 50% likely of being realized upon settlement. Significant judgment is required to evaluate uncertain tax positions. We evaluate our uncertain tax positions on a quarterly basis. Our evaluations are based upon a number of factors, including changes in facts or circumstances, changes in tax law, correspondence with tax authorities during the course of audits, and effective settlement"
+          },
+          {
+            "charIndex": 218123,
+            "context": "ate our uncertain tax positions on a quarterly basis. Our evaluations are based upon a number of factors, including changes in facts or circumstances, changes in tax law, correspondence with tax authorities during the course of audits, and effective settlement of audit issues. Changes in the recognition or measurement of uncertain tax positions could result in material increases or decreases in our income tax expense in the period in which we make the change, which could have a material impact on our effective tax rate and operating results. See Note 10 to the consolidated financial statements"
+          },
+          {
+            "charIndex": 222830,
+            "context": "esentation. Segment operating income is segment net revenue less segment cost of revenue and operating expenses. We include expenses such as corporate selling and marketing, general and administrative, and non-employment related legal and litigation settlement costs, which are not allocated to specific segments, in unallocated corporate items as part of other corporate expenses. As part of our platform strategy, we also include customer success and product development for our Global Business Solutions, Consumer, and ProTax segments in unallocated corporate items as we do not allocate these exp"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 40761,
+            "context": "expectations regarding the timing and costs associated with our plan of reorganization; and &#8226; our assessments and beliefs regarding the future developments and outcomes of pending legal proceedings and inquiries by regulatory authorities, the liability, if any, that Intuit may incur as a result of those proceedings and inquiries, and the impact of any potential losses or expenses associated with such proceedings or inquiries on our financial statements. We caution investors that forward-looking statements are only predictions based on our current expectations about future events and are"
+          },
+          {
+            "charIndex": 109106,
+            "context": "ly on, or our users, may tarnish our reputation and reduce the value of our brands. Perceived social harm or unfairness of outcomes relating to the use of new and evolving technologies such as AI in our offerings, may result in reputational harm and liability, and may cause us to incur additional research and development costs to resolve such issues. Our brand value also depends on our ability to provide secure and trustworthy products and services, as well as our ability to protect and use our customers' data in a manner that meets their expectations. In addition, a security incident that res"
+          },
+          {
+            "charIndex": 145398,
+            "context": "ng laws, regulations, or industry standards relating to AI may impose significant operational costs and may limit our ability to develop, deploy, or use AI technologies. Failure to appropriately respond to this evolving landscape may result in legal liability, regulatory action, or brand and reputational harm. If we experience significant product accuracy or quality problems or delays in product launches, it may harm our revenue, earnings and reputation. Our customers rely on the accuracy of our offerings. All of our tax products and many of our non-tax products have rigid development timetabl"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "Revenues",
+      "points": [
+        {
+          "start": "2026-02-01",
+          "end": "2026-04-30",
+          "val": 8558000000,
+          "accn": "0000896878-26-000025",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-05-20",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-08-01",
+          "end": "2026-04-30",
+          "val": 17094000000,
+          "accn": "0000896878-26-000025",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-05-20"
+        },
+        {
+          "start": "2025-11-01",
+          "end": "2026-01-31",
+          "val": 4651000000,
+          "accn": "0000896878-26-000014",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-02-26",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2025-08-01",
+          "end": "2026-01-31",
+          "val": 8536000000,
+          "accn": "0000896878-26-000014",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-02-26"
+        },
+        {
+          "start": "2025-08-01",
+          "end": "2025-10-31",
+          "val": 3885000000,
+          "accn": "0000896878-25-000048",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-11-20",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2024-08-01",
+          "end": "2025-07-31",
+          "val": 18831000000,
+          "accn": "0000896878-25-000035",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-09-03"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-04-30",
+          "val": 7754000000,
+          "accn": "0000896878-26-000025",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-05-20",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-04-30",
+          "val": 7754000000,
+          "accn": "0000896878-25-000022",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-05-22"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-02-01",
+          "end": "2026-04-30",
+          "val": 11.09,
+          "accn": "0000896878-26-000025",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-05-20",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-08-01",
+          "end": "2026-04-30",
+          "val": 15.05,
+          "accn": "0000896878-26-000025",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-05-20"
+        },
+        {
+          "start": "2025-11-01",
+          "end": "2026-01-31",
+          "val": 2.48,
+          "accn": "0000896878-26-000014",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-02-26",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2025-08-01",
+          "end": "2026-01-31",
+          "val": 4.06,
+          "accn": "0000896878-26-000014",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-02-26"
+        },
+        {
+          "start": "2025-08-01",
+          "end": "2025-10-31",
+          "val": 1.59,
+          "accn": "0000896878-25-000048",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-11-20",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2024-08-01",
+          "end": "2025-07-31",
+          "val": 13.67,
+          "accn": "0000896878-25-000035",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-09-03"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-04-30",
+          "val": 10.02,
+          "accn": "0000896878-26-000025",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-05-20",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-04-30",
+          "val": 10.02,
+          "accn": "0000896878-25-000022",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-05-22"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-02-01",
+          "end": "2026-04-30",
+          "val": 3064000000,
+          "accn": "0000896878-26-000025",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-05-20",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-08-01",
+          "end": "2026-04-30",
+          "val": 4203000000,
+          "accn": "0000896878-26-000025",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-05-20"
+        },
+        {
+          "start": "2025-11-01",
+          "end": "2026-01-31",
+          "val": 693000000,
+          "accn": "0000896878-26-000014",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-02-26",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2025-08-01",
+          "end": "2026-01-31",
+          "val": 1139000000,
+          "accn": "0000896878-26-000014",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-02-26"
+        },
+        {
+          "start": "2025-08-01",
+          "end": "2025-10-31",
+          "val": 446000000,
+          "accn": "0000896878-25-000048",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-11-20",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2024-08-01",
+          "end": "2025-07-31",
+          "val": 3869000000,
+          "accn": "0000896878-25-000035",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-09-03"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-04-30",
+          "val": 2820000000,
+          "accn": "0000896878-26-000025",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-05-20",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-04-30",
+          "val": 2820000000,
+          "accn": "0000896878-25-000022",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-05-22"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2026-02-01",
+          "end": "2026-04-30",
+          "val": 4020000000,
+          "accn": "0000896878-26-000025",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-05-20",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-08-01",
+          "end": "2026-04-30",
+          "val": 5409000000,
+          "accn": "0000896878-26-000025",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-05-20"
+        },
+        {
+          "start": "2025-11-01",
+          "end": "2026-01-31",
+          "val": 855000000,
+          "accn": "0000896878-26-000014",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-02-26",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2025-08-01",
+          "end": "2026-01-31",
+          "val": 1389000000,
+          "accn": "0000896878-26-000014",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-02-26"
+        },
+        {
+          "start": "2025-08-01",
+          "end": "2025-10-31",
+          "val": 534000000,
+          "accn": "0000896878-25-000048",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-11-20",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2024-08-01",
+          "end": "2025-07-31",
+          "val": 4923000000,
+          "accn": "0000896878-25-000035",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-09-03"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-04-30",
+          "val": 3720000000,
+          "accn": "0000896878-26-000025",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-05-20",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-04-30",
+          "val": 3720000000,
+          "accn": "0000896878-25-000022",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-05-22"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "INTU",
+    "name": "INTUIT INC.",
+    "sector": "Services-Prepackaged Software",
+    "pe": 20.26,
+    "pb": 4.45,
+    "ret3m": -17.786,
+    "ret6m": -22.9584,
+    "roe": 18.76,
+    "debtEquity": 0.311,
+    "revenueGrowth": 15.63,
+    "epsGrowth": 31.06,
+    "fcfGrowth": 30.47,
+    "operatingMargin": 26.14,
+    "marginTrend": 3.85,
+    "sentiment": 0.25,
+    "analyst": 72,
+    "beta": 0.97183573
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "What Could Intuit (INTU) New AI ERP Push Mean For Mid Market Growth?",
+        "url": "https://finnhub.io/api/news?id=77c100e181e608c6eb387a2e32e36c6cf46614da2866f2b67e6df9bbbe53796d",
+        "source": "Yahoo",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Intuit (INTU) Increases Despite Market Slip: Here's What You Need to Know",
+        "url": "https://finnhub.io/api/news?id=c84e734ed2a2a429761a0ba08f399efcdde8dd7c2b88c0371a4f0bc4237852af",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Bill Holdings: This SMB-Focused Software Turnaround Story Has Legs",
+        "url": "https://finnhub.io/api/news?id=2124289b96ce95f633ad6bde6ad599b956c680df8e30994f1a8f5903bdd6ec0a",
+        "source": "SeekingAlpha",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "AI is Hollowing Out Tech Sector Jobs: Oracle and Microsoft Help Push Layoff Rate to 20-Year High",
+        "url": "https://finnhub.io/api/news?id=8c56a44792b584fc99698bee4a0bd3f85fe99bc2e1244b6ccd6dd88a75acc22b",
+        "source": "Yahoo",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "Stocks Supported as Fed Rate Hike Fears Ease",
+        "url": "https://finnhub.io/api/news?id=57362663cfb7334a6a146894a20564ff8c11ac4c799d2dfdbfc38d94a4b74d75",
+        "source": "Yahoo",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "'Harvey In Talks To Raise Funding At $15.5 Billion Valuation' - The Information",
+        "url": "https://finnhub.io/api/news?id=fbbfeee6928819bec571907d7f6f2398439df502fb1b7c0b087e84fcb1f0476b",
+        "source": "Benzinga",
+        "date": "2026-08-07"
+      }
+    ],
+    "cachedAt": "2026-08-11T05:55:55.237Z"
+  }
+}

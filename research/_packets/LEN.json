@@ -1,0 +1,662 @@
+{
+  "ticker": "LEN",
+  "entityName": "LENNAR CORP /NEW/",
+  "cik": "0000920760",
+  "generatedAt": "2026-08-11T18:22:20.796Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-06-29",
+        "reportDate": "2026-05-31",
+        "accessionNumber": "0001628280-26-046019",
+        "primaryDocument": "len-20260531.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/920760/000162828026046019/len-20260531.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/920760/000162828026046019/"
+      },
+      "textLength": 231751,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations above, or in our other filings with the SEC, including Part I, Item 1A of our 2025 Form 10-K. There have been no material changes in our risk factors from those disclosed in those reports. Item 2. Unregistered Sales of Equity Securities and Use of Proceeds The following table provides information about our repurchases of common stock during the three months ended May 31, 2026: Period: Total Number of Shares Purchased (1) Average Price Paid Per Share Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs (2) Approximate Dollar Value of Shares that may yet be Purchased under the Plans or Programs (2) (In thousands) March 1 to March 31, 2026 2,008,293 $ 92.78 1,867,129 $ 1,281,210 April 1 to April 30, 2026 1,997,760 $ 88.74 1,994,210 $ 1,104,235 May 1 to May 31, 2026 1,138,718 $ 85.17 1,138,661 $ 1,007,250 (1) Includes shares of Class A common stock withheld by us to cover withholding taxes due, at the election of certain holders of nonvested shares, with market value approximating the amount of withholding taxes due. (2) In January 2024, our Board of Directors authorized an increase to our stock repurchase program to enable us to repurchase up to an additional $ 5 billion in value of our outstanding Class A or Class B common stock. Repurchases are authorized to be made in open-market or private transactions. The repurchase authorization has no expiration date. Items 3 - 4. Not Applicable Item 5. Other Information During the period covered by this Quarterly Report on Form 10-Q, no director or executive officer of the Company adopted or terminated a \"Rule 10b5-1 trading arrangement\" or \"non-Rule 10b5-1 trading arrangement,\" as each term is defined in Item 408(a) of Regulation S-K. Item 6. Exhibits 31.1 * Rule 13a-14(a) certification by Stuart Miller. 31.2 * Rule 13a-14(a) certification by Diane Bessette. 32. ** Section 1350 certifications by Stuart Miller and Diane Bessette. 101. * The following financial statements from Lennar Corporation's Quarterly Report on Form 10-Q for the quarter ended May 31, 2026, filed on June 29, 2026, were formatted in iXBRL (Inline eXtensible Business Reporting Language): (i) Condensed Consolidated Balance Sheets, (ii) Condensed Consolidated Statements of Operations and Comprehensive Income (Loss), (iii) Condensed Consolidated Statements of Cash Flows and (iv) the Notes to Condensed Consolidated Financial Statements. 104 Cover Page Interactive Data File (formatted as iXBRL and contained in Exhibit 101). * Filed herewith. ** Furnished herewith. 49",
+        "charRange": [
+          228713,
+          231342
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "risk factors from those disclosed in those reports. Item 2. Unregistered Sales of Equity Securities and Use of Proceeds The following table provides information about our repurchases of common stock during the three months ended May 31, 2026: Period: Total Number of Shares Purchased (1) Average Price Paid Per Share Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs (2) Approximate Dollar Value of Shares that may yet be Purchased under the Plans or Programs (2) (In thousands) March 1 to March 31, 2026 2,008,293 $ 92.78 1,867,129 $ 1,281,210 April 1 to April 30, 2026 1,997,760 $ 88.74 1,994,210 $ 1,104,235 May 1 to May 31, 2026 1,138,718 $ 85.17 1,138,661 $ 1,007,250 (1) Includes shares of Class A common stock withheld by us to cover withholding taxes due, at the election of certain holders of nonvested shares, with market value approximating the amount of withholding taxes due. (2) In January 2024, our Board of Directors authorized an increase to our stock repurchase program to enable us to repurchase up to an additional $ 5 billion in value of our outstanding Class A or Class B common stock. Repurchases are authorized to be made in open-market or private transactions. The repurchase authorization has no expiration date. Items 3 - 4. Not Applicable Item 5. Other Information During the period covered by this Quarterly Report on Form 10-Q, no director or executive officer of the Company adopted or terminated a \"Rule 10b5-1 trading arrangement\" or \"non-Rule 10b5-1 trading arrangement,\" as each term is defined in Item 408(a) of Regulation S-K. Item 6. Exhibits 31.1 * Rule 13a-14(a) certification by Stuart Miller. 31.2 * Rule 13a-14(a) certification by Diane Bessette. 32. ** Section 1350 certifications by Stuart Miller and Diane Bessette. 101. * The following financial statements from Lennar Corporation's Quarterly Report on Form 10-Q for the quarter ended May 31, 2026, filed on June 29, 2026, were formatted in iXBRL (Inline eXtensible Business Reporting Language): (i) Condensed Consolidated Balance Sheets, (ii) Condensed Consolidated Statements of Operations and Comprehensive Income (Loss), (iii) Condensed Consolidated Statements of Cash Flows and (iv) the Notes to Condensed Consolidated Financial Statements. 104 Cover Page Interactive Data File (formatted as iXBRL and contained in Exhibit 101). * Filed herewith. ** Furnished herewith. 49",
+        "charRange": [
+          228936,
+          231342
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 155375,
+            "context": "solving purchase claims exceed the Company's expectations, additional recourse expense may be incurred. 30 Forward-Looking Statements This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements concern expectations, beliefs, projections, plans and strategies, anticipated events or trends and similar expressions concerning matters that are not historical facts. These forward-looking statements typically include the words &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;consider,&#8221;"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 163367,
+            "context": "sales price on those deliveries is expected to be between $375,000 and $380,000. We expect gross margins to be approximately 16%, and our SG&A percentage should be in the range of 8.8% to 9.0%. For the full year, we are adjusting our annual delivery guidance to 82,000 to 83,000 homes, reflecting current pressures on interest rates and continued macro uncertainty. After over three years of navigating a rather difficult and complicated housing market, we believe that we are well-positioned for market conditions as they unfold. In the current market, incentives are declining, margins are starting"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 160048,
+            "context": "ith our unaudited condensed consolidated financial statements and accompanying notes included under Item 1 of this Quarterly Report on Form 10-Q and our audited consolidated financial statements and accompanying notes included in our 2025 Form 10-K. Outlook Lennar's second quarter 2026 results represent strong operational execution against a macro backdrop that has grown more complicated throughout the quarter. While our margin remains under pressure as we continue to focus on bringing affordable housing to an affordability-constrained consumer base, underlying demand is real and growing and s"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 91433,
+            "context": "0;CMBS&#8221;). These securities are classified as held-to-maturity based on the segment's intent and ability to hold the securities until maturity and changes in estimated cash flows are reviewed periodically to determine if an other-than-temporary impairment has occurred. Based on the segment's assessment, no impairment charges were recorded during the three or six months ended May 31, 2026 and 2025. The Company has financing agreements to finance CMBS that have been purchased as investments by the Financial Services segment. Details related to Financial Services' CMBS were as follows: (Doll"
+          },
+          {
+            "charIndex": 91496,
+            "context": "rity based on the segment's intent and ability to hold the securities until maturity and changes in estimated cash flows are reviewed periodically to determine if an other-than-temporary impairment has occurred. Based on the segment's assessment, no impairment charges were recorded during the three or six months ended May 31, 2026 and 2025. The Company has financing agreements to finance CMBS that have been purchased as investments by the Financial Services segment. Details related to Financial Services' CMBS were as follows: (Dollars in thousands) At May 31, 2026 At November 30, 2025 Carrying"
+          },
+          {
+            "charIndex": 132124,
+            "context": "ted at cost unless the inventory within a community is determined to be impaired, in which case the impaired inventory is written down to fair value. The Company disclosed its accounting policy related to inventories and its review for indicators of impairment in the Summary of Significant Accounting Policies in its 2025 Form 10-K. The Company estimates the fair value of inventory evaluated for impairment based on market conditions and assumptions made by management at the time the inventory is evaluated, which may differ materially from actual results if market conditions or assumptions chang"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 145823,
+            "context": "any's relationship with these Land Banks would have a material adverse effect on the Company's business, financial condition or cash flows. (10) Commitments and Contingent Liabilities The Company is involved in various claims, legal proceedings, and regulatory matters that arise in the ordinary course of business, including, but not limited to, matters related to construction defects, product liability, warranty claims, land use, zoning and permitting issues, environmental matters, contract disputes, employment matters, and other legal matters incidental to its business operations. The Company"
+          },
+          {
+            "charIndex": 158928,
+            "context": "e in the number of potential homebuyers due to increased enforcement of restrictions on immigration; possible unfavorable outcomes in legal proceedings; conditions in the capital, credit and financial markets; and changes in laws, regulations or the regulatory environment affecting our business. Please see our Annual Report on Form 10-K for the fiscal year ended November 30, 2025 (\"2025 Form 10-K\"), filed with the Securities and Exchange Commission (the &#8220;SEC&#8221;) on January 28, 2026 and our other filings with the SEC for a further discussion of these and other risks and uncertainties"
+          },
+          {
+            "charIndex": 228333,
+            "context": "changes that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 48 Part II. Other Information Item 1. Legal Proceedings We are the subject of various claims, legal proceedings, and regulatory matters in the ordinary course of business. We do not believe that the ultimate resolution of these claims or lawsuits will have a material adverse effect on our business or financial position. Item 1A. Risk Factors Our business is subject to a variety of risks and uncertainties. These risks are described elsewhere in this Quarterly Repo"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 89724,
+            "context": "ccruals are based upon, among other things, an analysis of repurchase requests received, an estimate of potential repurchase claims not yet received and actual past repurchases and losses through the disposition of affected loans as well as previous settlements. While the Company believes it has adequately reserved for known losses and projected repurchase requests, given the volatility in the mortgage market and the uncertainty regarding the ultimate resolution of these claims, if either actual repurchases or the losses incurred resolving purchase claims exceed the Company's expectations, add"
+          },
+          {
+            "charIndex": 127862,
+            "context": "tgage servicing rights LMF Commercial loans held-for-sale Beginning balance $ 2,783 74,793 3,297 82,794 Purchases/loan originations 191 73,300 251 180,875 Sales/loan originations sold, including those not settled — ( 76,250 ) — ( 190,936 ) Disposals/settlements ( 72 ) — ( 56 ) — Changes in fair value (1) 81 ( 1,547 ) ( 25 ) ( 466 ) Interest and principal paydowns — — — ( 64 ) Ending balance $ 2,983 70,296 3,467 72,203 Six Months Ended May 31, 2026 2025 (In thousands) Mortgage servicing rights LMF Commercial loans held-for-sale Mortgage servicing rights LMF Commercial loans held-for-sale Beginn"
+          },
+          {
+            "charIndex": 128400,
+            "context": "age servicing rights LMF Commercial loans held-for-sale Beginning balance $ 3,266 26,401 3,463 50,316 Purchases/loan originations 263 156,350 277 308,840 Sales/loan originations sold, including those not settled — ( 109,575 ) — ( 285,823 ) Disposals/settlements ( 123 ) — ( 153 ) — Changes in fair value (1) ( 423 ) ( 3,004 ) ( 120 ) ( 747 ) Interest and principal paydowns — 124 — ( 383 ) Ending balance $ 2,983 $ 70,296 $ 3,467 $ 72,203 (1) Changes in fair value for LMF Commercial loans held-for-sale and Financial Services mortgage servicing rights are included in Financial Services' revenues. T"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 23807,
+            "context": "aseFacilityMember len:LennarFinancialServicesMember 2026-05-31 0000920760 us-gaap:WarehouseAgreementBorrowingsMember len:CommercialWarehouseRepurchaseFacilityMember len:LennarFinancialServicesMember 2025-11-30 0000920760 len:RepresentationandWarrantyLiabilityMember len:LennarFinancialServicesMember 2026-05-31 0000920760 len:RepresentationandWarrantyLiabilityMember len:LennarFinancialServicesMember 2025-11-30 0000920760 us-gaap:CommercialMortgageBackedSecuritiesMember len:LennarFinancialServicesMember 2026-05-31 0000920760 us-gaap:CommercialMortgageBackedSecuritiesMember len:LennarFinancialServ"
+          },
+          {
+            "charIndex": 23908,
+            "context": "orrowingsMember len:CommercialWarehouseRepurchaseFacilityMember len:LennarFinancialServicesMember 2025-11-30 0000920760 len:RepresentationandWarrantyLiabilityMember len:LennarFinancialServicesMember 2026-05-31 0000920760 len:RepresentationandWarrantyLiabilityMember len:LennarFinancialServicesMember 2025-11-30 0000920760 us-gaap:CommercialMortgageBackedSecuritiesMember len:LennarFinancialServicesMember 2026-05-31 0000920760 us-gaap:CommercialMortgageBackedSecuritiesMember len:LennarFinancialServicesMember 2025-11-30 0000920760 len:FinancingAgreementtoPurchaseCommercialMortgageBackedSecuritiesMe"
+          },
+          {
+            "charIndex": 88724,
+            "context": "activities. Substantially all of the loans the Financial Services segment originates are sold within a short period on the secondary mortgage market on a servicing-released, non-recourse basis. After the loans are sold, the Company retains potential liability for possible claims by purchasers that it breached certain limited industry-standard representations and warranties in the loan sale agreements. Purchasers sometimes try to defray any losses incurred by purporting to have found inaccuracies related to sellers' representations and warranties in particular loan sale agreements and seeking t"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-01-28",
+        "reportDate": "2025-11-30",
+        "accessionNumber": "0001628280-26-003870",
+        "primaryDocument": "len-20251130.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/920760/000162828026003870/len-20251130.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/920760/000162828026003870/"
+      },
+      "textLength": 478277,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations in Item 7 and Notes 1 and 7 of the Notes to Consolidated Financial Statements in Item 8 for a further discussion of these items and our strategy of mitigating our interest rate risk. Information Regarding Interest Rate Sensitivity Principal (Notional) Amount by Expected Maturity and Average Interest Rate November 30, 2025 For the Years Ending November 30, Fair Value at November 30, (Dollars in millions) 2026 2027 2028 2029 2030 Thereafter Total 2025 ASSETS Financial Services: Investments held-to-maturity: Fixed rate $ — — — — — 132.9 132.9 132.0 Average interest rate — — — — — 3.6 % 3.6 % — LIABILITIES Homebuilding: Senior notes and other debts payable: Fixed rate $ 453.0 1,191.8 10.2 11.5 702.2 11.8 2,380.5 2,412.0 Average interest rate 5.1 % 4.9 % 3.0 % 7.5 % 5.2 % 6.6 % 5.0 % — Variable rate $ — — 1,710.0 — — — 1,710.0 1,710.0 Average interest rate — — 5.2 % — — — 5.2 % — Financial Services: Notes and other debts payable: Fixed rate $ — — — — — 123.1 123.1 123.6 Average interest rate — — — — — 3.4 % 3.4 % — Variable rate $ 1,667.2 — — — — — 1,667.2 1,667.2 Average interest rate 5.3 % — — — — — 5.3 % — 47 Table of Contents Item 8. Financial Statements and Supplementary Data. REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM To the stockholders and the Board of Directors of Lennar Corporation Opinion on the Financial Statements We have audited the accompanying consolidated balance sheets of Lennar Corporation and subsidiaries (the \"Company\") as of November 30, 2025 and 2024, the related consolidated statements of operations and comprehensive income (loss), equity, and cash flows, for each of the three years in the period ended November 30, 2025, and the related notes and the financial statement schedule listed in the Index at Item 15 (collectively referred to as the \"financial statements\"). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of November 30, 2025 and 2024, and the results of its operations and its cash flows for each of the three years in the period ended November 30, 2025, in conformity with accounting principles generally accepted in the United States of America. We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of November 30, 2025, based on criteria established in Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission and our report dated January 28, 2026, expressed an unqualified opinion on the Company's internal control over financial reporting. Basis for Opinion These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. Critical Audit Matter The critical audit matter communicated below is a matter arising from the current-period audit of the financial statements that was communicated or required to be communicated to the audit committee and that (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates. Spin-off of Millrose Properties Inc. (Note 2 and 9) Critical Audit Matter Description As described in Note 2 and 9 to the financial statements, on February 7, 2025, the Company completed the spin-off of its Millrose Properties Inc. (&#8220;Millrose&#8221;) business through a pro rata distribution of 80% of the outstanding shares of Millrose to Company stockholders. The Company subsequently disposed of its remaining 20% interest in Millrose in November 2025. As a result of this transaction, the Company performed a reassessment of control over Millrose and determined that Millrose met the definition of a variable interest entity (VIE) in which the Company held a variable interest. The assessment further showed that the Company was not the primary beneficiary and should not consolidate Millrose because the Company does not have the power, either explicitly or implicitly through voting rights or otherwise, to direct the activities that most significantly impact the economic performance of Millrose. Accordingly, the Company deconsolidated the Millrose net assets from the Company's financial statements on the date of the spin-off transaction. We identified the determination of the primary beneficiary under the VIE model for the Company's post spin-off contractual arrangements in Millrose as a critical audit matter. Evaluating whether the Company had the substantive power to direct the activities that most significantly impacted the economic performance of Millrose required a high degree of complex auditor judgment. 48 Table of Contents How the Critical Audit Matter Was Addressed in the Audit Our audit procedures related to the accounting determination for the spin-off included the following, among others: &#8226; Evaluated the design and tested the operating effectiveness of certain internal controls related to the Company's VIE model, including the Company's control related to its determination of the primary beneficiary. &#8226; Inquired of management to obtain an understanding of and evaluate the business purpose of the transaction and the activities that most significantly impact the economic performance of the entity. &#8226; Evaluated management's determination of how decisions about the most significant activities are made and the party or parties that make them, including whether the Company's economic interest in Millrose as a VIE provides actual or effective power beyond its stated power. &#8226; With the assistance of professionals with specialized knowledge related to the accounting for VIE's, we evaluated the governing documents of Millrose, including the Master Program Agreement, Master Option Agreement, and other publicly disclosed information to determine whether the Company held any substantive participating rights or had substantive power to direct the activities that most significantly impact Millrose's economic performance. /s/ Deloitte & Touche LLP Miami, Florida January 28, 2026 We have served as the Company's auditor since 1994. 49 Table of Contents LENNAR CORPORATION AND SUBSIDIARIES CONSOLIDATED BALANCE SHEETS November 30, 2025 and 2024 (Dollars in thousands) 2025 (1) 2024 (1) ASSETS Homebuilding: Cash and cash equivalents $ 3,441,324 4,662,643 Restricted cash 25,930 11,799 Receivables, net 1,002,629 1,053,211 Inventories: Finished homes and construction in progress 8,822,271 10,884,861 Land and land under development 1,098,961 4,750,025 Inventory owned 9,921,232 15,634,886 Consolidated inventory not owned 1,696,401 4,084,665 Inventory owned and consolidated inventory not owned 11,617,633 19,719,551 Deposits and pre-acquisition costs on real estate 6,383,633 3,625,372 Investments in unconsolidated entities 1,545,370 1,344,836 Goodwill 3,442,359 3,442,359 Other assets 1,794,378 1,734,698 29,253,256 35,594,469 Financial Services 3,377,413 3,516,550 Multifamily 902,136 1,306,818 Lennar Other 897,632 894,944 Total assets $ 34,430,437 41,312,781 (1) Under certain provisions of Accounting Standards Codification (\"ASC\") Topic 810, Consolidations, (\"ASC 810\") the Company is required to separately disclose on its consolidated balance sheets the assets of consolidated variable interest entities (\"VIEs\") that are owned by the consolidated VIEs and liabilities of consolidated VIEs as to which neither Lennar Corporation, nor any of its subsidiaries, has any obligation. As of November 30, 2025, total assets include $ 1.5 billion related to consolidated VIEs of which $ 61.1 million is included in Homebuilding cash and cash equivalents, $ 2.0 million in Homebuilding receivables, net, $ 45.6 million in Homebuilding finished homes and construction in progress, $ 300.3 million in Homebuilding land and land under development, $ 984.4 million in Homebuilding consolidated inventory not owned, $ 88.3 million in Homebuilding deposits and pre-acquisition costs on real estate, $ 0.3 million in Homebuilding investments in unconsolidated entities, $ 8.9 million in Homebuilding other assets and $ 25.0 million in Multifamily assets. As of November 30, 2024, total assets include $ 3.7 billion related to consolidated VIEs of which $ 67.0 million is included in Homebuilding cash and cash equivalents, $ 6.0 million in Homebuilding receivables, net, $ 9.7 million in Homebuilding finished homes and construction in progress, $ 602.9 million in Homebuilding land and land under development, $ 2.8 billion in Homebuilding consolidated inventory not owned, $ 71.8 million in Homebuilding deposits and pre-acquisition costs on real estate, $ 0.3 million in Homebuilding investments in unconsolidated entities, $ 42.3 million in Homebuilding other assets and $ 33.9 million in Multifamily assets. See accompanying notes to consolidated financial statements. 50 Table of Contents LENNAR CORPORATION AND SUBSIDIARIES CONSOLIDATED BALANCE SHEETS November 30, 2025 and 2024 (Dollars in thousands except share and per share amounts) 2025 (2) 2024 (2) LIABILITIES AND EQUITY Homebuilding: Accounts payable $ 1,812,484 1,839,440 Liabilities related to consolidated inventory not owned 1,476,376 3,563,934 Senior notes and other debts payable, net 4,084,686 2,258,283 Other liabilities 2,691,876 3,201,552 10,065,422 10,863,209 Financial Services 2,010,598 2,140,708 Multifamily 113,361 181,883 Lennar Other 100,447 105,756 Total liabilities 12,289,828 13,291,556 Commitments and contingent liabilities (See Note 10) Stockholders' equity: Preferred stock — — Class A common stock of $ 0.10 par value per share; Authorized: 2025 and 2024 - 400,000,000 shares; Issued: 2025 - 261,579,253 shares; 2024 - 259,979,453 shares 26,158 25,998 Class B common stock of $ 0.10 par value per share; Authorized: 2025 and 2024 - 90,000,000 shares; Issued: 2025 - 36,601,215 shares; 2024 - 36,601,215 shares 3,660 3,660 Additional paid-in capital 5,909,726 5,729,434 Retained earnings 22,471,471 25,753,078 Treasury stock, at cost; 2025 - 45,804,348 shares of Class A common stock and 5,384,202 shares of Class B common stock; 2024 - 23,814,148 shares of Class A common stock and 4,532,701 shares of Class B common stock ( 6,457,609 ) ( 3,649,564 ) Accumulated other comprehensive income 6,011 7,529 Total stockholders' equity 21,959,417 27,870,135 Noncontrolling interests 181,192 151,090 Total equity 22,140,609 28,021,225 Total liabilities and equity $ 34,430,437 41,312,781 (2) As of November 30, 2025, total liabilities include $ 962.4 million related to consolidated VIEs as to which there was no recourse against the Company, of which $ 23.8 million is included in Homebuilding accounts payable, $ 930.1 million in Homebuilding liabilities related to consolidated inventory not owned, $ 6.0 million in Homebuilding senior notes and other debts payable, net, $ 1.5 million in Homebuilding other liabilities and $ 1.0 million in Multifamily liabilities. As of November 30, 2024, total liabilities include $ 2.7 billion related to consolidated VIEs as to which there was no recourse against the Company, of which $ 67.3 million is included in Homebuilding accounts payable, $ 2.6 billion in Homebuilding liabilities related to consolidated inventory not owned, $ 6.0 million in Homebuilding senior notes and other debts payable, net, $ 45.8 million in Homebuilding other liabilities and $ 1.0 million in Multifamily liabilities. See accompanying notes to consolidated financial statements. 51 Table of Contents LENNAR CORPORATION AND SUBSIDIARIES CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME (LOSS) Years Ended November 30, 2025, 2024 and 2023 (Dollars in thousands, except per share amounts) 2025 2024 2023 Revenues: Homebuilding $ 32,266,680 33,906,426 32,660,987 Financial Services 1,198,197 1,109,263 976,859 Multifamily 680,627 411,537 573,485 Lennar Other 41,430 14,226 22,035 Total revenues 34,186,934 35,441,452 34,233,366 Costs and expenses: Homebuilding 29,284,622 28,809,464 27,223,645 Financial Services 585,731 532,079 467,398 Multifamily 750,011 521,455 573,658 Lennar Other 179,445 79,495 27,681 Corporate general and administrative 636,718 648,986 501,338 Charitable foundation contribution 82,583 80,210 73,087 Total costs and expenses 31,519,110 30,671,689 28,866,807 Equity in earnings (losses) from unconsolidated entities 78,225 164,099 ( 144,610 ) Other income (expense), net and other gains (losses), net ( 62,352 ) 225,866 30,517 Lennar Other gains (losses) from technology investments 130,166 25,180 ( 50,162 ) Earnings before income taxes 2,813,863 5,184,908 5,202,304 Provision for income taxes ( 705,563 ) ( 1,217,253 ) ( 1,241,013 ) Net earnings (including net earnings attributable to noncontrolling interests) 2,108,300 3,967,655 3,961,291 Less: Net earnings attributable to noncontrolling interests 30,121 35,122 22,780 Net earnings attributable to Lennar 2,078,179 3,932,533 3,938,511 Other comprehensive income (loss), net of tax: Net unrealized gains (losses) on securities available-for-sale $ ( 1,518 ) 2,650 2,471 Total other comprehensive income (loss), net of tax $ ( 1,518 ) 2,650 2,471 Total comprehensive income attributable to Lennar $ 2,076,661 3,935,183 3,940,982 Total comprehensive income attributable to noncontrolling interests $ 30,121 35,122 22,780 Basic and",
+        "charRange": [
+          283970,
+          298970
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors&#8221; in Item 1A of this Annual Report on Form 10-K for more information on risks from cybersecurity threats that are reasonably likely to materially affect our business strategy, results of operations and financial condition. Governance Management In May 2025, following the retirement of our former Chief Technology Officer, we appointed an interim Chief Technology Officer (&#8220;CTO&#8221;). Our CTO has over 10 years of experience in managing teams of information technology specialists and assessing cybersecurity threats . Our CTO is responsible for assessing and managing our material risks from cybersecurity threats. We have also established a cross-functional Cyber Steering Committee, which includes our CTO, Chief Information Security Officer (&#8220;CISO&#8221;), General Counsel, certain business leaders on a rotating basis and representatives of human resources and communications. The CISO, supported by inputs from the CTO team leads, delivers quarterly updates to the Committee on key risks and overall security program posture, as well as monthly strategic updates to the CTO on high visibility and key action items. Our CTO regularly reports to our Board and the Audit Committee. Board of Directors Our Audit Committee is responsible for the oversight of cybersecurity risks and receives a cybersecurity report from 23 Table of Contents our CTO at least quarterly, and more often as needed, including in the event of a significant cybersecurity incident. The report includes information regarding the nature of threats, defense and detection capabilities, incident response plans and associate training activities. Our Board retains responsibility for the oversight of our overall risk management systems and processes and is briefed our CTO on cybersecurity risks on a quarterly basis. Item 2. Properties. We maintain our corporate headquarters in an office building in Miami, Florida. In December 2023, we purchased this office building, in which we had previously leased office space for our corporate headquarters. This building contains approximately 213,200 square feet of office space, of which we lease approximately 53,000 square feet of unused office space to other tenants. Our homebuilding, financial services and multifamily offices are located in the markets where we conduct business, primarily in leased spaces. We believe that our existing facilities are adequate for our current and planned levels of operation. Because of the nature of our homebuilding operations, we hold significant amounts of property as inventory in connection with our homebuilding business. We discuss these properties in the discussion of our homebuilding operations in Items 1 and 7 of this Report. Item 3. Legal Proceedings. We are party to various claims and lawsuits relating to homes we sold which arise in the ordinary course of business, but we do not consider the volume of our claims and lawsuits unusual given the number of homes we deliver and the fact that the lawsuits often relate to homes delivered several years before the lawsuits are commenced. Although the specific allegations in the lawsuits differ, they most commonly involve claims that we failed to construct homes in particular communities in accordance with plans and specifications or applicable construction codes and seek reimbursement for sums allegedly needed to remedy the alleged deficiencies, assert contract issues or relate to personal injuries. Lawsuits of these types are common within the homebuilding industry. We are a plaintiff in a number of cases in which we seek contribution from our subcontractors for home repair costs. The costs incurred by us in construction defect lawsuits may be offset by warranty reserves, our third-party insurers, subcontractor insurers or indemnity contributions from subcontractors. From time to time, we are also a party to lawsuits involving purchases and sales of real property. These lawsuits often include claims regarding representations and warranties made in connection with the transfer of the property and disputes regarding the obligation to purchase or sell the property. From time-to-time, we also receive notices from environmental agencies or other regulators regarding alleged violations of environmental or other laws. We typically settle all of the foregoing matters before they reach litigation for amounts that are not material to us. We do not believe that the ultimate resolution of these claims or lawsuits will have a material adverse effect on our business or financial position. However, the financial effect of litigation concerning purchases and sales of property may depend upon the value of the subject property, which may have changed from the time the agreement for purchase or sale was entered into. Item 4. Mine Safety Disclosures. Not applicable. PART II Item 5. Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. Our Class A and Class B common stock are listed on the New York Stock Exchange (\"NYSE\") under the symbols \"LEN\" and \"LEN.B,\" respectively. As of December 31, 2025, the last reported sale price of our Class A and Class B common stock on the NYSE was $102.80 and $95.12, respectively. As of December 31, 2025, there were approximately 2,235 and 760 holders of record of our Class A and Class B common stock, respectively. On January 21, 2026, our Board declared a quarterly cash dividend of $0.50 per share on both our Class A and Class B common stock, payable on February 19, 2026 to holders of record at the close of business on February 4, 2026. 24 Table of Contents The following table provides information about our repurchases of common stock during the three months ended November 30, 2025: Period: Total Number of Shares Purchased (1) Average Price Paid Per Share Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs (2) Approximate Dollar Value of Shares that may yet be Purchased under the Plans or Program (2) (In thousands) September 1 to September 30, 2025 397 $ 137.29 — 1,691,075 October 1 to October 31, 2025 3,619 $ 128.62 — 1,691,075 November 1 to November 30, 2025 63 $ 115.16 — 1,691,075 (1) Includes shares of Class A and Class B common stock withheld by us to cover withholding taxes due with market value approximating the amount of withholding taxes due. Shares repurchased do not include 8,049,594 shares of Lennar Class A common stock accepted through a non-cash exchange for shares of Millrose Class A common stock, which was completed in November 2025. (2) In January 2024, our Board authorized an increase to our stock repurchase program to enable us to repurchase up to an additional $5.0 billion in value of our outstanding Class A or Class B common stock. This authorization was in additions to what was remaining of our March 2022 stock repurchase program. Repurchases are authorized to be made in open-market or private transactions. The repurchase authorization has no expiration date. The information required by Item 201(d) of Regulation S-K relating to equity compensation plans is provided in Item 12 of this Report. Performance Graph The following graph compares the five-year cumulative total return of our Class A common stock with the Dow Jones U.S. Home Construction Index and the Dow Jones U.S. Total Market Index. The graph assumes $100 invested on November 30, 2020 in our Class A common stock, the Dow Jones U.S. Home Construction Index and the Dow Jones U.S. Total Market Index, and the reinvestment of all dividends. 25 Table of Contents 2020 2021 2022 2023 2024 2025 Lennar Corporation $ 100 140 119 176 243 201 Dow Jones U.S. Home Construction Index $ 100 133 113 177 255 232 Dow Jones U.S. Total Return Index $ 100 127 113 128 172 196 Item 6. Reserved. Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations. The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our audited consolidated financial statements and accompanying notes included elsewhere in this Report. It also should be read in conjunction with the disclosure under &#8220;Special Note Regarding Forward-Looking Statements&#8221; in Part I of this Form 10-K. 26 Table of Contents Outlook Lennar's fourth quarter and year-end 2025 results reflect what is and continues to be a difficult housing market. However, while our margin has been under pressure as we focus on bringing affordable housing to an affordability-constrained consumer base, the underlying demand is still strong, while supply is short. During the past three years of difficult market conditions, we have maintained volume, grown our market share and re-engineered our operating platform for a better and more efficient future when the market normalizes. We began the quarter with the expectation that declining interest rates were the start of a market recovery. While mortgage rates drifted marginally lower in the fourth quarter, the customer response remained tepid, suggesting a combination of poor affordability and diminished consumer confidence continued to limit demand. The threat of a government shutdown and ultimate actual shutdown in October and November further eroded already weak consumer confidence. While traffic was consistent, customers were both hesitant and limited by what they could afford to purchase. Clearly, inflation-driven affordability concerns rose to the center of the national conversation, shaping headlines and policy debates across the country. Cost inflation has clearly had a significant impact on the lifestyle of the average American family. At the same time, concerns about job security have become increasingly prominent as advancements in modern technology and artificial intelligence raise important questions about the future of employment for the American workforce. On a positive note, the federal government has intensified its focus on the national housing crisis, with a strong likelihood of taking decisive action to enhance affordability. Although the specifics of potential programs remain to be seen, it is clear that significant attention is being devoted to developing impactful initiatives, while avoiding unintended negative consequences. This is the first time in decades that the federal government is actively recognizing the vital role that housing plays, not only in the broader national economy, but also in the well-being of American families. We know that margins will remain under pressure in the first quarter of 2026 and sales and closings will be seasonally light. However, we have a lower cost structure, efficient product offerings and a strong market position that we expect to accommodate pent-up demand as rates moderate and confidence ultimately returns. Our strategy has positioned us for strong cash flow, higher returns on equity and capital, and stronger bottom line growth in the future. Meanwhile, we will remain focused on volume and even-flow production. Margins are usually lowest during the first quarter of a fiscal year, and we expect our margins in the first quarter of 2026 will be between 15% and 16%, depending on market conditions. We expect that in the first quarter of fiscal 2026, we will sell between 18,000 and 19,000 homes and deliver between 17,000 and 18,000 homes at an average sales price of between $365,000 and $375,000. We expect to deliver approximately 85,000 homes in the full 2026 fiscal year. As we have driven growth, production and volume, we have created efficiencies and technology that will make us a better company in the future. We have materially reduced our inventory, our construction costs, and our cycle times, and we have increased, and will continue to increase, our inventory turn. We are determined to build more with less capital deployed so that as margins begin to grow, returns on capital and equity will grow faster. We are also very enthusiastic about our technology initiatives. They have made us, and are continuing to make us, faster and better in the way that we engage with our customers. We are trying to be the best manufacturing model that we can be. The programs that we have in place are helping us absorb the price reductions we are required to give to maintain desired volume levels. They offer us the likelihood of substantially increasing profit levels when market conditions return to normal. Results of Operations Overview Our net earnings attributable to Lennar were $2.1 billion, or $7.98 per diluted and basic share for the year ended November 30, 2025 and $3.9 billion, or $14.31 per diluted and basic share for the year ended November 30, 2024. Excluding mark-to-market gains on technology investments of $130.2 million and one-time loss of $156.1 million on the Millrose Properties, Inc. exchange offer (\"Millrose Exchange Offer\"), net earnings attributable to Lennar for the year ended November 30, 2025 were $2.1 billion, or $8.06 per diluted share. Excluding mark-to-market gains of $25.2 million on technology investments, one-time items of $90.0 million in our Multifamily segment and a $46.5 million one-time gain on the sale of a technology investment, net earnings attributable to Lennar for the year ended November 30, 2024 were $3.8 billion, or $13.86 per diluted share. 27 Table of Contents Financial information relating to our operations was as follows: For the Year Ended November 30, 2025 (In thousands) Homebuilding Financial Services Multifamily Lennar Other Corporate Total Revenues: Sales of homes $ 32,097,245 — — — — 32,097,245 Sales of land 130,232 — — — — 130,232 Other revenues 39,203 1,198,197 680,627 41,430 — 1,959,457 Total revenues 32,266,680 1,198,197 680,627 41,430 — 34,186,934 Costs and expenses: Costs of homes sold 26,423,605 — — — — 26,423,605 Costs of land sold 182,680 — — — — 182,680 Selling, general and administrative 2,678,337 — — — — 2,678,337 Other costs and expenses — 585,731 750,011 179,445 — 1,515,187 Total costs and expenses 29,284,622 585,731 750,011 179,445 — 30,799,809 Equity in earnings (losses) from unconsolidated entities 83,652 — (18,754) 13,327 — 78,225 Other income (expense), net and other gains (losses), net (1) (50,458) — 12,683 (24,577) — (62,352) Lennar Other gains from technology investments — — — 130,166 — 130,166 Operating earnings (loss) 3,015,252 612,466 (75,455) (19,099) — 3,533,164 Corporate general and administrative expenses — — — — 636,718 636,718 Charitable foundation contribution — — — — 82,583 82,583 Earnings (loss) before income taxes $ 3,015,252 612,466 (75,455) (19,099) (719,301) 2,813,863 (1) Homebuilding other income (expense), net and other gains (losses), net included a one-time loss of $156.1 million on the Millrose Exchange Offer for the year ended November 30, 2025. For the Year Ended November 30, 2024 (In thousands) Homebuilding Financial Services Multifamily Lennar Other Corporate Total Revenues: Sales of homes $ 33,778,149 — — — — 33,778,149 Sales of",
+        "charRange": [
+          185581,
+          200581
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 144414,
+            "context": "crease costs of new homes in affected areas, which could harm our sales and results of operations. Many of our homebuilding operations are conducted in areas that are subject to natural disasters, including hurricanes, earthquakes, droughts, floods, wildfires and severe weather. The occurrence of natural disasters or severe weather conditions can delay new home deliveries, increase costs by damaging inventories and lead to shortages of labor and materials in areas affected by the disasters, and can negatively impact the demand for new homes in affected areas. Our insurance may not cover busine"
+          },
+          {
+            "charIndex": 145233,
+            "context": "meowner's insurance or create difficulties in obtaining homeowners' insurance at all, which could reduce the number of potential buyers who can afford, or are willing, to purchase homes we build in affected areas. For example, the incidence of large wildfires in California has substantially increased in recent years and the risk of future wildfires is expected to increase. The housing markets in areas affected by California's recent wildfires have been adversely affected by increased insurance costs and difficulties in obtaining homeowners' insurance, which was exacerbated by the January 2025"
+          },
+          {
+            "charIndex": 145324,
+            "context": "could reduce the number of potential buyers who can afford, or are willing, to purchase homes we build in affected areas. For example, the incidence of large wildfires in California has substantially increased in recent years and the risk of future wildfires is expected to increase. The housing markets in areas affected by California's recent wildfires have been adversely affected by increased insurance costs and difficulties in obtaining homeowners' insurance, which was exacerbated by the January 2025 wildfires in Los Angeles. If our homebuyers are not able to obtain suitable financing, that"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 112719,
+            "context": "the materials we file publicly with the SEC. The SEC website address is www.sec.gov. Special Note Regarding Forward-Looking Statements This annual report on Form 10-K contains \"forward-looking statements\" within the meaning of the Private Securities Litigation Reform Act of 1995. These statements concern expectations, beliefs, projections, plans and strategies, anticipated events or trends and similar expressions concerning matters that are not historical facts. These forward-looking statements typically include the words &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;consider,&#8221;"
+          },
+          {
+            "charIndex": 174402,
+            "context": "l impact on our business or results of operations, if we were to be subject to a material successful cyber-incident, that could result in remediation or service restoration costs, increased cyber protection costs, lost revenues or loss of customers, litigation or regulatory actions by governmental authorities, increased insurance premiums, reputational damage and damage to our competitiveness, our stock price and our long-term stockholder value. We may be required to incur significant costs to protect against damages caused by information technology failures or security breaches (including thr"
+          },
+          {
+            "charIndex": 175550,
+            "context": "significant theft, loss or fraudulent use of the personally identifiable information we or third parties maintain, or of our data, by cyber-criminals or otherwise could adversely impact our reputation and could result in significant costs, fines and litigation. We may be required to incur significant costs to protect against damages caused by the failure to satisfy privacy and data protection laws and regulations in the future as legal requirements continue to increase, including through the provision of insurance International activities subject us to risks inherent in international operation"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 127069,
+            "context": "ntagious diseases that affect public health and public perception of health risk. The extent to which public health issues impact our results will depend on future developments, which cannot be predicted. New or evolving U.S. government regulations, guidance, executive orders or judicial decisions, including, but not limited to, as a result of public health concerns, could adversely affect our business operations and financial performance. Further, if a contagious disease causes significant negative impacts to economic conditions or consumer confidence, our results of operations, financial con"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 193879,
+            "context": "al statements and accompanying notes included elsewhere in this Report. It also should be read in conjunction with the disclosure under &#8220;Special Note Regarding Forward-Looking Statements&#8221; in Part I of this Form 10-K. 26 Table of Contents Outlook Lennar's fourth quarter and year-end 2025 results reflect what is and continues to be a difficult housing market. However, while our margin has been under pressure as we focus on bringing affordable housing to an affordability-constrained consumer base, the underlying demand is still strong, while supply is short. During the past three year"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 125343,
+            "context": "price of the land under option. Such actions could result in the forfeiture of some or all of any deposits, fees or investments paid or made in respect of such arrangements, including any cost overruns. The forfeiture of option deposits or inventory impairments may result in a loss that could have a material adverse effect on our profitability, stock performance, business operations and financial performance. Current and threatened international conflicts could affect demand for the homes we build. There currently are ongoing conflicts involving Ukraine and Israel. While we do not acquire esse"
+          },
+          {
+            "charIndex": 128209,
+            "context": ". We also compete with sellers of existing homes, including foreclosed homes, and with rental housing. These competitive conditions can reduce the number of homes we deliver, negatively impact our selling prices, reduce our profit margins, and cause impairments in the value of our inventory or other assets. Competition can also affect our ability to acquire suitable land, raw materials and skilled labor at acceptable prices or other terms. Financial Services . Our Financial Services residential and commercial lending businesses compete with other residential and commercial mortgage lenders, in"
+          },
+          {
+            "charIndex": 224697,
+            "context": "3.4%, stated and assumed final distribution dates between September 2025 and March 2026, and stated maturity dates between September 2058 and March 2059. We review changes in estimated cash flows periodically to determine if an other-than-temporary impairment has occurred on our CMBS. Based on management's assessment, no impairment charges were recorded during the years ended November 30, 2025 and 2024. We classify these securities as held-for-sale at November 30, 2025 and 2024. 34 Table of Contents Financial Condition and Capital Resources At November 30, 2025, we had cash and cash equivalen"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 109589,
+            "context": "me Chief Medical Officer in early 2020 at the beginning of the COVID-19 pandemic. Our experienced teams adapt quickly to changes in safety protocols to protect our associates, trade partners and homebuyers. We are also committed to worker safety and regulatory compliance, and among other things, require that office associates with oversight of construction and associates who work in the field take additional safety courses. Our Board and its Audit Committee regularly review the results of OSHA visits and other safety-related information to ensure that we are successfully managing and improving"
+          },
+          {
+            "charIndex": 117006,
+            "context": "failure of the participants in various joint ventures to honor their commitments; difficulty obtaining land-use entitlements or construction financing; harm to our business from information technology failures and data security breaches; new laws or regulatory changes that adversely affect the profitability of our businesses (including changes in tax laws or liabilities); our inability to refinance our debt on terms that are as favorable as our current arrangements; and changes in accounting conventions that adversely affect our reported earnings. Please see Item 1A-Risk Factors and Item 7. Ma"
+          },
+          {
+            "charIndex": 132780,
+            "context": "d by subcontractors, including whether they comply with laws and regulations designed to maximize the safety of construction workers. Failures in health and safety performance on our worksites may result in penalties for non-compliance with relevant regulatory requirements and in our subcontractors having difficulty attracting the workers they need as well as in a negative impact to our reputation. Products supplied to us and work done by subcontractors can expose us to risks that could adversely affect our business. We rely on subcontractors to perform the actual construction of our homes, an"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 262065,
+            "context": "een the contract price and fair value of the MBS forward commitments and the option contracts. At November 30, 2025, we had open commitments amounting to $3.0 billion to sell forward contracts, which include MBS and interest rate swaps, with varying settlement dates through February 2026 and open future contracts in the amount of $1.4 million with the varying settlement dates through May 2026. The following sections discuss market and financing risk, seasonality and interest rates and changing prices that may have an impact on our business: Market and Financing Risk We finance our contribution"
+          },
+          {
+            "charIndex": 262177,
+            "context": "025, we had open commitments amounting to $3.0 billion to sell forward contracts, which include MBS and interest rate swaps, with varying settlement dates through February 2026 and open future contracts in the amount of $1.4 million with the varying settlement dates through May 2026. The following sections discuss market and financing risk, seasonality and interest rates and changing prices that may have an impact on our business: Market and Financing Risk We finance our contributions to JVs, land acquisition and development activities, construction activities, financial services activities, M"
+          },
+          {
+            "charIndex": 343277,
+            "context": "for inflation, claims handling and legal fees. These estimates are subject to a high degree of variability due to uncertainties such as trends in construction defect claims relative to the markets and the types of products the Company builds, claim settlement patterns, insurance industry practices and legal interpretations. Given the high degree of judgment required in determining these estimated liability amounts, actual future costs could differ significantly from the Company's currently estimated amounts. The Company's self-insurance reserve, net of expected recoveries, as of November 30,"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 12045,
+            "context": "estrictedStockMember 2023-12-01 2024-11-30 0000920760 us-gaap:RestrictedStockMember 2022-12-01 2023-11-30 0000920760 us-gaap:RestrictedStockMember 2024-11-30 0000920760 us-gaap:RestrictedStockMember 2025-11-30 0000920760 len:RepresentationandWarrantyLiabilityMember len:LennarFinancialServicesMember 2024-11-30 0000920760 len:RepresentationandWarrantyLiabilityMember len:LennarFinancialServicesMember 2023-11-30 0000920760 len:RepresentationandWarrantyLiabilityMember len:LennarFinancialServicesMember 2024-12-01 2025-11-30 0000920760 len:RepresentationandWarrantyLiabilityMember len:LennarFinancialS"
+          },
+          {
+            "charIndex": 12146,
+            "context": "1-30 0000920760 us-gaap:RestrictedStockMember 2024-11-30 0000920760 us-gaap:RestrictedStockMember 2025-11-30 0000920760 len:RepresentationandWarrantyLiabilityMember len:LennarFinancialServicesMember 2024-11-30 0000920760 len:RepresentationandWarrantyLiabilityMember len:LennarFinancialServicesMember 2023-11-30 0000920760 len:RepresentationandWarrantyLiabilityMember len:LennarFinancialServicesMember 2024-12-01 2025-11-30 0000920760 len:RepresentationandWarrantyLiabilityMember len:LennarFinancialServicesMember 2023-12-01 2024-11-30 0000920760 len:RepresentationandWarrantyLiabilityMember len:Lenna"
+          },
+          {
+            "charIndex": 12247,
+            "context": "5-11-30 0000920760 len:RepresentationandWarrantyLiabilityMember len:LennarFinancialServicesMember 2024-11-30 0000920760 len:RepresentationandWarrantyLiabilityMember len:LennarFinancialServicesMember 2023-11-30 0000920760 len:RepresentationandWarrantyLiabilityMember len:LennarFinancialServicesMember 2024-12-01 2025-11-30 0000920760 len:RepresentationandWarrantyLiabilityMember len:LennarFinancialServicesMember 2023-12-01 2024-11-30 0000920760 len:RepresentationandWarrantyLiabilityMember len:LennarFinancialServicesMember 2025-11-30 0000920760 len:MillrosePropertiesInc.Member 2025-02-07 2025-02-07"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "Revenues",
+      "points": [
+        {
+          "start": "2026-03-01",
+          "end": "2026-05-31",
+          "val": 7939872000,
+          "accn": "0001628280-26-046019",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-06-29",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2025-12-01",
+          "end": "2026-05-31",
+          "val": 14559348000,
+          "accn": "0001628280-26-046019",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-06-29"
+        },
+        {
+          "start": "2025-12-01",
+          "end": "2026-02-28",
+          "val": 6619476000,
+          "accn": "0001628280-26-024352",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-09",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2024-12-01",
+          "end": "2025-11-30",
+          "val": 34186934000,
+          "accn": "0001628280-26-003870",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-01-28",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-06-01",
+          "end": "2025-08-31",
+          "val": 8810278000,
+          "accn": "0001628280-25-044086",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-03",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2024-12-01",
+          "end": "2025-08-31",
+          "val": 24819325000,
+          "accn": "0001628280-25-044086",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-03"
+        },
+        {
+          "start": "2025-03-01",
+          "end": "2025-05-31",
+          "val": 8377502000,
+          "accn": "0001628280-26-046019",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-06-29",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-03-01",
+          "end": "2025-05-31",
+          "val": 8377502000,
+          "accn": "0001628280-25-033777",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-01"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-03-01",
+          "end": "2026-05-31",
+          "val": 1.24,
+          "accn": "0001628280-26-046019",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-06-29",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2025-12-01",
+          "end": "2026-05-31",
+          "val": 2.17,
+          "accn": "0001628280-26-046019",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-06-29"
+        },
+        {
+          "start": "2025-12-01",
+          "end": "2026-02-28",
+          "val": 0.93,
+          "accn": "0001628280-26-024352",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-09",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-06-01",
+          "end": "2025-08-31",
+          "val": 2.29,
+          "accn": "0001628280-25-044086",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-03",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2024-12-01",
+          "end": "2025-08-31",
+          "val": 6.06,
+          "accn": "0001628280-25-044086",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-03"
+        },
+        {
+          "start": "2025-03-01",
+          "end": "2025-05-31",
+          "val": 1.81,
+          "accn": "0001628280-26-046019",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-06-29",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-03-01",
+          "end": "2025-05-31",
+          "val": 1.81,
+          "accn": "0001628280-25-033777",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-01"
+        },
+        {
+          "start": "2024-12-01",
+          "end": "2025-05-31",
+          "val": 3.77,
+          "accn": "0001628280-26-046019",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-06-29"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-03-01",
+          "end": "2026-05-31",
+          "val": 304772000,
+          "accn": "0001628280-26-046019",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-06-29",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2025-12-01",
+          "end": "2026-05-31",
+          "val": 534155000,
+          "accn": "0001628280-26-046019",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-06-29"
+        },
+        {
+          "start": "2025-12-01",
+          "end": "2026-02-28",
+          "val": 229383000,
+          "accn": "0001628280-26-024352",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-09",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2024-12-01",
+          "end": "2025-11-30",
+          "val": 2078179000,
+          "accn": "0001628280-26-003870",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-01-28",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-06-01",
+          "end": "2025-08-31",
+          "val": 590967000,
+          "accn": "0001628280-25-044086",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-03",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2024-12-01",
+          "end": "2025-08-31",
+          "val": 1587942000,
+          "accn": "0001628280-25-044086",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-03"
+        },
+        {
+          "start": "2025-03-01",
+          "end": "2025-05-31",
+          "val": 477449000,
+          "accn": "0001628280-26-046019",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-06-29",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-03-01",
+          "end": "2025-05-31",
+          "val": 477449000,
+          "accn": "0001628280-25-033777",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-01"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2021-12-01",
+          "end": "2022-02-28",
+          "val": 802934000,
+          "accn": "0001628280-22-008166",
+          "fy": 2022,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2022-04-01",
+          "frame": "CY2022Q1"
+        },
+        {
+          "start": "2021-06-01",
+          "end": "2021-08-31",
+          "val": 1924495000,
+          "accn": "0001628280-21-019464",
+          "fy": 2021,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2021-10-01",
+          "frame": "CY2021Q3"
+        },
+        {
+          "start": "2020-12-01",
+          "end": "2021-08-31",
+          "val": 4576449000,
+          "accn": "0001628280-21-019464",
+          "fy": 2021,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2021-10-01"
+        },
+        {
+          "start": "2021-03-01",
+          "end": "2021-05-31",
+          "val": 1202095000,
+          "accn": "0001628280-21-013462",
+          "fy": 2021,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2021-07-02",
+          "frame": "CY2021Q2"
+        },
+        {
+          "start": "2020-12-01",
+          "end": "2021-05-31",
+          "val": 2651954000,
+          "accn": "0001628280-21-013462",
+          "fy": 2021,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2021-07-02"
+        },
+        {
+          "start": "2020-12-01",
+          "end": "2021-02-28",
+          "val": 1449859000,
+          "accn": "0001628280-22-008166",
+          "fy": 2022,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2022-04-01",
+          "frame": "CY2021Q1"
+        },
+        {
+          "start": "2020-12-01",
+          "end": "2021-02-28",
+          "val": 1449859000,
+          "accn": "0001628280-21-006359",
+          "fy": 2021,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2021-04-01"
+        },
+        {
+          "start": "2019-12-01",
+          "end": "2020-11-30",
+          "val": 3482206000,
+          "accn": "0001628280-21-000722",
+          "fy": 2020,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2021-01-22",
+          "frame": "CY2020"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "LEN",
+    "name": "LENNAR CORP /NEW/",
+    "sector": "General Bldg Contractors - Residential Bldgs",
+    "pe": 13.25,
+    "pb": 0.95,
+    "ret3m": -2.439,
+    "ret6m": -23.9314,
+    "roe": 9.61,
+    "debtEquity": 0.552,
+    "sentiment": 0.611,
+    "analyst": 38.5,
+    "beta": 1.3891034
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "Lennar (LEN) Declines More Than Market: Some Information for Investors",
+        "url": "https://finnhub.io/api/news?id=23f44d454faff71830dafec2c89dd2f5eed8e623b014bb3ad10916203480369d",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Builder Mortgage Executive Karen Klemcke Joins Cornerstone Capital Bank",
+        "url": "https://finnhub.io/api/news?id=d3be26f2f71d72808b7c6c723d6606d23db4c44d6162cb625a9d1ba011eba804",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Lennar Debuts Sutton and Hollis, Two New Home Collections at Valencia in the Santa Clarita Valley",
+        "url": "https://finnhub.io/api/news?id=5952d8748be39a985420f000ac34e27484857c7911fc3ef50def115e5327038c",
+        "source": "Yahoo",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "New Homes Sit On Market For 9.3 Months As Builders Slash Prices",
+        "url": "https://finnhub.io/api/news?id=afa64e7298e65523dc1056862034eca1cb022ec855d1d81cd17934d67a37dd83",
+        "source": "Yahoo",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "Berkshire Goes All-In on Housing Bet With Taylor Morrison Deal",
+        "url": "https://finnhub.io/api/news?id=1143f42d5b7cf94dfff37e376cac7f3896cfee93ab6518ff7dab7efdc48c9104",
+        "source": "Yahoo",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "Truist Securities Maintains Hold on Lennar, Lowers Price Target to $80",
+        "url": "https://finnhub.io/api/news?id=ec82c5a8dbfde0af5315790469e996dc17c8d95f54684d6f1011968046ac4080",
+        "source": "Benzinga",
+        "date": "2026-08-06"
+      }
+    ],
+    "cachedAt": "2026-08-11T05:57:47.091Z"
+  }
+}

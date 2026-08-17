@@ -1,0 +1,622 @@
+{
+  "ticker": "EG",
+  "entityName": "EVEREST GROUP, LTD.",
+  "cik": "0001095073",
+  "generatedAt": "2026-08-11T18:22:45.959Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-08-03",
+        "reportDate": "2026-06-30",
+        "accessionNumber": "0001095073-26-000032",
+        "primaryDocument": "eg-20260630.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1095073/000109507326000032/eg-20260630.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1095073/000109507326000032/"
+      },
+      "textLength": 286279,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS Overview. Everest is a global underwriting leader providing best-in-class property, casualty and specialty reinsurance and insurance solutions. As part of the Standard & Poor's (&#8220;S&P&#8221;) 500 Index, we are a leading financial services institution focused on value creation for our shareholders while diversifying our portfolio and geographic presence. Through our direct and indirect subsidiaries operating in the U.S. and internationally, we serve a diverse group of clients worldwide, providing what we believe are extensive product and distribution capabilities, a strong balance sheet, an innovative culture and access to world-class talent. As a global leader with a 50-year track record, we are a preferred reinsurance partner in the markets we serve, and with our growing Global Wholesale & Specialty insurance franchise we strive to deliver consistent value to all our stakeholders. Effective January 1, 2026, we changed our reportable segments, previously reported as Reinsurance and Insurance, to Reinsurance Treaty, Global Wholesale & Specialty, and Legacy, following the sale of the renewal rights for the Commercial Retail Insurance business in the majority of our geographic regions to American International Group, Inc. (&#8220;AIG&#8221;). This reflects our sharpened focus on our global Reinsurance Treaty business as well as the Global Wholesale & Specialty business, and positions the Company for strong performance across market cycles. Accordingly, we revised the presentation of reportable segments to appropriately reflect how the business segments are now managed by recasting specific sections of its 2025 10-K, filed with the SEC on a Current Report Form 8-K dated June 3, 2026. Our Legacy segment primarily includes the divested and held-for-sale parts of the commercial retail insurance business and the results of our sports and leisure business that was sold in October 2024 consisting of policies written prior to the sale and certain new and renewed policies written on the Company's paper post sale. Additionally, this segment includes run-off asbestos and environmental (&#8220;A&E&#8221;) exposures, certain discontinued insurance programs, and certain discontinued insurance and reinsurance coverage classes. The Legacy segment does not generally sell insurance or reinsurance products but is responsible for the management of existing policies and settlement of related losses. Certain commercial retail insurance policies will be renewed on the Company's paper for a finite period in 2026. As a result, the Company has three reportable segments, however, only two that actively sell products, Reinsurance Treaty and Global Wholesale & Specialty, consistent with how the on-going business is managed. These segment presentation changes have been reflected retrospectively. See Note 7 of the Notes to the Consolidated Financial Statements for a summary of segment results. The following is a discussion of our results of operations, financial condition and liquidity and capital resources for the three and six months ended June 30, 2026. This discussion should be read in conjunction with the consolidated financial statements and related notes, under Part I - Item 1 of this Form 10-Q, as well as the audited consolidated financial statements and notes thereto for the year ended December 31, 2025, included in the Company's 2025 Annual Report on Form 10-K. All comparisons in this discussion are to the corresponding prior year unless otherwise indicated. Recent Developments. Bermuda Monetary Authority Group Supervision As further detailed below in the section titled &#8220;Item 1A. &#8211; Risk Factors&#8221;, during the three months ended June 30, 2026, the Bermuda Monetary Authority (the &#8220;BMA&#8221;) informed the Company of its formal determination that it is appropriate for the BMA to become Group Supervisor for the Company and specified that Everest Reinsurance (Bermuda) Ltd. (&#8220;Bermuda Re&#8221;) would become the &#8220;designated insurer&#8221; responsible for group-level regulatory compliance for Everest, pursuant to Section 27B of the Insurance Act 1978 (the &#8220;Act&#8221;). The Company and Bermuda Re are discussing with the BMA the applicable requirements of group supervision during a twelve-month transition period that ends in January 2027, with the BMA authorized to grant extensions of up to an additional twelve months upon application. During this period, the Company is analyzing compliance requirements and potential focus areas for enhancement and taking steps necessary to comply with the BMA's group supervision requirements. Under the Act, the Company will be subject to group-level solvency and capital requirements, consolidated financial reporting and auditing obligations, recovery planning requirements and prior notification or approval requirements for certain material changes within the group. As Group Supervisor, the BMA will also chair a Supervisory College, coordinating with other regulators that supervise Everest's licensed entities in other jurisdictions. Everest's continuing assessment of and compliance with BMA group supervision will require the Company to allocate considerable time and resources that could impact the operations of our 37 Table of Contents insurance and/or non-insurance subsidiaries or may result in increased costs or affect our financial condition. Group supervision could also affect our prescribed capital requirements, the terms of and structure of our regulatory capital, intercompany capital transactions, borrowing requirements and terms, and ratings and may significantly increase our cost of regulatory compliance. Bermuda-based Reinsurance Sidecar On June 17, 2026, the Company announced that it has partnered with Stone Point Insurance Solutions (&#8220;Stone Point&#8221;) to sponsor the launch of Annapurna Re Ltd. (&#8220;Annapurna&#8221;), a Bermuda-based collateralized insurer and special purpose vehicle (commonly referred to as a reinsurance \"sidecar\") structured as a segregated accounts company. Funds managed by Stone Point will serve as the inaugural, anchor investors in this multi-year vehicle. This structure legally isolates the assets and liabilities funded by third-party investors from the Company's general accounts. Sale of Colombian Commercial Retail Insurance Operations On May 19, 2026, the Company entered into a definitive agreement to sell its Colombian Commercial Retail Insurance Operations, Everest Compa&#241;&#237;a de Seguros Generales Colombia S.A. (&#8220;Everest Colombia&#8221;), to AIG. The transaction is anticipated to close in early 2027, pursuant to customary regulatory approvals and closing conditions. As of June 30, 2026, Everest Colombia assets and liabilities are presented as held-for sale within Other assets and Other liabilities on the Company's consolidated balance sheet. Refer to Note 6 of the Notes to the Consolidated Financial Statements for additional information. Sale of Canadian Commercial Retail Insurance Operations On March 22, 2026, Everest Underwriting Group (Ireland) Limited (&#8220;EUGIL&#8221;), an Irish direct subsidiary of the Company, entered into a Purchase Agreement with a Buyer, pursuant to which EUGIL agreed to sell to Buyer, or a Canadian affiliate thereof, all of the outstanding shares of capital of Everest Canada, a Canadian insurance company and a wholly owned subsidiary of EUGIL, representing the Company's Canadian Commercial Retail Insurance operations for C$410 million, subject to adjustment. The closing of the transaction pursuant to the Purchase Agreement is subject to the satisfaction of customary closing conditions, including the receipt of antitrust approval from the Commissioner of Competition and insurance regulatory approval from the Minister of Finance (Canada). In connection with the Purchase Agreement, (i) Everest Canada will enter into a loss portfolio transfer reinsurance agreement with Everest Reinsurance Company (Canadian Branch), a Delaware reinsurance company and affiliate of EUGIL (&#8220;ERC - Canadian Branch&#8221;), pursuant to which ERC - Canadian Branch will reinsure certain liabilities of Everest Canada with respect to the insurance business written prior to the closing of the transaction, (ii) EUGIL or an affiliate thereof and Buyer or an affiliate thereof will enter into a transition services agreement for specified transition services to be provided to Buyer and its affiliates and (iii) EUGIL and its affiliates, on the one hand, and Buyer and its affiliates, on the other hand, will enter into such other ancillary agreements as contemplated in the Purchase Agreement. As a result of the loss portfolio transfer reinsurance agreement described in item (i), assets held-for-sale will be comprised of only investments and cash at the time of the transaction close. The transaction is anticipated to close in the second half of 2026, pursuant to customary regulatory approvals and closing conditions. For more details, see the Current Report on Form 8-K filed with the SEC on March 23, 2026 and the Purchase Agreement attached as Exhibit 10.2 to the quarterly report on Form 10-Q for the three months ended March 31, 2026. As of June 30, 2026, Everest Canada assets and liabilities are presented as held-for sale within Other assets and Other liabilities on the Company's consolidated balance sheet. Refer to Note 6 of the Notes to the Consolidated Financial Statements for additional information. Adverse Development Cover Reinsurance Agreements Effective October 1, 2025, the Company, through its subsidiaries Everest Re and Bermuda Re (the &#8220;Ceding Companies&#8221;), entered into adverse development reinsurance agreements with State National Insurance Company, Inc. and MS Transverse Insurance Company (collectively the &#8220;Reinsurers&#8221;). The Reinsurance Agreements are supported on a retrocessional basis by Longtail Re, an affiliate of Stone Ridge Capital. The agreements reinsure potential adverse loss development for accident years 2024 and prior arising from substantially all of the Ceding Companies' North American liabilities within the Insurance and Legacy segments (&#8220;Subject Business&#8221;) up 38 Table of Contents to a gross limit of $1.2 billion. Certain liabilities are excluded from the subject business, including among others those related to the Asbestos and Environmental (&#8220;A&E&#8221;) reserves included in the Legacy segment. At the time the Company entered into the agreement, the carried reserves held for the Subject Business, pursuant to the Reinsurance Agreements, were $5.4 billion. The adverse development cover (&#8220;ADC&#8221;) is composed of three layers. The first layer is an &#8220;in the money&#8221; layer whereby the ADC attachment point was $1,250 million below the Company's North American Insurance and Legacy segment liability subject reserves of $5.4 billion held as of September 30, 2025. The second layer is $700 million in excess of the $5.4 billion. The Company transferred $1,250 million of in-the-money reserves in consideration for the first two layers upon closing of the transaction. The third layer is $500 million, for which the Company paid approximately $122 million of consideration upon closing of the transaction. The Company has a co-participation of $100 million in each of the second and third layers. For more details, see Form 8-K filed with the SEC on October 27, 2025 and the adverse development reinsurance agreements attached thereto and incorporated by reference in Exhibits 10.57 and 10.58 to the Company's Annual Report on Form 10-K. The total covered losses ceded to State National Reinsurer as of June 30, 2026 and December 31, 2025 were $1.26 billion and $1.25 billion, respectively. The aggregated unexpired limit for State National Reinsurer as of June 30, 2026 and December 31, 2025 was $592 million and $597 million, respectively. The aggregated unexpired limit for MS Transverse Reinsurer as of June 30, 2026 and December 31, 2025 was $400 million. Sale of Certain Commercial Retail Insurance Renewal Rights On October 26, 2025, the Company entered into an agreement with AIG to sell the renewal rights for certain lines of commercial retail insurance business written by the Company in the U.S., U.K. and Asia Pacific, for an aggregate purchase price of $252 million. AIG paid the Company $30 million for originating and structuring the transaction. In addition, on October 26, 2025, the Company entered into an agreement with AIG to sell the renewal rights for certain lines of the commercial retail insurance business written by the Company in certain countries in the E.U., for an aggregate purchase price of $49 million. The final purchase price under the Master Transaction Agreements will be adjusted to equal 15% of the gross written premiums of the subject business for the year ended December 31, 2025, inclusive of year-end renewals as agreed between the Company and the Buyer. Under the agreements, AIG agreed to pay the Company a total of $10 million per month for nine months starting January 1, 2026 for specified transition services. For more details, see the Current Report on Form 8-K filed with the SEC on October 28, 2025 and the Master Transaction Agreements incorporated by reference in Exhibits 10.59 and 10.60 to the Company's Annual Report on Form 10-K. 39 Table of Contents Financial Summary. We monitor and evaluate our overall performance based upon financial results. The following table displays a summary of the consolidated net income (loss), ratios and shareholders' equity for the periods indicated: Three Months Ended June 30, Percentage Increase/ (Decrease) Six Months Ended June 30, Percentage Increase/ (Decrease) (Dollars in millions) 2026 2025 2026 2025 Gross written premiums $ 3,772 $ 4,680 (19.4) % $ 7,374 $ 9,071 (18.7) % Net written premiums 3,037 4,119 (26.3) % 6,224 7,853 (20.7) % REVENUES: Premiums earned $ 3,490 $ 3,991 (12.6) % $ 7,064 $ 7,843 (9.9) % Net investment income 523 532 (1.6) % 1,091 1,023 6.6 % Net gains (losses) on investments (8) (5) 46.1 % (17) (12) 43.1 % Other income (expense) (45) (27) 64.9 % (108) (100) 8.1 % Total revenues 3,961 4,491 (11.8) % 8,029 8,754 (8.3) % CLAIMS AND EXPENSES: Incurred losses and loss adjustment expenses 2,170 2,472 (12.2) % 4,388 5,366 (18.2) % Commission, brokerage, taxes and fees 814 880 (7.5) % 1,638 1,704 (3.9) % Other underwriting expenses 225 254 (11.4) % 441 492 (10.4) % Corporate expenses 33 31 3.7 % 71 52 35.1 % Interest, fees and bond issue cost amortization expense 36 38 (5.3) % 71 76 (5.5) % Total claims and expenses 3,278 3,676 (10.8) % 6,609 7,690 (14.1) % INCOME (LOSS) BEFORE TAXES 683 815 (16.2) % 1,420 1,064 33.5 % Income tax expense (benefit) 124 135 (8.2) % 207 173 19.5 % NET INCOME (LOSS) $ 559 $ 680 (17.8) % $ 1,213 $ 890 36.2 % RATIOS: Point Change Point Change Loss ratio 62.2 %",
+        "charRange": [
+          174800,
+          189800
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors&#8221; contained in our Annual Report on Form 10-K for the year ended December 31, 2025. ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS Issuer Purchases of Equity Securities. Issuer Purchases of Equity Securities (a) (b) (c) (d) Period Total Number of Shares (or Units) Purchased (2) Average Price Paid per Share (or Unit) Total Number of Shares (or Units) Purchased as Part of Publicly Announced Plans or Programs Maximum Number of Shares (or Units) that May Yet Be Purchased Under the Plans or Programs (1) April 1 - 30, 2026 303,478 $ 339.0829 303,250 6,991,910 May 1 - 31, 2026 278,215 $ 352.1327 278,115 6,713,795 June 1 - 30, 2026 574,917 $ 337.7394 574,008 6,139,787 Total 1,156,610 $ — 1,155,373 6,139,787 (1) On November 7, 2024, the Company's Board approved an amendment to the share repurchase program authorizing the Company and/or its subsidiary Holdings, to purchase up to an additional 10.0 million shares. Currently, an aggregate amount of 42.0 million of the Company's shares (recognizing that the number of shares authorized for repurchase has been reduced by those shares that have already been purchased) in open market transactions, 10b5-1 share repurchase plans, privately negotiated transactions, or a combination thereof. As of June 30, 2026, the Company and/or its subsidiary Holdings have repurchased an aggregate of 35.8 million of the Company's shares. (2) Shares that have not been repurchased through a publicly announced plan or program consist of shares repurchased by the Company from employees in order to satisfy tax withholding obligations on vesting and/or settlements of share-based compensation awards. ITEM 3. DEFAULTS UPON SENIOR SECURITIES None. ITEM 4. MINE SAFETY DISCLOSURES Not applicable. ITEM 5. OTHER INFORMATION None of our directors or officers (as defined in Exchange Act Rule 16a-1(f)) adopted , modified or terminated a &#8220;Rule 10b5-1 trading arrangement&#8221; or &#8220;non-Rule 10b5-1 trading arrangement,&#8221; as those terms are defined in Regulation S-K, Item 408, during the fiscal quarter ended June 30, 2026. 68 Table of Contents ITEM 6.",
+        "charRange": [
+          283112,
+          285252
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 202206,
+            "context": "(Dollars in millions) Reinsurance Treaty Global Wholesale & Specialty Total Core Businesses Legacy Total Consolidated Current year catastrophe losses Hurricanes, Typhoons and Cyclones $ 10 $ — $ 10 $ — $ 10 Other weather related events 42 — 42 4 47 Wildfires — — — — — Earthquakes — 5 5 5 10 Foreign conflict 23 5 27 — 27 Other — — — — — Total current year catastrophe losses $ 75 $ 10 $ 85 $ 9 $ 94 Prior year catastrophe losses Hurricanes, Typhoons and Cyclones $ (10) $ (2) $ (12) $ — $ (12) Other weather related events (13) (1) (14) — (14) Wildfires (1) 3 2 — 2 Earthquakes (6) — (6) — (6) Fore"
+          },
+          {
+            "charIndex": 202502,
+            "context": "eign conflict 23 5 27 — 27 Other — — — — — Total current year catastrophe losses $ 75 $ 10 $ 85 $ 9 $ 94 Prior year catastrophe losses Hurricanes, Typhoons and Cyclones $ (10) $ (2) $ (12) $ — $ (12) Other weather related events (13) (1) (14) — (14) Wildfires (1) 3 2 — 2 Earthquakes (6) — (6) — (6) Foreign conflict — — — — — Other 55 — 55 — 55 Total prior year catastrophe losses $ 26 $ — $ 26 $ — $ 26 Total catastrophe losses $ 101 $ 10 $ 111 $ 9 $ 121 (Some amounts may not reconcile due to rounding.) 45 Table of Contents Six Months Ended June 30, 2026 (Dollars in millions) Reinsurance Treaty"
+          },
+          {
+            "charIndex": 203064,
+            "context": "llars in millions) Reinsurance Treaty Global Wholesale & Specialty Total Core Businesses Legacy Total Consolidated Current year catastrophe losses Hurricanes, Typhoons and Cyclones $ 10 $ — $ 10 $ — $ 10 Other weather related events 93 13 105 13 119 Wildfires — — — — — Earthquakes — 5 5 5 10 Foreign conflict 63 22 84 1 85 Other — — — — — Total current year catastrophe losses $ 165 $ 40 $ 205 $ 19 $ 224 Prior year catastrophe losses Hurricanes, Typhoons and Cyclones $ (36) $ (2) $ (37) $ 2 $ (35) Other weather related events (11) (1) (12) (3) (14) Wildfires (47) 3 (45) — (45) Earthquakes (6) —"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 50779,
+            "context": "or Securities 68 Item 4. Mine Safety Disclosures 68 Item 5. Other Information 68 Item 6. Exhibits 69 Table of Contents Safe Harbor Disclosure. This report contains forward-looking statements within the meaning of the United States Private Securities Litigation Reform Act of 1995 and other U.S. federal securities laws. We intend these forward-looking statements to be covered by the safe harbor provisions for forward-looking statements in the federal securities laws. In some cases, these statements can be identified by the use of forward-looking words such as &#8220;may&#8221;, &#8220;will&#8221"
+          },
+          {
+            "charIndex": 161754,
+            "context": "ters, the Company is resisting attempts by others to collect funds or enforce alleged rights. These disputes arise from time to time and are ultimately resolved through both informal and formal means, including negotiated resolution, arbitration and litigation. In all such matters, the Company believes that its positions are legally and commercially reasonable. The Company considers the statuses of these proceedings when determining its reserves for unpaid loss and LAE. Aside from litigation and arbitrations related to these insurance and reinsurance agreements, the Company is not a party to a"
+          },
+          {
+            "charIndex": 161990,
+            "context": "bitration and litigation. In all such matters, the Company believes that its positions are legally and commercially reasonable. The Company considers the statuses of these proceedings when determining its reserves for unpaid loss and LAE. Aside from litigation and arbitrations related to these insurance and reinsurance agreements, the Company is not a party to any other material litigation or arbitration. 32 Table of Contents 13. OTHER COMPREHENSIVE INCOME (LOSS) The following tables present the components of other comprehensive income (loss) in the consolidated statements of operations for th"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 71993,
+            "context": "rial impact to Group. Disaggregation of Income Statement Expenses. In November 2024, the FASB issued Accounting Standard Update No. 2024-03, which requires additional disclosure about specific expense categories included in the income statement. The guidance is effective for annual reporting periods beginning after December 15, 2026 and interim reporting periods beginning after December 15, 2027. Prospective application is required, with retrospective application permitted. The Company is currently evaluating the effect the updated guidance will have on the Company's financial statement disclo"
+          },
+          {
+            "charIndex": 72281,
+            "context": "ting periods beginning after December 15, 2026 and interim reporting periods beginning after December 15, 2027. Prospective application is required, with retrospective application permitted. The Company is currently evaluating the effect the updated guidance will have on the Company's financial statement disclosures. 3. INVESTMENTS Invested Assets Held-for-sale As of June 30, 2026, we held $ 141 million and $ 41 million of fixed maturity securities - available for sale and short-term investments, respectively, for our Canadian and Colombian Commercial Retail Insurance Operations, reported as a"
+          },
+          {
+            "charIndex": 99740,
+            "context": "ale. The Company's decision to sell was due to significant credit deterioration of the issuer of the securities. There were no sales of fixed maturity securities - held to maturity for the three and six months ended June 30, 2026. 4. FAIR VALUE GAAP guidance regarding fair value measurements addresses how companies should measure fair value when they are required to use fair value measures for recognition or disclosure purposes under GAAP and provides a common definition of fair value to be used throughout GAAP. It defines fair value as the price that would be received to sell an asset or paid"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 130677,
+            "context": "also agreed to pay the Company a total of $ 10 million per month for nine months for specified transition services starting January 1, 2026. In addition, as a result of the Master Transaction Agreements, the Company also recorded severance costs and impairments of capitalized software in the amounts of $ 28 million and $ 83 million, respectively, for the year ended December 31, 2025. Legal expenses and merger and acquisition fees related to the sale were $ 21 million for the year ended December 31, 2025. 23 Table of Contents For the three months ended June 30, 2026, the Company recognized $ 25"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 52905,
+            "context": "es in pricing for property and casualty reinsurance and insurance; &#8226; our inability or failure to purchase adequate reinsurance; &#8226; our ability to maintain our financial strength ratings; &#8226; our ability to execute divestitures, obtain regulatory approvals and effectuate strategic transactions, including but not limited to the sale of our commercial retail insurance business globally; &#8226; the failure of our insureds, intermediaries and reinsurers to satisfy their obligations to us; &#8226; declines in our investment values and investment income due to exposure to financial ma"
+          },
+          {
+            "charIndex": 54234,
+            "context": "etain key executive officers and the executives and employees necessary to manage our business; &#8226; the effect of cybersecurity risks, including technology breaches, systems or operational failures by us or our third-party service providers, and regulatory and legislative developments related to cybersecurity on our business; &#8226; our dependence on brokers and agents for business development; &#8226; material variation of analytical models used in decision making from actual results; &#8226; the effects of business continuation risk on our operations; &#8226; the effect on our business"
+          },
+          {
+            "charIndex": 55041,
+            "context": "nsurance laws and provisions in the bye-laws of Group (as defined in Part I below); &#8226; the difficulty investors in Group may have in protecting their interests compared to investors in a U.S. corporation; &#8226; the effects of new regulations, regulatory oversight and our failure to comply with insurance laws and regulations and other regulatory challenges; &#8226; the ability of Bermuda Re (as defined in Part I below) to obtain licenses or admittance in additional jurisdictions to develop its business; &#8226; the ability of Bermuda Re to arrange for security to back its reinsurance imp"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 64306,
+            "context": "FINANCING ACTIVITIES: Common shares issued (redeemed) during the period for share-based compensation, net of expense ( 21 ) ( 19 ) Purchase of treasury shares ( 725 ) ( 400 ) Dividends paid to shareholders ( 158 ) ( 169 ) Cost of shares withheld on settlements of share-based compensation awards ( 24 ) ( 20 ) Net cash provided by (used in) financing activities ( 927 ) ( 608 ) EFFECT OF EXCHANGE RATE CHANGES ON CASH 26 ( 32 ) Net change in cash including balances classified as held-for-sale ( 161 ) 352 Net change in cash balances classified as held-for-sale (1) ( 40 ) — Cash, beginning of perio"
+          },
+          {
+            "charIndex": 111202,
+            "context": "$ 2,568 $ 370 $ 2,091 $ 14 $ 2,474 Total gains or (losses) (realized/unrealized) Included in earnings ( 1 ) ( 12 ) — ( 13 ) ( 3 ) ( 12 ) — ( 15 ) Included in other comprehensive income (loss) — ( 1 ) — ( 1 ) 2 ( 5 ) — ( 3 ) Purchases, issuances and settlements 2 250 — 253 ( 4 ) 353 — 350 Transfers in/(out) of Level 3 and reclassification of securities in/(out) of investment categories — — — — — — — — Ending balance of fixed maturities $ 365 $ 2,428 $ 13 $ 2,806 $ 365 $ 2,428 $ 13 $ 2,806 The amount of total gains or losses for the period included in earnings (or changes in net assets) attribu"
+          },
+          {
+            "charIndex": 112337,
+            "context": "4 $ 2,234 $ 518 $ 1,657 $ 14 $ 2,189 Total gains or (losses) (realized/unrealized) Included in earnings ( 1 ) — — ( 1 ) ( 1 ) — — ( 1 ) Included in other comprehensive income (loss) ( 8 ) ( 3 ) — ( 12 ) ( 15 ) ( 2 ) — ( 17 ) Purchases, issuances and settlements ( 22 ) 114 — 91 ( 67 ) 207 — 140 Transfers in/(out) of Level 3 and reclassification of securities in/(out) of investment categories — — — — — — — — Ending balance of fixed maturities $ 436 $ 1,862 $ 14 $ 2,312 $ 436 $ 1,862 $ 14 $ 2,312 The amount of total gains or losses for the period included in earnings (or changes in net assets) at"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 100105,
+            "context": "to use fair value measures for recognition or disclosure purposes under GAAP and provides a common definition of fair value to be used throughout GAAP. It defines fair value as the price that would be received to sell an asset or paid to transfer a liability in an orderly fashion between market participants at the measurement date. In addition, it establishes a three-level valuation hierarchy for the disclosure of fair value measurements. The valuation hierarchy is based on the transparency of inputs to the valuation of an asset or liability. The level in the hierarchy within which a given fa"
+          },
+          {
+            "charIndex": 100394,
+            "context": "market participants at the measurement date. In addition, it establishes a three-level valuation hierarchy for the disclosure of fair value measurements. The valuation hierarchy is based on the transparency of inputs to the valuation of an asset or liability. The level in the hierarchy within which a given fair value measurement falls is determined based on the lowest level input that is significant to the measurement, with Level 1 being the highest priority and Level 3 being the lowest priority. 15 Table of Contents The levels in the hierarchy are defined as follows: Level 1: Inputs to the v"
+          },
+          {
+            "charIndex": 101051,
+            "context": "nadjusted quoted prices for identical assets or liabilities in an active market; Level 2: Inputs to the valuation methodology include quoted prices for similar assets and liabilities in active markets, and inputs that are observable for the asset or liability, either directly or indirectly, for substantially the full term of the financial instrument; Level 3: Inputs to the valuation methodology are unobservable and significant to the fair value measurement. The Company's fixed maturity and equity securities are managed both internally and on an external basis by independent, professional inves"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-02-26",
+        "reportDate": "2025-12-31",
+        "accessionNumber": "0001095073-26-000006",
+        "primaryDocument": "eg-20251231.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1095073/000109507326000006/eg-20251231.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1095073/000109507326000006/"
+      },
+      "textLength": 655886,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations\" in Part II, Item 7 of our Form 10-K for the year ended December 31, 2024. All comparisons in this discussion are to the corresponding prior year unless otherwise indicated. 40 Table of Contents Recent Developments. Adverse Development Cover Reinsurance Agreements Effective October 1, 2025, the Company, through its subsidiaries Everest Re and Bermuda Re (the &#8220;Ceding Companies&#8221;), entered into adverse development reinsurance agreements with State National Insurance Company, Inc. and MS Transverse Insurance Company (collectively the &#8220;Reinsurers&#8221;). The Reinsurance Agreements are supported on a retrocessional basis by Longtail Re, an affiliate of Stone Ridge Capital. The agreements reinsure potential adverse loss development for accident years 2024 and prior arising from substantially all of the Ceding Companies' North American liabilities within the Insurance and Other segments (&#8220;Subject Business&#8221;) up to a gross limit of $1.2 billion. Certain liabilities are excluded from the subject business, including among others those related to the Asbestos and Environmental (&#8220;A&E&#8221;) reserves included in the Other segment. The carried reserves held for the Subject Business were $5.4 billion as of September 30, 2025 and $5.0 billion as of December 31, 2025, respectively. The adverse development cover (&#8220;ADC&#8221;) is composed of three layers. The first layer is an &#8220;in the money&#8221; layer whereby the ADC attachment point was $1,250 billion below the Company's North American Insurance and Other segment liability subject reserves of $5.4 billion held as of September 30, 2025. The second layer is $700 million in excess of the $5.4 billion. The Company transferred $1,250 million of in-the-money reserves in consideration for the first two layers upon closing of the transaction. The third layer is $500 million, for which the Company paid approximately $122 million of consideration upon closing of the transaction. The Company has a co-participation of $100 million in each of the second and third layers. For more details, see Form 8-K filed with the SEC on October 27, 2025 and the adverse development reinsurance agreements attached thereto and incorporated by reference in Exhibits 10.59 and 10.60. At December 31, 2025, the total covered losses ceded to State National Reinsurer were $1,253 million. The aggregated unexpired limit was $597 million for State National Reinsurer and $400 million for MS Transverse Reinsurer, respectively. Sale of Certain Commercial Retail Insurance Renewal Rights On October 26, 2025, the Company entered into an agreement with American International Group, Inc. (&#8220;AIG&#8221;) to sell the renewal rights for certain lines of commercial retail insurance business written by the Company in the U.S., U.K. and Asia Pacific, for an aggregate purchase price of $252 million. AIG paid the Company $30 million for originating and structuring the transaction. In addition, on October 26, 2025, the Company entered into an agreement with AIG to sell the renewal rights for certain lines of commercial retail insurance business written by the Company in certain countries in the European Union, for an aggregate purchase price of $49 million. Under the agreements, AIG agreed to pay the Company a total of $10 million per month for nine months starting January 1, 2026 for specified transition services. For more details, see Form 8-K filed with the SEC on October 28, 2025 and the Master Transaction Agreements incorporated by reference in Exhibit 10.59. These transactions sharpen the Company's focus on its core global reinsurance business as well as its global wholesale and specialty insurance businesses. The renewal rights of these businesses total an estimated $2 billion of aggregate gross premiums written. 41 Table of Contents Financial Summary. We monitor and evaluate our overall performance based upon financial results. The following table displays a summary of the consolidated net income (loss), ratios and shareholders' equity for the periods indicated: Years Ended December 31, Percentage Increase/(Decrease) (Dollars in millions) 2025 2024 2023 2025/2024 2024/2023 Gross written premiums $ 17,706 $ 18,232 $ 16,637 (2.9) % 9.6 % Net written premiums 15,513 15,814 14,730 (1.9) % 7.4 % REVENUES: Premiums earned $ 15,560 $ 15,187 $ 13,443 2.5 % 13.0 % Net investment income 2,124 1,954 1,434 8.7 % 36.3 % Net gains (losses) on investments (143) 19 (276) NM NM Other income (expense) (45) 121 (14) NM NM Total revenues 17,496 17,281 14,587 1.2 % 18.5 % CLAIMS AND EXPENSES: Incurred losses and loss adjustment expenses 10,859 11,305 8,427 (3.9) % 34.1 % Commission, brokerage, taxes and fees 3,461 3,300 2,952 4.9 % 11.8 % Other underwriting expenses 1,029 938 846 9.7 % 10.9 % Corporate expenses 109 95 73 14.6 % 30.5 % Interest, fees and bond issue cost amortization expense 151 149 134 0.9 % 11.1 % Total claims and expenses 15,609 15,787 12,432 (1.1) % 27.0 % INCOME (LOSS) BEFORE TAXES 1,887 1,493 2,154 26.4 % (30.7) % Income tax expense (benefit) 296 120 (363) NM NM NET INCOME (LOSS) $ 1,591 $ 1,373 $ 2,517 15.9 % (45.4) % RATIOS: Point Change Loss ratio 69.8 % 74.4 % 62.7 % (4.6) 11.7 Commission and brokerage ratio 22.2 % 21.7 % 22.0 % 0.5 (0.3) Other underwriting expense ratio 6.6 % 6.2 % 6.3 % 0.4 (0.1) Combined ratio 98.6 % 102.3 % 90.9 % (3.7) 11.4 At December 31, Percentage Increase/(Decrease) (Dollars in millions, except per share amounts) 2025 2024 2023 2025/2024 2024/2023 Balance sheet data: Total investments and cash $ 45,429 $ 41,531 $ 37,142 9.4 % 11.8 % Total assets 62,514 56,341 49,399 11.0 % 14.1 % Loss and loss adjustment expense reserves 34,312 29,889 24,604 14.8 % 21.5 % Total debt 3,589 3,587 3,385 — % 6.0 % Total liabilities 47,054 42,466 36,197 10.8 % 17.3 % Shareholders' equity 15,461 13,875 13,202 11.4 % 5.1 % Book value per share 379.83 322.97 304.29 17.6 % 6.1 % (NM - not meaningful) (Some amounts may not reconcile due to rounding.) Revenues. Premiums. Gross written premiums decreased by 2.9% to $17.7 billion in 2025, compared to $18.2 billion in 2024, reflecting a $288 million, or 5.7% decrease in our insurance business, a $122 million, or 57.3% decrease in business within the Other segment and a $116 million, or 0.9% decrease in our reinsurance business. The decrease in insurance premiums reflects portfolio actions taken in casualty lines of business partially offset by growth in accident and health and other specialty lines. Gross written premiums within Other decreased by $122 million as this segment generally represents lines of business that have been discontinued. The decrease in reinsurance premiums was primarily due to North America casualty pro rata and casualty excess of loss lines of business, partially offset by an increase in the property and financial lines of business. Net written premiums decreased by 1.9% to $15.5 billion in 2025, compared to $15.8 billion in 2024, primarily driven by overall mix of business. 42 Table of Contents Premiums earned increased by 2.5% to $15.6 billion in 2025, compared to $15.2 billion in 2024. The change in premiums earned relative to net written premiums was primarily the result of timing as the higher base premium written in 2024 is being earned through the 2025 period; premiums are earned ratably over the coverage period whereas written premiums are generally recorded at the initiation of the coverage period. Other Income (Expense). We recorded other expense of $45 million and other income of $121 million in 2025 and 2024, respectively. The change was primarily the result of fluctuations in foreign currency exchange rates, in particular, the movement in the Euro and British Pound Sterling, partially offset by the gain from the sale of the renewal rights. The following table shows the components of other income (expense) for the periods indicated: Years ended December 31, (Dollars in millions) 2025 2024 Mt. Logan cell income $ 7 $ 8 Foreign currency exchange income (expense) (210) 58 Gain on pension plan settlement 27 10 Gain (loss) from sale of renewal rights 127 — Gain (loss) from sale of sports and leisure business — 40 Other 3 6 Total other income (expense) $ (45) $ 121 Claims and Expenses. Incurred Losses and Loss Adjustment Expenses (&#8220;LAE&#8221;). The following table presents our incurred losses and LAE for the periods indicated: Years Ended December 31, (Dollars in millions) Current Year Ratio %/ Pt Change Prior Years Ratio %/ Pt Change Total Incurred Ratio %/ Pt Change 2025 Attritional $ 9,382 60.3 % $ 751 4.8 % $ 10,133 65.1 % Catastrophes 819 5.3 % (94) (0.6) % 726 4.7 % Total segment $ 10,202 65.6 % $ 657 4.2 % $ 10,859 69.8 % 2024 Attritional $ 9,074 59.8 % $ 1,475 9.7 % $ 10,550 69.5 % Catastrophes 893 5.9 % (138) (0.9) % 755 5.0 % Total segment $ 9,967 65.6 % $ 1,337 8.8 % $ 11,305 74.4 % 2023 Attritional $ 7,963 59.2 % $ (5) — % $ 7,958 59.2 % Catastrophes 470 3.5 % — — % 470 3.5 % Total segment $ 8,432 62.7 % $ (5) — % $ 8,427 62.7 % Variance 2025/2024 Attritional $ 308 0.5 pts $ (725) (4.9) pts $ (417) (4.3) pts Catastrophes (73) (0.6) pts 45 0.3 pts (29) (0.3) pts Total segment $ 234 (0.1) pts $ (680) (4.6) pts $ (446) (4.6) pts Variance 2024/2023 Attritional $ 1,112 0.5 pts $ 1,481 9.8 pts $ 2,592 10.3 pts Catastrophes 423 2.4 pts (138) (0.9) pts 285 1.5 pts Total segment $ 1,535 2.9 pts $ 1,342 8.8 pts $ 2,877 11.7 pts (Some amounts may not reconcile due to rounding.) Incurred losses and LAE decreased by 3.9% to $10.9 billion in 2025, compared to $11.3 billion in 2024, primarily due to a decrease in unfavorable development on prior year attritional losses of $725 million and a decrease of $73 million in 43 Table of Contents current year catastrophe losses, partially offset by an increase of $308 million in current year attritional losses and a decrease in favorable development on prior year catastrophe losses of $45 million. The increase in current year attritional losses was mainly due to the strengthening of U.S. casualty reserves. Unfavorable development on prior year attritional losses was $751 million in 2025 compared to unfavorable development of $1.5 billion in 2024. The net unfavorable development on prior year attritional reserves of $751 million in 2025 is comprised of $471 million of unfavorable development on prior years attritional losses from the Insurance segment due to reserve strengthening in U.S. casualty lines of business driven by elevated loss experience in excess casualty and U.S. liability lines primarily on accident years 2022-2024, and $163 million of unfavorable development in our Other segment which was driven by U.S. casualty lines, primarily from our sports and leisure business. In addition, the Reinsurance segment recorded unfavorable development on prior year, primarily related to aviation losses associated with the Russia/Ukraine war and casualty reserves, partially offset by favorable development booked on well-seasoned reserves in the property and mortgage lines. Embedded in the amounts noted above is $122 million of prior year losses related to the ADC. The current year catastrophe losses of $819 million in 2025 related primarily to the 2025 Southern California wildfires ($512 million), Hurricane Melissa ($159 million), the 2025 Australian Storms ($47 million), Myanmar earthquake ($28 million), Typhoon Ragasa ($20 million) and the 2025 U.S. September floods ($19 million), with the remaining losses resulting from various events. The $893 million of current year catastrophe losses in 2024 related primarily to Hurricane Milton ($320 million), Hurricane Helene ($94 million), Hurricane Beryl ($64 million), Hurricane Debby ($56 million), the 2024 European flood Boris ($56 million), the 2024 Baltimore bridge collapse ($55 million), the third quarter 2024 Calgary Alberta storms ($54 million), the 2024 Brazil Floods ($41 million), the 2024 Dubai floods ($32 million), the 2024 Germany floods ($31 million), the 2024 New Caledonia Riots ($31 million) and the 2024 Taiwan earthquake ($27 million), with the remaining losses resulting from various events. For 2025, the favorable development on prior year catastrophe losses of $94 million was mainly related to reserves released related to the 2022 Hurricane Ian event. Catastrophe losses and loss expenses typically have a material effect on our incurred losses and LAE results and can vary significantly from period to period. Losses from natural catastrophes contributed 5.3 percentage points to the combined ratio in 2025, compared with 5.9 percentage points in 2024. Refer to the &#8220;Ratios&#8221; section for loss ratio analysis discussion. Commission, Brokerage, Taxes and Fees. Commission, brokerage, taxes and fees increased by 4.9% to $3.5 billion for the year ended December 31, 2025 compared to $3.3 billion for the year ended December 31, 2024. The increase was primarily due to the impact of the increase in premiums earned and changes in the mix of business. Refer to the &#8220;Ratios&#8221; section for commission and brokerage ratio analysis discussion. Other Underwriting Expenses. Other underwriting expenses were $1.0 billion and $938 million in 2025 and 2024, respectively. The increase in other underwriting expenses was mainly due to the impact of the increase in premiums earned as well as strategic actions taken in insurance operations. Refer to the &#8220;Ratios&#8221; section for other underwriting expense ratio analysis discussion. Corporate Expenses. Corporate expenses, which are general operating expenses that are not allocated to segments, were $109 million and $95 million for the years ended December 31, 2025 and 2024, respectively. The increase in 2025 compared to 2024 was primarily due to an increase in other professional services related to consulting fees for corporate initiatives and an increase in lease rent expenses. Interest, Fees and Bond Issue Cost Amortization Expense. Interest, fees and other bond amortization expense was $151 million and $149 million in 2025 and 2024, respectively. The increase was primarily driven by higher interest costs on the Federal Home Loan Bank of New York (&#8220;FHLBNY&#8221;), partially offset by the change in the floating interest rate related to the Company's outstanding fixed to floating rate long-term subordinated notes, which is reset quarterly per the note agreement. The floating rate was 6.50% as of December 31, 2025, compared to 7.17% as of December 31, 2024. Income Tax Expense (Benefit). Income tax expense was $296 million and $120 million in 2025 and 2024, respectively. An income tax expense/benefit is primarily a function of the geographic location of the Company's pre-tax income and the statutory tax rates in those jurisdictions. The effective tax rate (&#8220;ETR&#8221;) is primarily affected by tax-exempt investment income, foreign tax credits and dividends.",
+        "charRange": [
+          283594,
+          298594
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "risk factors, as well as the other information contained in this report and our other SEC filings. Additional risks and uncertainties not presently known to us or that we currently deem immaterial may also impair our business operations. Should any of these risks materialize, actual results may differ materially from the disclosed information, the trading value of our securities could be negatively impacted and our business, financial condition and results of operations could be materially and adversely affected. UNDERWRITING Our results could be adversely affected by catastrophic events. We are exposed to unpredictable catastrophic events, including, but not limited to, weather-related and other natural catastrophes, as well as acts of terrorism, wars, pandemics, political instability and significant cyber or operational incidents. The frequency and/or severity of some catastrophic events may be impacted in the future by the continued effects of climate change. Secondary perils, such as severe convective storms, may also become increasingly impactful. Climate change and resulting changes in global temperatures, weather patterns and sea levels may both increase the frequency and severity of natural catastrophes and the resulting losses in the future and impact our risk modeling assumptions. We cannot predict the impact that changing climate conditions, if any, may have on our results, operations or our financial condition. Additionally, we cannot predict how legal, regulatory and/or social responses to concerns around global climate change and the resulting impact on various sectors of the economy may impact our business. Any material reduction in our operating results caused by the occurrence of one or more catastrophes could inhibit our ability to pay dividends or to meet our interest and principal payment obligations. By way of illustration, during the past five calendar years, pre-tax catastrophe losses, net of reinsurance, were as follows: Calendar year: Pre-tax net catastrophe losses (Dollars in millions) 2025 $ 726 2024 755 2023 470 2022 1,055 2021 1,135 Our losses from future catastrophic events could exceed our projections. We use projections of possible losses from future catastrophic events of varying types and magnitudes as a strategic underwriting tool. We use these loss projections to estimate our potential catastrophe losses in certain geographic areas and decide on the placement of retrocessional coverage or other actions to limit the extent of potential losses in a given geographic area. These loss projections are estimates, reliant on a mix of quantitative and qualitative processes, and actual losses may exceed the projections by a material amount. Unfavorable loss development may adversely affect our business, financial condition, results of operations or liquidity. We are required to maintain reserves to cover our ultimate liability of losses and LAE for both reported and unreported claims. These reserves are only estimates of what we believe the ultimate settlement and administration of claims will cost based on facts and circumstances known to us and incorporates actuarial and statistical analysis. Loss reserve estimates are reconsidered, as necessary, as experience develops and to reflect other changes in circumstances that may affect our estimate of ultimate loss, and this could potentially result in increases to our reserves. In setting reserves for our reinsurance liabilities, we rely on claims data supplied by our ceding companies and brokers, along with other data that may affect our estimate of ultimate loss and actuarial and statistical analysis to arrive at an estimate of ultimate liability for losses and LAE. The information received from our ceding companies is not always timely or accurate, which can contribute to inaccuracies in our loss projections. For the insurance and reinsurance businesses, ultimate losses may differ materially from our expectations at the time we underwrite the business. Because of the uncertainties that 20 Table of Contents surround our estimates of loss and LAE reserves, we cannot be certain that ultimate losses and LAE payments will not exceed the estimates we make at any given time. For example, for the year ended, December 31, 2025, the Company increased its loss reserves by $657 million, pre-tax and net of reinsurance, primarily driven by net unfavorable development on prior year reserves from elevated loss experience in excess casualty and U.S. liability lines primarily on accident years 2022-2024. Loss experience in these lines of business is very unpredictable and has been exacerbated by social inflation factors such as uncertain legal system outcomes, increased frequency of high-severity claims and third-party litigation funding. If our reserves are deficient in future periods, we may be required to increase loss reserves in the period in which such deficiencies are identified which would cause a charge to our earnings, a reduction of capital and could result in adverse effects on our business, financial condition, results of operation or liquidity. During the past five calendar years, the reserve process resulted in a decrease to our pre-tax net income in 2025 and 2024 and resulted in an increase to our pre-tax net income in 2023, 2022 and 2021: Calendar year: Effect on pre-tax net income (Dollars in millions) 2025 $ 657 decrease 2024 1,337 decrease 2023 5 increase 2022 1 increase 2021 9 increase The difficulty in estimating our reserves is significantly more challenging as it relates to reserving for potential asbestos and environmental (&#8220;A&E&#8221;) liabilities. As of December 31, 2025, 0.6% of our gross reserves were comprised of A&E reserves. A&E liabilities are especially hard to estimate for many reasons, including the long delays between exposure and manifestation of any bodily injury or property damage, difficulty in identifying the source of the asbestos or environmental contamination, long reporting delays and difficulty in properly allocating liability for the asbestos or environmental damage. Legal tactics and judicial and legislative developments affecting the scope of insurers' liability, which can be difficult to predict, also contribute to uncertainties in estimating reserves for A&E liabilities. In addition, since reserve estimates of aggregate loss costs for prior years are sometimes factored into pricing our insurance products, inaccurate reserves can lead to our products not being priced adequately to cover actual losses and related loss expenses in order to generate a profit. If we are unable to or choose not to purchase reinsurance and transfer risk to the reinsurance markets, our net income could be reduced or we could incur a net loss in the event of unusual loss experience. We purchase prospective reinsurance for our insurance and reinsurance operations in order to mitigate the volatility of losses on our financial results. From time to time, market conditions have limited, and in some cases have prevented, insurers and reinsurers from obtaining the types and amounts of reinsurance that they consider adequate for their business needs. There is no guarantee that our desired amounts of reinsurance or retrocessional reinsurance will be available in the marketplace in the future. In the current environment, our ability to renew our current reinsurance or retrocessional reinsurance arrangements or obtain desired amounts of new or replacement coverage on favorable terms may be substantially reduced as a result of the impact of inflation, industry catastrophic losses to reinsurer capital and the appetite for certain lines of business. In addition to capacity risk, the remaining capacity may not be on terms we deem appropriate or acceptable or with companies with whom we want to do business. The percentage of business that we reinsure may vary considerably from year to year, depending on our view of the relationship between cost and expected benefit for the contract period. 2025 2024 2023 2022 2021 Percentage of ceded written premiums to gross written premiums 12.4 % 13.3 % 11.5 % 11.5 % 12.3 % If we are unable to or choose not to renew our current reinsurance or retrocessional reinsurance or purchase new or replacement coverage on favorable terms or at all, the amount of business we are willing to write may be limited or our protection from losses due to large loss events may be materially reduced and our net income could be materially reduced. 21 Table of Contents The failure to accurately assess underwriting risk and establish adequate premium rates could reduce our net income or result in a net loss. Our success depends on our ability to accurately assess the risks associated with the businesses on which the risk is retained. If we fail to accurately assess the risks we retain, we may fail to establish adequate premium rates or contract terms (i.e. limits, deductibles, etc.) to cover our losses and LAE. In future years, insufficient premium rates may result in reserve deficiencies to the extent that higher than expected losses are incurred. This could reduce our net income and even result in a net loss. Losses may arise from events or exposures that are not anticipated when the coverage is priced. In addition to such unanticipated events, we also face the unanticipated expansion of our exposures, particularly in long-tail liability lines. An example of this is the expansion over time of the scope of insurers' legal liability within the mass tort cases, particularly for A&E exposures discussed above. Decreases in pricing for property and casualty reinsurance and insurance could reduce our net income. The worldwide reinsurance and insurance businesses are highly competitive, as well as cyclical by product and market. These cycles, as well as other factors that influence aggregate supply and demand for property and casualty insurance and reinsurance products, are outside of our control. The supply of (re)insurance is driven by prevailing prices and levels of capacity that may fluctuate in response to a number of factors, including large catastrophic losses and investment returns being realized in the insurance industry. Demand for (re)insurance is influenced by underwriting results of insurers and insureds, including catastrophe losses, and prevailing general economic conditions. If any of these factors were to result in a decline in the demand for (re)insurance or an overall increase in (re)insurance capacity, our net income could decrease. Moreover, certain states have enacted laws that require a property and casualty insurer to participate in assigned risk plans, reinsurance facilities, joint underwriting associations and other residual market plans. U.S. state regulators also require that admitted insurers offer property and casualty coverage to all risks in that market and often restrict an insurer's ability to charge the price it might otherwise charge or restrict an insurer's ability to offer or enforce specific policy deductibles. In these markets, we may be compelled to underwrite business at lower than desired rates or accept additional risk not contemplated in our existing rates, participate in the operating losses of residual market plans or pay assessments to fund operating deficits of state-sponsored funds, which could lead to lower than anticipated profitability. The effects of emerging claim and coverage issues on our business are uncertain. As industry practices and legislative, regulatory, judicial, social, financial, technological and other environmental conditions change, unexpected and unintended issues related to claims and coverage may emerge. These issues may adversely affect our business by either extending coverage beyond our underwriting intent or by increasing the frequency and severity of claims. Examples of emerging claims and coverage issues include, but are not limited to: &#8226; judicial expansion of policy coverage and a greater propensity to grant claimants more favorable amounts and the impact of new theories of liability; &#8226; plaintiffs targeting property and casualty insurers in purported class action litigation relating to claims-handling and other practices; &#8226; social inflation trends, including higher and more frequent claims, higher awards in favor of plaintiffs and increases in the value of claims due to third-party litigation funding; &#8226; medical developments that link health issues to particular causes, resulting in liability claims; &#8226; claims relating to unanticipated consequences of current or new technologies, including cyber security-related risks; and &#8226; claims relating to potentially changing climate conditions. In some instances, these emerging issues may not become apparent for some time after we have issued the affected insurance policies. As a result, the full extent of liability under our insurance or reinsurance contracts may not be known for many years after issuance. 22 Table of Contents FINANCIAL A decline in our financial strength ratings could adversely affect our standing among cedents and broker partners and our ability to grow premiums and earnings. Our active insurance company subsidiaries currently hold financial strength ratings assigned by third-party rating agencies which assess and rate the claims paying ability and financial strength of insurers and reinsurers. Financial strength ratings are used by cedents, agents and brokers to assess the financial strength and credit quality of reinsurers and insurers. As noted above, each of A.M. Best, S&P and Moody's has assigned a negative outlook to our financial strength ratings. A downgrade or withdrawal of any of these ratings could adversely affect our ability to market our reinsurance and insurance products, our ability to compete with other reinsurers and insurers and our ability to write new business, which in turn could impact our profitability and results. Consistent with market practice, much of our treaty reinsurance business allows the ceding company to terminate the contract or seek collateralization of our obligations in the event of a rating downgrade below a certain threshold. The termination provision would generally be triggered if a financial strength rating fell below A.M. Best's or S&P A- rating level. To a lesser extent, Everest Re also has modest exposure to reinsurance contracts that contain provisions for obligatory funding of outstanding liabilities in the event of a rating agency downgrade. Those provisions would also generally be triggered if Everest Re's rating fell below A.M. Best's or S&P A- rating level. See also ITEM 1, &#8220;Financial Strength Ratings&#8221;. A decline in our debt ratings could increase our borrowing costs and adversely affect our ability to access capital markets at attractive rates. If our debt ratings are downgraded, we could incur higher borrowing costs, higher cost of capital, increased collateral requirements and our ability to",
+        "charRange": [
+          188846,
+          203846
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 294924,
+            "context": "d reserves in the property and mortgage lines. Embedded in the amounts noted above is $122 million of prior year losses related to the ADC. The current year catastrophe losses of $819 million in 2025 related primarily to the 2025 Southern California wildfires ($512 million), Hurricane Melissa ($159 million), the 2025 Australian Storms ($47 million), Myanmar earthquake ($28 million), Typhoon Ragasa ($20 million) and the 2025 U.S. September floods ($19 million), with the remaining losses resulting from various events. The $893 million of current year catastrophe losses in 2024 related primarily"
+          },
+          {
+            "charIndex": 317221,
+            "context": "e war and casualty reserves, partially offset by favorable development booked on well-seasoned reserves in the property and mortgage lines. The current year catastrophe losses of $768 million in 2025 related primarily to the 2025 Southern California wildfires ($502 million), Hurricane Melissa ($143 million), the 2025 Australian Storms ($47 million), Myanmar earthquake ($20 million) and Typhoon Ragasa ($20 million), with the remaining losses resulting from various events. The $772 million of current year catastrophe losses in 2024 related primarily to Hurricane Milton ($275 million), Hurricane"
+          },
+          {
+            "charIndex": 323015,
+            "context": ". liability lines primarily on accident years 2022-2024. The current year catastrophe losses of $41 million primarily related to Hurricane Melissa ($16 million), the first quarter 2025 Myanmar earthquake ($8 million) and the 2025 Southern California wildfires ($7 million), with the remaining losses resulting from various events. The $120 million of current year catastrophe losses in 2024 primarily related to Hurricane Milton ($44 million), Hurricane Helene ($29 million), Hurricane Beryl ($10 million) and the third quarter 2024 Calgary Alberta storms ($9 million), with the remaining losses resu"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 92868,
+            "context": "ncipal Accountant Fees and Services 69 PART IV Item 15. Exhibits and Financial Statement Schedules 69 Table of Contents Safe Harbor Disclosure This report contains forward-looking statements within the meaning of the United States Private Securities Litigation Reform Act of 1995 and other U.S. federal securities laws. We intend these forward-looking statements to be covered by the safe harbor provisions for forward-looking statements in the federal securities laws. In some cases, these statements can be identified by the use of forward-looking words such as &#8220;may&#8221;, &#8220;will&#8221"
+          },
+          {
+            "charIndex": 132497,
+            "context": "ss also covers property and liability exposures related to construction sites. &#8226; Professional Lines provides protection for losses arising from employment, practices and coverage of risks, such as director's and officer's liability, employment litigation liability, medical malpractice, professional indemnity, environmental liability, omission of insurance and cyber liability. 7 Table of Contents &#8226; Credit and Surety provides protection for losses arising from insurance products, offering payments in the event of default from a borrower. Losses may arise from surety bonds issued by i"
+          },
+          {
+            "charIndex": 139351,
+            "context": "e positions and make changes, if appropriate. The Company continually reviews its internal processing, communications and analytics, seeking to enhance the management of its A&E exposures, in particular with respect to changes in asbestos claims and litigation. Loss Reserves. Reserves for Unpaid Property and Casualty Losses and LAE. Significant periods of time may elapse between the occurrence of an insured loss, the reporting of the loss to the (re) insurer, the payment of that loss by the insurer and subsequent payments to the insurer by the reinsurer. To recognize liabilities for unpaid los"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 201002,
+            "context": "re not limited to: &#8226; judicial expansion of policy coverage and a greater propensity to grant claimants more favorable amounts and the impact of new theories of liability; &#8226; plaintiffs targeting property and casualty insurers in purported class action litigation relating to claims-handling and other practices; &#8226; social inflation trends, including higher and more frequent claims, higher awards in favor of plaintiffs and increases in the value of claims due to third-party litigation funding; &#8226; medical developments that link health issues to particular causes, resulting in"
+          },
+          {
+            "charIndex": 240729,
+            "context": "e reasonably related to that person's interest as a shareholder. Shareholders' Suits. The rights of shareholders under Bermuda law are not as extensive as the rights of shareholders under legislation or judicial precedent in many U.S. jurisdictions. Class actions and derivative actions are generally not available to shareholders under the laws of Bermuda. However, the Bermuda courts ordinarily would be expected to follow English case law precedent, which would permit a shareholder to bring an action in the name of Group to remedy a wrong done 30 Table of Contents to Group where the act complai"
+          },
+          {
+            "charIndex": 241643,
+            "context": "proval of a greater percentage of Group's shareholders than actually approved it. The winning party in an action of this type generally would be able to recover a portion of attorneys' fees incurred in connection with the action. Under Delaware law, class actions and derivative actions generally are available to stockholders for breach of fiduciary duty, corporate waste and actions not taken in accordance with applicable law. In these types of actions, the court has discretion to permit the winning party to recover its attorneys' fees. Limitation of Liability of Directors and Officers. Group's"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 126905,
+            "context": "losses, stabilize financial ratios and obtain additional underwriting capacity. All the Company's reinsurance and retrocessional agreements transfer significant reinsurance risk and therefore, are accounted for as reinsurance in accordance with GAAP guidance. For the year ended December 31, 2025, the Company's Reinsurance segment wrote $12.8 billion of gross written premiums. Reinsurance business written directly through the broker reinsurance market represented $11.6 billion or 90.2% of the segment's premium and $1.3 billion or 9.8% was written directly with ceding companies. Our Reinsurance"
+          },
+          {
+            "charIndex": 185070,
+            "context": "Economic Transition Adjustment&#8221; (the &#8220;ETA&#8221;), which is intended to provide a fair and equitable transition into the new tax regime, and results in a deferred tax benefit for the Company. However, on January 15, 2025, the OECD issued guidance related to &#8220;deferred tax assets arising from tax benefits provided by General Government&#8221; restricting the utilization of those deferred tax benefits against the computation of its Pillar Two Global Minimum Taxes to approximately 20% of the originally calculated amounts and only for a grace period of two years through 2026. If t"
+          },
+          {
+            "charIndex": 185491,
+            "context": "gainst the computation of its Pillar Two Global Minimum Taxes to approximately 20% of the originally calculated amounts and only for a grace period of two years through 2026. If the Bermuda Ministry of Finance amends the 2023 Act in response to this guidance, the exact impact of any such amendments is uncertain but there is a risk that it results in a reduction in the Company's Deferred Tax Assets. Under Bermuda law through 2024, no income, withholding or capital gains taxes are imposed upon Group and its Bermuda subsidiaries. Non-Bermuda branches of Bermuda subsidiaries are subject to local t"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 155628,
+            "context": "contract obligations based on A.M. Best's comprehensive quantitative and qualitative evaluation of a company's balance sheet strength, operating performance and business profile. A.M. Best affirmed these ratings on October 29, 2025, and revised the outlook from stable to negative. S&P states that the &#8220;A+&#8221;/ &#8220;A&#8221; ratings are assigned to those insurance companies which, in its opinion, have strong financial security characteristics with respect to their ability to pay under their insurance policies and contracts in accordance with their terms. S&P affirmed all ratings on J"
+          },
+          {
+            "charIndex": 156011,
+            "context": "ies which, in its opinion, have strong financial security characteristics with respect to their ability to pay under their insurance policies and contracts in accordance with their terms. S&P affirmed all ratings on January 28, 2025, and changed the outlook from stable to negative. Moody's states that an &#8220;A1&#8221; rating is assigned to companies that, in their opinion, offer upper-medium grade security and are subject to low credit risk. Moody's affirmed these ratings on October 28, 2025, and revised the outlook from stable to negative. Subsidiaries other than Everest Re and Bermuda Re"
+          },
+          {
+            "charIndex": 156278,
+            "context": "le to negative. Moody's states that an &#8220;A1&#8221; rating is assigned to companies that, in their opinion, offer upper-medium grade security and are subject to low credit risk. Moody's affirmed these ratings on October 28, 2025, and revised the outlook from stable to negative. Subsidiaries other than Everest Re and Bermuda Re may not be rated by some or any rating agencies given that such ratings are not considered essential by the individual subsidiary's customers because of the limited nature of the subsidiary's operations or because the subsidiaries are newly established and have not y"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 452990,
+            "context": "evaluates the current market and interest rate environment as well as specific issuer information. Generally, a change in a security's value caused by a change in the market, interest rate or foreign exchange environment does not constitute a credit impairment, but rather a non-credit related decline in fair value. Non-credit related declines in fair value are recorded as unrealized losses in accumulated other comprehensive income (loss). If the Company intends to sell the impaired security or is more likely than not to be required to sell the security before an anticipated recovery in value,"
+          },
+          {
+            "charIndex": 453371,
+            "context": "ized losses in accumulated other comprehensive income (loss). If the Company intends to sell the impaired security or is more likely than not to be required to sell the security before an anticipated recovery in value, the Company records the entire impairment in net gains (losses) on investments in the Company's consolidated statements of operations and comprehensive income (loss). If the Company determines that the decline is credit related and the Company does not have the intent to sell the security; and it is more likely than not that the Company will not have to sell the security before"
+          },
+          {
+            "charIndex": 454026,
+            "context": "redit allowance equal to the estimated credit loss and is recorded in net gains (losses) on investments in the Company's consolidated statements of operations and comprehensive income (loss). The determination of credit related or non-credit related impairment is first based on an assessment of qualitative factors, which may determine that a qualitative analysis is sufficient to support the conclusion that the present value of expected cash flows equals or exceeds the security's amortized cost basis. However, if the qualitative assessment suggests a credit loss may exist, a quantitative assess"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 94722,
+            "context": "es in pricing for property and casualty reinsurance and insurance; &#8226; our inability or failure to purchase adequate reinsurance; &#8226; our ability to maintain our financial strength ratings; &#8226; our ability to execute divestitures, obtain regulatory approvals and effectuate strategic transactions, including the sale of the renewal rights for our commercial retail insurance business; &#8226; the failure of our insureds, intermediaries and reinsurers to satisfy their obligations to us; &#8226; decline in our investment values and investment income due to exposure to financial markets"
+          },
+          {
+            "charIndex": 95938,
+            "context": "U.S. or foreign governments; &#8226; our ability to attract and retain key executive officers and the executives and employees necessary to manage our business; &#8226; the effect of cybersecurity risks, including technology breaches or failure, and regulatory and legislative developments related to cybersecurity on our business; &#8226; our dependence on brokers and agents for business development; &#8226; material variation of analytical models used in decision making from actual results; &#8226; the effects of business continuation risk on our operations; &#8226; the effect on our business"
+          },
+          {
+            "charIndex": 96781,
+            "context": "bye-laws of Group (as defined in Part I below); &#8226; the difficulty investors in Group may have in protecting their interests compared to investors in a U.S. corporation; &#8226; our failure to comply with insurance laws and regulations and other regulatory challenges; &#8226; the ability of Bermuda Re (as defined in Part I below) to obtain licenses or admittance in additional jurisdictions to develop its business; &#8226; the ability of Bermuda Re to arrange for security to back its reinsurance impacting its ability to write reinsurance; &#8226; changes in international and U.S. tax laws;"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 121054,
+            "context": "programs primarily written prior to 2012 and certain discontinued insurance and reinsurance coverage classes. The Other segment does not generally sell insurance or reinsurance products but is responsible for the management of existing policies and settlement of related losses. These segment presentation changes have been reflected retrospectively. The Reinsurance segment writes worldwide property and casualty reinsurance and specialty lines of business, on both a treaty and facultative basis, through reinsurance brokers, as well as directly with ceding companies. Business is written in the U"
+          },
+          {
+            "charIndex": 136966,
+            "context": "al claims staff (the &#8220;Claims staff&#8221;), many of whom have insurance and legal professional qualifications. Their responsibilities include reviewing initial loss reports, analyzing coverage issues, evaluating and reserving claims and paying settlements. When appropriate, the Claims staff engage external professional advisors such as legal counsel, loss adjusters and engineers to support the effective management of claims. Claims are allocated to the Claims staff according to their expertise and experience and most specialize in particular product segments and geographies. Some insuran"
+          },
+          {
+            "charIndex": 191876,
+            "context": "inancial condition, results of operations or liquidity. We are required to maintain reserves to cover our ultimate liability of losses and LAE for both reported and unreported claims. These reserves are only estimates of what we believe the ultimate settlement and administration of claims will cost based on facts and circumstances known to us and incorporates actuarial and statistical analysis. Loss reserve estimates are reconsidered, as necessary, as experience develops and to reflect other changes in circumstances that may affect our estimate of ultimate loss, and this could potentially resu"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 86642,
+            "context": "5073 eg:InsuranceMember 2024-12-31 0001095073 us-gaap:AllOtherSegmentsMember 2024-12-31 0001095073 eg:ReinsuranceMember 2023-12-31 0001095073 eg:InsuranceMember 2023-12-31 0001095073 us-gaap:AllOtherSegmentsMember 2023-12-31 0001095073 eg:PropertyAndLiabilityInsuranceMember 2025-01-01 2025-12-31 0001095073 eg:PropertyAndLiabilityInsuranceMember 2024-01-01 2024-12-31 0001095073 eg:PropertyAndLiabilityInsuranceMember 2023-01-01 2023-12-31 Table of Contents UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 10-K R Annual Report Pursuant to Section 13 or 15(d) of the Secu"
+          },
+          {
+            "charIndex": 86714,
+            "context": "mber 2024-12-31 0001095073 eg:ReinsuranceMember 2023-12-31 0001095073 eg:InsuranceMember 2023-12-31 0001095073 us-gaap:AllOtherSegmentsMember 2023-12-31 0001095073 eg:PropertyAndLiabilityInsuranceMember 2025-01-01 2025-12-31 0001095073 eg:PropertyAndLiabilityInsuranceMember 2024-01-01 2024-12-31 0001095073 eg:PropertyAndLiabilityInsuranceMember 2023-01-01 2023-12-31 Table of Contents UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 10-K R Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 For the fiscal year ended December 31 , 2025"
+          },
+          {
+            "charIndex": 86786,
+            "context": ":InsuranceMember 2023-12-31 0001095073 us-gaap:AllOtherSegmentsMember 2023-12-31 0001095073 eg:PropertyAndLiabilityInsuranceMember 2025-01-01 2025-12-31 0001095073 eg:PropertyAndLiabilityInsuranceMember 2024-01-01 2024-12-31 0001095073 eg:PropertyAndLiabilityInsuranceMember 2023-01-01 2023-12-31 Table of Contents UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 10-K R Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 For the fiscal year ended December 31 , 2025 &#168; Transition Report Pursuant to Section 13 or 15(d) of the Securit"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "Revenues",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 3961000000,
+          "accn": "0001095073-26-000032",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-03",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 8029000000,
+          "accn": "0001095073-26-000032",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-03"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 4068000000,
+          "accn": "0001095073-26-000022",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-05",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 17496000000,
+          "accn": "0001095073-26-000006",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-26",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 4319000000,
+          "accn": "0001095073-25-000086",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-31",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 13073000000,
+          "accn": "0001095073-25-000086",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-31"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 4491000000,
+          "accn": "0001095073-26-000032",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-03",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 4491000000,
+          "accn": "0001095073-25-000061",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-01"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 14.22,
+          "accn": "0001095073-26-000032",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-03",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 30.45,
+          "accn": "0001095073-26-000032",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-03"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 16.21,
+          "accn": "0001095073-26-000022",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-05",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 37.8,
+          "accn": "0001095073-26-000006",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-26",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 6.09,
+          "accn": "0001095073-25-000086",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-31",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 27.06,
+          "accn": "0001095073-25-000086",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-31"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 16.1,
+          "accn": "0001095073-26-000032",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-03",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 16.1,
+          "accn": "0001095073-25-000061",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-01"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 559000000,
+          "accn": "0001095073-26-000032",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-03",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 1213000000,
+          "accn": "0001095073-26-000032",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-03"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 653000000,
+          "accn": "0001095073-26-000022",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-05",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 1591000000,
+          "accn": "0001095073-26-000006",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-26"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 255000000,
+          "accn": "0001095073-25-000086",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-31",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 1145000000,
+          "accn": "0001095073-25-000086",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-31"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 680000000,
+          "accn": "0001095073-26-000032",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-03",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 680000000,
+          "accn": "0001095073-25-000061",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-01"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": null,
+      "points": []
+    }
+  },
+  "companyMetrics": {
+    "ticker": "EG",
+    "name": "EVEREST GROUP, LTD.",
+    "sector": "Fire, Marine & Casualty Insurance",
+    "pe": 7.44,
+    "pb": 0.96,
+    "ret3m": 5.1659,
+    "ret6m": 12.1487,
+    "roe": 10.31,
+    "debtEquity": 0.003,
+    "sentiment": 0.696,
+    "analyst": 66.7,
+    "beta": 0.26014856
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "1 Value Stock to Research Further and 2 We Question",
+        "url": "https://finnhub.io/api/news?id=f0fcc74a6b651b3f617906734a806abb0025a2ee6d0ed4b6e776b7d2033db12e",
+        "source": "Yahoo",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "Everest (EG) Q2 2026 Earnings Call Transcript",
+        "url": "https://finnhub.io/api/news?id=d24331de0089f66ec3e8dddc914dfb73a8cf39e795fa194620dccbb2a00fd5ff",
+        "source": "Yahoo",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "Everest Announces Agreement to Sell Mexico Insurance Operations to Fairfax",
+        "url": "https://finnhub.io/api/news?id=0652d724b5594b86b6f25ec5099eac44051feb00f3e8808320efc4ea52a8cb2d",
+        "source": "Yahoo",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "Everest Agrees To Sell Mexico Insurance Business To Fairfax Financial; No Financial Terms Disclosed",
+        "url": "https://finnhub.io/api/news?id=906f35a79e15a752c521d641e58ec96610de6aeec8da95f2262b1578c4aa47b2",
+        "source": "Benzinga",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "Palomar Q2 Earnings Top on Higher Premiums, Investment Income Rise Y/Y",
+        "url": "https://finnhub.io/api/news?id=d2d92024359ad3afd5d37a670026818c555abaeafeeaf050a1c5b4aa6a2f79c7",
+        "source": "Yahoo",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "AIZ Q2 Earnings Beat Estimates on Lifestyle and Housing Strength",
+        "url": "https://finnhub.io/api/news?id=a3bbbcb2538110d5c291c08bf473c498f3871ece2d209e1a0aa80590e54a1210",
+        "source": "Yahoo",
+        "date": "2026-08-05"
+      }
+    ],
+    "cachedAt": "2026-08-11T05:50:54.292Z"
+  }
+}

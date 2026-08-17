@@ -1,0 +1,650 @@
+{
+  "ticker": "NXPI",
+  "entityName": "NXP Semiconductors N.V.",
+  "cik": "0001413447",
+  "generatedAt": "2026-08-11T18:22:30.095Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-07-28",
+        "reportDate": "2026-06-28",
+        "accessionNumber": "0001413447-26-000045",
+        "primaryDocument": "nxpi-20260628.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000045/nxpi-20260628.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000045/"
+      },
+      "textLength": 126249,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations&#8221;. At June 28, 2026, other than for changes disclosed in the &#8220;Notes to Condensed Consolidated Financial Statements&#8221; and &#8220;Liquidity and Capital Resources&#8221; in this Quarterly Report, there have been no other material changes to our expected working and other capital requirements described in our Annual Report on Form 10-K for the fiscal year ended December 31, 2025. Cash flows Our cash and cash equivalents during the first six months of 2026 decreased by $41 million (excluding the effect of changes in exchange rates on our cash position of $4 million) as follows: ($ in millions, unless otherwise stated) YTD 2026 YTD 2025 Net cash provided by (used for) operating activities 1,653 1,344 Net cash provided by (used for) investing activities 271 (1,108) Net cash provided by (used for) financing activities (1,965) (364) Increase (decrease) in cash and cash equivalents (41) (128) Cash Flow from Operating Activities For the first six months of 2026, our operating activities provided $1,653 million in cash. This was primarily the result of net income of $1,915 million, adjustments to reconcile the net income of $(79) million and changes in operating assets and liabilities of $(183) million. Adjustments to net income (loss) include non-cash items, such as gain on sale of assets of $(627 million), depreciation and amortization of $363 million, share-based compensation of $214 million and changes in deferred taxes (benefit) of $(41 million). Changes in operating assets and liabilities were primarily driven by: - Increase in other non-current assets of $230 million due to payments to secure production supply (driven primarily by payments of $243 million to support the long-term capacity infrastructure of VSMC) - Increase in receivables and other current assets of $101 million due to the related timing of cash collection + Increase in accounts payable and other liabilities of $95 million primarily due to a higher corporate tax accrual ($91 million) mainly driven by the capital gains tax on the divestiture of the MEMS Sensors business + Decrease in inventories of $53 million due to higher sales volumes For the first six months of 2025 our operating activities provided $1,344 million in cash. This was primarily the result of net income of $954 million, adjustments to reconcile the net income of $647 million and changes in operating assets and liabilities of $(271) million. Adjustments to net income (loss) include non-cash items, such as depreciation and amortization of $416 million, share-based compensation of $244 million and changes in deferred taxes of $(24) million. Changes in operating assets and liabilities were primarily driven by: - Increase in receivables and other current assets of $135 million driven by the change in the insurance reimbursements relating to the Motorola Personal Injury Lawsuits - Increase in inventories of $84 million in order to align inventory on hand with expected demand - Decrease in accounts payable and other liabilities of $77 million as a result of lower purchase volumes and timing related to payments Cash Flow from Investing Activities Net cash proceeds from investing activities of $271 million for the first six months of 2026 was primarily driven by: + Proceeds of $878 million (net of adjustments) from the sale of our MEMS Sensors business - Purchase of investments of $381 million (driven primarily by the capital contributions of $316 million into VSMC) - Capital expenditures of $148 million - Purchase of identified intangible assets of $79 million, including EDA (electronic design automation) Net cash used for investing activities amounted to $1,108 million for the first six months of 2025 was primarily driven by: - Purchase of interests in business (net of cash acquired) of $679 million (acquisition of TTTech Auto) - Capital expenditures of $222 million - Purchase of investments of $146 million for the (driven primarily by the capital contributions of $70 million into VSMC and approximately $32 million into ESMC) - Purchase of identified intangible assets of $62 million, including EDA (electronic design automation) 30 Cash Flow from Financing Activities Net cash used for financing activities of $1,965 million for the first six months of 2026 was primarily driven by: - Repayment of long-term debt of $1,251 million - Dividend payments to common stockholders of $512 million - Purchase of treasury shares and restricted stock unit holdings of $206 million Net cash used for financing activities of $364 million for the first six months of 2025 was primarily driven by: - Repayment of commercial paper notes of $1,461 million - Dividend payments to common stockholders of $515 million - Purchase of treasury shares and restricted stock unit holdings of $507 million - Repayment of long-term debt of $500 million, partially offset by + Proceeds from the issuance of commercial paper notes of $2,211 million + Proceeds from issuance of long-term debt of $370 million + Proceeds from the issuance of common stock through stock plans of $39 million 31 Information Regarding Guarantors of NXP (unaudited) Summarized Combined Financial Information for Guarantee of Securities of Subsidiaries All debt instruments are guaranteed, fully and unconditionally, jointly and severally, by NXP Semiconductors N.V. and issued or guaranteed by NXP USA, Inc., NXP B.V. and NXP LLC, (together, the &#8220;Subsidiary Obligors&#8221; and together with NXP Semiconductors N.V., the &#8220;Obligor Group&#8221;). Other than the Subsidiary Obligors, none of the Company's subsidiaries (together the &#8220;Non-Guarantor Subsidiaries&#8221;) guarantee the Notes. The Company consolidates the Subsidiary Obligors in its Consolidated Financial Statements and each of the Subsidiary Obligors are wholly owned subsidiaries of the Company. All of the existing guarantees by the Company rank equally in right of payment with all of the existing and future senior indebtedness of the Obligor Group. There are no significant restrictions on the ability of the Obligor Group to obtain funds from respective subsidiaries by dividend or loan. The following tables present summarized financial information of the Obligor Group on a combined basis, with intercompany balances and transactions between entities of the Obligor Group eliminated and investments and equity in the earnings of the Non-Guarantor Subsidiaries excluded. The Obligor Group's amounts due from, amounts due to, and intercompany transactions with Non-Guarantor Subsidiaries have been disclosed below the table, when material. Summarized Statements of Income For the six months ended ($ in millions) June 28, 2026 Revenue 3,724 Gross Profit 1,798 Operating income 1,129 Net income 530 Summarized Balance Sheets As of ($ in millions) June 28, 2026 December 31, 2025 Current assets 3,011 3,182 Non-current assets 12,345 12,461 Total assets 15,356 15,643 Current liabilities 1,797 2,044 Non-current liabilities 10,351 11,348 Total liabilities 12,148 13,392 Obligor's Group equity 3,208 2,251 Total liabilities and Obligor's Group equity 15,356 15,643 NXP Semiconductors N.V. is the head of a fiscal unity for the corporate income tax and VAT that contains the most significant Dutch wholly owned group companies. The Company is therefore jointly and severally liable for the tax liabilities of the tax entity as a whole, and as such the income tax expense of the Dutch fiscal unity has been included in the net income of the Obligor Group. The financial information of the Obligor Group includes sales executed through a Non-Guarantor Subsidiary single-billing entity as a sales agent on behalf of an entity in the Obligor Group. The Obligor Group has sales to non-guarantors (for the six months ended June 28, 2026: $347 million). The Obligor Group has amounts due from equity financing (June 28, 2026: $7,380 million; December 31, 2025: $5,520 million) and due to debt financing (June 28, 2026: $3,960 million; December 31, 2025: $2,695 million) with non-guarantor subsidiaries. 32 Use of Certain Non-GAAP Financial Measures Non-GAAP Financial Measures In addition to providing financial information on a basis consistent with U.S. generally accepted accounting principles (&#8220;US GAAP&#8221; or &#8220;GAAP&#8221;), NXP also provides selected financial measures on a non-GAAP basis which are adjusted for specified items. The adjustments made to achieve these non-GAAP financial measures or the non-GAAP financial measures as specified are described below, including the usefulness to management and investors. In managing NXP's business on a consolidated basis, management develops an annual operating plan, which is approved by our Board of Directors, using non-GAAP financial measures. When measuring performance against this plan, management considers the actual or potential impacts on these non-GAAP financial measures from cost&#8209;reduction actions with the goal of increasing our gross margin and operating margin, as well as in assessing appropriate levels of research and development efforts. In addition, management relies upon these non-GAAP financial measures when making decisions about product spending, administrative budgets, and other operating expenses. We believe that these non-GAAP financial measures, when coupled with the GAAP results and the reconciliations to corresponding GAAP financial measures, provide a more complete understanding of the Company's results of operations and the factors and trends affecting NXP's business. We believe that they enable investors to make additional comparisons of our operating results, to assess our liquidity and capital position and to analyze financial performance excluding the effect of expenses unrelated to core operating performance, certain non-cash expenses and share-based compensation expense, which may obscure trends in NXP's underlying performance. This information also enables investors to compare financial results between periods where certain items may vary independent of business performance and allow for greater transparency with respect to key metrics used by management. The presentation of these and other similar items in NXP's non-GAAP financial results should not be interpreted as implying that these items are non-recurring, infrequent, or unusual. These non-GAAP financial measures are provided in addition to, and not as a substitute for, or superior to, measures of financial performance prepared in accordance with GAAP. Non-GAAP Adjustment or Measure Definition Usefulness to Management and Investors Purchase price accounting effects Purchase price accounting (\"PPA\") effects reflect the fair value adjustments impacting acquisition accounting and other acquisition adjustments charged to the Consolidated Statement of Operations. This typically relates to inventory, property, plant and equipment, as well as intangible assets, such as developed technology and marketing and customer relationships acquired. The PPA effects are recorded within both cost of revenue and operating expenses in our US GAAP financial statements. These charges are recorded over the estimated useful life of the related acquired asset and thus are generally recorded over multiple years. We believe that excluding these charges related to fair value adjustments for purposes of calculating certain non-GAAP measures allows the users of our financial statements to better understand the historic and current cost of our products, our gross margin, our operating costs, our operating margin, and also facilitates comparisons to peer companies. Restructuring Restructuring charges are costs associated with a restructuring plan and are primarily related to employee severance and benefit arrangements. Charges related to restructuring are recorded within both cost of revenue and operating expenses in our US GAAP financial statements We exclude restructuring charges, including any adjustments to charges recorded in prior periods, for purposes of calculating certain non-GAAP measures because these costs do not reflect our core operating performance. These adjustments facilitate a useful evaluation of our core operating performance and comparisons to past operating results and provide investors with additional means to evaluate expense trends. Share-based compensation Share-based compensation consists of incentive expense granted to eligible employees in the form of equity-based instruments. Charges related to share-based compensation are recorded within both cost of revenue and operating expenses in our US GAAP financial statements. We exclude charges related to share-based compensation for purposes of calculating certain non-GAAP measures because we believe these charges, which are non-cash, are not representative of our core operating performance as they can fluctuate from period to period based on factors that are not within our control, such as our stock price on the dates share-based grants are issued. We believe these adjustments provide investors with a useful view, through the eyes of management, of our core business model, how management currently evaluates core operational performance, and additional means to evaluate expense trends. Other incidentals Other incidentals consist of certain items which may be non-recurring, unusual, infrequent or directly related to an event that is distinct and non-reflective of the Company's core operating performance. These may include such items as process and product transfer costs, certain charges related to acquisitions and divestitures, litigation and legal settlements, costs associated with the exit of a product line, factory or facility, environmental or governmental settlements, and other items of similar nature. We exclude these certain items which may be non-recurring, unusual, infrequent or directly related to an event that is distinct and non-reflective of the Company's core operating performance for purposes of calculating certain non-GAAP measures. These adjustments facilitate a useful evaluation of our core operating performance and comparisons to past operating results and provide investors with additional means to evaluate expense trends. 33 Non-GAAP Adjustment or Measure Definition Usefulness to Management and Investors Non-GAAP Provision for income taxes Non-GAAP provision for income taxes is NXP's GAAP provision for income taxes adjusted for the income tax effects of the adjustments to our GAAP measure, including PPA effects, restructuring costs, share-based compensation, other incidental items and certain other adjustments to financial income (expense) items. Additionally, adjustments are made for the income tax effect of any discrete items that occur in the interim period. Discrete items primarily relate to unexpected tax events that may occur as these amounts cannot be forecasted (e.g., the impact of changes in tax law and/or rates, changes in est",
+        "charRange": [
+          94539,
+          109539
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "risk factors previously disclosed in our Annual Report on Form 10-K for the year ended December 31, 2025. Item 2. Unregistered Sales of Equity Securities and Use of Proceeds Purchases of Equity Securities by the Issuer and Affiliated Purchasers Our Board has approved the purchase of shares from participants in NXP's equity programs to satisfy participants' tax withholding obligations and this authorization will remain in effect until terminated by the Board. In August 2024, the Board approved the repurchase of shares up to a maximum of $2 billion (the \"2024 Share Repurchase Program\"). At June 28, 2026, there was approximately $1.4 billion remaining under the 2024 Share Repurchase Program. The following share repurchase activity occurred under these programs during the three months ended June 28, 2026: Period Total Number of Shares Purchased Average Price Paid per Share Number of Shares Purchased as Part of Publicly Announced Buy Back Programs Maximum Number of Shares That May Yet Be Purchased Under the Buy Back Program Number of Shares Purchased as Trade for Tax (1) March 30, 2026 &#8211; May 3, 2026 187,149 $217.39 180,804 4,896,361 6,345 May 4, 2026 &#8211; May 31, 2026 109,586 $302.88 107,163 4,397,465 2,423 June 1, 2026 &#8211; June 28, 2026 97,303 307.13 92,868 4,998,049 4,435 Total 394,038 380,835 13,203 (1) Reflects shares surrendered by participants to satisfy tax withholding obligations in connection with the Company's equity programs. Item 5. Other Information Rule 10b5-1 Trading Plans None. 37 Item 6. Exhibits Exhibit Number Exhibit Description 3.1 Articles of Association of NXP Semiconductors N.V. dated June 9, 2020 (incorporated by reference to Exhibit 3.1 to the Company's Quarterly Report on Form 10-Q of NXP Semiconductors N.V., filed on July 28, 2020) 10.1*+ Form of Performance Restricted Stock Unit Award Agreement 31.1* Rule 13a-14(a) / 15d-14(a) Certification of Chief Executive Officer 31.2* Rule 13a-14(a) / 15d-14(a) Certification of Chief Financial Officer 32.1* Section 1350 Certifications of Chief Executive Officer and Chief Financial Officer 101 The following materials from the Company's Quarterly Report on Form 10-Q for the quarter ended June 28, 2026, formatted in iXBRL (Inline eXtensible Business Reporting Language): (i) Condensed Consolidated Statements of Operations for the three months ended June 28, 2026 and June 29, 2025; (ii) Condensed Consolidated Statements of Comprehensive Income for the three months ended June 28, 2026 and June 29, 2025; (iii) Condensed Consolidated Balance Sheets as of June 28, 2026 and December 31, 2025; (iv) Condensed Consolidated Statements of Cash Flows for the three months ended June 28, 2026 and June 29, 2025; (v) Condensed Consolidated Statements of Changes in Equity for the three months ended June 28, 2026 and June 29, 2025; and (vi) Notes to the Unaudited Condensed Consolidated Financial Statements. 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). * Filed or furnished herewith. + Indicates management contract or compensatory plan or arrangement. 38 SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. Date: July 28, 2026 NXP Semiconductors N.V. /s/ William J. Betz Name: William J. Betz, CFO 39 Exhibit 31.1 CERTIFICATION I, Rafael Sotomayor, certify that: 1. I have reviewed this quarterly report on Form 10-Q of NXP Semiconductors N.V.; 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented in this report; 4. The Registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Registrant and have: a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; c) Evaluated the effectiveness of the Registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and d) Disclosed in this report any change in the Registrant's internal control over financial reporting that occurred during the Registrant's most recent fiscal quarter (the Registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the Registrant's internal control over financial reporting; and 5. The Registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Registrant's auditors and the audit committee of the Registrant's board of directors (or persons performing the equivalent functions): a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Registrant's ability to record, process, summarize, and report financial information; and b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant's internal control over financial reporting. Date: July 28, 2026 By: /s/ Rafael Sotomayor Rafael Sotomayor President & Chief Executive Officer Exhibit 31.2 CERTIFICATION I, William J. Betz, certify that: 1. I have reviewed this quarterly report on Form 10-Q of NXP Semiconductors N.V.; 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented in this report; 4. The Registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Registrant and have: a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; c) Evaluated the effectiveness of the Registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and d) Disclosed in this report any change in the Registrant's internal control over financial reporting that occurred during the Registrant's most recent fiscal quarter (the Registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the Registrant's internal control over financial reporting; and 5. The Registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Registrant's auditors and the audit committee of the Registrant's board of directors (or persons performing the equivalent functions): a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Registrant's ability to record, process, summarize, and report financial information; and b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant's internal control over financial reporting. Date: July 28, 2026 By: /s/ William J. Betz William J. Betz Chief Financial Officer Exhibit 32.1 CERTIFICATIONS OF CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 I, Rafael Sotomayor, certify, as of the date hereof, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report of NXP Semiconductors N.V. on Form 10-Q for the period ended June 28, 2026 fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in such Form 10-Q fairly presents in all material respects the financial condition and results of operations of NXP Semiconductors N.V. at the dates and for the periods indicated. Date: July 28, 2026 By: /s/ Rafael Sotomayor Rafael Sotomayor President & Chief Executive Officer I, William J. Betz, certify, as of the date hereof, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report of NXP Semiconductors N.V. on Form 10-Q for the period ended June 28, 2026 fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in such Form 10-Q fairly presents in all material respects the financial condition and results of operations of NXP Semiconductors N.V. at the dates and for the periods indicated. Date: July 28, 2026 By: /s/ William J. Betz William J. Betz Chief Financial Officer",
+        "charRange": [
+          114789,
+          126249
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 21288,
+            "context": "s 38 Introduction and Forward Looking Statements This Form 10-Q and certain information incorporated herein by reference contains forward-looking statements, which are provided under the &#8220;safe harbor&#8221; protection of the Private Securities Litigation Reform Act of 1995. When used in this Form 10-Q, the words &#8220;anticipate&#8221;, &#8220;believe&#8221;, &#8220;estimate&#8221;, &#8220;forecast&#8221;, &#8220;expect&#8221;, &#8220;intend&#8221;, &#8220;plan&#8221; and &#8220;project&#8221; and similar expressions, as they relate to us, our management or third parties, identify forwa"
+          },
+          {
+            "charIndex": 69447,
+            "context": "llion), which are due through 2048. The increase from December 31, 2025, is primarily attributable to the execution of new relocation lease agreements during 2026. Legal Proceedings We are regularly involved as plaintiffs or defendants in claims and litigation relating to a variety of matters such as contractual disputes, personal injury claims, employee grievances and intellectual property litigation. In addition, our acquisitions, divestments and financial transactions sometimes result in, or are followed by, claims or litigation. Some of these claims may possibly be recovered from insurance"
+          },
+          {
+            "charIndex": 69591,
+            "context": "ements during 2026. Legal Proceedings We are regularly involved as plaintiffs or defendants in claims and litigation relating to a variety of matters such as contractual disputes, personal injury claims, employee grievances and intellectual property litigation. In addition, our acquisitions, divestments and financial transactions sometimes result in, or are followed by, claims or litigation. Some of these claims may possibly be recovered from insurance reimbursements. Although the ultimate disposition of asserted claims cannot be predicted with certainty, it is our belief that the outcome of a"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 41832,
+            "context": "into specified categories in disclosures within the footnotes to the financial statements. ASU 2024-03 is effective for fiscal years beginning after December 15, 2026, with early adoption permitted. We are currently evaluating the effect of this new guidance on our Consolidated Financial Statements. No other new accounting pronouncements were issued or became effective in the period that had, or are expected to have, a material impact on our Consolidated Financial Statements. 3 Acquisitions and Divestments 2026 On February 2, 2026, we completed the sale of our MEMS Sensors business, previously"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 46010,
+            "context": "ated research and development effort is completed, or expensed immediately when, and if, the project is abandoned. Acquired IPR&D is not amortized during the period that it is considered indefinitely lived but rather is subject to annual testing for impairment or when there are indicators for impairment. The purchase price allocation contains valuations related to certain assets and liabilities as some of the estimates and assumptions are subject to change within the measurement period as additional information becomes available. Goodwill arising from the Aviva Links acquisition is attributed"
+          },
+          {
+            "charIndex": 46054,
+            "context": "leted, or expensed immediately when, and if, the project is abandoned. Acquired IPR&D is not amortized during the period that it is considered indefinitely lived but rather is subject to annual testing for impairment or when there are indicators for impairment. The purchase price allocation contains valuations related to certain assets and liabilities as some of the estimates and assumptions are subject to change within the measurement period as additional information becomes available. Goodwill arising from the Aviva Links acquisition is attributed to the value related to new technological in"
+          },
+          {
+            "charIndex": 48895,
+            "context": "ated research and development effort is completed, or expensed immediately when, and if, the project is abandoned. Acquired IPR&D is not amortized during the period that it is considered indefinitely lived but rather is subject to annual testing for impairment or when there are indicators for impairment. The excess earnings method, a variant of the income approach, was applied to estimate the fair values of the technology and IPR&D. The fair values represent the present values of the projected cash flows that are expected to be generated by the technology or IPR&D, adjusted for contributory as"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 44943,
+            "context": "ion of other assets to those cash flows. Aviva Links acquisition On October 24, 2025, NXP closed the previously announced acquisition of 100 % of Aviva Links for $ 222 million in cash ($ 202 million net of cash acquired) and $ 26 million through the settlement of previously held investments in Aviva Links. Aviva Links is a provider of Automotive SerDes Alliance (ASA) compliant in-vehicle connectivity solutions. The Aviva Links acquisition complements and expands NXP's automotive networking solutions in the Automotive and Industrial & IoT end markets. The fair values of the assets acquired, and"
+          },
+          {
+            "charIndex": 108206,
+            "context": "y related to an event that is distinct and non-reflective of the Company's core operating performance. These may include such items as process and product transfer costs, certain charges related to acquisitions and divestitures, litigation and legal settlements, costs associated with the exit of a product line, factory or facility, environmental or governmental settlements, and other items of similar nature. We exclude these certain items which may be non-recurring, unusual, infrequent or directly related to an event that is distinct and non-reflective of the Company's core operating performan"
+          },
+          {
+            "charIndex": 108320,
+            "context": "nclude such items as process and product transfer costs, certain charges related to acquisitions and divestitures, litigation and legal settlements, costs associated with the exit of a product line, factory or facility, environmental or governmental settlements, and other items of similar nature. We exclude these certain items which may be non-recurring, unusual, infrequent or directly related to an event that is distinct and non-reflective of the Company's core operating performance for purposes of calculating certain non-GAAP measures. These adjustments facilitate a useful evaluation of our"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 57883,
+            "context": "priate. The following table presents the changes in restructuring liabilities in 2026: As of January 1, 2026 Additions Utilized Released Other changes As of June 28, 2026 Restructuring liabilities 270 3 ( 85 ) ( 9 ) ( 3 ) 176 The total restructuring liability as of June 28, 2026, of $ 176 million is classified in the Consolidated Balance Sheet under current liabilities ($ 111 million) and non-current liabilities ($ 65 million). The Company has ongoing restructuring initiatives aimed at streamlining manufacturing capacity, reducing costs, and aligning resources with strategic priorities. These"
+          },
+          {
+            "charIndex": 119818,
+            "context": "period in which this report is being prepared; b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; c) Evaluated the effectiveness of the Registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and proc"
+          },
+          {
+            "charIndex": 123098,
+            "context": "period in which this report is being prepared; b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; c) Evaluated the effectiveness of the Registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and proc"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-02-19",
+        "reportDate": "2025-12-31",
+        "accessionNumber": "0001413447-26-000008",
+        "primaryDocument": "nxpi-20251231.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000008/nxpi-20251231.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000008/"
+      },
+      "textLength": 422210,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations\" in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 31, 2024 as filed with the SEC on February 20, 2025. Our MD&A is provided in addition to the accompanying consolidated financial statements and notes to assist readers in understanding our results of operations, financial condition and cash flows. MD&A is organized as follows: &#8226; Overview - Overall analysis of financial and other highlights to provide context for the MD&A &#8226; Results of Operations - An analysis of our financial results &#8226; Financial Condition, Liquidity and Capital Resources - An analysis of changes in our balance sheets and cash flows and a discussion of our financial condition and potential sources of liquidity &#8226; Critical Accounting Estimates - Accounting estimates that management believes are the most important to understanding the assumptions and judgments incorporated in our financial results and forecasts &#8226; Use of Certain Non-GAAP Financial Measures - A discussion of the presentation of non-GAAP financial measures 35 NXP has one reportable segment representing the entity as a whole. Our segment represents groups of similar products that are combined on the basis of similar design and development requirements, product characteristics, manufacturing processes and distribution channels, and how management allocates resources and measures results. See Note 1 to the consolidated financial statements for more information regarding our segment reporting. Overview Year in Focus &#8226; Revenue was $12.3 billion, down 2.7% year-on-year; &#8226; GAAP gross margin was 54.7%, and GAAP operating margin was 24.8%; &#8226; Non-GAAP gross margin was 56.8%, and non-GAAP operating margin was 33.1%; &#8226; Cash flow from operations was $2,820 million, with net capital expenditures on property, plant and equipment of $395 million, resulting in non-GAAP free cash flow of $2,425 million; and &#8226; During 2025, NXP returned capital to shareholders with the payment of $1,025 million in cash dividends and the repurchase of $899 million of its common shares, for a total capital return of $1,924 million. Kurt Sievers, our former CEO, voluntarily retired as CEO and executive director of the Company, effective October 28, 2025. The Company's Board of Directors unanimously appointed Rafael Sotomayor to succeed Mr. Sievers as President and CEO and temporary executive director of the Company, effective as of October 28, 2025. On June 17, 2025, NXP announced the closing of the acquisition of 100% of TTTech Auto for $766 million in cash ($675 million net of cash acquired). TTTech Auto is a leader in innovating unique safety-critical systems and middleware for software-defined vehicles (SDVs). The TTTech Auto acquisition complements and expands NXP's system and software offerings in the Automotive and Industrial & IoT end markets. On October 24, 2025, NXP closed the previously announced acquisition of 100% of Aviva Links for $222 million in cash ($202 million net of cash acquired) and $26 million through the settlement of previously held investments in Aviva Links. Aviva Links is a provider of Automotive SerDes Alliance (ASA) compliant in-vehicle connectivity solutions. The Aviva Links acquisition complements and expands NXP's automotive networking solutions in the Automotive and Industrial & IoT end markets. On October 27, 2025, NXP closed the previously announced acquisition of 100% of Kinara, Inc. for $284 million in cash ($283 million net of cash acquired). Kinara is an industry leader in high performance, energy-efficient and programmable discrete neural processing units (NPUs). The Kinara acquisition complements and expands NXP's solutions for AI-powered edge systems in the Industrial & IoT and Automotive end markets. See Note 3 to the consolidated financial statements for further information regarding NXP's acquisition of TTTech Auto, Aviva Links, and Kinara, Inc. On February 2, 2026, NXP completed the previously announced sale of our MEMS sensors business line for $900 million in cash before closing adjustments and up to an additional $50 million contingent upon the achievement of specified technical milestones. 36 Revenue for the year ended December 31, 2025, was $12,269 million compared to $12,614 million for the year ended December 31, 2024, a decrease of $345 million or 2.7% year-on-year. Our gross profit percentage for 2025 of 54.7% decreased when compared to 2024 (56.4%), mainly driven by price and unfavorable product mix. We continue to generate strong operating cash flows, with $2,820 million in cash flows from operations for 2025. We returned $1,924 million to our shareholders during the year in dividends and repurchases of common stock. Our cash position at the end of 2025 was $3,267 million. Quarter in Focus &#8226; Revenue for the fourth quarter of 2025 was $3.3 billion, up 7.2% year-on-year; &#8226; GAAP gross margin was 54.2%, and GAAP operating margin was 22.3%; &#8226; Non-GAAP gross margin was 57.4%, and non-GAAP operating margin was 34.6%; &#8226; Cash flow from operations was $891 million, with net capital expenditures on property, plant and equipment of $98 million, resulting in non-GAAP free cash flow of $793 million; &#8226; During the fourth quarter of 2025, NXP returned capital to shareholders with the payment of $254 million in cash dividends and the repurchase of $338 million of its common shares, for a total capital return of $592 million. 37 Sequential Results Q4 2025 compared to Q3 2025 Revenue for the three months ended December 31, 2025, was $3,335 million compared to $3,173 million for the three months ended September 28, 2025, an increase of $162 million or 5.1% quarter-on-quarter, in line with management's expectations. Within our end markets, the Industrial & IoT end market increased $61 million or 10.5%, the Mobile end market increased $55 million or 12.8%, the Automotive end market increased $39 million or 2.1%, and the Communication Infrastructure & Other end market increased $7 million or 2.1%. When aggregating all end markets together and reviewing sales channel performance, revenue from distributors was $2,025 million, an increase of $159 million or 8.5% compared to the previous period. Revenue from direct customers was $1,274 million, an increase of $5 million or 0.4% compared to the previous period. From a geographic perspective, revenue increased across all regions. The gross profit percentage for the fourth quarter of 2025 decreased to 54.2% from 56.3% in the third quarter of 2025, primarily due to impairments related to the scaling down of a non-strategic product line. Operating income for the fourth quarter of 2025 was $744 million compared to $893 million for the third quarter of 2025, a decrease of $149 million or 16.7%. The sequential decrease was mainly due to higher restructuring costs for specific targeted actions under a new global restructuring program in the fourth quarter of 2025. Operating cash flows for the fourth quarter of 2025 was $891 million compared to $585 million for the third quarter of 2025, an increase of $306 million or 52.3% quarter-on-quarter. 38 Results of Operations The following table presents the operating results for the years ended December 31, 2025, and December 31, 2024. ($ in millions, unless otherwise stated) 2025 % of Revenue 2024 % of Revenue Revenue 12,269 12,614 % nominal growth (2.7) (5.0) Gross profit 6,716 7,119 Gross margin 54.7 % 56.4 % Research and development (2,360) 19.2 % (2,347) 18.6 % Selling, general and administrative (1,204) 9.8 % (1,164) 9.2 % Amortization of acquisition-related intangible assets (117) 1.0 % (136) 1.1 % Other income (expense) 12 0.1 % (55) 0.4 % Operating income (loss) 3,047 24.8 % 3,417 27.1 % Financial income (expense) (384) 3.1 % (318) 2.5 % Benefit (provision) for income taxes (525) 4.3 % (545) 4.3 % Results relating to equity-accounted investees (70) 0.6 % (12) 0.1 % Net income (loss) 2,068 16.9 % 2,542 20.2 % Less: Net income (loss) attributable to non-controlling interests 47 0.4 % 32 0.3 % Net income (loss) attributable to stockholders 2,021 16.5 % 2,510 19.9 % Diluted earnings per share 7.95 9.73 Revenue Revenue for the year ended December 31, 2025, was $12,269 million compared to $12,614 million for the year ended December 31, 2024, a decrease of $345 million or 2.7% year-on-year. 39 Revenue by end market was as follows: ($ in millions, unless otherwise stated) 2025 2024 Increase/(decrease) % Automotive 7,116 7,151 (35) (0.5) % Industrial & IoT 2,273 2,269 4 0.2 % Mobile 1,584 1,497 87 5.8 % Communication Infrastructure & Other 1,296 1,697 (401) (23.6) % Revenue 12,269 12,614 (345) (2.7) % Revenue by sales channel was as follows: ($ in millions, unless otherwise stated) 2025 2024 Increase/(decrease) % Distributors 7,051 7,203 (152) (2.1) % Direct 5,084 5,291 (207) (3.9) % Other 134 120 14 11.7 % Revenue 12,269 12,614 (345) (2.7) % Revenue by geographic region, which is based on the location where the sale originated, was as follows: 1) ($ in millions, unless otherwise stated) 2025 2024 Increase/(decrease) % APAC, excluding China 3,581 3,794 (213) (5.6) % Americas 3,376 3,471 (95) (2.7) % EMEA 3,276 3,428 (152) (4.4) % China 2) 2,036 1,921 115 6.0 % Revenue 12,269 12,614 (345) (2.7) % 1) As of December 31, 2025, and applied retrospectively for all the periods presented, the Company revised its methodology for attributing revenue to geographic areas to reflect the location where sales originate, which represents where critical commercial decisions are made. This may differ from the customer's shipped-to location. The change in reporting basis was made to more appropriately reflect how we manage our business. For 2025, the largest impacts from the change were to the Americas region and the China region, which reflected changes of approximately 104.9% and (57.0)%, respectively. 2) China includes Mainland China and Hong Kong The year-to-date change in revenue was primarily driven by a lower selling mix of products, slightly offset by higher shipment volumes. The combination of these two effects resulted in a net decrease of $345 million revenue. From an end market perspective, NXP experienced declines in the Communication Infrastructure & Other and Automotive end markets, which was partially offset by growth in its Mobile and Industrial & IoT end markets versus the year ago period. Revenue in the Automotive end market was $7,116 million, a decrease of $35 million or 0.5% versus the year ago period. The decline was driven by processors, partially offset by growth in mixed-signal products. Revenue in the Industrial & IoT end market was $2,273 million, an increase of $4 million or 0.2% versus the year ago period. The increase was attributable to growth in mixed-signal products, partially offset by declines in processors. Revenue in the Mobile end market was $1,584 million, an increase of $87 million or 5.8% versus the year ago period, with processors and mixed-signal products contributing to the growth. Revenue in the Communication Infrastructure & Other end market was $1,296 million, a decrease of $401 million or 23.6% versus the year ago period. The decline was primarily due to processors. When aggregating all end markets and reviewing sales channel performance, revenue from distributors was $7,051 million, a decrease of $152 million or 2.1% versus the year ago period. Revenue from direct customers was $5,084 million, a decrease of $207 million or 3.9% versus the year ago period. From a geographic perspective, revenue increased year-on-year in the China region and declined in the APAC, EMEA, and Americas regions. 40 41 Gross Profit Gross profit for the year ended December 31, 2025, was $6,716 million, or 54.7% of revenue, compared to $7,119 million, or 56.4% of revenue for the year ended December 31, 2024. The decrease in gross margin was mainly driven by: - Lower selling prices (1.9%) - Mix /volume (1.5%) + Lower manufacturing costs (factory utilization and sourcing) (2.1%) Operating Expenses Operating expenses for the year ended December 31, 2025, totaled $3,681 million or 30.0% of revenue, compared to $3,647 million, or 28.9% of revenue, for the year ended December 31, 2024. &#8226; Research and development Research and development (R&D) costs primarily consist of engineer salaries and wages (including share-based compensation and other variable compensation), engineering related costs (including outside services, fixed-asset, IP and other licenses related costs), shared service center costs and other pre-production related expenses. ($ in millions, unless otherwise stated) 2025 2024 % change Research and development 2,360 2,347 0.6 % As a percentage of revenue 19.2 % 18.6 % 0.6 ppt R&D costs for the year ended December 31, 2025, increased by $13 million, or 0.6%, when compared to last year primarily driven by: + Increased restructuring expenses ($42 million) + Increased project spend ($10 million) - Lower variable compensation expenses ($37 million) &#8226; Selling, general and administrative Selling, general and administrative (SG&A) costs primarily consist of personnel salaries and wages (including share- based compensation and other variable compensation), communication and IT related costs, fixed-asset related costs and sales and marketing costs (including travel expenses). ($ in millions, unless otherwise stated) 2025 2024 % change Selling, general and administrative 1,204 1,164 3.4 % As a percentage of revenue 9.8 % 9.2 % 0.6 ppt SG&A costs for the year ended December 31, 2025, increased by $40 million, or 3.4%, when compared to last year primarily driven by: + Increased restructuring expenses ($43 million) + Increased expenses driven by personnel and integration related costs of our acquisitions ($37 million) - Lower legal fees ($26 million) - Lower variable compensation costs ($14 million) &#8226; Amortization of acquisition-related intangible assets ($ in millions, unless otherwise stated) 2025 2024 % change Amortization of acquisition-related intangible assets 117 136 (14.0) % As a percentage of revenue 1.0 % 1.1 % (0.1) ppt Amortization of acquisition-related intangible assets decreased by $19 million, or 14.0%, when compared to last year, mainly from the effect of certain acquisition-related intangibles becoming fully amortized (with regard to the previous Marvell acquisition) partly offset by amortization related to the recent acquisitions of TTTech Auto and Kinara. 42 Other Income (Expense) Other income (expense) includes results from manufacturing service arrangements (MSA) and transitional service arrangements (TSA) that are put into place when we divest a business or activity, as well as other activities. These arrangements are expected to decrease as the divested business or activity becomes more established. Other income (expense) reflects an income of $12 million for 2025",
+        "charRange": [
+          190853,
+          205853
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors.&#8221; Governance Our management is directly responsible for executing the Company's risk management processes. Our Board, and appropriate Board committees, perform this oversight function through reports from management, which are delivered periodically or as needed. Additionally, the Company conducts a formal annual risk assessment to identify, analyze and report on enterprise risks, the results of which are reported to and discussed with the Board. The Board and, as appropriate, the relevant Board committees assess the material risks facing the Company and evaluate management's plans for managing material risk exposures. 32 While our Board generally has ultimate oversight responsibility of the Company's risk management processes, it has delegated to its committees the responsibility to oversee risk management processes associated with their respective areas of responsibility and expertise. The Audit Committee has oversight responsibility for reviewing the effectiveness of NXP's governance and management of IT risks, including those relating to business continuity, cybersecurity, malware, regulatory compliance and data management. Management regularly briefs the Audit Committee on cybersecurity matters and briefs the full Board on these issues at least annually or as needed. NXP's CISO has over 20 years of relevant experience managing cybersecurity risks and is primarily responsible for managing the cybersecurity risks identified in the ERM process. This includes performing risk assessments, prioritizing the most likely and impactful risk elements, and recommending appropriate measures to mitigate the risk. Item 2. Properties The Company's headquarters are located in Eindhoven, the Netherlands. As of February 19, 2026, the Company operates owned manufacturing facilities primarily in the United States, Netherlands, Malaysia, China, Thailand and Taiwan, as well as in Singapore (SSMC) together with our joint venture partner TSMC. Through investments in VSMC and ESMC, the Company holds capacity rights in external manufacturing facilities, presently under construction. The Company also owns or leases other properties in multiple countries for use as administrative, sales or research and development facilities. The Company believes its existing facilities and equipment are in good operating condition and adequate to meet our need for the near future. Item 3. Legal Proceedings The information set forth under the &#8220;Legal Proceedings&#8221; and &#8220;Environmental Remediation&#8221; captions of Note 16 to the Consolidated Financial Statements included in Part II, Item 8 of this Annual Report is incorporated herein by reference. For additional discussion of certain risks associated with legal proceedings, see Part I, Item 1A. Risk Factors . Item 4. Mine Safety Disclosures Not applicable. 33 Part II Item 5. Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities The Company's common stock is traded on the Nasdaq stock market under the symbol NXPI. On January 16, 2026, there were 17 shareholders of record and 900,391 beneficial shareholders of our common stock. Dividends Per Common Share The following table presents the quarterly dividends on our common stock for the periods indicated: 2025 2024 First Quarter 1.014 1.014 Second Quarter 1.014 1.014 Third Quarter 1.014 1.014 Fourth Quarter 1.014 1.014 We currently expect to continue to pay dividends in the future. Issuer Purchases of Equity Securities Our Board has approved the purchase of shares from participants in NXP's equity programs to satisfy participants' tax withholding obligations and this authorization will remain in effect until terminated by the Board. In January 2022, the Board approved the repurchase of shares up to a maximum of $2 billion (the \"2022 Share Repurchase Program\"). In August 2024, the Board approved the repurchase of shares up to a maximum of $2 billion (the \"2024 Share Repurchase Program\") in addition to the 2022 Share Repurchase Program. At December 31, 2025, there was no amount remaining under the 2022 Share Repurchase Program and $1,585 million under the 2024 Share Repurchase Program. The following table provides a summary of share repurchase activity during the three months ended December 31, 2025: Period Total Number of Shares Purchased Average Price Paid per Share Number of Shares Purchased as Part of Publicly Announced Plans or Programs Maximum Number of Shares That May Yet Be Purchased Under the Plans or Program 1 Number of Shares Purchased as Trade for Tax September 29, 2025 &#8211; November 2, 2025 466,725 $220.95 466,177 8,055,445 548 November 3, 2025 &#8211; November 30, 2025 956,704 $204.05 287,670 8,349,052 669,034 December 1, 2025 &#8211; December 31, 2025 178,295 $224.34 178,267 7,300,155 28 Total 1,601,724 932,114 669,610 1 Represents the number of shares that may be purchased under the remaining dollar repurchase authorizations noted above, calculated based on the share closing price at the end of the respective monthly period. 2 Reflects shares surrendered by participants to satisfy tax withholding obligations in connection with the Company's equity programs. 34 Company Performance The following graph shows a comparison, from December 31, 2020, of cumulative total return for NXP, the Standard & Poor's 500 Index, and the Philadelphia Stock Exchange Semiconductor Index. The graph assumes $100 (not in millions) invested on December 31, 2020, in our common stock and each of the indices. Item 6. [Reserved] Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations Management's discussion and analysis of financial condition and results of operations (MD&A) should be read in conjunction with the financial statements and the related notes that appear elsewhere in this document. This section of this Form 10-K generally discusses 2025 and 2024 items and year-to-year comparisons between 2025 and 2024. Discussions of 2023 items and year-to-year comparisons between 2024 and 2023 that are not included in this Form 10-K can be found in \"Management's Discussion and Analysis of Financial Condition and Results of Operations\" in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 31, 2024 as filed with the SEC on February 20, 2025. Our MD&A is provided in addition to the accompanying consolidated financial statements and notes to assist readers in understanding our results of operations, financial condition and cash flows. MD&A is organized as follows: &#8226; Overview - Overall analysis of financial and other highlights to provide context for the MD&A &#8226; Results of Operations - An analysis of our financial results &#8226; Financial Condition, Liquidity and Capital Resources - An analysis of changes in our balance sheets and cash flows and a discussion of our financial condition and potential sources of liquidity &#8226; Critical Accounting Estimates - Accounting estimates that management believes are the most important to understanding the assumptions and judgments incorporated in our financial results and forecasts &#8226; Use of Certain Non-GAAP Financial Measures - A discussion of the presentation of non-GAAP financial measures 35 NXP has one reportable segment representing the entity as a whole. Our segment represents groups of similar products that are combined on the basis of similar design and development requirements, product characteristics, manufacturing processes and distribution channels, and how management allocates resources and measures results. See Note 1 to the consolidated financial statements for more information regarding our segment reporting. Overview Year in Focus &#8226; Revenue was $12.3 billion, down 2.7% year-on-year; &#8226; GAAP gross margin was 54.7%, and GAAP operating margin was 24.8%; &#8226; Non-GAAP gross margin was 56.8%, and non-GAAP operating margin was 33.1%; &#8226; Cash flow from operations was $2,820 million, with net capital expenditures on property, plant and equipment of $395 million, resulting in non-GAAP free cash flow of $2,425 million; and &#8226; During 2025, NXP returned capital to shareholders with the payment of $1,025 million in cash dividends and the repurchase of $899 million of its common shares, for a total capital return of $1,924 million. Kurt Sievers, our former CEO, voluntarily retired as CEO and executive director of the Company, effective October 28, 2025. The Company's Board of Directors unanimously appointed Rafael Sotomayor to succeed Mr. Sievers as President and CEO and temporary executive director of the Company, effective as of October 28, 2025. On June 17, 2025, NXP announced the closing of the acquisition of 100% of TTTech Auto for $766 million in cash ($675 million net of cash acquired). TTTech Auto is a leader in innovating unique safety-critical systems and middleware for software-defined vehicles (SDVs). The TTTech Auto acquisition complements and expands NXP's system and software offerings in the Automotive and Industrial & IoT end markets. On October 24, 2025, NXP closed the previously announced acquisition of 100% of Aviva Links for $222 million in cash ($202 million net of cash acquired) and $26 million through the settlement of previously held investments in Aviva Links. Aviva Links is a provider of Automotive SerDes Alliance (ASA) compliant in-vehicle connectivity solutions. The Aviva Links acquisition complements and expands NXP's automotive networking solutions in the Automotive and Industrial & IoT end markets. On October 27, 2025, NXP closed the previously announced acquisition of 100% of Kinara, Inc. for $284 million in cash ($283 million net of cash acquired). Kinara is an industry leader in high performance, energy-efficient and programmable discrete neural processing units (NPUs). The Kinara acquisition complements and expands NXP's solutions for AI-powered edge systems in the Industrial & IoT and Automotive end markets. See Note 3 to the consolidated financial statements for further information regarding NXP's acquisition of TTTech Auto, Aviva Links, and Kinara, Inc. On February 2, 2026, NXP completed the previously announced sale of our MEMS sensors business line for $900 million in cash before closing adjustments and up to an additional $50 million contingent upon the achievement of specified technical milestones. 36 Revenue for the year ended December 31, 2025, was $12,269 million compared to $12,614 million for the year ended December 31, 2024, a decrease of $345 million or 2.7% year-on-year. Our gross profit percentage for 2025 of 54.7% decreased when compared to 2024 (56.4%), mainly driven by price and unfavorable product mix. We continue to generate strong operating cash flows, with $2,820 million in cash flows from operations for 2025. We returned $1,924 million to our shareholders during the year in dividends and repurchases of common stock. Our cash position at the end of 2025 was $3,267 million. Quarter in Focus &#8226; Revenue for the fourth quarter of 2025 was $3.3 billion, up 7.2% year-on-year; &#8226; GAAP gross margin was 54.2%, and GAAP operating margin was 22.3%; &#8226; Non-GAAP gross margin was 57.4%, and non-GAAP operating margin was 34.6%; &#8226; Cash flow from operations was $891 million, with net capital expenditures on property, plant and equipment of $98 million, resulting in non-GAAP free cash flow of $793 million; &#8226; During the fourth quarter of 2025, NXP returned capital to shareholders with the payment of $254 million in cash dividends and the repurchase of $338 million of its common shares, for a total capital return of $592 million. 37 Sequential Results Q4 2025 compared to Q3 2025 Revenue for the three months ended December 31, 2025, was $3,335 million compared to $3,173 million for the three months ended September 28, 2025, an increase of $162 million or 5.1% quarter-on-quarter, in line with management's expectations. Within our end markets, the Industrial & IoT end market increased $61 million or 10.5%, the Mobile end market increased $55 million or 12.8%, the Automotive end market increased $39 million or 2.1%, and the Communication Infrastructure & Other end market increased $7 million or 2.1%. When aggregating all end markets together and reviewing sales channel performance, revenue from distributors was $2,025 million, an increase of $159 million or 8.5% compared to the previous period. Revenue from direct customers was $1,274 million, an increase of $5 million or 0.4% compared to the previous period. From a geographic perspective, revenue increased across all regions. The gross profit percentage for the fourth quarter of 2025 decreased to 54.2% from 56.3% in the third quarter of 2025, primarily due to impairments related to the scaling down of a non-strategic product line. Operating income for the fourth quarter of 2025 was $744 million compared to $893 million for the third quarter of 2025, a decrease of $149 million or 16.7%. The sequential decrease was mainly due to higher restructuring costs for specific targeted actions under a new global restructuring program in the fourth quarter of 2025. Operating cash flows for the fourth quarter of 2025 was $891 million compared to $585 million for the third quarter of 2025, an increase of $306 million or 52.3% quarter-on-quarter. 38 Results of Operations The following table presents the operating results for the years ended December 31, 2025, and December 31, 2024. ($ in millions, unless otherwise stated) 2025 % of Revenue 2024 % of Revenue Revenue 12,269 12,614 % nominal growth (2.7) (5.0) Gross profit 6,716 7,119 Gross margin 54.7 % 56.4 % Research and development (2,360) 19.2 % (2,347) 18.6 % Selling, general and administrative (1,204) 9.8 % (1,164) 9.2 % Amortization of acquisition-related intangible assets (117) 1.0 % (136) 1.1 % Other income (expense) 12 0.1 % (55) 0.4 % Operating income (loss) 3,047 24.8 % 3,417 27.1 % Financial income (expense) (384) 3.1 % (318) 2.5 % Benefit (provision) for income taxes (525) 4.3 % (545) 4.3 % Results relating to equity-accounted investees (70) 0.6 % (12) 0.1 % Net income (loss) 2,068 16.9 % 2,542 20.2 % Less: Net income (loss) attributable to non-controlling interests 47 0.4 % 32 0.3 % Net income (loss) attributable to stockholders 2,021 16.5 % 2,510 19.9 % Diluted earnings per share 7.95 9.73 Revenue Revenue for the year ended December 31, 2025, was $12,269 million compared to $12,614 million for the year ended December 31, 2024, a decrease of $345 million or 2.7% year-on-year. 39 Revenue by end market was as follows: ($ in millions, unless otherwise stated) 2025 2024 Increase/(decrease) % Automotive 7,116 7,151 (35) (0.5) % Industrial & IoT 2,273 2,269 4 0.2 % Mobile 1,584 1,497 87 5.8 % Communication Infrastructure & Other 1,296 1,697 (401) (23.6) % Revenue 12,269 12,614 (345) (2.7) % Revenue by sales channel was as follows: ($ in millions, unless otherwise stated) 2025 2024",
+        "charRange": [
+          184724,
+          199724
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 135342,
+            "context": ". Furthermore, any disaster affecting our customers (or their respective customers) may significantly negatively impact the demand for our products and our revenues. In addition, climate change could cause certain natural disasters, such as drought, wildfires, storms, flooding or rising sea levels, to occur more frequently or with greater intensity. Such natural disasters pose physical risks to our manufacturing, IT facilities or our suppliers' facilities, or could disrupt the availability of water and utilities necessary for the operation of our manufacturing facilities or our suppliers' faci"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 41639,
+            "context": "year ended December 31, 2025 (the &#8220;Annual Report&#8221;) and certain information incorporated herein by reference contains forward-looking statements, which are provided under the &#8220;safe harbor&#8221; protection of the Private Securities Litigation Reform Act of 1995. When used in this Annual Report, the words &#8220;anticipate&#8221;, &#8220;believe&#8221;, &#8220;estimate&#8221;, &#8220;forecast&#8221;, &#8220;expect&#8221;, &#8220;intend&#8221;, &#8220;plan&#8221; and &#8220;project&#8221; and similar expressions, as they relate to us, our management or third parties, identify f"
+          },
+          {
+            "charIndex": 144653,
+            "context": "er proceedings relating to such regulations, among others, could have an adverse effect on our business and results of operations. Legal proceedings covering a range of matters are pending in various jurisdictions. Due to the uncertainty inherent in litigation, it is difficult to predict the final outcome. An adverse outcome might affect our results of operations. We and certain of our businesses are involved as plaintiffs or defendants in legal proceedings in various matters. For example, in the past we have been involved in legal proceedings claiming personal injuries to the children of form"
+          },
+          {
+            "charIndex": 152011,
+            "context": "rsonal data about our employees, customers or other third parties) and intellectual property, system disruptions, and denial of service. In the event of such breaches, we, our customers or other third parties could be exposed to potential liability, litigation, and regulatory action, as well as the loss of existing or potential customers, damage to our reputation, and other financial loss. In addition, the cost and operational consequences of responding to breaches and implementing remediation measures could be significant. We have identified instances of employee misappropriation or theft of"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 173416,
+            "context": "ion or other regulatory developments affecting us or our industry, as well as industry conditions and general financial, economic and political instability. In the past, following periods of market volatility, shareholders have instituted securities class action litigation. If we were involved in securities litigation, it could have a substantial cost and divert resources and the attention of executive management from our business regardless of the outcome of such litigation. We may have fluctuations in the amount and frequency of our stock repurchases. The amount, timing, and execution of our"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 80558,
+            "context": "uctor supply chains, there has been a tendency towards longer-term supply contracts with suppliers in exchange for capacity. From an operational perspective, all of our manufacturing facilities continue to operate around the world in accordance with guidance issued by local and national government authorities. Sales, Marketing and Customers We market our products and solutions worldwide through a combination of direct sales offices (hereafter &#8220;direct&#8221;) and independent distributors (hereafter &#8220;distributors&#8221;). Our regional sales offices enable us to maintain close relatio"
+          },
+          {
+            "charIndex": 172704,
+            "context": "olatile and subject to significant price and volume fluctuations for many reasons, including in response to the risks described in this section, changes in our dividend or share repurchase policies, variations between our actual financial results or guidance and expectations of securities analysts or investors or for reasons unrelated to our operations, such as reports by industry analysts, investor perceptions or negative announcements by our customers, competitors, peer companies or suppliers regarding their own performance, or announcements by our competitors of significant contracts, strat"
+          },
+          {
+            "charIndex": 320247,
+            "context": "al year ending December 31, 2025. New Accounting Standards Not Yet Adopted In December 2025, the FASB issued Accounting Standards Update (ASU) 2025-10, Accounting for Government Grants Received by Business Entities. The amendments in ASU 2025-10 add guidance on the recognition, measurement, and presentation of government grants, leveraging the principles in IAS 20. ASU 2025-10 is effective for fiscal years beginning after December 15, 2028, with early adoption permitted. We are currently evaluating the effect of this new guidance and do not expect it to have a material impact on our consolidat"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 117307,
+            "context": "otal assets, and we may never realize the full value of our intangible assets. Goodwill and other identifiable intangible assets are recorded at fair value on the date of an acquisition. We review our goodwill and other intangible assets balance for impairment upon any indication of a potential impairment, and in the case of goodwill, at a minimum of once a year. Impairment may result from, among other things, a sustained decrease in share price, deterioration in performance, adverse market conditions, adverse changes in applicable laws or regulations, including changes that restrict the activ"
+          },
+          {
+            "charIndex": 117353,
+            "context": "value of our intangible assets. Goodwill and other identifiable intangible assets are recorded at fair value on the date of an acquisition. We review our goodwill and other intangible assets balance for impairment upon any indication of a potential impairment, and in the case of goodwill, at a minimum of once a year. Impairment may result from, among other things, a sustained decrease in share price, deterioration in performance, adverse market conditions, adverse changes in applicable laws or regulations, including changes that restrict the activities of or affect the products and services w"
+          },
+          {
+            "charIndex": 117423,
+            "context": "gible assets are recorded at fair value on the date of an acquisition. We review our goodwill and other intangible assets balance for impairment upon any indication of a potential impairment, and in the case of goodwill, at a minimum of once a year. Impairment may result from, among other things, a sustained decrease in share price, deterioration in performance, adverse market conditions, adverse changes in applicable laws or regulations, including changes that restrict the activities of or affect the products and services we sell, challenges to the validity of certain registered intellectual"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 57277,
+            "context": "ing the connection of vehicles and car keys to portable devices and the infrastructure. Data integrity and security hardware features for safeguarding memory, communication and system data are also increasing in importance. Due to the high degree of regulatory scrutiny and safety requirements, the automotive semiconductor market is characterized by stringent qualification processes, zero defect quality processes, functionally safe design architecture, high reliability, extensive design-in timeframes and long product life cycles, which results in significant barriers to entry. 4 ii. Industrial"
+          },
+          {
+            "charIndex": 86322,
+            "context": "e with relevant regulations or contingent return provisions, as well as specifications regarding objectives and results. The approval process for such funding may last up to several years. Certain specific contracts require compliance with extensive regulatory requirements and set forth certain conditions relating to the funded programs. There could be penalties if these objectives are not fulfilled. Our direct grants include those awarded under the European 2nd Important Project of Common European Interest on Microelectronics and Communication Technologies (&#8220;IPCEI ME/CT&#8221;) in multi"
+          },
+          {
+            "charIndex": 93277,
+            "context": "related to talent acquisition, leadership and functional development, engagement, inclusion, and competitive total rewards. Our team member priorities are reviewed and adjusted as needed to reflect business conditions, evolving workforce needs, and regulatory considerations. NXP's workforce consists of both direct labor (DL) and indirect labor (IDL). Direct labor team members primarily support manufacturing operations, while indirect labor team members include individual contributors, managers and executives across functions such as research and development, and selling, general and administr"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 52284,
+            "context": "ftware offerings in the Automotive and Industrial & IoT end markets. On October 24, 2025, NXP closed the previously announced acquisition of 100% of Aviva Links for $222 million in cash ($202 million net of cash acquired) and $26 million through the settlement of previously held investments in Aviva Links. Aviva Links is a provider of Automotive SerDes Alliance (ASA) compliant in-vehicle connectivity solutions. The Aviva Links acquisition complements and expands NXP's automotive networking solutions in the Automotive and Industrial & IoT end markets. On October 27, 2025, NXP closed the previou"
+          },
+          {
+            "charIndex": 194006,
+            "context": "ftware offerings in the Automotive and Industrial & IoT end markets. On October 24, 2025, NXP closed the previously announced acquisition of 100% of Aviva Links for $222 million in cash ($202 million net of cash acquired) and $26 million through the settlement of previously held investments in Aviva Links. Aviva Links is a provider of Automotive SerDes Alliance (ASA) compliant in-vehicle connectivity solutions. The Aviva Links acquisition complements and expands NXP's automotive networking solutions in the Automotive and Industrial & IoT end markets. On October 27, 2025, NXP closed the previou"
+          },
+          {
+            "charIndex": 208492,
+            "context": "mount of claimable R&D tax credits. Taiwan also had higher tax expense in 2025 due to less undistributed earnings being considered indefinitely reinvested due to changes in the supply chain. These increases were partially offset by tax benefits from settlements with tax authorities. Results Relating to Equity-accounted Investees Results relating to equity-accounted investees amounted to a loss of $70 million in 2025, whereas in 2024 results relating to equity-accounted investees amounted to a loss of $12 million. For the year ended December 31, 2025, results relating to equity-accounted invest"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 11701,
+            "context": "25-12-31 0001413447 nxpi:HybridManufacturingStrategyMember 2025-01-01 2025-12-31 0001413447 us-gaap:OtherRestructuringMember 2025-01-01 2025-12-31 0001413447 us-gaap:EmployeeSeveranceMember 2024-01-01 2024-12-31 0001413447 nxpi:ReleaseOfRestructuringLiabilityMember 2024-01-01 2024-12-31 0001413447 us-gaap:EmployeeSeveranceMember 2023-01-01 2023-12-31 0001413447 us-gaap:OtherRestructuringMember 2024-01-01 2024-12-31 0001413447 us-gaap:OtherRestructuringMember 2023-01-01 2023-12-31 0001413447 nxpi:ReleaseOfRestructuringLiabilityMember 2025-01-01 2025-12-31 0001413447 nxpi:ReleaseOfRestructuringL"
+          },
+          {
+            "charIndex": 11974,
+            "context": "-01 2024-12-31 0001413447 us-gaap:EmployeeSeveranceMember 2023-01-01 2023-12-31 0001413447 us-gaap:OtherRestructuringMember 2024-01-01 2024-12-31 0001413447 us-gaap:OtherRestructuringMember 2023-01-01 2023-12-31 0001413447 nxpi:ReleaseOfRestructuringLiabilityMember 2025-01-01 2025-12-31 0001413447 nxpi:ReleaseOfRestructuringLiabilityMember 2024-01-01 2024-12-31 0001413447 nxpi:ReleaseOfRestructuringLiabilityMember 2023-01-01 2023-12-31 0001413447 us-gaap:CostOfSalesMember 2025-01-01 2025-12-31 0001413447 us-gaap:CostOfSalesMember 2024-01-01 2024-12-31 0001413447 us-gaap:CostOfSalesMember 2023-"
+          },
+          {
+            "charIndex": 12050,
+            "context": "-31 0001413447 us-gaap:OtherRestructuringMember 2024-01-01 2024-12-31 0001413447 us-gaap:OtherRestructuringMember 2023-01-01 2023-12-31 0001413447 nxpi:ReleaseOfRestructuringLiabilityMember 2025-01-01 2025-12-31 0001413447 nxpi:ReleaseOfRestructuringLiabilityMember 2024-01-01 2024-12-31 0001413447 nxpi:ReleaseOfRestructuringLiabilityMember 2023-01-01 2023-12-31 0001413447 us-gaap:CostOfSalesMember 2025-01-01 2025-12-31 0001413447 us-gaap:CostOfSalesMember 2024-01-01 2024-12-31 0001413447 us-gaap:CostOfSalesMember 2023-01-01 2023-12-31 0001413447 us-gaap:ResearchAndDevelopmentExpenseMember 2025"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "points": [
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-29",
+          "val": 3181000000,
+          "accn": "0001413447-26-000034",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 12269000000,
+          "accn": "0001413447-26-000008",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-19",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-06-30",
+          "end": "2025-09-28",
+          "val": 3173000000,
+          "accn": "0001413447-25-000120",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-28",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-28",
+          "val": 8934000000,
+          "accn": "0001413447-25-000120",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-28"
+        },
+        {
+          "start": "2025-03-31",
+          "end": "2025-06-29",
+          "val": 2926000000,
+          "accn": "0001413447-25-000106",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-24",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-06-29",
+          "val": 5761000000,
+          "accn": "0001413447-25-000106",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-24"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-30",
+          "val": 2835000000,
+          "accn": "0001413447-26-000034",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-30",
+          "val": 2835000000,
+          "accn": "0001413447-25-000031",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-04-29"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-29",
+          "val": 4.43,
+          "accn": "0001413447-26-000034",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 7.95,
+          "accn": "0001413447-26-000008",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-19",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-06-30",
+          "end": "2025-09-28",
+          "val": 2.48,
+          "accn": "0001413447-25-000120",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-28",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-28",
+          "val": 6.16,
+          "accn": "0001413447-25-000120",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-28"
+        },
+        {
+          "start": "2025-03-31",
+          "end": "2025-06-29",
+          "val": 1.75,
+          "accn": "0001413447-25-000106",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-24",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-06-29",
+          "val": 3.67,
+          "accn": "0001413447-25-000106",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-24"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-30",
+          "val": 1.92,
+          "accn": "0001413447-26-000034",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-30",
+          "val": 1.92,
+          "accn": "0001413447-25-000031",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-04-29"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-29",
+          "val": 1122000000,
+          "accn": "0001413447-26-000034",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 2021000000,
+          "accn": "0001413447-26-000008",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-19"
+        },
+        {
+          "start": "2025-06-30",
+          "end": "2025-09-28",
+          "val": 631000000,
+          "accn": "0001413447-25-000120",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-28",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-28",
+          "val": 1566000000,
+          "accn": "0001413447-25-000120",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-28"
+        },
+        {
+          "start": "2025-03-31",
+          "end": "2025-06-29",
+          "val": 445000000,
+          "accn": "0001413447-25-000106",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-24",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-06-29",
+          "val": 935000000,
+          "accn": "0001413447-25-000106",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-24"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-30",
+          "val": 490000000,
+          "accn": "0001413447-26-000034",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-30",
+          "val": 490000000,
+          "accn": "0001413447-25-000031",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-04-29"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-29",
+          "val": 1505000000,
+          "accn": "0001413447-26-000034",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 3047000000,
+          "accn": "0001413447-26-000008",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-19",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-06-30",
+          "end": "2025-09-28",
+          "val": 893000000,
+          "accn": "0001413447-25-000120",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-28",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-28",
+          "val": 2303000000,
+          "accn": "0001413447-25-000120",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-28"
+        },
+        {
+          "start": "2025-03-31",
+          "end": "2025-06-29",
+          "val": 687000000,
+          "accn": "0001413447-25-000106",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-24",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-06-29",
+          "val": 1410000000,
+          "accn": "0001413447-25-000106",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-24"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-30",
+          "val": 723000000,
+          "accn": "0001413447-26-000034",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-30",
+          "val": 723000000,
+          "accn": "0001413447-25-000031",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-04-29"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "NXPI",
+    "name": "NXP Semiconductors N.V.",
+    "sector": "Semiconductors & Related Devices",
+    "pe": 19.92,
+    "pb": 5.17,
+    "ret3m": -19.5679,
+    "ret6m": 5.7872,
+    "roe": 18.5,
+    "debtEquity": 1.215,
+    "sentiment": 0.273,
+    "analyst": 75,
+    "beta": 1.8381183
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "Why NXP Semiconductors Stock Dropped 18.5% in July",
+        "url": "https://finnhub.io/api/news?id=cc5b94a0e1f30cffa771e58c6b42707252be09a6ca920032f15c3db7f2b33ff9",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Why One Prominent Analyst Expects 85% Returns for ON Semiconductor Despite Current Turmoil",
+        "url": "https://finnhub.io/api/news?id=27bccb70615c982f292458862eddae4b85305e1f40cb42ae70b09bf1e2dbac75",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Top 50 High-Quality Dividend Growth Stocks For August 2026",
+        "url": "https://finnhub.io/api/news?id=67a12f998d09e3a8032fc7543984727ae385b02a09472666c7971ce61d490975",
+        "source": "SeekingAlpha",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "The companies emerging as new leaders in this renewed AI rally",
+        "url": "https://finnhub.io/api/news?id=932eea13db773920965e98a45010824861bd09e9fa716b1d398590a9be2fe5a9",
+        "source": "Yahoo",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "Shares of solar-related stocks are trading lower after President Trump posted on social media that he is considering a \"massive increase of Tariffs on Chinese products coming into the United States of America\" and that there may be other countermeasures.",
+        "url": "https://finnhub.io/api/news?id=5c8d77e10c8a19a63fb7802a4cc54f1195fa96cd13081719ddd431200b97cb8f",
+        "source": "Benzinga",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "SCHD-Inspired 4-Factor Dividend Growth Strategy Selections For August 2026",
+        "url": "https://finnhub.io/api/news?id=4886ad9f03b09da7279f69a49c8985a0598f2ff3ec690a423ee3ea4802c71af6",
+        "source": "SeekingAlpha",
+        "date": "2026-08-04"
+      }
+    ],
+    "cachedAt": "2026-08-11T06:01:41.538Z"
+  }
+}

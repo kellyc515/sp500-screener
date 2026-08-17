@@ -1,0 +1,60 @@
+{
+  "ticker": "CMCSA",
+  "companyName": "COMCAST CORP",
+  "researchedAt": "2026-08-12T02:15:00.000Z",
+  "researchMethod": "Phase 6 operational layer - filings fetched/extracted programmatically (research.js), analysis performed directly by Claude Code reading the extracted material, not by an automated LLM API call. Every factual claim below cites a specific source in the sources[] list.",
+  "filingsUsed": [
+    { "form": "10-Q", "filingDate": "2026-07-23", "reportDate": "2026-06-30", "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049360/cmcsa-20260630.htm" },
+    { "form": "10-K", "filingDate": "2026-02-03", "reportDate": "2025-12-31", "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026004994/cmcsa-20251231.htm" }
+  ],
+  "quantContext": {
+    "note": "From this project's own scoring pipeline (companies.json + screener.js, Phases 1-5/7), included for reference only - not itself a research source.",
+    "pe": 8.16, "pb": 1.0, "roe": 22.28, "debtEquity": 0.068,
+    "sentiment": 0.542, "analystScore": 61.3, "beta": 0.6549, "ret3m": -3.96, "ret6m": -15.32
+  },
+  "questions": {
+    "whyCheapBearCase": {
+      "answer": "CMCSA trades at a low P/E (8.16) and P/B of roughly 1.0 [source: 1], and the stock is down -15.32% over six months [source: 1]. The filing evidence supports a real, structural explanation rather than pure undervaluation. First, operating income - a cleaner measure than headline net income, which was distorted by a one-time $9.4 billion pre-tax gain on the June 2025 sale of the company's Hulu interest - declined 11.3% in FY2025 (to $20,672 million) and the decline accelerated into H1 2026 (-20.2% YoY per XBRL), driven by rising depreciation/amortization (Epic Universe theme park opening, impairments of certain long-lived assets, higher acquisition-related intangible amortization) [source: 3, 4]. Second, the core Residential Connectivity & Platforms segment is structurally shrinking: total customer relationships fell 967,000 to 50.8 million and domestic broadband customers fell 711,000 to 31.3 million in FY2025, in what management itself calls 'an increasingly competitive environment' [source: 3]. Third, in June 2026 Comcast announced its intention to separate into two independent public companies via a tax-free spin-off of NBCUniversal and Sky; the 10-Q's own Risk Factors section explicitly states the company 'cannot predict whether the market value of our Class A common stock and the Class A common stock of NBCUniversal after the NBCUniversal Spin-off will be, in the aggregate, less than, equal to or greater than the market value ... prior to' the spin-off - a real, filed, unresolved value-creation uncertainty around the very transaction that could otherwise be read as a catalyst [source: 2].",
+      "sourceRefs": [1, 2, 3, 4]
+    },
+    "revenueEpsTrend": {
+      "answer": "Mixed: reported net income/EPS swings are largely a comparison-base effect from the 2025 Hulu sale, but underlying operating income is also genuinely declining. FY2025 revenue was essentially flat ($123,707 million vs. $123,731 million in FY2024, -0.02%), while net income attributable to Comcast rose 23.5% to $19,998 million and diluted EPS rose 30.1% to $5.39 - almost entirely because 'Investment and other income (loss), net' swung from -$490 million (2024) to $9,503 million (2025), driven by the $9.4 billion pre-tax gain on the June 2025 sale of the company's Hulu interest [source: 3]. That comparison base then reverses in 2026: per XBRL, Q2 2026 net income was $3,526 million vs. Q2 2025's $11,123 million (-68.3%, since Q2 2025 included the Hulu gain), and diluted EPS was $0.99 vs. $2.98 (-66.8%); H1 2026 net income was $5,699 million vs. an implied H1 2025 of approximately $14,498 million (-60.7%) [source: 4]. Importantly, operating income - which excludes the Hulu gain - also declined in H1 2026 (-20.2% YoY per XBRL), so there is a real, non-comparison-base deterioration in underlying operations layered on top of the Hulu-related EPS distortion [source: 4].",
+      "direction": "mixed_reported_EPS_swing_is_comp_base_effect_but_operating_income_genuinely_declining",
+      "sourceRefs": [3, 4]
+    },
+    "marginTrend": {
+      "answer": "Compressing, and appears to be accelerating into 2026. In FY2025, Connectivity & Platforms Adjusted EBITDA margin fell 40bps to 40.0% (Residential -50bps to 37.7%; Business Services -80bps to 55.9%), attributed to declining video/advertising revenue and rising costs [source: 3]. GAAP operating margin compression looks more severe using the most recent XBRL data: with revenue roughly flat, H1 2026 operating income fell 20.2% year-over-year (versus an 11.3% full-year decline in FY2025), implying the rate of margin compression increased in the first half of 2026 [source: 3, 4]. The 10-K attributes the rising cost base primarily to increased depreciation and amortization from the May 2025 opening of Epic Universe in Orlando, impairments of certain long-lived assets recorded in 2025, and higher amortization of acquisition-related intangible assets ($3.3 billion in 2025 vs. $2.7 billion in 2024) [source: 3].",
+      "direction": "compressing_and_accelerating_into_2026",
+      "sourceRefs": [3, 4]
+    },
+    "guidanceChange": {
+      "answer": "Not determinable from available sources. The 10-Q's MD&A extraction captured only Item 3/4 boilerplate (no material changes to market-risk disclosures, controls and procedures conclusions), not a current-quarter results or outlook discussion [source: 2]. The 10-K's substantive MD&A text covers historical FY2025 results rather than FY2026 guidance [source: 3]. No cached news headline discloses explicit company guidance for CMCSA.",
+      "sourceRefs": [2]
+    },
+    "catalysts": [
+      { "text": "The announced NBCUniversal/Sky tax-free spin-off (June 2026) is intended to let each resulting company 'pursue its own strategic priorities, invest for growth and create long-term shareholder value as independent entities' - a real, dated, structural catalyst that could unlock a valuation re-rating for the remaining Connectivity & Platforms business, which currently trades at a P/E of 8.16 and P/B near 1.0.", "sourceRefs": [1, 2] },
+      { "text": "Peacock streaming subscriber growth continued in FY2025 (+8 million paid subscribers to 44 million) even as the segment remains unprofitable ($5.4 billion revenue vs. $6.5 billion costs and expenses) - a real, filed growth trajectory for a scaling platform.", "sourceRefs": [3] },
+      { "text": "Business Services Connectivity segment continues to grow (+5.5% revenue in FY2025) and is expanding into new areas, including a recent, dated push into private wireless for the office market (cached news, 2026-08-09) - diversification beyond the declining Residential segment.", "sourceRefs": [3, 5] }
+    ],
+    "risks": [
+      { "text": "Persistent, structural domestic broadband and video customer losses (-711,000 broadband, -1.3 million video customers in FY2025) in what management itself describes as 'an increasingly competitive environment' for the core Residential Connectivity & Platforms segment.", "sourceRefs": [3] },
+      { "text": "Operating income declining in both FY2025 (-11.3%) and, per XBRL, accelerating into H1 2026 (-20.2% YoY) - a genuine, filing/XBRL-confirmed deterioration in core operating performance, independent of the Hulu-gain noise in the headline net income and EPS figures.", "sourceRefs": [3, 4] },
+      { "text": "The NBCUniversal/Sky spin-off itself carries filed, explicit execution and valuation uncertainty: required conditions (Board approval, tax opinions, regulatory approvals, financing) are not yet satisfied, and management explicitly states it cannot predict whether the separation will create or destroy aggregate shareholder value.", "sourceRefs": [2] }
+    ],
+    "verdict": {
+      "classification": "opportunity_with_real_structural_risk",
+      "confidence": "medium",
+      "reasoning": "CMCSA's cheap valuation (P/E 8.16, P/B ~1.0) [source: 1] coincides with a real, dated structural catalyst (the NBCUniversal/Sky spin-off) [source: 2] that could unlock value in the remaining Connectivity & Platforms business. But the filing evidence also shows genuine, ongoing operating deterioration that is not just a Hulu-gain comparison-base artifact: real customer losses in the core Residential segment and operating income declining at an accelerating rate into H1 2026 [source: 3, 4]. Because the spin-off's own risk disclosure explicitly states management cannot predict whether it will create or destroy value, and because the core operating business is genuinely softening at the same time, I classify this as an opportunity with real structural risk rather than either a clean value trap or a clean opportunity, with medium confidence.",
+      "sourceRefs": [1, 2, 3, 4]
+    }
+  },
+  "sources": [
+    { "id": 1, "type": "internal-quant-data", "description": "companies.json / screener.js output for CMCSA (pe, pb, roe, debtEquity, sentiment, analyst, beta, ret3m, ret6m) as of the current screener-report.html generation", "url": null, "date": "2026-08-11" },
+    { "id": 2, "type": "10-Q Risk Factors", "description": "Comcast Q2 2026 Form 10-Q, Risk Factors - NBCUniversal/Sky spin-off disclosure (announced June 2026, conditions, tax and valuation uncertainty); MD&A section is Item 3/4 boilerplate only", "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049360/cmcsa-20260630.htm", "date": "2026-07-23" },
+    { "id": 3, "type": "10-K MD&A", "description": "Comcast FY2025 Form 10-K, Item 7 Consolidated and Segment Operating Results (revenue, operating income, Hulu gain, Peacock, customer metrics, D&A drivers)", "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026004994/cmcsa-20251231.htm", "date": "2026-02-03" },
+    { "id": 4, "type": "SEC XBRL companyfacts", "description": "Multi-period EarningsPerShareDiluted, NetIncomeLoss, and OperatingIncomeLoss figures, CIK 0001166691, through Q2 2026 (ended 2026-06-30); the 'Revenues' tag returned only stale 2022-2023 data points", "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001166691.json", "date": "2026-08-12 (retrieved)" },
+    { "id": 5, "type": "cached news headline (Yahoo via Finnhub)", "description": "'Comcast (CMCSA) Pushes Private Wireless Into The Office Market' - headline only, article content not fetched", "url": "https://finnhub.io/api/news?id=7b367543de7e1e05eb82becfb070056112c6bcb88a3fee6752281a57cd0ba36c", "date": "2026-08-09" },
+    { "id": 6, "type": "cached news headline (Yahoo via Finnhub)", "description": "'Xfinity and Comcast Business High-Speed Internet Now Available to More Than 2,400 Homes and Businesses in Putnam County, Florida' - headline only, article content not fetched", "url": "https://finnhub.io/api/news?id=5deed8e4312d31b7ba01756f554b9a35d152c0ac074974983277b64dffb39061", "date": "2026-08-10" }
+  ],
+  "sourcingNote": "The 10-Q's MD&A extraction captured only Item 3/4 boilerplate, not a Q2 2026 results narrative, so Q2/H1 2026 revenue, net income and operating income figures above come from SEC XBRL companyfacts rather than quoted MD&A text. The XBRL 'Revenues' tag itself returned only stale 2022-2023 data points (a tag-mapping limitation), so FY-level revenue comparisons rely on the 10-K's own stated dollar figures. A cached headline ('August Buys: 4 IDEAL S&P 500 Safer Dividend Dogs') was reviewed but not cited because its relevance to CMCSA specifically could not be confirmed from the headline alone (no article body was fetched)."
+}

@@ -1,0 +1,634 @@
+{
+  "ticker": "CHTR",
+  "entityName": "CHARTER COMMUNICATIONS, INC. /MO/",
+  "cik": "0001091667",
+  "generatedAt": "2026-08-12T01:36:59.558Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-07-24",
+        "reportDate": "2026-06-30",
+        "accessionNumber": "0001091667-26-000052",
+        "primaryDocument": "chtr-20260630.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1091667/000109166726000052/chtr-20260630.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1091667/000109166726000052/"
+      },
+      "textLength": 122182,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations&#8221; in our 2025 Annual Report on Form 10-K. There have been no material changes from the critical accounting policies described in our Form 10-K. Based on our quantitative impairment analysis during the fourth quarter of 2025, the fair value of our franchise intangibles exceeded the carrying value by more than 10% in each unit of accounting. Considering the decline in Charter's stock price during the quarter ending June 30, 2026, we continue to monitor factors that could impact the fair value of our franchises and goodwill. We do not view this recent decline as representing a fundamental change in the long-term results of our business. However, if the lower stock price persists, we may need to evaluate whether this market perception represents a sustained decline in the market value of our business and perform a quantitative impairment assessment to determine any potential impact on the carrying value of our franchises and goodwill. 17 Results of Operations The following table sets forth the consolidated statements of operations for the periods presented (dollars in millions, except per share data): Three Months Ended June 30, Six Months Ended June 30, 2026 2025 2026 2025 Revenues $ 13,526 $ 13,766 $ 27,123 $ 27,501 Costs and Expenses: Operating costs and expenses (exclusive of items shown separately below) 8,215 8,230 16,378 16,424 Depreciation and amortization 2,197 2,176 4,408 4,357 Other operating expenses, net 51 81 66 204 10,463 10,487 20,852 20,985 Income from operations 3,063 3,279 6,271 6,516 Other Income (Expenses): Interest expense, net (1,276) (1,263) (2,532) (2,504) Other income (expenses), net 212 (107) 88 (249) (1,064) (1,370) (2,444) (2,753) Income before income taxes 1,999 1,909 3,827 3,763 Income tax expense (475) (414) (940) (859) Consolidated net income 1,524 1,495 2,887 2,904 Less: Net income attributable to noncontrolling interests (232) (194) (432) (386) Net income attributable to Charter shareholders $ 1,292 $ 1,301 $ 2,455 $ 2,518 EARNINGS PER COMMON SHARE ATTRIBUTABLE TO CHARTER SHAREHOLDERS: Basic $ 10.76 $ 9.41 $ 20.00 $ 18.00 Diluted $ 10.66 $ 9.18 $ 19.81 $ 17.59 Weighted average common shares outstanding, basic 120,121,017 138,205,810 122,789,924 139,889,251 Weighted average common shares outstanding, diluted 121,255,667 141,684,415 123,969,262 143,098,493 Revenues. Total revenues decreased $240 million and $378 million during the three and six months ended June 30, 2026, respectively, compared to the corresponding periods in 2025. The decrease was primarily due to a higher seamless entertainment allocation and lower customer relationships, partly offset by mobile line growth. 18 Revenues by service offering were as follows (dollars in millions; all percentages are calculated using whole numbers; minor differences may exist due to rounding): Three Months Ended June 30, Six Months Ended June 30, 2026 2025 % Change 2026 2025 % Change Internet $ 5,776 $ 5,969 (3.2) % $ 11,628 $ 11,899 (2.3) % Mobile service 1,095 921 18.9 % 2,147 1,835 17.0 % Connectivity 6,871 6,890 (0.3) % 13,775 13,734 0.3 % Video 3,149 3,488 (9.7) % 6,401 7,068 (9.4) % Voice 331 346 (4.5) % 669 702 (4.7) % Residential revenue 10,351 10,724 (3.5) % 20,845 21,504 (3.1) % Small business 1,104 1,096 0.7 % 2,194 2,184 0.4 % Mid-market & large business 761 740 2.8 % 1,510 1,474 2.4 % Commercial revenue 1,865 1,836 1.5 % 3,704 3,658 1.2 % Advertising sales 416 371 12.3 % 774 711 9.0 % Other 894 835 7.1 % 1,800 1,628 10.6 % $ 13,526 $ 13,766 (1.7) % $ 27,123 $ 27,501 (1.4) % The decrease in Internet revenues from our residential customers is attributable to the following (dollars in millions): Three months ended June 30, 2026 compared to three months ended June 30, 2025 Six months ended June 30, 2026 compared to six months ended June 30, 2025 Decrease in average residential Internet customers $ (104) $ (191) Decrease related to rate (89) (80) $ (193) $ (271) Residential Internet customers decreased by 510,000 customers from June 30, 2025 to June 30, 2026. The increase in mobile service revenues from our residential customers is attributable to the following (dollars in millions): Three months ended June 30, 2026 compared to three months ended June 30, 2025 Six months ended June 30, 2026 compared to six months ended June 30, 2025 Increase in average residential mobile lines $ 147 $ 311 Increase related to rate 27 1 $ 174 $ 312 Residential mobile lines increased by approximately 1.6 million mobile lines from June 30, 2025 to June 30, 2026. 19 Video revenues consist primarily of revenues from video services provided to our residential customers, as well as franchise fees, equipment service fees and video installation revenue. The decrease in video revenues is attributable to the following (dollars in millions): Three months ended June 30, 2026 compared to three months ended June 30, 2025 Six months ended June 30, 2026 compared to six months ended June 30, 2025 Increase in seamless entertainment allocation $ (184) $ (355) Decrease related to rate and product mix changes (124) (227) Decrease in average residential video customers (31) (85) $ (339) $ (667) Seamless entertainment allocation represents costs allocated to programmer streaming applications and netted within video revenue. The increase in seamless entertainment allocation is due to growth in seamless entertainment applications and higher activations. The decrease related to rate and product mix was primarily due to a higher mix of lower priced video packages within our video customer base and more unfavorable bundled revenue allocation, partly offset by promotional rate step-ups and video rate adjustments that pass-through programming rate increases. Residential video customers decreased by 77,000 from June 30, 2025 to June 30, 2026. The decrease in voice revenues from our residential customers is attributable to the following (dollars in millions): Three months ended June 30, 2026 compared to three months ended June 30, 2025 Six months ended June 30, 2026 compared to six months ended June 30, 2025 Decrease in average residential voice customers $ (45) $ (94) Increase related to rate adjustments 30 61 $ (15) $ (33) Residential wireline voice customers decreased by 667,000 customers from June 30, 2025 to June 30, 2026. The increase in small business revenues is attributable to the following (dollars in millions): Three months ended June 30, 2026 compared to three months ended June 30, 2025 Six months ended June 30, 2026 compared to six months ended June 30, 2025 Increase related to rate and product mix changes $ 16 $ 25 Decrease in average small business customers (8) (15) $ 8 $ 10 Small business customers decreased by 18,000 from June 30, 2025 to June 30, 2026. Mid-market & large business revenues increased $21 million and $36 million during the three and six months ended June 30, 2026, respectively, compared to the corresponding periods in 2025 primarily due to an increase in Internet PSUs. Mid-market & large business PSUs increased 14,000 from June 30, 2025 to June 30, 2026. Advertising sales revenues consist primarily of revenues from commercial advertising customers, programmers and other vendors, as well as local cable and advertising on regional sports and news channels. Advertising sales revenues increased $45 million and $63 million during the three and six months ended June 30, 2026, respectively, as compared to the corresponding periods in 2025 primarily due to an increase in political and streaming advertising revenue, partly offset by a decrease in linear advertising revenue. 20 Other revenues consist of revenue from mobile and video device sales, processing fees, regional sports and news channels (excluding intercompany charges or advertising sales on those channels), subsidy revenue, home shopping, wire maintenance fees and other miscellaneous revenues. Other revenues increased $59 million and $172 million during the three and six months ended June 30, 2026, respectively, compared to the corresponding periods in 2025 primarily due to higher mobile device sales, partly offset by a one-time $45 million benefit in the prior year period. Operating costs and expenses . The decrease in our operating costs and expenses, exclusive of items shown separately in the consolidated statements of operations, are attributable to the following (dollars in millions): Three months ended June 30, 2026 compared to three months ended June 30, 2025 Six months ended June 30, 2026 compared to six months ended June 30, 2025 Programming $ (218) $ (432) Other costs of revenue 186 367 Field and technology operations 21 (3) Customer operations 8 2 Marketing and residential sales (31) (61) Transition expenses 65 89 Other (46) (8) $ (15) $ (46) Programming costs were approximately $2.0 billion and $2.3 billion for the three months ended June 30, 2026 and 2025, representing 25% and 27% of total operating costs and expenses, respectively, and $4.1 billion and $4.6 billion for the six months ended June 30, 2026 and 2025, representing 25% and 28% of total operating costs and expenses, respectively. Programming costs consist primarily of costs paid to programmers for basic, premium, video on demand, and pay-per-view programming. Programming costs decreased as a result of a $184 million and $355 million increase in costs allocated to seamless entertainment applications and netted within video revenue during the three and six months ended June 30, 2026, respectively, compared to the corresponding periods in 2025 as well as a higher mix of lower cost video packages within our video customer base and fewer video customers, partly offset by contractual rate adjustments, including renewals and increases in amounts paid for retransmission consent. Other costs of revenue increased $186 million and $367 million during the three and six months ended June 30, 2026, respectively, compared to the corresponding periods in 2025 primarily due to higher mobile device sales and mobile service direct costs due to an increase in mobile lines as well as higher advertising sales costs given higher political revenue. Transition expenses represent incremental costs incurred to prepare for the integration of Cox Communications' operations and to bring systems and processes into a uniform operating structure. Depreciation and amortization. Depreciation and amortization expense increased $21 million and $51 million during the three and six months ended June 30, 2026, respectively, compared to the corresponding periods in 2025 primarily due to an increase in depreciation as a result of more recent capital expenditures, partly offset by certain assets becoming fully depreciated. 21 Other operating expenses, net. The change in other operating expenses, net is attributable to the following (dollars in millions): Three months ended June 30, 2026 compared to three months ended June 30, 2025 Six months ended June 30, 2026 compared to six months ended June 30, 2025 Special charges, net $ 14 $ (19) Merger and acquisition costs (35) (21) Loss on disposal of assets, net (9) (98) $ (30) $ (138) See Note 10 to the accompanying consolidated financial statements contained in &#8220;Item 1. Financial Statements&#8221; for more information. Interest expense, net. Net interest expense increased by $13 million and $28 million for the three and six months ended June 30, 2026, respectively, compared to the corresponding periods in 2025 primarily due to an increase in weighted average debt. Other income (expenses), net. The change in other income (expenses), net is attributable to the following (dollars in millions): Three months ended June 30, 2026 compared to three months ended June 30, 2025 Six months ended June 30, 2026 compared to six months ended June 30, 2025 Loss on equity investments, net $ 59 $ 61 Gain (loss) on financial instruments, net (see Note 8) 17 37 Gain on extinguishment of debt, net (see Note 4) 243 239 $ 319 $ 337 See Note 10 and the Notes referenced above to the accompanying consolidated financial statements contained in &#8220;Item 1. Financial Statements&#8221; for more information. Income tax expense. We recognized income tax expense of $475 million and $940 million for the three and six months ended June 30, 2026, respectively, and $414 million and $859 million for the three and six months ended June 30, 2025, respectively. Net income attributable to noncontrolling interest. Net income attributable to noncontrolling interest for financial reporting purposes represents Advance/Newhouse Partnership's (&#8220;A/N&#8221;) portion of Charter Holdings' net income based on its effective common unit ownership interest. For more information, see Note 7 to the accompanying consolidated financial statements contained in &#8220;Item 1. Financial Statements.&#8221; Net income attributable to Charter shareholders. Net income attributable to Charter shareholders decreased $9 million and $63 million during the three and six months ended June 30, 2026, respectively, compared to the corresponding periods in 2025 primarily as a result of the factors described above. Use of Adjusted EBITDA and Free Cash Flow We use certain measures that are not defined by U.S. generally accepted accounting principles (&#8220;GAAP&#8221;) to evaluate various aspects of our business. Adjusted EBITDA and free cash flow are non-GAAP financial measures and should be considered in addition to, not as a substitute for, net income attributable to Charter shareholders and net cash flows from operating activities reported in accordance with GAAP. These terms, as defined by us, may not be comparable to similarly titled measures used by other companies. Adjusted EBITDA and free cash flow are reconciled to net income attributable to Charter shareholders and net cash flows from operating activities, respectively, below. 22 Adjusted EBITDA eliminates the significant non-cash depreciation and amortization expense that results from the capital-intensive nature of our businesses as well as other non-cash or special items, and is unaffected by our capital structure or investment activities. However, this measure is limited in that it does not reflect the periodic costs of certain capitalized tangible and intangible assets used in generating revenues and our cash cost of financing. These costs are evaluated through other financial measures. Free cash flow is defined as net cash flows from operating activities, less capital expenditures and changes in accrued expenses related to capital expenditures. Management and Charter's board of directors use Adjusted EBITDA and free cash flow to assess our performance and our ability to service our debt, fund operations and make additional investments with internally generated funds. In addition, Adjusted EBITDA generally correlates to the leverage ratio calculation under our credit facilities or outstanding notes to determine compliance wi",
+        "charRange": [
+          76648,
+          91648
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "risk factors described in our Form 10-K. Item 2. Unregistered Sales of Equity Securities and Use of Proceeds. Purchases of Equity Securities by the Issuer The following table presents Charter's purchases of equity securities completed during the second quarter of 2026 (dollars in millions, except per share amounts): Period Total Number of Shares Purchased (1) Average Price Paid per Share Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs (2) Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs (2) April 1 - 30, 2026 4,005,612 $228.65 2,370,455 $419 May 1 - 31, 2026 1,596,910 $195.62 1,594,775 $365 June 1 - 30, 2026 40,405 $158.47 31,315 $365 (1) Includes 1,635,157, 2,135 and 9,090 shares withheld from employees for the payment of taxes and exercise costs upon the exercise of stock options or vesting of other equity awards for the months of April, May and June 2026, respectively. (2) During the three months ended June 30, 2026, Charter purchased approximately 4.0 million shares of its Class A common stock for approximately $838 million. As of June 30, 2026, Charter had remaining board authority to purchase an additional $365 million of Charter's Class A common stock and/or Charter Holdings common units, excluding purchases from Liberty Broadband. In addition to open market purchases including pursuant to Rule 10b5-1 plans adopted from time to time, Charter may also buy shares of Charter Class A common stock, from time to time, pursuant to private transactions outside of its Rule 10b5-1 plan and any such repurchases may also trigger the repurchases from A/N pursuant to and to the extent provided in the Existing A/N Letter Agreement or Liberty Broadband pursuant to the Stockholders and Letter Agreement Amendment. Item 6. Exhibits. See Exhibit Index. 29",
+        "charRange": [
+          117403,
+          119249
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 57464,
+            "context": "d June 30, 2026 2025 2026 2025 Special charges, net $ 43 $ 29 $ 41 $ 60 Merger and acquisition costs 8 43 23 44 Loss on disposal of assets, net — 9 2 100 $ 51 $ 81 $ 66 $ 204 Special charges, net primarily includes severance costs and net amounts of litigation settlements. Merger and acquisition costs represent costs incurred primarily in connection with the Cox Transactions, such as advisory, legal and accounting fees, among others. Loss on disposal of assets, net includes a $ 90 million impairment on non-strategic assets during the six months ended June 30, 2025. 11 CHARTER COMMUNICATIONS, I"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 35982,
+            "context": "liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Areas involving significant judgments and estimates include capitalization of labor and overhead costs, valuation and impairment of franchise assets and goodwill, and income taxes. Actual results could differ from those estimates. Comprehensive income equaled net income attributable to Charter shareholders for the three and six months ended June 30, 2026 and 2025. 2. Mergers and Acquisitions On May 16, 2025, Charter, Charter Holdings, and Cox Enterprises, Inc. (&#"
+          },
+          {
+            "charIndex": 57708,
+            "context": "ts of litigation settlements. Merger and acquisition costs represent costs incurred primarily in connection with the Cox Transactions, such as advisory, legal and accounting fees, among others. Loss on disposal of assets, net includes a $ 90 million impairment on non-strategic assets during the six months ended June 30, 2025. 11 CHARTER COMMUNICATIONS, INC. AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (dollars in millions, except per share amounts and where indicated) Other Income (Expenses), Net Other income (expenses), net consist of the following for the periods p"
+          },
+          {
+            "charIndex": 76909,
+            "context": "s Discussion and Analysis of Financial Condition and Results of Operations&#8221; in our 2025 Annual Report on Form 10-K. There have been no material changes from the critical accounting policies described in our Form 10-K. Based on our quantitative impairment analysis during the fourth quarter of 2025, the fair value of our franchise intangibles exceeded the carrying value by more than 10% in each unit of accounting. Considering the decline in Charter's stock price during the quarter ending June 30, 2026, we continue to monitor factors that could impact the fair value of our franchises and go"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 22330,
+            "context": "8226; the effects of governmental regulation on our business including subsidies to consumers, subsidies and incentives for competitors, costs, disruptions and possible limitations on operating flexibility related to, and our ability to comply with, regulatory conditions applicable to us; &#8226; our ability to procure necessary services and equipment from our vendors in a timely manner and at reasonable costs including in connection with our network evolution and rural construction initiatives; &#8226; our ability to obtain programming at reasonable prices or to raise prices to offset, in who"
+          },
+          {
+            "charIndex": 35199,
+            "context": "formation and footnote disclosures typically included in the Company's Annual Report on Form 10-K have been condensed or omitted for this quarterly report. The accompanying consolidated financial statements are unaudited and are subject to review by regulatory authorities. However, in the opinion of management, such financial statements include all adjustments, which consist of only normal recurring adjustments, necessary for a fair presentation of the results for the periods presented. Interim results are not necessarily indicative of results for a full year. The preparation of financial stat"
+          },
+          {
+            "charIndex": 39563,
+            "context": "30, 2026 December 31, 2025 Accounts payable &#8211; trade $ 1,066 $ 1,034 Deferred revenue 428 422 Accrued and other current liabilities: Programming costs 1,581 1,575 Labor 1,302 1,365 Capital expenditures 3,162 3,296 Interest 1,279 1,259 Taxes and regulatory fees 567 521 Short-term borrowings 1,155 918 Other 2,239 2,166 $ 12,779 $ 12,556 Under a supply chain finance program, the Company has agreements with third parties that allow its participating vendors to finance payment obligations from the Company with designated third-party financial institutions who act as its paying agent. As a resu"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 57475,
+            "context": "2026 2025 2026 2025 Special charges, net $ 43 $ 29 $ 41 $ 60 Merger and acquisition costs 8 43 23 44 Loss on disposal of assets, net — 9 2 100 $ 51 $ 81 $ 66 $ 204 Special charges, net primarily includes severance costs and net amounts of litigation settlements. Merger and acquisition costs represent costs incurred primarily in connection with the Cox Transactions, such as advisory, legal and accounting fees, among others. Loss on disposal of assets, net includes a $ 90 million impairment on non-strategic assets during the six months ended June 30, 2025. 11 CHARTER COMMUNICATIONS, INC. AND SUB"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 109296,
+            "context": "sfy its leverage ratio test at the time of the contemplated distribution. In addition to the limitation on distributions under the various indentures, distributions by our subsidiaries may be limited by applicable law, including the Delaware Limited Liability Company Act, under which our subsidiaries may only make distributions if they have &#8220;surplus&#8221; as defined in the act. Historical Operating, Investing, and Financing Activities Cash and Cash Equivalents. We held $509 million and $477 million in cash and cash equivalents as of June 30, 2026 and December 31, 2025, respectively. In"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-01-30",
+        "reportDate": "2025-12-31",
+        "accessionNumber": "0001091667-26-000017",
+        "primaryDocument": "chtr-20251231.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1091667/000109166726000017/chtr-20251231.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1091667/000109166726000017/"
+      },
+      "textLength": 528110,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations&#8221; in our Annual Report on Form 10-K for the year ended December 31, 2024, filed with the SEC on January 31, 2025, which is available free of charge on the SEC's website at www.sec.gov and on Charter's investor relations website at ir.charter.com. The following table sets forth the consolidated statements of operations for the periods presented (dollars in millions, except per share data): Year Ended December 31, 2025 2024 Revenues $ 54,774 $ 55,085 Costs and Expenses: Operating costs and expenses (exclusive of items shown separately below) 32,739 33,167 Depreciation and amortization 8,711 8,673 Other operating expenses, net 416 127 41,866 41,967 Income from operations 12,908 13,118 Other Income (Expenses): Interest expense, net (5,042) (5,229) Other expenses, net (408) (387) (5,450) (5,616) Income before income taxes 7,458 7,502 Income tax expense (1,692) (1,649) Consolidated net income 5,766 5,853 Less: Net income attributable to noncontrolling interests (779) (770) Net income attributable to Charter shareholders $ 4,987 $ 5,083 EARNINGS PER COMMON SHARE ATTRIBUTABLE TO CHARTER SHAREHOLDERS: Basic $ 36.90 $ 35.53 Diluted $ 36.21 $ 34.97 Weighted average common shares outstanding, basic 135,155,309 143,061,337 Weighted average common shares outstanding, diluted 137,743,676 145,363,771 Revenues. Total revenues decreased $311 million or 0.6% during the year ended December 31, 2025 as compared to 2024 primarily due to lower customers, higher seamless entertainment allocation and lower advertising sales, partly offset by mobile line growth and higher average revenue per customer. 43 Revenues by service offering were as follows (dollars in millions; all percentages are calculated using whole numbers; minor differences may exist due to rounding): Years ended December 31, 2025 2024 Growth Internet $ 23,765 $ 23,360 1.7 % Mobile service 3,762 3,083 22.0 % Connectivity 27,527 26,443 4.1 % Video 13,703 15,129 (9.4) % Voice 1,350 1,437 (6.0) % Residential revenue 42,580 43,009 (1.0) % Small business 4,346 4,376 (0.7) % Mid-market & large business 2,969 2,878 3.2 % Commercial revenue 7,315 7,254 0.9 % Advertising sales 1,468 1,780 (17.6) % Other 3,411 3,042 12.1 % $ 54,774 $ 55,085 (0.6) % The increase in Internet revenues from our residential customers was attributable to the following (dollars in millions): 2025 compared to 2024 Increase related to rate and product mix changes $ 785 Decrease in average residential Internet customers (380) $ 405 The increase related to rate and product mix was primarily due to promotional rate step-ups, rate adjustments, and a favorable change in bundled revenue allocation. Residential Internet customers decreased by 393,000 in 2025 compared to 2024. The increase in mobile service revenues from our residential customers is attributable to the following (dollars in millions): 2025 compared to 2024 Increase in average residential mobile lines $ 714 Decrease related to rate (35) $ 679 Residential mobile lines increased by 1.8 million in 2025 compared to 2024. Video revenues consist primarily of revenues from video services provided to our residential customers, as well as franchise fees, equipment service fees and video installation revenue. The decrease in video revenues was attributable to the following (dollars in millions): 2025 compared to 2024 Decrease in average residential video customers $ (813) Increase in seamless entertainment allocation (322) Decrease related to rate and product mix changes (291) $ (1,426) 44 Residential video customers decreased by 255,000 in 2025 compared to 2024. The decrease related to rate and product mix was primarily due to a higher mix of lower priced video packages within our video customer base and more unfavorable bundled revenue allocation, partly offset by promotional rate step-ups and video rate adjustments that pass-through programming rate increases. Seamless entertainment allocation represents costs allocated to programmer streaming applications and netted within video revenue. The growth is due to more seamless entertainment applications and higher activations. The decrease in voice revenues from our residential customers was attributable to the following (dollars in millions): 2025 compared to 2024 Decrease in average residential voice customers $ (230) Increase related to rate adjustments 143 $ (87) Residential wireline voice customers decreased by 804,000 in 2025 compared to 2024. The decrease in small business revenues is attributable to the following (dollars in millions): 2025 compared to 2024 Decrease in average small business customers $ (17) Decrease related to rate and product mix changes (13) $ (30) Small business customers decreased by 13,000 in 2025 compared to 2024. Mid-market & large business revenues increased $91 million during the year ended December 31, 2025 as compared to the corresponding period in 2024 primarily due to an increase in Internet PSUs. Mid-market & large business PSUs increased by 17,000 in 2025 compared to 2024. Advertising sales revenues consist primarily of revenues from commercial advertising customers, programmers and other vendors, as well as local cable and advertising on regional sports and news channels. Advertising sales revenues decreased $312 million during the year ended December 31, 2025 as compared to the corresponding period in 2024 primarily due to a decrease in political revenue. Other revenues consist of revenue from mobile and video device sales, processing fees, regional sports and news channels (excluding intercompany charges or advertising sales on those channels), subsidy revenue, home shopping, wire maintenance fees and other miscellaneous revenues. Other revenues increased approximately $369 million during the year ended December 31, 2025 as compared to the corresponding period in 2024 primarily due to higher mobile device sales. Operating costs and expenses . The decrease in our operating costs and expenses, exclusive of items shown separately in the consolidated statements of operations, was attributable to the following (dollars in millions): 2025 compared to 2024 Programming $ (831) Other costs of revenue 353 Field and technology operations (18) Customer operations (47) Marketing and residential sales 192 Transition expenses 19 Other (96) $ (428) 45 Programming costs were approximately $8.8 billion and $9.7 billion for the years ended December 31, 2025 and 2024, representing 27% and 29% of total operating costs and expenses, respectively. Programming costs consist primarily of costs paid to programmers for basic, premium, video on demand, and pay-per-view programming. Programming costs decreased as a result of a higher mix of lower cost video packages within our video customer base and fewer video customers as well as costs allocated to seamless entertainment applications and netted within video revenue, partly offset by contractual rate adjustments, including renewals and increases in amounts paid for retransmission consent. Other costs of revenue increased $353 million during the year ended December 31, 2025 compared to the corresponding period in 2024 primarily due to higher mobile service direct costs and mobile device sales due to an increase in mobile lines. Marketing and residential sales increased $192 million during the year ended December 31, 2025 compared to the corresponding period in 2024 primarily due to a change in sales mix to higher cost sales channels. Transition expenses represent incremental costs incurred to prepare for the integration of the Cox Transactions' operations and to bring systems and processes into a uniform operating structure. See Note 3 to the accompanying consolidated financial statements contained in &#8220;Part II. Item 8. Financial Statements and Supplementary Data.&#8221; for more information. Other expense decreased $96 million during the year ended December 31, 2025 compared to the corresponding period in 2024 primarily due to one-time favorable adjustments of $75 million. Depreciation and amortization. Depreciation and amortization expense increased by $38 million during the year ended December 31, 2025 compared to the corresponding period in 2024 primarily due to an increase in depreciation as a result of more recent capital expenditures, partly offset by certain assets becoming fully depreciated. Other operating expenses, net. Other operating expenses, net increased primarily due to the following (dollars in millions): 2025 compared to 2024 Special charges, net $ 18 (Gain) loss on disposal of assets, net 142 Merger and acquisition costs 129 $ 289 For more information, see Note 15 to the accompanying consolidated financial statements contained in &#8220;Part II. Item 8. Financial Statements and Supplementary Data.&#8221; Interest expense, net. Net interest expense decreased by $187 million in 2025 from 2024 primarily due to a decrease in weighted average interest rates and debt. Other expenses, net. The increase in other expenses, net is attributable to the following (dollars in millions): 2025 compared to 2024 Net periodic pension benefit (costs) (see Note 21) $ 27 Loss on equity investments, net (see Note 6) (26) Gain (loss) on extinguishment of debt, net (see Note 9) (29) Loss on financial instruments, net (see Note 13) 7 $ (21) See Note 15 and the Notes referenced above to the accompanying consolidated financial statements contained in &#8220;Item 1. Financial Statements&#8221; for more information. Income tax expense. We recognized income tax expense of $1.7 billion and $1.6 billion for the years ended December 31, 2025 and 2024, respectively . For more information, see Note 17 to the accompanying consolidated financial statements contained in &#8220;Part II. Item 8. Financial Statements and Supplementary Data.&#8221; 46 Net income attributable to noncontrolling interest. Net income attributable to noncontrolling interest for financial reporting purposes represents A/N's portion of Charter Holdings' net income based on its effective common unit ownership interest. For more information, see Note 12 to the accompanying consolidated financial statements contained in &#8220;Part II. Item 8. Financial Statements and Supplementary Data.&#8221; Net income attributable to Charter shareholders. Net income attributable to Charter shareholders was $5.0 billion and $5.1 billion for the years ended December 31, 2025 and 2024, respectively, primarily as a result of the factors described above. Use of Adjusted EBITDA and Free Cash Flow We use certain measures that are not defined by U.S. generally accepted accounting principles (&#8220;GAAP&#8221;) to evaluate various aspects of our business. Adjusted EBITDA and free cash flow are non-GAAP financial measures and should be considered in addition to, not as a substitute for, net income attributable to Charter shareholders and net cash flows from operating activities reported in accordance with GAAP. These terms, as defined by us, may not be comparable to similarly titled measures used by other companies. Adjusted EBITDA and free cash flow are reconciled to net income attributable to Charter shareholders and net cash flows from operating activities, respectively, below. Adjusted EBITDA eliminates the significant non-cash depreciation and amortization expense that results from the capital-intensive nature of our businesses as well as other non-cash or special items, and is unaffected by our capital structure or investment activities. However, this measure is limited in that it does not reflect the periodic costs of certain capitalized tangible and intangible assets used in generating revenues and our cash cost of financing. These costs are evaluated through other financial measures. Free cash flow is defined as net cash flows from operating activities, less capital expenditures and changes in accrued expenses related to capital expenditures. Management and the Board of Directors of Charter use Adjusted EBITDA and free cash flow to assess our performance and our ability to service our debt, fund operations and make additional investments with internally generated funds. In addition, Adjusted EBITDA generally correlates to the leverage ratio calculation under our credit facilities or outstanding notes to determine compliance with the covenants contained in the facilities and notes (all such documents have been previously filed with the SEC). For the purpose of calculating compliance with leverage covenants, we use Adjusted EBITDA, as presented, excluding certain expenses paid by our operating subsidiaries to other Charter entities. Our debt covenants refer to these expenses as management fees, which fees were in the amount of $1.4 billion and $1.5 billion for the years ended December 31, 2025 and 2024, respectively. A reconciliation of Adjusted EBITDA and free cash flow to net income attributable to Charter shareholders and net cash flows from operating activities, respectively, is as follows (dollars in millions): Years ended December 31, 2025 2024 Net income attributable to Charter shareholders $ 4,987 $ 5,083 Plus: Net income attributable to noncontrolling interest 779 770 Interest expense, net 5,042 5,229 Income tax expense 1,692 1,649 Depreciation and amortization 8,711 8,673 Stock compensation expense 673 651 Other, net 824 514 Adjusted EBITDA $ 22,708 $ 22,569 Net cash flows from operating activities $ 16,077 $ 14,430 Less: Purchases of property, plant and equipment (11,659) (11,269) Change in accrued expenses related to capital expenditures 586 1,096 Free cash flow $ 5,004 $ 4,257 47 Liquidity and Capital Resources Overview We have significant amounts of debt and require significant cash to fund principal and interest payments on our debt. The principal amount of our debt as of December 31, 2025 was $94.6 billion, consisting of $11.9 billion of credit facility debt, $55.4 billion of investment grade senior secured notes and $27.3 billion of high-yield senior unsecured notes. Our split credit rating allows us to access both the investment grade debt and the high yield debt markets. Additionally, our bankruptcy remote special purpose vehicle is the borrower of a senior secured revolving credit facility to finance the purchase of equipment installment plan receivables with a number of financial institutions (the &#8220;EIP Financing Facility&#8221;). As of December 31, 2025, the carrying value of the EIP Financing Facility was $1.4 billion. For more information on the EIP Financing Facility, see Note 10 to the accompanying consolidated financial statements contained in &#8220;Part II. Item 8. Financial Statements and Supplementary Data.&#8221; Our projected cash needs and projected sources of liquidity depend upon, among other things, our actual results, and the timing and amount of our expenditures. Free cash flow was $5.0 billion and $4.3 billion for the years ended December 31, 2025 and 2024, respectively",
+        "charRange": [
+          239457,
+          254457
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors — The agreements and instruments governing our debt contain restrictions and limitations that could significantly affect our ability to operate our business, as well as significantly affect our liquidity.&#8221; Recently Issued Accounting Standards See Note 22 to the accompanying consolidated financial statements contained in &#8220;Part II. Item 8. Financial Statements and Supplementary Data&#8221; for a discussion of recently issued accounting standards. Item 7A. Quantitative and Qualitative Disclosures About Market Risk. Cross-currency derivative instruments are used to manage foreign exchange risk on the Sterling Notes by effectively converting &#163;1.275 billion aggregate principal amount of fixed-rate British pound sterling denominated debt, including annual interest payments and the payment of principal at maturity, to fixed-rate U.S. dollar denominated debt. The fair value of our cross-currency derivatives included in other long-term liabilities on our consolidated balance sheets was $406 million and $504 million as of December 31, 2025 and 2024, respectively. For more information, see Note 13 to the accompanying consolidated financial statements contained in &#8220;Part II. Item 8. Financial Statements and Supplementary Data.&#8221; As of December 31, 2025 and 2024, the weighted average interest rate on the credit facility debt was approximately 5.6% and 6.3%, respectively, and the weighted average interest rate on the senior notes was approximately 5.1% and 5.0%, respectively, resulting in a blended weighted average interest rate of 5.1% and 5.2%, respectively. The interest rate on approximately 87% and 89% of the total principal amount of our debt was fixed as of December 31, 2025 and 2024, respectively. 53 The table set forth below summarizes the fair values and contract terms of financial instruments subject to interest rate risk maintained by us as of December 31, 2025 (dollars in millions): 2026 2027 2028 2029 2030 Thereafter Total Fair Value Debt: Fixed Rate $ 750 $ 3,250 $ 4,750 $ 7,000 $ 5,800 $ 61,118 $ 82,668 $ 73,664 Average Interest Rate 5.50 % 5.13 % 4.53 % 5.13 % 4.63 % 5.13 % 5.07 % Variable Rate $ 305 $ 305 $ 642 $ 279 $ 8,068 $ 2,350 $ 11,949 $ 11,803 Average Interest Rate 4.72 % 4.61 % 4.85 % 4.98 % 5.24 % 6.15 % 5.36 % Interest rates on variable-rate debt are estimated using the average implied forward Secured Overnight Financing Rate (&#8220;SOFR&#8221;) for the year of maturity based on the yield curve in effect at December 31, 2025 including applicable bank spread. Item 8. Financial Statements and Supplementary Data. Our consolidated financial statements, the related notes thereto, and the reports of independent registered public accounting firm are included in this annual report beginning on page F-1. Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure. None. Item 9A. Controls and Procedures. Conclusion Regarding the Effectiveness of Disclosure Controls and Procedures As of the end of the period covered by this report, under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, we have evaluated the effectiveness of the design and operation of disclosure controls and procedures with respect to the information generated for use in this annual report. The evaluation was based upon reports and certifications provided by a number of executives. Based on, and as of the date of that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that the disclosure controls and procedures were effective to provide reasonable assurances that information required to be disclosed in the reports we file or submit under the Securities Exchange Act of 1934 is recorded, processed, summarized and reported within the time periods specified in the SEC's rules and forms. In designing and evaluating the disclosure controls and procedures, our management recognized that any controls and procedures, no matter how well designed and operated, can provide only reasonable, not absolute, assurance of achieving the desired control objectives, and management necessarily was required to apply its judgment in evaluating the cost-benefit relationship of possible controls and procedures. Based upon the above evaluation, we believe that our controls provide such reasonable assurances. During the quarter ended December 31, 2025, there was no change in our internal control over financial reporting that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. Management's Report on Internal Control Over Financial Reporting Our management is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rule 13a-15(f) under the Exchange Act) for the company. Our internal control system was designed to provide reasonable assurance to our management and Board of Directors regarding the preparation and fair presentation of published financial statements. Management has assessed the effectiveness of our internal control over financial reporting as of December 31, 2025. In making this assessment, we used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (&#8220;COSO&#8221;) in Internal Control — Integrated Framework (2013) . Based on management's assessment utilizing these criteria we believe that, as of December 31, 2025, our internal control over financial reporting was effective . 54 Our independent auditors, KPMG LLP, have audited our internal control over financial reporting as stated in their report as follows. 55 Report of Independent Registered Public Accounting Firm To the Shareholders and Board of Directors Charter Communications, Inc.: Opinion on Internal Control Over Financial Reporting We have audited Charter Communications, Inc. and subsidiaries' (the Company) internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control &#8211; Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control &#8211; Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of December 31, 2025 and December 31, 2024, the related consolidated statements of operations, changes in shareholders' equity, and cash flows for each of the years in the three-year period ended December 31, 2025, and the related notes (collectively, the consolidated financial statements), and our report dated January 29, 2026 expressed an unqualified opinion on those consolidated financial statements. Basis for Opinion The Company's management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management's Report on Internal Control Over Financial Reporting. Our responsibility is to express an opinion on the Company's internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audit also included performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion. Definition and Limitations of Internal Control Over Financial Reporting A company's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. (signed) KPMG LLP St. Louis, Missouri January 29, 2026 56 Item 9B. Other Information . On November 25, 2025 , Christopher L. Winfrey , President and Chief Executive Officer , adopted a trading plan intended to satisfy the affirmative defense of Rule 10b5-1(c) to (1) sell, on June 18, 2026 , a number of shares of Charter Class A common stock under his beneficial ownership equal to 90% of the number of shares that would be received by Mr. Winfrey upon a net settlement exercise (covering exercise price and tax withholding) of stock options to purchase 497,309 shares of Charter Class A common stock with an exercise price of $221.25 on the June 17, 2026 expiration date of such stock options (such number of shares that would be received by Mr. Winfrey upon the net settlement exercise, the &#8220;Net Settled Share Amount&#8221;) and (2) gift to a donor advised fund, on June 18, 2026, a number of shares of Charter Class A common stock under his beneficial ownership equal to 10% of the Net Settled Share Amount. At the time of entering the 10b5-1 plan the stock price was lower than the exercise price of the expiring options. Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections. Not applicable. 57 PART III Item 10. Directors, Executive Officers and Corporate Governance. The information required by Item 10 will be included in the Proxy Statement under the headings &#8220;Proposal No. 1: Election of Directors,&#8221; &#8220;Delinquent Section 16(a) Reports,&#8221; &#8220;Code of Ethics&#8221; and &#8220;Insider Trading Arrangements and Policies&#8221; or in an amendment to this Annual Report on Form 10-K and is incorporated herein by reference. Item 11. Executive Compensation. The information required by Item 11 will be included in the Proxy Statement under the headings &#8220;Compensation Discussion and Analysis,&#8221; &#8220;Proposal No. 1: Election of Directors &#8211; 2025 Director Compensation,&#8221; &#8220;Compensation Committee Interlocks and Insider Participation&#8221; and &#8220;Report of the Compensation and Benefits Committee&#8221; or in an amendment to this Annual Report on Form 10-K and is incorporated herein by reference. Information contained in the Proxy Statement or an amendment to this Annual Report on Form 10-K under the caption &#8220;Report of the Compensation and Benefits Committee&#8221; is furnished and not deemed filed with the SEC. Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. The information required by Item 12 will be included in the Proxy Statement under the heading &#8220;Certain Beneficial Owners of Charter Class A Common Stock&#8221; or in an amendment to this Annual Report on Form 10-K and is incorporated herein by reference. Item 13. Certain Relationships and Related Transactions, and Director Independence. The information required by Item 13 will be included in the Proxy Statement under the headings &#8220;Certain Relationships and Related Transactions&#8221; and &#8220;Proposal No. 1: Election of Directors&#8221; or in an amendment to this Annual Report on Form 10-K and is incorporated herein by reference. Item 14. Principal Accountant Fees and Services . The information required by Item 14 will be included in the Proxy Statement under the heading &#8220;Accounting Matters&#8221; or in an amendment to this Annual Report on Form 10-K and is incorporated herein by reference. 58 PART IV Item 15. Exhibits and Financial Statement Schedules. (a) The following documents are filed as part of this annual report: (1) Financial Statements. A listing of the financial statements, notes and reports of independent public accountants required by \"Part II. Item 8. Financial Statements and Supplementary Data\" begins on page F-1 of this annual report. (2) Financial Statement Schedules. No financial statement schedules are required to be filed by Items 8 and 15(c) because they are not required or are not applicable, or the required information is set forth in the applicable financial statements or notes thereto. (3) The index to the exhibits begins on page E-1 of this annual report. Item 16. Form 10-K Summary. None. 59",
+        "charRange": [
+          277609,
+          291876
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 133623,
+            "context": "o significant costs if such risks were to materialize, and such events could damage our reputation, credibility and business and have a negative impact on our revenue. We could be subject to regulatory actions and claims made by consumers in private litigations involving privacy issues related to consumer data collection and use practices. We also could be required to expend significant capital and other resources to remedy any security breach. We depend on third-party service providers, suppliers and licensors; thus, if we are unable to procure the necessary services, equipment, software or l"
+          },
+          {
+            "charIndex": 141697,
+            "context": "onsuming and costly to defend and may divert management's attention and resources away from our business. Infringement claims continue to be brought frequently in the communications and entertainment industries, and we are also often a party to such litigation alleging that certain of our services or technologies infringe the intellectual property rights of others. 23 We may not have the ability to pass on to our customers all of the increases in programming costs, which could adversely affect our cash flow and operating margins. Programming costs are one of our largest expense items. While de"
+          },
+          {
+            "charIndex": 166950,
+            "context": "atory requirements of those programs or contracts. The FCC and various state and federal agencies and attorney generals may subject those programs, or other industry practices, to audits and investigations, which could result in enforcement actions, litigation, fines, settlements or reputational harm, and/or operational and financial conditions being placed on us, any of which could adversely affect our results of operations and financial condition. If any laws or regulations are enacted that would expand the regulation of our services, they could affect our operations and require significant"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 117589,
+            "context": "ifornia Consumer Privacy Act (&#8220;CCPA&#8221;) regulates companies' collection, use and disclosure of the personal information of California residents and employees and authorizes enforcement actions by the California Attorney General and private class actions for data breaches. The Maine Act to Protect Privacy of Online Customer Information, which regulates how Internet service providers use and disclose customers' personal information and requires Internet service providers to take reasonable measures to protect customers' personal information, became effective on July 1, 2020. Data priva"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 115684,
+            "context": "if the processing of our personal data &#8220;presents significant risk to consumers' security.&#8221; The first deadline for compliance is January 1, 2027 and the first audit certification is due by April 1, 2028. Various security standards provide guidance to telecommunications companies in order to help identify and mitigate cybersecurity risks. We describe those standards in Item 1C. Cybersecurity - Risk Management and Strategy. The Department of Homeland Security's Cybersecurity and Infrastructure Security Agency has sought comment on the development of cyber incident reporting rules, pur"
+          },
+          {
+            "charIndex": 208491,
+            "context": "ed access, network segmentation, deployment of enhanced detection tools across our network, systems, databases, and applications and monitoring compliance with security standards all based on a risk-based approach. Various security standards provide guidance to telecommunications companies in order to help identify and mitigate cybersecurity risks, including the voluntary framework released by the National Institute for Standards and Technology (&#8220;NIST&#8221;) in 2014 and updated in 2018 and 2024, in cooperation with other federal agencies and owners and operators of U.S. critical infrast"
+          },
+          {
+            "charIndex": 213337,
+            "context": "ybersecurity risks to our executive leadership and the Board of Directors of Charter , as well as management and committees who are tasked with the prevention, detection, mitigation and remediation of cybersecurity incidents. These processes provide guidance for consistent and effective incident handling and response and set standards for 36 internal notifications and escalations, as well as external notification considerations with respect to a cybersecurity event or incident requiring disclosure or notification to a state and/or federal agency or affected customers. T he Board of Directors o"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 128562,
+            "context": "osition with respect to the leisure time and discretionary spending of our customers and, as a result, affect our business and results of operations. Competition may also reduce our expected growth of future cash flows which may contribute to future impairments of our franchises and goodwill and our ability to meet cash flow requirements, including debt service requirements. For additional information regarding the competition we face, see &#8220;Item 1. Business - Competition&#8221; and &#8220;Item 1. Business - Regulation and Legislation.&#8221; Various events could disrupt or result in unau"
+          },
+          {
+            "charIndex": 229541,
+            "context": "ns and judgments that are involved in preparing our financial statements, and the uncertainties that could affect our results of operations, financial condition and cash flows: &#8226; Capitalization of labor and overhead costs &#8226; Valuation and impairment of franchises and goodwill &#8226; Income taxes Capitalization of labor and overhead costs Costs associated with network construction or upgrades, placement of the customer drop to the dwelling and the placement of outlets within a dwelling along with the costs associated with the deployment of new customer premise equipment necessary to"
+          },
+          {
+            "charIndex": 234103,
+            "context": "d in the future. We monitor the appropriateness of our capitalization policies and perform updates to our internal studies on an ongoing basis to determine whether facts or circumstances warrant a change to our capitalization policies. Valuation and impairment of franchises and goodwill The carrying value of franchise intangibles as of both December 31, 2025 and 2024 was approximately $67.5 billion (representing 44% and 45% of total assets, respectively), and the carrying value of goodwill as of both December 31, 2025 and 2024 was approximately $29.7 billion (representing 19% and 20% of total"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 32893,
+            "context": "8226; the effects of governmental regulation on our business including subsidies to consumers, subsidies and incentives for competitors, costs, disruptions and possible limitations on operating flexibility related to, and our ability to comply with, regulatory conditions applicable to us; &#8226; our ability to procure necessary services and equipment from our vendors in a timely manner and at reasonable costs including in connection with our network evolution and rural construction initiatives; &#8226; our ability to obtain programming at reasonable prices or to raise prices to offset, in who"
+          },
+          {
+            "charIndex": 95550,
+            "context": "cluding the sections entitled &#8220;The Transactions,&#8221; &#8220;The Transaction Agreement&#8221; and &#8220;Other Agreements Related to the Transactions&#8221; included therein. Regulation and Legislation The following summary addresses the key regulatory and legislative developments affecting the cable industry and our services for both residential and commercial customers. Cable systems and related communications networks and services are extensively regulated by the federal government (primarily the FCC), certain state governments and many local governments. A failure to comply with th"
+          },
+          {
+            "charIndex": 96028,
+            "context": "federal government (primarily the FCC), certain state governments and many local governments. A failure to comply with these regulations could subject us to substantial penalties. Our business can be dramatically impacted by changes to the existing regulatory framework, whether triggered by legislative, administrative, or judicial rulings. Congress and the FCC have frequently revisited the subject of communications regulation and they are likely to do so again in the future. We could be materially disadvantaged in the future if we are subject to new laws, regulations or regulatory actions tha"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 166969,
+            "context": "of those programs or contracts. The FCC and various state and federal agencies and attorney generals may subject those programs, or other industry practices, to audits and investigations, which could result in enforcement actions, litigation, fines, settlements or reputational harm, and/or operational and financial conditions being placed on us, any of which could adversely affect our results of operations and financial condition. If any laws or regulations are enacted that would expand the regulation of our services, they could affect our operations and require significant expenditures. We ca"
+          },
+          {
+            "charIndex": 266744,
+            "context": "rating activities increased $1.6 billion during the year ended December 31, 2025 compared to the year ended December 31, 2024, primarily due to a decrease in cash paid for taxes and interest, increase in Adjusted EBITDA and the payment of litigation settlements in 2024. Investing Activities. Net cash used in investing activities was $11.6 billion and $10.7 billion for the years ended December 31, 2025 and 2024, respectively. The increase in cash used was primarily due to an increase in capital expenditures and changes in accrued expenses related to capital expenditures. Financing Activities. N"
+          },
+          {
+            "charIndex": 288151,
+            "context": "satisfy the affirmative defense of Rule 10b5-1(c) to (1) sell, on June 18, 2026 , a number of shares of Charter Class A common stock under his beneficial ownership equal to 90% of the number of shares that would be received by Mr. Winfrey upon a net settlement exercise (covering exercise price and tax withholding) of stock options to purchase 497,309 shares of Charter Class A common stock with an exercise price of $221.25 on the June 17, 2026 expiration date of such stock options (such number of shares that would be received by Mr. Winfrey upon the net settlement exercise, the &#8220;Net Settl"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 68678,
+            "context": "nal quality with a cost-efficient path to increased speeds. Our fiber-powered network benefits include: &#8226; bandwidth capacity to enable video and broadband services; &#8226; dedicated bandwidth for delivering higher signal quality and service reliability, which provides an advantage over cell phone home Internet offerings; &#8226; the ability to upgrade capacity at a lower incremental capital cost relative to our competitors; &#8226; a powered network enabling out-of-home Advanced WiFi and 5G small cell access points; and &#8226; existing infrastructure with connections capable of self in"
+          },
+          {
+            "charIndex": 70973,
+            "context": "d our own 5G data-only mobile network on targeted 5G small cell sites leveraging our HFC network to provide power and data connectivity to the majority of the sites. These 5G small cells, combined with growing WiFi capabilities, increase speed and reliability along with improving our cost structure through offload of wireless data onto our owned networks. We continue to deploy 5G small cell sites in targeted areas of our footprint, as part of our broader multi-year 5G mobile network buildout, based on disciplined cost reduction targets. Subsidized Rural Construction Initiative In 2025, we cont"
+          },
+          {
+            "charIndex": 91084,
+            "context": "erty Broadband Combination (the &#8220;GCI Divestiture&#8221;). The GCI Divestiture was completed on July 14, 2025. The GCI Divestiture is expected to be taxable to Liberty Broadband and its stockholders, with Charter bearing the corporate level tax liability upon completion of the Liberty Broadband Combination. However, to the extent such corporate level tax liability exceeds $420 million, Charter will be entitled under a tax receivables agreement to the portion of the tax benefits realized by GCI corresponding to such excess. Liberty Broadband has debt of $1.8 billion as of September 30, 202"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "Revenues",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 13526000000,
+          "accn": "0001091667-26-000052",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-24",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 27123000000,
+          "accn": "0001091667-26-000052",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-24"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 13597000000,
+          "accn": "0001091667-26-000028",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-24",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 54774000000,
+          "accn": "0001091667-26-000017",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-01-30",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 13672000000,
+          "accn": "0001091667-25-000168",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-31",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 41173000000,
+          "accn": "0001091667-25-000168",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-31"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 13766000000,
+          "accn": "0001091667-26-000052",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-24",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 13766000000,
+          "accn": "0001091667-25-000127",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-25"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 10.66,
+          "accn": "0001091667-26-000052",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-24",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 19.81,
+          "accn": "0001091667-26-000052",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-24"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 9.17,
+          "accn": "0001091667-26-000028",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-24",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 36.21,
+          "accn": "0001091667-26-000017",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-01-30",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 8.34,
+          "accn": "0001091667-25-000168",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-31",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 25.95,
+          "accn": "0001091667-25-000168",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-31"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 9.18,
+          "accn": "0001091667-26-000052",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-24",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 9.18,
+          "accn": "0001091667-25-000127",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-25"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 1292000000,
+          "accn": "0001091667-26-000052",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-24",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 2455000000,
+          "accn": "0001091667-26-000052",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-24"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 1163000000,
+          "accn": "0001091667-26-000028",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-24",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 4987000000,
+          "accn": "0001091667-26-000017",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-01-30",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 1137000000,
+          "accn": "0001091667-25-000168",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-31",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 3655000000,
+          "accn": "0001091667-25-000168",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-31"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1301000000,
+          "accn": "0001091667-26-000052",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-24",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1301000000,
+          "accn": "0001091667-25-000127",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-25"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 3063000000,
+          "accn": "0001091667-26-000052",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-24",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 6271000000,
+          "accn": "0001091667-26-000052",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-24"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 3208000000,
+          "accn": "0001091667-26-000028",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-24",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 12908000000,
+          "accn": "0001091667-26-000017",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-01-30",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 3131000000,
+          "accn": "0001091667-25-000168",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-31",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 9647000000,
+          "accn": "0001091667-25-000168",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-31"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 3279000000,
+          "accn": "0001091667-26-000052",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-24",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 3279000000,
+          "accn": "0001091667-25-000127",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-25"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "CHTR",
+    "name": "CHARTER COMMUNICATIONS, INC. /MO/",
+    "sector": "Cable & Other Pay Television Services",
+    "pe": 3.98,
+    "pb": 1.08,
+    "ret3m": -4.3372,
+    "ret6m": -27.9449,
+    "roe": 29.42,
+    "debtEquity": 6.007,
+    "revenueGrowth": -0.56,
+    "epsGrowth": 3.55,
+    "fcfGrowth": 39.77,
+    "operatingMargin": 23.57,
+    "marginTrend": -0.24,
+    "sentiment": 0.167,
+    "analyst": 46.7,
+    "beta": 0.6807635
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "Tensions flare as $34-billion Charter-Cox cable deal nears finish line",
+        "url": "https://finnhub.io/api/news?id=7df0f615b6e7730d39bf9a92f898ae434f506b3bb0a51319560604778d4c27f7",
+        "source": "Yahoo",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "What's going on in today's session: S&P500 gap up and gap down stocks",
+        "url": "https://finnhub.io/api/news?id=ba7e0c36628e3e622f779f9a6b4fcefb13ededca266f41f5382d1d7a360c7967",
+        "source": "ChartMill",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "The Discount On T Stock Looks Overdone",
+        "url": "https://finnhub.io/api/news?id=7063e37352980dd30840867fc9de5adda23c3ecc3404f13f1475549d340bab88",
+        "source": "Yahoo",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "Charter Prices $4.75 Billion Senior Secured Notes",
+        "url": "https://finnhub.io/api/news?id=a292f67a26a1dde2d22e0feb778951513017fe1f6ee047ce4ab12b2ed977a5a7",
+        "source": "Yahoo",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "Charter Announces Pricing Terms For Debt Exchange Offers",
+        "url": "https://finnhub.io/api/news?id=351362a98bb5830ceb2070499ad97e4a5bd1c4913f585913142a84a493eccd59",
+        "source": "Yahoo",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "Charter Offers Senior Secured Notes",
+        "url": "https://finnhub.io/api/news?id=03f064efe875e0498e725dcdd3618d5e4f0cc90fa1ea3e66e7962a9cf20e219f",
+        "source": "Yahoo",
+        "date": "2026-08-06"
+      }
+    ],
+    "cachedAt": "2026-08-11T05:45:45.218Z"
+  }
+}

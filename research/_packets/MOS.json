@@ -1,0 +1,688 @@
+{
+  "ticker": "MOS",
+  "entityName": "MOSAIC CO",
+  "cik": "0001285785",
+  "generatedAt": "2026-08-12T01:37:33.116Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-08-05",
+        "reportDate": "2026-06-30",
+        "accessionNumber": "0001285785-26-000112",
+        "primaryDocument": "mos-20260630.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1285785/000128578526000112/mos-20260630.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1285785/000128578526000112/"
+      },
+      "textLength": 198620,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations in our 10-K Report and Note 12 to the Condensed Consolidated Financial Statements in this report. 47 Table of Contents ITEM 4. CONTROLS AND PROCEDURES (a) Evaluation of Disclosure Controls and Procedures We maintain disclosure controls and procedures designed to ensure that information required to be disclosed in our filings under the Securities Exchange Act of 1934 is (i) recorded, processed, summarized and reported within the time periods specified in the SEC's rules and forms, and (ii) accumulated and communicated to management, including our principal executive officer and our principal financial officer, to allow timely decisions regarding required disclosures. Our management, with the participation of our principal executive officer and our principal financial officer, has evaluated the effectiveness of our disclosure controls and procedures as of the end of the period covered by this quarterly report on Form 10-Q. Our principal executive officer and our principal financial officer have concluded, based on such evaluations, that our disclosure controls and procedures were effective for the purpose for which they were designed as of the end of such period. (b) Changes in Internal Control Over Financial Reporting Our management, with the participation of our principal executive officer and our principal financial officer, have evaluated any changes in our internal control over financial reporting that occurred during the three months ended June 30, 2026 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. Our management, with the participation of our principal executive officer and principal financial officer, did not identify any such change during the quarter ended June 30, 2026. 48 Table of Contents PART II. OTHER INFORMATION ITEM 1.",
+        "charRange": [
+          179977,
+          181906
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "risk factors, we include the following updates: Key inputs for the production of our finished goods, including fertilizer, sulfur and ammonia, and energy used in our businesses in the past have been and may in the future be the subject of volatile pricing and availability. Changes in the price or availability of these key inputs for production of finished goods have had, and could again have, a material adverse impact on our businesses. Fertilizer is a key input for production of our blended finished goods products. Natural gas, ammonia and sulfur are key raw materials used in the manufacture of phosphate crop nutrient products. Natural gas is used as both a chemical feedstock and a fuel to produce anhydrous ammonia, which is a raw material used in the production of concentrated phosphate products. Natural gas is also a significant energy source used in the potash solution mining process. From time to time, our profitability has been and may in the future be adversely impacted by the price and availability of these key inputs and other energy costs. For example, the ongoing conflict between Russia and Ukraine and the related sanctions have led, and may continue to lead, to disruption and instability in global markets, supply chains and volatile pricing and availability of these key inputs and raw materials. Because most of our products are commodities, there can be no assurance that we will be able to pass through increased costs to our customers. A significant increase in the price of fertilizer, natural gas, ammonia, sulfur or energy that is not recovered through an increase in the price of our related crop nutrients products could have a material adverse impact on our business. In addition, geopolitical instability and heightened tensions involving Iran, have disrupted global shipping routes, including the Strait of Hormuz, a critical transit corridor for energy and certain industrial commodities, including sulfur and ammonia. Disruptions to shipping through the Strait of Hormuz could continue to adversely affect the availability, cost or timing of sulfur and ammonia inputs and have contributed to increased fuel and transportation costs. Such disruptions could further exacerbate volatility in input pricing and availability and, if sustained, could have a material adverse impact on our business, financial condition, results of operations or cash flows. ITEM 2.",
+        "charRange": [
+          193204,
+          195609
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 91231,
+            "context": "h the pricing and sale of fertilizer products in the United States, and seek certification of nationwide and/or state classes, treble damages, injunctive relief and attorneys' fees and costs. On June 9, 2026, the U.S. Judicial Panel on Multidistrict Litigation consolidated and centralized these actions for coordinated pretrial proceedings in the District of Kansas before U.S. District Judge Eric F. Melgren. The Company disputes the allegations and intends to defend these matters vigorously. Brazil Legal Contingencies Our Brazilian subsidiaries are engaged in a number of judicial and administra"
+          },
+          {
+            "charIndex": 166406,
+            "context": "Statements Cautionary Statement Regarding Forward Looking Information All statements, other than statements of historical fact, appearing in this report constitute &#8220;forward-looking statements&#8221; within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements include, among other things, statements about our expectations, beliefs, intentions or strategies for the future, including statements about proposed or pending future transactions or strategic plans, statements concerning our future operations, financial condition and prospects, state"
+          },
+          {
+            "charIndex": 183251,
+            "context": "Federal Circuit (&#8220; CAFC &#8221;) seeking to overturn the orders. Mosaic has also made claims contesting certain aspects of DOC's final determinations that, we believe, failed to capture the full extent of Moroccan and Russian subsidies. These litigation challenges remain underway. CIT is reviewing the DOC's second remand redetermination for the CVD investigation for Morocco and the DOC's second remand redetermination for the first administrative review for Russia. The CIT recently reaffirmed the ITC's affirmative injury determination following a second remand. The CAFC is reviewing Mosa"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 90619,
+            "context": "fset to the established accruals when they are realizable or realized. The failure of an indemnitor to fulfill its obligations could result in future costs that could be material. Antitrust Matter. Beginning in March 2026, several putative antitrust class action lawsuits were filed in various U.S. federal courts against Mosaic and other fertilizer producers by purported direct and indirect purchasers of nitrogen, phosphate and potash fertilizer products. The complaints generally allege that Mosaic and other defendants engaged in anticompetitive conduct in violation of U.S. antitrust laws in co"
+          },
+          {
+            "charIndex": 187375,
+            "context": "reement and continues to implement the approved alternative reclamation schedule, as required. Monitoring programs are in place to ensure continued compliance with the waiver and settlement agreement. Cruz Litigation . On August 27, 2020, a putative class action complaint was filed in the Circuit Court of the Thirteenth Judicial Circuit in Hillsborough County, Florida against our wholly-owned subsidiary, Mosaic Global Operations Inc., and two unrelated co-defendants. The complaint alleges claims related to elevated levels of radiation at two manufactured housing communities located on reclaime"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 38357,
+            "context": "es, including asset retirement obligations (&#8220; ARO &#8221;), and income tax-related accounts, including the valuation allowance against deferred income tax assets. Actual results could differ from these estimates . 3. Recently Issued Accounting Guidance In May 2026, the FASB issued guidance establishing an accounting framework for environmental credits and related regulatory compliance obligations. Environmental credits are recognized as assets when they are expected to be used to settle obligations or transferred, while credits acquired for voluntary purposes are expensed as incurred. Th"
+          },
+          {
+            "charIndex": 38395,
+            "context": "ions (&#8220; ARO &#8221;), and income tax-related accounts, including the valuation allowance against deferred income tax assets. Actual results could differ from these estimates . 3. Recently Issued Accounting Guidance In May 2026, the FASB issued guidance establishing an accounting framework for environmental credits and related regulatory compliance obligations. Environmental credits are recognized as assets when they are expected to be used to settle obligations or transferred, while credits acquired for voluntary purposes are expensed as incurred. The guidance also requires recognition o"
+          },
+          {
+            "charIndex": 38709,
+            "context": "credits and related regulatory compliance obligations. Environmental credits are recognized as assets when they are expected to be used to settle obligations or transferred, while credits acquired for voluntary purposes are expensed as incurred. The guidance also requires recognition of liabilities for environmental credit obligations based on credits needed to satisfy those obligations. These amendments are effective for fiscal years beginning after December 15, 2027, including interim periods within those years, with early adoption permitted, and will be applied on a retrospective basis thro"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 27627,
+            "context": "pense for asset retirement obligations 66.7 64.8 Share-based compensation expense 18.1 17.7 Unrealized (gain) loss on equity securities 49.2 ( 99.7 ) Unrealized (gain) loss on derivatives ( 1.1 ) ( 112.3 ) Foreign currency adjustments 79.5 ( 351.0 ) Impairment of assets held for sale 238.8 — Amortization of debt financing fees 20.1 23.1 Other 141.2 79.7 Changes in assets and liabilities: Receivables, net 222.3 14.6 Inventories ( 245.6 ) ( 378.1 ) Other current and noncurrent assets ( 92.9 ) 23.9 Accounts payable and accrued liabilities ( 90.4 ) 273.5 Change in asset retirement obligations ( 98"
+          },
+          {
+            "charIndex": 43957,
+            "context": "rice deferred is product that has shipped to customers, but the price has not yet been agreed upon . 7. Goodwill Mosaic had goodwill of $ 969.2 million and $ 1.0 billion as of June 30, 2026 and December 31, 2025, respectively. We review goodwill for impairment annually in October and at any time events or circumstances indicate that the carrying value may not be fully recoverable, which is based on our accounting policy and GAAP. The changes in the carrying amount of goodwill, by reporting unit, are as follows: 10 Table of Contents THE MOSAIC COMPANY NOTES TO CONDENSED CONSOLIDATED FINANCIAL S"
+          },
+          {
+            "charIndex": 44576,
+            "context": "ued) Potash Corporate, Eliminations and Other Total Balance as of December 31, 2025 $ 993.0 $ 12.1 $ 1,005.1 Foreign currency translation ( 35.9 ) — ( 35.9 ) Balance as of June 30, 2026 $ 957.1 $ 12.1 $ 969.2 We will perform our next annual goodwill impairment analysis for each of our reporting units as of October 31, 2026. 8. Marketable Securities Held in Trusts In August 2016, Mosaic deposited $ 630 million into two trust funds (together, the &#8220; RCRA Trusts &#8221;) created to provide additional financial assurance in the form of cash for the estimated costs (&#8220; Gypstack Closure Co"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 6911,
+            "context": "os:A2026TermLoanFacilityMember mos:A364DayTermLoanMember 2026-06-30 0001285785 mos:TermLoanMember 2026-06-30 0001285785 mos:TermLoanMember 2025-12-31 0001285785 2025-01-01 2025-09-30 0001285785 mos:A2015ConsentDecreesWithEPAMember us-gaap:UnfavorableRegulatoryActionMember 2025-12-31 0001285785 2024-03-07 0001285785 mos:BonnieFacilityTrustMember 2018-07-27 0001285785 mos:PlantCityandBonnieFacilitiesMember 2026-06-30 0001285785 mos:PlantCityandBonnieFacilitiesMember 2025-12-31 0001285785 us-gaap:DomesticCountryMember 2026-04-01 2026-06-30 0001285785 us-gaap:DomesticCountryMember 2026-01-01 2026-"
+          },
+          {
+            "charIndex": 38479,
+            "context": "allowance against deferred income tax assets. Actual results could differ from these estimates . 3. Recently Issued Accounting Guidance In May 2026, the FASB issued guidance establishing an accounting framework for environmental credits and related regulatory compliance obligations. Environmental credits are recognized as assets when they are expected to be used to settle obligations or transferred, while credits acquired for voluntary purposes are expensed as incurred. The guidance also requires recognition of liabilities for environmental credit obligations based on credits needed to satisf"
+          },
+          {
+            "charIndex": 104669,
+            "context": "rter of 2026, both recorded as Loss on assets to be sold in the Condensed Consolidated Statements of Earnings (Loss). In connection with the transaction, the buyer executed replacement surety bonds totaling approximately $ 82 million with applicable regulatory agencies for guarantees that were in place prior to the transaction. We are not the named principal on these bonds and have no direct obligation to the regulatory agencies; rather, we provided credit support to the surety in the form of an indemnity of up to $ 50 million which is subject to call only after the buyer's posted collateral h"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 76913,
+            "context": "commodity derivative instruments that we currently use are forward purchase contracts and swaps. The natural gas contracts settle using NYMEX futures or AECO price indexes, which represent fair value at any given time. The contracts' maturities and settlements are scheduled for future months and settlements are scheduled to coincide with anticipated gas purchases during those future periods. Quoted market prices from NYMEX and AECO are used to determine the fair value of these instruments. These market prices are adjusted by a forward yield curve and are classified within Level 2. Changes in"
+          },
+          {
+            "charIndex": 76961,
+            "context": "tly use are forward purchase contracts and swaps. The natural gas contracts settle using NYMEX futures or AECO price indexes, which represent fair value at any given time. The contracts' maturities and settlements are scheduled for future months and settlements are scheduled to coincide with anticipated gas purchases during those future periods. Quoted market prices from NYMEX and AECO are used to determine the fair value of these instruments. These market prices are adjusted by a forward yield curve and are classified within Level 2. Changes in the fair market values of these contracts are re"
+          },
+          {
+            "charIndex": 103973,
+            "context": "d equipment, net, and $ 74.4 million of accounts receivable, net, inventories, net, and other assets, offset by a valuation allowance of $ 185.0 million. During the first quarter of 2026, the expected net sales price was adjusted for working capital settlements and the present value of the deferred payment. The transaction closed on April 30, 2026, and we received cash proceeds of approximately $ 2 million and the deferred payment of $ 10 million. The total impairment recognized on the Carlsbad disposal group was approximately $ 191.2 million, consisting of $ 185 million recognized during the"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 41800,
+            "context": "lly, we collect prepayments from certain customers in Brazil. In addition, cash collection from Canpotex may occur prior to delivery of product to the end customer. We generally satisfy our contractual liabilities within one quarter of incurring the liability. 9 Table of Contents THE MOSAIC COMPANY NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (Continued) 5. Earnings Per Share The numerator for basic and diluted earnings per share (&#8220; EPS &#8221;) is net earnings attributable to Mosaic. The denominator for basic EPS is the weighted average number of shares outstanding during the"
+          },
+          {
+            "charIndex": 47959,
+            "context": ". Level 3: Values generated from model-based techniques that use significant assumptions not observable in the market. These unobservable assumptions reflect our own estimates of assumptions that market participants would use in pricing the asset or liability. Valuation techniques include use of option pricing models, discounted cash flow models and similar techniques. 11 Table of Contents THE MOSAIC COMPANY NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (Continued) The estimated fair value of the investments in the RCRA Trusts as of June 30, 2026 and December 31, 2025 are as follows:"
+          },
+          {
+            "charIndex": 58742,
+            "context": "d in other comprehensive income (loss). 10. Asset Retirement Obligations We recognize our estimated AROs in the period in which we have an existing legal obligation associated with the retirement of a tangible long-lived asset, and the amount of the liability can be reasonably estimated. The ARO is recognized at fair value when the liability is incurred with a corresponding increase in the carrying amount of the related long-lived asset. We depreciate the tangible asset over its estimated useful life. The liability is adjusted in subsequent periods through accretion expense, which represents t"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-02-27",
+        "reportDate": "2025-12-31",
+        "accessionNumber": "0001285785-26-000017",
+        "primaryDocument": "mos-20251231.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1285785/000128578526000017/mos-20251231.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1285785/000128578526000017/"
+      },
+      "textLength": 646213,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations. Year ended December 31, 2025 In our Phosphate segment, operating earnings were $135 million for 2025 compared to $225 million in the prior year period. Current year operating results reflect lower sales volumes which were impacted by supply losses due to extended downtime as we focused on improving asset integrity, and lower demand in North America in the fourth quarter of 2025 compared to the prior year period. Phosphate operating results were also unfavorably impacted by higher raw material costs, primarily sulfur, compared to the prior year period. These impacts were partially offset by the benefit of higher average selling prices which continued the upward trend that began in the second half of 2023, reflecting strong global demand and low inventory levels. Operating results were also unfavorably impacted by higher maintenance turnaround costs and water treatment costs compared to the prior year period. In our Potash segment, operating earnings were $638 million for 2025, compared to $605 million in the prior year period. Operating results benefited from higher average selling prices and sales volumes in the current year period. Prices and sales volumes improved due to continued strength in international demand. Sales volumes also benefitted due to our recovery from production challenges and supply chain delays experienced in the prior year. Current year operating results were unfavorably impacted by a loss on assets held for sale related to the Carlsbad, New Mexico facility. In our Mosaic Fertilizantes segment, operating earnings were $277 million for 2025 compared to $238 million in the prior year period. Operating results reflected higher average selling prices compared to the prior year period benefiting from a favorable global pricing environment that was driven by healthy demand and tight supply. This benefit was partially offset by the impact of higher costs of purchased products for resale. We saw a slight decrease in sales volumes compared to the prior year which was driven by grower caution and increased credit constraints in Brazil. Operating earnings were stronger in the first three quarters of 2025 compared to the prior year but declined in the fourth quarter due to lower volumes. Sales volumes were negatively impacted by challenging credit conditions for customers, weaker margins, in part due to higher sulfur raw material cost and higher turnaround and idle costs due to downtime. Due to the increase in sulfur costs seen in the fourth quarter of 2025, we temporarily idled production at our Fospar and Araxa facilities in Brazil. Operating results in 2025 were also impacted by a gain on the sale of the Patos de Minas mine and a loss on the sale of the Taquari mine. Corporate, Eliminations and Other had an operating loss of $(229) million for 2025 compared to a loss of $(446) million in the prior year. Corporate, Eliminations and Other includes the results of the China and India distribution businesses, intersegment eliminations, including profit on intersegment sales, unrealized mark-to-market gains and losses on derivatives and debt expenses. In addition to the items mentioned above : &#8226; In October 2025, we completed the sale of our idled Patos de Minas phosphate mining unit in Brazil for $111 million, with $51 million paid at closing and the balance of the purchase price to be paid in installments over the next four years. The sale resulted in a gain of $94 million. &#8226; In November 2025, we completed the sale of our interest in the Taquari potash mine in Brazil for proceeds of up to $27 million, with $12 million received at closing and an additional $10 million due in one year. The remaining $5 million is contingent upon future potash pricing benchmarks. We recorded an impairment loss of approximately $66 million related to the sale. F- 5 &#8226; In November 2025, we completed a $900 million public bond offering, consisting of $500 million aggregate principal amount of 4.350% senior notes due 2029 and $400 million aggregate principal amount of 4.600% senior notes due 2030. &#8226; In December 2025, we entered into an agreement to sell our Carlsbad, New Mexico potash mine for approximately $30 million. The transaction includes initial proceeds of $20 million at closing and deferred consideration of $10 million, payable in three equal installments beginning in 2029. The sale is expected to be completed in the first half of 2026. As of December 31, 2025, the assets and liabilities are considered held for sale and we recorded an impairment loss of approximately $185 million. Year ended December 31, 2024 : For the year ended December 31, 2024, operating results were driven by lower finished good sales pricing in our Potash and Mosaic Fertilizantes segments and lower sales volumes across our segments as discussed further below. Net earnings were unfavorably impacted by a foreign currency translation loss and benefited from a gain on sale of the equity investment in MWSPC. In our Phosphate segment, operating results for 2024 were unfavorable compared to the prior year due to lower finished goods sales volumes partially offset by higher average selling prices. Sales volumes were unfavorably impacted by planned maintenance and turnaround activity at our sites as well as impacts from hurricanes in Florida in the second half of the year. Phosphate operating results were also unfavorably impacted by increased product costs due to our sales volumes including a larger proportion of purchased tonnes than in the prior year. We increased our purchases in 2024 to offset lost production in the first quarter from a fire at our Riverview, Florida facility. Average selling prices for 2024 were favorable versus the prior year as prices continued trending upwards since the third quarter of 2023, driven by strong demand in North America. Operating results also benefited from lower raw material costs, primarily sulfur, compared to the prior year period. In our Potash segment, operating results for 2024 were unfavorably impacted by lower global average selling prices, resulting from improved global supply. Operating results were also unfavorably impacted by lower sales volumes in the second half of the year resulting from production challenges in the third quarter due to electrical issues at two of our mines and supply chain delays caused by a port strike in Vancouver, Canada. In our Mosaic Fertilizantes segment, operating results for 2024 were unfavorably impacted by a decrease in average selling prices compared to the prior year period. Sales prices of potash and nitrogen in Brazil decreased as global supply improved. Sales volumes were down compared to the prior year period as a result of our decision to prioritize sales to lower credit-risk customers, and to focus on obtaining improved gross margin over sales volumes. Corporate, Eliminations and Other had an operating loss of $(446) million in 2024 compared to a loss of $(264) million in the prior year. Corporate, Eliminations and Other includes the results of the China and India distribution businesses, intersegment eliminations, including profit on intersegment sales, unrealized mark-to-market gains and losses on derivatives and debt expenses. F- 6 Phosphate Net Sales and Gross Margin The following table summarizes the Phosphate segment's net sales, gross margin, sales volume, selling prices and raw material prices: Years Ended December 31, 2025-2024 2024-2023 (in millions, except price per tonne or unit) 2025 2024 2023 Change Percent Change Percent Net sales: North America $ 3,933.9 $ 3,772.9 $ 3,749.8 $ 161.0 4 % $ 23.1 1 % International 642.6 745.9 974.5 (103.3) (14) % (228.6) (23) % Total 4,576.5 4,518.8 4,724.3 57.7 1 % (205.5) (4) % Cost of goods sold 4,139.2 3,924.8 4,022.2 214.4 5 % (97.4) (2) % Gross margin $ 437.3 $ 594.0 $ 702.1 $ (156.7) (26) % $ (108.1) (15) Gross margin as a percentage of net sales 9.6 % 13.1 % 14.9 % Sales volumes (a) (in thousands of metric tonnes) DAP/MAP 2,935 3,133 3,625 (198) (6) % (492) (14) % Performance and Other (b) 3,010 3,304 3,366 (294) (9) % (62) (2) % Total finished product tonnes 5,945 6,437 6,991 (492) (8) % (554) (8) % Rock (c) 1,760 1,795 1,622 (35) (2) % 173 11 % Total Phosphate Segment Tonnes (a) 7,705 8,232 8,613 (527) (6) % (381) (4) % Realized prices ($/tonne) Average finished product selling price (destination) (d) $ 667 $ 589 $ 566 $ 78 13 % $ 23 4 % DAP selling price (fob mine) $ 670 $ 585 $ 573 $ 85 15 % $ 12 2 % Average cost per unit consumed in cost of goods sold: Ammonia (metric tonne) $ 468 $ 435 $ 426 $ 33 8 % $ 9 2 % Sulfur (long ton) $ 237 $ 132 $ 181 $ 105 80 % $ (49) (27) % Blended rock (metric tonne) $ 80 $ 85 $ 75 $ (5) (6) % $ 10 13 % Production volume (in thousands of metric tonnes) - North America 6,272 6,290 6,568 (18) — % (278) (4) % (a) Includes intersegment sales volumes. (b) Includes sales volumes of MicroEssentials &#174; and animal feed ingredients. (c) Sales volumes of rock are presented on a wet tonne basis based on average moisture levels of 3.5% to 4.5% as it exits the drying process and is prepared for shipping. (d) Excludes sales revenue and tonnes associated with rock sales. Year Ended December 31, 2025 compared to Year Ended December 31, 2024 The Phosphate segment's net sales were $4.6 billion for the year ended December 31, 2025, compared to $4.5 billion for the same period a year ago. The increase in net sales was driven by higher average finished product selling prices, which favorably impacted net sales by approximately $450 million. This benefit was partially offset by lower finished goods sales volumes, which resulted in an unfavorable impact of approximately $280 million. Additionally, lower rock sales had an unfavorable impact of approximately $50 million and lower freight and other product revenue had an unfavorable impact of approximately $60 million compared to the prior year period. Our average finished product selling price increased 13%, to $667 per tonne for the year ended December 31, 2025, compared to $589 per tonne for the same period a year ago, due to the factors discussed in the Overview. The Phosphate segment's sales volumes of finished products decreased to 5.9 million tonnes for the year ended December 31, 2025, compared to 6.4 million tonnes in 2024, due to the factors discussed in the Overview. Gross margin for the Phosphate segment decreased to $437.3 million in the current year compared with $594.0 million for the prior year. The decrease was primarily driven by unfavorable cost impacts, including approximately $285 million from higher sulfur and ammonia input costs, and approximately $140 million from higher conversion costs, compared to the prior year F- 7 period. Higher expenses, resulting from maintenance turnarounds and initiatives to enhance asset integrity, further reduced gross margin by approximately $60 million. Gross margin was also unfavorably impacted by higher water treatment costs of approximately $70 million, higher plant-related costs of approximately $30 million, higher demurrage and port costs of approximately $30 million and higher land reclamation costs of approximately $10 million. In addition, lower finished goods and rock sales volumes unfavorably impacted gross margin by approximately $45 million. These impacts were partially offset by favorable impacts from higher finished goods selling prices of approximately $450 million and lower blended rock costs of approximately $65 million. Our average consumed price for ammonia in our North American operations increased to $468 per tonne in 2025 from $435 a year ago. The average consumed price for sulfur for our North American operations increased to $237 per long ton for the year ended December 31, 2025, from $132 in the prior year period. The purchase price of these raw materials is driven by global supply and demand. The consumed ammonia and sulfur prices also include transportation, transformation and storage costs. The average consumed cost of purchased and produced rock decreased to $80 per tonne in the current year, from $85 a year ago. For the year ended December 31, 2025, our North American phosphate rock production increased to 9.5 million tonnes from 9.0 million tonnes in the prior year. The Phosphate segment's production of crop nutrient dry concentrates and animal feed ingredients remained materially unchanged at 6.3 million tonnes for both the current and prior year periods. For the year ended December 31, 2025, our operating rate for processed phosphate production was 63%, compared to 64% in the same period of the prior year. F- 8 Potash Net Sales and Gross Margin The following table summarizes the Potash segment's net sales, gross margin, sales volume and selling price: Years Ended December 31, 2025-2024 2024-2023 (in millions, except price per tonne or unit) 2025 2024 2023 Change Percent Change Percent Net sales: North America $ 1,370.1 $ 1,452.3 $ 1,899.9 $ (82.2) (6) % $ (447.6) (24) % International 1,291.6 936.4 1,333.7 355.2 38 % (397.3) (30) % Total 2,661.7 2,388.7 3,233.6 273.0 11 % (844.9) (26) % Cost of goods sold 1,791.7 1,745.5 2,018.6 46.2 3 % (273.1) (14) % Gross margin $ 870.0 $ 643.2 $ 1,215.0 $ 226.8 35 % $ (571.8) (47) % Gross margin as a percentage of net sales 32.7 % 26.9 % 37.6 % Sales volume (a) (in thousands of metric tonnes) MOP 8,262 7,879 7,969 383 5 % (90) (1) % Performance and Other (b) 706 865 901 (159) (18) % (36) (4) % Total Potash Segment Tonnes 8,968 8,744 8,870 224 3 % (126) (1) % Realized prices ($/tonne) Average finished product selling price (destination) $ 266 $ 236 $ 323 $ 30 13 % $ (87) (27) % MOP selling price (fob mine) $ 255 $ 222 $ 308 $ 33 15 % $ (86) (28) % Production volume (in thousands of metric tonnes) 8,797 8,798 8,246 (1) — % 552 7 % (a) Includes intersegment sales volumes. (b) Includes sales volumes of K-Mag &#174; , Aspire &#174; and animal feed ingredients. Year Ended December 31, 2025 compared to Year Ended December 31, 2024 The Potash segment's net sales increased to $2.7 billion for the year ended December 31, 2025, compared to $2.4 billion in the prior year. The increase was due to higher average selling prices and sales volumes, which favorably impacted net sales by approximately $265 million and $50 million, respectively, compared to the prior year period. This was partially offset by an approximate $45 million reduction in freight revenue, reflecting lower freight rates and lower domestic sales volumes in the current year period. Our average finished product selling price was $266 per tonne for the year ended December 31, 2025, an increase of $30 per tonne compared with the prior year period, due to the factor discussed in the Overview. The Potash segment's sales volumes increased to 9.0 million tonnes for the year ended December 31, 2025, compared to 8.7 million tonnes in the same period a year ago, due to the fac",
+        "charRange": [
+          374005,
+          389005
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "risk factors described in Item 1A, of Part I of this Annual Report on Form 10-K (&#8220; Form 10-K &#8221;), and our Consolidated Financial Statements, accompanying notes and other information listed in the accompanying Financial Table of Contents. This section of this Form 10-K discusses 2025 and 2024 items and year-to-year comparisons between 2025 and 2024. Discussions of 2023 items and year-to-year comparisons between 2024 and 2023 that are not included in this Form 10-K can be found in &#8220;Management's Discussion and Analysis of Financial Condition and Results of Operations&#8221; in Part II, Item 7 of the Company's Form 10-K for the year ended December 31, 2024 and are incorporated by reference herein. Throughout the discussion below, we measure units of production, sales and raw materials in metric tonnes which are the equivalent of 2,205 pounds, unless we specifically state that we mean short or long ton(s), which are the equivalent of 2,000 pounds and 2,240 pounds, respectively. In addition, we measure natural gas, a raw material used in the production of our products, in MM BTU, which stands for one million British Thermal Units (&#8220; BTU &#8221;). One BTU is equivalent to 1.06 Joules. Management uses the following metrics to monitor segment performance: production volume, sales volume, average finished product selling price and average cost per unit consumed. In the following table, there are certain percentages that are not considered to be meaningful and are represented by &#8220;NM&#8221;. F- 3 Results of Operations The following table shows the results of operations for the years ended December 31, 2025, 2024, and 2023: Years Ended December 31, 2025-2024 2024-2023 (in millions, except per share data) 2025 2024 2023 Change Percent Change Percent Net sales $ 12,052.4 $ 11,122.8 $ 13,696.1 $ 929.6 8 % $ (2,573.3) (19) % Cost of goods sold 10,150.5 9,610.9 11,485.5 539.6 6 % (1,874.6) (16) % Gross margin 1,901.9 1,511.9 2,210.6 390.0 26 % (698.7) (32) % Gross margin percentage 15.8 % 13.6 % 16.1 % 2.2 % (2.5) % Selling, general and administrative expenses 533.9 496.9 500.5 37.0 7 % (3.6) (1) % Loss (gain) on assets sold and to be sold 157.3 — (56.5) 157.3 NM 56.5 NM Impairment of goodwill 99.9 — — 99.9 NM — NM Other operating expenses 289.3 393.5 428.5 (104.2) (26) % (35.0) (8) % Operating earnings 821.5 621.5 1,338.1 200.0 32 % (716.6) (54) Interest expense, net (187.7) (182.8) (129.4) (4.9) 3 % (53.4) 41 % Foreign currency transaction gain (loss) 271.7 (685.8) 194.0 957.5 (140) % (879.8) NM Gain on sale of equity investment — 522.2 — (522.2) (100) % 522.2 NM Other income (expense) 307.4 40.3 (76.8) 267.1 NM 117.1 (152) % Earnings from consolidated companies before income taxes 1,212.9 315.4 1,325.9 897.5 NM (1,010.5) (76) Provision for income taxes 639.8 186.7 177.0 453.1 NM 9.7 5 Earnings from consolidated companies 573.1 128.7 1,148.9 444.4 NM (1,020.2) (89) % Equity in net earnings of nonconsolidated companies 2.3 73.3 60.3 (71.0) (97) % 13.0 22 % Net earnings including noncontrolling interests 575.4 202.0 1,209.2 373.4 185 % (1,007.2) (83) % Less: Net earnings attributable to noncontrolling interests 34.7 27.1 44.3 7.6 28 % (17.2) (39) % Net earnings attributable to Mosaic $ 540.7 $ 174.9 $ 1,164.9 $ 365.8 NM $ (990.0) (85) % Diluted net earnings per share attributable to Mosaic $ 1.70 $ 0.55 $ 3.50 $ 1.15 NM $ (2.95) (84) % Diluted weighted average number of shares outstanding 318.9 320.7 333.2 F- 4 Overview of the Years ended December 31, 2025 and 2024 Net earnings attributable to Mosaic for the year ended December 31, 2025 were $540.7 million, or $1.70 per diluted share, compared to $174.9 million, or $0.55 per diluted share for 2024. Gross margin for the current year increased $390.0 million from the prior year driven by higher finished good sales pricing across our segments, as discussed further below. Net income for the year ended December 31, 2025 was favorably impacted by a foreign currency transaction gain of $271.7 million, compared to a foreign currency transaction loss of $685.8 million in the prior year period and an unrealized mark-to-market gain of approximately $317.0 million on the investment in Ma'aden shares, included in other income (expense). These benefits were partially offset by a loss on assets sold and to be sold of $157.3 million and an impairment of goodwill of $99.9 million. Significant factors that affected our results of operations and financial condition in 2025 and 2024 are listed below. These factors are discussed in more detail in the following sections of this Management's Discussion and Analysis of Financial Condition and Results of Operations. Year ended December 31, 2025 In our Phosphate segment, operating earnings were $135 million for 2025 compared to $225 million in the prior year period. Current year operating results reflect lower sales volumes which were impacted by supply losses due to extended downtime as we focused on improving asset integrity, and lower demand in North America in the fourth quarter of 2025 compared to the prior year period. Phosphate operating results were also unfavorably impacted by higher raw material costs, primarily sulfur, compared to the prior year period. These impacts were partially offset by the benefit of higher average selling prices which continued the upward trend that began in the second half of 2023, reflecting strong global demand and low inventory levels. Operating results were also unfavorably impacted by higher maintenance turnaround costs and water treatment costs compared to the prior year period. In our Potash segment, operating earnings were $638 million for 2025, compared to $605 million in the prior year period. Operating results benefited from higher average selling prices and sales volumes in the current year period. Prices and sales volumes improved due to continued strength in international demand. Sales volumes also benefitted due to our recovery from production challenges and supply chain delays experienced in the prior year. Current year operating results were unfavorably impacted by a loss on assets held for sale related to the Carlsbad, New Mexico facility. In our Mosaic Fertilizantes segment, operating earnings were $277 million for 2025 compared to $238 million in the prior year period. Operating results reflected higher average selling prices compared to the prior year period benefiting from a favorable global pricing environment that was driven by healthy demand and tight supply. This benefit was partially offset by the impact of higher costs of purchased products for resale. We saw a slight decrease in sales volumes compared to the prior year which was driven by grower caution and increased credit constraints in Brazil. Operating earnings were stronger in the first three quarters of 2025 compared to the prior year but declined in the fourth quarter due to lower volumes. Sales volumes were negatively impacted by challenging credit conditions for customers, weaker margins, in part due to higher sulfur raw material cost and higher turnaround and idle costs due to downtime. Due to the increase in sulfur costs seen in the fourth quarter of 2025, we temporarily idled production at our Fospar and Araxa facilities in Brazil. Operating results in 2025 were also impacted by a gain on the sale of the Patos de Minas mine and a loss on the sale of the Taquari mine. Corporate, Eliminations and Other had an operating loss of $(229) million for 2025 compared to a loss of $(446) million in the prior year. Corporate, Eliminations and Other includes the results of the China and India distribution businesses, intersegment eliminations, including profit on intersegment sales, unrealized mark-to-market gains and losses on derivatives and debt expenses. In addition to the items mentioned above : &#8226; In October 2025, we completed the sale of our idled Patos de Minas phosphate mining unit in Brazil for $111 million, with $51 million paid at closing and the balance of the purchase price to be paid in installments over the next four years. The sale resulted in a gain of $94 million. &#8226; In November 2025, we completed the sale of our interest in the Taquari potash mine in Brazil for proceeds of up to $27 million, with $12 million received at closing and an additional $10 million due in one year. The remaining $5 million is contingent upon future potash pricing benchmarks. We recorded an impairment loss of approximately $66 million related to the sale. F- 5 &#8226; In November 2025, we completed a $900 million public bond offering, consisting of $500 million aggregate principal amount of 4.350% senior notes due 2029 and $400 million aggregate principal amount of 4.600% senior notes due 2030. &#8226; In December 2025, we entered into an agreement to sell our Carlsbad, New Mexico potash mine for approximately $30 million. The transaction includes initial proceeds of $20 million at closing and deferred consideration of $10 million, payable in three equal installments beginning in 2029. The sale is expected to be completed in the first half of 2026. As of December 31, 2025, the assets and liabilities are considered held for sale and we recorded an impairment loss of approximately $185 million. Year ended December 31, 2024 : For the year ended December 31, 2024, operating results were driven by lower finished good sales pricing in our Potash and Mosaic Fertilizantes segments and lower sales volumes across our segments as discussed further below. Net earnings were unfavorably impacted by a foreign currency translation loss and benefited from a gain on sale of the equity investment in MWSPC. In our Phosphate segment, operating results for 2024 were unfavorable compared to the prior year due to lower finished goods sales volumes partially offset by higher average selling prices. Sales volumes were unfavorably impacted by planned maintenance and turnaround activity at our sites as well as impacts from hurricanes in Florida in the second half of the year. Phosphate operating results were also unfavorably impacted by increased product costs due to our sales volumes including a larger proportion of purchased tonnes than in the prior year. We increased our purchases in 2024 to offset lost production in the first quarter from a fire at our Riverview, Florida facility. Average selling prices for 2024 were favorable versus the prior year as prices continued trending upwards since the third quarter of 2023, driven by strong demand in North America. Operating results also benefited from lower raw material costs, primarily sulfur, compared to the prior year period. In our Potash segment, operating results for 2024 were unfavorably impacted by lower global average selling prices, resulting from improved global supply. Operating results were also unfavorably impacted by lower sales volumes in the second half of the year resulting from production challenges in the third quarter due to electrical issues at two of our mines and supply chain delays caused by a port strike in Vancouver, Canada. In our Mosaic Fertilizantes segment, operating results for 2024 were unfavorably impacted by a decrease in average selling prices compared to the prior year period. Sales prices of potash and nitrogen in Brazil decreased as global supply improved. Sales volumes were down compared to the prior year period as a result of our decision to prioritize sales to lower credit-risk customers, and to focus on obtaining improved gross margin over sales volumes. Corporate, Eliminations and Other had an operating loss of $(446) million in 2024 compared to a loss of $(264) million in the prior year. Corporate, Eliminations and Other includes the results of the China and India distribution businesses, intersegment eliminations, including profit on intersegment sales, unrealized mark-to-market gains and losses on derivatives and debt expenses. F- 6 Phosphate Net Sales and Gross Margin The following table summarizes the Phosphate segment's net sales, gross margin, sales volume, selling prices and raw material prices: Years Ended December 31, 2025-2024 2024-2023 (in millions, except price per tonne or unit) 2025 2024 2023 Change Percent Change Percent Net sales: North America $ 3,933.9 $ 3,772.9 $ 3,749.8 $ 161.0 4 % $ 23.1 1 % International 642.6 745.9 974.5 (103.3) (14) % (228.6) (23) % Total 4,576.5 4,518.8 4,724.3 57.7 1 % (205.5) (4) % Cost of goods sold 4,139.2 3,924.8 4,022.2 214.4 5 % (97.4) (2) % Gross margin $ 437.3 $ 594.0 $ 702.1 $ (156.7) (26) % $ (108.1) (15) Gross margin as a percentage of net sales 9.6 % 13.1 % 14.9 % Sales volumes (a) (in thousands of metric tonnes) DAP/MAP 2,935 3,133 3,625 (198) (6) % (492) (14) % Performance and Other (b) 3,010 3,304 3,366 (294) (9) % (62) (2) % Total finished product tonnes 5,945 6,437 6,991 (492) (8) % (554) (8) % Rock (c) 1,760 1,795 1,622 (35) (2) % 173 11 % Total Phosphate Segment Tonnes (a) 7,705 8,232 8,613 (527) (6) % (381) (4) % Realized prices ($/tonne) Average finished product selling price (destination) (d) $ 667 $ 589 $ 566 $ 78 13 % $ 23 4 % DAP selling price (fob mine) $ 670 $ 585 $ 573 $ 85 15 % $ 12 2 % Average cost per unit consumed in cost of goods sold: Ammonia (metric tonne) $ 468 $ 435 $ 426 $ 33 8 % $ 9 2 % Sulfur (long ton) $ 237 $ 132 $ 181 $ 105 80 % $ (49) (27) % Blended rock (metric tonne) $ 80 $ 85 $ 75 $ (5) (6) % $ 10 13 % Production volume (in thousands of metric tonnes) - North America 6,272 6,290 6,568 (18) — % (278) (4) % (a) Includes intersegment sales volumes. (b) Includes sales volumes of MicroEssentials &#174; and animal feed ingredients. (c) Sales volumes of rock are presented on a wet tonne basis based on average moisture levels of 3.5% to 4.5% as it exits the drying process and is prepared for shipping. (d) Excludes sales revenue and tonnes associated with rock sales. Year Ended December 31, 2025 compared to Year Ended December 31, 2024 The Phosphate segment's net sales were $4.6 billion for the year ended December 31, 2025, compared to $4.5 billion for the same period a year ago. The increase in net sales was driven by higher average finished product selling prices, which favorably impacted net sales by approximately $450 million. This benefit was partially offset by lower finished goods sales volumes, which resulted in an unfavorable impact of approximately $280 million. Additionally, lower rock sales had an unfavorable impact of approximately $50 million and lower freight and other product revenue had an unfavorable impact of approximately $60 million compared to the prior year period. Our average finished product selling price increased 13%, to $667 per tonne for the year ended December 31, 2025, compared to $589 per tonne for the same period a year ago, due to the factors discussed in the Overview. The Phosphate segment's sales volumes of finished products decreased to 5.9 million tonnes for the year ended December 31, 2025, compared to 6.4 million tonnes in 20",
+        "charRange": [
+          369402,
+          384402
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 111854,
+            "context": "n producers initiated federal court actions seeking to overturn the orders. Mosaic also made claims contesting certain aspects of DOC's final determinations that, we believe, failed to capture the full extent of Moroccan and Russian subsidies. These litigation challenges remain underway as further described in Item 3 of this Form 10-K. 20 Table of Content The applicable final CVD assessment rates and cash deposit rates for imports of phosphate fertilizer from Morocco and Russia could change as a result of these various proceedings and potential associated appeals, whether in federal courts or"
+          },
+          {
+            "charIndex": 152364,
+            "context": "rt of Appeals for the Eighth Circuit, the SEC issued a voluntary stay of the climate rules. In March 2025, the SEC announced that it would end its defense of the climate-related disclosures. In September 2025, the Eight Circuit continued to hold the litigation in abeyance, pending definitive action by the SEC on the climate rules. The Company is monitoring the SEC's climate-related disclosure standards and recently enacted standards in the European Union and California on climate change disclosure and is taking necessary steps to plan for the anticipated or adopted disclosure requirements. It"
+          },
+          {
+            "charIndex": 168559,
+            "context": "issue significant reassessments on audit based positions not fully grounded in law or fact, even though, upon disputing the reassessments, a great many are overturned on administrative appeal and through the court system. Certain systems involve tax litigation as a common practice. In certain countries, there are requirements to pay a reassessment (even though the matter has not been finally decided by the tax administration or a court of law) while the taxpayer has a well-supported objection and appeals administratively or in court. This may result in tying up significant funds and/or creatin"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 331001,
+            "context": "reement and continues to implement the approved alternative reclamation schedule, as required. Monitoring programs are in place to ensure continued compliance with the waiver and settlement agreement. Cruz Litigation . On August 27, 2020, a putative class action complaint was filed in the Circuit Court of the Thirteenth Judicial Circuit in Hillsborough County, Florida against our wholly-owned subsidiary, Mosaic Global Operations Inc., and two unrelated co-defendants. The complaint alleges claims related to elevated levels of radiation at two manufactured housing communities located on reclaime"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 360003,
+            "context": "stimates F- 13 Liquidity and Capital Resources F- 15 Off-Balance Sheet Arrangements and Obligations F- 18 Market Risk F- 20 Environmental, Health, Safety and Security Matters F- 23 Contingencies F- 28 Related Parties F- 28 Recently Issued Accounting Guidance F- 28 Forward-Looking Statements F- 29 Reports of Independent Registered Public Accounting Firm F- 32 Consolidated Statements of Earnings F- 35 Consolidated Statements of Comprehensive Income (Loss) F- 36 Consolidated Balance Sheets F- 37 Consolidated Statements of Cash Flows F- 38 Consolidated Statements of Equity F- 40 Notes to Consolida"
+          },
+          {
+            "charIndex": 403104,
+            "context": "of the enacted provisions in its financial statements beginning in the third quarter, and there is no material change to our effective income tax rate for 2025. In December 2023, the Financial Accounting Standards Board (&#8220; FASB &#8221;) issued guidance to provide more disaggregation of income tax disclosures mainly related to the reconciliations of the income tax rate and income taxes paid by jurisdiction. We adopted this standard for the year ended December 31, 2025, and applied the new disclosure requirements prospectively to the current annual period. Prior period disclosures have not"
+          },
+          {
+            "charIndex": 448651,
+            "context": "ederal jurisdiction and affecting requirements for Mosaic's permitting. The Court's decision invalidated EPA's January 2023 WOTUS rule, leading EPA to issue a conforming final rule in September 2023 and, subsequently, joint EPA&#8211;U.S. Army Corps guidance in March 2025 on applying Sackett's &#8220;continuous surface connection&#8221; test, which clarified limits on adjacency and excluded ditches and intermittent features from jurisdiction. A proposed revised WOTUS definition published in November 2025 aims to fully implement the Sackett decision and provide regulatory clarity, but until fin"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 541347,
+            "context": "hich were anchored in projections from CRU International Limited (&#8220; CRU &#8221;), an independent third party data source. Selling prices and raw material prices for years six and beyond were based on anticipated market growth and long-term CRU outlooks. The discount rates used in our DCF method were based on a weighted-average cost of capital (&#8220; WACC &#8221;), determined from relevant market comparisons. A terminal value growth rate of 2 % was applied to all years thereafter for the projected period and reflected our estimate of stable growth. We then calculated a present value of"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 41685,
+            "context": "next four years. The sale resulted in a gain of $94 million. &#8226; In November 2025, we completed the sale of our interest in the Taquari potash mine in Brazil for proceeds of up to $27 million, with $12 million received at closing. We recorded an impairment loss of approximately $66 million related to the sale. &#8226; In November 2025, we completed a $900 million public bond offering, consisting of $500 million aggregate principal amount of 4.350% senior notes due 2029 and $400 million aggregate principal amount of 4.600% senior notes due 2030. &#8226; In December 2025, we entered into an"
+          },
+          {
+            "charIndex": 42450,
+            "context": "d consideration of $10 million payable in three equal installments beginning in 2029. The sale is expected to be completed in the first half of 2026. As of December 31, 2025, the assets and liabilities are considered held for sale and we recorded an impairment loss of approximately $185.0 million. We have included additional information about these and other developments in our business during 2025 in our Management's Discussion and Analysis of Financial Condition and Results of Operations (&#8220; Management's Analysis &#8221;) and in the Notes to Consolidated Financial Statements. Throughout"
+          },
+          {
+            "charIndex": 166046,
+            "context": "additional inventory write-downs. We may incur significant non-cash charges if our goodwill or long-lived assets become impaired in the future. Under accounting principles generally accepted in the U.S. (&#8220; GAAP &#8221;), we review goodwill for impairment on an annual basis or more frequently if events or circumstances indicate that their carrying value may not be recoverable. Other long-lived assets, including property, plant and equipment, are reviewed if events or circumstances indicate that their carrying value may not be recoverable. The process of impairment testing involves a numbe"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 15163,
+            "context": "ember 2024-12-31 0001285785 country:BR 2024-01-01 2024-12-31 0001285785 us-gaap:ForeignCountryMember 2023-01-01 2023-12-31 0001285785 country:BR 2023-01-01 2023-12-31 0001285785 us-gaap:NonUsMember 2025-01-01 2025-12-31 0001285785 us-gaap:UnfavorableRegulatoryActionMember 2025-12-31 0001285785 mos:A2015ConsentDecreesWithEPAMember us-gaap:UnfavorableRegulatoryActionMember 2025-12-31 0001285785 mos:BonnieFacilityTrustMember 2018-07-27 0001285785 mos:PlantCityandBonnieFacilitiesMember 2025-12-31 0001285785 mos:PlantCityandBonnieFacilitiesMember 2024-12-31 0001285785 us-gaap:InterestRateSwapMember"
+          },
+          {
+            "charIndex": 15264,
+            "context": "2023-01-01 2023-12-31 0001285785 country:BR 2023-01-01 2023-12-31 0001285785 us-gaap:NonUsMember 2025-01-01 2025-12-31 0001285785 us-gaap:UnfavorableRegulatoryActionMember 2025-12-31 0001285785 mos:A2015ConsentDecreesWithEPAMember us-gaap:UnfavorableRegulatoryActionMember 2025-12-31 0001285785 mos:BonnieFacilityTrustMember 2018-07-27 0001285785 mos:PlantCityandBonnieFacilitiesMember 2025-12-31 0001285785 mos:PlantCityandBonnieFacilitiesMember 2024-12-31 0001285785 us-gaap:InterestRateSwapMember 2024-12-31 0001285785 us-gaap:InterestRateSwapMember 2025-12-31 0001285785 us-gaap:ForeignExchangeCo"
+          },
+          {
+            "charIndex": 84434,
+            "context": "stic and international producers, including farmer cooperatives, subsidiaries of larger companies, and independent crop nutrient companies. Foreign competitors may have access to less expensive raw materials, may not have to comply with as stringent regulatory requirements or are owned or subsidized by governments and, as a result, may have cost advantages over North American companies. We believe that our extensive North American and international production and distribution system provides us with a competitive advantage by allowing us to achieve economies of scale, transportation and storag"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 330641,
+            "context": ",&#8221; in May 2020, the Hardee County Board of County Commissioners approved: (1) a waiver of the applicable reclamation deadlines of the South Pasture Development Order and Land Development Code; (2) an alternative reclamation schedule; and (3) a settlement agreement that resolved the NOV. Mosaic timely paid the civil penalty required by the settlement agreement and continues to implement the approved alternative reclamation schedule, as required. Monitoring programs are in place to ensure continued compliance with the waiver and settlement agreement. Cruz Litigation . On August 27, 2020, a"
+          },
+          {
+            "charIndex": 330738,
+            "context": "he applicable reclamation deadlines of the South Pasture Development Order and Land Development Code; (2) an alternative reclamation schedule; and (3) a settlement agreement that resolved the NOV. Mosaic timely paid the civil penalty required by the settlement agreement and continues to implement the approved alternative reclamation schedule, as required. Monitoring programs are in place to ensure continued compliance with the waiver and settlement agreement. Cruz Litigation . On August 27, 2020, a putative class action complaint was filed in the Circuit Court of the Thirteenth Judicial Circui"
+          },
+          {
+            "charIndex": 330930,
+            "context": "NOV. Mosaic timely paid the civil penalty required by the settlement agreement and continues to implement the approved alternative reclamation schedule, as required. Monitoring programs are in place to ensure continued compliance with the waiver and settlement agreement. Cruz Litigation . On August 27, 2020, a putative class action complaint was filed in the Circuit Court of the Thirteenth Judicial Circuit in Hillsborough County, Florida against our wholly-owned subsidiary, Mosaic Global Operations Inc., and two unrelated co-defendants. The complaint alleges claims related to elevated levels o"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 95166,
+            "context": ".gov). The information contained on our website and the SEC's website is not being incorporated in this report. HUMAN CAPITAL Our employees are the foundation of our Company. Our 13,249 colleagues embody Mosaic's core principles of responsibility, reliability and future-focus, and are the key to enabling us to execute our mission to help the world grow the food it needs. As of December 31, 2025, our regular employee base was made up of the following: Country Male Female Total Brazil 4,968 1,219 6,187 United States 3,375 646 4,021 Canada 1,690 315 2,005 Peru 649 70 719 China 121 61 182 India 70"
+          },
+          {
+            "charIndex": 141271,
+            "context": "t or third-party claims, and may require new investment in our business. In those circumstances, our financial condition and results of operations may be materially adversely affected. The U.S. Comprehensive Environmental Response, Compensation, and Liability Act (&#8220; CERCLA &#8221;) imposes liability, including for cleanup costs, without regard to fault or to the legality of a party's conduct, on certain categories of persons, including current and former owners and operators of a site and parties who are considered to have contributed to the release of &#8220;hazardous substances&#8221;"
+          },
+          {
+            "charIndex": 141318,
+            "context": "vestment in our business. In those circumstances, our financial condition and results of operations may be materially adversely affected. The U.S. Comprehensive Environmental Response, Compensation, and Liability Act (&#8220; CERCLA &#8221;) imposes liability, including for cleanup costs, without regard to fault or to the legality of a party's conduct, on certain categories of persons, including current and former owners and operators of a site and parties who are considered to have contributed to the release of &#8220;hazardous substances&#8221; into the environment. Under CERCLA, or various"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "Revenues",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 2824100000,
+          "accn": "0001285785-26-000112",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 5822100000,
+          "accn": "0001285785-26-000112",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 2998000000,
+          "accn": "0001285785-26-000067",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-11",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 12052400000,
+          "accn": "0001285785-26-000017",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-27",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 3005700000,
+          "accn": "0001285785-26-000112",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-06-30",
+          "val": 5626600000,
+          "accn": "0001285785-26-000112",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 2620900000,
+          "accn": "0001285785-26-000067",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-11",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2024-01-01",
+          "end": "2024-12-31",
+          "val": 11122800000,
+          "accn": "0001285785-26-000017",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-27",
+          "frame": "CY2024"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": -0.86,
+          "accn": "0001285785-26-000112",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": -1.67,
+          "accn": "0001285785-26-000112",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": -0.81,
+          "accn": "0001285785-26-000067",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-11",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 1.7,
+          "accn": "0001285785-26-000017",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-27",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 1.29,
+          "accn": "0001628280-25-049494",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-05",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 3.33,
+          "accn": "0001628280-25-049494",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-05"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1.29,
+          "accn": "0001285785-26-000112",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1.29,
+          "accn": "0001628280-25-038265",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": -272800000,
+          "accn": "0001285785-26-000112",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": -530400000,
+          "accn": "0001285785-26-000112",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": -257600000,
+          "accn": "0001285785-26-000067",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-11",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 540700000,
+          "accn": "0001285785-26-000017",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-27"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 411400000,
+          "accn": "0001628280-25-049494",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-05",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 1060200000,
+          "accn": "0001628280-25-049494",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-05"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 410700000,
+          "accn": "0001285785-26-000112",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 410700000,
+          "accn": "0001628280-25-038265",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": -35500000,
+          "accn": "0001285785-26-000112",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": -408400000,
+          "accn": "0001285785-26-000112",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": -372900000,
+          "accn": "0001285785-26-000067",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-11",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 821500000,
+          "accn": "0001285785-26-000017",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-27",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 339800000,
+          "accn": "0001628280-25-049494",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-05",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 922700000,
+          "accn": "0001628280-25-049494",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-05"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 244400000,
+          "accn": "0001285785-26-000112",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 244400000,
+          "accn": "0001628280-25-038265",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "MOS",
+    "name": "MOSAIC CO",
+    "sector": "Agricultural Chemicals",
+    "pe": null,
+    "pb": 0.65,
+    "ret3m": 2.4443,
+    "ret6m": -17.0964,
+    "roe": 4.72,
+    "debtEquity": 0.066,
+    "revenueGrowth": 8.36,
+    "epsGrowth": 209.09,
+    "fcfGrowth": null,
+    "operatingMargin": 6.82,
+    "marginTrend": 1.23,
+    "sentiment": -0.111,
+    "analyst": 63,
+    "beta": 0.91879964
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "A Steel-Forged Materials Breakout",
+        "url": "https://finnhub.io/api/news?id=628b8a2ceb6642cf90f63d3834205c0bf52026e939772c069466a1374b0d4334",
+        "source": "SeekingAlpha",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "ICL Group Opens Specialty Fertilizer Plant In Maharashtra India To Boost Local Production And Supply Security Amid Global Disruptions",
+        "url": "https://finnhub.io/api/news?id=e26eec994fbd9b89097088a880911275a10a64a2a912384146cb6a717590e0f7",
+        "source": "Benzinga",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Mosaic Commences Offers to Purchase for Cash Certain of its Outstanding Debt Securities",
+        "url": "https://finnhub.io/api/news?id=644b6839f28682e183edd6df1e1f88fa3ed3a8ea1151a1363d8bad05f10c38f9",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Mosaic Q2 Earnings Call Highlights",
+        "url": "https://finnhub.io/api/news?id=d35a6bfe3e3bad22daaf8e98b2fb6b459ea4dd01cc8e18b734d7c0a3dcac4ebd",
+        "source": "Yahoo",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "The Mosaic Co (MOS) (Q2 2026) Earnings Call Highlights: Navigating Sulfur-Driven Curtailments ...",
+        "url": "https://finnhub.io/api/news?id=40610ab716aaac6934d7fd1477e27c3505445bccec3d9b3646cc2bee57bf799b",
+        "source": "Yahoo",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "The Mosaic Company (MOS) Q2 2026 Earnings Call Transcript",
+        "url": "https://finnhub.io/api/news?id=8303bb1ae697b65a1d43f7306cf48b8ff3c6b08662084ee5dcdd546c5659b7b9",
+        "source": "SeekingAlpha",
+        "date": "2026-08-05"
+      }
+    ],
+    "cachedAt": "2026-08-11T06:00:18.241Z"
+  }
+}

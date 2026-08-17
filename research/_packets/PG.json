@@ -1,0 +1,663 @@
+{
+  "ticker": "PG",
+  "entityName": "PROCTER & GAMBLE Co",
+  "cik": "0000080424",
+  "generatedAt": "2026-08-11T18:22:32.721Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-04-24",
+        "reportDate": "2026-03-31",
+        "accessionNumber": "0000080424-26-000060",
+        "primaryDocument": "pg-20260331.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000060/pg-20260331.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000060/"
+      },
+      "textLength": 154799,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS",
+        "text": "Management's Discussion and Analysis (MD&A) is to provide an understanding of Procter & Gamble's financial condition, results of operations and cash flows by focusing on changes in certain key measures from year to year. The MD&A is provided as a supplement to, and should be read in conjunction with, our Consolidated Financial Statements and accompanying Notes. The MD&A is organized in the following sections: &#8226; Overview &#8226; Recent Developments &#8226; Summary of Results &#8211; Nine Months Ended March 31, 2026 &#8226; Economic Conditions and Uncertainties &#8226; Results of Operations &#8211; Three and Nine Months Ended March 31, 2026 &#8226; Segment Results &#8211; Three and Nine Months Ended March 31, 2026 &#8226; Liquidity and Capital Resources &#8226; Measures Not Defined by U.S. GAAP Throughout the MD&A we refer to measures used by management to evaluate performance, including unit volume growth, net sales, net earnings, diluted net earnings per common share (diluted EPS) and operating cash flow. We also refer to a number of financial measures that are not defined under U.S. GAAP, consisting of organic sales growth, Core earnings per share (Core EPS), adjusted free cash flow and adjusted free cash flow productivity. The explanation at the end of the MD&A provides the definition of these non-GAAP measures, details on the use and the derivation of these measures, as well as reconciliations to the most directly comparable U.S. GAAP measure. Management also uses certain market share and market consumption estimates to evaluate performance relative to competition despite some limitations on the availability and comparability of share and consumption information. References to market share and consumption in the MD&A are based on a combination of vendor-purchased traditional brick-and-mortar and online data in key markets as well as internal estimates. All market share references represent the percentage of sales of our products in dollar terms on a constant currency basis relative to all product sales in the category. The Company measures quarter and fiscal year to date market share through the most recent period for which market share data is available, which typically reflects a lag time of one or two months as compared to the end of the reporting period. Management also uses unit volume growth to evaluate drivers of changes in net sales. Organic volume growth reflects year-over-year changes in unit volume excluding the impacts of acquisitions and divestitures and certain one-time items, if applicable, and is used to explain changes in organic sales. In the presentation of data in tables or other charts, certain columns and rows may not add due to rounding. OVERVIEW P&G is a global leader in the fast-moving consumer goods industry, focused on providing branded consumer packaged goods of superior quality and value to our consumers around the world. Our products are sold in about 180 countries and territories, primarily through mass merchandisers, e-commerce (including social commerce) channels, grocery stores, membership club stores, drug stores, department stores, distributors, wholesalers, specialty beauty stores (including airport duty-free stores), 16 The Procter & Gamble Company high-frequency stores, pharmacies, electronics stores and professional channels. We also sell direct to individual consumers. We have on-the-ground operations in about 70 countries. Our market environment is highly competitive with global, regional and local competitors. In many of the markets and industry segments in which we sell our products, we compete against other branded products as well as retailers' private-label brands. Additionally, many of the product segments in which we compete are differentiated by price tiers (referred to as super-premium, premium, mid-tier and value-tier products). We believe we are well positioned in the industry segments and markets in which we operate, often holding a leadership or significant market share position. The table below lists our reportable segments, including the product categories and brand composition within each segment. Reportable Segments Product Categories (Sub-Categories) Major Brands Beauty Hair Care ( Conditioners, Shampoos, Styling Aids, Treatments ) Head & Shoulders, Herbal Essences, Pantene, Rejoice Personal Care (1) ( Antiperspirants and Deodorants, Personal Cleansing ) Native, Old Spice, Safeguard, Secret Skin Care (1) (Facial Moisturizers, Cleaners and Treatments) Olay, SK-II Grooming Grooming ( Appliances, Female Blades & Razors, Male Blades & Razors, Pre- and Post-Shave Products, Other Grooming ) Braun, Gillette, Venus Health Care Oral Care ( Toothbrushes, Toothpastes, Other Oral Care ) Crest, Oral-B Personal Health Care ( Gastrointestinal, Pain Relief, Rapid Diagnostics, Respiratory, Vitamins/Minerals/Supplements, Other Personal Health Care ) Metamucil, Neurobion, Pepto-Bismol, Vicks Fabric & Home Care Fabric Care ( Fabric Enhancers, Laundry Additives, Laundry Detergents ) Ariel, Downy, Gain, Tide Home Care ( Air Care, Dish Care, P&G Professional, Surface Care ) Cascade, Dawn, Fairy, Febreze, Mr. Clean, Swiffer Baby, Feminine & Family Care Baby Care ( Baby Wipes, Taped Diapers and Pants ) Luvs, Pampers Feminine Care ( Adult Incontinence, Menstrual Care ) Always, Always Discreet, Tampax Family Care ( Paper Towels, Tissues, Toilet Paper ) Bounty, Charmin, Puffs (1) Effective July 1, 2024, the Beauty reportable business segment separated Skin and Personal Care into individual operating segments, Skin Care and Personal Care. This transition included separation of the management team, strategic decision-making, innovation plans, financial targets, budgets and management reporting. Throughout the MD&A, we reference business results by region, which are comprised of North America, Europe, Greater China, Latin America, Asia Pacific and India, Middle East and Africa (IMEA). The following table provides the percentage of net sales and net earnings by reportable business segment (excluding Corporate) for the three and nine months ended March 31, 2026: Three Months Ended March 31, 2026 Nine Months Ended March 31, 2026 Net Sales Net Earnings Net Sales Net Earnings Beauty 18 % 15 % 18 % 17 % Grooming 8 % 9 % 8 % 9 % Health Care 15 % 15 % 15 % 16 % Fabric & Home Care 35 % 35 % 35 % 34 % Baby, Feminine & Family Care 24 % 26 % 24 % 24 % Total Company 100 % 100 % 100 % 100 % RECENT DEVELOPMENTS Limited Market Portfolio Restructuring In the fiscal year ended June 30, 2024, the Company started a limited market portfolio restructuring of its business operations, primarily in certain Enterprise Markets, including Argentina and Nigeria, to address challenging macroeconomic and fiscal conditions. During the period ended September 30, 2024, the Company completed this limited market portfolio restructuring with the substantial liquidation of its operations in Argentina and recorded incremental restructuring charges of approximately $0.8 billion after tax, comprised primarily of non-cash charges for accumulated foreign currency translation losses previously included in Accumulated other comprehensive income/(loss). The total incremental restructuring charges incurred under the The Procter & Gamble Company 17 program beginning in the three-month period ended December 31, 2023, through the three-month period ended September 30, 2024, were approximately $1.2 billion after tax. Focused Portfolio, Supply Chain and Productivity Plan In June 2025, the Company announced a portfolio and productivity plan to streamline its portfolio and organization to improve its cost structure and competitiveness. The Company expects to incur approximately $1.5 to $2.0 billion in before-tax restructuring costs over a two-year period. The Company expects to incur over half of the costs under this plan by the end of fiscal 2026, with the remainder incurred in fiscal 2027. The restructuring activities will be executed across the Sector Business Units as well as the Enterprise Markets, Corporate Functions and Global Business Services. These restructuring activities include a plan for a reduction of up to 7,000 non-manufacturing overhead personnel by the end of fiscal 2027. Consistent with our historical policies for ongoing restructuring-type activities, resulting charges were funded by and included within Corporate for segment reporting. Restructuring charges above the normal ongoing level of restructuring costs are reported as non-core charges. For more details on the restructuring program, refer to Note 11 to the Consolidated Financial Statements. Glad Joint Venture Agreement In January 2026, the Glad joint venture agreement between the Company and The Clorox Company (Clorox) expired. Under the terms of the agreement, Clorox purchased the Company's minority interest in the venture at fair market value, for $476 million. This transaction was accounted for as a dissolution of the Glad joint venture business and the Company recorded an after-tax gain of $261 million. U.S. Tariffs On February 20, 2026, the U.S. Supreme Court ruled that the tariffs imposed under the International Emergency Economic Powers Act (IEEPA) were invalid. The Company previously paid approximately $200 million in IEEPA tariffs that may be recoverable. The Company has not yet recognized any recovery in its consolidated financial statements. SUMMARY OF RESULTS &#8211; Nine Months Ended March 31, 2026 The following are highlights of results for the nine months ended March 31, 2026, versus the nine months ended March 31, 2025: &#8226; Net sales were $65.8 billion, an increase of $2.4 billion, or 4%, versus the prior year period. Net sales increased high single digits in Beauty, mid-single digits in Grooming and Health Care, and low single digits in Fabric & Home Care and Baby, Feminine & Family Care. Organic sales, which exclude the impacts of acquisitions and divestitures and foreign exchange, increased 2% versus the prior year period. Organic sales increased mid-single digits in Beauty, low single digits in Health Care, Grooming and Fabric & Home Care and were unchanged in Baby, Feminine & Family Care. &#8226; Net earnings were $13.1 billion, an increase of $624 million, or 5%, versus the prior year period due to higher restructuring charges related to the substantial liquidation of operations in certain Enterprise Markets, including Argentina, in the prior year period. &#8226; Net earnings attributable to Procter & Gamble were $13.0 billion, an increase of $643 million, or 5%, versus the prior year period. &#8226; Diluted EPS increased 7% to $5.36 due to the increase in net earnings. Core EPS, which excludes the gain from the dissolution of the Glad joint venture business and incremental restructuring charges, increased 2% to $5.46. &#8226; Operating cash flow was $14.4 billion. Adjusted free cash flow, which is defined as operating cash flow less capital expenditures and excluding payments for the transitional tax resulting from the 2017 U.S. Tax Act, was $11.7 billion. Adjusted free cash flow productivity, which is defined as adjusted free cash flow as a percentage of net earnings excluding the gain from the dissolution of the Glad joint venture business, was 92%. ECONOMIC CONDITIONS AND UNCERTAINTI ES Global Economic Conditions. Our products are sold in numerous countries worldwide, with more than half our sales generated outside the United States. Our largest international markets are Greater China, the United Kingdom, Canada, Japan and Germany and collectively comprised approximately 21% of our net sales in fiscal 2025. As a result, we are exposed to global macroeconomic factors, geopolitical tensions and government policies. We are exposed to various risks due to economic, political and social instabilities, market volatility, natural disasters, debt and credit issues, currency controls, new or increased tariffs, foreign exchange, the availability and cost of materials and interest rate changes. These risks can negatively impact our net sales, net earnings and cash flows. For example, we are exposed to risks due to the conflict in the Middle East and the ongoing war between Russia and Ukraine. Our Russia business accounted for 1% of consolidated net sales, net earnings and net assets as of June 30, 2025. Foreign Exchange. We have significant exposure to exchange rate fluctuations, both due to translation and transaction exposures. Translation exposures arise from measuring income statements of foreign subsidiaries with functional currencies other than the U.S. dollar. Transaction exposures involve impacts from 1) input costs that are denominated in currencies other than the local reporting currency and 2) revaluation of working capital balances denominated in currencies other than the 18 The Procter & Gamble Company functional currency. We have experienced significant foreign exchange impacts in the past due to the weakening of certain foreign currencies versus the U.S. dollar, which have negatively impacted net sales, net earnings and cash flows. In response to the devaluation of foreign currencies (including those deemed highly inflationary), any lags or inability (due to government restrictions) to implement price increases or the negative impacts of such actions on product consumption may lead to a decline in our net sales, net earnings and cash flows. Commodities and Supply Chain. Our costs are subject to fluctuations due to changes in commodity and input material prices, transportation costs, inflationary impacts and productivity efforts. We have significant exposures to certain commodities and input materials, in particular certain oil-derived materials like resins and paper-based materials like pulp. Volatility in the market price of commodities and input materials directly affects our costs. Disruptions in manufacturing, supply and distribution operations can lead to increased costs. Legal or regulatory requirements and sustainability initiatives may result in increased costs. We strive to implement, achieve and sustain cost improvement plans, including supply chain optimization and general overhead and workforce optimization. Increased pricing in response to certain inflationary or cost increases may also offset portions of the cost impacts; however, such price increases may negatively impact product consumption. If we are unable to manage cost impacts through pricing actions and consistent productivity improvements, it may negatively impact our net sales, net earnings and cash flows. Government Policies. We are exposed to changes in U.S. and foreign government legislative, regulatory or enforcement policies that can have a negative impact on net sales, net earnings and cash flows. These include tax policy changes (both U.S. and foreign), including those resulting from the current work being led by the OECD/G20 Inclusive Framework focused on \"Addressing the Challenges of the Digitalization of the Economy&#8221;. Governmen",
+        "charRange": [
+          81234,
+          96234
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors\" in Part I, Item 1A of the Company's Form 10-K for the fiscal year ended June 30, 2025. The Procter & Gamble Company 31 Item 2. Unregistered Sales of Equity Securities, Use of Proceeds and Issuer Purchases of Equity Securities ISSUER PURCHASES OF EQUITY SECURITIES Period Total Number of Shares Purchased (1) Average Price Paid per Share (2) Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs (3) Approximate Dollar Value of Shares That May Yet Be Purchased Under Our Share Repurchase Program 1/01/2026 - 1/31/2026 — — — (3) 2/01/2026 - 2/28/2026 3,911,417 $ 159.79 3,911,417 (3) 3/01/2026 - 3/31/2026 — — — (3) Total 3,911,417 $159.79 3,911,417 (3) (1) All transactions are reported on a trade date basis and were made in the open market with large financial institutions. This table excludes shares withheld from employees to satisfy tax withholding requirements on option exercises and other equity-based transactions. The Company administers cashless exercises through an independent third party and does not repurchase stock in connection with cashless exercises. (2) Average price paid per share for open market transactions excludes commission. (3) In accordance with the repurchase program announced on July 29, 2025, the Company reaffirmed in its earnings release on April 24, 2026, that it expects to reduce outstanding shares through direct share repurchases at a value of approximately $5 billion in fiscal year 2026, notwithstanding any purchases under the Company's compensation and benefit plans. Purchases may be made in the open market and/or private transactions and purchases may be increased, decreased or discontinued at any time without prior notice. The share repurchases are authorized pursuant to a resolution issued by the Company's Board of Directors and are expected to be financed by a combination of operating cash flows and issuance of debt. Item 5. Other Information During the three months ended March 31, 2026, none of our directors or officers adopted or terminated a \"Rule 10b5-1 trading arrangement\" or \"non-Rule 10b5-1 trading arrangement\" as defined in Item 408 of Regulation S-K. Amounts in millions of dollars unless otherwise specified. 32 The Procter & Gamble Company Item 6. Exhibits 3.1 Amended Articles of Incorporation (as amended by shareholders at the annual meeting on October 11, 2011 and consolidated by the Board of Directors on April 8, 2016) (Incorporated by reference to Exhibit (3-1) of the Company's Form 10-K for the year ended June 30, 2016) 3.2 Regulations (as approved by the Board of Directors on December 13, 2022, pursuant to authority granted by shareholders at the annual meeting on October 13, 2009) (Incorporated by reference to Exhibit (3-2) of the Company's Current Report on Form 8-K filed December 13, 2022) 4.1 Indenture, dated as of September 3, 2009, between the Company and Deutsche Bank Trust Company Americas, as Trustee (Incorporated by reference to Exhibit (4-1) of the Company's Annual Report on Form 10-K for the year ended June 30, 2015) 31.1 Rule 13a-14(a)/15d-14(a) Certification &#8211; Chief Executive Officer + 31.2 Rule 13a-14(a)/15d-14(a) Certification &#8211; Chief Financial Officer + 32.1 Section 1350 Certifications &#8211; Chief Executive Officer + 32.2 Section 1350 Certifications &#8211; Chief Financial Officer + 101.SCH (1) Inline XBRL Taxonomy Extension Schema Document 101.CAL (1) Inline XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF (1) Inline XBRL Taxonomy Definition Linkbase Document 101.LAB (1) Inline XBRL Taxonomy Extension Label Linkbase Document 101.PRE (1) Inline XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (formatted in Inline XBRL and contained in Exhibit 101) + Filed herewith (1) Pursuant to Rule 406T of Regulation S-T, this information is furnished and not filed for purposes of Sections 11 or 12 of the Securities Act of 1933 and Section 18 of the Securities Exchange Act of 1934, and otherwise is not subject to liability under these sections. Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this Report to be signed on its behalf by the undersigned thereunto duly authorized. THE PROCTER & GAMBLE COMPANY April 24, 2026 /s/ MATTHEW W. JANZARUK Date (Matthew W. Janzaruk) Senior Vice President - Chief Accounting Officer (Principal Accounting Officer)",
+        "charRange": [
+          150368,
+          154799
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 66527,
+            "context": "net investment hedges (see Note 7). Postretirement benefit plan amounts are reclassified from AOCI into Other non-operating income/(expense), net and included in the computation of net periodic postretirement costs. 9. Commitments and Contingencies Litigation We are subject, from time to time, to certain legal proceedings and claims arising out of our business, which cover a wide range of matters, including antitrust and trade regulation, product liability, advertising, contracts, environmental, patent and trademark matters, labor and employment matters and tax. While considerable uncertainty"
+          },
+          {
+            "charIndex": 74911,
+            "context": ", projections, statements relating to our business plans, objectives and expected operating results, and the assumptions upon which those statements are based, are &#8220;forward-looking statements&#8221; within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements may appear throughout this report, including without limitation, in the following sections: &#8220;Management's Discussion and Analysis,&#8221; &#8220;Risk Factors&#8221; and \"Notes 4 and 9 to t"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 40454,
+            "context": "l results. 2. New Accounting Pronouncements and Policies In December 2023, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) No. 2023-09, &#8220;Income Taxes: Improvements to Income Tax Disclosures&#8221;. This guidance requires consistent categories and greater disaggregation of information in the rate reconciliation and disclosures of income taxes paid by jurisdiction. This amendment is effective for our fiscal year ending June 30, 2026. This guidance will require additional disclosures in the Income Tax footnote but will not have a material impact on o"
+          },
+          {
+            "charIndex": 40692,
+            "context": "8221;. This guidance requires consistent categories and greater disaggregation of information in the rate reconciliation and disclosures of income taxes paid by jurisdiction. This amendment is effective for our fiscal year ending June 30, 2026. This guidance will require additional disclosures in the Income Tax footnote but will not have a material impact on our Consolidated Financial Statements. In November 2024, the FASB issued ASU No. 2024-03, &#8220;Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures: Disaggregation of Income Statement Expenses&#8221;. This g"
+          },
+          {
+            "charIndex": 41041,
+            "context": "l impact on our Consolidated Financial Statements. In November 2024, the FASB issued ASU No. 2024-03, &#8220;Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures: Disaggregation of Income Statement Expenses&#8221;. This guidance requires disclosures about significant expense categories, including but not limited to, inventory purchases, employee compensation, depreciation, amortization and selling expenses. This amendment is effective for our fiscal year ending June 30, 2028, and our interim periods within the fiscal year ending June 30, 2029. We are currently ass"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 50384,
+            "context": "025, was $ 76 and $ 78 , respectively. For the nine months ended March 31, 2026 and 2025, amortization expense was $ 232 and $ 241 , respectively. Goodwill and indefinite-lived intangible assets are not amortized but are tested at least annually for impairment. We use the income method to estimate the fair value of these assets, which is based on forecasts of the expected future cash flows attributable to the respective assets. When appropriate, the market approach, which leverages comparable company revenue and earnings multiples, is weighted with the income approach to estimate fair value. I"
+          },
+          {
+            "charIndex": 50832,
+            "context": ", the market approach, which leverages comparable company revenue and earnings multiples, is weighted with the income approach to estimate fair value. If the resulting fair value is less than the asset's carrying value, that difference represents an impairment. Our annual impairment testing for goodwill and indefinite-lived intangible assets occurs during the three months ended December 31. Other than our Gillette indefinite-lived intangible asset, our goodwill reporting units and indefinite-lived intangible assets have fair values that significantly exceed their underlying carrying values. Ba"
+          },
+          {
+            "charIndex": 50855,
+            "context": "which leverages comparable company revenue and earnings multiples, is weighted with the income approach to estimate fair value. If the resulting fair value is less than the asset's carrying value, that difference represents an impairment. Our annual impairment testing for goodwill and indefinite-lived intangible assets occurs during the three months ended December 31. Other than our Gillette indefinite-lived intangible asset, our goodwill reporting units and indefinite-lived intangible assets have fair values that significantly exceed their underlying carrying values. Based on our impairment t"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 80184,
+            "context": "changes while successfully identifying, developing and retaining key employees, including in key growth markets where the availability of skilled or experienced employees may be limited; (16) the ability to successfully manage current and expanding regulatory and legal requirements and matters (including, without limitation, those laws, regulations, policies and related interpretations involving product liability, product and packaging composition, manufacturing processes, intellectual property, labor and employment, antitrust, privacy, cybersecurity, data protection and data transfers, artif"
+          },
+          {
+            "charIndex": 95184,
+            "context": "als like resins and paper-based materials like pulp. Volatility in the market price of commodities and input materials directly affects our costs. Disruptions in manufacturing, supply and distribution operations can lead to increased costs. Legal or regulatory requirements and sustainability initiatives may result in increased costs. We strive to implement, achieve and sustain cost improvement plans, including supply chain optimization and general overhead and workforce optimization. Increased pricing in response to certain inflationary or cost increases may also offset portions of the cost im"
+          },
+          {
+            "charIndex": 95880,
+            "context": "to manage cost impacts through pricing actions and consistent productivity improvements, it may negatively impact our net sales, net earnings and cash flows. Government Policies. We are exposed to changes in U.S. and foreign government legislative, regulatory or enforcement policies that can have a negative impact on net sales, net earnings and cash flows. These include tax policy changes (both U.S. and foreign), including those resulting from the current work being led by the OECD/G20 Inclusive Framework focused on \"Addressing the Challenges of the Digitalization of the Economy&#8221;. Gover"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 68481,
+            "context": "ents in case law and closing of statutes of limitations. Such adjustments are reflected in the tax provision as appropriate. We have tax years open ranging from 2013 and forward. We are generally not able to reliably estimate the timing and ultimate settlement amounts until the close of an audit. Based on information currently available, we anticipate over the next 12-month period, audit activity could be completed related to uncertain tax positions in multiple jurisdictions for which we have accrued liabilities of approximately $ 121 , including interest and penalties. Additional information"
+          },
+          {
+            "charIndex": 137022,
+            "context": "ally offset by current year income tax accruals in excess of estimated payments. The Procter & Gamble Company 27 Investing Activities Investing activities used $3.4 billion of cash fiscal year to date primarily driven by capital expenditures and the settlement of net investment hedges, partially offset by proceeds from the dissolution of the Glad joint venture business. Financing Activities Financing activities used $8.2 billion of net cash fiscal year to date, mainly due to dividends to shareholders and treasury stock purchases, partially offset by a net debt increase. As of March 31, 2026, o"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 59989,
+            "context": "ilar instruments. Disclosures about Financial Instruments The notional amounts and fair values of financial instruments used in hedging transactions as of March 31, 2026 and June 30, 2025, are as follows: Notional Amount Fair Value Asset Fair Value (Liability) March 31, 2026 June 30, 2025 March 31, 2026 June 30, 2025 March 31, 2026 June 30, 2025 DERIVATIVES IN FAIR VALUE HEDGING RELATIONSHIPS Interest rate contracts $ 5,262 $ 3,280 $ — $ — $ ( 230 ) $ ( 201 ) DERIVATIVES IN NET INVESTMENT HEDGING RELATIONSHIPS Foreign currency interest rate contracts $ 9,860 $ 11,874 $ 80 $ — $ ( 321 ) $ ( 860"
+          },
+          {
+            "charIndex": 60694,
+            "context": "ERIVATIVES NOT DESIGNATED AS HEDGING INSTRUMENTS Foreign currency contracts $ 4,226 $ 3,576 $ 8 $ 19 $ ( 17 ) $ — TOTAL DERIVATIVES AT FAIR VALUE $ 19,348 $ 18,730 $ 88 $ 19 $ ( 568 ) $ ( 1,062 ) The fair value of the interest rate derivative asset/(liability) directly offsets the cumulative amount of the fair value hedging adjustment included in the carrying amount of the underlying debt obligation. The carrying amount of the underlying debt obligation, which includes the unamortized discount or premium and the fair value adjustment, was $ 5.0 billion and $ 3.1 billion as of March 31, 2026 an"
+          },
+          {
+            "charIndex": 62899,
+            "context": "were to fall below the levels stipulated in the agreements, the counterparties could demand either collateralization or termination of the arrangements. The aggregate fair value of the instruments covered by these contractual features that are in a liability position was $ 477 and $ 1.1 billion as of Amounts in millions of dollars except per share amounts or as otherwise specified. 12 The Procter & Gamble Company March 31, 2026 and June 30, 2025, respectively. The Company has not been required to post collateral as a result of these contractual features. Before tax gains and losses on our fin"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-08-04",
+        "reportDate": "2026-06-30",
+        "accessionNumber": "0000080424-26-000103",
+        "primaryDocument": "pg-20260630.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000103/pg-20260630.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000103/"
+      },
+      "textLength": 343659,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS",
+        "text": "Management's Discussion and Analysis (MD&A) is to provide an understanding of Procter & Gamble's financial condition, results of operations and cash flows by focusing on changes in certain key measures from year to year. The MD&A is provided as a supplement to, and should be read in conjunction with, our Consolidated Financial Statements and accompanying Notes. The MD&A is organized in the following sections: &#8226; Overview &#8226; Summary of 2026 Results &#8226; Economic Conditions and Uncertainties &#8226; Results of Operations &#8226; Segment Results &#8226; Cash Flow, Financial Condition and Liquidity &#8226; Critical Accounting Policies and Estimates &#8226; Other Information Throughout the MD&A we refer to measures used by management to evaluate performance, including unit volume growth, net sales, net earnings, diluted net earnings per common share (diluted EPS) and operating cash flow. We also refer to a number of financial measures that are not defined under U.S. GAAP, including organic sales growth, Core earnings per share (Core EPS), adjusted free cash flow and adjusted free cash flow productivity. The explanation at the end of the MD&A provides the definition of these non-GAAP measures, details on the use and the derivation of these measures, as well as reconciliations to the most directly comparable U.S. GAAP measure. The Procter & Gamble Company 15 Management also uses certain market share and market consumption estimates to evaluate performance relative to competition despite some limitations on the availability and comparability of share and consumption information. References to market share and consumption in the MD&A are based on a combination of vendor-purchased traditional brick-and-mortar and online data in key markets as well as internal estimates. All market share references represent the percentage of sales of our products in dollar terms on a constant currency basis relative to all product sales in the category. The Company measures market shares through the most recent period for which market share data is available, which typically reflects a lag time of one or two months as compared to the end of the reporting period. Management also uses unit volume growth to evaluate drivers of changes in net sales. Organic volume growth reflects year-over-year changes in unit volume excluding the impacts of acquisitions and divestitures and certain one-time items, if applicable, and is used to explain changes in organic sales. In our presentation of data in tables or other charts, certain columns and rows may not add due to rounding. OVERVIEW P&G is a global leader in the fast-moving consumer goods industry, focused on providing branded consumer packaged goods of superior quality and value to our consumers around the world. Our products are sold in about 180 countries and territories primarily through mass merchandisers, digital commerce (including social commerce) channels, grocery stores, membership club stores, drug stores, department stores, distributors, wholesalers, specialty beauty stores (including airport duty-free stores), high-frequency stores, pharmacies, electronics stores and professional channels. We also sell direct to consumers. We have on-the-ground operations in approximately 65 countries. Our market environment is highly competitive with global, regional and local competitors. In many of the markets and industry segments in which we sell our products, we compete against other branded products as well as retailers' private-label brands. Additionally, many of the product segments in which we compete are differentiated by price tiers (referred to as super-premium, premium, mid-tier and value-tier products). We believe we are well positioned in the industry segments and markets in which we operate, often holding a leadership or significant market share position. Organizational Structure Our organizational structure is comprised of Sector Business Units (SBUs), Enterprise Markets (EMs), Corporate Functions (CF) and Global Business Services (GBS). Sector Business Units The Company's product categories are organized into five SBUs and five reportable segments (under U.S. GAAP): Beauty; Grooming; Health Care; Fabric & Home Care; and Baby, Feminine & Family Care. The SBUs are responsible for global brand strategy, product upgrades and innovation, marketing plans and supply chain. They have direct profit responsibility for markets (referred to as Focus Markets) representing the large majority of the Company's sales and earnings and are also responsible for innovation plans, supply plans and operating frameworks to drive growth and value creation in the remaining markets (referred to as Enterprise Markets). Throughout the MD&A, we reference business results by region, which are comprised of North America, Europe, Greater China, Latin America, Asia Pacific and India, Middle East and Africa (IMEA). 16 The Procter & Gamble Company The following provides additional detail on our reportable segments and the product categories and brand composition within each segment. Reportable Segments % of Net Sales (1) % of Net Earnings (1) Product Categories (Sub-Categories) Major Brands Beauty 19% 17% Hair Care ( Conditioners, Shampoos, Styling Aids, Treatments ) Head & Shoulders, Herbal Essences, Pantene, Rejoice Personal Care (Antiperspirants and Deodorants, Personal Cleansing) Native, Old Spice, Safeguard, Secret Skin Care ( Facial Moisturizers, Cleaners and Treatments ) Olay, SK-II Grooming 8% 9% Grooming ( Appliances, Female Blades & Razors, Male Blades & Razors, Pre- and Post-Shave Products, Other Grooming ) Braun, Gillette, Venus Health Care 14% 15% Oral Care ( Toothbrushes, Toothpastes, Other Oral Care ) Crest, Oral-B Personal Health Care ( Gastrointestinal, Pain Relief, Rapid Diagnostics, Respiratory, Vitamins/Minerals/Supplements, Other Personal Health Care ) Metamucil, Neurobion, Pepto-Bismol, Vicks Fabric & Home Care 35% 35% Fabric Care ( Fabric Enhancers, Laundry Additives, Laundry Detergents ) Ariel, Downy, Gain, Tide Home Care ( Air Care, Dish Care, P&G Professional, Surface Care ) Cascade, Dawn, Fairy, Febreze, Mr. Clean, Swiffer Baby, Feminine & Family Care 24% 24% Baby Care ( Baby Wipes, Taped Diapers and Pants ) Luvs, Pampers Feminine Care ( Adult Incontinence, Menstrual Care ) Always, Always Discreet, Tampax Family Care ( Paper Towels, Tissues, Toilet Paper ) Bounty, Charmin, Puffs (1) Percent of Net sales and Net earnings for the fiscal year ended June 30, 2026 (excluding results held in Corporate). Organization Design: Sector Business Units Beauty: The beauty categories in which we compete are hair care, personal care and skin care. We are a global market leader in the retail hair care market with about 20% global market share primarily behind our Head & Shoulders and Pantene brands. In personal care, we have the number two market share position with about 20% global market share, primarily behind our Old Spice, Native, Secret and Safeguard brands. In skin care, the Olay brand is one of the top facial skin care brands in the world with about 5% global market share. Grooming: We are the global market leader in the grooming market, where we hold more than 50% share. Our global blades and razors market share is more than 60%, primarily behind our Gillette and Venus brands. Our appliances, such as electric shavers and intense pulse light devices, are sold primarily under the Braun brand. We hold nearly 30% of the male electric shavers market. Health Care: We compete in oral care and personal health care. In oral care, we are a leader with a nearly 30% global market share behind our Crest and Oral-B brands. In personal health care, we are a global market leader among the categories in which we compete, including respiratory treatments, digestive wellness, sleep aids, vitamins and analgesics behind our Vicks, Metamucil, Pepto-Bismol and Neurobion brands. Fabric & Home Care: This segment is comprised of a variety of fabric care products, including laundry detergents, additives and fabric enhancers; and home care products, including dishwashing liquids and detergents, surface cleaners and air fresheners. In fabric care, we generally have the number one or number two market share position and are the global market leader with over 35% market share in the markets in which we compete, primarily behind our Tide, Ariel and Downy brands. Our global home care market share is more than 30% across the categories in which we compete, primarily behind our Cascade, Dawn, Febreze and Swiffer brands. Baby, Feminine & Family Care: In baby care, we are a global market leader and compete mainly in taped diapers, pants and baby wipes, with more than 30% global market share. We generally have the number one or number two market share position in the markets in which we compete, primarily behind our Pampers brand. We are the global market leader in the feminine care category with nearly 30% global market share. We compete in the menstrual care sub-category primarily behind our Always and Tampax brands with nearly 35% global market share. We also compete in the adult incontinence sub-category behind Always Discreet, with over 15% market share in the markets in which we compete. Our family care business is predominantly a The Procter & Gamble Company 17 North American business comprised primarily of the Bounty paper towel and Charmin toilet paper brands. North America market shares are nearly 40% for Bounty and over 25% for Charmin. Enterprise Markets Enterprise Markets are responsible for sales and profit delivery in specific countries, supported by SBU-agreed innovation and supply chain plans, along with scaled services like planning, distribution and customer management. Corporate Functions Corporate Functions provides company-level strategy and portfolio analysis, corporate accounting, treasury, tax, external relations, governance, human resources, information technology and legal services. Global Business Services Global Business Services provides scaled services in technology, process and data tools to enable the SBUs, the EMs and CF to better serve consumers and customers. The GBS organization is responsible for providing world-class services and solutions that drive value for P&G. Strategic Focus Procter & Gamble aspires to serve the world's consumers better than our best competitors in every category and in every country in which we compete and, as a result, deliver total shareholder return in the top one-third of our peer group. Delivering and sustaining leadership levels of shareholder value creation requires balanced top- and bottom-line growth and strong cash generation. Our strategy is to deliver and sustain value creation through five integrated choices: a portfolio of daily-use products where performance drives brand choice; superiority across product, package, brand communication, retail execution and value; productivity; constructive disruption of the entire value chain; and a highly efficient and effective organization structure. The Company competes in daily-use product categories where performance plays a significant role in the consumer's choice of brands, and therefore, plays to P&G's strengths. Our focused portfolio of businesses consists of product categories where P&G has strong brands and consumer-meaningful product technologies with typically leadership market positions. Within these categories, our strategic choices are focused on delighting and winning with consumers. Our consumers are at the center of everything we do. We win with consumers by delivering irresistible superiority across five key vectors - product performance, packaging, brand communication, retail execution and value. Winning with consumers around the world and against our best competitors requires superior innovation. Innovation has always been, and continues to be, P&G's lifeblood. Superior products delivered with superior execution drive market growth, value creation for retailers and build share growth for P&G. Ongoing productivity improvement is strategic and crucial to delivering our balanced top- and bottom-line growth, cash generation and value creation objectives. Productivity improvement enables investments to strengthen the superiority of our brands via product and packaging innovation, more efficient and effective supply chains, equity and awareness-building brand advertising and other programs and expansion of sales coverage and research and development programs. Productivity improvements also enable us to mitigate and manage through periods of challenging cost environments (including periods of increasing commodity, inflation and negative foreign exchange impacts). Our objective is to drive productivity improvements across all elements of the statement of earnings and balance sheet, including cost of goods sold, marketing and promotional spending, overhead costs and capital spending. We act with agility and are constructively disrupting our highly competitive industry and the way we do business, including how we innovate, communicate and leverage new technologies, to create more value. We are improving operational effectiveness and organizational culture through enhanced clarity of roles and responsibilities, accountability and incentive compensation programs. The Company's strategic framework has been delivering strong results over an extended period of time. As we observe changes in the markets in which we operate, we will adapt the execution of our core strategy. These market changes include evolving ways in which consumers are engaging with our brands across social media platforms, streaming services or AI based search. We observe changes in retail landscapes around the world, where retailers are selling across multiple platforms (digital and physical outlets) and building their own media platforms. Consumers are changing how they perceive value across their basket of goods as cumulative inflation impacts their shopping behavior. Lastly, technologies, including AI, offer new capabilities to innovate, produce and market our products and brands. We are embracing these changes, and to benefit from them, the Company can and will adjust the execution of its strategy. Beyond the short-term interventions, the Company expects the delivery of the following long-term growth algorithm will result in total shareholder returns in the top third of the competitive, fast-moving consumer goods peer group: &#8226; Organic sales growth above market growth rates in the categories and geographies in which we compete; &#8226; Core EPS growth of mid-to-high single digits; and &#8226; Adjusted free cash flow productivity of 90% or greater. 18 The Procter & Gamble Company While periods of significant macroeconomic pressures may cause short-term results to deviate from the long-term growth algorithm, we intend to maintain a disciplined approach to investing in our business. RECENT DEVELOPMENTS Limited Market Portfolio Re",
+        "charRange": [
+          119397,
+          134397
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors in Part I, Item 1A of the Company's Form 10-K for the fiscal year ended June 30, 2026. RESULTS OF OPERATIONS The key metrics included in the discussion of our consolidated results of operations include net sales, gross margin, selling, general and administrative expense (SG&A), operating margin, other non-operating items, income taxes and net earnings. The primary factors driving year-over-year changes in net sales include overall market growth in the categories in which we compete, product initiatives, competitive activities (the level of initiatives, pricing and other activities by competitors), marketing spending, retail executions (both in-store and online) and acquisition and divestiture activity, all of which drive changes in our underlying unit volume, as well as our pricing actions (which can also impact volume), changes in product and geographic mix and foreign exchange impacts on sales outside the U.S. Our cost of products sold and SG&A are variable in nature to some extent. Accordingly, our discussion of these operating costs focuses primarily on relative margins rather than the absolute year-over-year changes in total costs. The primary drivers of changes in gross margin are input costs (energy and other commodities), pricing impacts, geographic mix (for example, gross margins in North America are generally higher than the Company average for similar products), product mix (for example, the Beauty segment has higher gross margins than the Company average), foreign exchange rate fluctuations (in situations where certain input costs may be tied to a different functional currency than the underlying sales), the impacts of manufacturing savings projects and reinvestments (for example, product or package improvements) and, to a lesser extent, scale impacts (for costs that are fixed or less variable in nature). The primary components of SG&A are marketing-related costs and non-manufacturing overhead costs. Marketing-related costs are primarily variable in nature, although we may achieve some level of scale benefit over time due to overall growth and other marketing efficiencies. While overhead costs are variable to some extent, we generally experience more scale-related impacts for these costs due to our ability to leverage our organization and systems' infrastructures to support business growth. The main drivers of changes in SG&A as a percentage of net sales are overhead and marketing cost savings, reinvestments (for example, increased advertising), inflation, foreign exchange fluctuations and scale impacts. For a detailed discussion of the fiscal 2025 year-over-year changes, please refer to the MD&A in Part II, Item 7 of the Company's Form 10-K for the fiscal year ended June 30, 2025 . Net Sales Net sales increased 3% to $87.0 billion in fiscal 2026 driven by favorable foreign exchange of 2% and pricing of 1%. Unit volume and mix were unchanged versus the prior year. Net sales increased high single digits in Beauty, mid-single digits in Grooming and Health Care and low single digits in Fabric & Home Care and Baby, Feminine & Family Care. Organic sales, which exclude the impact of acquisitions and divestitures and foreign exchange, increased 1%. Organic sales increased mid-single digits in Beauty and low single digits in Health Care, Grooming and Fabric & Home Care. Organic sales declined low single digits in Baby, Feminine & Family Care. Operating Costs Comparisons as a percentage of net sales; fiscal years ended June 30 2026 2025 Basis Point Change Gross margin 50.2 % 51.2 % (100) bps Selling, general and administrative expense 27.5 % 26.9 % 60 bps Operating margin 22.7 % 24.3 % (160) bps Earnings before income taxes 23.4 % 23.9 % (50) bps Net earnings 18.5 % 19.1 % (60) bps Net earnings attributable to Procter & Gamble 18.4 % 19.0 % (60) bps Gross margin decreased 100 basis points to 50.2% of net sales. The decrease in gross margin was due to: &#8226; 120 basis points of decline from unfavorable product mix, &#8226; 70 basis points of product and packaging investments, &#8226; 60 basis points of higher restructuring costs, The Procter & Gamble Company 21 &#8226; 30 basis points of net tariff impact from higher costs and recognized recoveries, &#8226; 20 basis points of higher commodity costs, &#8226; 10 basis points of unfavorable foreign exchange impacts and &#8226; 10 basis points of other items and rounding. These decreases were partially offset by: &#8226; 180 basis points of manufacturing productivity savings, &#8226; 40 basis points of increase due to higher pricing. Total SG&A increased 6% to $23.9 billion and increased 60 basis points to 27.5% as a percentage of net sales due primarily to an increase in marketing spending as a percentage of net sales. &#8226; Marketing spending as a percentage of net sales increased 80 basis points due to an increase in marketing spending, partially offset by productivity savings. &#8226; Overhead costs as a percentage of net sales were unchanged as wage inflation headwinds and restructuring spending were offset by productivity savings. &#8226; Other operating expenses as a percentage of net sales were unchanged. Productivity-driven cost savings delivered 160 basis points of benefit to SG&A as a percentage of net sales. Operating income decreased $703 million, or 3%, to $19.7 billion as the increase in net sales was more than offset by the decrease in gross margin and increase in SG&A spending. The operating margin decreased 160 basis points to 22.7% due primarily to the decrease in gross margin and increase in marketing spending. Non-Operating Items &#8226; Interest expense was $877 million, a decrease of $30 million versus the prior year. &#8226; Interest income was $430 million, a decrease of $39 million versus the prior year. &#8226; Other non-operating income/(expense), net increased $922 million to $1.1 billion primarily driven by the non-cash charge for accumulated foreign currency translation losses due to the substantial liquidation of operations in Argentina in the prior year and the gain from the dissolution of the Glad joint venture business in the current year period. Income Taxes The effective income tax rate for fiscal year ended June 30, 2026, was 20.8%, compared to 20.3% for the fiscal year ended June 30, 2025. The increase in the effective tax rate was primarily driven by lower excess tax benefits of share-based compensation in the current year and unfavorable geographic mix impacts, partially offset by a decrease from discrete impacts related to uncertain tax positions and the prior year charge for accumulated foreign currency translation losses due to the substantial liquidation of operations in Argentina. Net Earnings Earnings before income taxes increased $210 million, or 1%, to $20.4 billion as the increase in other non-operating income/(expense), net, the components of which are described above, were partially offset by the decrease in operating income. Net earnings increased $79 million to $16.1 billion as the increase in earnings before income taxes was partially offset by the effective income tax rate increase discussed above. Foreign exchange impacts increased net earnings by approximately $224 million due to a strengthening of certain currencies against the U.S. dollar. This impact includes both transactional charges and translational impacts from converting earnings from foreign subsidiaries to U.S. dollars. Net earnings attributable to Procter & Gamble increased $72 million to $16.0 billion. Diluted EPS increased $0.11, or 2%, to $6.62 due to an increase in net earnings and a reduction in shares outstanding. SEGMENT RESULTS Segment results reflect information on the same basis we use for internal management reporting and performance evaluation. The results of these reportable segments do not include certain non-business unit specific costs which are reported in Corporate and are included as part of the Corporate discussion. Additionally, we apply blended statutory tax rates in the segments. Eliminations to adjust segment results to arrive at our consolidated effective tax rate are included in Corporate. See Note 2 to the Consolidated Financial Statements for additional information on items included in Corporate. 22 The Procter & Gamble Company The Procter & Gamble Company 23 Net Sales Change Drivers 2026 vs. 2025 (1) Volume with Acquisitions & Divestitures Volume Excluding Acquisitions & Divestitures Foreign Exchange Price Mix Other (2) Net Sales Growth Beauty 4 % 4 % 2 % 1 % — % — % 7 % Grooming (1) % (1) % 3 % 2 % — % — % 4 % Health Care (2) % (2) % 3 % 2 % 1 % — % 4 % Fabric & Home Care — % — % 1 % 1 % — % — % 2 % Baby, Feminine & Family Care (1) % (1) % 2 % — % — % — % 1 % TOTAL COMPANY — % — % 2 % 1 % — % — % 3 % (1) Net sales percentage changes are approximations based on quantitative formulas that are consistently applied. (2) Other includes the sales mix impact from acquisitions and divestitures and rounding impacts necessary to reconcile volume to net sales. BEAUTY ($ millions) 2026 2025 Change vs. 2025 Volume N/A N/A 4% Net sales $16,023 $14,964 7% Net earnings $2,672 $2,715 (2)% % of net sales 16.7% 18.1% (140) bps Beauty net sales increased 7% to $16.0 billion, driven by a unit volume increase of 4%, favorable foreign exchange of 2% and positive impact of higher pricing of 1%. Excluding the impact of acquisitions and divestitures and foreign exchange, organic sales increased 5%. Global market share of the Beauty segment decreased 0.3 points. &#8226; Hair Care net sales increased high single digits driven by positive impacts of a unit volume increase, favorable foreign exchange and innovation-based pricing (primarily in North America and Latin America), partially offset by unfavorable geographic mix. The increase in unit volume was driven by growth in Latin America, Europe and Asia Pacific (all due to innovation), partially offset by a decline in North America (due to competitive activity). Organic sales increased mid-single digits driven by double-digit growth in Latin America, high single-digit growth in Europe and Asia Pacific, partially offset by a low single-digit decline in North America. Global market share of the hair care category decreased 0.5 points. &#8226; Personal Care net sales increased high single digits driven by positive impacts of a unit volume increase, favorable foreign exchange and higher pricing (primarily in North America), partially offset by unfavorable geographic mix. The volume increase was across all regions, led by growth in Greater China, North America and Europe (all due to innovation). Organic sales also increased high single digits led by high-teens growth in Europe and mid-single-digit growth in Greater China and North America. Global market share of the personal care category increased 0.2 points. &#8226; Skin Care net sales increased mid-single digits driven by positive impacts of favorable product mix (due primarily to the increase of the super-premium SK-II brand, which has higher than category-average selling prices) and favorable foreign exchange, partially offset by a unit volume decrease. The volume decrease was driven by Greater China (due to competitive activity). Organic sales increased low single digits due to a double-digit growth in Asia Pacific and a mid-single-digit growth in Greater China, partially offset by a low single-digit decline in North America. Global market share of the skin care category decreased 0.6 points. Net earnings decreased 2% to $2.7 billion due to a 140 basis-point decline in net earnings margin, partially offset by an increase in net sales. Net earnings margin decreased due to a decrease in gross margin and an increase in SG&A as a percentage of net sales. The gross margin decline of 100 basis points was driven by unfavorable product mix and higher commodity costs, partially offset by productivity savings. SG&A as a percentage of net sales increased due to an increase in marketing spending, partially offset by a decrease in overhead spending. GROOMING ($ millions) 2026 2025 Change vs. 2025 Volume N/A N/A (1)% Net sales $6,918 $6,662 4% Net earnings $1,529 $1,577 (3)% % of net sales 22.1% 23.7% (160) bps Grooming net sales increased 4% to $6.9 billion driven by the positive impacts of favorable foreign exchange of 3% and higher pricing (primarily in North America and Europe) of 2%, partially offset by a 1% decrease in unit volume. The unit volume decrease was driven by declines in IMEA (due to distribution loss) and North America (due to market contraction), partially 24 The Procter & Gamble Company offset by a unit volume increase in Latin America (due to increased distribution). Excluding the impact of acquisitions and divestitures and foreign exchange, organic sales increased 1% driven by low single-digit growth in Europe and North America, partially offset by a high single-digit decline in Asia Pacific. Global market share of the Grooming segment decreased 0.4 points. Net earnings decreased 3% to $1.5 billion due to a 160 basis-point decline in net earnings margin, partially offset by an increase in net sales. Net earnings margin decreased due to a decrease in gross margin and an increase in the effective tax rate, partially offset by an decrease in SG&A as a percentage of net sales. The gross margin decrease of 90 basis points was driven by unfavorable product mix, partially offset by higher pricing and productivity savings. SG&A as a percentage of net sales decreased due to a decrease in overhead spending, partially offset by an increase in marketing spending. The higher effective tax rate was driven by unfavorable geographic mix. HEALTH CARE ($ millions) 2026 2025 Change vs. 2025 Volume N/A N/A (2)% Net sales $12,456 $11,998 4% Net earnings $2,404 $2,440 (1)% % of net sales 19.3% 20.3% (100) bps Health Care net sales increased 4% to $12.5 billion driven by favorable foreign exchange of 3%, higher pricing of 2% and favorable product mix of 1%, partially offset by a 2% decrease in unit volume. Excluding the impact of foreign exchange and acquisitions and divestitures, organic sales increased 1%. Global market share of the Health Care segment increased 0.4 points. &#8226; Oral Care net sales increased low single digits due to the positive impacts of favorable foreign exchange and favorable product mix (due to growth of premium paste and power brushes, which have higher than category-average selling prices), partially offset by a unit volume decrease. The unit volume decrease was due to a decline in Greater China (due to market contraction and competitive activity) and North America (due to competitive activity), partially offset by an increase in IMEA (due to market growth). Organic sales were unchanged as a low single-digit increase in Europe was offset by a mid-teens decrease in Greater China. Global market share of the oral care category was unchanged. &#8226; Personal Health Care net sales increased mid-single digits due to",
+        "charRange": [
+          145031,
+          160031
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 76553,
+            "context": "t consumers. Our results of operations or cash flows could also be negatively impacted if the Company or one of our brands suffers substantial harm to its reputation due to a significant product recall, product-related 6 The Procter & Gamble Company litigation, defects or impurities in our products, product misuse, changing consumer perceptions of certain ingredients, negative perceptions of packaging (such as plastics and other petroleum-based materials), lack of recyclability or other environmental attributes, concerns about actual or alleged labor, equality and inclusion or social practices"
+          },
+          {
+            "charIndex": 85015,
+            "context": "r business continuity plans do not effectively address these failures on a timely basis, we may suffer interruptions in our ability to manage operations and be exposed to reputational, competitive, operational, financial and business harm as well as litigation and regulatory action. If our critical IT systems or back-up systems or those of our third-party vendors are damaged or cease to function properly, we may have to make a significant investment to repair or replace them. In addition, if a ransomware attack, other cybersecurity incident or operational disruption occurs, either internally o"
+          },
+          {
+            "charIndex": 85981,
+            "context": "keholder information, including personal data from customers, consumers, employees, vendors, investors and other stakeholders, and we may suffer financial and reputational damage as a result. Additionally, we could be exposed to potential liability, litigation, governmental inquiries, reporting requirements, investigations or regulatory enforcement actions; and we could be subject to payment of fines or other penalties, legal claims by our suppliers, customers or employees and significant remediation costs. Periodically, we and/or our suppliers also upgrade IT/OT systems or adopt new technolog"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 96233,
+            "context": "implementation of the Pillar Two global minimum top-up tax did not have a material impact to our financial condition, results of operations, cash flows or effective tax rate for the fiscal year ended 2026. Based on current legislation and available guidance, including the January 5, 2026 Pillar Two \"Side-by-Side Package\", we do not anticipate the Pillar Two global minimum top-up tax to have a material impact to our financial condition, results of operations, cash flows or effective tax rate in future years. The Company continues to assess the overall impact of potential changes as development"
+          },
+          {
+            "charIndex": 182005,
+            "context": "his uncertainty. We estimate that our current portfolio of advance rulings reduces this uncertainty with respect to over 70% of our global earnings. We evaluate our tax positions and establish liabilities in accordance with the applicable accounting guidance on uncertainty in income taxes. We review these tax uncertainties considering changing facts and circumstances, such as the progress of tax audits, and adjust them accordingly. We have several audits in process in various jurisdictions. Although the resolution of these tax positions is uncertain, based on currently available information, w"
+          },
+          {
+            "charIndex": 193494,
+            "context": "activities over financial market instruments. To the extent we choose to further manage volatility within our financing operations, as discussed below, we enter into various financial transactions which we account for using the applicable accounting guidance for derivative instruments and hedging activities. These financial transactions are governed by our policies covering acceptable counterparty exposure, instrument types and other hedging practices. See Note 9 to the Consolidated Financial Statements for a discussion of our accounting policies for derivative instruments. Derivative position"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 59516,
+            "context": "10-K. Additional detailed information on our sustainability efforts can be found on our website at https://pginvestor.com/esg. Item 1A. Risk Factors. We discuss our expectations regarding future performance, events and outcomes, such as our business outlook and objectives in this Form 10-K, as well as in our quarterly and annual reports, current reports on Form 8-K, press releases and other written and oral communications. All statements, except for historical and present factual information, are &#8220;forward-looking statements&#8221; and are based on financial data and business plans availa"
+          },
+          {
+            "charIndex": 174645,
+            "context": "funding to meet short-term financing requirements. On June 30, 2026, our short-term credit ratings were P-1 (Moody's) and A-1+ (Standard & Poor's), while our long-term credit ratings were Aa3 (Moody's) and AA- (Standard & Poor's), all with a stable outlook. We maintain bank credit facilities to support our ongoing commercial paper program. The current facility is an $8.0 billion facility split between a $3.2 billion five-year facility and a $4.8 billion 364-day facility, which expire in October 2030 and October 2026, respectively. Both facilities can be extended for certain periods of time as"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 68382,
+            "context": "restrictions on data transfers or access to financial institutions and services, supply and transportation challenges or other circumstances and considerations. In addition to operational disruptions, these factors could result in loss of assets or impairments of our manufacturing plants and fixed assets or write-downs of other operating assets and working capital. The conflict in the Middle East could also adversely impact our financial results and operations due to, for example, volatility in global energy markets, supply chain disruptions, inflationary pressures or trade restrictions. More"
+          },
+          {
+            "charIndex": 71142,
+            "context": "g execution of supply chain optimizations and certain sole supplier or sole manufacturing plant arrangements. The loss or disruption of such manufacturing and supply arrangements, including for issues such as labor disputes or controversies, loss or impairment of key manufacturing sites, discontinuity or disruptions in our internal information and data systems or those of our suppliers, cybersecurity incidents including but not limited to ransomware attacks, misuse of artificial intelligence (AI) and machine learning technologies, inability to procure sufficient raw or input materials (includi"
+          },
+          {
+            "charIndex": 89923,
+            "context": "to fall below book value, or 2) we are not able to deliver the expected cost and growth synergies associated with such acquisitions and joint ventures, including as a result of integration and collaboration challenges, which could also result in an impairment of goodwill and intangible assets. 8 The Procter & Gamble Company Our business results depend on our ability to successfully manage productivity improvements and ongoing organizational change, including attracting, developing and retaining key talent as part of our overall succession planning. Our financial projections assume certain new"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 51384,
+            "context": "overnment Regulation . Our Company is subject to a wide variety of laws and regulations across the countries in which we do business. In the United States, many of our products and manufacturing operations are subject to one or more federal or state regulatory agencies, including the U.S. Food and Drug Administration (FDA), the Environmental Protection Agency (EPA), the Occupational Safety and Health Administration (OSHA), the Federal Trade Commission (FTC) and the Consumer Product Safety Commission (CPSC). We are also subject to anti-corruption laws and regulations, such as the U.S. Foreign C"
+          },
+          {
+            "charIndex": 51982,
+            "context": "Corrupt Practices Act, and antitrust and competition laws and regulations that govern our dealings with suppliers, customers, competitors and government officials. In addition, many foreign jurisdictions in which we do business have regulations and regulatory bodies that govern similar aspects of our operations and products, in some cases to an even more significant degree. We are also subject to expanding laws and regulations related to environmental protection and other sustainability-related matters, non-financial reporting and diligence, labor and employment, trade, taxation and privacy a"
+          },
+          {
+            "charIndex": 81725,
+            "context": "forms; hosting, processing and sharing, as appropriate, confidential and proprietary research, trade secrets, business plans and financial information; collaborating via an online and efficient means of global business communications; complying with regulatory, legal and tax requirements; providing data security; and handling other processes necessary to manage our business. Increasing and evolving information security threats, including advanced persistent cybersecurity threats and the use of AI to autonomously find and exploit weaknesses, obtain information, craft social engineering content"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 172641,
+            "context": "ree cash flow to net earnings excluding the gain from the dissolution of the Glad joint venture business, was 100% in 2026. Investing Cash Flow Net investing activities used $4.6 billion of cash in 2026, primarily due to capital expenditures and the settlement of net investment hedges, partially offset by proceeds from the dissolution of the Glad joint venture business. Financing Cash Flow Net financing activities used $14.5 billion of cash in 2026, mainly due to dividends to shareholders and treasury stock purchases, partially offset by the impact of stock options and other. The Procter & Gam"
+          },
+          {
+            "charIndex": 265894,
+            "context": "scal years ended June 30 2026 2025 2024 BEGINNING OF YEAR $ 634 $ 582 $ 515 Increases in tax positions for prior years 59 240 157 Decreases in tax positions for prior years ( 96 ) ( 181 ) ( 133 ) Increases in tax positions for current year 40 57 160 Settlements with taxing authorities ( 73 ) ( 65 ) ( 100 ) Lapse in statute of limitations ( 13 ) ( 6 ) ( 9 ) Currency translation ( 4 ) 7 ( 8 ) END OF YEAR $ 547 $ 634 $ 582 Included in the total liability for uncertain tax positions at June 30, 2026, is $ 438 that, depending on the ultimate resolution, could impact the effective tax rate in future"
+          },
+          {
+            "charIndex": 267198,
+            "context": "s in case law and the closing of statutes of limitation. Such adjustments are reflected in the tax provision as appropriate. We have tax years open ranging from 2013 and forward. We are generally not able to reliably estimate the timing and ultimate settlement amounts until the close of an audit. We recognize the additional accrual of any possible related interest and penalties relating to the underlying uncertain tax position in income tax expense. As of June 30, 2026 and 2025, we had accrued interest of $ 142 and $ 141 and accrued penalties of $ 48 and $ 45 , respectively, which are not incl"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 85970,
+            "context": "tion or stakeholder information, including personal data from customers, consumers, employees, vendors, investors and other stakeholders, and we may suffer financial and reputational damage as a result. Additionally, we could be exposed to potential liability, litigation, governmental inquiries, reporting requirements, investigations or regulatory enforcement actions; and we could be subject to payment of fines or other penalties, legal claims by our suppliers, customers or employees and significant remediation costs. Periodically, we and/or our suppliers also upgrade IT/OT systems or adopt ne"
+          },
+          {
+            "charIndex": 92080,
+            "context": "in the U.S. and abroad. Our business is subject to a wide variety of laws, regulations, policies and related interpretations across the countries in which we do business, including those laws and regulations involving intellectual property, product liability, product composition or formulation (including requirements related to ingredients or other substances present in products), manufacturing processes, packaging content or corporate responsibility for packaging and product disposal (including plastics and other petroleum-based materials), marketing, antitrust and competition, privacy, cybe"
+          },
+          {
+            "charIndex": 94595,
+            "context": "uests for information from governmental agencies or private parties, the adverse outcomes of which could harm our business. Failure to successfully manage these new or pending regulatory and legal matters and resolve such matters without significant liability or damage to our reputation may materially adversely impact our financial condition, results of operations and cash flows. Furthermore, if new or pending legal or regulatory matters result in fines or costs in excess of the amounts accrued to date, that may also materially impact our results of operations and financial position. Changes i"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "Revenues",
+      "points": [
+        {
+          "start": "2025-07-01",
+          "end": "2026-06-30",
+          "val": 87032000000,
+          "accn": "0000080424-26-000103",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-08-04",
+          "frame": "CY2026"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 21235000000,
+          "accn": "0000080424-26-000060",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-04-24",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2026-03-31",
+          "val": 65828000000,
+          "accn": "0000080424-26-000060",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-04-24"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2025-12-31",
+          "val": 22208000000,
+          "accn": "0000080424-26-000011",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-01-23",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-12-31",
+          "val": 44594000000,
+          "accn": "0000080424-26-000011",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-01-23"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 22386000000,
+          "accn": "0000080424-25-000245",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-10-24",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2024-07-01",
+          "end": "2025-06-30",
+          "val": 84284000000,
+          "accn": "0000080424-26-000103",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-08-04",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2024-07-01",
+          "end": "2025-06-30",
+          "val": 84284000000,
+          "accn": "0000080424-25-000076",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-08-04"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2025-07-01",
+          "end": "2026-06-30",
+          "val": 6.62,
+          "accn": "0000080424-26-000103",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-08-04",
+          "frame": "CY2026"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 1.63,
+          "accn": "0000080424-26-000060",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-04-24",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2026-03-31",
+          "val": 5.36,
+          "accn": "0000080424-26-000060",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-04-24"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2025-12-31",
+          "val": 1.78,
+          "accn": "0000080424-26-000011",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-01-23",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-12-31",
+          "val": 3.73,
+          "accn": "0000080424-26-000011",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-01-23"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 1.95,
+          "accn": "0000080424-25-000245",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-10-24",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2024-07-01",
+          "end": "2025-06-30",
+          "val": 6.51,
+          "accn": "0000080424-26-000103",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-08-04",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2024-07-01",
+          "end": "2025-06-30",
+          "val": 6.51,
+          "accn": "0000080424-25-000076",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-08-04"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2025-07-01",
+          "end": "2026-06-30",
+          "val": 16046000000,
+          "accn": "0000080424-26-000103",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-08-04",
+          "frame": "CY2026"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 3932000000,
+          "accn": "0000080424-26-000060",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-04-24",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2026-03-31",
+          "val": 13002000000,
+          "accn": "0000080424-26-000060",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-04-24"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2025-12-31",
+          "val": 4319000000,
+          "accn": "0000080424-26-000011",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-01-23",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-12-31",
+          "val": 9070000000,
+          "accn": "0000080424-26-000011",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-01-23"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 4750000000,
+          "accn": "0000080424-25-000245",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-10-24",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2024-07-01",
+          "end": "2025-06-30",
+          "val": 15974000000,
+          "accn": "0000080424-26-000103",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-08-04",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2024-07-01",
+          "end": "2025-06-30",
+          "val": 15974000000,
+          "accn": "0000080424-25-000076",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-08-04"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2025-07-01",
+          "end": "2026-06-30",
+          "val": 19748000000,
+          "accn": "0000080424-26-000103",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-08-04",
+          "frame": "CY2026"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 4576000000,
+          "accn": "0000080424-26-000060",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-04-24",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2026-03-31",
+          "val": 15798000000,
+          "accn": "0000080424-26-000060",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-04-24"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2025-12-31",
+          "val": 5366000000,
+          "accn": "0000080424-26-000011",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-01-23",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-12-31",
+          "val": 11222000000,
+          "accn": "0000080424-26-000011",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-01-23"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 5856000000,
+          "accn": "0000080424-25-000245",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-10-24",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2024-07-01",
+          "end": "2025-06-30",
+          "val": 20451000000,
+          "accn": "0000080424-26-000103",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-08-04",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2024-07-01",
+          "end": "2025-06-30",
+          "val": 20451000000,
+          "accn": "0000080424-25-000076",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-08-04"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "PG",
+    "name": "PROCTER & GAMBLE Co",
+    "sector": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
+    "pe": 21.42,
+    "pb": 6.28,
+    "ret3m": 0.2602,
+    "ret6m": -5.7172,
+    "roe": 29.54,
+    "debtEquity": 0.747,
+    "sentiment": -0.059,
+    "analyst": 68.9,
+    "beta": 0.3836447
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "How a 65-Year-Old Turned a $950,000 401(k) Rollover Into a $4,500 Monthly Paycheck Without Buying an Annuity",
+        "url": "https://finnhub.io/api/news?id=f314c7059854892624f29f049cf6afa75d82e766cad9d724e33ec098e825fede",
+        "source": "Yahoo",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "188-year-old Dividend King just unlocked unexpected growth engine",
+        "url": "https://finnhub.io/api/news?id=99f9bc367c380c27da43d7e16cb3ddce08d900d51ca991ace58415fc335688b9",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "We Said These 4 Dividend Aristocrats Could Soar. Here’s How They Did, Plus 3 New Picks.",
+        "url": "https://finnhub.io/api/news?id=69abc7bda0fef2cc41514d6b8a86bc01b40e4cb7b2b108f5ac878016d42a3aad",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "3 Boring but Brilliant Stocks to Buy in August",
+        "url": "https://finnhub.io/api/news?id=b5710b042d685e8dda53401787264070451a314766f4335ca2c46b8e39c3212f",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Looking to Generate Passive Income From Stocks? 3 Unstoppable Dividend Stocks to Buy Now.",
+        "url": "https://finnhub.io/api/news?id=fd426f2f0dcc835eb8386bc149087730ea82724d65a1b0c3143864f0f901ed47",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "I've Been Writing About Procter & Gamble Stock for Years. Here's Why My Conviction Has Never Been Higher.",
+        "url": "https://finnhub.io/api/news?id=025236519269c5f302439aa30d4bbfd7cc039cb220943f918e2e6ceab890ba00",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      }
+    ],
+    "cachedAt": "2026-08-11T06:03:29.857Z"
+  }
+}

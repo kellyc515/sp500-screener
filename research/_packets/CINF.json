@@ -1,0 +1,640 @@
+{
+  "ticker": "CINF",
+  "entityName": "CINCINNATI FINANCIAL CORP",
+  "cik": "0000020286",
+  "generatedAt": "2026-08-12T01:37:14.059Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-07-27",
+        "reportDate": "2026-06-30",
+        "accessionNumber": "0000020286-26-000045",
+        "primaryDocument": "cinf-20260630.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/20286/000002028626000045/cinf-20260630.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/20286/000002028626000045/"
+      },
+      "textLength": 239742,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations The following discussion highlights significant factors influencing the condensed consolidated results of operations and financial position of Cincinnati Financial Corporation. It should be read in conjunction with the consolidated financial statements and related notes included in our 2025 Annual Report on Form 10-K. Unless otherwise noted, the industry data is prepared by A.M. Best Co., a leading insurance industry statistical, analytical and financial strength rating organization. Information from A.M. Best is presented on a statutory basis for insurance company regulation in the United States of America. When we provide our results on a comparable statutory basis, we label it as such; all other company data is presented in accordance with accounting principles generally accepted in the United States of America (GAAP). We present per share data on a diluted basis unless otherwise noted, adjusting those amounts for all stock splits and dividends. Dollar amounts are rounded to millions; calculations of percent changes are based on dollar amounts rounded to the nearest million. Certain percentage changes are identified as not meaningful (nm). SAFE HARBOR STATEMENT Our business is subject to certain risks and uncertainties that may cause actual results to differ materially from those suggested by forward-looking statements. Any forward-looking statements contained herein, are based upon our current estimates, assumptions and plans that are subject to uncertainty. These statements are made subject to the safe-harbor provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements can be identified by words like &#8220;seek,&#8221; &#8220;expect,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;could,&#8221; &#8220;might,&#8221; &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;intend,&#8221; &#8220;likely,&#8221; &#8220;future,&#8221; or other similar expressions. Forward-looking statements speak only as of the date they were made; we assume no obligation to update such statements. Factors that could cause actual results to differ materially from those expressed in, or implied by, the forward-looking statements include, but are not limited to: Insurance-Related Risks &#8226; Risks and uncertainties associated with our loss reserves or actual claim costs exceeding reserves &#8226; Increased frequency and/or severity of claims or development of claims that are unforeseen at the time of policy issuance &#8226; Unusually high levels of catastrophe losses due to risk concentrations or changes in weather patterns, environmental events, war or political unrest, terrorism incidents, cyberattacks, civil unrest or other causes; and our ability to manage catastrophe risk &#8226; Risks associated with analytical models in key areas such as underwriting, pricing, capital management, reserving, investments, reinsurance, and catastrophe risk management &#8226; Inadequate estimates or assumptions, or reliance on third-party data used for critical accounting estimates &#8226; Events or conditions that could weaken or harm our relationships with our independent agencies and hamper opportunities to add new agencies, resulting in limitations on our opportunities for growth &#8226; Mergers, acquisitions, and other consolidations of agencies that result in a concentration of a significant amount of premium in one agency or agency group and/or alter our competitive advantages &#8226; Our inability to manage business opportunities, growth prospects, and expenses for our ongoing operations &#8226; Changing consumer insurance-buying habits &#8226; The inability to obtain adequate ceded reinsurance on acceptable terms, for acceptable amounts, and from financially strong reinsurers; and the potential for nonpayment or delay in payment by reinsurers Cincinnati Financial Corporation Second-Quarter 2026 10-Q Page 33 Table of Contents &#8226; Domestic and global events, such as the wars in Ukraine and in the Middle East, future pandemics, inflationary trends, changes in U.S. trade and tariff policy, and disruptions in the banking and financial services industry, resulting in insurance losses, capital market or credit market uncertainty, followed by prolonged periods of economic instability or recession, that lead to: &#9702; Securities market disruption or volatility and related effects such as decreased economic activity and continued supply chain disruptions that affect our investment portfolio and book value &#9702; Significant or prolonged decline in the fair value of securities and impairment of the assets &#9702; Significant decline in investment income due to reduced or eliminated dividend payouts from securities &#9702; Significant rise in losses from surety or director and officer policies written for financial institutions or other insured entities or in losses from policies written by Cincinnati Re or Cincinnati Global &#9702; An unusually high level of claims in our insurance or reinsurance operations that increase litigation-related expenses &#9702; Decreased premium revenue and cash flow from disruption to our distribution channel of independent agents, consumer self-isolation, travel limitations, business restrictions and decreased economic activity &#9702; The inability of our workforce, agencies, or vendors to perform necessary business functions Financial, Economic, and Investment Risks &#8226; Declines in overall stock market values negatively affecting our equity portfolio and book value &#8226; Downgrades in our financial strength ratings &#8226; Interest rate fluctuations or other factors that could significantly affect: &#9702; Our ability to generate growth in investment income &#9702; Values of our fixed-maturity investments and accounts in which we hold bank-owned life insurance contract assets &#9702; Our traditional life policy reserves &#8226; Economic volatility and illiquidity associated with our alternative investments in private equity, private credit, real property, and limited partnerships &#8226; Failure to comply with covenants and other requirements under our credit facilities, senior debt, and other debt obligations &#8226; Recession, prolonged elevated inflation, or other economic conditions resulting in lower demand for insurance products or increased payment delinquencies &#8226; The inability of our subsidiaries to pay dividends consistent with current or past levels impacting our ability to pay shareholder dividends or repurchase shares General Business, Technology, and Operational Risks &#8226; Ineffective information technology systems or failing to develop and implement improvements in technology &#8226; Difficulties with technology or data security breaches, including cyberattacks, could negatively affect our, or our agents', ability to conduct business; disrupt our relationships with agents, policyholders, and others; cause reputational damage, mitigation expenses, data loss, and expose us to liability &#8226; Difficulties with our operations and technology that may negatively impact our ability to conduct business, including cloud-based data information storage, data security, remote working capabilities, and/or outsourcing relationships and third-party operations and data security &#8226; Disruption of the insurance market caused by technology innovations - such as driverless cars - that could decrease consumer demand for insurance products &#8226; Delays, inadequate data developed internally or from third parties, or performance inadequacies from ongoing development and implementation of underwriting and pricing models and methods, including usage-based insurance methods, automation, artificial intelligence, or technology projects and enhancements expected to increase our efficiency, pricing accuracy, underwriting profit, and competitiveness Cincinnati Financial Corporation Second-Quarter 2026 10-Q Page 34 Table of Contents &#8226; Intense competition, and the impact of innovation, emerging technologies, artificial intelligence and changing customer preferences on the insurance industry and the markets in which we operate, could harm our ability to maintain or increase our business volumes and profitability &#8226; Inability to defer policy acquisition costs for any business segment if pricing and loss trends would lead management to conclude that the segment could not achieve sustainable profitability &#8226; Unforeseen departure of certain executive officers or other key employees that could interrupt progress toward important strategic goals or diminish the effectiveness of certain longstanding relationships with insurance agents and others &#8226; Our inability, or the inability of our independent agents, to attract and retain personnel &#8226; Events, such as a pandemic, an epidemic, natural catastrophe, or terrorism, which could hamper our ability to assemble our workforce, work effectively in a remote environment, or other failures of business continuity or disaster recovery programs Regulatory, Compliance, and Legal Risks &#8226; Actions of insurance departments, state attorneys general or other regulatory agencies, including a change to a federal system of regulation from a state-based system, that: &#9702; Impose new obligations on us that increase our expenses or change the assumptions underlying our critical accounting estimates &#9702; Place the insurance industry under greater regulatory scrutiny or result in new statutes, rules, and regulations &#9702; Restrict our ability to exit or reduce writings of unprofitable coverages or lines of business &#9702; Increase assessments for guaranty funds, other insurance&#8209;related assessments, or mandatory reinsurance arrangements; or that impair our ability to recover such assessments through future surcharges or other rate changes &#9702; Increase our provision for federal income taxes due to changes in tax laws, regulations, or interpretations &#9702; Increase other expenses &#9702; Limit our ability to set fair, adequate, and reasonable rates &#9702; Restrict our ability to cancel policies &#9702; Impose new underwriting standards &#9702; Place us at a disadvantage in the marketplace &#9702; Restrict our ability to execute our business model, including the way we compensate agents &#8226; Adverse outcomes from litigation, environmental claims, mass torts or administrative proceedings, including effects of social inflation and third-party litigation funding on the size and frequency of litigation awards &#8226; Events or actions, including unauthorized intentional circumvention of controls, which reduce our future ability to maintain effective internal control over financial reporting under the Sarbanes-Oxley Act of 2002 &#8226; Effects of changing social, global, economic, and regulatory environments &#8226; Additional measures affecting corporate financial reporting and governance that can affect the market value of our common stock Risks and uncertainties are further discussed in other filings with the Securities and Exchange Commission, including our 2025 Annual Report on Form 10-K, Item 1A, Risk Factors, Page 30. Cincinnati Financial Corporation Second-Quarter 2026 10-Q Page 35 Table of Contents CORPORATE FINANCIAL HIGHLIGHTS Net Income and Comprehensive Income Data (Dollars in millions, except per share data) Three months ended June 30, Six months ended June 30, 2026 2025 % Change 2026 2025 % Change Earned premiums $ 2,635 $ 2,480 6 $ 5,239 $ 4,824 9 Investment income, net of expenses (pretax) 319 285 12 637 565 13 Investment gains and losses, net (pretax) 1,308 473 177 1,238 406 205 Total revenues 4,274 3,248 32 7,137 5,814 23 Net income 1,255 685 83 1,529 595 157 Comprehensive income 1,305 707 85 1,428 655 118 Net income per share—diluted 8.05 4.34 85 9.78 3.77 159 Cash dividends declared per share 0.94 0.87 8 1.88 1.74 8 Diluted weighted average shares outstanding 155.7 157.8 (1) 156.3 157.8 (1) Total revenues increased $1.026 billion for the second quarter of 2026, compared with the second quarter of 2025, including higher net investment gains, earned premiums and investment income. For the first six months of 2026, compared with the same period of 2025, total revenues increased $1.323 billion, including higher net investment gains, earned premiums and investment income. Premium and investment revenue trends are discussed further in the respective sections of Financial Results. Investment gains and losses are recognized on the sales of investments, on certain changes in fair values of securities even though we continue to hold the securities or as otherwise required by GAAP. We have substantial discretion in the timing of investment sales, and that timing generally is independent of the insurance underwriting process. The change in fair value of securities is also generally independent of the insurance underwriting process. Net income for the second quarter of 2026, compared with the second quarter of 2025, increased $570 million, including increases of $657 million in after-tax investment gains and losses and $28 million in after-tax investment income, partially offset by a decrease of $115 million in after-tax property casualty underwriting profit. Catastrophe losses for the second quarter of 2026, mostly weather related, were $61 million higher after taxes and contributed unfavorably to both net income and property casualty underwriting profit. Life insurance segment results decreased by $1 million on a pretax basis. For the first six months of 2026, net income increased $934 million, compared with the first six months of 2025, including increases of $654 million in after-tax investment gains and losses, $211 million in after-tax property casualty underwriting income and $59 million in after-tax investment income. The property casualty underwriting income increase included a favorable $172 million after-tax effect from lower catastrophe losses. Life insurance segment results increased by $1 million on a pretax basis. Performance by segment is discussed below in Financial Results. As discussed in our 2025 Annual Report on Form 10-K, Item 7, Executive Summary, Page 46, there are several reasons why our performance during 2026 may ultimately be below our long-term targets. The board of directors is committed to rewarding shareholders directly through cash dividends and through share repurchase authorizations. Through 2025, the company had increased the annual cash dividend rate for 65 consecutive years, a record we believe is matched by only seven other U.S. publicly traded companies. In January 2026, the board of directors increased the regular quarterly dividend to 94 cents per share, setting the stage for our 66 th consecutive year of increasing cash dividends. During the first six months of 2026, cash dividends declared by the company increased 8% compared with the same",
+        "charRange": [
+          115937,
+          130937
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors Our risk factors have not changed materially since they were described in our 2025 Annual Report on Form 10-K filed February 23, 2026. Investors should not interpret the disclosure of a risk to imply that the risk has not already materialized. Cincinnati Financial Corporation Second-Quarter 2026 10-Q Page 71 Table of Contents Item 2. Unregistered Sales of Equity Securities and Use of Proceeds We did not sell any of our shares that were not registered under the Securities Act during the first six months of 2026. Our repurchase program does not have an expiration date. On January 26, 2018, an additional 15 million shares were authorized, which expanded our current repurchase program. We have 1,849,445 shares available for purchase under our programs at June 30, 2026. Period Total number of shares purchased Average price paid per share Total number of shares purchased as part of publicly announced plans or programs Maximum number of shares that may yet be purchased under the plans or programs April 1-30, 2026 — — — 3,176,650 May 1-31, 2026 889,801 $ 163.51 889,801 2,286,849 June 1-30, 2026 437,404 158.70 437,404 1,849,445 Totals 1,327,205 161.93 1,327,205 Cincinnati Financial Corporation Second-Quarter 2026 10-Q Page 72 Table of Contents Item 5. Other Information Neither the company nor any of our officers or directors adopted or terminated a Rule 10b5-1 or non-Rule 10b5-1 trading arrangement as defined by Item 408(a) and Item 408(d) of Regulation S-K during the last fiscal quarter. Cincinnati Financial Corporation Second-Quarter 2026 10-Q Page 73 Table of Contents Item 6. Exhibits Exhibit No. Exhibit Description 3.1 Amended and Restated Articles of Incorporation of Cincinnati Financial Corporation (as of May 5, 2026) 3.2 Amended and Restated Code of Regulations of Cincinnati Financial Corporation, as of May 6, 2023 (incorporated by reference to Exhibit 3.1 filed with the company's Current Report on Form 8-K filed on May 9, 2023) 4.8 Description of Registered Securities (incorporated by reference to Exhibit 4.8 filed with the company's registration statement on Form S-3 filed on April 22, 2026) 31A Certification pursuant to Section 302 of the Sarbanes Oxley Act of 2002 &#8211; Chief Executive Officer 31B Certification pursuant to Section 302 of the Sarbanes Oxley Act of 2002 &#8211; Chief Financial Officer 32 Certification pursuant to Section 906 of the Sarbanes Oxley Act of 2002 101.INS The instance document does not appear in the interactive data file because its XBRL tags are embedded within the Inline XBRL document. 101.SCH XBRL Taxonomy Extension Schema Document 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF XBRL Taxonomy Extension Definition Linkbase Document 101.LAB XBRL Taxonomy Extension Label Linkbase Document 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) Cincinnati Financial Corporation Second-Quarter 2026 10-Q Page 74 Table of Contents SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. CINCINNATI FINANCIAL CORPORATION Date: July 27, 2026 /S/ Michael J. Sewell Michael J. Sewell, CPA Chief Financial Officer, Executive Vice President and Treasurer (Principal Accounting Officer) Cincinnati Financial Corporation Second-Quarter 2026 10-Q Page 75",
+        "charRange": [
+          236246,
+          239742
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 150541,
+            "context": "er and first six months of 2026, compared with the same periods of 2025. Other written premiums for the first six months of 2025 included a net unfavorable amount of $52 million for reinsurance treaty reinstatement premiums related to the California wildfires. Catastrophe losses and loss expenses typically have a material effect on property casualty results and can vary significantly from period to period. Losses from catastrophes contributed 14.5 and 12.6 percentage points to the combined ratio in the second quarter and first six months of 2026, compared with 12.2 and 18.4 percentage points i"
+          },
+          {
+            "charIndex": 173151,
+            "context": "ncreased net written premiums by approximately $59 million compared with the same period of 2025. Ceded premiums for the first six months of 2025 included a net amount of $64 million for reinsurance reinstatement premiums related to the January 2025 wildfires in southern California. Personal Lines Insurance Premiums (Dollars in millions) Three months ended June 30, Six months ended June 30, 2026 2025 % Change 2026 2025 % Change Agency renewal written premiums $ 943 $ 866 9 $ 1,669 $ 1,500 11 Agency new business written premiums 78 141 (45) 154 268 (43) Other written premiums (31) (27) (15) (58"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 109829,
+            "context": "an during the first six months of 2026. Cincinnati Financial Corporation Second-Quarter 2026 10-Q Page 30 Table of Contents NOTE 12 &#8211; Commitments and Contingent Liabilities The company, through its insurance subsidiaries, is involved in claims litigation arising in the ordinary course of conducting its business, both as a liability insurer defending third-party claims brought against insureds and as an insurer defending against coverage claims. The company accounts for such activity through the establishment of unpaid loss and loss expense reserves. Subject to the uncertainties discussed"
+          },
+          {
+            "charIndex": 110376,
+            "context": "ense reserves. Subject to the uncertainties discussed in Note 4, Property Casualty Loss and Loss Expenses, and in the discussion in the balance of this Note, we believe that the ultimate liability, if any, with respect to such ordinary-course claims litigation, after consideration of provisions made for potential losses, costs of defense, and reinsurance recoveries, is immaterial to our consolidated financial position, results of operations and cash flows. The company and its subsidiaries also are occasionally involved in other legal and regulatory proceedings, some of which assert claims for"
+          },
+          {
+            "charIndex": 117600,
+            "context": "oking statements. Any forward-looking statements contained herein, are based upon our current estimates, assumptions and plans that are subject to uncertainty. These statements are made subject to the safe-harbor provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements can be identified by words like &#8220;seek,&#8221; &#8220;expect,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;could,&#8221; &#8220;might,&#8221; &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;intend,&#8221; &#8220;likely,&#8221; &#8220;future,&#8"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 110793,
+            "context": "tion, results of operations and cash flows. The company and its subsidiaries also are occasionally involved in other legal and regulatory proceedings, some of which assert claims for substantial amounts. These actions include, among others, putative class actions seeking certification of state or national classes. The company's insurance subsidiaries also are occasionally parties to individual actions in which extra-contractual damages, punitive damages or penalties are sought, such as claims alleging bad faith handling of insurance claims or writing unauthorized coverage or claims alleging di"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 72164,
+            "context": "fair values below 70 % of amortized cost at June 30, 2026, and December 31, 2025, respectively. Cincinnati Financial Corporation Second-Quarter 2026 10-Q Page 11 Table of Contents NOTE 3 &#8211; Fair Value Measurements In accordance with accounting guidance for fair value measurements and disclosures, we categorized our financial instruments, based on the priority of the observable and market-based data for the valuation technique used, into a three-level fair value hierarchy. The fair value hierarchy gives the highest priority to quoted prices with readily available independent data in activ"
+          },
+          {
+            "charIndex": 111273,
+            "context": "t, such as claims alleging bad faith handling of insurance claims or writing unauthorized coverage or claims alleging discrimination by former or current associates. On a quarterly basis, we review these outstanding matters. Under current accounting guidance, we establish accruals when it is probable that a covered loss has been incurred and we can reasonably estimate its potential exposure. The company accounts for such probable and estimable losses, if any, through the establishment of legal expense reserves. Based on our quarterly review, we believe that our accruals for probable and estima"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 131179,
+            "context": "the same period of 2025. Our board regularly evaluates relevant factors in decisions related to dividends and share repurchases. The 2026 dividend increase reflected our strong operating performance and signaled management's and the board's positive outlook and confidence in our outstanding capital, liquidity and financial flexibility. Cincinnati Financial Corporation Second-Quarter 2026 10-Q Page 36 Table of Contents Balance Sheet Data and Performance Measures (Dollars in millions, except share data) At June 30, At December 31, 2026 2025 Total investments $ 33,153 $ 31,783 Total assets 43,231"
+          },
+          {
+            "charIndex": 139954,
+            "context": "July 24, 2026, our insurance subsidiaries continued to be highly rated. Insurer Financial Strength Ratings Rating agency Standard market property casualty insurance subsidiaries Life insurance subsidiary Excess and surplus lines insurance subsidiary Outlook Rating tier Rating tier Rating tier A.M. Best Co. ambest.com A+ Superior 2 of 16 A+ Superior 2 of 16 A+ Superior 2 of 16 Stable Fitch Ratings fitchratings.com AA- Very Strong 4 of 21 AA- Very Strong 4 of 21 - - - Stable Moody's Investors Service moodys.com A1 Good 5 of 21 - - - - - - Stable S&P Global Ratings spratings.com A+ Strong 5 of 21"
+          },
+          {
+            "charIndex": 194694,
+            "context": "y blue chip, dividend-paying companies represents one of our best investment opportunities for the long term. We discussed our portfolio strategies in our 2025 Annual Report on Form 10-K, Item 1, Investments Segment, Page 21, and Item 7, Investments Outlook, Page 86. We discuss risks related to our investment income and our fixed-maturity and equity investment portfolios in this quarterly report Item 3, Quantitative and Qualitative Disclosures About Market Risk. The table below provides details about investment income. Average yields in this table are based on the average invested asset and ca"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 120628,
+            "context": "disruption or volatility and related effects such as decreased economic activity and continued supply chain disruptions that affect our investment portfolio and book value &#9702; Significant or prolonged decline in the fair value of securities and impairment of the assets &#9702; Significant decline in investment income due to reduced or eliminated dividend payouts from securities &#9702; Significant rise in losses from surety or director and officer policies written for financial institutions or other insured entities or in losses from policies written by Cincinnati Re or Cincinnati Global"
+          },
+          {
+            "charIndex": 197796,
+            "context": "sses: Fixed maturities 75 28 (145) 95 Short-term (1) — (1) — Total $ 1,382 $ 501 $ 1,092 $ 501 Of the 5,484 fixed-maturity and short-term securities in the portfolio, 14 securities were trading below 70% of amortized cost at June 30, 2026. Our asset impairment committee regularly monitors the portfolio, including a quarterly review of the entire portfolio for potential credit losses. We believe that if liquidity in the markets were to significantly deteriorate or economic conditions were to significantly weaken, we could experience declines in portfolio values and possibly increases in the all"
+          },
+          {
+            "charIndex": 230723,
+            "context": "346 179 2,550 181 Government-sponsored enterprises 983 3 195 1 1,178 4 Asset-backed 101 2 184 6 285 8 United States government 69 — 20 1 89 1 Total fixed-maturity $ 2,206 $ 22 $ 5,671 $ 375 $ 7,877 $ 397 At June 30, 2026, applying our invested asset impairment policy, we determined that the total of $479 million, for securities in an unrealized loss position in the table above, was not the result of a credit loss. During the first six months of 2026, no fixed maturity securities were written down to fair value, due to an intention to be sold. The allowance for credit losses increased $1 millio"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 110670,
+            "context": "s made for potential losses, costs of defense, and reinsurance recoveries, is immaterial to our consolidated financial position, results of operations and cash flows. The company and its subsidiaries also are occasionally involved in other legal and regulatory proceedings, some of which assert claims for substantial amounts. These actions include, among others, putative class actions seeking certification of state or national classes. The company's insurance subsidiaries also are occasionally parties to individual actions in which extra-contractual damages, punitive damages or penalties are so"
+          },
+          {
+            "charIndex": 125070,
+            "context": "6; Events, such as a pandemic, an epidemic, natural catastrophe, or terrorism, which could hamper our ability to assemble our workforce, work effectively in a remote environment, or other failures of business continuity or disaster recovery programs Regulatory, Compliance, and Legal Risks &#8226; Actions of insurance departments, state attorneys general or other regulatory agencies, including a change to a federal system of regulation from a state-based system, that: &#9702; Impose new obligations on us that increase our expenses or change the assumptions underlying our critical accounting est"
+          },
+          {
+            "charIndex": 125185,
+            "context": "semble our workforce, work effectively in a remote environment, or other failures of business continuity or disaster recovery programs Regulatory, Compliance, and Legal Risks &#8226; Actions of insurance departments, state attorneys general or other regulatory agencies, including a change to a federal system of regulation from a state-based system, that: &#9702; Impose new obligations on us that increase our expenses or change the assumptions underlying our critical accounting estimates &#9702; Place the insurance industry under greater regulatory scrutiny or result in new statutes, rules, and"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 15995,
+            "context": "286 cinf:InvestmentcontractreservesMember us-gaap:DeferredFixedAnnuityMember 2026-06-30 0000020286 cinf:InvestmentcontractreservesMember us-gaap:DeferredFixedAnnuityMember 2025-12-31 0000020286 cinf:InvestmentcontractreservesMember us-gaap:StructuredSettlementAnnuityMember 2026-06-30 0000020286 cinf:InvestmentcontractreservesMember us-gaap:StructuredSettlementAnnuityMember 2025-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2026-03-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2025-03-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsu"
+          },
+          {
+            "charIndex": 16097,
+            "context": "f:InvestmentcontractreservesMember us-gaap:DeferredFixedAnnuityMember 2025-12-31 0000020286 cinf:InvestmentcontractreservesMember us-gaap:StructuredSettlementAnnuityMember 2026-06-30 0000020286 cinf:InvestmentcontractreservesMember us-gaap:StructuredSettlementAnnuityMember 2025-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2026-03-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2025-03-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2025-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 20"
+          },
+          {
+            "charIndex": 76430,
+            "context": "874 Cincinnati Financial Corporation Second-Quarter 2026 10-Q Page 13 Table of Contents The following table shows the fair value of our life policy loans included in other invested assets and the fair values of our deferred annuities and structured settlements included in life policy and investment contract reserves: (Dollars in millions) Level 1 Level 2 Level 3 Total At June 30, 2026 Life policy loans $ — $ — $ 43 $ 43 Deferred annuities $ — $ — $ 519 $ 519 Structured settlements — 117 — 117 Total $ — $ 117 $ 519 $ 636 At December 31, 2025 Life policy loans $ — $ — $ 43 $ 43 Deferred annuiti"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 16159,
+            "context": "yMember 2025-12-31 0000020286 cinf:InvestmentcontractreservesMember us-gaap:StructuredSettlementAnnuityMember 2026-06-30 0000020286 cinf:InvestmentcontractreservesMember us-gaap:StructuredSettlementAnnuityMember 2025-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2026-03-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2025-03-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2025-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2024-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsura"
+          },
+          {
+            "charIndex": 16240,
+            "context": "turedSettlementAnnuityMember 2026-06-30 0000020286 cinf:InvestmentcontractreservesMember us-gaap:StructuredSettlementAnnuityMember 2025-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2026-03-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2025-03-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2025-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2024-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2026-04-01 2026-06-30 0000020286 us-gaap:PropertyLiabilityAndCas"
+          },
+          {
+            "charIndex": 16321,
+            "context": "sMember us-gaap:StructuredSettlementAnnuityMember 2025-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2026-03-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2025-03-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2025-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2024-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2026-04-01 2026-06-30 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2025-04-01 2025-06-30 0000020286 us-gaap:PropertyLiab"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-02-23",
+        "reportDate": "2025-12-31",
+        "accessionNumber": "0000020286-26-000008",
+        "primaryDocument": "cinf-20251231.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/20286/000002028626000008/cinf-20251231.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/20286/000002028626000008/"
+      },
+      "textLength": 690203,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS",
+        "text": "Management's Discussion and Analysis should be read in conjunction with Item 8, Consolidated Financial Statements and related Notes. We present per share data on a diluted basis unless otherwise noted, adjusting those amounts for all stock splits and stock dividends. We begin with an executive summary of our results of operations, followed by other highlights and details about critical accounting estimates. In several instances, we refer to estimated industry data so that we can provide information on our performance within the context of the overall insurance industry. Unless otherwise noted, the industry data is prepared by A.M. Best, a leading insurance industry statistical, analytical and financial strength rating organization. Information from A.M. Best is presented on a statutory accounting basis for insurance company regulation in the United States of America. When we provide our results on a comparable statutory accounting basis, we label it as such; all other company data is presented in accordance with accounting principles generally accepted in the United States of America (GAAP). Through The Cincinnati Insurance Company, Cincinnati Financial Corporation is one of the 25 largest property casualty insurers in the nation, based on net written premium volume for the first nine months of 2025, among more than 2,000 U.S. stock and mutual companies operating independently or in groups. We market our insurance products through a select group of independent insurance agencies in 46 states as discussed in Item 1, Our Business and Our Strategy. The U.S. economy, the insurance industry and our company continue to face many challenges. Our long-term perspective has allowed us to address immediate challenges while also focusing on the major decisions that best position the company for success through all market cycles. We believe that this forward-looking view consistently benefits our shareholders, agents, policyholders and associates. To measure our progress, we have defined a measure of value creation that we believe captures the contribution of our insurance operations, the success of our investment strategy and the importance we place on paying cash dividends to shareholders. We refer to this measure as our value creation ratio (VCR) and it is made up of two primary components: (1) our rate of growth in book value per share plus (2) the ratio of dividends declared per share to beginning book value per share. This measure, intended to be all-inclusive regarding changes in book value per share, uses originally reported book value per share in cases where book value per share has been adjusted, such as after the adoption of Accounting Standards Updates with a cumulative effect of a change in accounting. The primary sources of our company's net income are summarized below. We discuss contributions to net income and VCR by source in Corporate Financial Highlights, followed by more detailed discussion in Financial Results. &#8226; Underwriting profit (loss) &#8211; Includes revenues from earned premiums for insurance and reinsurance policies or contracts, reduced by losses and loss expenses from associated insurance coverages. Those revenues are further reduced by underwriting expenses associated with marketing policies or related to administration of our insurance operations. The net result represents an underwriting profit when revenues exceed losses and expenses. &#8226; Investment income &#8211; Is generated primarily from investing the premiums collected for insurance policies sold, until funds are needed to pay losses for insurance claims or other expenses. Interest income from bonds or dividend income from stocks are the main categories of our investment income, with additional contribution from compounding effects over time. &#8226; Investment gains and losses &#8211; Occur from appreciation or depreciation of invested assets over time. Gains or losses are generally recognized from changes in market values of equity securities without a sale or when invested assets are sold or become impaired. Cincinnati Financial Corporation - 2025 10-K - Page 45 Table of Contents Executive Summary Our value creation ratio, defined above, is our primary performance target. VCR trends are shown in the table below. One year Three-year % average Five-year % average Value creation ratio: As of December 31, 2025 18.8 % 19.4 % 13.8 % As of December 31, 2024 19.8 8.2 13.0 As of December 31, 2023 19.5 10.2 15.2 We are targeting an annual value creation ratio averaging 10% to 13% over the next five-year period. At 18.8% for 2025, our performance was above the high end of that range. We also exceeded the high end of the range for both the three-year and five-year periods that ended in December 2025. The table below shows the primary contributors of our value creation ratio on a percentage basis. Analysis of the contributors aids understanding of our financial performance. Our financial results are further analyzed in the Corporate Financial Highlights section below. Years ended December 31, 2025-2024 2024-2023 2025 2024 2023 Pt. Change Pt. Change Value creation ratio major contributors: Net income before investment gains 9.1 % 9.9 % 9.1 % (0.8) 0.8 Change in fixed-maturity securities, realized and unrealized gains 2.0 (0.6) 1.9 2.6 (2.5) Change in equity securities, investment gains 8.2 9.6 8.6 (1.4) 1.0 Other (0.5) 0.9 (0.1) (1.4) 1.0 Value creation ratio 18.8 % 19.8 % 19.5 % (1.0) 0.3 The 2025 value creation ratio decreased by 1.0 percentage points, compared with 2024, and again included a significant contribution from operating results, as shown in the table above. The 2025 ratio decrease included 0.8 percentage points from net income before investment gains and 0.2 percentage points in overall net gains from our investment portfolio and other items. The increase in 2024, compared with 2023, was primarily due to an increase in operating results which was partially offset by a reduction in overall net gains from our investment portfolio. We believe our value creation ratio is a useful measure. The table below shows calculations for VCR. (Dollars are per share) Years ended December 31, 2025 2024 2023 Value creation ratio: End of period book value* $ 102.35 $ 89.11 $ 77.06 Less beginning of period book value 89.11 77.06 67.01 Change in book value 13.24 12.05 10.05 Dividend declared to shareholders 3.48 3.24 3.00 Total value creation $ 16.72 $ 15.29 $ 13.05 Value creation ratio from change in book value** 14.9 % 15.6 % 15.0 % Value creation ratio from dividends declared to shareholders*** 3.9 4.2 4.5 Value creation ratio 18.8 % 19.8 % 19.5 % * Book value per share is calculated by dividing end of period total shareholders' equity by end of period shares outstanding ** Change in book value divided by the beginning of year book value *** Dividend declared to shareholders divided by beginning of year book value Cincinnati Financial Corporation - 2025 10-K - Page 46 Table of Contents When looking at our longer-term objectives, we see three primary performance drivers for our value creation ratio: &#8226; Premium growth &#8211; We believe over any five-year period our agency relationships and initiatives can lead to a property casualty written premium growth rate that exceeds the industry average. The compound annual growth rate of our net written premiums was 11.4% over the five-year period 2021 through 2025, exceeding the 8.8% estimated growth rate for the property casualty insurance industry, with 2025 representing industry data reported through the first nine months of 2025. The industry's growth rate excludes its mortgage and financial guaranty lines of business. &#8226; Combined ratio &#8211; We believe our underwriting philosophy and initiatives can drive performance to achieve our underwriting profitability target of a GAAP combined ratio over any five-year period that consistently averages within the range of 92% to 98% in the future. Our GAAP combined ratio averaged 93.9% over the five-year period 2021 through 2025, within the performance target range. Performance as measured by the combined ratio is discussed in Consolidated Property Casualty Insurance Results. Our statutory combined ratio averaged 93.6% over the five-year period 2021 through 2025, compared with an estimated 99.6% for the property casualty industry, with 2025 representing industry data reported through the first nine months of 2025. The industry's ratio again excludes its mortgage and financial guaranty lines of business. &#8226; Investment contribution &#8211; We believe our investment philosophy and initiatives can drive investment income growth and lead to a total return on our equity investment portfolio over a five-year period that exceeds the five-year total return of the S&P 500 Index. &#9702; Investment income growth, on a pretax basis, had a compound annual growth rate of 11.7% over the five-year period 2021 through 2025. &#9702; Over the five years ended December 31, 2025, our equity portfolio compound annual total return was 12.4% compared with a compound annual total return of 14.4% for the Index. Our equity portfolio favors larger-capitalization, high-quality, dividend-growing stocks with a slight value orientation. For the year 2025, our equity portfolio total return was 15.7%, compared with 17.9% for the Index. The board of directors is committed to rewarding shareholders directly through cash dividends and share repurchase authorizations. Through 2025, the company has increased the annual cash dividend rate for 65 consecutive years, a record we believe is matched by only seven other publicly traded U.S. companies. In addition to regular dividends, strong capital and excellent company performance has provided opportunities to further reward shareholders. The board regularly evaluates relevant factors in dividend-related decisions, and the 2025 increase to the regular dividend reflected confidence in our outstanding capital, liquidity and financial flexibility, as well as progress of our initiatives to improve earnings performance while growing insurance premium revenues. We discuss our financial position in more detail in Liquidity and Capital Resources. Our view of the shareholder value we can create over the next five years relies largely on three assumptions &#8211; each highly dependent on the external environment. First, we anticipate our property casualty average insurance prices will increase in proportion to, or in excess of, our loss cost trends. Second, we assume that the economy can maintain a long-term growth track. Third, we assume that valuations of our marketable securities will vary within a typical range over time, based on historical trends. If those assumptions prove to be inaccurate, we may not be able to achieve our performance targets even if we accomplish our strategic objectives. We discuss in Item 1A, Risk Factors, many potential risks to our business and our ability to achieve our qualitative and quantitative objectives. Cincinnati Financial Corporation - 2025 10-K - Page 47 Table of Contents Corporate Financial Highlights In addition to the value creation ratio discussion and analysis in the Executive Summary, we further analyze our financial results in the sections below. Balance Sheet Data (Dollars in millions, except share data) At December 31, At December 31, 2025 2024 Total investments $ 31,783 $ 28,378 Total assets 41,002 36,501 Short-term debt 25 25 Long-term debt 790 790 Shareholders' equity 15,911 13,935 Book value per share 102.35 89.11 Debt-to-total-capital ratio 4.9 % 5.5 % Total investments increased by 12% during 2025 on a fair value basis. Entering 2026, we believe the portfolio continues to be well diversified and is well positioned to withstand short-term fluctuations. We discuss our investment strategy in Item 1, Investments Segment, and results for the segment in Investments Results. Total assets also increased by 12%, compared with year-end 2024. Shareholders' equity increased by 14% and book value per share increased by 15%, for reasons discussed in the preceding Executive Summary. The amount of our debt obligations at year-end 2025 matched year-end 2024. Our 4.9% ratio of debt to total capital (debt plus shareholders' equity) at year-end 2025 decreased by 0.6 percentage points compared with the prior-year ratio. Income Statement and Per Share Data (In millions, except per share data) Years ended December 31, 2025-2024 2024-2023 2025 2024 2023 Change % Change % Earned premiums $ 9,983 $ 8,889 $ 7,958 12 12 Investment income, net of expenses (pretax) 1,165 1,025 894 14 15 Investment gains and losses, net (pretax) 1,442 1,391 1,127 4 23 Total revenues 12,631 11,337 10,013 11 13 Net income 2,393 2,292 1,843 4 24 Comprehensive income 2,668 2,418 2,022 10 20 Net income per share - diluted 15.17 14.53 11.66 4 25 Cash dividends declared per share 3.48 3.24 3.00 7 8 Diluted weighted average shares outstanding 157.7 157.8 158.1 0 0 Net income rose by $101 million in 2025, compared with 2024, including a $44 million increase in net investment gains on an after-tax basis. The improved 2025 net income also included a $112 million increase in investment income after taxes partially offset by a decrease in property casualty underwriting income of $62 million after taxes, as discussed below. Our investment operation's performance is discussed further in Investments Results. Net income of $2.292 billion in 2024, representing a $449 million increase compared with net income for 2023, included a $204 million increase in net investment gains after taxes. The improved 2024 net income also included an increase in property casualty underwriting income of $141 million after taxes and a $104 million increase in investment income after taxes. Cincinnati Financial Corporation - 2025 10-K - Page 48 Table of Contents Contribution from Insurance Operations (Dollars in millions) Years ended December 31, 2025-2024 2024-2023 2025 2024 2023 Change % Change % Consolidated property casualty data: Net written premiums $ 10,082 $ 9,243 $ 8,046 9 15 Earned premiums 9,653 8,568 7,645 13 12 Underwriting profit 501 580 401 (14) 45 Pt. Change Pt. Change GAAP combined ratio 94.9 % 93.4 % 94.9 % 1.5 (1.5) Statutory combined ratio 94.7 92.9 94.6 1.8 (1.7) Written premium to statutory surplus 1.0 1.0 1.1 0.0 (0.1) Property casualty net written premiums grew 9% and earned premiums grew 13% in 2025. The growth reflected average renewal price increases, premium growth initiatives and a higher level of insured exposures, including a contribution to net written premium growth of less than 1 percentage point from Cincinnati Re and Cincinnati Global in total. Growth in 2024 net written premiums and earned premiums was driven by factors similar to 2025. Trends and related factors are discussed in Commercial Lines, Personal Lines and Excess and Surplus Lines Insurance Results. Our property casualty insurance operations generated an underwriting profit",
+        "charRange": [
+          271757,
+          286757
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "risk factors encompassed under the umbrella of market risk. General economic swings influence the performance of the underlying industries and companies within those industries. Industry- and company-specific risks also have the potential to substantially affect the value of our portfolio. Our investment guidelines help address these risks by diversifying the portfolio and establishing parameters to help manage exposures. The table below summarizes the effect of hypothetical changes in market prices on the fair value of our equity portfolio. (Dollars in millions) Effect from market price change in percent -30% -20% -10% — 10% 20% 30% At December 31, 2025 $ 8,886 $ 10,155 $ 11,425 $ 12,694 $ 13,963 $ 15,233 $ 16,502 At December 31, 2024 $ 7,830 $ 8,948 $ 10,067 $ 11,185 $ 12,304 $ 13,422 $ 14,541 Our equity holdings represented $12.694 billion in fair value at year-end 2025. No holding had a fair value greater than 7.8% of our $12.373 billion common stock portfolio. We had 44 holdings (among nine different sectors) each with a fair value greater than $100 million. See Item 1, Our Segments, Investments Segment and Item 8, Note 2 of the Consolidated Financial Statements, for additional details on our holdings. The primary risks related to preferred stocks are similar to those related to investment-grade corporate bonds. Rising interest rates adversely affect market values due to the normal inverse relationship between interest rates and bond prices. Credit risk exists due to the subordinate position of preferred stocks in the capital structure. We minimize this risk by primarily purchasing investment-grade preferred stocks of issuers with a strong history of paying a common stock dividend. Cincinnati Financial Corporation - 2025 10-K - Page 112 Table of Contents Application of Asset Impairment Policy As discussed in Item 7, Critical Accounting Estimates, Asset Impairment, our fixed-maturity investment portfolio is evaluated for credit-related impairments . The company's asset impairment committee monitors a number of significant factors for indications of investments with a fair value below the carrying amount that may not be recoverable. During 2025 and 2024, no fixed maturity securities were written down to fair value, due to an intention to be sold. The application of our impairment policy resulted in write-downs of impaired securities intended to be sold that reduced our income before income taxes by $4 million in 2023. Impairments are discussed in Item 7, Investments Results. We expect the number of fixed-maturity and short-term securities with a fair value below 100% of amortized cost to fluctuate as interest rates rise or fall and credit spreads expand or contract due to prevailing economic conditions. Further, amortized cost for some securities have been revised due to impairment charges recognized in prior periods. At year-end 2025, 2,597 of the 5,358 fixed-maturity and short-term securities we owned had a fair value below 100% of amortized cost compared with 3,723 of the 5,090 at year-end 2024 and 2,840 of the 4,738 at year-end 2023. The 2,597 holdings fair valued below amortized cost at year-end 2025 represented 43.1% of our fixed-maturity and short-term investments portfolio and $397 million in unrealized losses. &#8226; 1,974 of these holdings were fair valued between 90% and 100% of amortized cost. The value of these securities fluctuates primarily because of changes in interest rates. The fair value of these 1,974 securities was $6.734 billion at year-end 2025, and they accounted for $144 million in unrealized losses. &#8226; 610 of these holdings were fair valued between 70% and 90% of amortized cost. The fair value of these holdings was $1.126 billion, and they accounted for $240 million in unrealized losses. &#8226; 13 of these holdings had a fair value below 70% of amortized cost. The fair value of these holdings was $17 million, and they accounted for $13 million in unrealized losses. The following table summarizes the length of time securities in the investment portfolio have been in a continuous unrealized loss position. (Dollars in millions) Less than 12 months 12 months or more Total At December 31, 2025 Fair value Unrealized losses Fair value Unrealized losses Fair value Unrealized losses Fixed-maturity: Corporate $ 849 $ 15 $ 2,926 $ 188 $ 3,775 $ 203 States, municipalities and political subdivisions 204 2 2,346 179 2,550 181 Government-sponsored enterprises 983 3 195 1 1,178 4 Asset-backed 101 2 184 6 285 8 United States government 69 — 20 1 89 1 Total fixed-maturity $ 2,206 $ 22 $ 5,671 $ 375 $ 7,877 $ 397 At December 31, 2024 Fixed-maturity: Corporate $ 2,815 $ 78 $ 3,634 $ 255 $ 6,449 $ 333 States, municipalities and political subdivisions 1,513 25 1,898 245 3,411 270 Government-sponsored enterprises 1,876 8 92 1 1,968 9 Asset-backed 331 10 96 7 427 17 United States government 48 — 100 2 148 2 Foreign government — — 3 — 3 — Total fixed-maturity 6,583 121 5,823 510 12,406 631 Short-term 100 — — — 100 — Total fixed-maturity and short-term investments $ 6,683 $ 121 $ 5,823 $ 510 $ 12,506 $ 631 Cincinnati Financial Corporation - 2025 10-K - Page 113 Table of Contents The following table summarizes and classifies securities based on fair values relative to amortized cost: (Dollars in millions) Number of issues Amortized cost Fair value Gross unrealized gain (loss) Gross investment income At December 31, 2025 Taxable fixed maturities: Fair valued below 70% of amortized cost 6 $ 20 $ 12 $ (8) $ 1 Fair valued at 70% to less than 100% of amortized cost 1,358 6,266 5,965 (301) 249 Fair valued at 100% and above of amortized cost 1,379 7,848 8,033 185 366 Investment income on securities sold in current year — — — — 109 Total 2,743 14,134 14,010 (124) 725 Tax-exempt fixed maturities: Fair valued below 70% of amortized cost 7 10 5 (5) — Fair valued at 70% to less than 100% of amortized cost 1,226 1,978 1,895 (83) 62 Fair valued at 100% and above of amortized cost 1,379 2,182 2,213 31 74 Investment income on securities sold in current year — — — — 8 Total 2,612 4,170 4,113 (57) 144 Fixed-maturities summary: Fair valued below 70% of amortized cost 13 30 17 (13) 1 Fair valued at 70% to less than 100% of amortized cost 2,584 8,244 7,860 (384) 311 Fair valued at 100% and above of amortized cost 2,758 10,030 10,246 216 440 Investment income on securities sold in current year — — — — 117 Total 5,355 18,304 18,123 (181) 869 Short-term investments: Fair valued below 70% of cost — — — — — Fair valued at 70% to less than 100% of cost — — — — — Fair valued at 100% and above of cost 3 148 148 — — Investment income on securities sold in current year — — — — 9 Total 3 148 148 — 9 Fixed maturities and short-term investments summary: Fair valued below 70% of cost 13 30 17 (13) 1 Fair valued at 70% to less than 100% of cost 2,584 8,244 7,860 (384) 311 Fair valued at 100% and above of cost 2,761 10,178 10,394 216 440 Investment income on securities sold in current year — — — — 126 Total 5,358 $ 18,452 $ 18,271 $ (181) $ 878 At December 31, 2024 Fixed maturities and short-term investments summary: Fair valued below 70% of amortized cost 19 $ 43 $ 28 $ (15) $ 2 Fair valued at 70% to less than 100% of amortized cost 3,704 13,094 12,478 (616) 461 Fair valued at 100% and above of amortized cost 1,367 3,896 3,974 78 184 Investment income on securities sold in current year — — — — 86 Total 5,090 $ 17,033 $ 16,480 $ (553) $ 733 Cincinnati Financial Corporation - 2025 10-K - Page 114 Table of Contents I TEM 8. Financial Statements and Supplementary Data Responsibility for Financial Statements We have prepared the consolidated financial statements of Cincinnati Financial Corporation and our subsidiaries for the year ended December 31, 2025, in accordance with accounting principles generally accepted in the United States of America (GAAP). We are responsible for the integrity and objectivity of these financial statements. The amounts, presented on an accrual basis, reflect our best estimates and judgment. These statements are consistent in all material aspects with other financial information in the Annual Report on Form 10-K. Our accounting system and related internal controls are designed to assure that our books and records accurately reflect the company's transactions in accordance with established policies and procedures as implemented by qualified personnel. Our board of directors has established an audit committee of independent outside directors. We believe these directors are free from any relationships that could interfere with their independent judgment as audit committee members. The audit committee meets periodically with management, our independent registered public accounting firm and our internal auditors to discuss how each is handling its respective responsibilities. The audit committee reports its findings to the board of directors. The audit committee recommends to the board the annual appointment of the independent registered public accounting firm. The audit committee reviews with this firm the scope of the audit assignment and the adequacy of internal controls and procedures. Deloitte & Touche LLP, our independent registered public accounting firm, audited the consolidated financial statements of Cincinnati Financial Corporation and subsidiaries for the year ended December 31, 2025. Deloitte & Touche LLP met with our audit committee to discuss the results of its audit. They have the opportunity to discuss the adequacy of internal controls and the quality of financial reporting without management present. Cincinnati Financial Corporation - 2025 10-K - Page 115 Table of Contents Management's Annual Report on Internal Control Over Financial Reporting The management of Cincinnati Financial Corporation and its subsidiaries is responsible for establishing and maintaining adequate internal controls, designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted in the United States of America (GAAP). The company's internal control over financial reporting includes those policies and procedures that: &#8226; Pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; &#8226; Provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with GAAP and that receipts and expenditures of the company are being made only in accordance with authorizations of management and the directors of the company; and &#8226; Provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the company's assets that could have a material effect on the financial statements. All internal control systems, no matter how well designed, have inherent limitations, including the possibility of human error and the circumvention of overriding controls. Accordingly, even effective internal control can provide only reasonable assurance with respect to financial statement preparation and presentation. Further, because of changes in conditions, the effectiveness of internal control may vary over time. The company's management assessed the effectiveness of the company's internal control over financial reporting as of December 31, 2025, as required by Section 404 of the Sarbanes Oxley Act of 2002. Management's assessment was based on the criteria established in the Internal Control &#8211; Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission and was designed to provide reasonable assurance that the company maintained effective internal control over financial reporting as of December 31, 2025. The assessment led management to conclude that, as of December 31, 2025, the company's internal control over financial reporting was effective based on those criteria. The company's independent registered public accounting firm has issued an audit report on our internal control over financial reporting as of December 31, 2025. /S/ Stephen M. Spray Stephen M. Spray President and Chief Executive Officer /S/ Michael J. Sewell Michael J. Sewell, CPA Chief Financial Officer, Executive Vice President and Treasurer (Principal Accounting Officer) February 23, 2026 Cincinnati Financial Corporation - 2025 10-K - Page 116 Table of Contents Report of Independent Registered Public Accounting Firm To the Shareholders and Board of Directors of Cincinnati Financial Corporation Opinions on the Financial Statements and Internal Control over Financial Reporting We have audited the accompanying consolidated balance sheets of Cincinnati Financial Corporation and subsidiaries (the \"Company\") as of December 31, 2025 and 2024, the related consolidated statements of income, comprehensive income, shareholders' equity, and cash flows for each of the three years in the period ended December 31, 2025, and the related notes and the schedules listed in the Index at Item 15(b) (collectively referred to as the \"financial statements\"). We also have audited the Company's internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). In our opinion, the financial statements referred to above present fairly, in all material respects, the financial position of the Company as of December 31, 2025 and 2024, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2025, in conformity with accounting principles generally accepted in the United States of America. Also, in our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control — Integrated Framework (2013) issued by COSO. Basis for Opinions The Company's management is responsible for these financial statements, for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management's Annual Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on these financial statements and an opinion on the Company's internal control over financial reporting based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. We conducted ou",
+        "charRange": [
+          486972,
+          501972
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 209451,
+            "context": "ns in which we market insurance and reinsurance are exposed to numerous natural catastrophes, such as: &#8226; Hurricanes &#8226; Earthquakes &#8226; Landslides &#8226; Severe convective storms, tornadoes, windstorms, hailstorms and flooding &#8226; Wildfires &#8226; Winter storms On a worldwide basis, in the event of a severe catastrophic event or terrorist attack we may be exposed to material losses through our Cincinnati Re and Cincinnati Global operations. Due to the nature of these events, we are unable to precisely predict the frequency, severity or potential cost of catastrophe occurren"
+          },
+          {
+            "charIndex": 216508,
+            "context": "imate and/or weather patterns may increase the frequency and/or intensity of severe weather and natural catastrophe events, including hurricanes, heavy precipitation events, heavy wind events, flash flooding, sea level rise, droughts, heat waves and wildfires potentially leading to increased insured losses. A continuation of these trends would also likely increase the risks of writing property insurance in coastal areas or areas susceptible to wildfires or flooding, or in areas susceptible to heavy wind events. The risk could be even greater in jurisdictions that restrict pricing and underwrit"
+          },
+          {
+            "charIndex": 216706,
+            "context": "flooding, sea level rise, droughts, heat waves and wildfires potentially leading to increased insured losses. A continuation of these trends would also likely increase the risks of writing property insurance in coastal areas or areas susceptible to wildfires or flooding, or in areas susceptible to heavy wind events. The risk could be even greater in jurisdictions that restrict pricing and underwriting flexibility. We cannot predict how legal, regulatory or social responses to concerns about climate change may impact our business. Our pricing and capital models could be flawed. We use various"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 205390,
+            "context": "ying our critical accounting estimates, may make it more difficult to estimate loss reserves. Examples of inflation effects include adverse changes in the tort environment caused by more aggressive attorney involvement in insurance claims, increased litigation, expanded theories of liability, higher jury awards, lawsuit abuse and third-party litigation funding. Accordingly, our loss reserves for past periods could prove to be inadequate to cover our actual losses and related expenses. Any changes in these estimates are reflected in our results of operations during the period in which the chang"
+          },
+          {
+            "charIndex": 205484,
+            "context": "Examples of inflation effects include adverse changes in the tort environment caused by more aggressive attorney involvement in insurance claims, increased litigation, expanded theories of liability, higher jury awards, lawsuit abuse and third-party litigation funding. Accordingly, our loss reserves for past periods could prove to be inadequate to cover our actual losses and related expenses. Any changes in these estimates are reflected in our results of operations during the period in which the changes are made. An increase in our loss reserves would decrease earnings, while a decrease in our"
+          },
+          {
+            "charIndex": 219242,
+            "context": "w to maintain profitability. Legal trends in recent years have also made it more difficult to determine adequate pricing, including adverse changes in the tort environment caused by more aggressive attorney involvement in insurance claims, increased litigation, expanded theories of liability, higher jury awards, lawsuit abuse and third-party litigation funding. If rates are not accurate, we may not generate enough premiums to offset losses and expenses, or we may not be competitive in the marketplace. Cincinnati Global has additional risks due to its reliance on coverholders in underwriting pa"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 627801,
+            "context": "tion, results of operations and cash flows. The company and its subsidiaries also are occasionally involved in other legal and regulatory proceedings, some of which assert claims for substantial amounts. These actions include, among others, putative class actions seeking certification of state or national classes. The company's insurance subsidiaries also are occasionally parties to individual actions in which extra-contractual damages, punitive damages or penalties are sought, such as claims alleging bad faith handling of insurance claims or writing unauthorized coverage or claims alleging di"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 138284,
+            "context": "advantage because of the person-to-person approach and the resulting high level of service that our field claims representatives and Express Claims Center associates deliver. For field claims representatives handling excess and surplus lines claims, guidance is provided by headquarters-based excess and surplus lines claims managers. Claims may be reported directly to us by calling our claims call center, online via our company website or through the MyCincinnati SM app using a mobile device. Catastrophe response teams are comprised of our experienced field claims representatives who have the a"
+          },
+          {
+            "charIndex": 175331,
+            "context": "orporate risk management program. When allocating cash to various asset classes, we consider market-based factors such as risk adjusted after-tax yields as well as internal measures based in part on insurance department regulations and rating agency guidance. Cincinnati Financial Corporation - 2025 10-K - Page 21 Table of Contents The fair value of our investment portfolio was $30.965 billion and $27.665 billion at year-end 2025 and 2024, respectively, as shown in the table below. The overall portfolio increased in fair value, including net purchases of securities in addition to an increase in"
+          },
+          {
+            "charIndex": 459884,
+            "context": "surance agreement. The proceeds of the issuance were deposited into a reinsurance trust account. The catastrophe bonds expire in January 2030. The reinsurance agreement meets the requirements to be accounted for as reinsurance in accordance with the guidance for reinsurance contracts. As of January 1, 2026, the table below shows the maximum reinsurance coverage percentage and the share we retain for a single event across each layer of our property catastrophe program, excluding losses from Cincinnati Re and Cincinnati Global. (Dollars in millions) Maximum percentage of loss covered by reinsura"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 132778,
+            "context": "bruary 20, 2026, our insurance subsidiaries continued to be highly rated. Insurer Financial Strength Ratings Rating agency Standard market property casualty insurance subsidiary Life insurance subsidiary Excess and surplus lines insurance subsidiary Outlook Rating Tier Rating Tier Rating Tier A.M. Best Company ambest.com A+ Superior 2 of 16 A+ Superior 2 of 16 A+ Superior 2 of 16 Stable Fitch Ratings fitchratings.com AA- Very Strong 4 of 21 AA- Very Strong 4 of 21 - - - Stable Moody's Investors Service moodys.com A1 Good 5 of 21 - - - - - - Stable S&P Global Ratings spratings.com A+ Strong 5 o"
+          },
+          {
+            "charIndex": 133236,
+            "context": "ng 4 of 21 - - - Stable Moody's Investors Service moodys.com A1 Good 5 of 21 - - - - - - Stable S&P Global Ratings spratings.com A+ Strong 5 of 21 A+ Strong 5 of 21 - - - Stable On October 2, 2025, Moody's affirmed its ratings, continuing its stable outlook. On September 3, 2025, Fitch upgraded its ratings to AA- from A+, revising its outlook to stable from positive. On February 13, 2025, A.M. Best affirmed its ratings, continuing its stable outlook. On June 4, 2024, S&P affirmed its ratings, continuing its stable outlook. Cincinnati Financial Corporation - 2025 10-K - Page 9 Table of Contents"
+          },
+          {
+            "charIndex": 133323,
+            "context": "- Stable S&P Global Ratings spratings.com A+ Strong 5 of 21 A+ Strong 5 of 21 - - - Stable On October 2, 2025, Moody's affirmed its ratings, continuing its stable outlook. On September 3, 2025, Fitch upgraded its ratings to AA- from A+, revising its outlook to stable from positive. On February 13, 2025, A.M. Best affirmed its ratings, continuing its stable outlook. On June 4, 2024, S&P affirmed its ratings, continuing its stable outlook. Cincinnati Financial Corporation - 2025 10-K - Page 9 Table of Contents Operating Structure We offer our broad array of insurance products through the indepen"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 310725,
+            "context": "s. The reserve balance was $138 million, or 4.6%, of total life policy and investment contract reserves at December 31, 2025, and is included as a component of universal life reserves in Item 8, Note 5 of the Consolidated Financial Statements. Asset Impairment Our investment portfolio is our largest asset. We monitor the fixed-maturity portfolio and all other assets for signs of credit-related or other impairment. We monitor decreases in the fair value of invested assets and the need for an allowance for credit losses for our fixed-maturity portfolio; allowances for expected credit losses on r"
+          },
+          {
+            "charIndex": 310881,
+            "context": "of universal life reserves in Item 8, Note 5 of the Consolidated Financial Statements. Asset Impairment Our investment portfolio is our largest asset. We monitor the fixed-maturity portfolio and all other assets for signs of credit-related or other impairment. We monitor decreases in the fair value of invested assets and the need for an allowance for credit losses for our fixed-maturity portfolio; allowances for expected credit losses on receivable and recoverable assets considering past events, current conditions and reasonable and supportable forecasts; an accumulation of company costs in e"
+          },
+          {
+            "charIndex": 311573,
+            "context": "uch as bankruptcy, deterioration of creditworthiness or failure to pay interest; and changes in legal factors or in the business climate. Cincinnati Financial Corporation - 2025 10-K - Page 54 Table of Contents The application of our invested assets impairment policy resulted in no write-downs of impaired securities intended to be sold in 2025 or 2024. Write-downs of impaired securities intended to be sold reduced our income before income taxes by $4 million in 2023. Write-downs represent noncash charges to income and are reported as investment losses. The application of our noninvested assets"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 130396,
+            "context": "Corporation - 2025 10-K - Page 8 Table of Contents At year-end 2025 and 2024, risk-based capital (RBC) for our standard market property casualty insurance, excess and surplus lines insurance and life insurance subsidiaries was strong, far exceeding regulatory requirements. &#8226; We ended 2025 with a 1.0-to-1 ratio of property casualty premiums to surplus, a key measure of property casualty insurance company capacity and security. A lower ratio indicates more security for policyholders and greater capacity for growth by an insurer. We believe our ratio provides ample flexibility to diversify"
+          },
+          {
+            "charIndex": 156560,
+            "context": "rofessional liability and most umbrella liability coverages within multi-year packages are rated at each of the policy's annual anniversaries for the next one-year period. The annual pricing could incorporate rate changes approved by state insurance regulatory authorities between the date the policy was written and its annual anniversary date, as well as changes in risk exposures and premium credits or debits relating to loss experience and other underwriting judgment factors. We estimate that approximately 75% of 2025 commercial premiums were subject to annual rating or were written on a one-"
+          },
+          {
+            "charIndex": 188958,
+            "context": "cinnati Specialty Underwriters Insurance Company, which is domiciled in the state of Delaware. Each domestic insurance subsidiary is primarily governed by the insurance laws and regulations in its respective state of domicile. We also are subject to regulatory authorities of all states in which we write insurance. The state laws and regulations that have the most significant effect on our insurance operations and financial reporting are discussed below. &#8226; Insurance Holding Company Regulation &#8211; We are regulated as an insurance holding company system in the respective states of domic"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 16605,
+            "context": "cturedFinanceMember 2024-12-31 0000020286 us-gaap:DeferredFixedAnnuityMember cinf:InvestmentcontractreservesMember 2025-12-31 0000020286 us-gaap:DeferredFixedAnnuityMember cinf:InvestmentcontractreservesMember 2024-12-31 0000020286 us-gaap:StructuredSettlementAnnuityMember cinf:InvestmentcontractreservesMember 2025-12-31 0000020286 us-gaap:StructuredSettlementAnnuityMember cinf:InvestmentcontractreservesMember 2024-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2024-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2023-12-31 0000020286 us"
+          },
+          {
+            "charIndex": 16707,
+            "context": "servesMember 2025-12-31 0000020286 us-gaap:DeferredFixedAnnuityMember cinf:InvestmentcontractreservesMember 2024-12-31 0000020286 us-gaap:StructuredSettlementAnnuityMember cinf:InvestmentcontractreservesMember 2025-12-31 0000020286 us-gaap:StructuredSettlementAnnuityMember cinf:InvestmentcontractreservesMember 2024-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2024-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2023-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2022-12-31 0000020286 us-gaap:PropertyLiabili"
+          },
+          {
+            "charIndex": 124460,
+            "context": "that specialize in reinsurance. Cincinnati Global markets its business through brokers and coverholders. Coverholders are entities that can be authorized by a Lloyd's syndicate to underwrite policies, manage risks, collect premiums or arrange claims settlements up to agreed upon limits. The table below includes data about property casualty agency relationships that market our standard market insurance products. It does not include Lloyd's brokers or coverholders that source business for Cincinnati Global. Agency Data Years ended December 31, 2025 2024 Property casualty agency relationships, Ja"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 16807,
+            "context": "sMember 2024-12-31 0000020286 us-gaap:StructuredSettlementAnnuityMember cinf:InvestmentcontractreservesMember 2025-12-31 0000020286 us-gaap:StructuredSettlementAnnuityMember cinf:InvestmentcontractreservesMember 2024-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2024-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2023-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2022-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2025-01-01 2025-12-31 0000020286 us-gaap:PropertyLiabilityAndCas"
+          },
+          {
+            "charIndex": 16888,
+            "context": "stmentcontractreservesMember 2025-12-31 0000020286 us-gaap:StructuredSettlementAnnuityMember cinf:InvestmentcontractreservesMember 2024-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2024-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2023-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2022-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2025-01-01 2025-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2024-01-01 2024-12-31 0000020286 us-gaap:PropertyLiab"
+          },
+          {
+            "charIndex": 16969,
+            "context": "nuityMember cinf:InvestmentcontractreservesMember 2024-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2024-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2023-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2022-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2025-01-01 2025-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2024-01-01 2024-12-31 0000020286 us-gaap:PropertyLiabilityAndCasualtyInsuranceSegmentMember 2023-01-01 2023-12-31 0000020286 us-gaap:P"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "Revenues",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 4274000000,
+          "accn": "0000020286-26-000045",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-27",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 7137000000,
+          "accn": "0000020286-26-000045",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-27"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 2863000000,
+          "accn": "0000020286-26-000026",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-27",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 12631000000,
+          "accn": "0000020286-26-000008",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-23",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 3726000000,
+          "accn": "0000020286-25-000062",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-27",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 9540000000,
+          "accn": "0000020286-25-000062",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-27"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 3248000000,
+          "accn": "0000020286-26-000045",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-27",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 3248000000,
+          "accn": "0000020286-25-000045",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-28"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 8.05,
+          "accn": "0000020286-26-000045",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-27",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 9.78,
+          "accn": "0000020286-26-000045",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-27"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 1.75,
+          "accn": "0000020286-26-000026",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-27",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 15.17,
+          "accn": "0000020286-26-000008",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-23",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 7.11,
+          "accn": "0000020286-25-000062",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-27",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 10.88,
+          "accn": "0000020286-25-000062",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-27"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 4.34,
+          "accn": "0000020286-26-000045",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-27",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 4.34,
+          "accn": "0000020286-25-000045",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-28"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 1255000000,
+          "accn": "0000020286-26-000045",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-27",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 1529000000,
+          "accn": "0000020286-26-000045",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-27"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 274000000,
+          "accn": "0000020286-26-000026",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-27",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 2393000000,
+          "accn": "0000020286-26-000008",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-23",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 1122000000,
+          "accn": "0000020286-25-000062",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-27",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 1717000000,
+          "accn": "0000020286-25-000062",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-27"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 685000000,
+          "accn": "0000020286-26-000045",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-27",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 685000000,
+          "accn": "0000020286-25-000045",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-28"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": null,
+      "points": []
+    }
+  },
+  "companyMetrics": {
+    "ticker": "CINF",
+    "name": "CINCINNATI FINANCIAL CORP",
+    "sector": "Fire, Marine & Casualty Insurance",
+    "pe": 8.2,
+    "pb": 1.6,
+    "ret3m": 7.2879,
+    "ret6m": 6.1157,
+    "roe": 14.35,
+    "debtEquity": 0.003,
+    "revenueGrowth": 11.41,
+    "epsGrowth": 4.4,
+    "fcfGrowth": 17.7,
+    "operatingMargin": null,
+    "marginTrend": null,
+    "sentiment": 0.172,
+    "analyst": 65.6,
+    "beta": 0.5311547
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "CINF Outperforms Industry: What Should Investors Do Now?",
+        "url": "https://finnhub.io/api/news?id=e6e45e66758c242c5c1db204ec82b0cf14161819b5f868c8e4b26de21a950068",
+        "source": "Yahoo",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "Allstate Q2 Earnings Beat Estimates on Higher Investment Income",
+        "url": "https://finnhub.io/api/news?id=02f449437b17770e26ef8146f16538380df4ca80789c601678411286df6a2dfc",
+        "source": "Yahoo",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "MCY Q2 Earnings Beat on Better Underwriting and Premium Growth",
+        "url": "https://finnhub.io/api/news?id=ae87392cae0b81c4d93e46c517c9be13f9894cefd0e0decbe6d6af91c155d19e",
+        "source": "Yahoo",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "Keefe, Bruyette & Woods Maintains Market Perform on Cincinnati Financial, Lowers Price Target to $190",
+        "url": "https://finnhub.io/api/news?id=b6e7012567a137736935765f7624822be15033b23605b7faebc0bebd08b36efb",
+        "source": "Benzinga",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "CNA Financial Q2 Review: Back To Profitability, Still A Hold",
+        "url": "https://finnhub.io/api/news?id=18349f66bb521b7036de51649a08a7a3c364d00e8dc7e2509c3c36d424af83aa",
+        "source": "SeekingAlpha",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "5 Insightful Analyst Questions From Cincinnati Financial’s Q2 Earnings Call",
+        "url": "https://finnhub.io/api/news?id=d3a87b087d50603addb1ba0cd301c0323b68316261e405107d50fe145b472787",
+        "source": "Yahoo",
+        "date": "2026-08-03"
+      }
+    ],
+    "cachedAt": "2026-08-11T05:46:12.383Z"
+  }
+}

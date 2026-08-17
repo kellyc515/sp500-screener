@@ -1,0 +1,63 @@
+{
+  "ticker": "LULU",
+  "companyName": "lululemon athletica inc.",
+  "researchedAt": "2026-08-12T02:10:00.000Z",
+  "researchMethod": "Phase 6 operational layer - filings fetched/extracted programmatically (research.js), analysis performed directly by Claude Code reading the extracted material, not by an automated LLM API call. Every factual claim below cites a specific source in the sources[] list.",
+  "filingsUsed": [
+    { "form": "10-Q", "filingDate": "2026-06-04", "reportDate": "2026-05-03", "url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718726000078/lulu-20260503.htm" },
+    { "form": "10-K", "filingDate": "2026-03-17", "reportDate": "2026-02-01", "url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718726000020/lulu-20260201.htm" }
+  ],
+  "quantContext": {
+    "note": "From this project's own scoring pipeline (companies.json + screener.js, Phases 1-5/7), included for reference only - not itself a research source.",
+    "pe": 10.32, "pb": 3.17, "roe": 32.73, "debtEquity": 0,
+    "sentiment": 0.444, "analystScore": 46.3, "beta": 0.91164774, "ret3m": -4.3342, "ret6m": -25.5115
+  },
+  "questions": {
+    "whyCheapBearCase": {
+      "answer": "LULU trades at a low P/E (10.32) despite a strong ROE (32.73%) and zero disclosed debt/equity [source: 1], and the filings supply a concrete, quantified bear case rather than leaving the discount unexplained. Tariffs: the 10-K states the unmitigated impact of increased U.S. tariffs and the removal of the de minimis import exemption reduced FY2025 gross profit by approximately $275 million, and management explicitly says it expects 'continued decline in our gross margin and operating margin in 2026' [source: 2]. That is already showing up: Q1 FY2026 operating income fell to $276.9 million from $438.6 million in Q1 FY2025 (-36.9%), and net income fell to $195.0 million from $314.6 million (-38.0%) [source: 4, cross-checked against source 5]. Segment weakness: Americas net revenue (about 70% of total) decreased 1% in FY2025 and comparable sales fell 3%, driven by lower conversion, traffic, and average order value [source: 2]. Leadership uncertainty: the former CEO stepped down effective January 31, 2026; interim co-CEOs led the company until a new CEO, Heidi O'Neill, was appointed (announced April 21, 2026, effective September 8, 2026) [source: 3]. Litigation overhang: an existing securities class action (Patel v. Lululemon Athletica Inc., filed August 2024, amended complaint March 2025) plus a newer tariff-pricing consumer class action (Neuman v. Lululemon USA Inc., filed March 27, 2026) are both active [source: 4]. The -25.5% six-month stock decline [source: 1] is consistent with the market pricing in a real, filing-documented, still-unfolding earnings headwind rather than simple overreaction.",
+      "sourceRefs": [1, 2, 3, 4]
+    },
+    "revenueEpsTrend": {
+      "answer": "Mixed but net deteriorating: revenue is still growing, but profitability is falling and the decline is accelerating in the most recent quarter. FY2025 net revenue grew 5% to $11,102.6 million (from $10,588.1 million in FY2024), but diluted EPS fell 9% to $13.26 (from $14.64) and net income fell 13% to $1,579.2 million (from $1,814.6 million) [source: 2]. In Q1 FY2026 (per XBRL and the 10-Q's Notes), revenue grew a modest 4.3% to $2,471.6 million (from $2,370.7 million in Q1 FY2025), but operating income fell 36.9% to $276.9 million (from $438.6 million) and net income fell 38.0% to $195.0 million (from $314.6 million) - a materially worse profitability decline than the FY2025 full-year rate [source: 4, 5].",
+      "direction": "mixed_revenue_growing_earnings_declining",
+      "sourceRefs": [2, 4, 5]
+    },
+    "marginTrend": {
+      "answer": "Deteriorating, and the deterioration is accelerating. FY2025 gross margin fell 260 basis points to 56.6% (from 59.2%) and operating margin fell 380 basis points to 19.9% (from 23.7%), which the 10-K attributes mainly to tariffs and the removal of the de minimis import exemption [source: 2]. That pace worsened in Q1 FY2026: operating margin was 11.2% (operating income $276.9 million / revenue $2,471.6 million) versus 18.5% in Q1 FY2025 ($438.6 million / $2,370.7 million) - roughly a 730-basis-point year-over-year compression in a single quarter [source: 4, 5], well beyond the FY2025 full-year pace of decline.",
+      "direction": "deteriorating_and_accelerating",
+      "sourceRefs": [2, 4, 5]
+    },
+    "guidanceChange": {
+      "answer": "The 10-K contains explicit, company-issued qualitative (non-numeric) forward guidance: management states it does 'not expect these actions to fully offset these incremental costs, and we believe tariffs and de minimis changes will continue to adversely affect gross margin and income from operations in 2026' - i.e., an explicit warning of continued margin decline for the current fiscal year, not a resolved, one-time hit [source: 2]. No quantified FY2026 revenue or EPS range was located in the extracted text.",
+      "sourceRefs": [2]
+    },
+    "catalysts": [
+      { "text": "Incoming CEO Heidi O'Neill (effective September 8, 2026) could accelerate the Americas turnaround plan already underway, built around three stated pillars - Product Creation, Product Activation, and Enterprise Efficiency - including reducing markdown rates and speeding time-to-market for new styles.", "sourceRefs": [2, 3] },
+      { "text": "International growth remains genuinely strong and is offsetting Americas weakness: FY2025 China Mainland revenue grew 29% and comparable sales grew 20%; Rest of World revenue grew 16% and comparable sales grew 9%.", "sourceRefs": [2] },
+      { "text": "Active, expanding capital return: $1.2 billion of shares repurchased in FY2025 plus a $1.0 billion increase to the buyback authorization approved by the board in December 2025, and continued repurchases in Q1 FY2026 (about $362 million), which supports per-share metrics even as absolute earnings decline.", "sourceRefs": [2, 4] },
+      { "text": "Notable value-investor interest and a bullish sell-side thesis appeared in cached news the same week: 'Michael Burry Is Buying Lululemon (LULU) and MercadoLibre (MELI)' and 'lululemon: International Growth, Execution Improvements And Low Valuation.'", "sourceRefs": [6, 7] }
+    ],
+    "risks": [
+      { "text": "Company-stated expectation of continued gross-margin and operating-margin decline through 2026 due to tariffs and the de minimis exemption removal - not a one-time, already-absorbed hit.", "sourceRefs": [2] },
+      { "text": "Q1 FY2026 results already show the profitability decline accelerating well beyond the FY2025 pace (operating income -37%, net income -38% YoY).", "sourceRefs": [4, 5] },
+      { "text": "CEO transition risk: leadership uncertainty since January 2026, with an incoming CEO who has not yet started (effective September 8, 2026) and is unproven in the role.", "sourceRefs": [3] },
+      { "text": "Two active class actions - a securities class action (Patel v. Lululemon) and a newer tariff-pricing consumer class action (Neuman v. Lululemon USA) - plus stayed derivative actions pending resolution of the securities case.", "sourceRefs": [4] }
+    ],
+    "verdict": {
+      "classification": "opportunity_with_real_structural_risk",
+      "confidence": "medium",
+      "reasoning": "The filing evidence shows a real, well-documented, company-acknowledged structural headwind - tariffs and de minimis exemption removal that management itself says will continue pressuring margins through 2026, layered on genuine Americas demand softness - so this is not simply a cheap stock the market is wrong about. At the same time, international growth remains strong (China Mainland +29% revenue), absolute margins remain healthy even after compression (19.9% operating margin in FY2025), the balance sheet carries no disclosed debt, buybacks are actively shrinking the share count, and a new CEO is arriving with a turnaround plan already in motion. Given the magnitude and multi-quarter persistence of the tariff/Americas headwind (accelerating into Q1 FY2026) combined with real CEO-transition uncertainty, confidence is medium rather than higher - this looks like a genuine opportunity only if the incoming CEO can execute the stated turnaround plan faster than tariffs erode margins.",
+      "sourceRefs": [1, 2, 3, 4]
+    }
+  },
+  "sources": [
+    { "id": 1, "type": "internal-quant-data", "description": "companies.json / screener.js output for LULU (pe, pb, roe, debtEquity, sentiment, analyst, beta, ret3m, ret6m) as of the current screener-report.html generation", "url": null, "date": "2026-08-11" },
+    { "id": 2, "type": "10-K MD&A", "description": "lululemon athletica inc. FY2025 Form 10-K, Management's Discussion and Analysis - Overview, Financial Highlights, Import Tariffs section, and Results of Operations (2025 vs 2024)", "url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718726000020/lulu-20260201.htm", "date": "2026-03-17" },
+    { "id": 3, "type": "10-Q Risk Factors", "description": "lululemon athletica inc. Q1 FY2026 Form 10-Q, Risk Factors - CEO transition disclosure (former CEO stepped down Jan 31, 2026; Heidi O'Neill appointed CEO effective Sept 8, 2026)", "url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718726000078/lulu-20260503.htm", "date": "2026-06-04" },
+    { "id": 4, "type": "10-Q Notes to Financial Statements / Legal Proceedings", "description": "lululemon athletica inc. Q1 FY2026 Form 10-Q, Legal Proceedings note (Patel securities class action, Derivative Actions, Neuman tariff-related consumer class action, IEEPA tariff background) and Statement of Stockholders' Equity (Q1 FY2026 vs Q1 FY2025 net income and share repurchases)", "url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718726000078/lulu-20260503.htm", "date": "2026-06-04" },
+    { "id": 5, "type": "SEC XBRL companyfacts", "description": "Multi-period RevenueFromContractWithCustomerExcludingAssessedTax, EarningsPerShareDiluted, NetIncomeLoss, and OperatingIncomeLoss figures, CIK 0001397187, used to cross-check the Q1 FY2026 vs Q1 FY2025 figures", "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001397187.json", "date": "2026-08-12 (retrieved)" },
+    { "id": 6, "type": "cached news headline (Yahoo via Finnhub)", "description": "'Michael Burry Is Buying Lululemon (LULU) and MercadoLibre (MELI). Should You?' - headline only, article content not fetched", "url": "https://finnhub.io/api/news?id=174bec34ea4494cdf7eb4178f89433692c5dbfc4b214926f9b5d1724c6e4be8e", "date": "2026-08-10" },
+    { "id": 7, "type": "cached news headline (SeekingAlpha via Finnhub)", "description": "'lululemon: International Growth, Execution Improvements And Low Valuation' - headline only, article content not fetched", "url": "https://finnhub.io/api/news?id=098f1d1d693e62e1183b65e2b8b9cd35819ceaa3443eb7c2a8f257fe29e05125", "date": "2026-08-10" }
+  ],
+  "sourcingNote": "The Q1 FY2026 net income and operating income figures cited above are drawn from the 10-Q's Statement of Stockholders' Equity and Notes (located via keyword-in-context extraction) and cross-checked against the XBRL companyfacts data, since the pipeline's matched 10-Q 'MD&A' heading captured only a store-location table rather than the results narrative. Cached headlines not specific to LULU ('Are International Logistics Improvements Paying Off for NIKE?', 'Under Armour stock drops', a Fed-rate-hike piece, and an eBay/Depop resale piece) were reviewed but not cited."
+}

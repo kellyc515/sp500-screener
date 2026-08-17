@@ -1,0 +1,668 @@
+{
+  "ticker": "CMCSA",
+  "entityName": "COMCAST CORP",
+  "cik": "0001166691",
+  "generatedAt": "2026-08-12T01:37:26.111Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-07-23",
+        "reportDate": "2026-06-30",
+        "accessionNumber": "0001628280-26-049360",
+        "primaryDocument": "cmcsa-20260630.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049360/cmcsa-20260630.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049360/"
+      },
+      "textLength": 160369,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations in our 2025 Annual Report on Form 10-K. 35 Table of Contents ITEM 3: QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK We have evaluated the information required under this item that was disclosed in our 2025 Annual Report on Form 10-K and there have been no material changes to this information. ITEM 4: CONTROLS AND PROCEDURES Conclusions regarding disclosure controls and procedures Our principal executive and principal financial officers, after evaluating the effectiveness of our disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) as of the end of the period covered by this report, have concluded that, based on the evaluation of these controls and procedures required by paragraph (b) of Exchange Act Rules 13a-15 or 15d-15, such disclosure controls and procedures were effective. Changes in internal control over financial reporting There were no changes in internal control over financial reporting identified in connection with the evaluation required by paragraph (d) of Exchange Act Rules 13a-15 or 15d-15 that occurred during the last fiscal quarter that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 36 Table of Contents PART II: OTHER INFORMATION ITEM 1:",
+        "charRange": [
+          154093,
+          155476
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "RISK FACTORS We are subject to risks related to our intention to separate into two independent publicly traded companies through a tax-free spin-off of NBCUniversal and Sky. In June 2026, we announced our intention to separate into two independent publicly traded companies through a tax-free spin-off of NBCUniversal and Sky to better position each company to pursue its own strategic priorities, invest for growth and create long-term shareholder value as independent entities. The NBCUniversal Spin-off will be subject to the satisfaction of customary conditions, including obtaining final approval by our Board of Directors, receipt of tax opinions and regulatory approvals, and completion of financing arrangements. The failure to satisfy all of the required conditions, as well as additional factors such as conditions in the equity and debt markets and other external conditions, could delay completion of the NBCUniversal Spin-off relative to our expected timeline or prevent it from occurring at all. There is no guarantee that the NBCUniversal Spin-off, if completed, will be successful in meeting its objectives or achieving its intended benefits. Because completion of the NBCUniversal Spin-off will result in two companies that are smaller, each company will incur separate ongoing costs that may be shared today and may become more vulnerable to changing market conditions, which could adversely affect their respective businesses, financial condition and results of operations. In addition, we cannot predict whether the market value of our Class A common stock and the Class A common stock of NBCUniversal after the NBCUniversal Spin-off will be, in the aggregate, less than, equal to or greater than the market value of our Class A common stock prior to the NBCUniversal Spin-off. In addition, although we intend for the NBCUniversal Spin-off to be tax-free to our shareholders for U.S. federal income tax purposes, there can be no assurance that the NBCUniversal Spin-off will qualify as tax-free and, if the NBCUniversal Spin-off is ultimately determined to be taxable, we and/or holders of our common stock could be subject to substantial U.S. and/or applicable non-U.S. taxes as a result, and we could incur significant liabilities under applicable law. ITEM 2:",
+        "charRange": [
+          155601,
+          157884
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 32601,
+            "context": "ge calculations may exist due to rounding. CAUTION CONCERNING FORWARD-LOOKING STATEMENTS This Quarterly Report on Form 10-Q includes statements that may constitute &#8220;forward-looking statements&#8221; within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements are not historical facts or statements of current conditions, but instead represent only our beliefs regarding future events, many of which, by their nature, are inherently uncertain and outsid"
+          },
+          {
+            "charIndex": 37256,
+            "context": "/or holders of our common stock could be subject to significant tax liability &#8226; we are subject to regulation by federal, state, local and foreign authorities, which impose additional costs and restrictions on our businesses &#8226; unfavorable litigation or governmental investigation results could require us to pay significant amounts or lead to onerous operating procedures &#8226; our Class B common stock has substantial voting rights and separate approval rights over several potentially material transactions, and our Chairman and Co-CEO has considerable influence over our company throu"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 50482,
+            "context": "of segment operating results. See Note 3 for a discussion of the changes in our presentation of disaggregated revenue. Recent Accounting Pronouncements Disaggregation of Income Statement Expenses In November 2024, the FASB issued updated accounting guidance related to disclosures about certain costs and expenses. The updated accounting guidance, among other things, requires quantitative disclosures for employee compensation, selling expenses and purchases of inventory. The updated guidance is effective beginning with our Annual Report on Form 10-K for the year ending December 31, 2027. We are"
+          },
+          {
+            "charIndex": 50571,
+            "context": "tion of disaggregated revenue. Recent Accounting Pronouncements Disaggregation of Income Statement Expenses In November 2024, the FASB issued updated accounting guidance related to disclosures about certain costs and expenses. The updated accounting guidance, among other things, requires quantitative disclosures for employee compensation, selling expenses and purchases of inventory. The updated guidance is effective beginning with our Annual Report on Form 10-K for the year ending December 31, 2027. We are currently evaluating the impact the adoption of the new accounting guidance will have on"
+          },
+          {
+            "charIndex": 50719,
+            "context": "d accounting guidance related to disclosures about certain costs and expenses. The updated accounting guidance, among other things, requires quantitative disclosures for employee compensation, selling expenses and purchases of inventory. The updated guidance is effective beginning with our Annual Report on Form 10-K for the year ending December 31, 2027. We are currently evaluating the impact the adoption of the new accounting guidance will have on our disclosures. Internal-Use Software In September 2025, the FASB updated the accounting guidance related to internal-use software. The updated gu"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 74973,
+            "context": "June 30, 2026 are presented in the table below. (in billions) Residential Connectivity & Platforms Business Services Connectivity Media Studios Theme Parks Total Balance, December 31, 2025 Goodwill $ 36.0 $ 3.4 $ 22.4 $ 3.7 $ 5.0 $ 70.6 Accumulated impairment losses ( 6.7 ) — ( 2.4 ) — — ( 9.0 ) $ 29.3 $ 3.4 $ 20.1 $ 3.7 $ 5.0 $ 61.5 Versant Separation (see Note 6) — — ( 7.7 ) — — ( 7.7 ) Foreign currency translation and other ( 0.4 ) — ( 0.1 ) — ( 0.1 ) ( 0.7 ) Balance, June 30, 2026 Goodwill $ 35.4 $ 3.4 $ 13.7 $ 3.7 $ 4.9 $ 61.0 Accumulated impairment losses ( 6.5 ) — ( 1.4 ) — — ( 7.9 ) $"
+          },
+          {
+            "charIndex": 75274,
+            "context": "9.3 $ 3.4 $ 20.1 $ 3.7 $ 5.0 $ 61.5 Versant Separation (see Note 6) — — ( 7.7 ) — — ( 7.7 ) Foreign currency translation and other ( 0.4 ) — ( 0.1 ) — ( 0.1 ) ( 0.7 ) Balance, June 30, 2026 Goodwill $ 35.4 $ 3.4 $ 13.7 $ 3.7 $ 4.9 $ 61.0 Accumulated impairment losses ( 6.5 ) — ( 1.4 ) — — ( 7.9 ) $ 28.9 $ 3.4 $ 12.2 $ 3.7 $ 4.9 $ 53.1 Intangible Assets In connection with the Versant Separation, customer relationships decreased by a gross carrying amount of $ 9.0 billion and related accumulated amortization of $ 7.9 billion and other agreements and rights decreased by a gross carrying amount of"
+          },
+          {
+            "charIndex": 87296,
+            "context": "iation and amortization expense decreased for the three months ended June 30, 2026 compared to the same period in 2025 primarily due to lower amortization of customer relationships and other agreements and rights due to the Versant Separation and an impairment of certain long-lived assets in the prior year period. 18 Table of Contents Consolidated depreciation and amortization expense decreased for the six months ended June 30, 2026 compared to the same period in 2025 primarily due to lower amortization of customer relationships and other agreements and rights due to the Versant Separation, pa"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 48589,
+            "context": "forms and Business Services segments. The NBCUniversal Spin-off is expected to be completed in mid-2027, subject to the satisfaction of customary conditions, including obtaining final approval from our Board of Directors, receipt of tax opinions and regulatory approvals, and completion of financing arrangements. We expect to retain an ownership interest of up to 19.9 % in the NBCUniversal Spin-off entities for up to one year after the completion of the spin-off, which we intend to monetize in a tax-efficient manner over time. There can be no assurance that a separation transaction will occur,"
+          },
+          {
+            "charIndex": 60723,
+            "context": "includes: Residential Connectivity & Platforms and Business Services Connectivity: technical and support expenses; direct product costs; marketing and promotion expenses; customer service expenses; administrative personnel costs; franchise and other regulatory fees; fees paid to third parties where we are acting as the principal in the advertising representation arrangement; bad debt; and other business, headquarters and support costs, including building and office expenses, taxes and billing costs necessary to operate the Residential Connectivity & Platforms and Business Services Connectivity"
+          },
+          {
+            "charIndex": 99442,
+            "context": "offerings. (e) Customer service expenses primarily consist of the personnel and other costs associated with customer service and certain selling activities. (f) Other expenses primarily consist of administrative personnel costs; franchise and other regulatory fees; fees paid to third parties where we are acting as the principal in the advertising representation arrangement; bad debt; building and office expenses, taxes and billing costs; and other business, headquarters and support costs necessary to operate the Connectivity & Platforms business. (g) Constant currency is a non-GAAP financial"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 129824,
+            "context": "rges related to fixed and intangible assets and gains or losses on the sale of long-lived assets), if any. From time to time, we may exclude from Adjusted EBITDA the impact of certain events, gains, losses or other charges (such as significant legal settlements) that affect the period-to-period comparability of our operating performance. We reconcile consolidated Adjusted EBITDA to net income attributable to Comcast Corporation. This measure should not be considered a substitute for operating income (loss), net income (loss), net income (loss) attributable to Comcast Corporation, or net cash p"
+          },
+          {
+            "charIndex": 132007,
+            "context": "re excluded from Adjusted EBITDA. The three and six months ended June 30, 2026 include certain share-based compensation expenses and costs related to our investment portfolio. The six months ended June 30, 2026 also include a gain related to a legal settlement. The three and six months ended June 30, 2025 include costs related to our investment portfolio. Constant Currency Constant currency and constant currency growth rates are non-GAAP financial measures that present our results of operations excluding the estimated effects of foreign currency exchange rate fluctuations. Certain of our busin"
+          },
+          {
+            "charIndex": 139999,
+            "context": "ears, with variability across the years, primarily due to additional depreciation deductions. Proceeds from investments and other decreased for the six months ended June 30, 2026 compared to the same period in 2025 primarily due to a gain on a legal settlement in the current year period, with the related proceeds included in investing activities. Investing Activities Net cash used in investing activities decreased for the six months ended June 30, 2026 compared to the same period in 2025 primarily due to the acquisition of Nitel in 2025, the purchase of an equity method investment in the prior"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 37074,
+            "context": "involving employees or sports organizations, may disrupt our operations and adversely affect our businesses &#8226; if the Versant Separation does not qualify as non-taxable, we and/or holders of our common stock could be subject to significant tax liability &#8226; we are subject to regulation by federal, state, local and foreign authorities, which impose additional costs and restrictions on our businesses &#8226; unfavorable litigation or governmental investigation results could require us to pay significant amounts or lead to onerous operating procedures &#8226; our Class B common stock ha"
+          },
+          {
+            "charIndex": 79491,
+            "context": "the purchase of third-party transferable tax credits. Noncash Activities During the six months ended June 30, 2026: &#8226; we acquired $ 2.1 billion of property and equipment and intangible assets that were accrued but unpaid &#8226; we recorded a liability of $ 1.2 billion for a quarterly cash dividend of $ 0.33 per common share paid in July 2026 During the six months ended June 30, 2025: &#8226; we acquired $ 2.0 billion of property and equipment and intangible assets that were accrued but unpaid &#8226; we recorded a liability of $ 1.2 billion for a quarterly cash dividend of $ 0.33 per c"
+          },
+          {
+            "charIndex": 79769,
+            "context": "or a quarterly cash dividend of $ 0.33 per common share paid in July 2026 During the six months ended June 30, 2025: &#8226; we acquired $ 2.0 billion of property and equipment and intangible assets that were accrued but unpaid &#8226; we recorded a liability of $ 1.2 billion for a quarterly cash dividend of $ 0.33 per common share paid in July 2025 15 Table of Contents Comcast Corporation Cash, Cash Equivalents and Restricted Cash The following table provides a reconciliation of cash, cash equivalents and restricted cash reported in the condensed consolidated balance sheets to the total of th"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-02-03",
+        "reportDate": "2025-12-31",
+        "accessionNumber": "0001628280-26-004994",
+        "primaryDocument": "cmcsa-20251231.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026004994/cmcsa-20251231.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026004994/"
+      },
+      "textLength": 434352,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations for additional information. Comcast 2025 Annual Report on Form 10-K 32 Table of Contents 2025 Developments Connectivity & Platforms (a) Content & Experiences (a)(b) (a) Revenue and Adjusted EBITDA charts are not presented on the same scale. (b) Segment details in the charts exclude the results of Content & Experiences Headquarters and Other and Eliminations and therefore the amounts do not equal the total. Residential Connectivity & Platforms Media &#8226; Revenue decreased due to decreases in video, other and advertising revenue, partially offset by increases in domestic wireless and international connectivity revenue. &#8226; Adjusted EBITDA decreased primarily due to a decrease in revenue and an increase in other costs and expenses, partially offset by a decrease in programming expenses. &#8226; Adjusted EBITDA margin decreased from 38.2% to 37.7%. Business Services Connectivity &#8226; Revenue increased due to an increase in revenue from enterprise solutions offerings and small business customers. &#8226; Adjusted EBITDA increased due to an increase in revenue, partially offset by increased costs and expenses. &#8226; Adjusted EBITDA margin decreased from 56.7% to 55.9%. Customer Metrics &#8226; Total customer relationships decreased by 967,000 to 50.8 million. &#8226; Domestic broadband customers decreased by 711,000 to 31.3 million. &#8226; Domestic wireless lines increased by 1.5 million to 9.3 million. &#8226; Domestic video customers decreased by 1.3 million to 11.3 million. &#8226; Domestic homes and businesses passed increased by 1.3 million to 65.0 million. Capital Expenditures &#8226; Total Connectivity & Platforms capital expenditures increased 5.3% to $8.7 billion, reflecting increased spending on customer premise equipment, scalable infrastructure and support capital. &#8226; Revenue decreased primarily due to the impact of the Paris Olympics in 2024. Excluding $1.9 billion of incremental revenue associated with this event, revenue increased due to increases in international networks, domestic distribution and other revenue, partially offset by a decrease in domestic advertising revenue. &#8226; Adjusted EBITDA increased primarily due to a decrease in programming and production costs driven by the Paris Olympics, partially offset by a decrease in revenue. &#8226; Peacock generated revenue and costs and expenses of $5.4 billion and $6.5 billion in 2025 , respectively, compared to $4.9 billion and $6.7 billion in 2024, respectively, including the Paris Olympics . Paid subscribers increased by 8 million to 44 million in 2025 . Studios &#8226; Revenue increased primarily due to an increase in content licensing, partially offset by a decrease in theatrical revenue. &#8226; Adjusted EBITDA decreased due to an increase in costs and expenses driven by marketing and promotion and programming and production, partially offset by an increase in revenue. Theme Parks &#8226; Revenue increased primarily due to an increase in revenue at our theme parks in Orlando, driven by the opening of Epic Universe in May 2025. &#8226; Adjusted EBITDA increased due to an increase in revenue, partially offset by an increase in costs and expenses. &#8226; Capital expenditures continued to reflect significant spending for the development of Epic Universe in Orlando ahead of its opening. 33 Comcast 2025 Annual Report on Form 10-K Table of Contents Other &#8226; Repurchased a total of 205 million shares of our Class A common stock for $6.8 billion in 2025 compared to a total of 212 million shares of our Class A common stock for $8.6 billion in 2024. Raised our dividend by $0.08 to $1.32 per share on an annualized basis in January 2025 and paid $4.9 billion of dividends in 2025. &#8226; In June 2025, we sold our interest in Hulu, at which time we recognized the sale of our interest with a pre-tax gain of $9.4 billion (see Note 8). &#8226; On January 2, 2026, we completed the Separation of Versant into an independent, publicly traded company and we made a pro rata distribution of 100% of the shares of Versant common stock to Comcast shareholders in which each Comcast shareholder received 1 share of Versant common stock for every 25 shares of Comcast common stock owned as of the close of business on December 16, 2025 (see Note 16). Consolidated Operating Results Year ended December 31 (in millions, except per share data) 2025 2024 Change 2024 to 2025 Revenue $ 123,707 $ 123,731 — % Costs and Expenses: Programming and production 34,951 37,026 (5.6) Marketing and promotion 8,862 8,073 9.8 Other operating and administrative 43,013 40,533 6.1 Depreciation 9,327 8,729 6.8 Amortization 6,884 6,072 13.4 Total costs and expenses 103,035 100,434 2.6 Operating income 20,672 23,297 (11.3) Interest expense (4,409) (4,134) 6.6 Investment and other income (loss), net 9,503 (490) NM Income before income taxes 25,766 18,673 38.0 Income tax expense (6,106) (2,796) 118.4 Net income 19,660 15,877 23.8 Less: Net income (loss) attributable to noncontrolling interests (338) (315) 7.3 Net income attributable to Comcast Corporation $ 19,998 $ 16,192 23.5 % Basic earnings per common share attributable to Comcast Corporation shareholders $ 5.41 $ 4.17 29.7 % Diluted earnings per common share attributable to Comcast Corporation shareholders $ 5.39 $ 4.14 30.1 % Weighted-average number of common shares outstanding - basic 3,699 3,885 (4.8) % Weighted average number of common shares outstanding - diluted 3,709 3,908 (5.1) % Adjusted EBITDA (a) $ 37,384 $ 38,069 (1.8) % Percentage changes that are considered not meaningful are denoted with NM. (a) Adjusted EBITDA is a non-GAAP financial measure. Refer to the &#8220;Non-GAAP Financial Measures&#8221; section on page 46 for additional information, including our definition and our use of Adjusted EBITDA, and for a reconciliation from net income attributable to Comcast Corporation to Adjusted EBITDA. Comcast 2025 Annual Report on Form 10-K 34 Table of Contents Consolidated Revenue The following graph illustrates the contributions to the change in consolidated revenue made by our Connectivity & Platforms and Content & Experiences businesses, as well as by Corporate and Other activities, including eliminations. (a) Graph is presented using a truncated scale. Revenue for our segments and other businesses is discussed separately below under the heading &#8220;Segment Operating Results.&#8221; Consolidated Costs and Expenses The following graph illustrates the contributions to the change in consolidated costs and expenses, excluding depreciation expense and amortization expense, made by our Connectivity & Platforms and Content & Experiences businesses, as well as by Corporate and Other activities, including adjustments and eliminations. The increase in adjustments in the current year is primarily driven by transaction and transaction-related costs associated with the Separation of Versant that are excluded from Adjusted EBITDA and our segment operating results. (a) Graph is presented using a truncated scale. Costs and expenses for our segments and our corporate operations and other businesses are discussed separately below under the heading &#8220;Segment Operating Results.&#8221; Consolidated depreciation and amortization expense increased in 2025 compared to 2024 primarily due to increased amortization of certain acquisition-related intangible assets related to the linear media business, increased depreciation due to the opening of Epic Universe in May 2025, impairments of certain long-lived assets in 2025 and the impact of foreign currency. Amortization expense from acquisition-related intangible assets totaled $3.3 billion and $2.7 billion in 2025 and 2024, respectively. Amounts primarily relate to customer relationship intangible assets recorded in connection with the NBCUniversal transaction in 2011 and the Sky transaction in 2018. 35 Comcast 2025 Annual Report on Form 10-K Table of Contents Consolidated interest expense increased in 2025 compared to 2024 primarily due to a decrease in capitalized interest driven by the opening of Epic Universe, as well as higher weighted-average interest rates in the current year. Consolidated investment and other income (loss), net increased in 2025 compared to 2024. Year ended December 31 (in millions) 2025 2024 Equity in net income (losses) of investees, net $ (591) $ (680) Realized and unrealized gains (losses) on equity securities, net (20) (313) Other income (loss), net 10,114 502 Total investment and other income (loss), net $ 9,503 $ (490) The change in equity in net income (losses) of investees, net in 2025 compared to 2024 was primarily due to our investments in Atairos and Hulu. The income (losses) at Atairos were driven by fair value adjustments on its underlying investments with income (loss) of $(377) million and $(474) million in 2025 and 2024, respectively. The change in realized and unrealized gains (losses) on equity securities, net in 2025 compared to 2024 was primarily due to a gain on the sale of a nonmarketable security in the current year and due to higher net unrealized losses on nonmarketable securities in the prior year. The change in other income (loss), net in 2025 compared to 2024 primarily resulted from a $9.4 billion pre-tax gain from the sale of our interest in Hulu in 2025 (see Note 8). Consolidated Income Tax Expense Our effective income tax rate in 2025 and 2024 was 23.7% and 15.0%, respectively. The increase in income tax expense in 2025 was primarily driven by a tax benefit in the prior year from an internal corporate reorganization completed in 2024 and higher domestic income before income taxes in the current year. See Note 5 for additional information on our income taxes. Consolidated Net Income (Loss) Attributable to Noncontrolling Interests The changes in net income (loss) attributable to noncontrolling interests in 2025 compared to 2024 were primarily due to our regional sports networks and Universal Beijing Resort. Comcast 2025 Annual Report on Form 10-K 36 Table of Contents Segment Operating Results Our segment operating results are presented based on how we assess operating performance and internally report financial information. See Note 2 for additional information on our segments. Connectivity & Platforms Overview 2024 to 2025 Year ended December 31 (in millions) 2025 2024 Change Constant Currency Change (b) Revenue Residential Connectivity & Platforms $ 70,704 $ 71,574 (1.2) % (1.9) % Business Services Connectivity 10,237 9,701 5.5 5.5 Total Connectivity & Platforms revenue $ 80,940 $ 81,275 (0.4) % (1.1) % Adjusted EBITDA Residential Connectivity & Platforms $ 26,653 $ 27,338 (2.5) % (2.8) % Business Services Connectivity 5,725 5,500 4.1 4.1 Total Connectivity & Platforms Adjusted EBITDA $ 32,377 $ 32,838 (1.4) % (1.6) % Adjusted EBITDA Margin (a) Residential Connectivity & Platforms 37.7 % 38.2 % (50) bps (30) bps Business Services Connectivity 55.9 56.7 (80) bps (80) bps Total Connectivity & Platforms Adjusted EBITDA margin 40.0 % 40.4 % (40) bps (20) bps (a) Our Adjusted EBITDA margin is Adjusted EBITDA as a percentage of revenue. We believe this metric is useful particularly as we continue to focus on growing our higher-margin businesses and improving overall operating cost management. The changes reflect the year-over-year basis point changes in the rounded Adjusted EBITDA margins. (b) Constant currency is a non-GAAP financial measure. Refer to the &#8220;Non-GAAP Financial Measures&#8221; section on page 46 for additional information, including our definition and our use of constant currency, and for a reconciliation of constant currency amounts. We continue to focus on growing our higher-margin connectivity businesses while managing overall operating costs. We also continue to invest in our network to support higher-speed broadband offerings and to expand the number of homes and businesses passed. Our customer relationship additions/(losses) continue to be negatively impacted by an increasingly competitive environment. We are focused on increasing our residential connectivity revenue. In 2025, we simplified our broadband pricing structure and began offering a free wireless line for one year to new and existing domestic broadband customers, which we expect will improve customer retention and strengthen our ability to compete for new customers, but will negatively impact average domestic broadband revenue per customer. We also expect continued declines in video revenue as a result of domestic customer net losses due to shifting video consumption patterns and the competitive environment, although customer net losses typically mitigate the impact of continued rate increases on programming expenses, as well as continued declines in other revenue related to declines in wireline voice revenue. We are also focused on growing our Business Services Connectivity segment revenue by offering competitive services, including enterprise solutions, and driving higher adoption of our advanced solutions. 37 Comcast 2025 Annual Report on Form 10-K Table of Contents Connectivity & Platforms Customer Metri cs Net Additions / (Losses) (in thousands) 2025 2024 2025 2024 Customer Relationships Domestic Residential Connectivity & Platforms customer relationships (a) 30,439 31,172 (733) (476) International Residential Connectivity & Platforms customer relationships (a) 17,624 17,811 (186) (36) Business Services Connectivity customer relationships (b)(c) 2,702 2,626 (48) (16) Total Connectivity & Platforms customer relationships 50,766 51,609 (967) (527) Domestic Broadband Residential customers 28,719 29,373 (654) (375) Business customers (b)(c) 2,536 2,469 (57) (36) Total domestic broadband customers 31,255 31,842 (711) (411) Domestic Wireless Total domestic wireless lines (d) 9,305 7,826 1,479 1,237 Domestic Video Total domestic video customers 11,270 12,523 (1,253) (1,583) Domestic homes and businesses passed (e) 64,983 63,692 Domestic broadband penetration of homes and businesses passed (f) 47.6 % 49.8 % (a) Residential Connectivity & Platforms customer relationships generally represent the number of residential customer locations that subscribe to at least one of our services. International Residential Connectivity & Platforms customer relationships represent customers receiving Sky services in the United Kingdom and Italy. Because each of our services includes a variety of product tiers, which may change from time to time, net additions or losses in any one period will reflect a mix of customers at various tiers. (b) Business Services Connectivity customer metrics are generally counted based on the number of connections receiving services, including connections within our network in the United States, as well as connections outside of our network both in the United States and internationally. Certain arrangements whereby third parties provide connectivity serv",
+        "charRange": [
+          185018,
+          200018
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors, respectively. Refer to Item 7: Management's Discussion and Analysis of Financial Condition and Results of Operations in our 2024 Annual Report on Form 10-K for management's discussion and analysis of our financial condition and results of operations for fiscal year 2024, including comparison to fiscal year 2023. Overview We are a global media and technology company with two primary businesses: Connectivity & Platforms and Content & Experiences. We present the operations of (1) our Connectivity & Platforms business in two segments: Residential Connectivity & Platforms and Business Services Connectivity; and (2) our Content & Experiences business in three segments: Media, Studios and Theme Parks. The discussion and analysis that follows includes the results of the cable television networks and complementary digital platforms included in Versant as the Separation did not occur until 2026. Refer to Note 16 for additional information. Consolidated Revenue, Net Income Attributable to Comcast Corporation and Adjusted EBITDA (a) (in billions) Revenue Net Income Attributable to Comcast Corporation Adjusted EBITDA (a) Adjusted EBITDA is a financial measure that is not defined by generally accepted accounting principles in the United States (&#8220;GAAP&#8221;). Refer to the &#8220;Non-GAAP Financial Measures&#8221; section on page 46 for additional information, including our definition and our use of Adjusted EBITDA, and for a reconciliat ion from net income attributable to Comcast Corporation to Adjusted EBITDA. Revenue, Net Income Attributable to Comcast Corporation and Adjusted EBITDA charts are not presented on the same scale. 2025 Revenue and Adjusted EBITDA Segment Contribution (a) Revenue Adjusted EBITDA (a) Charts exclude the results of Content & Experiences Headquarters and Other, Corporate and Other, and eliminations. Refer to our Management's Discussion and Analysis of Financial Condition and Results of Operations for additional information. Comcast 2025 Annual Report on Form 10-K 32 Table of Contents 2025 Developments Connectivity & Platforms (a) Content & Experiences (a)(b) (a) Revenue and Adjusted EBITDA charts are not presented on the same scale. (b) Segment details in the charts exclude the results of Content & Experiences Headquarters and Other and Eliminations and therefore the amounts do not equal the total. Residential Connectivity & Platforms Media &#8226; Revenue decreased due to decreases in video, other and advertising revenue, partially offset by increases in domestic wireless and international connectivity revenue. &#8226; Adjusted EBITDA decreased primarily due to a decrease in revenue and an increase in other costs and expenses, partially offset by a decrease in programming expenses. &#8226; Adjusted EBITDA margin decreased from 38.2% to 37.7%. Business Services Connectivity &#8226; Revenue increased due to an increase in revenue from enterprise solutions offerings and small business customers. &#8226; Adjusted EBITDA increased due to an increase in revenue, partially offset by increased costs and expenses. &#8226; Adjusted EBITDA margin decreased from 56.7% to 55.9%. Customer Metrics &#8226; Total customer relationships decreased by 967,000 to 50.8 million. &#8226; Domestic broadband customers decreased by 711,000 to 31.3 million. &#8226; Domestic wireless lines increased by 1.5 million to 9.3 million. &#8226; Domestic video customers decreased by 1.3 million to 11.3 million. &#8226; Domestic homes and businesses passed increased by 1.3 million to 65.0 million. Capital Expenditures &#8226; Total Connectivity & Platforms capital expenditures increased 5.3% to $8.7 billion, reflecting increased spending on customer premise equipment, scalable infrastructure and support capital. &#8226; Revenue decreased primarily due to the impact of the Paris Olympics in 2024. Excluding $1.9 billion of incremental revenue associated with this event, revenue increased due to increases in international networks, domestic distribution and other revenue, partially offset by a decrease in domestic advertising revenue. &#8226; Adjusted EBITDA increased primarily due to a decrease in programming and production costs driven by the Paris Olympics, partially offset by a decrease in revenue. &#8226; Peacock generated revenue and costs and expenses of $5.4 billion and $6.5 billion in 2025 , respectively, compared to $4.9 billion and $6.7 billion in 2024, respectively, including the Paris Olympics . Paid subscribers increased by 8 million to 44 million in 2025 . Studios &#8226; Revenue increased primarily due to an increase in content licensing, partially offset by a decrease in theatrical revenue. &#8226; Adjusted EBITDA decreased due to an increase in costs and expenses driven by marketing and promotion and programming and production, partially offset by an increase in revenue. Theme Parks &#8226; Revenue increased primarily due to an increase in revenue at our theme parks in Orlando, driven by the opening of Epic Universe in May 2025. &#8226; Adjusted EBITDA increased due to an increase in revenue, partially offset by an increase in costs and expenses. &#8226; Capital expenditures continued to reflect significant spending for the development of Epic Universe in Orlando ahead of its opening. 33 Comcast 2025 Annual Report on Form 10-K Table of Contents Other &#8226; Repurchased a total of 205 million shares of our Class A common stock for $6.8 billion in 2025 compared to a total of 212 million shares of our Class A common stock for $8.6 billion in 2024. Raised our dividend by $0.08 to $1.32 per share on an annualized basis in January 2025 and paid $4.9 billion of dividends in 2025. &#8226; In June 2025, we sold our interest in Hulu, at which time we recognized the sale of our interest with a pre-tax gain of $9.4 billion (see Note 8). &#8226; On January 2, 2026, we completed the Separation of Versant into an independent, publicly traded company and we made a pro rata distribution of 100% of the shares of Versant common stock to Comcast shareholders in which each Comcast shareholder received 1 share of Versant common stock for every 25 shares of Comcast common stock owned as of the close of business on December 16, 2025 (see Note 16). Consolidated Operating Results Year ended December 31 (in millions, except per share data) 2025 2024 Change 2024 to 2025 Revenue $ 123,707 $ 123,731 — % Costs and Expenses: Programming and production 34,951 37,026 (5.6) Marketing and promotion 8,862 8,073 9.8 Other operating and administrative 43,013 40,533 6.1 Depreciation 9,327 8,729 6.8 Amortization 6,884 6,072 13.4 Total costs and expenses 103,035 100,434 2.6 Operating income 20,672 23,297 (11.3) Interest expense (4,409) (4,134) 6.6 Investment and other income (loss), net 9,503 (490) NM Income before income taxes 25,766 18,673 38.0 Income tax expense (6,106) (2,796) 118.4 Net income 19,660 15,877 23.8 Less: Net income (loss) attributable to noncontrolling interests (338) (315) 7.3 Net income attributable to Comcast Corporation $ 19,998 $ 16,192 23.5 % Basic earnings per common share attributable to Comcast Corporation shareholders $ 5.41 $ 4.17 29.7 % Diluted earnings per common share attributable to Comcast Corporation shareholders $ 5.39 $ 4.14 30.1 % Weighted-average number of common shares outstanding - basic 3,699 3,885 (4.8) % Weighted average number of common shares outstanding - diluted 3,709 3,908 (5.1) % Adjusted EBITDA (a) $ 37,384 $ 38,069 (1.8) % Percentage changes that are considered not meaningful are denoted with NM. (a) Adjusted EBITDA is a non-GAAP financial measure. Refer to the &#8220;Non-GAAP Financial Measures&#8221; section on page 46 for additional information, including our definition and our use of Adjusted EBITDA, and for a reconciliation from net income attributable to Comcast Corporation to Adjusted EBITDA. Comcast 2025 Annual Report on Form 10-K 34 Table of Contents Consolidated Revenue The following graph illustrates the contributions to the change in consolidated revenue made by our Connectivity & Platforms and Content & Experiences businesses, as well as by Corporate and Other activities, including eliminations. (a) Graph is presented using a truncated scale. Revenue for our segments and other businesses is discussed separately below under the heading &#8220;Segment Operating Results.&#8221; Consolidated Costs and Expenses The following graph illustrates the contributions to the change in consolidated costs and expenses, excluding depreciation expense and amortization expense, made by our Connectivity & Platforms and Content & Experiences businesses, as well as by Corporate and Other activities, including adjustments and eliminations. The increase in adjustments in the current year is primarily driven by transaction and transaction-related costs associated with the Separation of Versant that are excluded from Adjusted EBITDA and our segment operating results. (a) Graph is presented using a truncated scale. Costs and expenses for our segments and our corporate operations and other businesses are discussed separately below under the heading &#8220;Segment Operating Results.&#8221; Consolidated depreciation and amortization expense increased in 2025 compared to 2024 primarily due to increased amortization of certain acquisition-related intangible assets related to the linear media business, increased depreciation due to the opening of Epic Universe in May 2025, impairments of certain long-lived assets in 2025 and the impact of foreign currency. Amortization expense from acquisition-related intangible assets totaled $3.3 billion and $2.7 billion in 2025 and 2024, respectively. Amounts primarily relate to customer relationship intangible assets recorded in connection with the NBCUniversal transaction in 2011 and the Sky transaction in 2018. 35 Comcast 2025 Annual Report on Form 10-K Table of Contents Consolidated interest expense increased in 2025 compared to 2024 primarily due to a decrease in capitalized interest driven by the opening of Epic Universe, as well as higher weighted-average interest rates in the current year. Consolidated investment and other income (loss), net increased in 2025 compared to 2024. Year ended December 31 (in millions) 2025 2024 Equity in net income (losses) of investees, net $ (591) $ (680) Realized and unrealized gains (losses) on equity securities, net (20) (313) Other income (loss), net 10,114 502 Total investment and other income (loss), net $ 9,503 $ (490) The change in equity in net income (losses) of investees, net in 2025 compared to 2024 was primarily due to our investments in Atairos and Hulu. The income (losses) at Atairos were driven by fair value adjustments on its underlying investments with income (loss) of $(377) million and $(474) million in 2025 and 2024, respectively. The change in realized and unrealized gains (losses) on equity securities, net in 2025 compared to 2024 was primarily due to a gain on the sale of a nonmarketable security in the current year and due to higher net unrealized losses on nonmarketable securities in the prior year. The change in other income (loss), net in 2025 compared to 2024 primarily resulted from a $9.4 billion pre-tax gain from the sale of our interest in Hulu in 2025 (see Note 8). Consolidated Income Tax Expense Our effective income tax rate in 2025 and 2024 was 23.7% and 15.0%, respectively. The increase in income tax expense in 2025 was primarily driven by a tax benefit in the prior year from an internal corporate reorganization completed in 2024 and higher domestic income before income taxes in the current year. See Note 5 for additional information on our income taxes. Consolidated Net Income (Loss) Attributable to Noncontrolling Interests The changes in net income (loss) attributable to noncontrolling interests in 2025 compared to 2024 were primarily due to our regional sports networks and Universal Beijing Resort. Comcast 2025 Annual Report on Form 10-K 36 Table of Contents Segment Operating Results Our segment operating results are presented based on how we assess operating performance and internally report financial information. See Note 2 for additional information on our segments. Connectivity & Platforms Overview 2024 to 2025 Year ended December 31 (in millions) 2025 2024 Change Constant Currency Change (b) Revenue Residential Connectivity & Platforms $ 70,704 $ 71,574 (1.2) % (1.9) % Business Services Connectivity 10,237 9,701 5.5 5.5 Total Connectivity & Platforms revenue $ 80,940 $ 81,275 (0.4) % (1.1) % Adjusted EBITDA Residential Connectivity & Platforms $ 26,653 $ 27,338 (2.5) % (2.8) % Business Services Connectivity 5,725 5,500 4.1 4.1 Total Connectivity & Platforms Adjusted EBITDA $ 32,377 $ 32,838 (1.4) % (1.6) % Adjusted EBITDA Margin (a) Residential Connectivity & Platforms 37.7 % 38.2 % (50) bps (30) bps Business Services Connectivity 55.9 56.7 (80) bps (80) bps Total Connectivity & Platforms Adjusted EBITDA margin 40.0 % 40.4 % (40) bps (20) bps (a) Our Adjusted EBITDA margin is Adjusted EBITDA as a percentage of revenue. We believe this metric is useful particularly as we continue to focus on growing our higher-margin businesses and improving overall operating cost management. The changes reflect the year-over-year basis point changes in the rounded Adjusted EBITDA margins. (b) Constant currency is a non-GAAP financial measure. Refer to the &#8220;Non-GAAP Financial Measures&#8221; section on page 46 for additional information, including our definition and our use of constant currency, and for a reconciliation of constant currency amounts. We continue to focus on growing our higher-margin connectivity businesses while managing overall operating costs. We also continue to invest in our network to support higher-speed broadband offerings and to expand the number of homes and businesses passed. Our customer relationship additions/(losses) continue to be negatively impacted by an increasingly competitive environment. We are focused on increasing our residential connectivity revenue. In 2025, we simplified our broadband pricing structure and began offering a free wireless line for one year to new and existing domestic broadband customers, which we expect will improve customer retention and strengthen our ability to compete for new customers, but will negatively impact average domestic broadband revenue per customer. We also expect continued declines in video revenue as a result of domestic customer net losses due to shifting video consumption patterns and the competitive environment, although customer net losses typically mitigate the impact of continued rate increases on programming expenses, as well as continued declines in other revenue related to declines in wireline voice revenue. We are also focused on growing our Business Services Connectivity segment revenue by offering competitive services, including enterprise solutions, and driving higher adoption of our advanced solutions. 37 Comcast 2",
+        "charRange": [
+          183141,
+          198141
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 157287,
+            "context": "ould adversely affect our business, reputation and results of operations. Our services, products and properties are vulnerable to damage from the occurrence of certain events, including natural disasters, severe weather events such as hurricanes and wildfires, and a range of other unforeseeable events such as infectious disease outbreaks, terrorist attacks or other similar events. Such events have in the past caused, and could in the future cause, a variety of adverse business impacts including degradation or disruption of our network, products and services, excessive call volume to call cente"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 98423,
+            "context": "ich could create a patchwork of, and potentially inconsistent, federal, state and local regulatory regimes. New broadband regulations, if adopted, may have adverse effects on our businesses, and we cannot predict the outcome of any pending or future litigation or how any rules will ultimately be interpreted and enforced and how they might affect our business. We, from time to time, participate in broadband-deployment funding initiatives at the federal and state levels and may also become subject to additional broadband-related commitments as a condition of receiving federal or state broadband"
+          },
+          {
+            "charIndex": 102001,
+            "context": "en involved in disputes at the FCC in some of these areas and may be involved in new disputes in the future, including potential disputes related to content moderation and free speech. We cannot predict the outcome of any such disputes or associated litigation. The FCC and Congress have previously considered proposals that would require companies that own multiple cable networks to make each of their networks available individually when negotiating distribution agreements with MVPDs and potentially with DTC streaming service providers. We currently offer our cable networks on a packaged basis"
+          },
+          {
+            "charIndex": 102740,
+            "context": "t to new complaints in the future. Furthermore, certain states and localities have adopted laws to impose franchise or other fees on DTC streaming services. To date, courts have invalidated those laws, but we cannot predict the outcome of any future litigation. Wireless We offer a wireless service primarily using our MVNO rights to provide the service over Verizon's wireless network to customers, and beginning in 2026, over T-Mobile's wireless network to business customers. MVNOs are subject to many of the same FCC regulations as facilities-based wireless carriers, such as E911 services and lo"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 301806,
+            "context": "w is a discussion of accounting policies and methods used in our consolidated financial statements that are not presented within other footnotes. Advertising Expenses Advertising costs are expensed as incurred. Fair Value Measurements The accounting guidance related to fair value measurements establishes a hierarchy based on the types of inputs used for the various valuation techniques. The levels of the hierarchy are described below. &#8226; Level 1: Values are determined using quoted market prices for identical financial instruments in an active market. &#8226; Level 2: Values are determined"
+          },
+          {
+            "charIndex": 303442,
+            "context": "ation within the fair value hierarchy. 67 Comcast 2025 Annual Report on Form 10-K Table of Contents Comcast Corporation Recent Accounting Pronouncements Disaggregation of Income Statement Expenses In November 2024, the FASB issued updated accounting guidance related to disclosures about certain costs and expenses. The updated accounting guidance, among other things, requires quantitative disclosures for employee compensation, selling expenses and purchases of inventory. The updated guidance is effective beginning with our Annual Report on Form 10-K for the year ending December 31, 2027. We are"
+          },
+          {
+            "charIndex": 303531,
+            "context": "f Contents Comcast Corporation Recent Accounting Pronouncements Disaggregation of Income Statement Expenses In November 2024, the FASB issued updated accounting guidance related to disclosures about certain costs and expenses. The updated accounting guidance, among other things, requires quantitative disclosures for employee compensation, selling expenses and purchases of inventory. The updated guidance is effective beginning with our Annual Report on Form 10-K for the year ending December 31, 2027. We are currently evaluating the impact the adoption of the new accounting guidance will have on"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 154565,
+            "context": "loyees, customers and vendors, incur significant debt, divert the attention of management from our current operations, or have to delay or not proceed with announced transactions or initiatives. These and other circumstances could also result in the impairment of goodwill and long-lived assets. Additionally, federal regulatory or antitrust agencies such as the FCC or DOJ or international regulators may impose restrictions on the operation of our businesses as a result of our seeking regulatory approvals for any significant acquisitions and strategic initiatives or may dissuade us from pursuing"
+          },
+          {
+            "charIndex": 192598,
+            "context": "ization expense increased in 2025 compared to 2024 primarily due to increased amortization of certain acquisition-related intangible assets related to the linear media business, increased depreciation due to the opening of Epic Universe in May 2025, impairments of certain long-lived assets in 2025 and the impact of foreign currency. Amortization expense from acquisition-related intangible assets totaled $3.3 billion and $2.7 billion in 2025 and 2024, respectively. Amounts primarily relate to customer relationship intangible assets recorded in connection with the NBCUniversal transaction in 201"
+          },
+          {
+            "charIndex": 229247,
+            "context": "omcast Corporation before net income (loss) attributable to noncontrolling interests, income tax expense, investment and other income (loss), net, interest expense, depreciation and amortization expense, and other operating gains and losses (such as impairment charges related to fixed and intangible assets and gains or losses on the sale of long-lived assets), if any. From time to time, we may exclude from Adjusted EBITDA the impact of certain events, gains, losses or other charges (such as significant legal settlements) that affect the period-to-period comparability of our operating performan"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 94838,
+            "context": "#8221;), may also affect our business. These legislators and regulators, along with some state attorneys general and foreign governmental authorities, have been active in conducting inquiries and reviews regarding our services. State legislative and regulatory initiatives can create a patchwork of different and/or conflicting state requirements, such as with respect to privacy and Open Internet/net neutrality regulations, that can affect our businesses and ability to effectively compete. Legislative and regulatory activity has increased in recent years, particularly with respect to broadband n"
+          },
+          {
+            "charIndex": 95097,
+            "context": "y initiatives can create a patchwork of different and/or conflicting state requirements, such as with respect to privacy and Open Internet/net neutrality regulations, that can affect our businesses and ability to effectively compete. Legislative and regulatory activity has increased in recent years, particularly with respect to broadband networks. For example, Congress has approved tens of billions of dollars in funding for broadband deployment and adoption initiatives, and it may from time to time consider other proposals that address communications issues, including whether it should rewrite"
+          },
+          {
+            "charIndex": 96220,
+            "context": "ignificantly affect our business and our legal and compliance costs. In addition, United States and foreign regulators and courts could adopt new interpretations of existing competition or antitrust laws or enact new competition or antitrust laws or regulatory tools that could negatively impact our businesses. Any future legislative, judicial, regulatory or administrative actions may increase our costs or impose additional restrictions on our businesses, some of which may be significant. We are unable to predict the outcome or effects of any of these potential actions or any other legislative"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 229511,
+            "context": "rges related to fixed and intangible assets and gains or losses on the sale of long-lived assets), if any. From time to time, we may exclude from Adjusted EBITDA the impact of certain events, gains, losses or other charges (such as significant legal settlements) that affect the period-to-period comparability of our operating performance. We reconcile consolidated Adjusted EBITDA to net income attributable to Comcast Corporation. This measure should not be considered a substitute for operating income (loss), net income (loss), net income (loss) attributable to Comcast Corporation, or net cash p"
+          },
+          {
+            "charIndex": 343255,
+            "context": "with prior tax returns filed by the acquired entity based on criteria set forth in the appropriate accounting guidance. We adjust the deferred tax accounts and the liabilities periodically to reflect any revised estimated tax basis and any estimated settlements with the various tax authorities. The effects of these adjustments are recorded to income tax expense. From time to time, we engage in transactions in which the tax consequences may be subject to uncertainty. In these cases, we evaluate our tax position using the recognition threshold and the measurement attribute in accordance with the"
+          },
+          {
+            "charIndex": 350090,
+            "context": "ns related to the current year 297 396 546 Additions based on tax positions related to prior years 9 201 1 Reductions for tax positions of prior years ( 95 ) ( 268 ) ( 43 ) Reductions due to expiration of statutes of limitations ( 94 ) ( 29 ) ( 56 ) Settlements with tax authorities and other ( 55 ) ( 28 ) ( 15 ) Gross unrecognized tax benefits, December 31 $ 2,927 $ 2,865 $ 2,593 Our gross unrecognized tax benefits include both amounts related to positions for which we have recorded liabilities for potential payment obligations and those for which tax has been assessed and paid. The amounts ex"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 55567,
+            "context": "egy to evolve our existing HFC network, including the rollout of DOCSIS 4.0 in select markets, which allows for multigigabit symmetrical speeds. We are also virtualizing and automating our core network functions to enhance capacity, efficiency and reliability. &#8226; Extending our network to new homes and businesses, both within existing markets and into new service areas, with a growing portion of new passings connected with fiber. We also partner with local, state and federal agencies, when possible, to provide services to unserved and underserved communities leveraging governmental subsidi"
+          },
+          {
+            "charIndex": 138689,
+            "context": "our intellectual property rights and claims of intellectual property infringement, misappropriation or other violation by third parties could require that we enter into royalty or licensing agreements on unfavorable terms, incur substantial monetary liability, or be enjoined preliminarily or permanently from further use of the intellectual property in question, from importing into the United States or other jurisdictions in which we operate hardware or software that uses such intellectual property or from the continuation of our businesses as currently conducted. We may need to change our busi"
+          },
+          {
+            "charIndex": 144570,
+            "context": "ibution platforms available to advertisers. For example, current and new wireless internet technologies (including 5G fixed wireless networks and 4G and 5G wireless broadband services) continue to evolve rapidly and may allow for greater speed and reliability for those services as compared with prior technologies and create further competition for our businesses. In addition, some companies and U.S. municipalities are building advanced fiber-based networks that provide very fast internet access speeds, and some providers offer newer satellite broadband services. We expect advances in communica"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "Revenues",
+      "points": [
+        {
+          "start": "2023-01-01",
+          "end": "2023-12-31",
+          "val": 121572000000,
+          "accn": "0001166691-24-000011",
+          "fy": 2023,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2024-01-31",
+          "frame": "CY2023"
+        },
+        {
+          "start": "2023-07-01",
+          "end": "2023-09-30",
+          "val": 30115000000,
+          "accn": "0001166691-23-000040",
+          "fy": 2023,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2023-10-26",
+          "frame": "CY2023Q3"
+        },
+        {
+          "start": "2023-01-01",
+          "end": "2023-09-30",
+          "val": 90319000000,
+          "accn": "0001166691-23-000040",
+          "fy": 2023,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2023-10-26"
+        },
+        {
+          "start": "2023-04-01",
+          "end": "2023-06-30",
+          "val": 30513000000,
+          "accn": "0001166691-23-000032",
+          "fy": 2023,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2023-07-27",
+          "frame": "CY2023Q2"
+        },
+        {
+          "start": "2023-01-01",
+          "end": "2023-06-30",
+          "val": 60205000000,
+          "accn": "0001166691-23-000032",
+          "fy": 2023,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2023-07-27"
+        },
+        {
+          "start": "2023-01-01",
+          "end": "2023-03-31",
+          "val": 29691000000,
+          "accn": "0001166691-23-000024",
+          "fy": 2023,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2023-04-27",
+          "frame": "CY2023Q1"
+        },
+        {
+          "start": "2022-01-01",
+          "end": "2022-12-31",
+          "val": 121427000000,
+          "accn": "0001166691-24-000011",
+          "fy": 2023,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2024-01-31",
+          "frame": "CY2022"
+        },
+        {
+          "start": "2022-01-01",
+          "end": "2022-12-31",
+          "val": 121427000000,
+          "accn": "0001166691-23-000010",
+          "fy": 2022,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2023-02-03"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 0.99,
+          "accn": "0001628280-26-049360",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-23",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 1.59,
+          "accn": "0001628280-26-049360",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-23"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 0.6,
+          "accn": "0001628280-26-026805",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-23",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 5.39,
+          "accn": "0001628280-26-004994",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-03",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 0.9,
+          "accn": "0001166691-25-000054",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-30",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 4.78,
+          "accn": "0001166691-25-000054",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-30"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 2.98,
+          "accn": "0001628280-26-049360",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-23",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 2.98,
+          "accn": "0001166691-25-000036",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-31"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 3526000000,
+          "accn": "0001628280-26-049360",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-23",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 5699000000,
+          "accn": "0001628280-26-049360",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-23"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 2174000000,
+          "accn": "0001628280-26-026805",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-23",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 19998000000,
+          "accn": "0001628280-26-004994",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-03",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 3332000000,
+          "accn": "0001166691-25-000054",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-30",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 17830000000,
+          "accn": "0001166691-25-000054",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-30"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 11123000000,
+          "accn": "0001628280-26-049360",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-23",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 11123000000,
+          "accn": "0001166691-25-000036",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-31"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 5160000000,
+          "accn": "0001628280-26-049360",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-23",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 9296000000,
+          "accn": "0001628280-26-049360",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-23"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 4135000000,
+          "accn": "0001628280-26-026805",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-23",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 20672000000,
+          "accn": "0001628280-26-004994",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-03",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 5534000000,
+          "accn": "0001166691-25-000054",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-30",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 17184000000,
+          "accn": "0001166691-25-000054",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-30"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 5992000000,
+          "accn": "0001628280-26-049360",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-23",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 5992000000,
+          "accn": "0001166691-25-000036",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-31"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "CMCSA",
+    "name": "COMCAST CORP",
+    "sector": "Cable & Other Pay Television Services",
+    "pe": 8.16,
+    "pb": 1,
+    "ret3m": -3.9634,
+    "ret6m": -15.3226,
+    "roe": 22.28,
+    "debtEquity": 0.068,
+    "revenueGrowth": -0.02,
+    "epsGrowth": 30.19,
+    "fcfGrowth": 41.32,
+    "operatingMargin": 16.71,
+    "marginTrend": -2.12,
+    "sentiment": 0.542,
+    "analyst": 61.3,
+    "beta": 0.65485626
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "NFLX Stock: Where Compounding Could Take The Price",
+        "url": "https://finnhub.io/api/news?id=d49c7892030a71fe336467151252cffdeb15ee6b65a538fdd13da98b62e6bcbb",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Nasdaq Announces the Board of Directors of its U.S. Exchanges",
+        "url": "https://finnhub.io/api/news?id=22047d862923d616c483c67a05d4bc946677f96531dfca3d71fa1adfabe2fe1b",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Xfinity and Comcast Business High-Speed Internet Now Available to More Than 2,400 Homes and Businesses in Putnam County, Florida",
+        "url": "https://finnhub.io/api/news?id=5deed8e4312d31b7ba01756f554b9a35d152c0ac074974983277b64dffb39061",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Comcast (CMCSA) Pushes Private Wireless Into The Office Market",
+        "url": "https://finnhub.io/api/news?id=7b367543de7e1e05eb82becfb070056112c6bcb88a3fee6752281a57cd0ba36c",
+        "source": "Yahoo",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "August Buys: 4 IDEAL S&P 500 'Safer' Dividend Dogs",
+        "url": "https://finnhub.io/api/news?id=5e19bb7ec61a2c63221ca66b3c6ec9c1d8a643a902564ef3e7b3e1b695a027fc",
+        "source": "SeekingAlpha",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "Arlo Technologies Q2 Earnings Call Highlights",
+        "url": "https://finnhub.io/api/news?id=9df6bf1f1f83d99954f20a4268a874a42c65ed6ef69a4c58cb2617d05e8419cd",
+        "source": "Yahoo",
+        "date": "2026-08-07"
+      }
+    ],
+    "cachedAt": "2026-08-11T05:47:02.603Z"
+  }
+}

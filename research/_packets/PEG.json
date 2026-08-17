@@ -1,0 +1,735 @@
+{
+  "ticker": "PEG",
+  "entityName": "PUBLIC SERVICE ENTERPRISE GROUP INC",
+  "cik": "0000788784",
+  "generatedAt": "2026-08-11T18:22:23.042Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-08-04",
+        "reportDate": "2026-06-30",
+        "accessionNumber": "0001193125-26-332943",
+        "primaryDocument": "peg-20260630.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/788784/000119312526332943/peg-20260630.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/788784/000119312526332943/"
+      },
+      "textLength": 317547,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations\n\n56\n\n\n\nExecutive Overview of 2026 and Future Outlook\n\n56\n\n\n\nResults of Operations\n\n64\n\n\n\nLiquidity and Capital Resources\n\n69\n\n\n\nCapital Requirements\n\n71\n\n\nItem 3.\nQuantitative and Qualitative Disclosures About Market Risk\n\n72\n\n\nItem 4.\nControls and Procedures\n\n73\n\n\nPART II. OTHER INFORMATION\n\n\n\n\nItem 1.\nLegal Proceedings\n\n74\n\n\nItem 1A.\nRisk Factors\n\n74\n\n\nItem 5.\nOther Information\n\n74\n\n\nItem 6.\nExhibits\n\n76\n\n\n\nSignatures\n\n77\n\n\ni\n\nTable of Contents\n\nFORWARD-LOOKI NG STATEMENTS Certain of the matters discussed in this report about our and our subsidiaries' future performance, including, without limitation, future revenues, earnings, strategies, prospects, consequences and all other statements that are not purely historical constitute &#8220;forward-looking statements&#8221; within the meaning of the Private Securities Litigation Reform Act of 1995. Such forward-looking statements are subject to risks and uncertainties, which could cause actual results to differ materially from those anticipated. Such statements are based on management's beliefs as well as assumptions made by and information currently available to management. When used herein, the words &#8220;anticipate,&#8221; &#8220;intend,&#8221; &#8220;estimate,&#8221; &#8220;believe,&#8221; &#8220;expect,&#8221; &#8220;plan,&#8221; &#8220;should,&#8221; &#8220;hypothetical,&#8221; &#8220;potential,&#8221; &#8220;forecast,&#8221; &#8220;project,&#8221; variations of such words and similar expressions are intended to identify forward-looking statements. Factors that may cause actual results to differ are often presented with the forward-looking statements themselves. Other factors that could cause actual results to differ materially from those contemplated in any forward-looking statements made by us herein are discussed in filings we make with the United States Securities and Exchange Commission (SEC), including our Annual Report on Form 10-K and subsequent reports on Form 10-Q and Form 8-K. These factors include, but are not limited to: &#8226; any inability to successfully develop, obtain regulatory approval for, or construct transmission and distribution, and our nuclear generation projects; &#8226; significant resource adequacy challenges that present affordability and reliability concerns and that could cause policymakers to implement responsive measures that could have a material, adverse impact on our business, strategy, growth rates, cash flows, results of operations, and financial condition and increase regulatory uncertainty for utility investment initiatives and programs; &#8226; the physical, financial and transition risks related to climate change, including risks relating to potentially increased legislative and regulatory burdens, changing customer preferences and lawsuits; &#8226; any equipment failures, gas explosions, accidents, critical operating technology or business system failures, natural disasters, severe weather events, acts of war, terrorism or other acts of violence, sabotage, physical attacks or security breaches, cyberattacks or other incidents that may impact our ability to provide safe and reliable service to our customers; &#8226; any inability to recover the carrying amount of our long-lived assets; &#8226; disruptions or cost increases in our supply chain, including labor shortages; &#8226; any inability to maintain sufficient liquidity or access sufficient capital on commercially reasonable terms; &#8226; the impact of cybersecurity attacks or intrusions or other disruptions to our information technology, operational or other systems; &#8226; failure to attract and retain a qualified workforce; &#8226; increases in the costs of equipment, materials, fuel, services and labor; &#8226; the impact of our covenants in our debt instruments and credit agreements on our business; &#8226; adverse performance of our defined benefit plan trust funds and Nuclear Decommissioning Trust Fund and increases in funding requirements; &#8226; any inability to enter into or extend certain significant contracts; &#8226; development, adoption and use of Artificial Intelligence by us and our third-party vendors; &#8226; fluctuations in, or third-party default risk in wholesale power and natural gas markets, including the potential impacts on the economic viability of our generation units; &#8226; the ability to obtain adequate nuclear fuel supply; &#8226; changes in technology related to energy generation, distribution and consumption and changes in customer usage patterns;\nii\n\nTable of Contents\n\n&#8226; third-party credit risk relating to our sale of nuclear generation output and purchase of nuclear fuel; &#8226; any inability to meet our commitments under forward sale obligations and Regional Transmission Organization rules; &#8226; risks associated with generation activities at, and operation of, the Peach Bottom plants, which are similar to those to which nuclear generation plants that we operate are subject; &#8226; the impact of changes in state and federal legislation and regulations on our business, including PSE&G's ability to recover costs and earn returns on authorized investments; &#8226; PSE&G's proposed investment projects or programs may not be fully approved by regulators and its capital investment may be lower than planned; &#8226; our ability to receive sufficient financial support for our New Jersey nuclear plants from the markets, and/or production tax credits; &#8226; adverse changes in and non-compliance with energy industry laws, policies, regulations and standards, including market structures and transmission planning and transmission returns; &#8226; risks associated with our ownership and operation of nuclear facilities, including increased nuclear fuel storage costs, regulatory risks, such as compliance with the Atomic Energy Act and trade control, environmental and other regulations, as well as operational, financial, environmental and health and safety risks; &#8226; changes in or violation of federal, state and local environmental laws and regulations and enforcement; &#8226; delays in receipt of, or an inability to receive, necessary licenses and permits and siting approvals; and &#8226; changes in tax laws and regulations. All of the forward-looking statements made in this report are qualified by these cautionary statements and we cannot assure you that the results or developments anticipated by management will be realized or even if realized, will have the expected consequences to, or effects on, us or our business, prospects, financial condition, results of operations or cash flows. Readers are cautioned not to place undue reliance on these forward-looking statements in making any investment decision. Forward-looking statements made in this report apply only as of the date of this report. While we may elect to update forward-looking statements from time to time, we specifically disclaim any obligation to do so, even in light of new information or future events, unless otherwise required by applicable securities laws. The forward-looking statements contained in this report are intended to qualify for the safe harbor provisions of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. From time to time, PSEG and PSE&G release important information via postings on their corporate Investor Relations website at https://investor.pseg.com. Investors and other interested parties are encouraged to visit the Investor Relations website to review new postings. You can sign up for automatic email alerts regarding new postings at the bottom of the webpage at https://investor.pseg.com or by navigating to the Email Alerts webpage at https://investor.pseg.com/resources/email-alerts/default.aspx. The information on https://investor.pseg.com and https://investor.pseg.com/resources/email-alerts/default.aspx is not incorporated herein and is not part of this Form 10-Q. FILING FORMAT This combined Quarterly Report on Form 10-Q is separately filed by Public Service Enterprise Group Incorporated (PSEG) and Public Service Electric and Gas Company (PSE&G). Information relating to any individual company is filed by such company on its own behalf. PSE&G is only responsible for information about itself and its subsidiaries. Discussions throughout the document refer to PSEG and its direct operating subsidiaries. Depending on the context of each section, references to &#8220;we,&#8221; &#8220;us,&#8221; and &#8220;our&#8221; relate to PSEG or to the specific company or companies being discussed.\niii\n\nTable of Contents\n\nPUBLIC SERVICE ENTE RPRISE GROUP INCORPORATED CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS Millions, except per share data (Unaudited)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThree Months Ended\n\n\nSix Months Ended\n\n\n\n\n\n\n\nJune 30,\n\n\nJune 30,\n\n\n\n\n\n\n\n2026\n\n\n2025\n\n\n2026\n\n\n2025\n\n\n\n\n\nOPERATING REVENUES\n\n$\n2,554\n\n\n$\n2,805\n\n\n$\n6,402\n\n\n$\n6,027\n\n\n\n\n\nOPERATING EXPENSES\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEnergy Costs\n\n\n866\n\n\n\n826\n\n\n\n2,373\n\n\n\n2,012\n\n\n\n\n\nOperation and Maintenance\n\n\n906\n\n\n\n854\n\n\n\n1,843\n\n\n\n1,773\n\n\n\n\n\nDepreciation and Amortization\n\n\n321\n\n\n\n308\n\n\n\n650\n\n\n\n628\n\n\n\n\n\nTotal Operating Expenses\n\n\n2,093\n\n\n\n1,988\n\n\n\n4,866\n\n\n\n4,413\n\n\n\n\n\nOPERATING INCOME\n\n\n461\n\n\n\n817\n\n\n\n1,536\n\n\n\n1,614\n\n\n\n\n\nNet Gains (Losses) on Trust Investments\n\n\n144\n\n\n\n95\n\n\n\n127\n\n\n\n103\n\n\n\n\n\nNet Other Income (Deductions)\n\n\n41\n\n\n\n46\n\n\n\n84\n\n\n\n83\n\n\n\n\n\nNet Non-Operating Pension and Other Postretirement Benefit (OPEB) Credits (Costs)\n\n\n21\n\n\n\n16\n\n\n\n40\n\n\n\n32\n\n\n\n\n\nInterest Expense\n\n\n( 269\n)\n\n\n( 248\n)\n\n\n( 541\n)\n\n\n( 489\n)\n\n\n\n\nINCOME BEFORE INCOME TAXES\n\n\n398\n\n\n\n726\n\n\n\n1,246\n\n\n\n1,343\n\n\n\n\n\nIncome Tax Expense\n\n\n( 64\n)\n\n\n( 141\n)\n\n\n( 171\n)\n\n\n( 169\n)\n\n\n\n\nNET INCOME\n\n$\n334\n\n\n$\n585\n\n\n$\n1,075\n\n\n$\n1,174\n\n\n\n\n\nWEIGHTED AVERAGE COMMON SHARES OUTSTANDING:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBASIC\n\n\n498\n\n\n\n499\n\n\n\n498\n\n\n\n499\n\n\n\n\n\nDILUTED\n\n\n499\n\n\n\n500\n\n\n\n499\n\n\n\n500\n\n\n\n\n\nNET INCOME PER SHARE:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBASIC\n\n$\n0.67\n\n\n$\n1.17\n\n\n$\n2.15\n\n\n$\n2.35\n\n\n\n\n\nDILUTED\n\n$\n0.67\n\n\n$\n1.17\n\n\n$\n2.15\n\n\n$\n2.35\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSee Notes to Condensed Consolidated Financial Statements.\n1\n\nTable of Contents\n\nPUBLIC SERVICE ENTERPRISE GROUP INCORPORATED CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME Millions (Unaudited)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThree Months Ended\n\n\nSix Months Ended\n\n\n\n\n\n\n\nJune 30,\n\n\nJune 30,\n\n\n\n\n\n\n\n2026\n\n\n2025\n\n\n2026\n\n\n2025\n\n\n\n\n\nNET INCOME\n\n$\n334\n\n\n$\n585\n\n\n$\n1,075\n\n\n$\n1,174\n\n\n\n\n\nOther Comprehensive Income (Loss), net of tax\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnrealized Gains (Losses) on Available-for-Sale Securities, net of tax (expense) benefit of $ 1 , $( 2 ), $ 0 and $( 13 ) for the three and six months ended 2026 and 2025, respectively\n\n\n( 2\n)\n\n\n4\n\n\n\n—\n\n\n\n20\n\n\n\n\n\nUnrealized Gains (Losses) on Cash Flow Hedges, net of tax (expense) benefit of $( 3 ), $( 3 ), $( 4 ) and $ 5 for the three and six months ended 2026 and 2025, respectively\n\n\n6\n\n\n\n7\n\n\n\n9\n\n\n\n( 13\n)\n\n\n\n\nPension/OPEB adjustment, net of tax (expense) benefit of $ 0 , $ 0 , $( 1 ) and $( 1 ) for the three and six months ended 2026 and 2025, respectively\n\n\n2\n\n\n\n2\n\n\n\n3\n\n\n\n3\n\n\n\n\n\nOther Comprehensive Income (Loss), net of tax\n\n\n6\n\n\n\n13\n\n\n\n12\n\n\n\n10\n\n\n\n\n\nCOMPREHENSIVE INCOME\n\n$\n340\n\n\n$\n598\n\n\n$\n1,087\n\n\n$\n1,184\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSee Notes to Condensed Consolidated Financial Statements.\n2\n\nTable of Contents\n\nPUBLIC SERVICE ENTERPRISE GROUP INCORPORATED CONDENSED CONSOLIDATED BALANCE SHEETS Millions (Unaudited)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJune 30, 2026\n\n\nDecember 31, 2025\n\n\n\n\n\nASSETS\n\n\n\n\n\nCURRENT ASSETS\n\n\n\n\n\n\n\n\n\n\nCash and Cash Equivalents\n\n$\n192\n\n\n$\n132\n\n\n\n\n\nAccounts Receivable, net of allowance of $ 246 in 2026 and $ 248 in 2025\n\n\n1,903\n\n\n\n1,888\n\n\n\n\n\nTax Receivable\n\n\n134\n\n\n\n406\n\n\n\n\n\nUnbilled Revenues, net of allowance of $ 4 in 2026 and $ 6 in 2025\n\n\n302\n\n\n\n381\n\n\n\n\n\nFuel\n\n\n222\n\n\n\n282\n\n\n\n\n\nMaterials and Supplies, net\n\n\n868\n\n\n\n873\n\n\n\n\n\nPrepayments\n\n\n425\n\n\n\n75\n\n\n\n\n\nDerivative Contracts\n\n\n19\n\n\n\n11\n\n\n\n\n\nRegulatory Assets\n\n\n469\n\n\n\n537\n\n\n\n\n\nOther\n\n\n20\n\n\n\n11\n\n\n\n\n\nTotal Current Assets\n\n\n4,554\n\n\n\n4,596\n\n\n\n\n\nPROPERTY, PLANT AND EQUIPMENT\n\n\n55,226\n\n\n\n53,920\n\n\n\n\n\nLess: Accumulated Depreciation and Amortization\n\n\n( 12,295\n)\n\n\n( 11,856\n)\n\n\n\n\nNet Property, Plant and Equipment\n\n\n42,931\n\n\n\n42,064\n\n\n\n\n\nNONCURRENT ASSETS\n\n\n\n\n\n\n\n\n\n\nRegulatory Assets\n\n\n6,591\n\n\n\n6,431\n\n\n\n\n\nOperating Lease Right-of-Use Assets\n\n\n150\n\n\n\n138\n\n\n\n\n\nLong-Term Investments\n\n\n420\n\n\n\n372\n\n\n\n\n\nNuclear Decommissioning Trust (NDT) Fund\n\n\n2,995\n\n\n\n2,915\n\n\n\n\n\nLong-Term Receivable of Variable Interest Entity (VIE)\n\n\n529\n\n\n\n520\n\n\n\n\n\nRabbi Trust Fund\n\n\n159\n\n\n\n162\n\n\n\n\n\nDerivative Contracts\n\n\n—\n\n\n\n6\n\n\n\n\n\nOther\n\n\n484\n\n\n\n372\n\n\n\n\n\nTotal Noncurrent Assets\n\n\n11,328\n\n\n\n10,916\n\n\n\n\n\nTOTAL ASSETS\n\n$\n58,813\n\n\n$\n57,576\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSee Notes to Condensed Consolidated Financial Statements.\n3\n\nTable of Contents\n\nPUBLIC SERVICE ENTERPRISE GROUP INCORPORATED CONDENSED CONSOLIDATED BALANCE SHEETS Millions (Unaudited)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJune 30, 2026\n\n\nDecember 31, 2025\n\n\n\n\n\nLIABILITIES AND CAPITALIZATION\n\n\n\n\n\nCURRENT LIABILITIES\n\n\n\n\n\n\n\n\n\n\nLong-Term Debt Due Within One Year\n\n$\n850\n\n\n$\n875\n\n\n\n\n\nCommercial Paper and Loans\n\n\n950\n\n\n\n1,529\n\n\n\n\n\nAccounts Payable\n\n\n1,305\n\n\n\n1,489\n\n\n\n\n\nDerivative Contracts\n\n\n203\n\n\n\n65\n\n\n\n\n\nAccrued Interest\n\n\n289\n\n\n\n265\n\n\n\n\n\nAccrued Taxes\n\n\n53\n\n\n\n95\n\n\n\n\n\nNew Jersey Clean Energy Program\n\n\n229\n\n\n\n145\n\n\n\n\n\nObligation to Return Cash Collateral\n\n\n157\n\n\n\n106\n\n\n\n\n\nRegulatory Liabilities\n\n\n592\n\n\n\n484\n\n\n\n\n\nOther\n\n\n565\n\n\n\n687\n\n\n\n\n\nTotal Current Liabilities\n\n\n5,193\n\n\n\n5,740\n\n\n\n\n\nNONCURRENT LIABILITIES\n\n\n\n\n\n\n\n\n\n\nDeferred Income Taxes and Investment Tax Credits (ITC)\n\n\n8,320\n\n\n\n7,930\n\n\n\n\n\nRegulatory Liabilities\n\n\n1,957\n\n\n\n2,048\n\n\n\n\n\nOperating Leases\n\n\n137\n\n\n\n128\n\n\n\n\n\nAsset Retirement Obligations\n\n\n1,403\n\n\n\n1,381\n\n\n\n\n\nOPEB Costs\n\n\n222\n\n\n\n242\n\n\n\n\n\nOPEB Costs of Servco\n\n\n512\n\n\n\n501\n\n\n\n\n\nAccrued Pension Costs\n\n\n287\n\n\n\n305\n\n\n\n\n\nEnvironmental Costs\n\n\n221\n\n\n\n225\n\n\n\n\n\nDerivative Contracts\n\n\n47\n\n\n\n21\n\n\n\n\n\nLong-Term Accrued Taxes\n\n\n145\n\n\n\n141\n\n\n\n\n\nOther\n\n\n299\n\n\n\n262\n\n\n\n\n\nTotal Noncurrent Liabilities\n\n\n13,550\n\n\n\n13,184\n\n\n\n\n\nCOMMITMENTS AND CONTINGENT LIABILITIES (See Note 8)\n\n\n\n\n\n\n\n\n\n\nCAPITALIZATION\n\n\n\n\n\n\n\n\n\n\nLONG-TERM DEBT\n\n\n22,741\n\n\n\n21,670\n\n\n\n\n\nSTOCKHOLDERS' EQUITY\n\n\n\n\n\n\n\n\n\n\nCommon Stock, no par, authorized 1,000 shares; issued, 2026 and 2025— 534 shares\n\n\n5,026\n\n\n\n5,062\n\n\n\n\n\nTreasury Stock, at cost, 2026 and 2025— 36 shares\n\n\n( 1,471\n)\n\n\n( 1,435\n)\n\n\n\n\nRetained Earnings\n\n\n13,853\n\n\n\n13,446\n\n\n\n\n\nAccumulated Other Comprehensive Loss\n\n\n( 79\n)\n\n\n( 91\n)\n\n\n\n\nTotal Stockholders' Equity\n\n\n17,329\n\n\n\n16,982\n\n\n\n\n\nTotal Capitalization\n\n\n40,070\n\n\n\n38,652\n\n\n\n\n\nTOTAL LIABILITIES AND CAPITALIZATION\n\n$\n58,813\n\n\n$\n57,576\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSee Notes to Condensed Consolidated Financial Statements.\n4\n\nTable of Contents\n\nPUBLIC SERVICE ENTERPRISE GROUP INCORPORATED CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS Millions (Unaudited)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSix Months Ended\n\n\n\n\n\n\n\nJune 30,\n\n\n\n\n\n\n\n2026\n\n\n20",
+        "charRange": [
+          75540,
+          90540
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "risk factors contained in Part I, Item 1A of our Form 10-K which describes various risks and uncertainties that could have a material adverse impact on our business, prospects, financial position, results of operations or cash flows and could cause results to differ materially from those expressed elsewhere in this report. ITEM 5. OTHER INF ORMATION Certain information is provided below for new matters that have arisen subsequent to the filing of the Form 10-K and the first quarter 2026 Form 10-Q. Director and Officer Rule 10b5-1 and non-Rule 10b5-1 Trading Plans During the three months ended June 30, 2026, none of the Company's directors or officers adopted , terminated or modified a Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement (as such terms are defined in Item 408 of Regulation S-K of the Securities Act of 1933). Federal Regulation Transmission Regulation—Transmission Rate Proceedings and ROE December 31, 2025 Form 10-K page 10. Under current FERC rules, PSE&G continues to earn a 50 basis point adder to its base ROE for its voluntary membership in PJM as a transmission owner. In June 2026, legislation was passed in New Jersey that requires transmission owners that own and operate transmission facilities in New Jersey to be members of a Regional Transmission Organization (RTO) approved by FERC. The legislation will require that, effective January 1, 2027, transmission owners be members in an RTO. While we are continuing to assess the potential impact of this legislation, this mandatory RTO membership requirement could result in the future loss of PSE&G's 50 basis-point ROE adder for participating in an RTO. This would prospectively reduce PSE&G's annual Net Income and annual cash inflows by approximately $40 million. We cannot predict the outcome of this matter. Transmission Regulation—Transmission Planning Proceedings December 31, 2025 Form 10-K page 11 and March 31, 2026 Form 10-Q page 66. In March 2026, FERC issued an order addressing a longstanding dispute about the methodology used in PJM to calculate and assign transmission project costs. The FERC order, among other things, rejected a proposed settlement agreement that would have shifted significant costs to PSE&G's transmission customers. FERC directed PJM to recalculate cost responsibility assignments and resettle billings going back to 2015. Proceedings continue at FERC and at the U.S. Court of Appeals for the DC Circuit. We cannot predict the outcome of these proceedings. Regulation of Wholesale Sales—Generation/Market Issues/Market Power December 31, 2025 Form 10-K page 10. In October 2025, in response to a directive by the Secretary of Energy, FERC initiated a rulemaking proceeding to establish rules by the end of April 2026 to facilitate the interconnection of large load customers to the transmission system through a queue process. In June 2026, FERC issued an order directing PJM and its transmission customers to show cause as to why the PJM Tariff should not be found to be unjust and unreasonable because it does not contain provisions relating to the application and study process for large customers seeking transmission service, mitigation of risk of cost shifting among transmission customers due to large loads, including providing transparency into\n74\n\nTable of Contents\n\ntransmission costs, and accommodation of co-location arrangements and behind the meter generation. We cannot predict the outcome of these matters. Capacity Market Issues In July 2026, PJM proposed tariff revisions to FERC to implement a proposed &#8220;Reliability Backstop Procurement&#8221; framework to address the 6.8 GW resource shortfall for the 2028/2029 delivery year. This procurement mechanism seeks 15-year commitments from new generation resources, with costs passed to load-serving entities and end-use customers, including data centers. We cannot predict the outcome of this matter. State Regulation Energy Efficiency, Triennial Review December 31, 2025 Form 10-K page 14 and March 31, 2026 Form 10-Q page 66. While it was previously anticipated that the BPU would issue a final framework for the third triennium during the first half of 2026, in April 2026, BPU Staff issued its straw proposal for a one-year extension to the second triennium of energy efficiency programs rather than issuing a framework for the third triennium to accommodate the time needed for the BPU to establish the third triennium framework. In July 2026, the BPU issued the final framework for the extension. The final framework includes elements that adjust the overall budget for the extension, requiring budgets to be based on gross, not net, energy savings, adjusts return on equity that the utilities can earn for achieving performance goals, and replaces the existing method to collect foregone revenue. The framework also allows for utilities to file for alternative proposals, including but not limited to ROE and savings targets. Petitions by utilities for the extension are due on September 30, 2026. It is anticipated that the BPU will issue the framework for the third program cycle of energy efficiency programs later in 2026. We cannot predict the outcome of this matter at this time. BGS Process December 31, 2025 Form 10-K page 14. The February 2025 BGS auction resulted in a significant cost increase for electricity supplied by PSE&G and all other New Jersey electric distribution companies that was reflected in customers' rates beginning June 1, 2025. The cost increases were in large part due to higher prices from the PJM capacity market (base residual auction). The February 2026 BGS auction resulted in a slight cost decrease for electricity supplied by PSE&G that became effective June 1, 2026. In July 2026, New Jersey's EDCs filed their annual joint proposal for conduct of the February 2027 BGS auction covering energy years 2028 through 2030. Rates resulting from the February 2027 BGS auction will become effective June 1, 2027. Certain Recently-Enacted State Legislation In July 2026, Governor Sherrill signed the Advance Grid Technologies Act into law. This Act will increase BPU oversight of supplemental electric transmission projects that are developed under PJM's Attachment M-3 process. It requires any supplemental transmission project that is 100kV or more to file for and obtain a Certificate of Public Convenience and Necessity before beginning construction of the project. At the same time, it encourages utilities to use advanced grid technologies, such as dynamic line ratings, advanced conductors, and power flow control devices, by providing an expedited approval process for projects that meaningfully incorporate these technologies. In July 2026, Governor Sherrill also signed the Data Center Fair Share Act into law. This legislation is designed to protect non-data center customers from bearing the costs of providing service to the state's rapidly growing large data center sector. The law requires the BPU and electric utilities to establish a separate rate class and tailored service requirements for qualifying large data centers, ensuring they pay the full cost of the electricity infrastructure and grid upgrades, among other costs, needed to serve their operations. It also encourages data centers to bring new, lower-cost clean energy resources online and requires them to reduce electricity demand during periods of grid stress before residential customers are affected. In addition, the legislation requires the BPU to create with stakeholder input an innovative retail program allowing new large-load customers to offset their capacity obligations by funding demand-reduction measures elsewhere on the grid, with the goal of supporting AI and data center growth while maintaining grid reliability and keeping electricity bills affordable for other New Jersey customers. The BPU is expected to initiate policy proceedings to develop rate class and demand reduction programs, the outcome of which is uncertain at this time.\n75\n\nTable of Contents\n\nIn July 2026, the Power NJ Act was signed into law. This legislation establishes a competitive framework to evaluate and procure at least 1,100 MW of new nuclear generation, including advanced reactors and small modular reactors, to help meet growing electricity demand while supporting the state's clean energy goals. The legislation directs the BPU to solicit proposals, evaluate developers, and negotiate contracts through a structured process with significant oversight and public input and establishes a Reliable Capacity Certificate program to provide qualifying projects with a stable revenue mechanism that supports financing while ensuring reliable, carbon-free electricity for New Jersey. ITEM 6. EXH IBITS A listing of exhibits being filed with this document is as follows:\n\n\n\n\n\n\n\na. PSEG:\n\n\n\n\nExhibit 10.1:\n\nDeferred Compensation Plan for Certain Employees, amended and restated effective July 20, 2026\n\n\nExhibit 10.2:\n\nEquity Deferral Plan, amended and restated effective July 20, 2026\n\n\nExhibit 10.3:\n\nManagement Incentive Compensation Plan, amended and restated effective July 20, 2026\n\n\nExhibit 31:\n\nCertification by Ralph LaRossa Pursuant to Rules 13a-14 and 15d-14 of the 1934 Act\n\n\nExhibit 31.1:\n\nCertification by Daniel J. Cregg Pursuant to Rules 13a-14 and 15d-14 of the 1934 Act\n\n\nExhibit 32:\n\nCertification by Ralph LaRossa Pursuant to Section 1350 of Chapter 63 of Title 18 of the U.S. Code\n\n\nExhibit 32.1:\n\nCertification by Daniel J. Cregg Pursuant to Section 1350 of Chapter 63 of Title 18 of the U.S. Code\n\n\nExhibit 101.INS:\n\nInline XBRL Instance Document - The Instance Document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.\n\n\nExhibit 101.SCH:\n\nInline XBRL Taxonomy Extension Schema\n\n\nExhibit 104:\n\nCover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)\n\n\n\n\n\n\n\nb. PSE&G:\n\n\n\n\nExhibit 10.1:\n\nDeferred Compensation Plan for Certain Employees, amended and restated effective July 20, 2026\n\n\nExhibit 10.2:\n\nEquity Deferral Plan, amended and restated effective July 20, 2026\n\n\nExhibit 10.3:\n\nManagement Incentive Compensation Plan, amended and restated effective July 20, 2026\n\n\nExhibit 31.2:\n\nCertification by Ralph LaRossa Pursuant to Rules 13a-14 and 15d-14 of the 1934 Act\n\n\nExhibit 31.3:\n\nCertification by Daniel J. Cregg Pursuant to Rules 13a-14 and 15d-14 of the 1934 Act\n\n\nExhibit 32.2:\n\nCertification by Ralph LaRossa Pursuant to Section 1350 of Chapter 63 of Title 18 of the U.S. Code\n\n\nExhibit 32.3:\n\nCertification by Daniel J. Cregg Pursuant to Section 1350 of Chapter 63 of Title 18 of the U.S. Code\n\n\nExhibit 101.INS:\n\nInline XBRL Instance Document - The Instance Document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.\n\n\nExhibit 101.SCH:\n\nInline XBRL Taxonomy Extension Schema\n\n\nExhibit 104:\n\nCover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)\n\n\n76\n\nTable of Contents\n\nSIGNATURE Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. The signature of the undersigned company shall be deemed to relate only to matters having reference to such company and any subsidiaries thereof.\n\n\n\n\n\n\nP UBLIC S ERVICE E NTERPRISE G ROUP I NCORPORATED\n\n\n(Registrant)\n\n\n\n\n\n\nBy:\n/ S / R OSE M. C HERNICK\n\n\n\nRose M. Chernick Vice President and Controller (Principal Accounting Officer)\n\nDate: August 4, 2026 SIGNATURE Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. The signature of the undersigned company shall be deemed to relate only to matters having reference to such company and any subsidiaries thereof.\n\n\n\n\n\n\nP UBLIC S ERVICE E LECTRIC A ND G AS C OMPANY\n\n\n(Registrant)\n\n\n\n\n\n\nBy:\n/ S / R OSE M. C HERNICK\n\n\n\nRose M. Chernick Vice President and Controller (Principal Accounting Officer)\n\nDate: August 4, 2026\n77",
+        "charRange": [
+          305372,
+          317547
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 76453,
+            "context": "e, including, without limitation, future revenues, earnings, strategies, prospects, consequences and all other statements that are not purely historical constitute &#8220;forward-looking statements&#8221; within the meaning of the Private Securities Litigation Reform Act of 1995. Such forward-looking statements are subject to risks and uncertainties, which could cause actual results to differ materially from those anticipated. Such statements are based on management's beliefs as well as assumptions made by and information currently available to management. When used herein, the words &#8220;an"
+          },
+          {
+            "charIndex": 128126,
+            "context": "is approximately $ 43 million, escalating to approximately $ 47 million in 2028 and updated annually thereafter based on the change in the Consumer Price Index through the remainder of the contract. A competitor in the contract bidding process filed litigation against LIPA challenging the process. LIPA filed a motion to dismiss the competitor's claim as untimely, which was granted by the New York Supreme Court. The competitor filed an appeal in January 2026. Note 3. V ariable Interest Entity (VIE) VIE for which PSEG LI is the Primary Beneficiary PSEG LI consolidates Servco, a marginally capita"
+          },
+          {
+            "charIndex": 164860,
+            "context": "awsuits against PSE&G and others to attempt to recover costs associated with its past investigation and cleanup work within the LPRSA and to obtain a declaratory judgment of parties' shares of any future costs. PSEG cannot predict the outcome of the litigation. In January 2026, Occidental's parent company completed the sale of Occidental to a third party and identified a new company, Environmental Resource Holdings, LLC, as the successor to Occidental's environmental liability at the Newark Bay Complex and elsewhere. PSE&G and others have filed suit for a declaratory judgment that Occidental r"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 180858,
+            "context": "ount related to outstanding invoices which does not reflect an assessment of claims and potential counterclaims in this matter. At this time, PSEG Power cannot predict the outcome of this matter. Sherman Act Antitrust Matter In July 2025, a putative class action complaint was filed in the United States District Court for the District of Maryland against 26 nuclear generation power companies, including PSEG, and two consulting companies. The plaintiffs allege defendants violated federal antitrust laws by conspiring to fix the compensation and exchange information regarding compensation for nucl"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 108085,
+            "context": "uant to the rules and regulations of the Securities and Exchange Commission (SEC) applicable to Quarterly Reports on Form 10-Q. Certain information and note disclosures normally included in financial statements prepared in accordance with accounting guidance generally accepted in the United States (GAAP) have been condensed or omitted pursuant to such rules and regulations. These Condensed Consolidated Financial Statements and Notes to Condensed Consolidated Financial Statements (Notes) should be read in conjunction with, and update and supplement matters discussed in, the Annual Report on For"
+          },
+          {
+            "charIndex": 112933,
+            "context": "DENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)\nRevenues Unrelated to Contracts with Customers Other PSE&G revenues unrelated to contracts with customers are derived from alternative revenue mechanisms recorded pursuant to regulatory accounting guidance. These revenues, which include the Conservation Incentive Program (CIP), green energy program true-ups and transmission formula rate true-ups, are not a material source of PSE&G revenues. PSEG Power & Other Revenues from Contracts with Customers Electricity and Related Products —PSEG Power owns generation solely within PJM Interconnection,"
+          },
+          {
+            "charIndex": 117292,
+            "context": "(UNAUDITED)\nRevenues Unrelated to Contracts with Customers PSEG Power's revenues unrelated to contracts with customers include electric, gas and certain energy-related transactions accounted for in accordance with Derivatives and Hedging accounting guidance. See Note 10. Financial Risk Management Activities for further discussion. Energy Holdings generates lease revenues which are recorded pursuant to lease accounting guidance. Disaggregation of Revenues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPSE&G\n\n\nPSEG Power & Other (A)\n\n\nEliminations\n\n\nConsolidated\n\n\n\n\n\n\n\nMillions\n\n\n\n\n\nThree Months En"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 75671,
+            "context": "nds\n\n52\n\n\n\nNote 16. Financial Information by Business Segment\n\n52\n\n\n\nNote 17. Related-Party Transactions\n\n55\n\n\nItem 2.\nManagement's Discussion and Analysis of Financial Condition and Results of Operations\n\n56\n\n\n\nExecutive Overview of 2026 and Future Outlook\n\n56\n\n\n\nResults of Operations\n\n64\n\n\n\nLiquidity and Capital Resources\n\n69\n\n\n\nCapital Requirements\n\n71\n\n\nItem 3.\nQuantitative and Qualitative Disclosures About Market Risk\n\n72\n\n\nItem 4.\nControls and Procedures\n\n73\n\n\nPART II. OTHER INFORMATION\n\n\n\n\nItem 1.\nLegal Proceedings\n\n74\n\n\nItem 1A.\nRisk Factors\n\n74\n\n\nItem 5.\nOther Information\n\n74\n\n\nItem 6"
+          },
+          {
+            "charIndex": 243399,
+            "context": "in Item 1A. Risk Factors of Form 10-K provides information about factors that could have a material adverse impact on our businesses. The following supplements that discussion and the discussion included in the Executive Overview of 2025 and Future Outlook provided in Item 7 in our Form 10-K by describing significant events and business developments that have occurred during 2026 and changes to the key factors that we expect may drive our future performance. The following discussion refers to the Condensed Consolidated Financial Statements (Statements) and the Related Notes to Condensed Conso"
+          },
+          {
+            "charIndex": 243919,
+            "context": "dated Financial Statements (Statements) and the Related Notes to Condensed Consolidated Financial Statements (Notes). This discussion should be read in conjunction with such Statements, Notes and the Form 10-K. EXECUTIVE OVER VIEW OF 2026 AND FUTURE OUTLOOK We are a public utility holding company that, acting through our wholly owned subsidiaries, is a predominantly regulated electric and gas utility and a nuclear generation business. Our business plan focuses on achieving growth by allocating capital primarily toward regulated investments in an effort to continue to improve the sustainability"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 145627,
+            "context": "e is less than amortized cost to determine whether the investments are impaired. For these securities, management considers its intent to sell or requirement to sell a security prior to expected recovery. In those cases where a sale is expected, any impairment would be recorded through earnings. For fixed income securities where there is no intent to sell or likely requirement to sell, management evaluates whether credit loss is a component of the impairment. If so, that portion is recorded through earnings while the noncredit loss component is recorded through Accumulated Other Comprehensive"
+          },
+          {
+            "charIndex": 145829,
+            "context": "y. In those cases where a sale is expected, any impairment would be recorded through earnings. For fixed income securities where there is no intent to sell or likely requirement to sell, management evaluates whether credit loss is a component of the impairment. If so, that portion is recorded through earnings while the noncredit loss component is recorded through Accumulated Other Comprehensive Income (Loss). Any subsequent recoveries of the noncredit loss component of the impairment would be recorded through Accumulated Other Comprehensive Income (Loss). Any subsequent recoveries of the credi"
+          },
+          {
+            "charIndex": 146057,
+            "context": "is a component of the impairment. If so, that portion is recorded through earnings while the noncredit loss component is recorded through Accumulated Other Comprehensive Income (Loss). Any subsequent recoveries of the noncredit loss component of the impairment would be recorded through Accumulated Other Comprehensive Income (Loss). Any subsequent recoveries of the credit loss component would be recognized through earnings. The assessment of fair market value compared to cost is applied on a weighted average basis taking into account various purchase dates and initial cost of the securities. Ra"
+          }
+        ],
+        "rate case": [
+          {
+            "charIndex": 244724,
+            "context": "e our energy infrastructure, improve reliability and resilience, and increase EE to meet customer expectations and be well aligned with public policy objectives. With these investments and higher working capital recovery approved in the distribution rate case, our regulated rate base increased from approximately $34 billion as of December 31, 2024 to approximately $36 billion as of December 31, 2025. In addition, our nuclear facilities retain the downside price protection of a production tax credit (PTC) from 2024 through 2032. For the years 2026-2030, our regulated capital investment program"
+          },
+          {
+            "charIndex": 247056,
+            "context": "three periodic rate adjustments as portions of the investment are put into service. In that Order, the BPU also authorized $360 million of investment to replace an additional 75 miles of gas main, with cost recovery to be requested in a future base rate case. Investment under the GSMP III program began in 2026 and will continue through December 2028, plus trailing services replacement and paving costs into 2029. PSE&G currently anticipates filing by year end 2026 to update base rates. PSEG Power At PSEG Power, we seek to produce low-cost electricity by efficiently operating our nuclear genera"
+          },
+          {
+            "charIndex": 269015,
+            "context": "ls with New Jersey's energy policy; &#8226; obtain a fair return for our T&D investments through our transmission formula rate, existing rate incentives, distribution infrastructure and clean energy investment programs and periodic distribution base rate case proceedings; &#8226; focus on controlling costs while maintaining safety, reliability and customer satisfaction and complying with applicable standards and requirements; &#8226; manage the risks and opportunities in federal and state policies related to energy; &#8226; advocate for appropriate regulatory guidance on the PTC to ensure long"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 77704,
+            "context": "e United States Securities and Exchange Commission (SEC), including our Annual Report on Form 10-K and subsequent reports on Form 10-Q and Form 8-K. These factors include, but are not limited to: &#8226; any inability to successfully develop, obtain regulatory approval for, or construct transmission and distribution, and our nuclear generation projects; &#8226; significant resource adequacy challenges that present affordability and reliability concerns and that could cause policymakers to implement responsive measures that could have a material, adverse impact on our business, strategy, growth"
+          },
+          {
+            "charIndex": 78134,
+            "context": "y and reliability concerns and that could cause policymakers to implement responsive measures that could have a material, adverse impact on our business, strategy, growth rates, cash flows, results of operations, and financial condition and increase regulatory uncertainty for utility investment initiatives and programs; &#8226; the physical, financial and transition risks related to climate change, including risks relating to potentially increased legislative and regulatory burdens, changing customer preferences and lawsuits; &#8226; any equipment failures, gas explosions, accidents, critical"
+          },
+          {
+            "charIndex": 78352,
+            "context": "inancial condition and increase regulatory uncertainty for utility investment initiatives and programs; &#8226; the physical, financial and transition risks related to climate change, including risks relating to potentially increased legislative and regulatory burdens, changing customer preferences and lawsuits; &#8226; any equipment failures, gas explosions, accidents, critical operating technology or business system failures, natural disasters, severe weather events, acts of war, terrorism or other acts of violence, sabotage, physical attacks or security breaches, cyberattacks or other incid"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 165356,
+            "context": "Bay Complex and elsewhere. PSE&G and others have filed suit for a declaratory judgment that Occidental remains liable for investigation and cleanup costs within the Newark Bay Complex and elsewhere. The EPA finalized and received court approval of a settlement with 82 parties who have agreed to pay $ 150 million to resolve their LPRSA CERCLA liability, in whole or in part. This settlement is being appealed. PSE&G and PSEG Power are not included in the settlement, but the EPA sent PSE&G, Occidental, and several other Potentially Responsible Parties (PRPs) a letter in March 2022 inviting them to"
+          },
+          {
+            "charIndex": 165487,
+            "context": "tion and cleanup costs within the Newark Bay Complex and elsewhere. The EPA finalized and received court approval of a settlement with 82 parties who have agreed to pay $ 150 million to resolve their LPRSA CERCLA liability, in whole or in part. This settlement is being appealed. PSE&G and PSEG Power are not included in the settlement, but the EPA sent PSE&G, Occidental, and several other Potentially Responsible Parties (PRPs) a letter in March 2022 inviting them to submit to the EPA individually or jointly an offer to fund or participate in the next stages of the remediation. PSEG submitted a"
+          },
+          {
+            "charIndex": 165562,
+            "context": "finalized and received court approval of a settlement with 82 parties who have agreed to pay $ 150 million to resolve their LPRSA CERCLA liability, in whole or in part. This settlement is being appealed. PSE&G and PSEG Power are not included in the settlement, but the EPA sent PSE&G, Occidental, and several other Potentially Responsible Parties (PRPs) a letter in March 2022 inviting them to submit to the EPA individually or jointly an offer to fund or participate in the next stages of the remediation. PSEG submitted a good faith offer to the EPA in June 2022 on behalf of PSE&G and PSEG Power."
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 77892,
+            "context": "ted to: &#8226; any inability to successfully develop, obtain regulatory approval for, or construct transmission and distribution, and our nuclear generation projects; &#8226; significant resource adequacy challenges that present affordability and reliability concerns and that could cause policymakers to implement responsive measures that could have a material, adverse impact on our business, strategy, growth rates, cash flows, results of operations, and financial condition and increase regulatory uncertainty for utility investment initiatives and programs; &#8226; the physical, financial and"
+          },
+          {
+            "charIndex": 157542,
+            "context": "iable Interest Entity. The OPEB obligation, as well as the offsetting long-term receivable, is separately presented on the Condensed Consolidated Balance Sheet of PSEG. Prepaid pension costs are included in Other Noncurrent Assets with an offsetting liability in Other Noncurrent Liabilities. Pension and OPEB costs of Servco are accounted for according to the OSA. Servco recognizes expenses for contributions to its pension plan trust and for OPEB payments made to retirees. Operating Revenues are recognized for the reimbursement of these costs. Servco plans to contribute $ 15 million into its pe"
+          },
+          {
+            "charIndex": 159604,
+            "context": "rformance guarantees of its subsidiaries. Under these agreements, guarantees cover credit extended between entities and can be reciprocal in nature. The exposure between counterparties can move in either direction. In order for PSEG Power to incur a liability for the face value of the outstanding guarantees, &#8226; its subsidiaries would have to fully utilize the credit granted to them by every counterparty to whom PSEG Power has provided a guarantee, and &#8226; the net position of the related contracts would have to be &#8220;out-of-the-money&#8221;, including payables (if the contracts are"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-02-26",
+        "reportDate": "2025-12-31",
+        "accessionNumber": "0001193125-26-077446",
+        "primaryDocument": "peg-20251231.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/788784/000119312526077446/peg-20251231.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/788784/000119312526077446/"
+      },
+      "textLength": 716976,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for the year ended December 31, 2024 as filed with the SEC on February 25, 2025 for information related to the year ended December 31, 2024 as compared to 2023, which information is incorporated herein by reference. LIQUIDITY AND C APITAL RESOURCES The following discussion of our liquidity and capital resources is on a consolidated basis, noting the uses and contributions, where material, of our two direct major operating subsidiaries. Financing Methodology We expect our capital requirements to be met through internally generated cash flows and external financings, consisting of short-term debt for working capital needs and long-term debt for capital investments. PSE&G's sources of external liquidity include a $1 billion multi-year revolving credit facility. PSE&G uses internally generated cash flow and its commercial paper program to meet seasonal, intra-month and temporary working capital needs. PSE&G does not engage in any intercompany borrowing or lending arrangements. PSE&G maintains a back-up credit facility in an amount sufficient to cover the commercial paper and letters of credit outstanding. PSE&G's dividend payments to/capital contributions from PSEG are consistent with its capital structure objectives which have been established to maintain investment grade credit ratings. PSE&G's long-term financing plan is designed to replace maturities, fund a portion of its capital program and manage short-term debt balances. Generally, PSE&G uses either secured medium-term notes or first mortgage bonds to raise long-term capital. PSEG, PSEG Power, Energy Holdings, PSEG LI and Services participate in a corporate money pool, an aggregation of daily cash balances designed to efficiently manage their respective short-term liquidity needs, which are accounted for as intercompany loans. Servco does not participate in the corporate money pool. Servco's short-term liquidity needs are met through an account funded and owned by LIPA. PSEG and PSEG Power have access through sub-limits to a revolving Master Credit Facility, which provides for $2.75 billion of multi-year credit capacity. The current PSEG sub-limit is $1.5 billion and current PSEG Power sub-limit is $1.25 billion. Sub-limits can be adjusted subject to the terms of the Master Credit Facility. PSEG's available sources of external liquidity may include the issuance of long-term debt securities and the incurrence of additional indebtedness through our commercial paper program back-stopped by our credit facility. Our current sources of external liquidity include the Master Credit Facility. This facility is available to back-stop PSEG's commercial paper program, issue letters of credit and for general corporate purposes. PSEG's Master Credit Facility and the commercial paper program are available to support PSEG's working capital needs and are also available to make equity contributions or provide liquidity support to its subsidiaries. Additionally, from time to time, PSEG enters into short-term loan agreements designed to enhance its liquidity position.\n53\n\nTable of Contents\n\nPSEG Power's sources of external liquidity include the Master Credit Facility and PSEG Power's letter of credit facilities and may include the issuance of long-term debt securities and entering into short-term loan agreements. Credit capacity is primarily used to provide collateral in support of PSEG Power's sales and purchases of electricity and natural gas as the market prices for energy and fuel fluctuate, and to meet potential collateral postings in the event that PSEG Power is downgraded to below investment grade by Standard & Poor's ( S&P) or Moody's. PSEG Power's dividend payments to PSEG are also designed to be consistent with its capital structure objectives which have been established to maintain investment grade credit ratings and provide sufficient financial flexibility. Operating Cash Flows We continue to expect our operating cash flows combined with cash on hand and financing activities to be sufficient to fund planned capital expenditures and shareholder dividends. For the year ended December 31, 2025, our operating cash flow increased $1,165 million, as compared to 2024. The net increase was primarily due to a net change at PSE&G, as discussed below, combined with an inflow of $22 million in net cash collateral postings in 2025 as compared to a $131 million outflow in 2024 at PSEG Power, and an $89 million decrease in payments to counterparties at PSEG Power. PSE&G PSE&G's operating cash flow increased $643 million from $1,725 million to $2,368 million for the year ended December 31, 2025, as compared to 2024. The increase was due primarily to a decrease in net regulatory deferrals, a decrease in materials and supplies inventory, lower tax payments, and the timing of vendor payments, partially offset by an increase in accounts receivable. Short-Term Liquidity PSEG meets its short-term liquidity requirements, as well as those of PSEG Power, primarily through the issuance of commercial paper and, from time to time, short-term loans. PSE&G maintains its own separate commercial paper program to meet its short-term liquidity requirements. Each commercial paper program is fully back-stopped by its own separate credit facility. Each of our credit facilities is restricted as to availability and use to the specific companies as listed below; however, if necessary, the PSEG facilities can also be used to support our subsidiaries' liquidity needs. In March 2025, PSEG, PSEG Power and PSE&G executed a one year extension to their existing $3.75 billion revolving credit facilities, extending the maturity through March 2029 and PSEG Power amended certain provisions in the Master Credit Facility including removal of subsidiary guarantees of PSEG Power. The PSEG Power letter of credit facilities and term loans were also amended to be consistent with the Master Credit Facility, and the $150 million uncommitted credit facility at a subsidiary of PSEG Power was terminated. In December 2025, PSEG Power amended its existing $400 million 364-day variable rate term loan, which increased the balance to $500 million and extended the maturity to December 2026. In February 2026, PSEG entered into a 364-day variable rate term loan agreement for $500 million. PSEG Power has uncommitted credit facilities totaling $425 million, which can be utilized for letters of credit. As of December 31, 2025, PSEG Power had $243 million in letters of credit outstanding under these uncommitted credit facilities. PSE&G has an uncommitted credit facility totaling $30 million, which can be utilized for letters of credit. As of December 31, 2025, PSE&G's letters of credit outstanding were immaterial under this uncommitted credit facility.\n54\n\nTable of Contents\n\nOur total committed credit facilities and available liquidity as of December 31, 2025 were as follows:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAs of December 31, 2025\n\n\n\n\n\nCompany/Facility\n\nTotal Facility\n\n\nUsage\n\n\nAvailable Liquidity\n\n\n\n\n\n\n\nMillions\n\n\n\n\n\nPSEG\n\n$\n1,500\n\n\n$\n719\n\n\n$\n781\n\n\n\n\n\nPSE&G\n\n\n1,000\n\n\n\n351\n\n\n\n649\n\n\n\n\n\nPSEG Power\n\n\n1,325\n\n\n\n82\n\n\n\n1,243\n\n\n\n\n\nTotal\n\n$\n3,825\n\n\n$\n1,152\n\n\n$\n2,673\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFor additional information, see Item 8. Note 13. Debt and Credit Facilities. We continually monitor our liquidity and seek to add capacity as needed to meet our liquidity requirements, including to satisfy any additional collateral requirements. As of December 31, 2025, our liquidity position, including our credit facilities and access to external financing, was expected to be sufficient to meet our projected stressed requirements over our 12-month planning horizon. PSEG analyzes its liquidity requirements using stress scenarios that consider different events, including changes in commodity prices and the potential impact of PSEG Power losing its investment grade credit rating from S&P or Moody's, which would represent a two-level downgrade from its current Moody's and S&P ratings. In the event of a deterioration of PSEG Power's credit rating, certain of PSEG Power's agreements allow the counterparty to demand further performance assurance. The potential additional collateral that we would be required to post under these agreements if PSEG Power were to lose its investment grade credit rating was approximately $703 million and $618 million as of December 31, 2025 and 2024, respectively. See Item 8. Note 12. Commitments and Contingent Liabilities for additional discussion of PSEG Power's agreements. Long-Term Debt Financing During the next twelve months, &#8226; PSE&G has $450 million of 0.95% Secured Medium-Term Notes Series N, due March 2026, and &#8226; PSE&G has $425 million of 2.25% Secured Medium-Term Notes Series L, due September 2026. For additional information, see Item 8. Note 13. Debt and Credit Facilities. Debt Covenants Our credit agreements contain maximum debt to equity ratios and other restrictive covenants and conditions to borrowing. We are currently in compliance with all of our debt covenants. Continued compliance with applicable financial covenants will depend upon our future financial position, level of earnings and cash flows, as to which no assurances can be given. In addition, under its First and Refunding Mortgage (Mortgage), PSE&G may issue new First and Refunding Mortgage Bonds against previous additions and improvements, provided that its ratio of earnings to fixed charges calculated in accordance with its Mortgage is at least 2 to 1, and/or against retired Mortgage Bonds. As of December 31, 2025, PSE&G's Mortgage coverage ratio was 3.9 to 1 and the Mortgage would permit up to approximately $10.2 billion aggregate principal amount of new Mortgage Bonds to be issued against additions and improvements to its property. Default Provisions Our bank credit agreements and indentures contain various, customary default provisions that could result in the potential acceleration of indebtedness under the defaulting company's agreement. In particular, PSEG's bank credit agreement contains provisions under which certain events, including an acceleration of material indebtedness under PSE&G's and PSEG Power's respective financing agreements, a failure by PSEG, PSE&G or PSEG Power to satisfy certain final judgments and certain bankruptcy events by PSEG, PSE&G or PSEG Power, would constitute an event of default under the PSEG bank credit agreements. Under the PSEG bank credit agreements, it would also be an event of default if, in certain circumstances, either PSE&G or PSEG Power ceases to be wholly owned by PSEG. The PSE&G and PSEG Power bank credit agreements include certain similar default provisions; however, such provisions only\n55\n\nTable of Contents\n\nrelate to the respective borrower under such agreement and its subsidiaries and do not contain cross default provisions to each other. The PSE&G and PSEG Power bank credit agreements do not include cross default provisions relating to PSEG. Each of PSEG's, PSE&G's and PSEG Power's bank credit agreements also contain limitations on the incurrence of liens by it and certain of its subsidiaries and PSEG Power's bank credit agreements contain restrictions on the incurrence of certain subsidiary debt. PSEG's senior notes include a cross acceleration provision that may be triggered upon the acceleration of more than $75 million of indebtedness incurred by PSEG. Such provision does not extend to an acceleration of indebtedness by any of PSEG's subsidiaries. PSEG Power's senior notes contain a similar provision with respect to the acceleration of more than $75 million of indebtedness incurred by PSEG Power but such provision does not extend to an acceleration of indebtedness by any of PSEG Power's subsidiaries. Under PSE&G's medium-term note indenture, an event of default under PSE&G's mortgage indenture and acceleration of the mortgage bonds would constitute an event of default. Ratings Triggers Our debt indentures and credit agreements do not contain any material &#8220;ratings triggers&#8221; that would cause an acceleration of the required interest and principal payments in the event of a ratings downgrade. However, in the event of a downgrade, any one or more of the affected companies may be subject to increased interest costs on certain bank debt and certain collateral requirements. In the event that we are not able to affirm representations and warranties on credit agreements, lenders would not be required to make loans. In accordance with BPU requirements under the BGS contracts, PSE&G is required to maintain an investment grade credit rating. If PSE&G were to lose its investment grade rating, it would be required to file a plan to assure continued payment for the BGS requirements of its customers. Fluctuations in commodity prices or a deterioration of PSEG Power's credit rating to below investment grade could increase PSEG Power's required margin postings under various agreements entered into in the normal course of business. PSEG Power believes it has sufficient liquidity to meet the required posting of collateral which would result from a credit rating downgrade to below investment grade by S&P or Moody's at today's market prices. Common Stock Dividends\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYears Ended December 31,\n\n\n\n\n\nDividend Payments on Common Stock\n\n2025\n\n\n2024\n\n\n2023\n\n\n\n\n\nPer Share\n\n$\n2.52\n\n\n$\n2.40\n\n\n$\n2.28\n\n\n\n\n\nin Millions\n\n$\n1,258\n\n\n$\n1,196\n\n\n$\n1,137\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOn February 24, 2026, our Board of Directors approved a $0.67 per share common stock dividend for the first quarter of 2026. This reflects an indicative annual dividend rate of $2.68 per share. We expect to continue to pay cash dividends on our common stock; however, the declaration and payment of future dividends to holders of our common stock will be at the discretion of the Board of Directors and will depend upon many factors, including our financial condition, earnings, capital requirements of our businesses, alternate investment opportunities, legal requirements, regulatory constraints, industry practice and other factors that the Board of Directors deems relevant. For additional information related to cash dividends on our common stock, see Item 8. Note 21. Earnings Per Share (EPS) and Dividends. Credit Ratings If the rating agencies lower or withdraw our credit ratings, such revisions may adversely affect the market price of our securities and serve to materially increase our cost of capital and limit access to capital. Credit ratings shown are for securities that we typically issue. Outlooks are shown for the credit ratings at each entity and can be Stable, Negative, or Positive. There is no assurance that the ratings will continue for any given period of time or that they will not be revised by the rating agencies, if in their respective judgments, circumstances warrant. Each rating given by an agency sh",
+        "charRange": [
+          335252,
+          350252
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors provides information about factors that could have a material adverse impact on our businesses. The following discussion provides an overview of the significant events and business developments that have occurred during 2025 and key factors that we expect may drive our future performance. This discussion refers to the Consolidated Financial Statements (Statements) and the related Notes to the Consolidated Financial Statements (Notes). This discussion should be read in conjunction with such Statements and Notes. EXECUTIVE OVERVIEW OF 2 025 AND FUTURE OUTLOOK We are a public utility holding company that, acting through our wholly owned subsidiaries, is a predominantly regulated electric and gas utility and a nuclear generation business. Our business plan focuses on achieving growth by allocating capital primarily toward regulated investments in an effort to continue to improve the sustainability and predictability of our business and realizing the value of the consistent and reliable carbon-free generation from our nuclear units. We are focused on investing to meet growing energy demand, modernize our energy infrastructure, improve reliability and resilience, increase EE to meet customer expectations and be well aligned with public policy objectives. With these investments and higher working capital recovery approved in the distribution rate case, our regulated rate base increased from approximately $34 billion as of December 31, 2024 to approximately $36 billion as of December 31, 2025. In addition, our nuclear facilities retain the downside price protection of a production tax credit (PTC) from 2024 through 2032.\n41\n\nTable of Contents\n\nFor the years 2026-2030, our regulated capital investment program is estimated to be in a range of $22.5 billion to $25.5 billion. We expect these capital investments to result in a compound annual growth rate in our regulated rate base in a range of 6.0% to 7.5% from year-end 2025 to year-end 2030. The regulated capital investments represent the majority of PSEG's total capital investment program of $24 billion to $28 billion. The low end of the range includes an extension of our Gas System Modernization Program (GSMP) and Clean Energy Future (CEF)-EE program, as these programs are expected to continue beyond their currently approved timeframes. The upper end of our capital investment range includes potential incremental investments to address continued demand growth and other investments to meet infrastructure needs and support New Jersey's clean energy goals. PSE&G At PSE&G, our focus is on investing capital in T&D infrastructure and clean energy programs to meet growing demand, enhance the reliability and resiliency of our T&D system, meet customer expectations and support public policy objectives. In October 2024, the BPU approved our CEF-EE II filing authorizing approximately $2.9 billion for energy efficiency projects committed between January 1, 2025 through June 30, 2027, and completed over an expected six-year period. The Order approved a program investment budget of approximately $1.9 billion, net of administrative expenses, and approximately $1 billion to continue our customer on-bill repayment program. This EE filing is a significant increase from our prior filings, driven by an increase in the savings targets required under the BPU Energy Efficiency Framework and higher costs to achieve those targeted savings. Our GSMP II program extension provided for main replacement through December 2025 plus trailing services replacement and paving costs into 2026 totaling approximately $900 million of investment. Of the $900 million, $750 million is recovered through three periodic rate adjustments with the balance recovered through a future base rate case. In November 2025, the BPU issued an Order approving PSE&G's GSMP III program, authorizing $1.05 billion of capital investment to replace 525 miles of high pressure cast iron gas mains and unprotected steel mains, with cost recovery through three periodic rate adjustments as portions of the investment are put into service. In that Order, the BPU also authorized $360 million of investment to replace an additional 75 miles of gas main, with cost recovery to be requested in a future base rate case. Investment under the GSMP III program will begin in 2026 and continue through December 2028 plus trailing services replacement and paving costs into 2029. In October 2024, the BPU issued an Order approving the settlement of PSE&G's distribution rate case with new rates effective October 15, 2024. The Order provided for a $17.8 billion rate base, a 9.6% return on equity for PSE&G's distribution business and a 55% equity component of its capitalization structure. In addition, the Order approved mechanisms beginning January 1, 2025 associated with the recovery of future storm costs as well as the recovery of annual pension and OPEB expenses. PSEG Power At PSEG Power, we seek to produce low-cost electricity by efficiently operating our nuclear generation assets, mitigate earnings volatility through hedging and the PTC mechanism, and support public policies that preserve these existing carbon-free base load nuclear generating plants. During 2025, our nuclear units generated approximately 30.9 terawatt hours and operated at a capacity factor of 91.2%. Effective April 2025, PSEG Power revised the estimated useful lives for the Salem 1, Salem 2 and Hope Creek nuclear plants due to our expectation that a 20-year license extension will be approved for these facilities. In October 2025, we completed work to extend the refueling cycle at our Hope Creek facility from 18 months to 24 months. In addition, we are planning power uprates at Salem Units 1 and 2 that will increase generation capacity and reliability and support long-term operation of these units, including through a potential subsequent license renewal. Our hedging strategy continues to incorporate an estimated range of risk reduction impacts from the PTCs on our nuclear generation portfolio while retaining the ability to benefit when market pricing exceeds the level at which we would receive PTCs. As of December 31, 2025, we expect that our current portfolio position for 2026 will result in the realized value of our nuclear generation output being above the level at which we would receive PTCs. Our strategy will continue to evolve taking into account energy market conditions, PTC guidance uncertainty, and potential incremental changes upon receiving U.S.\n42\n\nTable of Contents\n\nTreasury guidance. In addition, we continue to explore opportunities for the potential sale of power, capacity and/or emission credits from our nuclear facilities pursuant to long-term agreements. Climate Strategy and Sustainability Efforts We remain guided by our vision to power a future where people use energy more efficiently, and it's safer and delivered more reliably than ever. Our investments remain focused on infrastructure modernization, energy efficiency, and supporting growing customer demand, as well as New Jersey's long-term energy goals. We have adjusted our net zero greenhouse gas (GHG) emissions goal that includes direct GHG emissions (Scope 1) and indirect GHG emissions from operations (Scope 2) across our business operations, which supports New Jersey's clean energy and climate goals, from 2030 to 2050. Transition risks, including federal and/or state policy and regulation, technology availability and affordability, market demands, and customer needs likely will impact the pace of our net zero progress and our ability to achieve the 2050 goal. PSE&G has undertaken a number of initiatives that support the reduction of GHG emissions, including our implementation of New Jersey's EE and related programs that are intended to support New Jersey's Energy Master Plan (EMP) and Gubernatorial Executive Orders through programs designed to help customers use energy more efficiently, reduce GHG emissions, support the expansion of the EV infrastructure in New Jersey, install energy storage capacity to supplement solar generation and enhance grid resiliency, install smart meters and supporting infrastructure to allow for the integration of other clean energy technologies and to more efficiently respond to weather and other outage events. We continue to assess physical risks of climate change and adapt our capital investment program to improve the reliability and resiliency of our system in an environment of increasing frequency and severity of weather events. PSE&G is committed to the safe and reliable delivery of natural gas to approximately 1.9 million customers throughout New Jersey and we are equally committed to reducing GHG emissions associated with such operations. The GSMP is designed to improve safety and reliability and significantly reduce natural gas leaks in our distribution system, which would reduce the release of methane, a potent GHG, into the air. From 2018 through 2025 we reduced reported methane emissions by over 30% system wide. We also continue to focus on working to preserve the economic viability of our nuclear units, which provide over 80% of the carbon-free energy in New Jersey. These efforts include reducing market risk by advocating for state and federal policies, such as the PTC established by the IRA, and capacity market reform and related generator interconnection policies at PJM Interconnection, L.L.C. (PJM) that recognize the value of our nuclear fleet's carbon-free generation and its contribution to grid reliability and resource adequacy, and potential long-term contracts that recognize the value of its consistent and reliable carbon-free energy. Competitively Bid, FERC Regulated Transmission PSEG continues to evaluate additional investment opportunities in regulated transmission. In December 2023, PJM awarded us an approximately $424 million project to address increasing load and reliability issues in Maryland and northern Virginia as part of its 2022 Window 3 competitive solicitation. PJM has directed that the project be placed in service in 2027. However, based on the procedural timeline established by order of the Maryland Public Service Commission, we do not currently believe a 2027 in-service date for the project is reasonably achievable. We are continuing to take all available steps to obtain approvals for timely project execution. We cannot predict the outcome. PSEG will continue to evaluate opportunities to participate in transmission solicitation processes and may decide to submit bids for these opportunities, some of which could be material investments. PSEG LI PSEG LI has been operating LIPA's electric T&D system in Long Island, New York since 2014 under a 12-year OSA with LIPA that expired on December 31, 2025. In 2025, a five year extension of the contract was approved. A competitor in the contract bidding process filed litigation against LIPA challenging the process. LIPA filed a motion to dismiss the competitor's claim as untimely, which was granted by the New York Supreme Court in December 2025. The competitor filed an appeal in January 2026.\n43\n\nTable of Contents\n\nFinancial Results The financial results for PSEG, PSE&G and PSEG Power & Other for the years ended December 31, 2025 and 2024 are presented as follows:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYears Ended December 31,\n\n\n\n\n\n\n\n2025\n\n\n2024\n\n\n\n\n\n\n\nMillions, except per share data\n\n\n\n\n\nPSE&G\n\n$\n1,745\n\n\n$\n1,547\n\n\n\n\n\nPSEG Power & Other\n\n\n366\n\n\n\n225\n\n\n\n\n\nPSEG Net Income\n\n$\n2,111\n\n\n$\n1,772\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPSEG Net Income Per Share (Diluted)\n\n$\n4.22\n\n\n$\n3.54\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFor a detailed discussion of our financial results, see Results of Operations. Regulatory, Legislative and Other Developments We closely monitor and engage with stakeholders on significant regulatory and legislative developments. Transmission Rate Proceedings and Return on Equity (ROE) Under current FERC rules, PSE&G continues to earn a 50 basis point adder to its base ROE for its membership in PJM as a transmission owner. However, certain regulatory or legislative actions could potentially lead to the loss of this adder which, if eliminated, would prospectively reduce PSE&G's annual Net Income and annual cash inflows by approximately $40 million. New Jersey Clean Energy Stakeholder Proceedings In February 2023, the previous governor of New Jersey issued executive orders (EOs) that establish or accelerate previously established 2050 targets for clean-sourced energy, building decarbonization, and EV adoption goals, with new target dates of 2030 or 2035, as applicable. In November 2025 the BPU released the updated Energy Master Plan (EMP) that presents potential pathways toward meeting New Jersey's clean energy and decarbonization goals. Given the new administration took office in January 2026, it is not clear how the EMP might influence New Jersey's energy policy and we cannot predict the impact on our business that might result. Environmental Regulation We are subject to liability under environmental laws for the costs and penalties of remediating contamination of property now or formerly owned by us and of property contaminated by hazardous substances that we generated. In particular, the historic operations of PSEG companies and the operations of numerous other companies within the Newark Bay Complex are alleged by federal and state agencies to have discharged substantial contamination into the Newark Bay Complex in violation of various statutes. The Newark Bay Complex is a tidal estuary in northern New Jersey that includes Newark Bay, as well as portions of the Passaic River, the Hackensack River and other surrounding waterways. The U.S. Environmental Protection Agency (EPA) has designated various portions of the Newark Bay Complex as federal Superfund sites that must be investigated and remediated under the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (CERCLA). In addition, PSEG Power has retained ownership of certain liabilities excluded from the sale of its fossil generation portfolio, primarily related to obligations under New Jersey and Connecticut state laws to investigate and remediate the sites. We are also currently involved in a number of proceedings relating to sites where other hazardous substances may have been discharged and may be subject to additional proceedings in the future, and the costs and penalties of any such remediation efforts could be material. For further information regarding the matters described above, as well as other matters that may impact our financial condition and results of operations, see Item 8. Note 12. Commitments and Contingent Liabilities.\n44\n\nTable of Contents\n\nNuclear In May 2025, PSEG Power's Salem 1, Salem 2 and Hope Creek nuclear plants zero emission certificate (ZEC) sales concluded. Pursuant to a process established by the BPU, ZECs were purchased from these nuclear plants by the electric distribution companies (EDCs) in New Jersey. As previously noted, the F",
+        "charRange": [
+          291946,
+          306946
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 202985,
+            "context": "l generation to meet those electric needs. These factors could impact the need to invest in our electric and gas T&D systems and, therefore, our growth rate. Severe weather or acts of nature, including hurricanes, winter storms, earthquakes, floods, wildfires and other natural disasters can stress systems, disrupt operation of our facilities and cause service outages, and property damage that require incurring additional expenses. In addition, the effects of climate change will have increased the physical risks to our facilities and operations resulting from such climate hazards as more severe"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 119043,
+            "context": "e, including, without limitation, future revenues, earnings, strategies, prospects, consequences and all other statements that are not purely historical constitute &#8220;forward-looking statements&#8221; within the meaning of the Private Securities Litigation Reform Act of 1995. Such forward-looking statements are subject to risks and uncertainties, which could cause actual results to differ materially from those anticipated. Such statements are based on management's beliefs as well as assumptions made by and information currently available to management. When used herein, the words &#8220;an"
+          },
+          {
+            "charIndex": 151975,
+            "context": "operating LIPA's electric T&D system in Long Island, New York since 2014 under a 12-year OSA with LIPA that expired on December 31, 2025. In 2025, a five year extension of the contract was approved. A competitor in the contract bidding process filed litigation against LIPA challenging the process. LIPA filed a motion to dismiss the competitor's claim as untimely, which was granted by the New York Supreme Court in December 2025. The competitor filed an appeal in January 2026.\n7\n\nTable of Contents\n\nUnder the OSA, PSEG LI acts as LIPA's agent in performing many of its obligations and in return (a"
+          },
+          {
+            "charIndex": 195608,
+            "context": "ce Park\n\n50\n\nEVP and General Counsel - PSEG\n\nSeptember 2024 to present\n\n\n\n\n\n\nEVP and General Counsel - PSE&G\n\nSeptember 2024 to present\n\n\n\n\n\n\nEVP and General Counsel - PSEG Power\n\nSeptember 2024 to present\n\n\n\n\n\n\nVP - Deputy General Counsel and Chief Litigation Counsel - Services\n\nJuly 2020 to September 2024\n\n\n\n\n\n\n\n\n\n\n\nSheila J. Rostiac\n\n55\n\nSVP - Chief Administrative Officer and Chief Human Resources Officer - Services\n\nJanuary 2020 to present\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRichard T. Thigpen\n\n65\n\nSVP - Corporate Citizenship - Services\n\nJuly 2018 to present\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRose M. Chernick\n\n62\n\nV"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 576635,
+            "context": "unt related to outstanding invoices which does not reflect an assessment of claims and potential counterclaims in this matter. At this time, PSEG Power cannot predict the outcome of this matter . Sherman Act Antitrust Matter In July 2025, a putative class action complaint was filed in the United States District Court for the District of Maryland against 26 nuclear generation power companies, including PSEG, and two consulting companies. The plaintiffs allege defendants violated federal antitrust laws by conspiring to fix the compensation and exchange information regarding compensation for nucl"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 146591,
+            "context": "PTC rate is up to $15 per megawatt hour (MWh) subject to adjustment based upon a facility's gross receipts and meeting prevailing wage rules. The PTC rate and the gross receipts threshold are subject to annual inflation adjustments. Until additional guidance is issued by the U.S. Treasury, the final realized value of the PTC is subject to adjustment, which may be material. PSEG did not record any PTCs for any of its nuclear units in 2025 as gross receipts exceeded the level at which we would receive PTCs. However, the PTC continues to provide a benefit to our nuclear units by helping to mitiga"
+          },
+          {
+            "charIndex": 147888,
+            "context": "proximately $10/MWh. ZEC revenue recorded was reduced by the estimated PTCs generated from PSEG Power's Salem 1, Salem 2, and Hope Creek nuclear plants. ZEC revenue will be adjusted based upon\n6\n\nTable of Contents\n\nthe actual amount of the PTCs when guidance is issued on how to calculate gross receipts and that adjustment could be material. In addition to energy sales, we earn revenue from capacity payments for our generating assets. These payments are compensation for committing our generating units to PJM for dispatch at its discretion. Capacity payments reflect the value to PJM of assurance"
+          },
+          {
+            "charIndex": 150415,
+            "context": ". Our hedging strategy also considers the risk reduction impact of the PTC, as the PTC is intended to provide sufficient and stable support for nuclear units. While the PTC eligibility period began in January 2024, the U.S. Treasury has yet to issue guidance regarding the definition of gross receipts. We continue to analyze the impact of the IRA on our nuclear units, including potential future guidance from the U.S. Treasury, potential impacts on hedging strategies and overall financial support. We historically have sold a portion of our anticipated generation over a multi-year forward horizon"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 116192,
+            "context": "n Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities\n\n38\n\n\nItem 6.\n[Reserved]\n\n40\n\n\nItem 7.\nManagement's Discussion and Analysis of Financial Condition and Results of Operations\n\n41\n\n\n\nExecutive Overview of 2025 and Future Outlook\n\n41\n\n\n\nResults of Operations\n\n48\n\n\n\nLiquidity and Capital Resources\n\n53\n\n\n\nCapital Requirements\n\n57\n\n\n\nCritical Accounting Estimates\n\n59\n\n\nItem 7A.\nQuantitative and Qualitative Disclosures About Market Risk\n\n64\n\n\nItem 8.\nFinancial Statements and Supplementary Data\n\n65\n\n\n\nReport of Independent Registered Public Accounting Firm (PCAOB ID No."
+          },
+          {
+            "charIndex": 133673,
+            "context": "r transmission revenues are not impacted by sales volumes. Our current approved transmission rates provide for a base ROE of 9.90% and a 50 basis point adder for our membership in PJM as an RTO. See Item 7. MD&A—Executive Overview of 2025 and Future Outlook for additional information. Distribution PSE&G distributes electricity and natural gas to end users in our respective franchised service territories. Our distribution rates are subject to periodic rate cases approved by the BPU. In October 2024, the BPU issued an Order approving the settlement of PSE&G's electric and gas distribution base r"
+          },
+          {
+            "charIndex": 134637,
+            "context": "E, EV and renewable energy investment programs with cost recovery through various clause mechanisms. For a discussion of proposed and approved programs, see Investment Clause Programs as follows and Item 7. MD&A—Executive Overview of 2025 and Future Outlook. Our load requirements are split among commercial, residential and industrial customers, as shown in the following table for 2025:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n% of 2025 Sales\n\n\n\n\n\nCustomer Type\n\nElectric\n\n\nGas\n\n\n\n\n\nCommercial\n\n\n57\n%\n\n\n38\n%\n\n\n\n\nResidential\n\n\n34\n%\n\n\n58\n%\n\n\n\n\nIndustrial\n\n\n9\n%\n\n\n4\n%\n\n\n\n\nTotal\n\n\n100\n%\n\n\n100\n%\n\n\n\n\n\n\n\n\n\n\n\n\n\nOur c"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 209454,
+            "context": "ess. In addition, the inability to restore power to our customers on a timely basis could result in negative publicity and materially damage our reputation. Any inability to recover the carrying amount of our long-lived assets could result in future impairment charges which could have a material adverse impact on our financial condition and results of operations. Long-lived assets represent approximately 73% and 80% of the total assets of PSEG and PSE&G, respectively, as of December 31, 2025. Management evaluates long-lived assets for impairment whenever events or changes in circumstances, suc"
+          },
+          {
+            "charIndex": 209745,
+            "context": "erial adverse impact on our financial condition and results of operations. Long-lived assets represent approximately 73% and 80% of the total assets of PSEG and PSE&G, respectively, as of December 31, 2025. Management evaluates long-lived assets for impairment whenever events or changes in circumstances, such as significant adverse changes in regulation, including a disallowance of certain costs, a potential sale or disposition of an asset significantly before the end of its useful life, business climate or market conditions, including prolonged periods of adverse commodity and capacity prices"
+          },
+          {
+            "charIndex": 210367,
+            "context": "dicate an asset's or group of assets' carrying amount may not be recoverable. Significant reductions in our expected revenues or cash flows for an extended period of time resulting from such\n21\n\nTable of Contents\n\nevents could result in future asset impairment charges, which could have a material adverse impact on our financial condition and results of operations. Disruptions or cost increases in our supply chain, including labor shortages, could materially impact our business. The supply chain of goods and services could be impacted by several factors, including sanctions, tariffs, manufactur"
+          }
+        ],
+        "rate case": [
+          {
+            "charIndex": 133878,
+            "context": ". MD&A—Executive Overview of 2025 and Future Outlook for additional information. Distribution PSE&G distributes electricity and natural gas to end users in our respective franchised service territories. Our distribution rates are subject to periodic rate cases approved by the BPU. In October 2024, the BPU issued an Order approving the settlement of PSE&G's electric and gas distribution base rate case with new rates effective October 15, 2024. The Order provided for a $17.8 billion rate base, a 9.6% return on equity for PSE&G's distribution business and a 55% equity component of its capitalizat"
+          },
+          {
+            "charIndex": 134022,
+            "context": "nd users in our respective franchised service territories. Our distribution rates are subject to periodic rate cases approved by the BPU. In October 2024, the BPU issued an Order approving the settlement of PSE&G's electric and gas distribution base rate case with new rates effective October 15, 2024. The Order provided for a $17.8 billion rate base, a 9.6% return on equity for PSE&G's distribution business and a 55% equity component of its capitalization structure. For additional information, see Item 8. Note 5. Regulatory Assets and Liabilities. The BPU has also approved a series of PSE&G in"
+          },
+          {
+            "charIndex": 135912,
+            "context": "Interruptible Services.\n3\n\nTable of Contents\n\nAs part of the BPU's approval of the Clean Energy Future-Energy Efficiency (CEF-EE) filing in 2021, we implemented the Conservation Incentive Program (CIP) that trues up PSE&G's distribution margin to a rate case-approved baseline per customer for the majority of our customers. As a result, electric and gas sales volumes and demands are no longer a driver of our margin and over 90% of our Electric and Gas Distribution margin will only vary based upon the number of customers. While load has modestly decreased in the past due to a decline in larger"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 60006,
+            "context": "5-12-31 0000788784 us-gaap:FairValueInputsLevel3Member peg:RabbiTrustMember us-gaap:USTreasurySecuritiesMember peg:PublicServiceElectricandGasCompanyMember 2024-12-31 0000788784 us-gaap:PensionPlansDefinedBenefitMember 2023-12-31 0000788784 peg:OtherRegulatoryLiabilitiesMember peg:PublicServiceElectricandGasCompanyMember 2024-12-31 0000788784 us-gaap:CashAndCashEquivalentsMember 2024-12-31 0000788784 us-gaap:InterestRateSwapMember 2025-01-01 2025-12-31 0000788784 peg:PublicServiceElectricandGasCompanyMember us-gaap:ElectricTransmissionMember 2024-01-01 2024-12-31 0000788784 peg:RabbiTrustMembe"
+          },
+          {
+            "charIndex": 76518,
+            "context": "peg:PSEGPowerLLCMember us-gaap:SeniorNotesMember 2025-12-31 0000788784 us-gaap:OperatingSegmentsMember peg:PSEGPowerOtherMember peg:GasDistributionContractsMember 2024-01-01 2024-12-31 0000788784 peg:PublicServiceElectricandGasCompanyMember peg:OtherRegulatoryAssetsMember 2025-12-31 0000788784 peg:RabbiTrustMember peg:PublicServiceElectricandGasCompanyMember 2024-12-31 0000788784 us-gaap:CashAndCashEquivalentsMember 2025-12-31 0000788784 us-gaap:NuclearPlantMember peg:PSEGPowerOtherMember 2025-12-31 0000788784 peg:ShermanActAntitrustMatterMember 2025-01-01 2025-12-31 0000788784 us-gaap:Revolvi"
+          },
+          {
+            "charIndex": 93647,
+            "context": "diumTermNotesFivePointZeroFivePercentDueTwoThousandThirtyFiveMember peg:PublicServiceElectricandGasCompanyMember 2025-12-31 0000788784 peg:ConservationIncentiveProgramMember peg:PublicServiceElectricandGasCompanyMember 2025-12-31 0000788784 peg:OtherRegulatoryLiabilitiesMember peg:PublicServiceElectricandGasCompanyMember 2025-12-31 0000788784 peg:RabbiTrustMember us-gaap:EquitySecuritiesMember 2025-12-31 0000788784 peg:NuclearDecommissioningTrustNdtFundsMember us-gaap:USStatesAndPoliticalSubdivisionsMember 2025-12-31 0000788784 peg:RabbiTrustMember us-gaap:FairValueInputsLevel1Member us-gaap:U"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 133965,
+            "context": "bution PSE&G distributes electricity and natural gas to end users in our respective franchised service territories. Our distribution rates are subject to periodic rate cases approved by the BPU. In October 2024, the BPU issued an Order approving the settlement of PSE&G's electric and gas distribution base rate case with new rates effective October 15, 2024. The Order provided for a $17.8 billion rate base, a 9.6% return on equity for PSE&G's distribution business and a 55% equity component of its capitalization structure. For additional information, see Item 8. Note 5. Regulatory Assets and Li"
+          },
+          {
+            "charIndex": 296429,
+            "context": "e requested in a future base rate case. Investment under the GSMP III program will begin in 2026 and continue through December 2028 plus trailing services replacement and paving costs into 2029. In October 2024, the BPU issued an Order approving the settlement of PSE&G's distribution rate case with new rates effective October 15, 2024. The Order provided for a $17.8 billion rate base, a 9.6% return on equity for PSE&G's distribution business and a 55% equity component of its capitalization structure. In addition, the Order approved mechanisms beginning January 1, 2025 associated with the recov"
+          },
+          {
+            "charIndex": 310412,
+            "context": "ty market price increases, the costs of which are flowed through to customers, and per direction to EDCs from the BPU, PSE&G filed a petition in May 2025 that provided proposals to mitigate bill impacts to customers. In June 2025, the BPU approved a settlement under which PSE&G applied a credit to each residential electric customer's monthly bill for July 2025 and August 2025, with the offset being charged on monthly bills for September 2025 through February 2026. PSE&G agreed to waive carrying costs on the outstanding credit amount. In addition, PSE&G agreed to: extend protections precluding"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 31663,
+            "context": "UMember srt:MinimumMember 2024-01-01 2024-12-31 0000788784 peg:RabbiTrustMember us-gaap:USTreasurySecuritiesMember us-gaap:EstimateOfFairValueFairValueDisclosureMember 2024-12-31 0000788784 us-gaap:EquitySecuritiesMember 2025-12-31 0000788784 peg:ZECLiabilityMember peg:PublicServiceElectricandGasCompanyMember 2024-06-01 2025-05-31 0000788784 peg:NuclearDecommissioningTrustNdtFundsMember us-gaap:FairValueInputsLevel1Member us-gaap:OtherDebtSecuritiesMember 2024-12-31 0000788784 peg:MediumTermNotesThreePointZeroZeroPercentDueInTwoThousandTwentyFiveMember peg:PublicServiceElectricandGasCompanyMem"
+          },
+          {
+            "charIndex": 120687,
+            "context": "ted to: &#8226; any inability to successfully develop, obtain regulatory approval for, or construct transmission and distribution, and our nuclear generation projects; &#8226; significant resource adequacy challenges that present affordability and reliability concerns and that could cause policymakers to implement responsive measures that could have a material, adverse impact on our business, strategy, growth rates, cash flows, results of operation, and financial condition and increase regulatory uncertainty for utility investment initiatives and programs; &#8226; the physical, financial and t"
+          },
+          {
+            "charIndex": 129352,
+            "context": "so offers appliance services and repairs to customers throughout its service territory and invests in regulated solar generation projects and regulated energy efficiency (EE) and related programs in New Jersey. &#8226; PSEG Power —A Delaware limited liability company formed in 1999 as a result of the deregulation and restructuring of the electric power industry in New Jersey. PSEG Power earns revenues primarily by selling energy and capacity from its nuclear generation units and from the sale of wholesale natural gas through a full-requirements contract with PSE&G. PSEG Power also enters into"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "Revenues",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 2554000000,
+          "accn": "0001193125-26-332943",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 6402000000,
+          "accn": "0001193125-26-332943",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 3848000000,
+          "accn": "0001193125-26-206545",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-05",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 12168000000,
+          "accn": "0001193125-26-077446",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-26",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 3226000000,
+          "accn": "0001193125-25-262643",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-03",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 9253000000,
+          "accn": "0001193125-25-262643",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-03"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 2805000000,
+          "accn": "0001193125-26-332943",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 2805000000,
+          "accn": "0000950170-25-103096",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-05"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 0.67,
+          "accn": "0001193125-26-332943",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 2.15,
+          "accn": "0001193125-26-332943",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 1.48,
+          "accn": "0001193125-26-206545",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-05",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 4.22,
+          "accn": "0001193125-26-077446",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-26",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 1.24,
+          "accn": "0001193125-25-262643",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-03",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 3.59,
+          "accn": "0001193125-25-262643",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-03"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1.17,
+          "accn": "0001193125-26-332943",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1.17,
+          "accn": "0000950170-25-103096",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-05"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 334000000,
+          "accn": "0001193125-26-332943",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 1075000000,
+          "accn": "0001193125-26-332943",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 741000000,
+          "accn": "0001193125-26-206545",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-05",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 2111000000,
+          "accn": "0001193125-26-077446",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-26",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 622000000,
+          "accn": "0001193125-25-262643",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-03",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 1796000000,
+          "accn": "0001193125-25-262643",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-03"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 585000000,
+          "accn": "0001193125-26-332943",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 585000000,
+          "accn": "0000950170-25-103096",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-05"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 461000000,
+          "accn": "0001193125-26-332943",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 1536000000,
+          "accn": "0001193125-26-332943",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 1075000000,
+          "accn": "0001193125-26-206545",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-05",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 2980000000,
+          "accn": "0001193125-26-077446",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-26",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 855000000,
+          "accn": "0001193125-25-262643",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-03",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 2469000000,
+          "accn": "0001193125-25-262643",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-03"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 817000000,
+          "accn": "0001193125-26-332943",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 817000000,
+          "accn": "0000950170-25-103096",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-05"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "PEG",
+    "name": "PUBLIC SERVICE ENTERPRISE GROUP INC",
+    "sector": "Electric & Other Services Combined",
+    "pe": 18.54,
+    "pb": 2.14,
+    "ret3m": -4.2015,
+    "ret6m": -8.5826,
+    "roe": 16.08,
+    "debtEquity": 1.797,
+    "sentiment": 0.5,
+    "analyst": 64.3,
+    "beta": 0.51057875
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "PSEG Launches Community Impact Update, Highlights Statewide Community Presence with $12.8 Million in Corporate and Foundation Giving and $16.3 Billion Economic Output in 2025",
+        "url": "https://finnhub.io/api/news?id=5d4de7212c43a29835894fe53e8841018aed2029e481ecbb0f8b20f23ca765e3",
+        "source": "Yahoo",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "PSEG (PEG) Stock Looks Reasonable On Dividends But Richer On Earnings",
+        "url": "https://finnhub.io/api/news?id=31fefcc74579dd703eddcb901b2f28782ffc4238a1de60e10cc9af6d7216de7b",
+        "source": "Yahoo",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "Public Service Enterprise Group (PEG) Could Be 15% Undervalued Following ESOP Share Filing",
+        "url": "https://finnhub.io/api/news?id=f11faaca9340cac678b8e5cb4b2e8a72c737c0ba6def57a2f7e169ea3943824f",
+        "source": "Yahoo",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "Citigroup Maintains Neutral on Public Service Enterprise, Lowers Price Target to $84",
+        "url": "https://finnhub.io/api/news?id=2f409832344c74df89c2cd2f1fea69e47417d17105f66081fa758f2a205a1301",
+        "source": "Benzinga",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "Public Service Enterprise Group Q2 Earnings Call Highlights",
+        "url": "https://finnhub.io/api/news?id=b4c392448ce867a42321f4549bd19af0fac647f8465f032a35d4f8af1400628b",
+        "source": "Yahoo",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "Wells Fargo Maintains Overweight on Public Service Enterprise, Lowers Price Target to $89",
+        "url": "https://finnhub.io/api/news?id=d6c803ce5b01f29d4875e696bf87ba49b65fa065fb6a2e31e87a086c19665abc",
+        "source": "Benzinga",
+        "date": "2026-08-05"
+      }
+    ],
+    "cachedAt": "2026-08-11T06:03:45.245Z"
+  }
+}

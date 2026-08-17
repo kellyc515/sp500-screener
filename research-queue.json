@@ -1,0 +1,188 @@
+{
+  "generatedAt": "2026-08-12T01:53:21.799Z",
+  "staleAgeThresholdDays": 14,
+  "candidateCount": 30,
+  "maxResearchPerRun": 25,
+  "queue": [
+    {
+      "ticker": "CHTR",
+      "tier": "trap",
+      "reason": "STALE_FILING",
+      "researchedAt": "2026-08-12T02:10:00.000Z",
+      "newFiling": {
+        "form": "8-K",
+        "filingDate": "2026-08-03"
+      },
+      "priorLatestFilingDate": "2026-07-24"
+    },
+    {
+      "ticker": "EIX",
+      "tier": "trap",
+      "reason": "STALE_FILING",
+      "researchedAt": "2026-08-12T02:12:00.000Z",
+      "newFiling": {
+        "form": "8-K",
+        "filingDate": "2026-07-31"
+      },
+      "priorLatestFilingDate": "2026-07-30"
+    },
+    {
+      "ticker": "INTU",
+      "tier": "trap",
+      "reason": "STALE_FILING",
+      "researchedAt": "2026-08-12T02:14:00.000Z",
+      "newFiling": {
+        "form": "8-K",
+        "filingDate": "2026-06-11"
+      },
+      "priorLatestFilingDate": "2026-05-20"
+    },
+    {
+      "ticker": "FDX",
+      "tier": "trap",
+      "reason": "STALE_FILING",
+      "researchedAt": "2026-08-12T02:16:00.000Z",
+      "newFiling": {
+        "form": "8-K",
+        "filingDate": "2026-07-24"
+      },
+      "priorLatestFilingDate": "2026-07-20"
+    },
+    {
+      "ticker": "TSCO",
+      "tier": "trap",
+      "reason": "STALE_FILING",
+      "researchedAt": "2026-08-12T02:10:00.000Z",
+      "newFiling": {
+        "form": "8-K",
+        "filingDate": "2026-08-07"
+      },
+      "priorLatestFilingDate": "2026-08-06"
+    },
+    {
+      "ticker": "CRM",
+      "tier": "trap",
+      "reason": "STALE_FILING",
+      "researchedAt": "2026-08-12T02:15:00.000Z",
+      "newFiling": {
+        "form": "8-K",
+        "filingDate": "2026-08-05"
+      },
+      "priorLatestFilingDate": "2026-05-28"
+    },
+    {
+      "ticker": "QCOM",
+      "tier": "trap",
+      "reason": "STALE_FILING",
+      "researchedAt": "2026-08-12T02:20:00.000Z",
+      "newFiling": {
+        "form": "8-K",
+        "filingDate": "2026-07-31"
+      },
+      "priorLatestFilingDate": "2026-07-29"
+    },
+    {
+      "ticker": "MOS",
+      "tier": "rest",
+      "reason": "STALE_FILING",
+      "researchedAt": "2026-08-12T02:00:00.000Z",
+      "newFiling": {
+        "form": "8-K",
+        "filingDate": "2026-08-10"
+      },
+      "priorLatestFilingDate": "2026-08-05"
+    },
+    {
+      "ticker": "UBER",
+      "tier": "rest",
+      "reason": "STALE_FILING",
+      "researchedAt": "2026-08-12T02:05:00.000Z",
+      "newFiling": {
+        "form": "8-K",
+        "filingDate": "2026-08-07"
+      },
+      "priorLatestFilingDate": "2026-08-05"
+    },
+    {
+      "ticker": "LULU",
+      "tier": "rest",
+      "reason": "STALE_FILING",
+      "researchedAt": "2026-08-12T02:10:00.000Z",
+      "newFiling": {
+        "form": "8-K",
+        "filingDate": "2026-06-26"
+      },
+      "priorLatestFilingDate": "2026-06-04"
+    }
+  ],
+  "fresh": [
+    "ZTS",
+    "PNR",
+    "FISV",
+    "IBM",
+    "NOC",
+    "PEG",
+    "NXPI",
+    "DG",
+    "ALL",
+    "EG",
+    "CINF",
+    "PTC",
+    "CTSH",
+    "DECK",
+    "REGN",
+    "CMCSA",
+    "LDOS",
+    "UHS",
+    "DAL",
+    "LYB"
+  ],
+  "orphaned": [
+    {
+      "ticker": "ARE",
+      "researchedAt": "2026-08-11T19:30:00.000Z",
+      "note": "No longer a current candidate as of today's scores - may be stale."
+    },
+    {
+      "ticker": "LEN",
+      "researchedAt": "2026-08-11T18:45:00.000Z",
+      "note": "No longer a current candidate as of today's scores - may be stale."
+    },
+    {
+      "ticker": "NCLH",
+      "researchedAt": "2026-08-11T19:30:00.000Z",
+      "note": "No longer a current candidate as of today's scores - may be stale."
+    },
+    {
+      "ticker": "NKE",
+      "researchedAt": "2026-08-11T18:45:00.000Z",
+      "note": "No longer a current candidate as of today's scores - may be stale."
+    },
+    {
+      "ticker": "NVR",
+      "researchedAt": "2026-08-11T19:15:00.000Z",
+      "note": "No longer a current candidate as of today's scores - may be stale."
+    },
+    {
+      "ticker": "PG",
+      "researchedAt": "2026-08-11T20:00:00.000Z",
+      "note": "No longer a current candidate as of today's scores - may be stale."
+    },
+    {
+      "ticker": "PSKY",
+      "researchedAt": "2026-08-11T19:40:00.000Z",
+      "note": "No longer a current candidate as of today's scores - may be stale."
+    },
+    {
+      "ticker": "TAP",
+      "researchedAt": "2026-08-11T19:10:00.000Z",
+      "note": "No longer a current candidate as of today's scores - may be stale."
+    },
+    {
+      "ticker": "TTD",
+      "researchedAt": "2026-08-11T19:25:00.000Z",
+      "note": "No longer a current candidate as of today's scores - may be stale."
+    }
+  ],
+  "cappedOut": []
+}

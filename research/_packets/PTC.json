@@ -1,0 +1,644 @@
+{
+  "ticker": "PTC",
+  "entityName": "PTC INC.",
+  "cik": "0000857005",
+  "generatedAt": "2026-08-12T01:37:15.694Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-07-31",
+        "reportDate": "2026-06-30",
+        "accessionNumber": "0001193125-26-328444",
+        "primaryDocument": "ptc-20260630.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/857005/000119312526328444/ptc-20260630.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/857005/000119312526328444/"
+      },
+      "textLength": 130805,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for the year ended September 30, 2025. The non-GAAP financial measures presented in the discussion of our results of operations and the respective most directly comparable GAAP measures are: &#8226; non-GAAP gross margin—GAAP gross margin &#8226; non-GAAP operating income—GAAP operating income &#8226; non-GAAP operating margin—GAAP operating margin &#8226; non-GAAP net income—GAAP net income &#8226; non-GAAP diluted earnings per share—GAAP diluted earnings per share &#8226; free cash flow—cash flow from operations The non-GAAP financial measures other than free cash flow exclude, as applicable: stock-based compensation expense; amortization of acquired intangible assets; acquisition and transaction-related charges included in General and administrative expenses; Impairment and other charges (credits), net; non-operating charges (credits), net; and income tax adjustments as defined in our Annual Report on Form 10-K for the fiscal year ended September 30, 2025 and as reflected in the reconciliation tables. The items excluded from the non-GAAP financial measures often have a material impact on our financial results, certain of those items are recurring, and other items often recur. Accordingly, the non-GAAP financial measures included in this Quarterly Report on Form 10-Q should be considered in addition to, and not as a substitute for or superior to, the comparable measures prepared in accordance with GAAP. The following tables reconcile each of these non-GAAP financial measures to the most closely comparable GAAP measure on our financial statements.\n31\n\nTable of Contents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(in millions, except per share amounts)\n\nThree months ended\n\n\nNine months ended\n\n\n\n\n\nJune 30, 2026\n\n\nJune 30, 2025\n\n\nJune 30, 2026\n\n\nJune 30, 2025\n\n\n\nGAAP gross margin\n\n$\n490.5\n\n\n$\n533.9\n\n\n$\n1,719.2\n\n\n$\n1,517.3\n\n\n\nStock-based compensation\n\n\n5.6\n\n\n\n5.3\n\n\n\n18.7\n\n\n\n16.7\n\n\n\nAmortization of acquired intangible assets included in cost of revenue\n\n\n7.8\n\n\n\n8.2\n\n\n\n23.4\n\n\n\n24.6\n\n\n\nNon-GAAP gross margin\n\n$\n503.8\n\n\n$\n547.4\n\n\n$\n1,761.4\n\n\n$\n1,558.7\n\n\n\nGAAP operating income\n\n$\n166.5\n\n\n$\n209.8\n\n\n$\n683.4\n\n\n$\n548.8\n\n\n\nStock-based compensation\n\n\n59.4\n\n\n\n54.0\n\n\n\n185.8\n\n\n\n161.4\n\n\n\nAmortization of acquired intangible assets\n\n\n19.7\n\n\n\n19.7\n\n\n\n59.5\n\n\n\n59.0\n\n\n\nAcquisition and transaction-related charges\n\n\n2.9\n\n\n\n1.6\n\n\n\n40.0\n\n\n\n2.4\n\n\n\nImpairment and other charges, net\n\n\n—\n\n\n\n—\n\n\n\n—\n\n\n\n4.2\n\n\n\nNon-GAAP operating income\n\n$\n248.5\n\n\n$\n285.2\n\n\n$\n968.8\n\n\n$\n775.8\n\n\n\nGAAP net income\n\n$\n118.8\n\n\n$\n141.3\n\n\n$\n876.0\n\n\n$\n386.2\n\n\n\nStock-based compensation\n\n\n59.4\n\n\n\n54.0\n\n\n\n185.8\n\n\n\n161.4\n\n\n\nAmortization of acquired intangible assets\n\n\n19.7\n\n\n\n19.7\n\n\n\n59.5\n\n\n\n59.0\n\n\n\nAcquisition and transaction-related charges\n\n\n2.9\n\n\n\n1.6\n\n\n\n40.0\n\n\n\n2.4\n\n\n\nImpairment and other charges, net\n\n\n—\n\n\n\n—\n\n\n\n—\n\n\n\n4.2\n\n\n\nNon-operating credits, net (1)\n\n\n—\n\n\n\n—\n\n\n\n(463.9\n)\n\n\n—\n\n\n\nIncome tax adjustments (2)\n\n\n(19.4\n)\n\n\n(19.3\n)\n\n\n33.9\n\n\n\n(65.7\n)\n\n\nNon-GAAP net income\n\n$\n181.4\n\n\n$\n197.4\n\n\n$\n731.5\n\n\n$\n547.5\n\n\n\nGAAP diluted earnings per share\n\n$\n1.03\n\n\n$\n1.17\n\n\n$\n7.43\n\n\n$\n3.20\n\n\n\nStock-based compensation\n\n\n0.52\n\n\n\n0.45\n\n\n\n1.58\n\n\n\n1.34\n\n\n\nAmortization of acquired intangible assets\n\n\n0.17\n\n\n\n0.16\n\n\n\n0.50\n\n\n\n0.49\n\n\n\nAcquisition and transaction-related charges\n\n\n0.03\n\n\n\n0.01\n\n\n\n0.34\n\n\n\n0.02\n\n\n\nImpairment and other charges, net\n\n\n—\n\n\n\n—\n\n\n\n—\n\n\n\n0.03\n\n\n\nNon-operating credits, net (1)\n\n\n—\n\n\n\n—\n\n\n\n(3.94\n)\n\n\n—\n\n\n\nIncome tax adjustments (2)\n\n\n(0.17\n)\n\n\n(0.16\n)\n\n\n0.29\n\n\n\n(0.54\n)\n\n\nNon-GAAP diluted earnings per share\n\n$\n1.58\n\n\n$\n1.64\n\n\n$\n6.21\n\n\n$\n4.53\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCash provided by operating activities\n\n$\n260.6\n\n\n$\n243.9\n\n\n$\n851.3\n\n\n$\n763.7\n\n\n\nCapital expenditures\n\n\n(11.3\n)\n\n\n(1.9\n)\n\n\n(16.3\n)\n\n\n(7.5\n)\n\n\nFree cash flow\n\n$\n249.3\n\n\n$\n242.0\n\n\n$\n835.0\n\n\n$\n756.2\n\n\n(1) In Q2'26, we recognized gains of $462.6 million on the sale of the Kepware and ThingWorx businesses and $2.0 million related to the finalization of contingent consideration associated with the FY'22 sale of a portion of our PLM services business. In Q1'26, we recognized a $0.8 million financing charge related to a debt commitment agreement associated with our anticipated divestiture of the Kepware and ThingWorx businesses. (2) Income tax adjustments reflect the tax effects of non-GAAP adjustments which are calculated by applying the applicable tax rate by jurisdiction to the non-GAAP adjustments listed above. Additionally, in the first nine months of FY'25, adjustments exclude a $10.4 million benefit related to the tax impact of tax reserves related to prior years in foreign jurisdictions. Operating margin impact of non-GAAP adjustments:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThree months ended\n\n\nNine months ended\n\n\n\n\n\nJune 30, 2026\n\n\nJune 30, 2025\n\n\nJune 30, 2026\n\n\nJune 30, 2025\n\n\n\nGAAP operating margin\n\n\n27.7\n%\n\n\n32.6\n%\n\n\n33.2\n%\n\n\n29.7\n%\n\n\nStock-based compensation\n\n\n9.9\n%\n\n\n8.4\n%\n\n\n9.0\n%\n\n\n8.7\n%\n\n\nAmortization of acquired intangible assets\n\n\n3.3\n%\n\n\n3.1\n%\n\n\n2.9\n%\n\n\n3.2\n%\n\n\nAcquisition and transaction-related charges\n\n\n0.5\n%\n\n\n0.2\n%\n\n\n1.9\n%\n\n\n0.1\n%\n\n\nImpairment and other charges, net\n\n\n0.0\n%\n\n\n0.0\n%\n\n\n0.0\n%\n\n\n0.2\n%\n\n\nNon-GAAP operating margin\n\n\n41.4\n%\n\n\n44.3\n%\n\n\n47.0\n%\n\n\n42.0\n%\n\n\n32\n\nTable of Contents\n\nITEM 3.",
+        "charRange": [
+          118584,
+          123863
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors of this report. Our Operating and Non-GAAP Financial Measures Our discussion of results includes discussion of our ARR operating measure, non-GAAP financial measures, and disclosure of our results on a constant currency basis. ARR and our non-GAAP financial measures are described below in Operating and Non-GAAP Financial Measures . The methodology used to calculate constant currency disclosures is described in Results of Operations - Impact of Foreign Currency Exchange on Results of Operations . You should read those sections to understand our operating measure, non-GAAP financial measures, and constant currency disclosures. Given the divestiture of our Kepware and ThingWorx businesses in Q2'26, we are also providing ARR excluding those divested businesses, which removes ARR attributable to those businesses from the applicable prior periods to facilitate meaningful period-to-period comparisons of our continuing business. Executive Overview ARR was $2.41 billion as of the end of Q3'26, flat with Q3'25, and grew 2% on a constant currency basis, with growth impacted by the Q2'26 divestiture of the Kepware and ThingWorx businesses. ARR growth excluding the divested businesses in Q3'26 compared to Q3'25 was 7% (9% constant currency). Cash provided by operating activities grew 7% to $261 million in Q3'26 compared to Q3'25. Free cash flow grew 3% to $249 million in Q3'26 compared to Q3'25, impacted by higher capital expenditures related to moving a major R&D center to a new office. In Q3'26, we made $9 million of divestiture-related payments. Our cash flow growth is attributable to resilient top-line growth due to our subscription business model and operational discipline. In Q3'26, we repurchased $525 million of outstanding shares, of which $500 million was paid in the quarter, partially funded by $225 million of net debt borrowings under our credit facility. Revenue decreased 7% (8% constant currency) in Q3'26 compared to Q3'25, reflecting the divestiture of the Kepware and ThingWorx businesses in Q2'26 as well as lower license revenue due primarily to the shortened duration of a single large contract renewal and expansion. There was $46 million of revenue attributable to Kepware and ThingWorx in Q3'25. Operating margin decreased by approximately 480 basis points in Q3'26 compared to Q3'25 and diluted earnings per share decreased 12% to $1.03 in Q3'26 compared to Q3'25, primarily due to lower revenue in Q3'26 compared to Q3'25.\n22\n\nTable of Contents\n\nResults of Operations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Dollar amounts in millions, except per share data)\n\nThree months ended\n\n\nPercent Change\n\n\n\n\n\nJune 30, 2026\n\n\nJune 30, 2025\n\n\nActual\n\n\nConstant Currency (1)\n\n\n\nARR\n\n$\n2,412.4\n\n\n$\n2,415.6\n\n\n\n(0\n)%\n\n\n2\n%\n\n\nARR excluding divested businesses (2)\n\n$\n2,412.4\n\n\n$\n2,255.6\n\n\n\n7\n%\n\n\n9\n%\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTotal recurring revenue (3)\n\n$\n576.0\n\n\n$\n613.6\n\n\n\n(6\n)%\n\n\n(7\n)%\n\n\nPerpetual license\n\n\n0.7\n\n\n\n7.8\n\n\n\n(91\n)%\n\n\n(91\n)%\n\n\nProfessional services\n\n\n23.3\n\n\n\n22.6\n\n\n\n3\n%\n\n\n3\n%\n\n\nTotal revenue\n\n\n600.0\n\n\n\n643.9\n\n\n\n(7\n)%\n\n\n(8\n)%\n\n\nTotal cost of revenue\n\n\n109.6\n\n\n\n110.0\n\n\n\n(0\n)%\n\n\n(1\n)%\n\n\nGross margin\n\n\n490.5\n\n\n\n533.9\n\n\n\n(8\n)%\n\n\n(9\n)%\n\n\nOperating expenses\n\n\n324.0\n\n\n\n324.1\n\n\n\n(0\n)%\n\n\n(1\n)%\n\n\nOperating income\n\n$\n166.5\n\n\n$\n209.8\n\n\n\n(21\n)%\n\n\n(21\n)%\n\n\nNon-GAAP operating income (1)\n\n$\n248.5\n\n\n$\n285.2\n\n\n\n(13\n)%\n\n\n(13\n)%\n\n\nOperating margin\n\n\n27.7\n%\n\n\n32.6\n%\n\n\n\n\n\n\n\n\nNon-GAAP operating margin (1)\n\n\n41.4\n%\n\n\n44.3\n%\n\n\n\n\n\n\n\n\nDiluted earnings per share\n\n$\n1.03\n\n\n$\n1.17\n\n\n\n\n\n\n\n\n\nNon-GAAP diluted earnings per share (1)\n\n$\n1.58\n\n\n$\n1.64\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCash provided by operating activities\n\n$\n260.6\n\n\n$\n243.9\n\n\n\n\n\n\n\n\n\nCapital expenditures\n\n\n(11.3\n)\n\n\n(1.9\n)\n\n\n\n\n\n\n\n\nFree cash flow\n\n$\n249.3\n\n\n$\n242.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Dollar amounts in millions, except per share data)\n\nNine months ended\n\n\nPercent Change\n\n\n\n\n\nJune 30, 2026\n\n\nJune 30, 2025\n\n\nActual\n\n\nConstant Currency (1)\n\n\n\nARR\n\n$\n2,412.4\n\n\n$\n2,415.6\n\n\n\n(0\n)%\n\n\n2\n%\n\n\nARR excluding divested businesses (2)\n\n$\n2,412.4\n\n\n$\n2,255.6\n\n\n\n7\n%\n\n\n9\n%\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTotal recurring revenue (3)\n\n$\n1,976.7\n\n\n$\n1,739.4\n\n\n\n14\n%\n\n\n10\n%\n\n\nPerpetual license\n\n\n13.3\n\n\n\n23.0\n\n\n\n(42\n)%\n\n\n(43\n)%\n\n\nProfessional services\n\n\n70.2\n\n\n\n83.0\n\n\n\n(15\n)%\n\n\n(17\n)%\n\n\nTotal revenue\n\n\n2,060.2\n\n\n\n1,845.4\n\n\n\n12\n%\n\n\n9\n%\n\n\nTotal cost of revenue\n\n\n340.9\n\n\n\n328.1\n\n\n\n4\n%\n\n\n3\n%\n\n\nGross margin\n\n\n1,719.2\n\n\n\n1,517.3\n\n\n\n13\n%\n\n\n10\n%\n\n\nOperating expenses\n\n\n1,035.8\n\n\n\n968.5\n\n\n\n7\n%\n\n\n5\n%\n\n\nOperating income\n\n$\n683.4\n\n\n$\n548.8\n\n\n\n25\n%\n\n\n18\n%\n\n\nNon-GAAP operating income (1)\n\n$\n968.8\n\n\n$\n775.8\n\n\n\n25\n%\n\n\n19\n%\n\n\nOperating margin\n\n\n33.2\n%\n\n\n29.7\n%\n\n\n\n\n\n\n\n\nNon-GAAP operating margin (1)\n\n\n47.0\n%\n\n\n42.0\n%\n\n\n\n\n\n\n\n\nDiluted earnings per share\n\n$\n7.43\n\n\n$\n3.20\n\n\n\n\n\n\n\n\n\nNon-GAAP diluted earnings per share (1)\n\n$\n6.21\n\n\n$\n4.53\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCash provided by operating activities\n\n$\n851.3\n\n\n$\n763.7\n\n\n\n\n\n\n\n\n\nCapital expenditures\n\n\n(16.3\n)\n\n\n(7.5\n)\n\n\n\n\n\n\n\n\nFree cash flow\n\n$\n835.0\n\n\n$\n756.2\n\n\n\n\n\n\n\n\n(1) See Operating and Non-GAAP Financial Measures below for a reconciliation of our GAAP results to our non-GAAP financial measures and Impact of Foreign Currency Exchange on Results of Operations below for a description of how we calculate our results on a constant currency basis. (2) ARR excluding divested businesses excludes ARR attributable to the Kepware and ThingWorx businesses from the prior&#8209;year period to facilitate period&#8209;to&#8209;period comparison following the Q2'26 divestiture of those businesses. (3) Recurring revenue is comprised of on-premises subscription, perpetual support, SaaS, and hosting services revenue.\n23\n\nTable of Contents\n\nImpact of Foreign Currency Exchange on Results of Operations Approximately 55% of our revenue and 30% of our expenses are transacted in currencies other than the U.S. Dollar. Because we report our results of operations in U.S. Dollars, currency translation, particularly changes in the Euro, Yen, Shekel, and Rupee relative to the U.S. Dollar, affects our reported results. Our constant currency disclosures are calculated by multiplying the results in local currency for the quarterly periods for FY'26 and FY'25 by the exchange rates in effect on September 30, 2025. If reported results for the nine months ended June 30, 2026 were converted into U.S. Dollars using the rates in effect as of September 30, 2025, ARR would have been higher by $36 million, revenue would have been higher by $9 million, and expenses would have been materially consistent. If reported results for the nine months ended June 30, 2025 were converted into U.S. Dollars using the rates in effect as of September 30, 2025, ARR would have been lower by $12 million, revenue would have been higher by $61 million, and expenses would have been higher by $21 million. Revenue Under ASC 606, the value, mix, and duration of contract types (support, SaaS, on-premises subscription) commencing in any given period can have a material impact on revenue in the period, and as a result can impact the comparability of reported revenue period over period. We recognize revenue for the license portion of on-premises subscription contracts when we deliver the licenses to the customer, typically on the start date, and we recognize revenue on the support portion of on-premises subscription contracts and stand-alone support contracts ratably over the term. Revenue from our cloud services (primarily SaaS) contracts is recognized ratably. Given the different value, mix, and duration of contracts commencing in any period, year-over-year or sequential revenue can vary significantly. Revenue by Line of Business\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Dollar amounts in millions)\n\nThree months ended\n\n\nPercent Change\n\n\nNine months ended\n\n\nPercent Change\n\n\n\n\n\nJune 30, 2026\n\n\nJune 30, 2025\n\n\nActual\n\n\nConstant Currency\n\n\nJune 30, 2026\n\n\nJune 30, 2025\n\n\nActual\n\n\nConstant Currency\n\n\n\nLicense\n\n$\n205.8\n\n\n$\n251.5\n\n\n\n(18\n)%\n\n\n(18\n)%\n\n$\n838.2\n\n\n$\n678.6\n\n\n\n24\n%\n\n\n19\n%\n\n\nSupport and cloud services\n\n\n370.9\n\n\n\n369.9\n\n\n\n0\n%\n\n\n(1\n)%\n\n\n1,151.7\n\n\n\n1,083.8\n\n\n\n6\n%\n\n\n4\n%\n\n\nSoftware revenue\n\n\n576.7\n\n\n\n621.3\n\n\n\n(7\n)%\n\n\n(8\n)%\n\n\n1,989.9\n\n\n\n1,762.4\n\n\n\n13\n%\n\n\n10\n%\n\n\nProfessional services\n\n\n23.3\n\n\n\n22.6\n\n\n\n3\n%\n\n\n3\n%\n\n\n70.2\n\n\n\n83.0\n\n\n\n(15\n)%\n\n\n(17\n)%\n\n\nTotal revenue\n\n$\n600.0\n\n\n$\n643.9\n\n\n\n(7\n)%\n\n\n(8\n)%\n\n$\n2,060.2\n\n\n$\n1,845.4\n\n\n\n12\n%\n\n\n9\n%\n\nSoftware revenue growth in Q3'26 and the first nine months of FY'26 was impacted by the divestiture of the Kepware and ThingWorx businesses. Software revenue attributable to Kepware and ThingWorx was $45 million and $131 million in Q3'25 and the first nine months of FY'25, respectively. In addition to the impact of the divestiture, software revenue in Q3'26 was also impacted by a decrease in license revenue, reflecting the shortened duration of a single large contract renewal and expansion in the period, offset by growth in support and cloud services revenue. Software revenue growth in the first nine months of FY'26 was driven by license revenue growth, which reflects the value and duration of contracts that commenced in the period. Support and cloud services revenue growth in the first nine months of FY'26 compared to the corresponding FY'25 period was driven by growth in both CAD and PLM. Professional services revenue decreased in the first nine months of FY'26 as we continue to execute our strategy of leveraging partners to deliver services rather than contracting to deliver services ourselves.\n24\n\nTable of Contents\n\nSoftware Revenue by Product Group\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Dollar amounts in millions)\n\nThree months ended\n\n\nPercent Change\n\n\nNine months ended\n\n\nPercent Change\n\n\n\n\n\nJune 30, 2026\n\n\nJune 30, 2025\n\n\nActual\n\n\nConstant Currency\n\n\nJune 30, 2026\n\n\nJune 30, 2025\n\n\nActual\n\n\nConstant Currency\n\n\n\nPLM\n\n$\n335.8\n\n\n$\n382.1\n\n\n\n(12\n)%\n\n\n(13\n)%\n\n$\n1,215.6\n\n\n$\n1,074.1\n\n\n\n13\n%\n\n\n10\n%\n\n\nCAD\n\n\n240.9\n\n\n\n239.2\n\n\n\n1\n%\n\n\n0\n%\n\n\n774.3\n\n\n\n688.3\n\n\n\n12\n%\n\n\n9\n%\n\n\nSoftware revenue\n\n$\n576.7\n\n\n$\n621.3\n\n\n\n(7\n)%\n\n\n(8\n)%\n\n$\n1,989.9\n\n\n$\n1,762.4\n\n\n\n13\n%\n\n\n10\n%\n\nPLM software revenue decreased in Q3'26 compared to Q3'25, primarily driven by the impact of the divestiture of the Kepware and ThingWorx businesses, as well as lower license revenue in Europe. PLM software revenue growth in the first nine months of FY'26 was driven by Windchill license revenue growth in the Americas and Europe, offset by the impact of the divestiture. PLM ARR decreased 4% (2% constant currency) from Q3'25 to Q3'26, reflecting the impact of the divestiture of the Kepware and ThingWorx businesses. PLM ARR excluding the divested businesses grew 8% (10% constant currency), primarily driven by Windchill and Codebeamer. PLM ARR decreased 4% (4% constant currency) in the Americas, 4% (2% constant currency) in Europe and 2% (5% increase in constant currency) in Asia Pacific from Q3'25 to Q3'26. PLM ARR excluding the divested businesses grew 9% (9% constant currency) in the Americas, 9% (16% constant currency) in Asia Pacific, and 6% (9% constant currency) in Europe from Q3'25 to Q3'26, primarily driven by Windchill in all regions, with contribution from Codebeamer in Europe and Asia Pacific. CAD software revenue was flat year-over-year in Q3'26 due to lower license revenue. CAD software revenue growth in the first nine months of FY'26 was driven by Creo growth in all regions. CAD ARR grew 6% (8% constant currency) from Q3'25 to Q3'26, primarily driven by Creo. CAD ARR grew 8% (8% constant currency) in the Americas, 5% (11% constant currency) in Asia Pacific, and 4% (7% constant currency) in Europe from Q3'25 to Q3'26, primarily driven by Creo in all regions. Gross Margin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Dollar amounts in millions)\n\nThree months ended\n\n\n\n\n\nNine months ended\n\n\n\n\n\n\n\n\nJune 30, 2026\n\n\nJune 30, 2025\n\n\nPercent Change\n\n\nJune 30, 2026\n\n\nJune 30, 2025\n\n\nPercent Change\n\n\n\nLicense gross margin\n\n$\n194.8\n\n\n$\n239.4\n\n\n\n(19\n)%\n\n$\n801.8\n\n\n$\n645.4\n\n\n\n24\n%\n\n\nLicense gross margin percentage\n\n\n95\n%\n\n\n95\n%\n\n\n\n\n\n96\n%\n\n\n95\n%\n\n\n\n\n\nSupport and cloud services gross margin\n\n$\n296.1\n\n\n$\n296.4\n\n\n\n(0\n)%\n\n$\n920.8\n\n\n$\n868.7\n\n\n\n6\n%\n\n\nSupport and cloud services gross margin percentage\n\n\n80\n%\n\n\n80\n%\n\n\n\n\n\n80\n%\n\n\n80\n%\n\n\n\n\n\nProfessional services gross margin\n\n$\n(0.4\n)\n\n$\n(1.9\n)\n\n\n79\n%\n\n$\n(3.4\n)\n\n$\n3.2\n\n\n\n(205\n)%\n\n\nProfessional services gross margin percentage\n\n\n(2\n)%\n\n\n(9\n)%\n\n\n\n\n\n(5\n)%\n\n\n4\n%\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTotal gross margin\n\n$\n490.5\n\n\n$\n533.9\n\n\n\n(8\n)%\n\n$\n1,719.2\n\n\n$\n1,517.3\n\n\n\n13\n%\n\n\nTotal gross margin percentage\n\n\n82\n%\n\n\n83\n%\n\n\n\n\n\n83\n%\n\n\n82\n%\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNon-GAAP gross margin (1)\n\n$\n503.8\n\n\n$\n547.4\n\n\n\n(8\n)%\n\n$\n1,761.4\n\n\n$\n1,558.7\n\n\n\n13\n%\n\n\nNon-GAAP gross margin percentage (1)\n\n\n84\n%\n\n\n85\n%\n\n\n\n\n\n85\n%\n\n\n84\n%\n\n\n\n\n(1) Non-GAAP financial measures are reconciled to GAAP results under Non-GAAP Financial Measures below. License gross margin changes in Q3'26 and the first nine months of FY'26 compared to the corresponding FY'25 periods were in line with changes in license revenue. Cost of license revenue was higher in the first nine months of FY'26 compared to the first nine months of FY'25, primarily due to higher royalty expenses.\n25\n\nTable of Contents\n\nSupport and cloud services gross margin growth in Q3'26 and the first nine months of FY'26 compared to the corresponding FY'25 periods was in line with support and cloud services revenue growth. Cost of support and cloud services revenue increased 7% in the first nine months of FY'26, primarily due to higher cloud and software subscription-related costs and compensation-related costs. Professional services gross margin increased in Q3'26 compared to Q3'25 due to an increase in professional services revenue. Professional services gross margin decreased in the first nine months of FY'26, primarily due to a sharper decrease in professional services revenue than in professional services expense. The decrease in professional services revenue and costs is due to our continued execution of our strategy of leveraging partners to deliver services rather than contracting to deliver services ourselves. Operating Expenses\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Dollar amounts in millions)\n\nThree months ended\n\n\n\n\n\nNine months ended\n\n\n\n\n\n\n\n\nJune 30, 2026\n\n\nJune 30, 2025\n\n\nPercent Change\n\n\nJune 30, 2026\n\n\nJune 30, 2025\n\n\nPercent Change\n\n\n\nSales and marketing\n\n$\n136.3\n\n\n$\n141.8\n\n\n\n(4\n)%\n\n$\n417.3\n\n\n$\n424.3\n\n\n\n(2\n)%\n\n\n% of total revenue\n\n\n23\n%\n\n\n22\n%\n\n\n\n\n\n20\n%\n\n\n23\n%\n\n\n\n\n\nResearch and development\n\n$\n115.7\n\n\n$\n116.6\n\n\n\n(1\n)%\n\n$\n359.8\n\n\n$\n343.2\n\n\n\n5\n%\n\n\n% of total revenue\n\n\n19\n%\n\n\n18\n%\n\n\n\n\n\n17\n%\n\n\n19\n%\n\n\n\n\n\nGeneral and administrative\n\n$\n60.0\n\n\n$\n54.1\n\n\n\n11\n%\n\n$\n222.6\n\n\n$\n162.5\n\n\n\n37\n%\n\n\n% of total revenue\n\n\n10\n%\n\n\n8\n%\n\n\n\n\n\n11\n%\n\n\n9\n%\n\n\n\n\n\nAmortization of acquired intangible assets\n\n$\n12.0\n\n\n$\n11.5\n\n\n\n4\n%\n\n$\n36.1\n\n\n$\n34.4\n\n\n\n5\n%\n\n\n% of total revenue\n\n\n2\n%\n\n\n2\n%\n\n\n\n\n\n2\n%\n\n\n2\n%\n\n\n\n\n\nImpairment and other charges, net\n\n$\n—\n\n\n$\n—\n\n\n\n0\n%\n\n$\n—\n\n\n$\n4.2\n\n\n\n(100\n)%\n\n\n% of total revenue\n\n\n0\n%\n\n\n0\n%\n\n\n\n\n\n0\n%\n\n\n0\n%\n\n\n\n\n\nTotal operating expenses\n\n$\n324.0\n\n\n$\n324.1\n\n\n\n(0\n)%\n\n$\n1,035.8\n\n\n$\n968.5\n\n\n\n7\n%\n\nTotal he",
+        "charRange": [
+          88912,
+          103912
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 74784,
+            "context": "the income tax provision of $ 50.9 million, which would be partially offset by an increase in the U.S. valuation allowance of $ 6.0 million. Although we believe our tax estimates are appropriate, the final determination of tax audits and any related litigation could result in favorable or unfavorable changes in our estimates. We believe it is reasonably possible that within the next 12 months the amount of unrecognized tax benefits related to the resolution of multi-jurisdictional tax positions could be reduced by up to $ 1 million. On July 4, 2025, the &#8220;One Big Beautiful Bill Act&#8221;"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 40839,
+            "context": "opic 815) and Revenue from Contracts with Customers (Topic 606): Derivatives Scope Refinements and Scope Clarification for Share-Based Noncash Consideration from a Customer in a Revenue Contract, which expands the scope exceptions of the derivatives guidance and clarifies the guidance on share-based payments from a customer. Specifically, the ASU introduces a scope exception for contracts that are not exchange-traded and that have variables based on operations or activities specific to one of the parties of the contract. The ASU is effective for us in the first quarter of 2028, with early adop"
+          },
+          {
+            "charIndex": 40866,
+            "context": "Contracts with Customers (Topic 606): Derivatives Scope Refinements and Scope Clarification for Share-Based Noncash Consideration from a Customer in a Revenue Contract, which expands the scope exceptions of the derivatives guidance and clarifies the guidance on share-based payments from a customer. Specifically, the ASU introduces a scope exception for contracts that are not exchange-traded and that have variables based on operations or activities specific to one of the parties of the contract. The ASU is effective for us in the first quarter of 2028, with early adoption permitted. We early ad"
+          },
+          {
+            "charIndex": 42554,
+            "context": "The ASU will be effective for us in the first quarter of 2029, with early adoption permitted. The standard may be applied prospectively, retrospectively, or via a modified prospective transition method. We are currently evaluating the impact of this guidance on our consolidated financial statements and related disclosures. Measurements of Credit Losses for Accounts Receivable and Contract Assets In July 2025, the FASB issued ASU 2025-05, Financial Instruments—Credit Losses (Topic 326): Measurement of Credit Losses for Accounts Receivable and Contract Assets, which provides a practical expedien"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 28217,
+            "context": "417,271\n\n\n\n424,319\n\n\n\nResearch and development\n\n\n115,708\n\n\n\n116,647\n\n\n\n359,824\n\n\n\n343,186\n\n\n\nGeneral and administrative\n\n\n59,973\n\n\n\n54,145\n\n\n\n222,620\n\n\n\n162,457\n\n\n\nAmortization of acquired intangible assets\n\n\n11,991\n\n\n\n11,536\n\n\n\n36,075\n\n\n\n34,356\n\n\n\nImpairment and other charges, net\n\n\n—\n\n\n\n—\n\n\n\n—\n\n\n\n4,213\n\n\n\nTotal operating expenses\n\n\n323,959\n\n\n\n324,084\n\n\n\n1,035,790\n\n\n\n968,531\n\n\n\nOperating income\n\n\n166,506\n\n\n\n209,828\n\n\n\n683,439\n\n\n\n548,816\n\n\n\nInterest expense\n\n\n( 15,771\n)\n\n\n( 18,404\n)\n\n\n( 48,359\n)\n\n\n( 60,058\n)\n\n\nOther income, net\n\n\n1,705\n\n\n\n2,252\n\n\n\n467,134\n\n\n\n3,321\n\n\n\nIncome before income taxe"
+          },
+          {
+            "charIndex": 54325,
+            "context": "f sale. Income under such agreement offsets the operating costs to provide these services and is recognized as a reduction of the related operating expenses. 6. Goodwill and Intangible Assets During the third quarter of 2026, we completed our annual impairment test of goodwill, which was based on a qualitative assessment, and concluded that there was no impairment. A qualitative assessment is designed to determine whether we believe it is more likely than not that the fair values of our reporting units exceed their carrying values. A qualitative assessment includes a review of qualitative fact"
+          },
+          {
+            "charIndex": 54431,
+            "context": "d as a reduction of the related operating expenses. 6. Goodwill and Intangible Assets During the third quarter of 2026, we completed our annual impairment test of goodwill, which was based on a qualitative assessment, and concluded that there was no impairment. A qualitative assessment is designed to determine whether we believe it is more likely than not that the fair values of our reporting units exceed their carrying values. A qualitative assessment includes a review of qualitative factors, including company-specific (financial performance and long-range plans), industry, and macroeconomic"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 31897,
+            "context": "ash flows from investing activities:\n\n\n\n\n\n\n\n\nAdditions to property and equipment\n\n\n( 16,291\n)\n\n\n( 7,462\n)\n\n\nAcquisitions of businesses, net of cash acquired\n\n\n( 3,573\n)\n\n\n( 6,532\n)\n\n\nContribution to solar energy equity investment\n\n\n( 50,146\n)\n\n\n—\n\n\n\nSettlement of net investment hedges\n\n\n26,549\n\n\n\n( 14,560\n)\n\n\nDivestiture of businesses\n\n\n523,306\n\n\n\n—\n\n\n\nNet cash provided by (used in) investing activities\n\n\n479,845\n\n\n\n( 28,554\n)\n\n\nCash flows from financing activities:\n\n\n\n\n\n\n\n\nBorrowings under credit facility\n\n\n313,750\n\n\n\n860,000\n\n\n\nRepayments of senior notes\n\n\n—\n\n\n\n( 500,000\n)\n\n\nRepayments of bo"
+          },
+          {
+            "charIndex": 50830,
+            "context": "SR, we paid the Bank $ 375 million and received an initial delivery of 1.9 million shares, which represented 80 % ($ 300 million) of the value of the ASR contract. The remaining $ 75 million represented the amount held back by the Bank pending final settlement of the ASR, which occurred in June 2026 and resulted in the additional delivery of 0.8 million shares. The total shares repurchased under the ASR equaled $ 375 million divided by the average daily volume weighted-average price of our common stock during the term of the ASR less a fixed per-share discount. Settlement could have occurred i"
+          },
+          {
+            "charIndex": 51148,
+            "context": "he additional delivery of 0.8 million shares. The total shares repurchased under the ASR equaled $ 375 million divided by the average daily volume weighted-average price of our common stock during the term of the ASR less a fixed per-share discount. Settlement could have occurred in cash or shares at our election. We accounted for the ASR as an equity transaction; accordingly, this $ 75 million was recorded as a reduction to Additional paid-in capital in the second quarter of 2026. In addition to the ASR repurchases described above, in the third quarter and first nine months of 2026, we repurc"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 183,
+            "context": "10-Q\n\n\n\n--09-30 false Q3 0000857005 1 1 http://fasb.org/srt/2026#ChiefExecutiveOfficerMember 0000857005 ptc:SoftwareMember 2025-04-01 2025-06-30 0000857005 ptc:AccruedExpensesAndOtherLiabilityCurrent ptc:SolarEnergyEquityInvestmentMember 2026-06-30 0000857005 us-gaap:SoftwarePurchasedMember 2025-09-30 0000857005 srt:MaximumMember 2026-06-30 0000857005 us-gaap:ForeignExchangeContractMember 2026-06-30 0000857005 ptc:CorinnaLathanMember 2026-04-01 2026-06-30 0000857005 us-gaap:RetainedEarningsMember 2025-04-01 2025-06-30 000085700"
+          },
+          {
+            "charIndex": 45057,
+            "context": "exchange rates. Our multi-year, non-cancellable on-premises subscription contracts provide customers with an annual right to exchange software within the subscription with other software. As of June 30, 2026 and September 30, 2025, our total revenue liability was $ 44.1 million and $ 39.7 million, respectively, primarily associated with the annual right to exchange on-premises subscription software.\n8\n\nTable of Contents\n\nRemaining Performance Obligations (RPO) Our contracts with customers include amounts allocated to performance obligations that will be satisfied and recognized as revenue at a"
+          },
+          {
+            "charIndex": 48373,
+            "context": "49,115\n\n\n\n48,334\n\n\n\nGeneral and administrative\n\n\n22,593\n\n\n\n15,894\n\n\n\n66,624\n\n\n\n49,678\n\n\n\nTotal stock-based compensation expense\n\n$\n59,382\n\n\n$\n54,032\n\n\n$\n185,848\n\n\n$\n161,395\n\n\n\n9\n\nTable of Contents\n\nAs of June 30, 2026 and September 30, 2025 , we had liability-classified awards related to stock-based compensation based on a fixed monetary amount of $ 28.3 million and $ 51.3 million, respectively. The liability as of September 30, 2025 was settled via the issuance of shares in the first quarter of 2026 . 4. Earnings per Share (EPS) and Common Stock EPS The following table presents the calculatio"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2025-11-21",
+        "reportDate": "2025-09-30",
+        "accessionNumber": "0001193125-25-291326",
+        "primaryDocument": "ptc-20250930.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/857005/000119312525291326/ptc-20250930.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/857005/000119312525291326/"
+      },
+      "textLength": 319133,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS",
+        "text": "Management's Discussion and Analysis of Financial Conditions and Results of Operations in our Annual Report on Form 10-K for the year ended September 30, 2024.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Dollar amounts in millions, except per share data)\n\nYear ended September 30,\n\n\nPercent Change\n\n\n\n\n\n2025\n\n\n2024\n\n\nActual\n\n\nConstant Currency (1)\n\n\n\nARR\n\n$\n2,478.5\n\n\n$\n2,254.7\n\n\n\n10\n%\n\n\n8\n%\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTotal recurring revenue (2)\n\n$\n2,600.5\n\n\n$\n2,134.0\n\n\n\n22\n%\n\n\n21\n%\n\n\nPerpetual license\n\n\n31.4\n\n\n\n32.2\n\n\n\n(3\n)%\n\n\n(3\n)%\n\n\nProfessional services\n\n\n107.3\n\n\n\n132.2\n\n\n\n(19\n)%\n\n\n(19\n)%\n\n\nTotal revenue\n\n\n2,739.2\n\n\n\n2,298.5\n\n\n\n19\n%\n\n\n18\n%\n\n\nTotal cost of revenue\n\n\n445.0\n\n\n\n444.8\n\n\n\n0\n%\n\n\n0\n%\n\n\nGross margin\n\n\n2,294.2\n\n\n\n1,853.7\n\n\n\n24\n%\n\n\n23\n%\n\n\nOperating expenses\n\n\n1,311.9\n\n\n\n1,265.6\n\n\n\n4\n%\n\n\n3\n%\n\n\nOperating income\n\n$\n982.4\n\n\n$\n588.1\n\n\n\n67\n%\n\n\n64\n%\n\n\nNon-GAAP operating income (1)\n\n$\n1,302.1\n\n\n$\n894.3\n\n\n\n46\n%\n\n\n44\n%\n\n\nOperating margin\n\n\n36\n%\n\n\n26\n%\n\n\n\n\n\n\n\n\nNon-GAAP operating margin (1)\n\n\n48\n%\n\n\n39\n%\n\n\n\n\n\n\n\n\nDiluted earnings per share (3)\n\n$\n6.08\n\n\n$\n3.12\n\n\n\n\n\n\n\n\n\nNon-GAAP diluted earnings per share (1)(3)\n\n$\n7.94\n\n\n$\n5.08\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCash provided by operating activities\n\n$\n867.7\n\n\n$\n750.0\n\n\n\n\n\n\n\n\n\nCapital expenditures\n\n\n(11.0\n)\n\n\n(14.4\n)\n\n\n\n\n\n\n\n\nFree cash flow\n\n$\n856.7\n\n\n$\n735.6\n\n\n\n\n\n\n\n\n(1) See Operating and Non-GAAP Financial Measures below for a reconciliation of our GAAP results to our non-GAAP financial measures and Impact of Foreign Currency Exchange on Results of Operations below for a description of how we calculate our results on a constant currency basis. (2) Recurring revenue is comprised of on-premises subscription, perpetual support, SaaS, and hosting services revenue. (3) This amount differs from our Q4'25 earnings release due to an immaterial adjustment related to foreign currency option contracts entered into in Q4'25 resulting in a $7.0 million decrease in Net income and a $0.06 decrease in GAAP and non-GAAP Diluted earnings per share. Impact of Foreign Currency Exchange on Results of Operations Approximately 50% of our revenue and 35% of our expenses are transacted in currencies other than the U.S. Dollar. Because we report our results of operations in U.S. Dollars, currency translation, particularly changes in the Euro, Yen, Shekel, and Rupee relative to the U.S. Dollar, affects our reported results. Changes in foreign currency exchange rates were a slight tailwind to reported income statement results compared to constant currency results in FY'25. ARR was positively impacted by more favorable currency exchange rates, particularly the Euro to U.S. Dollar exchange rate, as of September 30, 2025 compared to September 30, 2024. The results of operations in the table above, and the tables and discussions below about revenue by line of business and product group present both actual percentage changes year over year and percentage changes on a constant currency basis. Our constant currency disclosures are calculated by multiplying the results in local currency for FY'25 and FY'24 by the exchange rates in effect on September 30, 2024. If FY'25 reported results were converted into U.S. Dollars using the rates in effect as of September 30, 2024, ARR would have been lower by $33 million, revenue would have been higher by $21 million, and expenses would have been higher by $9 million. If FY'24 reported results were converted into U.S. Dollars using the rates in effect as of September 30, 2024, ARR would have been the same, revenue would have been higher by $34 million, and expenses would have been higher by $14 million.\n22\n\nTable of Contents\n\nRevenue Under ASC 606, the volume, mix, and duration of contract types (support, SaaS, on-premises subscription) starting or renewing in any given period can have a material impact on revenue in the period, and as a result can impact the comparability of reported revenue period over period. We recognize revenue for the license portion of on-premises subscription contracts up front when we deliver the licenses to the customer, typically on the start date, and we recognize revenue on the support portion of on-premises subscription contracts and stand-alone support contracts ratably over the term. We continue to convert existing support contracts to on-premises subscriptions, resulting in a shift to up-front recognition of on-premises subscription license revenue in the period converted compared to ratable recognition for a perpetual support contract. Revenue from our cloud services (primarily SaaS) contracts is recognized ratably. We expect that over time a higher portion of our revenue will be recognized ratably as we expand our SaaS offerings, release additional cloud functionality into our products, and migrate customers from on-premises subscriptions to SaaS. Given the different mix, duration and volume of new and renewing contracts in any period, year-over-year or sequential revenue can vary significantly. Revenue by Line of Business\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Dollar amounts in millions)\n\nYear ended September 30,\n\n\nPercent Change\n\n\n\n\n\n2025\n\n\n2024\n\n\nActual\n\n\nConstant Currency\n\n\n\nLicense (1)\n\n$\n1,162.7\n\n\n$\n806.9\n\n\n\n44\n%\n\n\n43\n%\n\n\nSupport and cloud services (2)\n\n\n1,469.2\n\n\n\n1,359.4\n\n\n\n8\n%\n\n\n7\n%\n\n\nSoftware revenue\n\n\n2,631.9\n\n\n\n2,166.2\n\n\n\n21\n%\n\n\n21\n%\n\n\nProfessional services\n\n\n107.3\n\n\n\n132.2\n\n\n\n(19\n)%\n\n\n(19\n)%\n\n\nTotal revenue\n\n$\n2,739.2\n\n\n$\n2,298.5\n\n\n\n19\n%\n\n\n18\n%\n\n(1) Includes perpetual licenses and the license portion of on-premises subscription sales. (2) Includes support on perpetual licenses, the support portion of on-premises subscription sales, SaaS, and hosting services. Software revenue growth in FY'25 was driven by license revenue growth, which reflects the higher total value and notably longer average duration of contracts commencing in the current year. These large contracts with longer durations additionally drove a $179 million (89%) year-over-year increase in long-term receivables and a $601 million (27%) year-over-year increase in Remaining Performance Obligations (RPO). Support and cloud services revenue growth in FY'25 was mainly driven by growth in PLM. Professional services revenue decreased in FY'25 as we continue to execute on our strategy of leveraging partners to deliver services rather than contracting to deliver services ourselves.\n23\n\nTable of Contents\n\nSoftware Revenue by Product Group\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Dollar amounts in millions)\n\nYear ended September 30,\n\n\nPercent Change\n\n\n\n\n\n2025\n\n\n2024\n\n\nActual\n\n\nConstant Currency\n\n\n\nPLM\n\n$\n1,639.0\n\n\n$\n1,333.4\n\n\n\n23\n%\n\n\n22\n%\n\n\nCAD\n\n\n992.9\n\n\n\n832.8\n\n\n\n19\n%\n\n\n19\n%\n\n\nSoftware revenue\n\n$\n2,631.9\n\n\n$\n2,166.2\n\n\n\n21\n%\n\n\n21\n%\n\nPLM software revenue growth in FY'25 was driven by the higher total value and longer average duration of contracts commencing in the period. PLM software revenue grew across all geographic regions, primarily driven by Windchill. PLM ARR grew 10% (8% constant currency) from September 30, 2024 to September 30, 2025, primarily driven by Windchill and Codebeamer. CAD software revenue growth in FY'25 was driven by the higher total value and longer average duration of contracts commencing in the period. CAD software revenue grew across all geographic regions, primarily driven by Creo. CAD ARR grew 10% (9% constant currency) from September 30, 2024 to September 30, 2025, primarily driven by Creo. Gross Margin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Dollar amounts in millions)\n\nYear ended September 30,\n\n\n\n\n\n\n\n\n2025\n\n\n2024\n\n\nPercent Change\n\n\n\nLicense gross margin\n\n$\n1,115.8\n\n\n$\n760.0\n\n\n\n47\n%\n\n\nLicense gross margin percentage\n\n\n96\n%\n\n\n94\n%\n\n\n\n\n\nSupport and cloud services gross margin\n\n$\n1,177.4\n\n\n$\n1,084.8\n\n\n\n9\n%\n\n\nSupport and cloud services gross margin percentage\n\n\n80\n%\n\n\n80\n%\n\n\n\n\n\nProfessional services gross margin\n\n$\n1.1\n\n\n$\n8.9\n\n\n\n(88\n)%\n\n\nProfessional services gross margin percentage\n\n\n1\n%\n\n\n7\n%\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTotal gross margin\n\n$\n2,294.2\n\n\n$\n1,853.7\n\n\n\n24\n%\n\n\nTotal gross margin percentage\n\n\n84\n%\n\n\n81\n%\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNon-GAAP gross margin (1)\n\n$\n2,349.8\n\n\n$\n1,913.6\n\n\n\n23\n%\n\n\nNon-GAAP gross margin percentage (1)\n\n\n86\n%\n\n\n83\n%\n\n\n\n\n(1) Non-GAAP financial measures are reconciled to GAAP results under Non-GAAP Financial Measures below. License gross margin grew at a higher rate than license revenue in FY'25 due mainly to license revenue growth. Total cost of license revenue in FY'25 remained consistent with FY'24, with lower intangible amortization expense offsetting growth in other areas. Support and cloud services gross margin growth in FY'25 was in line with support and cloud services revenue growth. Cost of support and cloud services grew 6% in FY'25, primarily due to increasing compensation-related costs and cloud and software subscription-related costs as the business grows. Professional services gross margin decreased in FY'25 compared to FY'24, primarily driven by a sharper decrease in professional services revenue than in professional services expense. The decreases in professional services revenue and costs are due to our continued execution on our strategy of leveraging partners to deliver services rather than contracting to deliver services ourselves.\n24\n\nTable of Contents\n\nOperating Expenses\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Dollar amounts in millions)\n\nYear ended September 30,\n\n\n\n\n\n\n\n\n2025\n\n\n2024\n\n\nPercent Change\n\n\n\nSales and marketing\n\n$\n566.5\n\n\n$\n559.0\n\n\n\n1\n%\n\n\n% of total revenue\n\n\n21\n%\n\n\n24\n%\n\n\n\n\n\nResearch and development\n\n\n457.7\n\n\n\n433.0\n\n\n\n6\n%\n\n\n% of total revenue\n\n\n17\n%\n\n\n19\n%\n\n\n\n\n\nGeneral and administrative\n\n\n226.1\n\n\n\n232.4\n\n\n\n(3\n)%\n\n\n% of total revenue\n\n\n8\n%\n\n\n10\n%\n\n\n\n\n\nAmortization of acquired intangible assets\n\n\n45.9\n\n\n\n42.0\n\n\n\n9\n%\n\n\n% of total revenue\n\n\n2\n%\n\n\n2\n%\n\n\n\n\n\nImpairment and other charges (credits), net\n\n\n15.6\n\n\n\n(0.8\n)\n\n\n2,050\n%\n\n\n% of total revenue\n\n\n1\n%\n\n\n0\n%\n\n\n\n\n\nTotal operating expenses\n\n$\n1,311.9\n\n\n$\n1,265.6\n\n\n\n4\n%\n\nTotal headcount increased by 2% between September 30, 2024 and September 30, 2025. Operating expenses in FY'25 compared to FY'24 increased primarily due to the following: &#8226; a $19 million (2%) increase in total compensation expense (including stock-based compensation), driven by a $17 million increase in severance costs primarily related to our go-to-market realignment (which is mainly included in Sales and marketing) and headcount growth, offset by lower compensation charges in General and administrative due to our FY'24 chief executive officer succession; &#8226; $16 million impairment charges recognized in Q2'25 and Q4'25 related to the lease assets associated with the subleased portion of our Boston office; and &#8226; a $6 million increase in acquisition and transaction-related costs. Interest Expense\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Dollar amounts in millions)\n\nYear ended September 30,\n\n\n\n\n\n\n\n\n2025\n\n\n2024\n\n\nPercent Change\n\n\n\nInterest expense\n\n$\n(77.0\n)\n\n$\n(119.7\n)\n\n\n(36\n)%\n\nInterest expense includes interest on our revolving credit facility, term loan, senior notes that were redeemed in Q2'25, and senior notes due in 2028. The decrease in interest expense was driven by lower debt balances and lower interest rates. Other Income\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Dollar amounts in millions)\n\nYear ended September 30,\n\n\n\n\n\n\n\n\n2025\n\n\n2024\n\n\nPercent Change\n\n\n\nInterest income\n\n$\n3.4\n\n\n$\n4.4\n\n\n\n(22\n)%\n\n\nOther income (expense), net\n\n\n11.4\n\n\n\n(3.8\n)\n\n\n398\n%\n\n\nOther income, net\n\n$\n14.8\n\n\n$\n0.6\n\n\n\n2,578\n%\n\nOther income, net increased in FY'25 compared to FY'24, primarily driven by a $13 million contingent consideration earnout recognized in Q4'25 related to the sale of a portion of our PLM services business in FY'22. An immaterial adjustment related to foreign currency option contracts entered into in Q4'25 resulted in a $9.3 million decrease in Other income, net compared to amounts from our Q4'25 earnings release.\n25\n\nTable of Contents\n\nIncome Taxes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Dollar amounts in millions)\n\nYear ended September 30,\n\n\n\n\n\n\n\n\n2025\n\n\n2024\n\n\nPercent Change\n\n\n\nIncome before income taxes\n\n$\n920.2\n\n\n$\n469.0\n\n\n\n96\n%\n\n\nProvision for income taxes\n\n$\n186.2\n\n\n$\n92.6\n\n\n\n101\n%\n\n\nEffective income tax rate\n\n\n20\n%\n\n\n20\n%\n\n\n\n\nAn immaterial adjustment related to foreign currency option contracts entered into in Q4'25 resulted in a $2.3 million decrease to Provision for income taxes compared to amounts from our Q4'25 earnings release. Our effective tax rates for FY'25 and FY'24 were impacted by a number of offsetting items as outlined below, as well as by the year-over-year increase in Income before income taxes, which was primarily domestic; however, there was ultimately no net change in the effective tax rate year-over-year. In FY'25 and FY'24, our income tax rate included the effects of Internal Revenue Service (IRS) procedural guidance requiring consent for previously automatic changes of accounting method. The IRS procedural guidance change significantly increased our estimated taxable income in FY'24, with a lesser impact to taxable income in FY'25. In FY'25, we recorded tax expense of $11 million primarily related to accrued interest stemming from the effects of the procedural guidance. In FY'24, we recorded a benefit of $4 million primarily related to an increase to the estimated tax benefit for the deductions associated with Global Intangible Low-Taxed Income (\"GILTI\") and Foreign-Derived Intangible Income (\"FDII\"). Additionally, in FY'25, we recorded tax benefits of $11 million related to tax reserves in foreign jurisdictions. In FY'24, the rate was impacted by a U.S. Tax Court ruling in Varian Medical Systems, Inc. v. Commissioner, issued on August 26, 2024. The ruling related to the U.S. taxation of deemed foreign dividends in the transition year of the Tax Act (our fiscal 2018). As a result, we recorded a $14 million benefit for additional foreign tax credits that became available to us. These benefits were offset by a tax expense of $5 million related to a tax reserve in a foreign jurisdiction. In FY'24, we requested consent from the IRS to change the accounting method for the treatment of certain deductions. In accordance with GAAP, our financial statements reflect the fact that as of September 30, 2025 we had not received the consent. Accordingly, we have included an unrecognized tax benefit of $109 million within Other liabilities on the Consolidated Balance Sheets. We received this consent in October 2025. Consequently, in Q1'26 we will release the reserve, primarily resulting in a decrease to Deferred tax assets. In the normal course of business, PTC and its subsidiaries are examined by various taxing authorities, including the IRS in the U.S. We regularly assess the likelihood of additional assessments by tax authorities and provide for these matters as appropriate. We are currently under audit by tax authorities in several jurisdictions. Audits by tax authorities typically involve examination of the deductibility of certain permanent items, transfer pricing, limitations on net operating losses, and tax credits. On July 4, 2025, the &#8220;One Big Beautiful Bill Act&#8221; (the &#8220;Act&#8221;) was enacted into law. The Act in",
+        "charRange": [
+          105133,
+          120133
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors, I. Risks Related to Our Business Operations and Industry of this Annual Report. Our Approach We take a holistic, multi-layered approach to cybersecurity and privacy that combines traditional Defense-in-Depth methods with next-generation Zero Trust principles. In developing our cybersecurity risk management program, we are informed by industry benchmarks and standards, including the cybersecurity framework created by the National Institute of Standards and Technology (&#8220;NIST&#8221;) and the Software Assurance Maturity Model developed by the OWASP (the &#8220;OWASP SAMM&#8221;). We also have various security-related certifications and authorizations, including ISO 27001, SOC 2 Type II and FedRAMP, for certain of our products and services. People . Recognizing that technology alone cannot mitigate all security threats, we focus on developing our most critical resource: our people. Our corporate cybersecurity awareness activities are combined with enterprise-wide and department-specific tools and mandatory employee training, providing our employees with knowledge and resources to support our efforts to mitigate security threats.\n17\n\nTable of Contents\n\nProcess . We maintain processes and policies to try to anticipate security risks and facilitate compliance with applicable contractual obligations, regulations, and standards, as well as address any incidents or violations. We focus on continuous improvement and constantly mature our processes to keep pace with the rapidly evolving cybersecurity threat landscape. Technology . We seek to automate processes and remove the potential for human error to the extent feasible by implementing technology solutions. From fundamental IT security to development of our software products and keeping our customers' data safe, we aim to maintain a secure infrastructure that is appropriately monitored for possible threats. These three key elements of people, process, and technology are tightly interwoven to support our aim to secure our environments and the data for which we are a custodian . Governance Cybersecurity is a risk area with oversight at the highest levels of the organization, including the Executive and Board Level. The overall operational program is led by the Cybersecurity Strategy Council, a cross-functional team of executives and subject matter experts, led by our Chief Product Security Officer, Chief Information Security Officer and Chief Compliance Officer. The Cybersecurity Strategy Council oversees a &#8220;Three Lines Model&#8221; of Operations, Risk Monitoring and Oversight, and Audit, to effectively address cybersecurity, risk management, and control. All Cybersecurity, Risk, and Internal Audit functions report to the PTC Executive Leadership Team. We provide regular updates on our cybersecurity strategic plans, programs, and initiatives to the Cybersecurity Committee of the Board of Directors at its four regularly scheduled meetings per year. Our Incident Response Plans provide for notice, and continued updates, to the Cybersecurity Committee of applicable incidents on a timely basis . Risk Assessment We conduct an annual cybersecurity maturity assessment. Periodically, we engage a third-party security consulting firm to conduct an Enterprise Security Maturity Assessment. This independent assessment provides a mechanism to benchmark our current risk profile and enables us to measure progress as we make program improvements. Identified cybersecurity risks are reviewed by the Cybersecurity Strategy Council, which ensures that risk tolerances are established and used to appropriately manage risks and address the risks identified. Third-Party Vendor Risk Management Our Vendor Risk Management (VRM) program is designed to meet cybersecurity, privacy, regulatory and compliance obligations, by managing risk associated with third-party vendors who have access to PTC IT systems and data . Prior to outsourcing or allowing third-party access to PTC or customer systems, IP, or data; risks associated with such activity are identified and documented. The process of selecting a third-party vendor includes due diligence of the vendor service or product in question. Third-party companies using PTC facilities or accessing PTC's IT Systems are subject to PTC's VRM review and must demonstrate that proper security measures are in place before they have access to any PTC IT systems or data. All such vendors are to be approved by PTC's VRM process and contractually bound to maintain appropriate cybersecurity technical and organization measures and to protect PTC's data to which they may have access.\n18\n\nTable of Contents\n\nIncident Response We maintain an Enterprise Cybersecurity Incident Response Policy to address cybersecurity incidents. The Policy is tested on a periodic basis, including an ongoing improvement program involving periodic tabletop exercises. Cybersecurity incident handling is managed by individual organizations with cybersecurity responsibility and monitored/guided by applicable corporate functions. All Cybersecurity Incident Response Plans under the Policy are based on industry standards, such as the NIST Computer Security Incident Handling Guide &#8211; Special Publication 800-61. Management's Role in Assessing and Managing Our Risks from Cybersecurity Threats Our Cybersecurity Program is overseen by executives on our Executive Leadership Team and managed by our Cybersecurity Strategy Council, including our Senior Vice President, Chief Information Security Officer (CISO), who reports to our Executive Vice President, Chief Digital and Information Officer (CDO) . Our CISO is responsible for day-to-day risk management activities, including staying informed about and monitoring prevention, detection, mitigation, and remediation efforts through regular communication and reporting from professionals in the information security team, and the use of technological tools and software. Our CDO is responsible for our broader IT program, which includes our ability to remediate and recover from a cybersecurity incident while reducing impacts to the business and operations . Our CDO and CISO regularly report directly to the Cybersecurity Committee of the Board of Directors on our Cybersecurity Program and efforts to prevent, detect, mitigate, and remediate issues. In addition, we have an escalation process in place to inform senior management and the Cybersecurity Committee and the Board of Directors of material issues. Management Experience Our CDO and CISO have extensive experience assessing and managing cybersecurity programs and cybersecurity risk. Our CDO joined PTC as Chief Digital and Information Officer in January 2022 and is responsible for PTC's global information technology (IT) team, overseeing PTC's digital infrastructure and working with business leaders to guide PTC's digital process optimization strategy. He has more than two decades of IT and operations leadership. Before joining PTC, he served as Global Vice President and Chief Information Officer for Avaya, where he led a globally-dispersed team of 1,200 IT professionals to support the entire global Avaya enterprise. Prior to Avaya, he held technology leadership roles at Arise Virtual Solutions Inc., Oracle, and Colorado College. Our CISO joined PTC as Cyber Information Security Officer in April 2022 and, before joining PTC, was the Vice President, Information Technology, North America and Europe for Alorica, where he led Alorica's transformation to a secure endpoint architecture for 90,000 global remote and hybrid employees. ITEM 2. Prope rties We currently have 61 office locations used in operations in the United States and internationally, predominately as sales and/or support offices and for research and development work. Of our total of approximately 897,000 square feet of leased facilities used in operations, approximately 281,000 square feet are located in the U.S., including approximately 169,000 square feet at our headquarters facility located in Boston, Massachusetts, and approximately 267,000 square feet are located in India, where a significant amount of our research and development is conducted. ITEM 3. Legal Pro ceedings None. ITEM 4. Mine Safety Disclosures Not applicable.\n19\n\nTable of Contents\n\nPART II ITEM 5. Market for Registrant's Common Equity, Related Stockho lder Matters and Issuer Purchases of Equity Securities Our common stock is traded on the Nasdaq Global Select Market under the symbol \"PTC.\" On September 30, 2025, the close of our fiscal year, and on November 19, 2025, our common stock was held by 821 and 815 shareholders of record, respectively. The table below shows the shares of our common stock we repurchased in the fourth quarter of 2025.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPeriod\n\nTotal Number of Shares (or Units) Purchased\n\n\nAverage Price Paid per Share (or Unit)\n\n\nTotal Number of Shares (or Units) Purchased as Part of Publicly Announced Plans or Programs\n\n\nApproximate Dollar Value of Shares (or Units) that May Yet Be Purchased Under the Plans or Programs (1)\n\n\n\nJuly 1, 2025 - July 31, 2025\n\n—\n\n\n$\n—\n\n\n\n—\n\n\n$\n1,775,012,684\n\n\n\nAugust 1, 2025 - August 31, 2025\n\n\n236,795\n\n\n$\n211.14\n\n\n\n236,795\n\n\n$\n1,725,015,150\n\n\n\nSeptember 1, 2025 - September 30, 2025\n\n\n119,627\n\n\n$\n209.00\n\n\n\n119,627\n\n\n$\n1,700,012,666\n\n\n\nTotal\n\n\n356,422\n\n\n$\n210.42\n\n\n\n356,422\n\n\n$\n1,700,012,666\n\n\n(1) As announced on November 6, 2024, our Board of Directors has authorized us to repurchase up to $2 billion of our common stock in the period October 1, 2024 through September 30, 2027. ITEM 6. [Re served]\n20\n\nTable of Contents\n\nITEM 7. Management's Discussion and Analysis of Fin ancial Condition and Results of Operations Our Operating and Non-GAAP Financial Measures Our discussion of results includes discussion of our ARR (Annual Run Rate) operating measure, non-GAAP financial measures, and disclosure of our results on a constant currency basis. ARR and our non-GAAP financial measures, including the reasons we use those measures, are described below in Operating and Non-GAAP Financial Measures . The methodology used to calculate constant currency disclosures is described in Results of Operations - Impact of Foreign Currency Exchange on Results of Operations. You should read those sections to understand our operating measure, non-GAAP financial measures, and constant currency disclosures. Executive Overview ARR grew 10% (8.5% constant currency) to $2.48 billion as of the end of FY'25 compared to FY'24. Cash provided by operating activities grew 16% to $868 million in FY'25 compared to FY'24. Free cash flow grew 16% to $857 million in FY'25 compared to FY'24. Our cash flow growth is attributable to resilient top-line growth due to our subscription business model and operational discipline. In FY'25, we made net debt repayments of $553 million and repurchased $300 million of our outstanding shares. We ended FY'25 with cash and cash equivalents of $184 million and gross debt of $1.20 billion, which debt carried an aggregate weighted average interest rate of 4.9%. Revenue grew 19% (18% constant currency) in FY'25 compared to FY'24. Under ASC 606, the timing of revenue recognition for on-premises subscription revenue can vary significantly, impacting reported revenue, operating margin, and earnings per share. FY'25 revenue growth reflects the higher total value and longer average duration of contracts that commenced in the current year. Operating margin grew by approximately 1030 basis points in FY'25 compared to FY'24, reflecting higher revenue as well as continued operating discipline. Diluted earnings per share grew 95% to $6.08 in FY'25 compared to FY'24, driven by revenue growth. On November 5, 2025, we entered into a definitive agreement with an affiliate of TPG, under which we agreed to sell our Kepware and ThingWorx businesses for total consideration of up to $725 million, if certain targets are achieved. We may receive up to $600 million upon closing of the transaction, which may be reduced by $35 million if certain growth targets are not achieved for a period between signing and closing, and further adjusted as set forth in the purchase agreement. We may receive up to $125 million of contingent consideration upon the sale of the business by TPG. The transaction is expected to close in the first half of calendar 2026. Our expected use of the net after-tax proceeds will follow our overall capital allocation strategy of returning excess cash to shareholders via share repurchases, while allowing for potential tuck-in acquisitions. Results of Operations The following table shows the measures that we consider the most significant indicators of our business performance. In addition to providing operating income, operating margin, diluted earnings per share and cash from operations as calculated under GAAP, we provide our ARR operating measure and non-GAAP operating income, non-GAAP operating margin, non-GAAP diluted earnings per share, and free cash flow for the reported periods. We also provide a view of our actual results on a constant currency basis. Our non-GAAP financial measures exclude the items described in Non-GAAP Financial Measures below. Investors should use our non-GAAP financial measures only in conjunction with our GAAP results.\n21\n\nTable of Contents\n\nFor discussion of our FY'24 results and comparison to our FY'23 results, refer to Management's Discussion and Analysis of Financial Conditions and Results of Operations in our Annual Report on Form 10-K for the year ended September 30, 2024.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Dollar amounts in millions, except per share data)\n\nYear ended September 30,\n\n\nPercent Change\n\n\n\n\n\n2025\n\n\n2024\n\n\nActual\n\n\nConstant Currency (1)\n\n\n\nARR\n\n$\n2,478.5\n\n\n$\n2,254.7\n\n\n\n10\n%\n\n\n8\n%\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTotal recurring revenue (2)\n\n$\n2,600.5\n\n\n$\n2,134.0\n\n\n\n22\n%\n\n\n21\n%\n\n\nPerpetual license\n\n\n31.4\n\n\n\n32.2\n\n\n\n(3\n)%\n\n\n(3\n)%\n\n\nProfessional services\n\n\n107.3\n\n\n\n132.2\n\n\n\n(19\n)%\n\n\n(19\n)%\n\n\nTotal revenue\n\n\n2,739.2\n\n\n\n2,298.5\n\n\n\n19\n%\n\n\n18\n%\n\n\nTotal cost of revenue\n\n\n445.0\n\n\n\n444.8\n\n\n\n0\n%\n\n\n0\n%\n\n\nGross margin\n\n\n2,294.2\n\n\n\n1,853.7\n\n\n\n24\n%\n\n\n23\n%\n\n\nOperating expenses\n\n\n1,311.9\n\n\n\n1,265.6\n\n\n\n4\n%\n\n\n3\n%\n\n\nOperating income\n\n$\n982.4\n\n\n$\n588.1\n\n\n\n67\n%\n\n\n64\n%\n\n\nNon-GAAP operating income (1)\n\n$\n1,302.1\n\n\n$\n894.3\n\n\n\n46\n%\n\n\n44\n%\n\n\nOperating margin\n\n\n36\n%\n\n\n26\n%\n\n\n\n\n\n\n\n\nNon-GAAP operating margin (1)\n\n\n48\n%\n\n\n39\n%\n\n\n\n\n\n\n\n\nDiluted earnings per share (3)\n\n$\n6.08\n\n\n$\n3.12\n\n\n\n\n\n\n\n\n\nNon-GAAP diluted earnings per share (1)(3)\n\n$\n7.94\n\n\n$\n5.08\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCash provided by operating activities\n\n$\n867.7\n\n\n$\n750.0\n\n\n\n\n\n\n\n\n\nCapital expenditures\n\n\n(11.0\n)\n\n\n(14.4\n)\n\n\n\n\n\n\n\n\nFree cash flow\n\n$\n856.7\n\n\n$\n735.6\n\n\n\n\n\n\n\n\n(1) See Operating and Non-GAAP Financial Measures below for a reconciliation of our GAAP results to our non-GAAP financial measures and Impact of Foreign Currency Exchange on Results of Operations below for a description of how we calculate our results on a constant currency basis. (2) Recurring revenue is comprised",
+        "charRange": [
+          91740,
+          106740
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 36580,
+            "context": "ies Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. We intend such forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. In particular, statements that are not historical facts, including but not limited to, statements about our anticipated financial results, capital development and growth, stock repurchases, our artificial intelligence initiatives, our environmental sustainability initiatives, and the development of our products, marke"
+          },
+          {
+            "charIndex": 68331,
+            "context": "ect to our sustainability disclosures and initiatives. Failure to meet stakeholder expectations or actual or perceived inconsistencies or inaccuracies in our sustainability disclosures could result in reputational harm, regulatory investigations, or litigation. Expectations around environmental, social, governance and other sustainability matters continue to evolve rapidly, and stakeholders &#8211; including investors, customers, employees, and regulators &#8211; are increasingly focused on our sustainability disclosures and performance against targets. If we fail, or are perceived to have fai"
+          },
+          {
+            "charIndex": 69004,
+            "context": ", or if our sustainability initiatives or disclosures are or are perceived to be inadequate, inaccurate, misleading, or unlawful, our reputation could be harmed, and we could face regulatory investigations, enforcement actions, fines, penalties, and litigation, any of which could adversely affect our business, financial condition, results of operations, and prospects. Additionally, differing stakeholder views on sustainability priorities may create tension or conflict, which could adversely affect our reputation, employee morale, or investor relations.\n10\n\nTable of Contents\n\nOur use of artific"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 23086,
+            "context": "2025-09-30 0000857005 us-gaap:OtherCurrentLiabilitiesMember 2024-09-30 0000857005 us-gaap:FairValueInputsLevel3Member 2024-09-30 0000857005 us-gaap:SellingAndMarketingExpenseMember 2022-10-01 2023-09-30 0000857005 ptc:InternalRevenueServiceProceduralGuidanceRequiringConsentDomesticMember us-gaap:OtherLiabilitiesMember 2025-09-30 0000857005 ptc:TransferPricingForeignJurisdictionMember 2022-10-01 2023-09-30 0000857005 currency:XXX ptc:ForeignExchangeForwardContractAndOptionsMember us-gaap:NondesignatedMember 2024-09-30 0000857005 ptc:CapitalizedSoftwareMember 2024-09-30 0000857005 ptc:ForeignExc"
+          },
+          {
+            "charIndex": 117770,
+            "context": "Income before income taxes, which was primarily domestic; however, there was ultimately no net change in the effective tax rate year-over-year. In FY'25 and FY'24, our income tax rate included the effects of Internal Revenue Service (IRS) procedural guidance requiring consent for previously automatic changes of accounting method. The IRS procedural guidance change significantly increased our estimated taxable income in FY'24, with a lesser impact to taxable income in FY'25. In FY'25, we recorded tax expense of $11 million primarily related to accrued interest stemming from the effects of the p"
+          },
+          {
+            "charIndex": 117871,
+            "context": "in the effective tax rate year-over-year. In FY'25 and FY'24, our income tax rate included the effects of Internal Revenue Service (IRS) procedural guidance requiring consent for previously automatic changes of accounting method. The IRS procedural guidance change significantly increased our estimated taxable income in FY'24, with a lesser impact to taxable income in FY'25. In FY'25, we recorded tax expense of $11 million primarily related to accrued interest stemming from the effects of the procedural guidance. In FY'24, we recorded a benefit of $4 million primarily related to an increase to"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 114770,
+            "context": "433.0\n\n\n\n6\n%\n\n\n% of total revenue\n\n\n17\n%\n\n\n19\n%\n\n\n\n\n\nGeneral and administrative\n\n\n226.1\n\n\n\n232.4\n\n\n\n(3\n)%\n\n\n% of total revenue\n\n\n8\n%\n\n\n10\n%\n\n\n\n\n\nAmortization of acquired intangible assets\n\n\n45.9\n\n\n\n42.0\n\n\n\n9\n%\n\n\n% of total revenue\n\n\n2\n%\n\n\n2\n%\n\n\n\n\n\nImpairment and other charges (credits), net\n\n\n15.6\n\n\n\n(0.8\n)\n\n\n2,050\n%\n\n\n% of total revenue\n\n\n1\n%\n\n\n0\n%\n\n\n\n\n\nTotal operating expenses\n\n$\n1,311.9\n\n\n$\n1,265.6\n\n\n\n4\n%\n\nTotal headcount increased by 2% between September 30, 2024 and September 30, 2025. Operating expenses in FY'25 compared to FY'24 increased primarily due to the following: &#8226; a $19"
+          },
+          {
+            "charIndex": 115524,
+            "context": "lated to our go-to-market realignment (which is mainly included in Sales and marketing) and headcount growth, offset by lower compensation charges in General and administrative due to our FY'24 chief executive officer succession; &#8226; $16 million impairment charges recognized in Q2'25 and Q4'25 related to the lease assets associated with the subleased portion of our Boston office; and &#8226; a $6 million increase in acquisition and transaction-related costs. Interest Expense\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Dollar amounts in millions)\n\nYear ended September 30,\n\n\n\n\n\n\n\n\n2025\n\n\n2024\n\n\nPercent Change\n\n\n\nInte"
+          },
+          {
+            "charIndex": 132332,
+            "context": "non-GAAP financial measures other than free cash flow exclude, as applicable: stock-based compensation expense; amortization of acquired intangible assets; acquisition and transaction-related charges included in General and administrative expenses; Impairment and other charges (credits), net; non-operating charges (credits), net; and income tax adjustments. Stock-based compensation is a non-cash expense relating to stock-based awards issued to executive officers, employees and outside directors, consisting of restricted stock units. We exclude this expense as it is a non-cash expense and we a"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 42168,
+            "context": "est product and quality information with internal teams and supply chain partners and deliver innovative products to customers faster. Our Arena quality management system software connects quality and product designs into a single system to simplify regulatory compliance. CAD software products for product data authoring Our Creo &#174; 3D CAD technology enables the digital design, testing, and modification of product models. With its design simulation, additive manufacturing, and generative design innovations, we enable our customers to be first to market with differentiated products. From ini"
+          },
+          {
+            "charIndex": 66006,
+            "context": "tomers are subject to an increasing number of laws and regulations enacted by multiple countries and jurisdictions that require new and extensive disclosures on sustainability topics, and, in some cases, remediation of adverse effects. This evolving regulatory environment will increase our compliance costs and expose us to risks associated with regulatory compliance. The regulatory landscape for sustainability disclosures continues to evolve and expand and impose greater disclosure obligations on us. These laws and regulations include the European Union's Corporate Sustainability Reporting Dir"
+          },
+          {
+            "charIndex": 66103,
+            "context": "and jurisdictions that require new and extensive disclosures on sustainability topics, and, in some cases, remediation of adverse effects. This evolving regulatory environment will increase our compliance costs and expose us to risks associated with regulatory compliance. The regulatory landscape for sustainability disclosures continues to evolve and expand and impose greater disclosure obligations on us. These laws and regulations include the European Union's Corporate Sustainability Reporting Directive (&#8220;CSRD&#8221;) and Corporate Sustainability Due Diligence Directive (&#8220;CSDDD&#8"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 122893,
+            "context": "payment associated with our FY'23 acquisition of ServiceMax, as well as lower interest payments in FY'25 due mainly to lower debt balances. Cash Used in Investing Activities Cash used in investing activities in FY'25 was driven by outflows from the settlement of net investment hedges. Cash used in investing activities in FY'24 was driven by the acquisition of pure-systems for $93 million. Cash Used in Financing Activities Cash used in financing activities in FY'25 included net payments of $553 million on our outstanding debt, including the redemption of our 2025 senior notes primarily using a"
+          },
+          {
+            "charIndex": 201187,
+            "context": "867,696\n\n\n\n749,984\n\n\n\n610,861\n\n\n\nCash flows from investing activities:\n\n\n\n\n\n\n\n\n\n\n\nAdditions to property and equipment\n\n\n( 11,008\n)\n\n\n( 14,378\n)\n\n\n( 23,814\n)\n\n\nAcquisitions of businesses, net of cash acquired\n\n\n( 6,532\n)\n\n\n( 93,457\n)\n\n\n( 828,271\n)\n\n\nSettlement of net investment hedges\n\n\n( 20,753\n)\n\n\n( 13,078\n)\n\n\n( 7,602\n)\n\n\nOther investing activities\n\n\n—\n\n\n\n( 3,901\n)\n\n\n( 6,428\n)\n\n\nNet cash used in investing activities\n\n\n( 38,293\n)\n\n\n( 124,814\n)\n\n\n( 866,115\n)\n\n\nCash flows from financing activities:\n\n\n\n\n\n\n\n\n\n\n\nBorrowings under credit facility\n\n\n860,000\n\n\n\n1,084,845\n\n\n\n1,540,000\n\n\n\nRepayments of"
+          },
+          {
+            "charIndex": 267880,
+            "context": "35\n\n\n$\n50,742\n\n\n$\n23,923\n\n\n\nTax positions related to current year:\n\n\n\n\n\n\n\n\n\n\n\nAdditions\n\n\n14,736\n\n\n\n7,570\n\n\n\n7,075\n\n\n\nTax positions related to prior years:\n\n\n\n\n\n\n\n\n\n\n\nAdditions\n\n\n104,375\n\n\n\n10,705\n\n\n\n20,855\n\n\n\nReductions\n\n\n( 9,669\n)\n\n\n( 452\n)\n\n\n—\n\n\n\nSettlements\n\n\n( 16,753\n)\n\n\n( 3,530\n)\n\n\n—\n\n\n\nStatute expirations\n\n\n—\n\n\n\n—\n\n\n\n( 1,111\n)\n\n\nUnrecognized tax benefit, end of year\n\n$\n157,724\n\n\n$\n65,035\n\n\n$\n50,742\n\n\nIn 2024, we requested consent from the IRS to change our tax accounting method for the treatment of certain deductions. In accordance with GAAP, our financial statements have not reflected"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 54432,
+            "context": "ect our ability to grow our business. A breach of security in our products or computer systems, or those of our third-party service providers, could compromise the integrity of our products, cause loss of data, harm our reputation, create additional liability and adversely affect our business, financial condition, operating results, and prospects. We have implemented and continue to implement measures intended to maintain the security and integrity of our products, source code and IT systems. The potential for a security breach or system disruption has significantly increased over time as the"
+          },
+          {
+            "charIndex": 57181,
+            "context": "mation or that of our customers. This could require us to incur significant costs of investigation, remediation and/or payment of a ransom; harm our reputation; cause customers to stop buying our products; and cause us to face lawsuits and potential liability, any of which could have a material adverse effect on our business, financial condition, operating results, and prospects. We have a large ecosystem of strategic, technology, and software partners and system integrators that enable us to enhance our products and offerings, expand our market reach, and accelerate our customers' digital tra"
+          },
+          {
+            "charIndex": 70308,
+            "context": "ly or effectively, that our AI-based solutions could produce inaccurate results or have other unintended consequences, or that our AI-based solutions may expose us to lawsuits, regulatory investigations, or other proceedings, and subject us to legal liability as well as brand and reputational harm, all of which could negatively affect our business, financial condition, results of operations, and prospects. We also use AI tools internally to make certain business processes more efficient. While these technologies offer significant benefits, they also create risks and challenges. Although we imp"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 600049000,
+          "accn": "0001193125-26-328444",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-31",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2026-06-30",
+          "val": 2060177000,
+          "accn": "0001193125-26-328444",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-31"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 774303000,
+          "accn": "0001193125-26-209869",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-05-07",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2026-03-31",
+          "val": 1460128000,
+          "accn": "0001193125-26-209869",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-05-07"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2025-12-31",
+          "val": 685825000,
+          "accn": "0001193125-26-039347",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-02-05",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2024-10-01",
+          "end": "2025-09-30",
+          "val": 2739226000,
+          "accn": "0001193125-25-291326",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-11-21",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 643937000,
+          "accn": "0001193125-26-328444",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-31",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 643937000,
+          "accn": "0000950170-25-100879",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-07-31"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 1.03,
+          "accn": "0001193125-26-328444",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-31",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2026-06-30",
+          "val": 7.43,
+          "accn": "0001193125-26-328444",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-31"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 4.98,
+          "accn": "0001193125-26-209869",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-05-07",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2026-03-31",
+          "val": 6.35,
+          "accn": "0001193125-26-209869",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-05-07"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2025-12-31",
+          "val": 1.39,
+          "accn": "0001193125-26-039347",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-02-05",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2024-10-01",
+          "end": "2025-09-30",
+          "val": 6.08,
+          "accn": "0001193125-25-291326",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-11-21",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1.17,
+          "accn": "0001193125-26-328444",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-31",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1.17,
+          "accn": "0000950170-25-100879",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-07-31"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 118780000,
+          "accn": "0001193125-26-328444",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-31",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2026-06-30",
+          "val": 876021000,
+          "accn": "0001193125-26-328444",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-31"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 590723000,
+          "accn": "0001193125-26-209869",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-05-07",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2026-03-31",
+          "val": 757241000,
+          "accn": "0001193125-26-209869",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-05-07"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2025-12-31",
+          "val": 166518000,
+          "accn": "0001193125-26-039347",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-02-05",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2024-10-01",
+          "end": "2025-09-30",
+          "val": 733997000,
+          "accn": "0001193125-25-291326",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-11-21",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 141328000,
+          "accn": "0001193125-26-328444",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-31",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 141328000,
+          "accn": "0000950170-25-100879",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-07-31"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 166506000,
+          "accn": "0001193125-26-328444",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-31",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2026-06-30",
+          "val": 683439000,
+          "accn": "0001193125-26-328444",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-31"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 295802000,
+          "accn": "0001193125-26-209869",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-05-07",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2026-03-31",
+          "val": 516933000,
+          "accn": "0001193125-26-209869",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-05-07"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2025-12-31",
+          "val": 221131000,
+          "accn": "0001193125-26-039347",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-02-05",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2024-10-01",
+          "end": "2025-09-30",
+          "val": 982385000,
+          "accn": "0001193125-25-291326",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-11-21",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 209828000,
+          "accn": "0001193125-26-328444",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-31",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 209828000,
+          "accn": "0000950170-25-100879",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-07-31"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "PTC",
+    "name": "PTC INC.",
+    "sector": "Services-Prepackaged Software",
+    "pe": 14.68,
+    "pb": 4.82,
+    "ret3m": 7.9988,
+    "ret6m": -5.8692,
+    "roe": 21.15,
+    "debtEquity": 0.15,
+    "revenueGrowth": 19.18,
+    "epsGrowth": 94.87,
+    "fcfGrowth": 16.46,
+    "operatingMargin": 35.86,
+    "marginTrend": 10.28,
+    "sentiment": 0.056,
+    "analyst": 69.2,
+    "beta": 0.9933089
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "2 Reasons to Like PTC (and 1 Not So Much)",
+        "url": "https://finnhub.io/api/news?id=3b40521bf7448aa675e823d3a612c3993760dcb70663f12d2fd135fb02517603",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Has PTC (PTC) Fallen Enough To Look Reasonable?",
+        "url": "https://finnhub.io/api/news?id=7c320882140b041f4b1af7fd3ba7231730786905f25fcddb91bf1e0216b7fc32",
+        "source": "Yahoo",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "PTC (PTC) Rolls Out AI Tools Across ALM And PLM Workflows",
+        "url": "https://finnhub.io/api/news?id=fd3df0702ba06d0593ea5a878807152d7b11808aaa13b007f5b69f49eb392bf4",
+        "source": "Yahoo",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "PTC (PTC) Q3 2026 Earnings Call Transcript",
+        "url": "https://finnhub.io/api/news?id=bfcacc9d6bc5c35be7f1b3ecc66c11fef825137e6e6c80cf75be91a59aaba7f5",
+        "source": "Yahoo",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "PTC (NASDAQ:PTC) Qualifies as a Peter Lynch Growth-at-a-Reasonable-Price Pick",
+        "url": "https://finnhub.io/api/news?id=9ed33a67fa20534ff7334f5c99130451fb9775adaa8a21b1f2d01a58885d721d",
+        "source": "ChartMill",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "Explore the top gainers and losers within the S&P500 index in today's session.",
+        "url": "https://finnhub.io/api/news?id=66be9094570456fc28b35eb99f3c6ef5f0fc41d34be1f1ed72e8a3ae5118c97d",
+        "source": "ChartMill",
+        "date": "2026-08-06"
+      }
+    ],
+    "cachedAt": "2026-08-11T06:03:49.097Z"
+  }
+}

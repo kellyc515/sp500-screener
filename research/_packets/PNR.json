@@ -1,0 +1,669 @@
+{
+  "ticker": "PNR",
+  "entityName": "PENTAIR plc",
+  "cik": "0000077360",
+  "generatedAt": "2026-08-11T18:22:02.764Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-07-28",
+        "reportDate": "2026-06-30",
+        "accessionNumber": "0000077360-26-000045",
+        "primaryDocument": "pnr-20260630.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/77360/000007736026000045/pnr-20260630.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/77360/000007736026000045/"
+      },
+      "textLength": 132164,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS Forward-looking statements This report contains statements that we believe to be &#8220;forward-looking statements&#8221; within the meaning of the Private Securities Litigation Reform Act of 1995. All statements, other than statements of historical fact, are forward-looking statements. Without limitation, any statements preceded or followed by or that include the words &#8220;targets,&#8221; &#8220;plans,&#8221; &#8220;believes,&#8221; &#8220;expects,&#8221; &#8220;intends,&#8221; &#8220;will,&#8221; &#8220;likely,&#8221; &#8220;may,&#8221; &#8220;anticipates,&#8221; &#8220;estimates,&#8221; &#8220;projects,&#8221; &#8220;should,&#8221; &#8220;would,&#8221; &#8220;could,&#8221; &#8220;positioned,&#8221; &#8220;strategy,&#8221; or &#8220;future&#8221; or words, phrases, or terms of similar substance or the negative thereof are forward-looking statements. All statements made about the Taco acquisition, including the anticipated time for completing the acquisition, and the anticipated benefits of the acquisition are forward-looking statements. These forward-looking statements are not guarantees of future performance and are subject to risks, uncertainties, assumptions and other factors, some of which are beyond our control, which could cause actual results to differ materially from those expressed or implied by such forward-looking statements. These factors include our ability to close and fund the Taco acquisition on the expected terms and time schedule, including obtaining regulatory approvals and satisfying other closing conditions; our ability to integrate the Taco acquisition successfully; our ability to retain customers and employees of Taco; the overall global economic and business conditions impacting our business, including the strength of housing and related markets and conditions relating to international hostilities; supply, demand, logistics, competition and pricing pressures related to and in the markets we serve; the ability to achieve the benefits of our restructuring plans, cost reduction initiatives and Transformation Program; the impact of raw material, logistics and labor costs and other inflation; volatility in currency exchange rates and interest rates; failure of markets to accept new product introductions and enhancements; the ability to successfully identify, finance, complete and integrate acquisitions; risks associated with operating foreign businesses; the impact of seasonality of sales and weather conditions; our ability to comply with laws and regulations; the impact of changes in laws, regulations and administrative policy, including those that limit U.S. tax benefits or impact trade agreements and tariffs; the outcome of litigation and governmental proceedings; and the ability to achieve our long-term strategic operating and sustainability goals and targets. Additional information concerning these and other factors is contained in our filings with the U.S. Securities and Exchange Commission, including this Form 10-Q and our Annual Report on Form 10-K for the year ended December 31, 2025. All forward-looking statements speak only as of the date of this report. Pentair assumes no obligation, and disclaims any obligation, to update the information contained in this report. Overview The terms &#8220;us,&#8221; &#8220;we,&#8221; &#8220;our&#8221; or &#8220;Pentair&#8221; refer to Pentair plc and its consolidated subsidiaries. At Pentair, we help the world sustainably move, improve and enjoy water, life's most essential resource. From our residential and commercial water solutions to industrial water management and everything in between, Pentair is an S&P 500 company focused on smart, sustainable water solutions that help our planet and people thrive. We are comprised of three reportable segments: Flow, Water Solutions and Pool. Effective January 1, 2026, we reorganized the composition of our Flow and Water Solutions reportable segments to reflect how we are managing our business. As a result of this reorganization, our legacy residential and irrigation flow business moved from our Flow segment into our Water Solutions segment. The Pool segment remains unchanged. We believe the new alignment with our residential and irrigation flow business in our Water Solutions segment will help us accelerate our efforts to improve customer experiences, enhance operational efficiencies and deliver more comprehensive solutions. The applicable prior period amounts related to this change have been retrospectively reclassified to conform to the new composition. These changes have no impact on the Company's historical consolidated financial performance or results of operations. For the first six months of 2026, the Flow, Water Solutions and Pool reportable segments represented approximately 27%, 41% and 32% of total consolidated net sales, respectively. We classify our operations into reportable segments based primarily on types of products offered and markets served: &#8226; Flow — The focus of this segment is to deliver water where it is needed, when it is needed, more efficiently and to transform waste into value. This segment designs, manufactures and sells a variety of fluid treatment and pump products and systems, including pressure vessels, gas recovery solutions, membrane bioreactors, wastewater reuse systems and advanced membrane filtration, separation systems, specialty insertion valves, line stop fittings and installation equipment, turbine pumps and solid handling pumps, while serving the global commercial and industrial markets. These products and systems are used in a range of applications, including fluid delivery, ion exchange, desalination, food and beverage, separation technologies for the oil and gas industry, residential and municipal wells, water treatment, wastewater solids handling, pressure boosting, fire suppression and flood control. 23 Table of Contents &#8226; Water Solutions — The focus of this segment is to provide great tasting, higher-quality water and ice while helping people use water more productively. This segment designs, manufactures and sells commercial and residential water treatment products and systems including pressure tanks, control valves, activated carbon products, commercial ice machines, conventional filtration products, point-of-entry and point-of-use water treatment systems, fluid transfer pumps, agricultural spray nozzles, as well as certain water disposal and water supply pumps. These water treatment products and systems are for use in residential whole home water filtration, drinking water filtration and water softening solutions in addition to commercial total water management and filtration in foodservice operations, circulation and transfer, agricultural irrigation and crop spray. &#8226; Pool — The focus of this segment is to provide innovative, energy-efficient pool solutions to help people more sustainably enjoy water. This segment designs, manufactures and sells a complete line of energy-efficient residential and commercial pool equipment and accessories including pumps, filters, heaters, lights, automatic controls, chlorinators, automatic cleaners, maintenance equipment and pool accessories. Applications for our pool products include residential and commercial pool maintenance, pool repair, renovation, service, construction and aquaculture solutions. In September 2025, as part of our Flow reportable segment, we completed the acquisition of Hydra-Stop, LLC (&#8220;Hydra-Stop&#8221;) for $292.1 million in cash, net of cash acquired, and subject to customary adjustments. Hydra-Stop manufactures specialty insertion valves, line stop fittings and installation equipment. On July 27, 2026, as part of our Water Solutions reportable segment, we entered into a definitive agreement to acquire the issued and outstanding equity securities of Taco Group Holdings (&#8220;Taco&#8221;), for a purchase price of $1.425 billion, subject to customary adjustments contemplated by the definitive agreement. We expect to finance the acquisition with a combination of cash on hand and committed bridge financing, which we intend to refinance through a permanent debt issuance that we anticipate to be investment grade. We expect to close the acquisition of Taco in the fourth quarter of 2026, subject to customary closing conditions and necessary regulatory approvals. Key trends and uncertainties regarding our existing business The following trends and uncertainties affected our financial performance in the first six months of 2026 and are reasonably likely to impact our results in the future: &#8226; We have a Transformation Program designed to accelerate growth and drive margin expansion through transformation of our business model to drive operational excellence, reduce complexity and streamline our processes. During 2025 and the first six months of 2026, we made strategic progress on our Transformation Program initiatives with a focus on our four key themes of pricing excellence, sourcing excellence, operational excellence and organizational effectiveness. We expect to continue to execute on our key Transformation Program initiatives to drive margin expansion and to incur transformation costs throughout the remainder of 2026 and beyond. &#8226; During 2025 and the first six months of 2026, we implemented 80/20 guiding principles to enable our Transformation Program. As we continue to focus on 80/20 guiding principles in 2026, we expect to create value by increasing focus on key customers and products through quadrant-based strategies. We expect this approach to enable improved operating performance by driving margin growth with our highest value customers, reducing lower margin sales and removing complexity in the future. &#8226; During 2025 and the first six months of 2026, we executed certain business restructuring initiatives aimed at reducing our fixed cost structure and realigning our business. We expect these actions to continue throughout the remainder of 2026 and to drive margin expansion. &#8226; During the second quarter of 2026, performance was negatively impacted by a decline in Pool sales largely attributed to a more pronounced inventory realignment with major channel partners than previously estimated and worsening business conditions, including higher interest rates and inflation. Destocking of inventory in the Pool channel is expected to negatively impact net sales for the twelve months ended 2026 by approximately $250 million. While we expect channel inventory levels to improve over time, the timing and pace of normalization remain uncertain and could negatively impact our results of operations. 24 Table of Contents &#8226; During 2025 and the first six months of 2026, we experienced inflationary cost increases, including tariffs, for certain raw materials as well as logistics and transportation costs. Tariffs, along with potential retaliatory measures by other countries, have contributed to higher input costs and supply chain complexity. The ongoing volatility in the commodities market also has the potential to continue to drive price increases in our supply chain. To address these inflationary pressures, we have implemented pricing increases and taken other actions including inventory pre-buys and supply chain optimization. In addition, our Transformation Program initiatives are intended to improve productivity and offset cost increases. We anticipate that inflationary cost increases and supply chain pressures, including additional or increased tariffs in the future, as well as any related impacts on macroeconomic conditions and our business, will likely persist throughout the remainder of 2026. &#8226; During 2025, the current U.S. administration implemented tariffs under the International Emergency Economic Powers Act (&#8220;IEEPA&#8221;). In February 2026, the U.S. Supreme Court invalidated certain tariffs imposed under the IEEPA. While we have received refunds in the second quarter of 2026 of certain previously paid IEEPA tariffs, uncertainty remains regarding the timing and ultimate amount of any additional potential refunds, as well as the scope and impact of replacement tariffs or other trade policy actions. We will continue to monitor these developments and evaluate their potential impact on our business, results of operations, cash flows and future tariff exposure. &#8226; The Organisation for Economic Co-operation and Development Pillar Two Model Rules (&#8220;Pillar Two&#8221;) for a global 15.0% minimum tax have been adopted by a number of jurisdictions in which we operate. Pillar Two has negatively impacted our effective tax rate during the first six months of 2026 and is likely to continue to impact our effective tax rate in the future. We continue to evaluate the enacted legislative changes and new guidance as it becomes available. &#8226; We have identified specific product and geographic market opportunities that we find attractive and continue to pursue, both within and outside the U.S. We expect to continue investing in our businesses to drive these opportunities through research and development and additional sales and marketing resources. Unless we successfully penetrate these markets, our core sales growth will likely be limited or may decline. In 2026, our operating objectives focus on delivering our core and building our future. We expect to execute these objectives by: &#8226; Delivering profitable revenue growth and productivity for customers and shareholders; &#8226; Continuing to focus on capital allocation through: &#9702; Committing to maintain our investment grade rating; &#9702; Focusing on reducing our long-term debt; &#9702; Returning cash to shareholders through dividends and share repurchases; and &#9702; Accelerating our performance with strategically aligned mergers and acquisitions; &#8226; Focusing growth initiatives that accelerate our investments in digital, innovation, technology and sustainability; &#8226; Evolving the Pentair Business System which includes executing our Transformation Program initiatives and using the Pentair leadership tools to drive operational excellence, reduce complexity and improve our organizational structure, with a continued focus on 80/20 guiding principles for profitable growth; and &#8226; Building a high-performance growth culture and delivering on our commitments while living our Win Right values. 25 Table of Contents CONSOLIDATED RESULTS OF OPERATIONS The consolidated results of operations for the three months ended June 30, 2026 and 2025 were as follows: Three months ended In millions June 30, 2026 June 30, 2025 $ Change % / Point Change Net sales $ 932.6 $ 1,123.1 $ (190.5) (17.0) % Cost of goods sold 537.6 666.5 (128.9) (19.3) % Gross profit 395.0 456.6 (61.6) (13.5) % % of net sales 42.4 % 40.7 % 1.7 pts Selling, general and administrative 204.8 213.8 (9.0) (4.2) % % of net sales 22.0 % 19.0",
+        "charRange": [
+          74977,
+          89977
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "risk factors relating to the Taco acquisition set forth below. We may not realize the anticipated benefits of the Taco acquisition and any benefit may take longer to realize than we expect. The Taco acquisition will involve the integration of Taco's operations with our existing operations, and there are uncertainties inherent in such an integration. We will be required to devote significant management attention and resources to integrating Taco's operations. Delays or unexpected difficulties in the integration process could adversely affect our business, financial results and financial condition. Even if we are able to integrate Taco's operations successfully, this integration may not result in the realization of the full benefits of revenue synergies, cost savings and operational efficiencies that we expect or the achievement of these benefits within a reasonable period of time or at all. 37 Table of Contents We could be subject to new risks, known and unknown, relating to the Taco acquisition. We may experience risks, losses and damages associated with the Taco acquisition. The risks we could face include the following: &#8226; the Taco acquisition may lead to the incurrence of costs to review, upgrade and integrate Taco's systems with our compliance and reporting systems, including our systems of internal control over financial reporting. The process of integrating Taco into our internal control over financial reporting could require significant time and effort from our management and other personnel and could increase our compliance costs; and &#8226; the Taco acquisition involves the inherent risk of liabilities, and these liabilities may prove more costly or produce more adverse effects than we anticipate, such as actual or potential litigation and regulatory matters. In addition, in the course of the due diligence review of Taco, we may not have discovered, or may have been unable to quantify, undisclosed liabilities of Taco, and we may not be indemnified or have insurance for any of these liabilities. Any such liabilities could have an adverse effect on our business, results of operations, financial condition and cash flows following the completion of the Taco acquisition. Any of these risks associated with the Taco acquisition could have a material adverse impact on our business, results of operations and financial condition. Increased leverage may harm our financial condition and results of operations. As of June 30, 2026, we had $ 1,606.0 million of total debt on a consolidated basis. We expect our indebtedness to increase materially in connection with our acquisition of Taco. We intend to fund the Taco acquisition with new debt, together with cash on hand and/or borrowings under our revolving credit facility, and, if necessary, borrowings under the bridge facility for an aggregate amount of approximately $ 1.4 billion of new indebtedness in connection with the Taco acquisition. We and our subsidiaries may incur additional indebtedness in the future. Future increases in our level of indebtedness will have several important effects on our future operations, including, without limitation: &#8226; we will have additional cash requirements in order to support the payment of interest on our outstanding indebtedness; &#8226; increases in our outstanding indebtedness and leverage may increase our vulnerability to adverse changes in general economic and industry conditions, as well as to competitive pressure; &#8226; our ability to obtain additional financing for working capital, capital expenditures, general corporate and other purposes may be reduced; &#8226; our flexibility in planning for, or reacting to, changes in our business and our industry may be reduced; and &#8226; our flexibility to make acquisitions and develop technology may be limited. Our ability to make payments of principal and interest on our indebtedness depends upon our future performance, which will be subject to general economic conditions and financial, business and other factors affecting our consolidated operations, many of which are beyond our control. If we are unable to generate sufficient cash flow from operations in the future to service our debt and meet our other cash requirements, we may be required, among other things: &#8226; to seek additional financing in the debt or equity markets; &#8226; to refinance or restructure all or a portion of our indebtedness; &#8226; to sell selected assets or businesses; or &#8226; to reduce or delay planned capital or operating expenditures. Such measures might not be sufficient to enable us to service our debt and meet our other cash requirements. In addition, any such financing, refinancing or sale of assets might not be available at all or on economically favorable terms. 38 Table of Contents ITEM 2.",
+        "charRange": [
+          122392,
+          127208
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 75230,
+            "context": "AGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS Forward-looking statements This report contains statements that we believe to be &#8220;forward-looking statements&#8221; within the meaning of the Private Securities Litigation Reform Act of 1995. All statements, other than statements of historical fact, are forward-looking statements. Without limitation, any statements preceded or followed by or that include the words &#8220;targets,&#8221; &#8220;plans,&#8221; &#8220;believes,&#8221; &#8220;expects,&#8221; &#8220;intends,&#8221; &#8220;will,&#8221; &#8220;lik"
+          },
+          {
+            "charIndex": 77762,
+            "context": "sales and weather conditions; our ability to comply with laws and regulations; the impact of changes in laws, regulations and administrative policy, including those that limit U.S. tax benefits or impact trade agreements and tariffs; the outcome of litigation and governmental proceedings; and the ability to achieve our long-term strategic operating and sustainability goals and targets. Additional information concerning these and other factors is contained in our filings with the U.S. Securities and Exchange Commission, including this Form 10-Q and our Annual Report on Form 10-K for the year e"
+          },
+          {
+            "charIndex": 124162,
+            "context": "ersonnel and could increase our compliance costs; and &#8226; the Taco acquisition involves the inherent risk of liabilities, and these liabilities may prove more costly or produce more adverse effects than we anticipate, such as actual or potential litigation and regulatory matters. In addition, in the course of the due diligence review of Taco, we may not have discovered, or may have been unable to quantify, undisclosed liabilities of Taco, and we may not be indemnified or have insurance for any of these liabilities. Any such liabilities could have an adverse effect on our business, results"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 34587,
+            "context": "ults, observance of trends in our share price, changes in option exercise behavior, future expectations and other relevant factors. If other assumptions had been used, share-based compensation expense, as calculated and recorded under the accounting guidance, could have been affected. We based the expected life assumption on historical experience as well as the terms and vesting periods of the options granted. For purposes of determining expected share price volatility, we considered a rolling average of historical volatility measured over a period approximately equal to the expected option te"
+          },
+          {
+            "charIndex": 87879,
+            "context": "which we operate. Pillar Two has negatively impacted our effective tax rate during the first six months of 2026 and is likely to continue to impact our effective tax rate in the future. We continue to evaluate the enacted legislative changes and new guidance as it becomes available. &#8226; We have identified specific product and geographic market opportunities that we find attractive and continue to pursue, both within and outside the U.S. We expect to continue investing in our businesses to drive these opportunities through research and development and additional sales and marketing resource"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 6540,
+            "context": "ingMember 2026-04-01 2026-06-30 0000077360 us-gaap:OtherRestructuringMember 2025-04-01 2025-06-30 0000077360 us-gaap:OtherRestructuringMember 2026-01-01 2026-06-30 0000077360 us-gaap:OtherRestructuringMember 2025-01-01 2025-06-30 0000077360 pnr:AssetImpairmentsAndWriteOffsMember 2026-04-01 2026-06-30 0000077360 pnr:AssetImpairmentsAndWriteOffsMember 2025-04-01 2025-06-30 0000077360 pnr:AssetImpairmentsAndWriteOffsMember 2026-01-01 2026-06-30 0000077360 pnr:AssetImpairmentsAndWriteOffsMember 2025-01-01 2025-06-30 0000077360 pnr:OtherTransformationMember 2026-04-01 2026-06-30 0000077360 pnr:Othe"
+          },
+          {
+            "charIndex": 6612,
+            "context": "ber 2025-04-01 2025-06-30 0000077360 us-gaap:OtherRestructuringMember 2026-01-01 2026-06-30 0000077360 us-gaap:OtherRestructuringMember 2025-01-01 2025-06-30 0000077360 pnr:AssetImpairmentsAndWriteOffsMember 2026-04-01 2026-06-30 0000077360 pnr:AssetImpairmentsAndWriteOffsMember 2025-04-01 2025-06-30 0000077360 pnr:AssetImpairmentsAndWriteOffsMember 2026-01-01 2026-06-30 0000077360 pnr:AssetImpairmentsAndWriteOffsMember 2025-01-01 2025-06-30 0000077360 pnr:OtherTransformationMember 2026-04-01 2026-06-30 0000077360 pnr:OtherTransformationMember 2025-04-01 2025-06-30 0000077360 pnr:OtherTransfor"
+          },
+          {
+            "charIndex": 6684,
+            "context": "26-01-01 2026-06-30 0000077360 us-gaap:OtherRestructuringMember 2025-01-01 2025-06-30 0000077360 pnr:AssetImpairmentsAndWriteOffsMember 2026-04-01 2026-06-30 0000077360 pnr:AssetImpairmentsAndWriteOffsMember 2025-04-01 2025-06-30 0000077360 pnr:AssetImpairmentsAndWriteOffsMember 2026-01-01 2026-06-30 0000077360 pnr:AssetImpairmentsAndWriteOffsMember 2025-01-01 2025-06-30 0000077360 pnr:OtherTransformationMember 2026-04-01 2026-06-30 0000077360 pnr:OtherTransformationMember 2025-04-01 2025-06-30 0000077360 pnr:OtherTransformationMember 2026-01-01 2026-06-30 0000077360 pnr:OtherTransformationMem"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 74227,
+            "context": "idge financing, which we intend to refinance through a permanent debt issuance that we anticipate to be investment grade. We expect to close the acquisition of Taco in the fourth quarter of 2026, subject to customary closing conditions and necessary regulatory approvals. In connection with entering into the definitive agreement to acquire Taco, PFSA entered into a commitment letter, dated July 27, 2026 (the &#8220;Commitment Letter&#8221;), pursuant to which, among other things, the lender has committed to provide debt financing for the acquisition of Taco, consisting of a senior unsecured bri"
+          },
+          {
+            "charIndex": 76561,
+            "context": "could cause actual results to differ materially from those expressed or implied by such forward-looking statements. These factors include our ability to close and fund the Taco acquisition on the expected terms and time schedule, including obtaining regulatory approvals and satisfying other closing conditions; our ability to integrate the Taco acquisition successfully; our ability to retain customers and employees of Taco; the overall global economic and business conditions impacting our business, including the strength of housing and related markets and conditions relating to international ho"
+          },
+          {
+            "charIndex": 83401,
+            "context": "idge financing, which we intend to refinance through a permanent debt issuance that we anticipate to be investment grade. We expect to close the acquisition of Taco in the fourth quarter of 2026, subject to customary closing conditions and necessary regulatory approvals. Key trends and uncertainties regarding our existing business The following trends and uncertainties affected our financial performance in the first six months of 2026 and are reasonably likely to impact our results in the future: &#8226; We have a Transformation Program designed to accelerate growth and drive margin expansion"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 52739,
+            "context": "had deferred foreign currency losses of $ 51.1 million and $ 68.0 million at June 30, 2026 and December 31, 2025, respectively, recorded in Accumulated other comprehensive loss associated with our cross currency swap activity. The periodic interest settlements related to our cross currency swap agreements are classified as operating activities. The cash flows that relate to principal balances are classified as financing activities for the cash flow hedges on intercompany debt and investing activities for the net investment hedges. Hedging of variable interest rates We manage our exposure to c"
+          },
+          {
+            "charIndex": 54157,
+            "context": "had an unrealized gain of $ 0.2 million at June 30, 2026 and an unrealized loss of $ 0.2 million at December 31, 2025, recorded in Accumulated other comprehensive loss associated with our interest rate swap and collar activity. The periodic interest settlements related to our interest rate swaps and collars are classified as operating activities. 14 Table of Contents Pentair plc and Subsidiaries Notes to condensed consolidated financial statements (unaudited) Fair value measurements Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an"
+          },
+          {
+            "charIndex": 66471,
+            "context": "rtable segment inclusive of equity income of unconsolidated subsidiaries and exclusive of intangible amortization, certain acquisition related expenses, costs of restructuring and transformation activities, impairments, legal accrual adjustments and settlements and other unusual non-operating items. &#8220;Corporate and other&#8221; activity primarily consists of corporate expenses not allocated to the segments, including executive office, board of directors, and centrally-managed corporate functional or shared service costs related to finance, human resources, communications and corporate dev"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 41537,
+            "context": "tal other non-current assets $ 375.6 $ 338.8 Other current liabilities Dividends payable $ 43.1 $ 44.1 Accrued warranty 70.4 69.8 Accrued rebates and incentives 167.5 180.3 Accrued freight 15.0 14.9 Billings in excess of cost 29.0 37.4 Current lease liability 28.1 28.5 Income taxes payable 22.8 26.8 Accrued restructuring 44.6 14.0 Interest payable 23.5 22.5 Other current liabilities 105.8 99.4 Total other current liabilities $ 549.8 $ 537.7 Other non-current liabilities Long-term lease liability $ 130.6 $ 98.8 Income taxes payable 6.6 8.5 Self-insurance liabilities 54.4 52.8 Deferred compensat"
+          },
+          {
+            "charIndex": 41778,
+            "context": "nt lease liability 28.1 28.5 Income taxes payable 22.8 26.8 Accrued restructuring 44.6 14.0 Interest payable 23.5 22.5 Other current liabilities 105.8 99.4 Total other current liabilities $ 549.8 $ 537.7 Other non-current liabilities Long-term lease liability $ 130.6 $ 98.8 Income taxes payable 6.6 8.5 Self-insurance liabilities 54.4 52.8 Deferred compensation plan liabilities 37.4 32.3 Foreign currency and interest rate contract liabilities 49.5 69.0 Other non-current liabilities 14.0 34.0 Total other non-current liabilities $ 292.5 $ 295.4 11 Table of Contents Pentair plc and Subsidiaries No"
+          },
+          {
+            "charIndex": 54492,
+            "context": "g activities. 14 Table of Contents Pentair plc and Subsidiaries Notes to condensed consolidated financial statements (unaudited) Fair value measurements Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. Assets and liabilities measured at fair value are classified using the following hierarchy, which is based upon the transparency of inputs to the valuation as of the measurement date: Level 1: Valuation is based on observable inputs such as quoted market prices"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-02-24",
+        "reportDate": "2025-12-31",
+        "accessionNumber": "0000077360-26-000007",
+        "primaryDocument": "pnr-20251231.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/77360/000007736026000007/pnr-20251231.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/77360/000007736026000007/"
+      },
+      "textLength": 366769,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations of our Annual Report on Form 10-K for the year ended December 31, 2024, which was filed with the SEC on February 25, 2025. However, such discussion is not incorporated by reference into, and does not constitute a part of, this Annual Report on Form 10-K. SEGMENT RESULTS OF OPERATIONS The summary that follows provides a discussion of the results of operations of our three reportable segments (Flow, Water Solutions and Pool). Each of these segments comprises various product offerings that serve multiple end users. We evaluate performance based on net sales and reportable segment income (&#8220;segment income&#8221;) and use certain ratios, particularly return on sales, to measure performance of our reportable segments. Segment income represents operating income of each reportable segment inclusive of equity income of unconsolidated subsidiaries and exclusive of intangible amortization, certain acquisition related expenses, costs of restructuring and transformation activities, impairments, legal accrual adjustments and settlements and other unusual non-operating items. 29 Flow The net sales and segment income for Flow were as follows: Years ended December 31 % / point change In millions 2025 2024 2023 2025 vs 2024 2024 vs 2023 Net sales $ 1,553.6 $ 1,514.0 $ 1,582.1 2.6 % (4.3) % Segment income 362.1 318.1 282.3 13.8 % 12.7 % % of net sales 23.3 % 21.0 % 17.8 % 2.3 pts 3.2 pts Net sales The components of the change in Flow net sales were as follows: 2025 vs 2024 2024 vs 2023 Volume (2.4) % (6.0) % Price 3.2 1.7 Core growth 0.8 (4.3) Acquisition/Divestiture 0.7 — Currency 1.1 — Total 2.6 % (4.3) % The 2.6 percent increase in net sales for Flow in 2025 from 2024 was primarily the result of: &#8226; increased selling prices to mitigate inflationary cost increases; &#8226; favorable foreign currency effects compared to the prior year; and &#8226; increased sales due to the acquisition of Hydra-Stop completed in the third quarter of 2025. The increase was partially offset by: &#8226; decreased sales volume compared to the prior year. Segment income The components of the change in Flow segment income as a percentage of net sales from the prior period were as follows: 2025 2024 Volume/Price/Acquisition/Divestiture 3.2 pts 2.5 pts Inflation (3.0) (2.3) Productivity 2.1 3.0 Total 2.3 pts 3.2 pts The 2.3 percentage point increase in segment income for Flow as a percentage of net sales in 2025 from 2024 was primarily the result of: &#8226; increased selling prices to mitigate impacts of inflation; and &#8226; increased productivity, mainly driven by transformation initiatives. This increase was partially offset by: &#8226; inflationary cost increases, including higher tariffs and certain raw materials. 30 Water Solutions The net sales and segment income for Water Solutions were as follows: Years ended December 31 % / point change In millions 2025 2024 2023 2025 vs 2024 2024 vs 2023 Net sales $ 1,062.1 $ 1,131.0 $ 1,177.2 (6.1) % (3.9) % Segment income 253.9 255.1 247.6 (0.5) % 3.0 % % of net sales 23.9 % 22.6 % 21.0 % 1.3 pts 1.6 pts Net sales The components of the change in Water Solutions net sales were as follows: 2025 vs 2024 2024 vs 2023 Volume (6.3) % (4.8) % Price 3.7 1.2 Core growth (2.6) (3.6) Acquisition/Divestiture (4.0) (0.1) Currency 0.5 (0.2) Total (6.1) % (3.9) % The 6.1 percent decrease in net sales for Water Solutions in 2025 from 2024 was primarily the result of: &#8226; decreased sales volume compared to the prior year; and &#8226; business exits that occurred during the fourth quarter of 2024 and second quarter of 2025 in our residential and commercial businesses. This decrease was partially offset by: &#8226; increased selling prices to mitigate inflationary cost increases; and &#8226; favorable foreign currency effects compared to the prior year. Segment income The components of the change in Water Solutions segment income as a percentage of net sales from the prior period were as follows: 2025 2024 Volume/Price/Acquisition/Divestiture 2.6 pts 1.3 pts Currency (0.4) 0.1 Inflation (3.4) (2.5) Productivity 2.5 2.7 Total 1.3 pts 1.6 pts The 1.3 percentage point increase in segment income for Water Solutions as a percentage of net sales in 2025 from 2024 was primarily the result of: &#8226; increased selling prices to mitigate impacts of inflation; and &#8226; increased productivity, mainly driven by transformation initiatives. This increase was partially offset by: &#8226; inflationary cost increases, including higher tariffs and certain raw materials; and &#8226; unfavorable foreign currency effects compared to the prior year. 31 Pool The net sales and segment income for Pool were as follows: Years ended December 31 % / point change In millions 2025 2024 2023 2025 vs 2024 2024 vs 2023 Net sales $ 1,558.8 $ 1,436.1 $ 1,343.6 8.5 % 6.9 % Segment income 527.1 476.5 417.0 10.6 % 14.3 % % of net sales 33.8 % 33.2 % 31.0 % 0.6 pts 2.2 pts Net sales The components of the change in Pool net sales were as follows: 2025 vs 2024 2024 vs 2023 Volume 1.4 % 4.1 % Price 5.1 2.9 Core growth 6.5 7.0 Acquisition/Divestiture 2.0 (0.2) Currency — 0.1 Total 8.5 % 6.9 % The 8.5 percent increase in net sales for Pool in 2025 from 2024 was primarily the result of: &#8226; increased selling prices to mitigate inflationary cost increases; &#8226; increased sales due to the acquisition of G & F Manufacturing completed in the fourth quarter of 2024; and &#8226; increased sales volume due to higher demand compared to the prior year. Segment income The components of the change in Pool segment income as a percentage of net sales from the prior period were as follows: 2025 2024 Volume/Price/Acquisition/Divestiture 3.8 pts 2.2 pts Currency 0.1 — Inflation (3.9) (1.7) Productivity 0.6 1.7 Total 0.6 pts 2.2 pts The 0.6 percentage point increase in segment income for Pool as a percentage of net sales in 2025 from 2024 was primarily the result of: &#8226; increased selling prices to mitigate impacts of inflation; and &#8226; increased productivity, mainly driven by transformation initiatives. This increase was partially offset by: &#8226; inflationary cost increases, including higher tariffs, certain raw materials and labor costs; and &#8226; productivity eases during the second half of 2025 due to investments in growth initiatives. 32 BACKLOG OF ORDERS BY SEGMENT December 31 In millions 2025 2024 $ Change % Change Flow $ 387.2 $ 352.3 $ 34.9 9.9 % Water Solutions 53.2 68.9 (15.7) (22.8) % Pool 127.1 190.0 (62.9) (33.1) % Total $ 567.5 $ 611.2 $ (43.7) (7.1) % The majority of our backlog is short cycle in nature with shipments within one year from when a customer places an order, and a substantial portion of our revenues has historically resulted from orders received and products delivered in the same month. A portion of our backlog, particularly from orders for major capital projects, can take more than one year from order to delivery depending on the size and type of order. We record, as part of our backlog, all orders from external customers, which represent firm commitments, and are supported by a purchase order or other legitimate contract. Our backlog of orders is dependent upon when customers place orders and is not necessarily an indicator of our expected results for our 2026 net sales. The decrease in our overall backlog from the prior year was primarily driven by timing of delivery of orders associated with certain advance sale (&#8220;early buy&#8221;) programs within our Pool segment. LIQUIDITY AND CAPITAL RESOURCES We generally fund cash requirements for working capital, capital expenditures, equity investments, acquisitions, debt repayments, dividend payments and share repurchases from cash generated from operations, availability under existing committed revolving credit facilities and in certain instances, public and private debt and equity offerings. Our primary revolving credit facility has generally been adequate for these purposes, although we have negotiated additional credit facilities or completed debt and equity offerings as needed to allow us to complete acquisitions. We experience seasonal cash flows primarily due to seasonal demand in a number of markets. Consistent with historical trends, we experienced seasonal cash usage in the first quarter of 2025 and drew on our revolving credit facility to fund our operations. This cash usage reversed in the second quarter of 2025 as the seasonality of our businesses peaked and generated significant cash to fund our operations. In the second half of 2025, we funded our operations using our strong cash flow and revolving credit facility. End-user demand for pool equipment in the Pool segment, water solution products in the Water Solutions segment, and residential water supply and agricultural products within the Flow segment follows warm weather trends, with seasonal highs ranging from April to September. The magnitude of the sales spike has historically been partially mitigated by employing advance sale &#8220;early buy&#8221; programs (generally including extended payment terms and/or additional discounts). Demand for residential and agricultural water systems is also impacted by weather patterns, particularly by temperature, heavy flooding and droughts. On September 17, 2025, as part of our Flow reportable segment, we completed the acquisition of Hydra-Stop, LLC (&#8220;Hydra-Stop&#8221;) for $292.1 million in cash, net of cash acquired, and subject to customary adjustments. Hydra-Stop manufactures specialty insertion valves, line stop fittings and installation equipment. We funded the purchase price for this acquisition with cash on hand and borrowings on our revolving credit facility. Summary of Cash Flows Years ended December 31 In millions 2025 2024 2023 Cash provided by (used for): Operating activities of continuing operations $ 814.8 $ 766.9 $ 620.8 Investing activities (404.5) (187.6) (85.4) Financing activities (402.5) (636.7) (468.1) Operating activities In 2025, net cash provided by operating activities of continuing operations primarily reflects net income from continuing operations, net of non-cash depreciation, definite-lived intangible amortization and asset impairment, of $816.3 million. 33 In 2024, net cash provided by operating activities of continuing operations primarily reflects net income from continuing operations, net of non-cash depreciation, definite-lived intangible amortization and asset impairment, of $757.8 million. Investing activities Net cash used for investing activities in 2025 primarily reflects net cash paid of $292.1 million for the Hydra-Stop acquisition, capital expenditures of $68.8 million, cash paid upon the settlement of net investment hedges of $28.9 million and the purchase of investments of $18.0 million. Net cash used for investing activities in 2024 primarily reflects net cash paid of $108.0 million for the acquisition of G & F Manufacturing, capital expenditures of $74.4 million and cash paid upon the settlement of net investment hedges of $5.8 million. Financing activities In 2025, net cash used for financing activities primarily relates to the repayment of $250.0 million toward the remaining principal under the Term Loan Facility (as defined below), a $19.3 million repayment of senior notes, share repurchases of $225.0 million and dividend payments of $164.3 million, partially offset by net borrowings of revolving long-term debt of $268.2 million. In 2024, net cash used for financing activities primarily relates to the repayment of $200.0 million of term loans under the Senior Credit Facility (as defined below), $162.5 million of principal payments on the Term Loan Facility (as defined below), dividend payments of $152.3 million and share repurchases of $150.0 million. Free Cash Flow In addition to measuring our cash flow generation or usage based upon operating, investing and financing classifications included in the Consolidated Statements of Cash Flows, we also measure our free cash flow. We have a long-term goal to consistently generate free cash flow that is equal to 100 percent conversion of net income. Free cash flow is a non-U.S. GAAP financial measure that we use to assess our cash flow performance. We believe free cash flow is an important measure of liquidity because it provides us and our investors a measurement of cash generated from operations that is available to pay dividends, repurchase shares and repay debt. In addition, free cash flow is used as a criterion to measure and pay compensation-based incentives. Our measure of free cash flow may not be comparable to similarly titled measures reported by other companies. The following table is a reconciliation of free cash flow: Years ended December 31 In millions 2025 2024 2023 Net cash provided by operating activities of continuing operations $ 814.8 $ 766.9 $ 620.8 Capital expenditures of continuing operations (68.8) (74.4) (76.0) Proceeds from sale of property and equipment of continuing operations 2.4 0.6 5.6 Free cash flow from continuing operations $ 748.4 $ 693.1 $ 550.4 Net cash used for operating activities of discontinued operations — (0.2) (1.6) Free cash flow $ 748.4 $ 692.9 $ 548.8 Debt and Capital Pentair, Pentair Finance S.&#224; r.l (&#8220;PFSA&#8220;) and Pentair, Inc. are parties to a credit agreement (the &#8220;Senior Credit Facility&#8221;), with Pentair as guarantor and PFSA and Pentair, Inc. as borrowers, which was amended and restated in May 2025, providing for a $900.0 million senior unsecured revolving credit facility. The Senior Credit Facility has a maturity date of May 5, 2030. Borrowings under the Senior Credit Facility bear interest at a rate equal to an alternate base rate, adjusted term secured overnight financing rate, adjusted euro interbank offered rate, adjusted daily simple secured overnight financing rate or central bank rate, plus, in each case, an applicable margin. The applicable margin is based on, at PFSA's election, Pentair's leverage level or PFSA's public credit rating. As of December 31, 2025, total availability under the Senior Credit Facility was $622.3 million. In addition, PFSA has the option to request to increase the revolving credit facility and/or to enter into one or more additional tranches of term loans in an aggregate amount of up to $450.0 million, subject to customary conditions, including the commitment of the participating lenders. In addition, Pentair and PFSA are parties to a senior unsecured term loan facility (the &#8220;Term Loan Facility&#8221;), with PFSA, as borrower, Pentair, as guarantor, providing for an aggregate principal amount of $1.0 billion. The Term Loan Facility has a 34 maturity date of July 28, 2027, with required quarterly installment payments of $6.3 million which began on the last day of the third quarter of 2023 and increased to $12.5 million on the last day of the third quarter of 2024.",
+        "charRange": [
+          169225,
+          184225
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors - Our subsidiaries are party to asbestos-related litigation that could adversely affect our financial condition, results of operations and cash flows&#8221; related to asbestos matters. ITEM 4. MINE SAFETY DISCLOSURES Not applicable. 22 INFORMATION ABOUT OUR EXECUTIVE OFFICERS Current executive officers of Pentair plc, their ages, current position and their business experience during at least the past five years are as follows: Name Age Current Position and Business Experience John L. Stauch 61 President and Chief Executive Officer since 2018; Executive Vice President and Chief Financial Officer 2007 &#8211; 2018; Chief Financial Officer of the Automation and Control Systems unit of Honeywell International Inc. 2005 &#8211; 2007; Vice President, Finance and Chief Financial Officer of the Sensing and Controls unit of Honeywell International Inc. 2004 &#8211; 2005; Vice President, Finance and Chief Financial Officer of the Automation & Control Products unit of Honeywell International Inc. 2002 &#8211; 2004; Chief Financial Officer and IT Director of PerkinElmer Optoelectronics, a unit of PerkinElmer, Inc., 2000 &#8211; 2002. Lance T. Bonner 37 Executive Vice President, General Counsel and Secretary since August 11, 2025; Associate General Counsel, Corporate and Assistant Secretary of Inspire Medical Systems, Inc. (a medical technology company) 2024 &#8211; 2025; Associate General Counsel, M&A and Securities of Pentair 2020 &#8211; 2024; Associate, Faegre Drinker Biddle & Reath 2017 &#8211; 2020; Associate, Lindquist & Vennum (now Ballard Spahr) 2014 &#8211; 2017; Judicial Clerk, Minnesota Court of Appeals 2013 &#8211; 2014. Adrian C. Chiu 47 Executive Vice President and President of the Water Solutions reportable segment since 2023; Executive Vice President, Chief Human Resources Officer and Chief Transformation Officer 2021 &#8211; 2022; Vice President of Total Rewards and Human Resources Information Systems 2018 &#8211; 2021; Vice President and Project Management Office Leader for the separation of nVent plc (Pentair's former electrical business) 2017 &#8211; 2018; Vice President of Human Resources Technology, Operations, and Equity Compensation 2016 &#8211; 2018; Senior Director of Human Resources Technology and Services 2011 &#8211; 2016; Various consulting positions of increasing responsibility at IBM Global Business Services 2000 &#8211; 2011. Robert P. Fishman 62 Executive Vice President and Chief Financial Officer since May 12, 2025 and elected to resign effective as of March 1, 2026; Executive Vice President, Chief Financial Officer and Chief Accounting Officer 2020 &#8211; 2025. Executive Vice President and Chief Financial Officer of NCR Corporation (a global provider of omni-channel technology solutions) 2016 &#8211; 2018; Senior Vice President and Chief Financial Officer of NCR Corporation 2010 &#8211; 2016; Vice President and Corporate Controller of NCR Corporation 2007 &#8211; 2009. Tanya L. Hooper 53 Executive Vice President and Chief Human Resources Officer since 2023; Vice President of Global Talent and Corporate Human Resources of Honeywell International Inc. 2021 &#8211; 2022; Vice President and Chief Human Resources Officer of Collins Aerospace 2019 &#8211; 2021; Vice President of Talent of Collins Aerospace 2018 &#8211; 2019; Vice President of Human Resources of Collins Aerospace 2016 &#8211; 2018; Various positions of increasing responsibility at Shell 2000 &#8211; 2016. Jerome O. Pedretti 55 Executive Vice President and Chief Executive Officer of the Pool reportable segment since 2023; Executive Vice President and President of the Flow reportable segment 2020 &#8211; 2022; Senior Vice President of Pentair's former Aquatic Systems reportable segment 2016 &#8211; 2019; Vice President of Pentair's former Valves & Controls business 2014 &#8211; 2016; Vice President Growth Strategy 2010 &#8211; 2014; Various business leadership positions of Pentair 2005 &#8211; 2014; Consultant at Bain & Co 2002 &#8211; 2005. Stephen J. Pilla 62 Executive Vice President, Chief Supply Chain Officer and Chief Transformation Officer since 2023 and elected to resign effective as of March 1, 2026; Executive Vice President and Chief Supply Chain Officer 2020 &#8211; 2022; Vice President and Chief Supply Chain Officer of Red Wing Shoe Co. (a manufacturer of personal protection equipment and footwear) 2017 &#8211; 2020; Vice President and General Manager of Pentair's former Enclosure Division 2015 &#8211; 2017; Vice President of Pentair's Global Operations and Supply Chain 2014 &#8211; 2016; Vice President, Global Supply of Pentair 2009 &#8211; 2012; Various other business leadership positions of Pentair 2002 &#8211; 2009. Philip M. Rolchigo 64 Executive Vice President and Chief Technology Officer since 2018 and elected to resign effective as of March 1, 2026; Chief Technology Officer 2017 &#8211; 2018; Vice President of Technology 2015 &#8211; 2017; Vice President of Engineering 2007 &#8211; 2015; Business Development Director of Water Technologies business of GE Global Research Center 2006 &#8211; 2007; Director of Technology of GE Water & Process Technologies 2003 &#8211; 2006; Chief Technology Officer of Osmonics 2000 &#8211; 2003; Vice President of Research & Development of Osmonics 1998 &#8211; 2000. De'Mon L. Wiggins 51 Executive Vice President and President of the Flow reportable segment since 2023; Group President of Pentair's Pool business 2021 &#8211; 2022; Vice President of Pentair's Pool business 2017 &#8211; 2021; Vice President and Strategic Business Unit leader for Pentair's Fluid Motion platform 2016 &#8211; 2017; Various other business leadership positions of Pentair 2010 &#8211; 2016. 23 PART II ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES Our ordinary shares are listed for trading on the New York Stock Exchange (&#8220;NYSE&#8221;) under the symbol &#8220;PNR.&#8221; As of December 31, 2025, there were 11,149 shareholders of record. Pentair has paid 200 consecutive quarterly cash dividends, including most recently a dividend of $0.25 per share in the fourth quarter of 2025. On December 15, 2025, Pentair's Board of Directors approved a regular quarterly cash dividend of $0.27 per share that was paid on February 6, 2026 to shareholders of record at the close of business on January 23, 2026. This dividend reflects an 8 percent increase in the Company's regular cash dividend rate and marks the 50 th consecutive year that Pentair has increased its dividend. The timing, declaration and payment of future dividends to holders of our ordinary shares will depend upon many factors, including our financial condition and results of operations, the capital requirements of our businesses, industry practice and any other relevant factors. Share Performance Graph The following information under the caption &#8220;Share Performance Graph&#8221; in this ITEM 5 of this Annual Report on Form 10-K is not deemed to be &#8220;soliciting material&#8221; or to be &#8220;filed&#8221; with the SEC or subject to Regulation 14A or 14C under the Securities Exchange Act of 1934, as amended (the &#8220;Exchange Act&#8221;), or to the liabilities of Section 18 of the Exchange Act and will not be deemed to be incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except to the extent we specifically incorporate it by reference into such a filing. The following graph sets forth the cumulative total shareholder return on our ordinary shares for the last five years, assuming the investment of $100 on December 31, 2020 and the reinvestment of all dividends since that date to December 31, 2025. The graph also contains for comparison purposes the S&P 500 Index and the S&P 500 Industrials Index, assuming the same investment level and reinvestment of dividends. By virtue of our market capitalization, we are a component of the S&P 500 Index. On the basis of our size and diversity of businesses, we believe the S&P 500 Industrials Index is an appropriate published industry index for comparison purposes. 24 Base Period December INDEXED RETURNS Years ended December 31 Company / Index 2020 2021 2022 2023 2024 2025 Pentair plc $ 100 $ 139.24 $ 87.20 $ 143.15 $ 200.41 $ 209.48 S&P 500 Index 100 128.71 105.40 133.10 166.40 196.16 S&P 500 Industrials Index 100 127.89 103.08 134.45 168.50 200.35 Purchases of Equity Securities The following table provides information with respect to purchases we made of our ordinary shares during the fourth quarter of 2025: (a) (b) (c) (d) Total number of shares purchased Average price paid per share Total number of shares purchased as part of publicly announced plans or programs Dollar value of shares that may yet be purchased under the plans or programs October 1 &#8211; October 25 821 $ 111.83 — $ 275,002,489 October 26 &#8211; November 22 370,672 105.96 369,929 235,804,843 November 23 &#8211; December 31 106,831 105.44 102,433 1,000,000,000 Total 478,324 472,362 (a) The purchases in this column include 821 shares for the period October 1 &#8211; October 25, 743 shares for the period October 26 &#8211; November 22, and 4,398 shares for the period November 23 &#8211; December 31 deemed surrendered to us by participants in our equity incentive plans to satisfy the exercise price or withholding of tax obligations related to the exercise of stock options and vesting of restricted and performance shares. (b) The average price paid in this column includes shares repurchased as part of our publicly announced plans and shares deemed surrendered to us by participants in our equity incentive plans to satisfy the exercise price for the exercise price of stock options and withholding tax obligations due upon stock option exercises and vesting of restricted and performance shares. (c) The number of shares in this column represents the number of shares repurchased as part of our publicly announced plans to repurchase our ordinary shares up to a maximum dollar limit authorized by the Board of Directors, discussed below. (d) In December 2020, the Board of Directors authorized the repurchase of our ordinary shares up to a maximum dollar limit of $750.0 million (&#8220;the 2020 Authorization&#8221;). The 2020 Authorization expired on December 31, 2025. In December 2025, the Board of Directors authorized the repurchase of our ordinary shares up to a maximum dollar limit of $1.0 billion (the &#8220;2025 Authorization&#8221;). The 2025 Authorization supplemented the 2020 Authorization and expires on December 31, 2028. As of December 31, 2025, we had $1.0 billion available for share repurchases under the 2025 Authorization. From time to time, we may enter into a Rule 10b5-1 trading plan for the purpose of repurchasing shares under the 2025 Authorization. ITEM 6. [RESERVED] 25 ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS Forward-looking statements This report contains statements that we believe to be &#8220;forward-looking statements&#8221; within the meaning of the Private Securities Litigation Reform Act of 1995. All statements, other than statements of historical fact, are forward-looking statements. Without limitation, any statements preceded or followed by or that include the words &#8220;targets,&#8221; &#8220;plans,&#8221; &#8220;believes,&#8221; &#8220;expects,&#8221; &#8220;intends,&#8221; &#8220;will,&#8221; &#8220;likely,&#8221; &#8220;may,&#8221; &#8220;anticipates,&#8221; &#8220;estimates,&#8221; &#8220;projects,&#8221; &#8220;should,&#8221; &#8220;would,&#8221; &#8220;could,&#8221; &#8220;positioned,&#8221; &#8220;strategy,&#8221; or &#8220;future&#8221; or words, phrases, or terms of similar substance or the negative thereof are forward-looking statements. These forward-looking statements are not guarantees of future performance and are subject to risks, uncertainties, assumptions and other factors, some of which are beyond our control, which could cause actual results to differ materially from those expressed or implied by such forward-looking statements. These factors include the overall global economic and business conditions impacting our business, including the strength of housing and related markets and conditions relating to international hostilities; supply, demand, logistics, competition and pricing pressures related to and in the markets we serve; the ability to achieve the benefits of our restructuring plans, cost reduction initiatives and Transformation Program; the impact of raw material, logistics and labor costs and other inflation; volatility in currency exchange rates and interest rates; failure of markets to accept new product introductions and enhancements; the ability to successfully identify, finance, complete and integrate acquisitions; risks associated with operating foreign businesses; the impact of seasonality of sales and weather conditions; our ability to comply with laws and regulations; the impact of changes in laws, regulations and administrative policy, including those that limit U.S. tax benefits or impact trade agreements and tariffs; the outcome of litigation and governmental proceedings; and the ability to achieve our long-term strategic operating and sustainability goals and targets. Additional information concerning these and other factors is contained in our filings with the U.S. Securities and Exchange Commission (the &#8220;SEC&#8221;), including this Annual Report on Form 10-K. All forward-looking statements speak only as of the date of this report. Pentair assumes no obligation, and disclaims any obligation, to update the information contained in this report. Overview Pentair plc and its consolidated subsidiaries (&#8220;we,&#8221; &#8220;us,&#8221; &#8220;our,&#8221; &#8220;Pentair&#8221; or the &#8220;Company&#8221;) is a pure play water industrial manufacturing company comprised of three reportable segments: Flow, Water Solutions and Pool. We classify our operations into business segments based primarily on types of products offered and markets served. For the year ended December 31, 2025, the Flow, Water Solutions and Pool reportable segments represented approximately 37%, 25% and 38% of total consolidated net sales, respectively. Effective January 1, 2026, we reorganized the composition of our Flow and Water Solutions reportable segments to move our residential and irrigation flow business from our Flow segment into our Water Solutions segment, reflecting how we expect to manage our business in 2026. The Pool segment remains unchanged. The discussions and figures below refer to the Company's reportable segment composition as of and prior to December 31, 2025. Additional information regarding this revised segmentation is found under the section titled &#8220;2026 Revised Segmentation&#8221; in ITEM 1 of this Form 10-K. Although our jurisdiction of organization is Ireland, we manage our affairs so",
+        "charRange": [
+          143948,
+          158948
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 85151,
+            "context": "mer orders and otherwise meet customer demand for our products. Some of our operations, including our pool business operations in North Carolina, Florida and California, are in areas that are more susceptible to natural disasters such as hurricanes, wildfires and earthquakes. These types of events may negatively impact residential, commercial and industrial spending in impacted regions or, depending on the severity, global spending. As a result, any of such events could have a material adverse effect on our business, financial condition, results of operations and cash flows. We maintain proper"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 54402,
+            "context": "omplishments, which can be found on our corporate website, and is not incorporated by reference into this Annual Report on Form 10-K. Environmental Matters See ITEM 1A &#8220;Risk Factors &#8211; We are exposed to environmental laws, liabilities and litigation.&#8221; Captive insurance subsidiary A portion of our property and casualty insurance program is insured through our regulated wholly owned captive insurance subsidiary, Penwald Insurance Company (&#8220;Penwald&#8221;). Reserves for policy claims are established based on actuarial projections of ultimate losses. Accruals with respect to"
+          },
+          {
+            "charIndex": 81360,
+            "context": "to use challenges to intellectual property to compete. Patent and trademark challenges increase our costs to develop, engineer and market our products. We may need to spend significant resources monitoring, enforcing and defending, including through litigation, our intellectual property rights, and we may or may not be able to detect infringement by third parties. If we fail to successfully enforce our intellectual property rights or register new patents, our competitive position could suffer, which could have a material adverse effect on our business, financial condition, results of operation"
+          },
+          {
+            "charIndex": 102365,
+            "context": "penalties, including material monetary fines, or other adverse actions including denial of import or export privileges, and could damage our reputation and business prospects. We are exposed to environmental, health and safety laws, liabilities and litigation. We are subject to U.S. federal, state, local and non-U.S. laws and regulations governing protection of the environment and worker health and safety. Compliance with these environmental, health and safety regulations could require us to satisfy environmental requirements, increase the cost of manufacturing our products or otherwise have"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 123702,
+            "context": "our businesses, customers, and dealers are subject to 17 various laws and regulations regarding consumer protection and advertising and sales practices, and we have been named, and may be named in the future, as a defendant in litigation, including class action complaints, arising from alleged violation of these laws and regulations. In addition, our indemnification obligations relating to the purchase or sale of businesses could result in litigation or claims of unknown amounts. Successful claims or litigation against us for significant amounts could have a material adverse effect on our rep"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 125342,
+            "context": "number of jurisdictions in which we operate. Pillar Two has negatively impacted our effective tax rate in 2025 and is likely to continue to impact our effective tax rate in the future. We continue to evaluate the enacted legislative changes and new guidance as it becomes available. In addition, legislative action could be taken by the U.S., the U.K., Ireland or the European Union that could override tax treaties or modify tax statutes or regulations upon which we expect to rely and adversely affect our effective tax rate. We cannot predict the outcome of any specific legislative proposals. If"
+          },
+          {
+            "charIndex": 134403,
+            "context": "r those of other companies in our industry; &#8226; our ability to obtain third-party financing as needed; &#8226; announcements by us or our competitors of significant acquisitions or dispositions; &#8226; changes in accounting standards, policies, guidance, interpretations or principles; &#8226; changes in earnings estimates or guidance by us or securities analysts or our ability to meet those estimates or guidance; 19 &#8226; the operating and share price performance of other comparable companies; &#8226; investor perception of us; &#8226; effect of certain events or occurrences on our repu"
+          },
+          {
+            "charIndex": 134485,
+            "context": "rty financing as needed; &#8226; announcements by us or our competitors of significant acquisitions or dispositions; &#8226; changes in accounting standards, policies, guidance, interpretations or principles; &#8226; changes in earnings estimates or guidance by us or securities analysts or our ability to meet those estimates or guidance; 19 &#8226; the operating and share price performance of other comparable companies; &#8226; investor perception of us; &#8226; effect of certain events or occurrences on our reputation; &#8226; overall market fluctuations; &#8226; results from any material lit"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 7371,
+            "context": "ber 2024-12-01 2024-12-31 0000077360 pnr:SeveranceAndRelatedCostsMember 2025-01-01 2025-12-31 0000077360 pnr:SeveranceAndRelatedCostsMember 2024-01-01 2024-12-31 0000077360 pnr:SeveranceAndRelatedCostsMember 2023-01-01 2023-12-31 0000077360 pnr:AssetImpairmentAndWriteOffsMember 2025-01-01 2025-12-31 0000077360 pnr:AssetImpairmentAndWriteOffsMember 2024-01-01 2024-12-31 0000077360 pnr:AssetImpairmentAndWriteOffsMember 2023-01-01 2023-12-31 0000077360 us-gaap:OtherRestructuringMember 2025-01-01 2025-12-31 0000077360 us-gaap:OtherRestructuringMember 2024-01-01 2024-12-31 0000077360 us-gaap:OtherR"
+          },
+          {
+            "charIndex": 7442,
+            "context": "2025-01-01 2025-12-31 0000077360 pnr:SeveranceAndRelatedCostsMember 2024-01-01 2024-12-31 0000077360 pnr:SeveranceAndRelatedCostsMember 2023-01-01 2023-12-31 0000077360 pnr:AssetImpairmentAndWriteOffsMember 2025-01-01 2025-12-31 0000077360 pnr:AssetImpairmentAndWriteOffsMember 2024-01-01 2024-12-31 0000077360 pnr:AssetImpairmentAndWriteOffsMember 2023-01-01 2023-12-31 0000077360 us-gaap:OtherRestructuringMember 2025-01-01 2025-12-31 0000077360 us-gaap:OtherRestructuringMember 2024-01-01 2024-12-31 0000077360 us-gaap:OtherRestructuringMember 2023-01-01 2023-12-31 0000077360 pnr:SeveranceAndRel"
+          },
+          {
+            "charIndex": 7513,
+            "context": "24-01-01 2024-12-31 0000077360 pnr:SeveranceAndRelatedCostsMember 2023-01-01 2023-12-31 0000077360 pnr:AssetImpairmentAndWriteOffsMember 2025-01-01 2025-12-31 0000077360 pnr:AssetImpairmentAndWriteOffsMember 2024-01-01 2024-12-31 0000077360 pnr:AssetImpairmentAndWriteOffsMember 2023-01-01 2023-12-31 0000077360 us-gaap:OtherRestructuringMember 2025-01-01 2025-12-31 0000077360 us-gaap:OtherRestructuringMember 2024-01-01 2024-12-31 0000077360 us-gaap:OtherRestructuringMember 2023-01-01 2023-12-31 0000077360 pnr:SeveranceAndRelatedCostsMember 2025-01-01 2025-12-31 0000077360 pnr:SeveranceAndRelate"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 52206,
+            "context": "nability concerns. Additionally, each site maintains a confidential reporting process, and we encourage the use of the Ethics Hotline for employees to report anonymously potential safety concerns. All locations, enterprise wide, are required to meet regulatory agency standards as applicable to each site's location. 5 Compensation and benefits In the U.S., non-union full-time employees are eligible to receive the following benefits: short-term and long-term disability insurance; flexible and health savings accounts and wellness programs; health insurance (medical, pharmacy, dental); eight weeks"
+          },
+          {
+            "charIndex": 62435,
+            "context": "of local legal restrictions or incentives that favor local businesses. In addition, we need to be flexible to adapt our products to ever changing customer preferences, including those relating to climate change and sustainability matters as well as regulatory requirements. We have identified specific product and geographic market opportunities that we find attractive and 7 continue to pursue, both within and outside the U.S. We expect to continue investing in our businesses to drive these opportunities through research and development and additional sales and marketing resources. Unless we su"
+          },
+          {
+            "charIndex": 65493,
+            "context": "lties integrating acquired businesses, technologies and personnel into our business; &#8226; difficulties in obtaining and verifying the financial statements and other business information of acquired businesses; &#8226; inability to obtain required regulatory approvals; &#8226; potential loss of key employees, key contractual relationships or key customers of acquired companies or of ours; &#8226; assumption of the liabilities and exposure to unforeseen liabilities of acquired companies; and &#8226; dilution of interests of holders of our shares through the issuance of equity securities or eq"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 106998,
+            "context": "ict with certainty the extent to which we will be successful in litigating or otherwise resolving lawsuits in the future, and we continue to evaluate different strategies related to asbestos claims filed against us. Unfavorable rulings, judgments or settlement terms could have a material adverse impact on our business and financial condition, results of operations and cash flows. In addition, while most of the asbestos claims against us are covered by liability insurance policies from many years ago, not all claims are insured. As our insurers resolve claims relating to past policy periods, th"
+          },
+          {
+            "charIndex": 167797,
+            "context": "ion related to the write-off of a definite-lived customer relationship intangible asset resulting from a business exit within our Water Solutions segment during the second quarter of 2025; and &#8226; an increase in our legal accrual adjustments and settlements of $11.6 million in 2025, compared to a reduction of $7.5 million in 2024. This increase was partially offset by: &#8226; restructuring costs of $31.3 million in 2025, compared to $34.4 million in 2024; &#8226; transformation costs of $41.0 million in 2025, compared to $52.0 million in 2024; and &#8226; asset impairment charges of $1.1"
+          },
+          {
+            "charIndex": 170343,
+            "context": "rtable segment inclusive of equity income of unconsolidated subsidiaries and exclusive of intangible amortization, certain acquisition related expenses, costs of restructuring and transformation activities, impairments, legal accrual adjustments and settlements and other unusual non-operating items. 29 Flow The net sales and segment income for Flow were as follows: Years ended December 31 % / point change In millions 2025 2024 2023 2025 vs 2024 2024 vs 2023 Net sales $ 1,553.6 $ 1,514.0 $ 1,582.1 2.6 % (4.3) % Segment income 362.1 318.1 282.3 13.8 % 12.7 % % of net sales 23.3 % 21.0 % 17.8 % 2"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 32341,
+            "context": "LC (&#8220;G & F Manufacturing&#8221;) for $116.0 million in cash, net of cash acquired. The net purchase price was comprised of an upfront cash payment of $108.0 million, and the estimated fair value at the acquisition date of a contingent earn-out liability based upon the achievement of certain defined operating results in the two years following the acquisition. G & F Manufacturing manufactures and services pool heat pumps. Our registered principal office is located at Regal House, 70 London Road, Twickenham, London, TW13QS United Kingdom. Our management office in the United States (&#8220;"
+          },
+          {
+            "charIndex": 59716,
+            "context": "ay also result from new entrants into, or consolidation among competitors in, the markets we serve offering products and/or services that compete with ours. We compete based on technical expertise, intellectual property, reputation for quality and reliability, timeliness of delivery, previous installation history, contractual terms, service offerings, customer experience and service and price. Some of our competitors attempt to compete based primarily on price, localized expertise and local relationships, especially with respect to products and applications that do not require a great deal of"
+          },
+          {
+            "charIndex": 103883,
+            "context": "dant, target or a potentially responsible party (&#8220;PRP&#8221;) in environmental matters relating to our current or former businesses. We have disposed of a number of businesses and in certain cases, we have retained responsibility and potential liability for certain environmental obligations. We have received claims for indemnification from certain purchasers of businesses from us. We may be named as a PRP at other sites in the future for existing business units, as well as both divested and acquired businesses. In addition to clean-up actions brought by governmental authorities, private"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "Revenues",
+      "points": [
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 1010400000,
+          "accn": "0000077360-25-000018",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-04-22",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2024-07-01",
+          "end": "2024-09-30",
+          "val": 993400000,
+          "accn": "0000077360-24-000047",
+          "fy": 2024,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2024-10-22",
+          "frame": "CY2024Q3"
+        },
+        {
+          "start": "2024-01-01",
+          "end": "2024-09-30",
+          "val": 3109900000,
+          "accn": "0000077360-24-000047",
+          "fy": 2024,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2024-10-22"
+        },
+        {
+          "start": "2024-04-01",
+          "end": "2024-06-30",
+          "val": 1099300000,
+          "accn": "0000077360-24-000041",
+          "fy": 2024,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2024-07-23",
+          "frame": "CY2024Q2"
+        },
+        {
+          "start": "2024-01-01",
+          "end": "2024-06-30",
+          "val": 2116500000,
+          "accn": "0000077360-24-000041",
+          "fy": 2024,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2024-07-23"
+        },
+        {
+          "start": "2024-01-01",
+          "end": "2024-03-31",
+          "val": 1017200000,
+          "accn": "0000077360-25-000018",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-04-22",
+          "frame": "CY2024Q1"
+        },
+        {
+          "start": "2024-01-01",
+          "end": "2024-03-31",
+          "val": 1017200000,
+          "accn": "0000077360-24-000020",
+          "fy": 2024,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2024-04-23"
+        },
+        {
+          "start": "2023-07-01",
+          "end": "2023-09-30",
+          "val": 1008800000,
+          "accn": "0000077360-24-000047",
+          "fy": 2024,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2024-10-22",
+          "frame": "CY2023Q3"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 1.05,
+          "accn": "0000077360-26-000027",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 3.96,
+          "accn": "0000077360-26-000007",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-24",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 1.12,
+          "accn": "0000077360-25-000047",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-21",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 2.94,
+          "accn": "0000077360-25-000047",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-21"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 0.9,
+          "accn": "0000077360-25-000038",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-22",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-06-30",
+          "val": 1.83,
+          "accn": "0000077360-25-000038",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-22"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 0.93,
+          "accn": "0000077360-26-000027",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 0.93,
+          "accn": "0000077360-25-000018",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-04-22"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 172400000,
+          "accn": "0000077360-26-000027",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 653800000,
+          "accn": "0000077360-26-000007",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-24",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 184300000,
+          "accn": "0000077360-25-000047",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-21",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 487700000,
+          "accn": "0000077360-25-000047",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-21"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 148500000,
+          "accn": "0000077360-25-000038",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-22",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-06-30",
+          "val": 303400000,
+          "accn": "0000077360-25-000038",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-22"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 154900000,
+          "accn": "0000077360-26-000027",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 154900000,
+          "accn": "0000077360-25-000018",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-04-22"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 210000000,
+          "accn": "0000077360-26-000027",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 857500000,
+          "accn": "0000077360-26-000007",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-24",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 231700000,
+          "accn": "0000077360-25-000047",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-21",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 652500000,
+          "accn": "0000077360-25-000047",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-21"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 217700000,
+          "accn": "0000077360-25-000038",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-22",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-06-30",
+          "val": 420800000,
+          "accn": "0000077360-25-000038",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-22"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 203100000,
+          "accn": "0000077360-26-000027",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 203100000,
+          "accn": "0000077360-25-000018",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-04-22"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "PNR",
+    "name": "PENTAIR plc",
+    "sector": "Special Industry Machinery (No Metalworking Machinery)",
+    "pe": 16.8,
+    "pb": 2.84,
+    "ret3m": -13.7905,
+    "ret6m": -34.7076,
+    "roe": 14.41,
+    "debtEquity": 0.429,
+    "sentiment": -0.05,
+    "analyst": 65.2,
+    "beta": 1.0335364
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "What Do Pantoro Gold’s Norseman Updates Reveal About Its Long‑Term Strategy (ASX:PNR)?",
+        "url": "https://finnhub.io/api/news?id=77b0ee78e30116a104b53750bec50895d607b751ccef7620c22815bd5bb18834",
+        "source": "Yahoo",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "Is WTS Worth Buying as Fast Growth Collides With Premium Valuation?",
+        "url": "https://finnhub.io/api/news?id=d0772fd27b753071988126dc33d874f52d0dbc00d003ad75b5264efb0611e66d",
+        "source": "Yahoo",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "Pentair (PNR) Price Target Decreased by 23.49% to 79.26",
+        "url": "https://finnhub.io/api/news?id=2d386a0e7fb4885baccb8cbd0375f4b1f25baf981ba5af39572ead76facef3b5",
+        "source": "Fintel",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "Small Cap watch: Pantoro hits spectacular gold and Lumos secures US order",
+        "url": "https://finnhub.io/api/news?id=dac170956a35b3c6194986055977b0e161c018123a684bdb306ac2187ca5c96a",
+        "source": "Yahoo",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Pentair: A Tough Quarter For Investors",
+        "url": "https://finnhub.io/api/news?id=42041ea0185b22b17ad4a81e2e13ac40819135594b5667cdc9482d11ca41e9d7",
+        "source": "SeekingAlpha",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Pentair (NYSE:PNR) Delivers Dividend Quality with a Sustainable Payout",
+        "url": "https://finnhub.io/api/news?id=cbe9133e9232ad26f924ecedee18a23d2305bcf0dbccee8c22742dcef68434bc",
+        "source": "ChartMill",
+        "date": "2026-08-03"
+      }
+    ],
+    "cachedAt": "2026-08-11T06:02:47.299Z"
+  }
+}

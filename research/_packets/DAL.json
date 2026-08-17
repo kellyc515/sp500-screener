@@ -1,0 +1,646 @@
+{
+  "ticker": "DAL",
+  "entityName": "DELTA AIR LINES, INC.",
+  "cik": "0000027904",
+  "generatedAt": "2026-08-12T01:37:41.823Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-07-10",
+        "reportDate": "2026-06-30",
+        "accessionNumber": "0000027904-26-000031",
+        "primaryDocument": "dal-20260630.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/27904/000002790426000031/dal-20260630.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/27904/000002790426000031/"
+      },
+      "textLength": 110368,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations\" in our Form 10-K. Delta Air Lines, Inc. | June 2026 Form 10-Q 29 Item 2. MD&A - Supplemental Information Supplemental Information We sometimes use information (non-GAAP financial measures) that is derived from the Condensed Consolidated Financial Statements, but that is not presented in accordance with GAAP. Under the U.S. Securities and Exchange Commission rules, non-GAAP financial measures may be considered in addition to results prepared in accordance with GAAP, but should not be considered a substitute for or superior to GAAP results. Included below are reconciliations of non-GAAP measures used within this Form 10-Q to the most directly comparable GAAP financial measures. Reconciliations below may not calculate exactly due to rounding. These reconciliations include certain adjustments to GAAP measures to provide comparability between the reported periods, if applicable, and for the reasons indicated below: &#8226; Third-party refinery sales. Refinery sales to third parties, and related expenses, are not related to our airline segment. Excluding these sales therefore provides a more meaningful comparison of our airline operations to the rest of the airline industry. &#8226; MTM adjustments and settlements on hedges. Mark-to-market (\"MTM\") adjustments are defined as fair value changes recorded in periods other than the settlement period. Such fair value changes are not necessarily indicative of the actual settlement value of the underlying hedge in the contract settlement period, and therefore we remove this impact to allow investors to better understand and analyze our core performance. Settlements represent cash received or paid on hedge contracts closed (i.e., settled) during the applicable period. With respect to hedges related to Monroe's inventory, settlements often occur before the related refinery inventory is sold. Beginning in 2026, settlement gains and losses related to Monroe's inventory that remains on-hand at period end are excluded from our adjusted results. These settlement gains and losses will be reflected in adjusted results during the period the inventory is sold. This change was made to match the timing of expense and revenue recognition and we have similarly adjusted the presentation of reconciliations for prior periods included here. &#8226; Aircraft fuel and related taxes. The volatility in fuel prices impacts the comparability of year-over-year financial performance. The adjustment for aircraft fuel and related taxes allows investors to better understand and analyze our non-fuel costs and year-over-year financial performance. &#8226; MRO expense. We adjust for MRO expenses because this adjustment allows investors to better understand and analyze our recurring cost performance and provides a more meaningful comparison of our core operating costs to the airline industry. &#8226; Profit sharing. We adjust for profit sharing because this adjustment allows investors to better understand and analyze our recurring cost performance and provides a more meaningful comparison of our core operating costs to the airline industry. Total revenue, adjusted reconciliation Three Months Ended June 30, (in millions) 2026 2025 Total revenue $ 19,757 $ 16,648 Adjusted for: Third-party refinery sales (2,091) (1,141) Total revenue, adjusted $ 17,666 $ 15,507 Delta Air Lines, Inc. | June 2026 Form 10-Q 30 Item 2. MD&A - Supplemental Information Operating expense, adjusted reconciliation Three Months Ended June 30, (in millions) 2026 2025 Operating expense $ 17,893 $ 14,546 Adjusted for: Third-party refinery sales (2,091) (1,141) MTM adjustments and settlements on hedges 301 39 Operating expense, adjusted $ 16,102 $ 13,443 Fuel expense, adjusted reconciliation Average Price Per Gallon Three Months Ended June 30, Three Months Ended June 30, (in millions, except per gallon data) 2026 2025 2026 2025 Total fuel expense $ 4,109 $ 2,458 $ 3.66 $ 2.21 Adjusted for: MTM adjustments and settlements on hedges 301 39 0.27 0.04 Total fuel expense, adjusted $ 4,410 $ 2,497 $ 3.93 $ 2.25 Average Price Per Gallon Six Months Ended June 30, Six Months Ended June 30, (in millions, except per gallon data) 2026 2025 2026 2025 Total fuel expense $ 6,851 $ 4,869 $ 3.25 $ 2.33 Adjusted for: MTM adjustments and settlements on hedges 151 24 0.07 0.01 Total fuel expense, adjusted $ 7,001 $ 4,892 $ 3.32 $ 2.34 TRASM, adjusted reconciliation Three Months Ended June 30, Six Months Ended June 30, 2026 2025 2026 2025 TRASM (cents) 25.11 &#162; 21.44 &#162; 24.08 &#162; 21.01 &#162; Adjusted for: Third-party refinery sales (2.66) (1.47) (2.53) (1.51) TRASM, adjusted 22.45 &#162; 19.97 &#162; 21.55 &#162; 19.50 &#162; CASM-Ex reconciliation Three Months Ended June 30, Six Months Ended June 30, 2026 2025 2026 2025 CASM (cents) 22.74 &#162; 18.73 &#162; 22.48 &#162; 19.18 &#162; Adjusted for: Aircraft fuel and related taxes (5.22) (3.17) (4.63) (3.33) Third-party refinery sales (2.66) (1.47) (2.53) (1.51) MRO expense (0.35) (0.29) (0.41) (0.25) Profit sharing (0.42) (0.61) (0.33) (0.41) CASM-Ex 14.09 &#162; 13.20 &#162; 14.58 &#162; 13.68 &#162; Delta Air Lines, Inc. | June 2026 Form 10-Q 31 Item 2. MD&A - Supplemental Information Free Cash Flow The following table shows a reconciliation of net cash provided by operating and used in investing activities (GAAP measures) to free cash flow (a non-GAAP financial measure). We present free cash flow because management believes this metric is helpful to investors to evaluate the company's ability to generate cash that is available for use for debt service or general corporate initiatives. Adjustments include: &#8226; Pension plan contributions. Cash flows related to pension funding are included in our GAAP operating activities. We adjust to exclude these contributions to allow investors to understand the cash flows related to our core operations. &#8226; Net cash flows related to certain airport construction projects and other. Cash flows related to certain airport construction projects are included in our GAAP operating activities and capital expenditures. We have adjusted for these items because management believes investors should be informed that a portion of these capital expenditures from airport construction projects are either reimbursed by a third party or funded with restricted cash specific to these projects. &#8226; Strategic investments and related. Certain cash flows related to our investments in and related transactions with other airlines and associated companies are included in our GAAP investing activities. We adjust for this activity because it provides a more meaningful comparison to our airline industry peers. Free cash flow reconciliation (in millions) Three Months Ended June 30, 2026 Net cash provided by operating activities $ 1,596 Net cash used in investing activities (1,512) Adjusted for: Pension plan contributions 4 Net cash flows related to certain airport construction projects and other 70 Strategic investments and related 51 Free cash flow $ 209 Delta Air Lines, Inc. | June 2026 Form 10-Q 32 Item 3. Market Risk ITEM 3.",
+        "charRange": [
+          97136,
+          104316
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "risk factors described in our Form 10-K. ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS The following table presents information with respect to purchases of common stock we made during the June 2026 quarter. The table reflects shares withheld from employees to satisfy certain tax obligations due in connection with grants of stock under the Delta Air Lines, Inc. Performance Compensation Plan (the \"Plan\"). The Plan provides for the withholding of shares to satisfy tax obligations. It does not specify a maximum number of shares that can be withheld for this purpose. The shares of common stock withheld to satisfy tax withholding obligations may be deemed to be \"issuer purchases\" of shares that are required to be disclosed pursuant to this Item. In the June 2025 quarter, the Board of Directors authorized a $1.0 billion opportunistic share repurchase program open through June 30, 2028. No shares have been repurchased under this program through June 30, 2026. Shares purchased / withheld from employee awards during the June 2026 quarter Period Total Number of Shares Purchased Average Price Paid Per Share Total Number of Shares Purchased as Part of Publicly Announced Plans Approximate Dollar Value (in millions) of Shares That May Yet be Purchased Under the Plan April 2026 7,340 $ 67.57 7,340 $ 1,000 May 2026 7,618 $ 69.46 7,618 $ 1,000 June 2026 15,384 $ 81.05 15,384 $ 1,000 Total 30,342 30,342 Delta Air Lines, Inc. | June 2026 Form 10-Q 33 ITEM 6.",
+        "charRange": [
+          105949,
+          107435
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 24772,
+            "context": "re not historical facts, including statements about our estimates, expectations, beliefs, intentions, projections, goals, aspirations, commitments or strategies for the future, may be \"forward-looking statements\" as defined in the Private Securities Litigation Reform Act of 1995. Forward-looking statements involve risks and uncertainties that could cause actual results to differ materially from historical experience or our present expectations. Known material risk factors applicable to Delta are described in \"Item 1A. Risk Factors\" of our Annual Report on Form 10-K for the fiscal year ended De"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 39109,
+            "context": "ting Standards Update No. 2026-02 \"Environmental Credits and Environmental Credit Obligations (Topic 818).\" This standard provides specific guidelines for the recognition, measurement, presentation and disclosure of tradable environmental assets and regulatory compliance liabilities. This standard becomes effective January 1, 2028 and we are assessing the potential impact on our Consolidated Financial Statements. NOTE 2 . REVENUE RECOGNITION Passenger Revenue Three Months Ended June 30, Six Months Ended June 30, (in millions) 2026 2025 2026 2025 Ticket $ 13,771 $ 12,246 $ 24,538 $ 22,314 Loyal"
+          },
+          {
+            "charIndex": 55933,
+            "context": "1,810 2027 5,180 2028 5,550 2029 4,650 2030 2,270 Thereafter 8,140 Total $ 27,600 (1) The timing of these commitments is based on our contractual agreements with the aircraft manufacturers and remains uncertain due to supply chain, manufacturing and regulatory constraints. Our future aircraft purchase commitments included the following aircraft at June 30, 2026: Aircraft purchase commitments by fleet type Aircraft Type Purchase Commitments A220-300 58 A321-200neo 90 A330-900neo 16 A350-900 18 A350-1000 20 B-737-10 100 B-787-10 30 Total 332 Aircraft Orders In the March 2026 quarter, we entered"
+          },
+          {
+            "charIndex": 57290,
+            "context": ", Inc. | June 2026 Form 10-Q 13 Notes to the Condensed Consolidated Financial Statements Legal Contingencies We are involved in various legal proceedings related to employment practices, environmental issues, commercial disputes, antitrust and other regulatory matters concerning our business. We record liabilities for losses from legal proceedings when we determine that it is probable that the outcome in a legal proceeding will be unfavorable and the amount of loss can be reasonably estimated. Although the outcome of the legal proceedings in which we are involved cannot be predicted with certa"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 10512,
+            "context": "iveMember 2025-04-01 2025-06-30 0000027904 us-gaap:EnergyRelatedDerivativeMember 2025-01-01 2025-06-30 0000027904 us-gaap:EnergyRelatedDerivativeMember dal:MarkToMarketMember 2026-01-01 2026-06-30 0000027904 us-gaap:EnergyRelatedDerivativeMember dal:SettlementOnContractsMember 2026-01-01 2026-06-30 0000027904 dal:AirFranceKLMMember 2026-06-30 0000027904 dal:AirFranceKLMMember 2025-12-31 0000027904 dal:ChinaEasternMember 2026-06-30 0000027904 dal:ChinaEasternMember 2025-12-31 0000027904 dal:GrupoAeromexicoMember 2026-06-30 0000027904 dal:GrupoAeromexicoMember 2025-12-31 0000027904 dal:HanjinKAL"
+          },
+          {
+            "charIndex": 43260,
+            "context": "his represents revenue from our Delta TechOps third-party maintenance, repair and overhaul (\"MRO\") business. Miscellaneous. This is primarily composed of revenues related to codeshare agreements and international commercial joint venture contractual settlements. Delta Air Lines, Inc. | June 2026 Form 10-Q 8 Notes to the Condensed Consolidated Financial Statements Revenue by Geographic Region Operating revenue for the airline segment is recognized in a specific geographic region based on the origin, flight path and destination of each flight segment. A portion of the refinery segment's revenues"
+          },
+          {
+            "charIndex": 47310,
+            "context": "026, compared to gains of $ 53 million and $ 33 million for the three and six months ended June 30, 2025, respectively. The loss recognized during the first six months of 2026 was composed of $ 28 million of mark-to-market gains and $ 331 million of settlement losses on contracts. Gains and losses on settled contracts are reflected within Monroe's operating results. See Note 9, \"Segments,\" for further information on our refinery segment. NOTE 4. INVESTMENTS Equity investments ownership interest and carrying value Accounting Treatment Ownership Interest Carrying Value (in millions) June 30, 202"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 29318,
+            "context": "1 Total noncurrent assets 72,085 70,349 Total assets $ 86,321 $ 81,317 LIABILITIES AND STOCKHOLDERS' EQUITY Current Liabilities: Current maturities of debt and finance leases $ 3,442 $ 1,605 Current maturities of operating leases 869 809 Air traffic liability 10,020 7,157 Accounts payable 6,738 5,226 Accrued salaries and related benefits 3,935 4,906 Loyalty program deferred revenue 5,243 4,876 Fuel card obligation 1,100 1,100 Other accrued liabilities 2,257 1,945 Total current liabilities 33,604 27,624 Noncurrent Liabilities: Debt and finance leases 10,510 12,507 Noncurrent operating leases 5,"
+          },
+          {
+            "charIndex": 39794,
+            "context": "Passenger revenue $ 15,607 $ 13,867 $ 27,909 $ 25,347 Ticket We recognized approximately $ 5.8 billion and $ 5.7 billion in passenger revenue during the six months ended June 30, 2026 and 2025, respectively, that had been recorded in our air traffic liability balance at the beginning of those periods. Delta Air Lines, Inc. | June 2026 Form 10-Q 7 Notes to the Condensed Consolidated Financial Statements Loyalty Travel Awards Loyalty travel awards revenue is related to the redemption of mileage credits (\"miles\") for air travel. Our SkyMiles loyalty program allows customers to earn miles by flyin"
+          },
+          {
+            "charIndex": 88836,
+            "context": "actors: Seasonality of Advance Ticket Sales. We sell tickets for air travel in advance of the customer's travel date. When we receive a cash payment at the time of sale, we record the cash received on advance sales as deferred revenue in air traffic liability. The air traffic liability typically increases during the winter and spring months as advance ticket sales grow prior to the summer peak travel season and decreases during the summer and fall months. Sale of Miles to Participating Companies. Customers earn miles based on their spending with participating companies such as credit card, ret"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-02-11",
+        "reportDate": "2025-12-31",
+        "accessionNumber": "0000027904-26-000013",
+        "primaryDocument": "dal-20251231.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/27904/000002790426000013/dal-20251231.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/27904/000002790426000013/"
+      },
+      "textLength": 390376,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS",
+        "text": "management's discussion and analysis. A refinery is subject to annual EPA requirements to blend renewable fuels into the gasoline and on-road diesel fuel it produces. A refinery may meet its obligation by blending the necessary volumes of renewable fuels, by purchasing Renewable Identification Numbers (\"RINs\") in the open market, or through a combination of blending and purchasing RINs. Because Monroe is able to blend only a small amount of renewable fuels, it must purchase the majority of its RINs requirement in the secondary market. Monroe incurred $312 million in RINs compliance costs during 2025, compared to $203 million incurred in 2024. For more information regarding the refinery's results, see Note 14 of the Notes to the Consolidated Financial Statements. Delta Air Lines, Inc. | 2025 Form 10-K 38 Item 7. MD&A - Operating Statistics Operating Statistics Year Ended December 31, Consolidated (1) 2025 2024 Revenue passenger miles (in millions) 249,578 246,145 Available seat miles (in millions) 298,045 288,394 Passenger mile yield 20.74 &#162; 20.68 &#162; Passenger revenue per available seat mile (\"PRASM\") 17.37 &#162; 17.65 &#162; Total revenue per available seat mile (\"TRASM\") 21.26 &#162; 21.37 &#162; TRASM, adjusted (2) 19.56 &#162; 19.76 &#162; Cost per available seat mile (\"CASM\") 19.31 &#162; 19.30 &#162; CASM-Ex (2) 13.86 &#162; 13.54 &#162; Passenger load factor 84 % 85 % Fuel gallons consumed (in millions) 4,269 4,114 Average price per fuel gallon (3) $ 2.30 $ 2.57 Average price per fuel gallon, adjusted (2)(3) $ 2.30 $ 2.56 Approximate full-time equivalent employees, end of period 103,000 103,000 (1) Includes the operations of our regional carriers under capacity purchase agreements. Full-time equivalent employees exclude employees of regional carriers that we do not own. (2) Non-GAAP financial measures are defined and reconciled to TRASM, CASM and average fuel price per gallon, respectively, in \"Supplemental Information\" below. (3) Includes the impact of refinery segment results and fuel hedge activity. Delta Air Lines, Inc. | 2025 Form 10-K 39 Item 7. MD&A - Financial Condition and Liquidity Financial Condition and Liquidity As of December 31, 2025, we had $7.4 billion in cash, cash equivalents, short-term investments and aggregate principal amount committed and available to be drawn under our revolving credit facilities (\"liquidity\"). We expect to meet our liquidity needs for the next twelve months with cash and cash equivalents, restricted cash equivalents and cash flows from operations. We expect to meet our long-term liquidity needs with cash flows from operations and financing arrangements. Sources and Uses of Liquidity Operating Activities Operating activities in 2025 provided $8.3 billion of cash flow compared to $8.0 billion in 2024. We expect to continue generating cash flows from operations during 2026. Our operating cash flow is impacted by the following factors: Seasonality of Advance Ticket Sales . We sell tickets for air travel in advance of the customer's travel date. When we receive a cash payment at the time of sale, we record the cash received on advance sales as deferred revenue in air traffic liability. The air traffic liability typically increases during the winter and spring months as advanced ticket sales grow prior to the summer peak travel season and decreases during the summer and fall months. Sale of Miles to Participating Companies. Customers earn miles based on their spending with participating companies such as credit card, retail, ridesharing, car rental and hotel companies with which we have marketing agreements to sell miles. Payments are typically due to us monthly based on the volume of miles sold during the period. Our most significant contract to sell miles relates to our co-brand credit card relationship with American Express. Remuneration from American Express was $8.2 billion during 2025, an increase of 11% compared to the prior year. See Note 2 of the Notes to the Consolidated Financial Statements for further information regarding the cash sales from marketing agreements. Fuel . Fuel expense represented approximately 17% of our total operating expense during 2025. The market price for jet fuel is volatile, which can impact the comparability of our periodic cash flows from operations. The average fuel price per gallon decreased in 2025. Fuel prices have historically been volatile due to many factors, including geopolitical events. As capacity increased throughout the year, fuel consumption was higher in 2025 than 2024. We expect fuel consumption to increase in 2026 generally aligned with capacity. Employee Benefit Obligations. We sponsor defined benefit and defined contribution pension plans for eligible employees and retirees. Our funding obligations for defined benefit plans are governed by the Employee Retirement Income Security Act (\"ERISA\") and any additional applicable legislation. We had minimum funding requirements of $70 million during 2025 and estimate that there will be approximately $5 million of minimum funding requirements under these plans in 2026. Payments to defined contribution plans were approximately $1.4 billion during the year ended December 31, 2025. In addition, we have employee benefit obligations relating primarily to projected future benefit payments from our unfunded postretirement and postemployment plans. Benefit payments for these obligations are expected to be approximately $500 million on an annual basis over the next five years. See Note 8 of the Notes to the Consolidated Financial Statements for more information on our employee benefit obligations. Profit Sharing. Our broad-based employee profit sharing program provides that, for each year in which we have an annual pre-tax profit, as defined by the terms of the program, we will pay a specified portion of that profit to employees. In determining the amount of profit sharing, the program defines profit as pre-tax profit adjusted for profit sharing and certain other items. We pay profit sharing annually in February. We paid $1.4 billion in 2025 to our employees in recognition of their contributions toward meeting our financial goals. During the year ended December 31, 2025, we recorded $1.3 billion in profit sharing expense based on 2025 pre-tax profit, which we will pay to employees in February 2026. Delta Air Lines, Inc. | 2025 Form 10-K 40 Item 7. MD&A - Financial Condition and Liquidity Contract Carrier Obligations. We have certain estimated minimum fixed obligations under capacity purchase agreements with third-party regional carriers. These minimum amounts are based on the required minimum levels of flying by the regional carriers under the respective agreements and assumptions regarding the costs associated with such minimum levels of flying. As of December 31, 2025 the total of these minimum amounts was $6.0 billion, decreasing on an annual basis from approximately $1.8 billion in 2026 to $300 million in 2030. See Note 9 of the Notes to the Consolidated Financial Statements for more information on our contract carrier obligations. Operating Lease Obligations. As described further in Note 7 of the Notes to the Consolidated Financial Statements, as of December 31, 2025 we had a total of $7.8 billion of minimum operating lease obligations. These minimum lease payments decrease on an annual basis from approximately $1.0 billion in 2026 to $500 million in 2030. Other Obligations. We have certain purchase obligations under which we are required to make minimum payments for goods and services, including, but not limited to, aviation-related, maintenance, technology, sponsorships, marketing, insurance and other third-party services and products. As of December 31, 2025, we had approximately $11.2 billion of such obligations, decreasing on an annual basis from approximately $1.4 billion in 2026 to $800 million in 2030. Income Taxes. During 2025, we utilized substantially all of our remaining pre-2018 net operating loss carryforwards and, due to the limitations on post-2017 net operating losses, began making cash federal income tax payments. We expect income tax cash payments to increase in 2026 based on our projected financial results. As of December 31, 2025, we had approximately $2.4 billion of U.S. federal pre-tax net operating loss carryforwards which we are expecting to utilize during 2026. These net operating loss carryforwards were primarily generated in 2020 and do not expire. Investing Activities Capital Expenditures. Our capital expenditures (i.e., property and equipment additions in our Consolidated Statements of Cash Flows (\"cash flows statement\")) were $4.5 billion and $5.1 billion in 2025 and 2024, respectively. Our capital expenditures are primarily related to the purchases of aircraft, fleet modifications, airport construction projects and technology enhancements. We have committed to future aircraft purchases and have obtained, but are under no obligation to use, long-term financing commitments for a substantial portion of the purchase price of the aircraft. Our expected 2026 capital spend of approximately $5.5 billion, which may vary depending on financing decisions, will be primarily for aircraft, including deliveries and advance deposit payments, as well as fleet modifications and technology enhancements. On January 12, 2026, we entered into a definitive agreement with The Boeing Company to acquire 30 Boeing 787-10 aircraft, with an option to purchase up to an additional 30 of the same aircraft. The B-787-10 aircraft will include GEnx engines manufactured by General Electric. Deliveries of the B-787-10 aircraft will begin in 2031. On January 27, 2026, we entered into a definitive agreement with Airbus S.A.S. to purchase 16 Airbus A330-900 aircraft and 15 Airbus A350-900 aircraft, with an option to purchase up to an additional 20 widebody aircraft. The A330-900 aircraft will be powered by the Trent 7000 engine and the A350-900 aircraft will utilize the Trent XWB-84 EP engine, both manufactured by Rolls-Royce. Deliveries of the aircraft will begin in 2029. See Note 9 of the Notes to the Consolidated Financial Statements for additional information regarding our aircraft purchase commitments, which totaled approximately $15.4 billion as of December 31, 2025. Strategic Investment in WestJet. In October 2025, we acquired a 12.7% equity stake in WestJet for $276 million. As part of the transaction, we also assumed a commensurate portion of a shareholder loan receivable from the previous owner. Other . In 2025, other, net investing activities primarily included proceeds from several sale-leaseback transactions, the sale of a portion of our equity investment in Unifi Aviation and the sale of our engine maintenance, repair and overhaul joint venture with Aerom&#233;xico located in Queretaro, Mexico. In 2024, other, net investing activities primarily included proceeds from the sale of our equity ownership in Clear Secure, Inc. Delta Air Lines, Inc. | 2025 Form 10-K 41 Item 7. MD&A - Financial Condition and Liquidity Financing Activities Debt and Finance Leases. In 2025, we had cash outflows of approximately $4.8 billion related to repayments of our debt and finance leases. We continue to seek opportunities to pre-pay our debt, in addition to periodic amortization payments and scheduled maturities, and refinance higher cost debt. In June 2025, we issued $2.0 billion in aggregate principal amounts of unsecured notes, consisting of $1.0 billion of 4.95% Notes due 2028 and $1.0 billion of 5.25% Notes due 2030 (collectively, the \"Notes\"). The net proceeds from the offering of the Notes were used to repay the Payroll Support Program (\"PSP\") loan due 2030 and for general corporate purposes. In September 2025, we and our indirect wholly-owned subsidiary SkyMiles IP Ltd. entered into an amendment to the SkyMiles Term Loan credit and guaranty agreement (the \"SkyMiles Credit Facility\"). This amendment, among other things, (i) refinanced the existing term loans with the proceeds of replacement term loans bearing interest at a variable rate equal to an adjusted term Secured Overnight Financing Rate (\"SOFR\"), plus a reduced margin of 1.50% per annum, payable quarterly; (ii) extended the scheduled maturity from October 2027 to October 2028; (iii) reduced the principal amortization payments from 20% to 1% per year, payable quarterly; and (iv) added a prepayment premium of 1.00% payable in connection with a Repricing Event (as defined in the amended SkyMiles Credit Facility) occurring within six months following September 30, 2025. In January 2026, we entered into a $1.3 billion term loan issued by a group of lenders due December 2026. The proceeds of the term loan were used to repay $957 million of the PSP loans due 2031 and for general corporate purposes. In February 2025, Moody's credit rating agency upgraded its rating for Delta to Baa2, an investment grade rating. In the September 2025 quarter, Fitch Ratings upgraded its outlook for Delta to Positive from Stable. In January 2026, S&P Global upgraded its outlook for Delta to Positive from Stable. The principal amount of our debt and finance leases was $14.1 billion at December 31, 2025. Future Debt Obligations. As described further in Note 6 of the Notes to the Consolidated Financial Statements, as of December 31, 2025, scheduled maturities of our debt in 2026 are $1.4 billion, with maturities from 2027 through 2030 ranging between $600 million and $3.5 billion annually. As of December 31, 2025, scheduled maturities after 2030 aggregate to $4.8 billion. In addition, we are obligated to make periodic interest payments at fixed and variable rates, depending on the terms of the applicable debt agreements. Based on applicable interest rates and scheduled debt maturities as of December 31, 2025, these interest obligations total approximately $2.4 billion, decreasing on an annual basis from approximately $500 million in 2026 to $200 million in 2030. Finance Lease Obligations. As described further in Note 7 of the Notes to the Consolidated Financial Statements, as of December 31, 2025 we had a total of $870 million of minimum finance lease obligations. These minimum lease payments are generally decreasing on an annual basis from approximately $300 million in 2026 to $100 million in 2030. Capital Returns to Shareholders. During 2025, we continued our quarterly dividend program with $0.15 per share payments in the March 2025 and June 2025 quarters and $0.1875 per share payments in the September 2025 and December 2025 quarters. Total dividend payments during the year ended December 31, 2025 were $440 million. On February 4, 2026, the Board of Directors approved and we will pay a quarterly dividend of $0.1875 per share on March 19, 2026 to shareholders of record as of February 26, 2026. Undrawn Lines of Credit. As of December 31, 2025 we had approximately $3.1 billion undrawn and available under our revolving credit facilities. Covenants.",
+        "charRange": [
+          191508,
+          206508
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors Future regulatory action concerning climate change, aircraft emissions and noise could have a significant effect on the airline industry. In order to address aircraft carbon dioxide emissions, the International Civil Aviation Organization (\"ICAO\"), a United Nations specialized agency, formally adopted a global, market-based emissions offset program known as CORSIA. This program established a goal for the aviation industry to achieve carbon-neutral growth in international aviation beginning in 2021. Any growth above the baseline would need to be addressed using eligible carbon offsets and/or lower carbon fuel. ICAO set the baseline for establishing airlines' obligations under CORSIA for 2021 to 2023 based on 2019 travel, and in 2022 set a new, more stringent CORSIA baseline of 85% of 2019, which will apply from 2024 through 2035. Because CORSIA has not yet been implemented in the United States and could potentially be affected by political developments in participating countries or the results of the initial phases of the program, the impact of CORSIA cannot be predicted at this time. However, compliance with CORSIA is expected to increase operating costs for airlines subject to the program that operate internationally. In addition to CORSIA, we may face a patchwork of regulation of aircraft emissions in the U.S. and abroad and could become subject to further taxes, charges or additional requirements to obtain permits or purchase allowances or emission credits for greenhouse gas emissions in various jurisdictions. For example, in 2023, the EU adopted updated legislation on the EU Emissions Trading System (&#8220;ETS&#8221;). That legislation continues in effect the so-called &#8220;stop-the-clock&#8221; provision whereby EU ETS does not apply to flights to or from locations outside the EEA, Switzerland or the UK until 2027. The legislation also provides for a review of the effectiveness of CORSIA in 2026 that could, if CORSIA is not deemed sufficiently effective, lead to the application of EU ETS to all flights departing the EU and EEA, which would increase costs. Also in 2023, the EU adopted legislation that established a SAF mandate on fuel supplied at EU airports. Beginning in 2025, the mandate required 2% of the jet fuel supplied in the EU to be SAF, and the percentage increases incrementally over time to 70% in 2050. This mandate has increased SAF prices in the EU for the airline industry. In 2024, the UK also adopted SAF mandate legislation, and other countries are also considering mandates. Additional regulation could result in taxation, regulatory or permitting requirements from multiple jurisdictions for the same operations and significant costs for the airline industry, including Delta. In addition to direct costs, such regulation could result in increased fuel costs passed through from fuel suppliers affected by any such regulations. While the specific nature of future actions is hard to predict, new laws or regulations related to environmental matters adopted in the U.S. or other countries could impose significant additional costs on or otherwise adversely affect our operations. Certain airports have also adopted, and others could in the future adopt, greenhouse gas emission or climate-related goals and requirements that could impact our operations or require us to make changes or investments in our infrastructure. We are monitoring and evaluating the potential impact of such developments. In addition to risks from potential changes to environmental regulation and policy, the transition to lower-carbon technologies, such as SAF, or changes in consumer preferences resulting from a negative perception of the environmental impact of air travel could materially adversely affect our business and financial results. For example, lower-carbon technologies such as SAF and direct air capture technologies are currently not available at scale and may take decades to develop, and the cost to transition to them could be prohibitively expensive without appropriate government policies and incentives in place. Because of the global nature of our business, unfavorable economic or political conditions in the markets in which we operate or volatility in currency exchange rates could have a material adverse effect on our business, financial condition and results of operations. As a result of the discretionary nature of air travel, the airline industry has been cyclical and particularly sensitive to changes in economic conditions, as well as related consumer perceptions. Because we operate globally, our business is subject to economic and political conditions throughout the world. During periods of unfavorable or volatile economic conditions in the economy in the U.S. or abroad, demand for air travel can be significantly impacted as business and leisure travelers choose not to travel, seek alternative forms of transportation for short trips or conduct business using technological alternatives. If unfavorable economic conditions or negative consumer perceptions occur, particularly for an extended period, our business, financial condition and results of operations may be adversely affected. In addition, significant or volatile changes in exchange rates between the U.S. dollar and other currencies, and the imposition of exchange controls or other currency restrictions, may have a material adverse effect on our liquidity, financial condition and results of operations. Our international operations are an important part of our route network. Political disruptions and instability around the world can negatively impact the demand and network availability for air travel. Additionally, any deterioration in global trade relations, such as new or increased tariffs or other trade barriers, could result in a decrease in the demand for international air travel. Delta Air Lines, Inc. | 2025 Form 10-K 25 Item 1B. Unresolved Staff Comments ITEM 1B. UNRESOLVED STAFF COMMENTS None. ITEM 1C. CYBERSECURITY We are committed to safeguarding our information and information systems from unauthorized access, use, disclosure, disruption, modification or destruction. Our program to protect our information assets and the management of risks to those assets supports the confidentiality, integrity, and availability of the information necessary to our long-term business success. Risk Management & Strategy Our processes for assessing, identifying and managing material risks from cybersecurity threats is incorporated into our Enterprise Risk Management (\"ERM\") framework. Our information security and ERM teams coordinate to regularly review and assess these risks using a wide range of tools and services. Our cybersecurity program leverages components from several industry frameworks and generally recognized best practices, including International Organization for Standardization 27001 and National Institute of Standards and Technology (\"NIST\") standards, such as the NIST Cybersecurity Framework, which emphasizes identification, protection, detection, response and recovery. We regularly assess our information security program capabilities and tools to improve reliability, enhance capabilities and scan our environment for vulnerabilities and weaknesses. Our information technology teams are trained to remediate vulnerabilities identified within established timeframes and our information security team reports to management on a weekly basis regarding the security risk posture of our information technology assets. We have established a dedicated Information Technology Risk team tasked with the goal of ensuring that risk remediation activities are carried out consistently and that risk remediation controls are operating as intended. Enterprise-wide training is a vital component to reducing risk and protecting customers, employees and company information. We expect all Delta employees and third-party contractors to adhere to information security and privacy policies as they handle corporate and customer information in their daily jobs. As a result, we require all employees and contractors with access to Delta's information to complete annual training, which is updated as new technology, security and privacy issues emerge. All new employees are required to complete training within 30 days of hire. We also conduct, at least annually, other training and employee education activities, including through awareness programs and campaigns. We engage assessors, consultants, auditors and other third parties to perform assessments of our cybersecurity program with the intent to identify areas for continued improvement, as well as to ensure ongoing compliance with regulatory requirements to which we are subject. In connection with certain regulatory requirements, we are required to engage third parties to assess our cybersecurity controls. Our cybersecurity program is subject to TSA requirements applicable to certain TSA-regulated airport and aircraft operators, including the requirement to develop a TSA-approved implementation plan describing measures we are taking to improve cybersecurity and to assess the effectiveness of those measures on an ongoing basis. Our processes also address cybersecurity threat risks associated with our use of third-party service providers, including those who have access to our data or our systems. Third-party risks are included within our risk assessment of vendors, as well as our cybersecurity-specific risk identification program. In addition, cybersecurity considerations affect the selection and oversight of third-party service providers. We perform diligence on third parties, particularly those that have access to our systems, data or facilities that house such systems or data, and continually monitor cybersecurity threat risks identified through such diligence. Additionally, we generally require those third parties that could introduce significant cybersecurity risk to us to agree by contract to manage their cybersecurity risks in specified ways, and to agree to be subject to cybersecurity audits. We regularly test our incident response processes through table-top exercises to ensure they continue to be effective as our business and the cybersecurity threat landscape evolve. Our incident response processes are designed to guide the actions we take to prepare for, detect, respond to and recover from cybersecurity incidents. In the last three fiscal years, we have not experienced any material cybersecurity incidents and the expenses we have incurred from cybersecurity incidents were immaterial. We describe whether and how risks related to cybersecurity threats are reasonably likely to materially affect us, including our business strategy, results of operations, or financial condition, in Item 1A of this Annual Report on Form 10-K, which disclosures are incorporated by reference in this Item 1C. Delta Air Lines, Inc. | 2025 Form 10-K 26 Item 1C. Cybersecurity Governance Our Board is engaged in the oversight of cybersecurity threat risk management. As reflected in the Audit Committee's charter, the Board has specifically delegated responsibility for oversight of cybersecurity matters to the Audit Committee as part of its review of our ERM framework. The Audit Committee receives updates on cybersecurity risks and the security and operations of our information technology systems from our Chief Information Officer and our Chief Information Security Officer at least twice per year with additional updates as requested by the Chair of the Audit Committee. In 2025, the Audit Committee received updates on information security matters at all of its regular meetings. In addition to information provided in these meetings, all members of our Board also have access to internal and external education on cybersecurity risks. The Board also benefits from the expertise of one of our members who has significant experience in management of cybersecurity companies. Our information security team is led by our Senior Vice President & Chief Information Security Officer , who reports directly to our Executive Vice President - Chief Information Officer. Leadership of the information security team has extensive dedicated cybersecurity experience. Additionally, the collective leadership team holds 21 certifications in cybersecurity and related fields, including Certified Information Systems Security Professional, Certified Information Security Manager, and Certified Information Systems Auditor. Our Chief Information Security Officer and other members of our cybersecurity leadership team regularly participate in threat intelligence briefings provided through various government and industry entities. Both our Chief Information Officer and our Chief Information Security Officer are members of the Delta Risk Council, which is the management group that oversees all areas of our business risk. Cybersecurity threat risks are a regular subject addressed by this group. In addition, our Chief Information Officer is a member of the Delta Leadership Committee and provides updates to this group as needed about cybersecurity matters. Our cybersecurity incident response plan includes processes for communication about cybersecurity incidents to appropriate levels of management, including to the Delta Risk Council and Delta Leadership Committee, as well as the Audit Committee and the Board, as merited. Delta Air Lines, Inc. | 2025 Form 10-K 27 Item 2. Properties ITEM 2. PROPERTIES Flight Equipment Our operating aircraft fleet, purchase commitments and options at December 31, 2025 are summarized in the following table. Mainline aircraft information by fleet type Current Fleet (1) Commitments Fleet Type Owned Finance Lease Operating Lease Total Average Age (Years) Purchase Options A220-100 45 — — 45 6.0 — — A220-300 36 — — 36 2.7 64 — A319-100 57 — — 57 23.8 — — A320-200 46 — — 46 29.0 — — A321-200 77 8 42 127 7.0 — — A321-200neo 87 — — 87 2.0 68 70 A330-200 11 — — 11 20.8 — — A330-300 28 — 3 31 16.9 — — A330-900neo 32 2 5 39 3.0 — 10 A350-900 29 — 11 40 5.3 4 10 A350-1000 — — — — — 20 — B-717-200 80 — — 80 24.3 — — B-737-800 73 4 — 77 24.3 — — B-737-900ER 119 6 38 163 10.0 — — B-737-10 — — — — — 100 30 B-757-200 76 — — 76 27.1 — — B-757-300 16 — — 16 22.9 — — B-767-300ER 37 — — 37 29.0 — — B-767-400ER 21 — — 21 25.0 — — Total 870 20 99 989 14.8 256 120 (1) Excludes certain aircraft we own or lease that are operated by regional carriers on our behalf shown in the table below. The following table summarizes the aircraft operated by regional carriers on our behalf at December 31, 2025. Regional aircraft information by fleet type and carrier Fleet Type (1) Carrier CRJ-700 CRJ-900 Embraer 170 Embraer 175 Total Endeavor Air, Inc. (2) 19 125 — — 144 SkyWest Airlines, Inc. 5 32 — 87 124 Republic Airways, Inc. — — 11 46 57 Total 24 157 11 133 325 (1) We own 202 and have operating leases for three of these regional aircraft. The remainder are owned or leased by SkyWest Airlines, Inc. o",
+        "charRange": [
+          149179,
+          164179
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 42066,
+            "context": "de by us or on our behalf) that are not historical facts, including statements about our estimates, expectations, beliefs, intentions, projections or strategies for the future, may be \"forward-looking statements\" as defined in the Private Securities Litigation Reform Act of 1995. Forward-looking statements involve risks and uncertainties that could cause actual results to differ materially from historical experience or our present expectations. Known material risk factors applicable to Delta are described in \"Risk Factors Relating to Delta\" and \"Risk Factors Relating to the Airline Industry\" i"
+          },
+          {
+            "charIndex": 95536,
+            "context": "the Netherlands suspended the initial phase of the plan, and in 2024, the Netherlands Supreme Court found that the Dutch government's flight reduction plan was unlawful. The Dutch government has issued a revised plan, which is the subject of renewed litigation brought by airlines, including Delta and KLM, and by groups representing residents around Schiphol Airport. This litigation questions the lawfulness of the renewed plan. The outcome of this litigation cannot be determined at this time. Refinery Matters . Monroe's operation of the Trainer refinery is subject to numerous environmental laws"
+          },
+          {
+            "charIndex": 95660,
+            "context": "ernment's flight reduction plan was unlawful. The Dutch government has issued a revised plan, which is the subject of renewed litigation brought by airlines, including Delta and KLM, and by groups representing residents around Schiphol Airport. This litigation questions the lawfulness of the renewed plan. The outcome of this litigation cannot be determined at this time. Refinery Matters . Monroe's operation of the Trainer refinery is subject to numerous environmental laws and extensive regulations, including those relating to the discharge of materials into the environment, waste management, p"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 167971,
+            "context": "throughout the northeastern U.S., including our New York City hubs at LaGuardia and JFK. Delta Air Lines, Inc. | 2025 Form 10-K 29 Item 3. Legal Proceedings ITEM 3. LEGAL PROCEEDINGS Capacity Antitrust Litigation In July 2015, a number of purported class action antitrust lawsuits were filed alleging that Delta, American, United and Southwest had conspired to restrain capacity. The lawsuits were filed in the wake of media reports that the U.S. Department of Justice had served civil investigative demands upon these carriers seeking documents and information relating to this subject. The lawsuit"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 225254,
+            "context": "onsolidated Financial Statements. Internal Use Software. In September 2025, the FASB issued ASU No. 2025-06, \"Targeted Improvements to the Accounting for Internal-Use Software.\" This standard is intended to improve the operability and application of guidance related to capitalized software development costs and becomes effective January 1, 2028. We are assessing the potential impact this ASU may have on our Consolidated Financial Statements upon adoption. Interim Reporting. In December 2025, the FASB issued ASU No. 2025-11, \"Interim Reporting (Topic 270).\" This standard clarifies interim repor"
+          },
+          {
+            "charIndex": 225609,
+            "context": "assessing the potential impact this ASU may have on our Consolidated Financial Statements upon adoption. Interim Reporting. In December 2025, the FASB issued ASU No. 2025-11, \"Interim Reporting (Topic 270).\" This standard clarifies interim reporting guidance, develops a list of disclosures required by other Topics and intends to enhance consistency in interim reporting across entities. This standard becomes effective January 1, 2028 with early adoption permitted. We do not expect this standard to have a material impact on our interim reporting. Delta Air Lines, Inc. | 2025 Form 10-K 46 Item 7."
+          },
+          {
+            "charIndex": 255913,
+            "context": "onsolidated Financial Statements. Internal Use Software. In September 2025, the FASB issued ASU No. 2025-06, \"Targeted Improvements to the Accounting for Internal-Use Software.\" This standard is intended to improve the operability and application of guidance related to capitalized software development costs and becomes effective January 1, 2028. We are assessing the potential impact this ASU may have on our Consolidated Financial Statements upon adoption. Interim Reporting. In December 2025, the FASB issued ASU No. 2025-11, \"Interim Reporting (Topic 270).\" This standard clarifies interim repor"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 204513,
+            "context": "ay $957 million of the PSP loans due 2031 and for general corporate purposes. In February 2025, Moody's credit rating agency upgraded its rating for Delta to Baa2, an investment grade rating. In the September 2025 quarter, Fitch Ratings upgraded its outlook for Delta to Positive from Stable. In January 2026, S&P Global upgraded its outlook for Delta to Positive from Stable. The principal amount of our debt and finance leases was $14.1 billion at December 31, 2025. Future Debt Obligations. As described further in Note 6 of the Notes to the Consolidated Financial Statements, as of December 31, 2"
+          },
+          {
+            "charIndex": 204597,
+            "context": "ruary 2025, Moody's credit rating agency upgraded its rating for Delta to Baa2, an investment grade rating. In the September 2025 quarter, Fitch Ratings upgraded its outlook for Delta to Positive from Stable. In January 2026, S&P Global upgraded its outlook for Delta to Positive from Stable. The principal amount of our debt and finance leases was $14.1 billion at December 31, 2025. Future Debt Obligations. As described further in Note 6 of the Notes to the Consolidated Financial Statements, as of December 31, 2025, scheduled maturities of our debt in 2026 are $1.4 billion, with maturities from"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 214278,
+            "context": "e months. For additional information on our significant accounting policies related to the loyalty program, see Note 2 of the Notes to the Consolidated Financial Statements. Goodwill and Indefinite-Lived Intangible Assets We apply a fair value-based impairment test to the carrying value of goodwill and indefinite-lived intangible assets on an annual basis (as of October 1) and, if certain events or circumstances indicate that an impairment loss may have been incurred, on an interim basis. We assess the value of our goodwill and indefinite-lived assets under either a qualitative or quantitative"
+          },
+          {
+            "charIndex": 214461,
+            "context": "and Indefinite-Lived Intangible Assets We apply a fair value-based impairment test to the carrying value of goodwill and indefinite-lived intangible assets on an annual basis (as of October 1) and, if certain events or circumstances indicate that an impairment loss may have been incurred, on an interim basis. We assess the value of our goodwill and indefinite-lived assets under either a qualitative or quantitative approach. Under a qualitative approach, we consider various market factors, including certain of the key assumptions listed below. We analyze these factors to determine if events and"
+          },
+          {
+            "charIndex": 215075,
+            "context": "have affected the fair value of goodwill and indefinite-lived intangible assets. If we determine that it is more likely than not that the asset may be impaired, we use the quantitative approach to assess the asset's fair value and the amount of the impairment. Under a quantitative approach, we calculate the fair value of the asset incorporating the key assumptions listed below into our calculation. When we evaluate goodwill for impairment using a quantitative approach, we estimate the fair value of the reporting unit by considering both comparable public company multiples (a market approach)"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 77376,
+            "context": "ncluding SkyTeam, the Star Alliance (among United Airlines, Lufthansa German Airlines, Air Canada and others) and the oneworld alliance (among American Airlines, British Airways, Qantas and others) have enhanced competition in international markets. Regulatory Matters The DOT and the Federal Aviation Administration (the \"FAA\") exercise regulatory authority over air transportation in the U.S. The DOT has authority to issue certificates of public convenience and necessity required for airlines to provide air transportation. An air carrier that the DOT finds fit, willing and able to perform the p"
+          },
+          {
+            "charIndex": 77464,
+            "context": "ir Canada and others) and the oneworld alliance (among American Airlines, British Airways, Qantas and others) have enhanced competition in international markets. Regulatory Matters The DOT and the Federal Aviation Administration (the \"FAA\") exercise regulatory authority over air transportation in the U.S. The DOT has authority to issue certificates of public convenience and necessity required for airlines to provide air transportation. An air carrier that the DOT finds fit, willing and able to perform the proposed service is given authority to operate domestic and international air transportat"
+          },
+          {
+            "charIndex": 78731,
+            "context": "nger transportation. The DOT also has authority to review certain joint venture agreements between domestic and international carriers. The DOT engages in regulation of economic matters such as transactions involving allocation of \"slots\" or similar regulatory mechanisms which limit the rights of carriers to conduct operations at airports where such mechanisms are in place. The FAA has primary responsibility for matters relating to the safety of air carrier flight operations, including airline operating certificates, control of navigable air space, flight personnel, aircraft certification and"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 69612,
+            "context": "equently test their economic effectiveness against our financial targets. We closely monitor the hedge portfolio and rebalance the portfolio based on market conditions, which may result in locking in gains or losses on hedge contracts prior to their settlement dates. Employee Matters Human Capital Management We believe that the Delta people and culture are our strongest competitive advantage, and the high-quality service that our employees provide sets us apart from other airlines. As of December 31, 2025, we had approximately 103,000 full-time employee equivalents, of which approximately 100,"
+          },
+          {
+            "charIndex": 86234,
+            "context": "strike by the union or the imposition of proposed changes to the collective bargaining agreement by the airline. The U.S. Congress and the President have the authority to prevent self-help by enacting legislation that, among other things, imposes a settlement on the parties. Delta Air Lines, Inc. | 2025 Form 10-K 11 Item 1. Business Environmental Regulation Environmental Compliance Obligations . Our operations are subject to numerous international, federal, state and local laws and regulations governing protection of the environment, including regulation of greenhouse gases and other air emis"
+          },
+          {
+            "charIndex": 182298,
+            "context": "ated to lounge access, including access provided to certain American Express cardholders, travel products (e.g., car rentals or hotels booked with our commercial partners), codeshare agreements and international joint venture partnership contractual settlements. The increase in revenues was primarily driven by growth in travel products, codeshare and lounge access. Delta Air Lines, Inc. | 2025 Form 10-K 35 Item 7. MD&A - Results of Operations Operating Expense Year Ended December 31, Increase (Decrease) % Increase (Decrease) (in millions) 2025 2024 Salaries and related costs $ 17,520 $ 16,161"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 43492,
+            "context": "year in 2025, we continued to differentiate Delta from the industry and to invest in extending our competitive advantages. These enduring competitive advantages, which support our trusted consumer brand, include our people and culture, operational reliability, global network, customer loyalty and financial foundation. People and Culture The Delta people and culture are our strongest competitive advantage. Our more than 100,000 employees provide world-class travel experiences for our customers and best-in-class service. We believe that Delta's brand transcends the industry, powered by our peopl"
+          },
+          {
+            "charIndex": 44452,
+            "context": "rewarding them with $1.3 billion in profit sharing payments in February 2026. The company also maintains a Shared Rewards program to incentivize operational performance, and our employees earned $67 million under this program in 2025. Operational Reliability We remain committed to industry-leading reliability as the foundation for our brand promise and efficiency. We are consistently among the industry's best performers, delivering the best completion factor and on-time departures and arrivals among our network carrier competitors in 2025. In recognition of our unwavering commitment to operat"
+          },
+          {
+            "charIndex": 44504,
+            "context": "payments in February 2026. The company also maintains a Shared Rewards program to incentivize operational performance, and our employees earned $67 million under this program in 2025. Operational Reliability We remain committed to industry-leading reliability as the foundation for our brand promise and efficiency. We are consistently among the industry's best performers, delivering the best completion factor and on-time departures and arrivals among our network carrier competitors in 2025. In recognition of our unwavering commitment to operational performance and reliability, we were named Nor"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "Revenues",
+      "points": [
+        {
+          "start": "2018-10-01",
+          "end": "2018-12-31",
+          "val": 10742000000,
+          "accn": "0000027904-19-000003",
+          "fy": 2018,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2019-02-15",
+          "frame": "CY2018Q4"
+        },
+        {
+          "start": "2018-07-01",
+          "end": "2018-09-30",
+          "val": 11953000000,
+          "accn": "0000027904-19-000003",
+          "fy": 2018,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2019-02-15",
+          "frame": "CY2018Q3"
+        },
+        {
+          "start": "2018-04-01",
+          "end": "2018-06-30",
+          "val": 11775000000,
+          "accn": "0000027904-19-000003",
+          "fy": 2018,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2019-02-15",
+          "frame": "CY2018Q2"
+        },
+        {
+          "start": "2018-01-01",
+          "end": "2018-03-31",
+          "val": 9968000000,
+          "accn": "0000027904-18-000013",
+          "fy": 2018,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2018-04-12"
+        },
+        {
+          "start": "2018-01-01",
+          "end": "2018-03-31",
+          "val": 9968000000,
+          "accn": "0000027904-19-000003",
+          "fy": 2018,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2019-02-15",
+          "frame": "CY2018Q1"
+        },
+        {
+          "start": "2017-10-01",
+          "end": "2017-12-31",
+          "val": 10245000000,
+          "accn": "0000027904-18-000006",
+          "fy": 2017,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2018-02-23"
+        },
+        {
+          "start": "2017-10-01",
+          "end": "2017-12-31",
+          "val": 10229000000,
+          "accn": "0000027904-19-000003",
+          "fy": 2018,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2019-02-15",
+          "frame": "CY2017Q4"
+        },
+        {
+          "start": "2017-01-01",
+          "end": "2017-12-31",
+          "val": 41244000000,
+          "accn": "0000027904-18-000006",
+          "fy": 2017,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2018-02-23",
+          "frame": "CY2017"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 2.44,
+          "accn": "0000027904-26-000031",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-10",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 2,
+          "accn": "0000027904-26-000031",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-10"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": -0.44,
+          "accn": "0000027904-26-000022",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-08",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 7.66,
+          "accn": "0000027904-26-000013",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-11",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 2.17,
+          "accn": "0000027904-25-000020",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-09",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 5.8,
+          "accn": "0000027904-25-000020",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-09"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 3.27,
+          "accn": "0000027904-26-000031",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-10",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 3.27,
+          "accn": "0000027904-25-000012",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-10"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 1604000000,
+          "accn": "0000027904-26-000031",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-10",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 1315000000,
+          "accn": "0000027904-26-000031",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-10"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": -289000000,
+          "accn": "0000027904-26-000031",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-10",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": -289000000,
+          "accn": "0000027904-26-000022",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-08"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 5005000000,
+          "accn": "0000027904-26-000013",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-11"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 1417000000,
+          "accn": "0000027904-25-000020",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-09",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 3786000000,
+          "accn": "0000027904-25-000020",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-09"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 2130000000,
+          "accn": "0000027904-26-000031",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-10",
+          "frame": "CY2025Q2"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 1864000000,
+          "accn": "0000027904-26-000031",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-10",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 2365000000,
+          "accn": "0000027904-26-000031",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-10"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 501000000,
+          "accn": "0000027904-26-000022",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-08",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 5822000000,
+          "accn": "0000027904-26-000013",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-11",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 1684000000,
+          "accn": "0000027904-25-000020",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-09",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 4355000000,
+          "accn": "0000027904-25-000020",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-09"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 2102000000,
+          "accn": "0000027904-26-000031",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-10",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 2102000000,
+          "accn": "0000027904-25-000012",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-10"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "DAL",
+    "name": "DELTA AIR LINES, INC.",
+    "sector": "Air Transportation, Scheduled",
+    "pe": 14.82,
+    "pb": 2.69,
+    "ret3m": 22.0216,
+    "ret6m": 26.6468,
+    "roe": 22.94,
+    "debtEquity": 0.592,
+    "revenueGrowth": 2.79,
+    "epsGrowth": 43.71,
+    "fcfGrowth": null,
+    "operatingMargin": 9.19,
+    "marginTrend": -0.54,
+    "sentiment": 0.24,
+    "analyst": 78.9,
+    "beta": 1.3688204
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "Cold Jobs Report Warms Up Wall Street, Airbnb Steals the Show",
+        "url": "https://finnhub.io/api/news?id=3265d1322a7e3a01d1233f899e1eb92b1554c6337fa460fa9b425d9af368fe77",
+        "source": "ChartMill",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Is Delta Air Lines (DAL) Fully Valued Following Recent Insider Selling?",
+        "url": "https://finnhub.io/api/news?id=fe950bba15269228ed57d6dea97919c52721567aef8b24800b7d86bc4f44e2ea",
+        "source": "Yahoo",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "Airline Insider Hits Eject, Sells 40,460 Shares Valued at $3.8 Million",
+        "url": "https://finnhub.io/api/news?id=544c9b68d1091b29d7709159dabc862e5e95aa711c79acd0229e19594b424c1b",
+        "source": "Yahoo",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "We Just Had the Busiest Day for Commercial Air Travel Ever. Here's What It Means for Airline Stocks.",
+        "url": "https://finnhub.io/api/news?id=58b2c1b55cd94e9ed0640d701dd0f0a31801d6bdd744e688733d9fe72749f82e",
+        "source": "Yahoo",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "These 3 Georgia companies among 100 best in US on Time Magazine ranking",
+        "url": "https://finnhub.io/api/news?id=3fc63bfdb581050e28011d885c21a94bfe220957b589bc9010e83091320ef954",
+        "source": "Yahoo",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "JetBlue Stock Has Been Flying. Why Citi Says It’s Time to Sell.",
+        "url": "https://finnhub.io/api/news?id=7d407f4b60f724836a0da7d53b8e3e9d3eb60c588c53216c5ca17acabb89d4fb",
+        "source": "Yahoo",
+        "date": "2026-08-07"
+      }
+    ],
+    "cachedAt": "2026-08-11T05:48:42.938Z"
+  }
+}

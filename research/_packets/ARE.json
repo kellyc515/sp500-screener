@@ -1,0 +1,645 @@
+{
+  "ticker": "ARE",
+  "entityName": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
+  "cik": "0001035443",
+  "generatedAt": "2026-08-11T18:22:43.921Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-08-03",
+        "reportDate": "2026-06-30",
+        "accessionNumber": "0001035443-26-000066",
+        "primaryDocument": "are-20260630.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544326000066/are-20260630.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1035443/000103544326000066/"
+      },
+      "textLength": 487958,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS",
+        "text": "management's discussion and analysis of our financial condition and results of operations. These same properties are analyzed separately from properties acquired subsequent to the first day in the earliest comparable quarterly or year-to-date period presented, properties that underwent development or redevelopment at any time during the comparative periods, unconsolidated real estate joint ventures, properties classified as held for sale, and corporate entities (legal entities performing general and administrative functions), which are excluded from same property results. Additionally, termination fees, if any, are excluded from the results of same properties. Refer to &#8220; Same properties &#8221; in Item 2 for additional information. 121 Stabilized occupancy date The stabilized occupancy date represents the estimated date on which a development or redevelopment project is expected to reach occupancy of 95% or greater. Tenant collections Tenant collections represent the percentage of recognized rental income billed during the respective quarter that has been collected as of the date of this report. Rental income from tenants for whom collection is considered not probable is recognized only upon receipt of cash and, accordingly, is included in this calculation only to the extent recognized and collected. Tenant recoveries Tenant recoveries represent revenues comprising reimbursement of real estate taxes, insurance, utilities, repairs and maintenance, common area expenses, and other operating expenses and are earned in the period during which the applicable expenses are incurred and the tenant's obligation to reimburse us arises. We classify rental revenues and tenant recoveries generated through the leasing of real estate assets within revenues in income from rentals in our consolidated statements of operations. We provide investors with a separate presentation of rental revenues and tenant recoveries in &#8220; Results of operations &#8221; in Item 2 because we believe it promotes investors' understanding of our operating results. We believe that the presentation of tenant recoveries is useful to investors as a supplemental measure of our ability to recover operating expenses under our triple net leases, including recoveries of utilities, repairs and maintenance, insurance, property taxes, common area expenses, and other operating expenses, and of our ability to mitigate the effect on net income of any significant variability in components of our operating expenses. The following table reconciles income from rentals to tenant recoveries for the three and six months ended June 30, 2026 and 2025 (in thousands): Three Months Ended June 30, Six Months Ended June 30, 2026 2025 2026 2025 Income from rentals $ 643,210 $ 737,279 $ 1,296,223 $ 1,480,454 Rental revenues (486,589) (553,377) (961,375) (1,105,489) Tenant recoveries $ 156,621 $ 183,902 $ 334,848 $ 374,965 Total equity capitalization Total equity capitalization is equal to the outstanding shares of common stock multiplied by the closing price on the last trading day at the end of each period presented. Total market capitalization Total market capitalization is equal to the sum of total equity capitalization and total debt. 122 Unencumbered net operating income as a percentage of total net operating income Unencumbered net operating income as a percentage of total net operating income is a non-GAAP financial measure that we believe is useful to investors as a performance measure of the results of operations of our unencumbered real estate assets as it reflects those income and expense items that are incurred at the unencumbered property level. Unencumbered net operating income is derived from assets classified in continuing operations, which are not subject to any mortgage, deed of trust, lien, or other security interest, as of the period for which income is presented. The following table summarizes unencumbered net operating income as a percentage of total net operating income for the three and six months ended June 30, 2026 and 2025 (dollars in thousands): Three Months Ended June 30, Six Months Ended June 30, 2026 2025 2026 2025 Unencumbered net operating income $ 455,448 $ 535,766 $ 902,328 $ 1,066,457 Encumbered net operating income — 1,841 — 2,913 Total net operating income $ 455,448 $ 537,607 $ 902,328 $ 1,069,370 Unencumbered net operating income as a percentage of total net operating income 100.0% 99.7% 100.0% 99.7% Weighted-average shares of common stock outstanding &#8211; diluted From time to time, we enter into capital market transactions, including forward equity sales agreements (&#8220;Forward Agreements&#8221;), to fund acquisitions, to fund construction of our development and redevelopment projects, and for general working capital purposes. While the Forward Agreements are outstanding, we are required to consider the potential dilutive effect of our Forward Agreements under the treasury stock method. Under this method, we also include the dilutive effect of unvested restricted stock awards (&#8220;RSAs&#8221;) with forfeitable dividends in the calculation of diluted shares. Refer to Note 13 &#8211; &#8220;Earnings per share&#8221; and Note 14 &#8211; &#8220;Stockholders' equity&#8221; to our unaudited consolidated financial statements in Item 1 for additional information. The weighted-average shares of common stock outstanding used in calculating EPS &#8211; diluted, funds from operations per share &#8211; diluted, and funds from operations per share &#8211; diluted, as adjusted, for the three and six months ended June 30, 2026 and 2025 are calculated as follows. Also shown are the weighted-average unvested RSAs with nonforfeitable dividends used in calculating the amounts allocable to these awards pursuant to the two-class method for each of the respective periods presented below (in thousands): Three Months Ended June 30, Six Months Ended June 30, 2026 2025 2026 2025 Basic shares for earnings per share 170,718 170,135 170,658 170,328 Unvested RSAs with forfeitable dividends — — 382 — Diluted shares for earnings per share 170,718 170,135 171,040 170,328 Basic shares for funds from operations per share and funds from operations per share, as adjusted 170,718 170,135 170,658 170,328 Unvested RSAs with forfeitable dividends 492 57 382 62 Diluted shares for funds from operations per share and funds from operations per share, as adjusted 171,210 170,192 171,040 170,390 Weighted-average unvested RSAs with nonforfeitable dividends used in the allocations of net income, funds from operations, and funds from operations, as adjusted 1,276 1,998 1,308 2,025 123 ITEM 3.",
+        "charRange": [
+          464617,
+          471273
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk factors&#8221; in our annual report on Form 10-K for the year ended December 31, 2025 . ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS Purchases of equity securities On December 8, 2025 , we announced that our Board of Directors authorized a new share repurchase program that allows the repurchase of shares with an aggregate value of up to $500.0 million through December 31, 2026 in the open market , through privately negotiated transactions, or otherwise, in accordance with all applicable securities laws and regulations, including Rule 10b-18 of the Exchange Act. This new program replaced our prior stock repurchase program. As of the date of this report, no repurchases have been made under the new program and $500.0 million remains available for future share repurchases. 126 ITEM 5. OTHER INFORMATION Disclosure of 10b5-1 plans On June 17, 2026 , Marc E. Binda , our Chief Financial Officer and Treasurer , terminated a Rule 10b5-1 trading arrangement that he had previously adopted in December 2025 for the sale from time to time of up to 23,368 shares of common stock. The trading arrangement was intended to satisfy the affirmative defense conditions of Securities Exchange Act Rule 10b5-1(c) and was scheduled to expire on December 1, 2026 . On June 18, 2026 , Hallie E. Kuhn , our Executive Vice President &#8211; Capital Markets and Co-Lead &#8211; Life Science , terminated a Rule 10b5-1 trading arrangement that she had previously adopted in December 2025 for the sale from time to time of up to 2,574 shares of common stock. The trading arrangement was intended to satisfy the affirmative defense conditions of Securities Exchange Act Rule 10b5-1(c) and was scheduled to expire on October 16, 2026 . On June 25, 2026 , Hart Cole , our Co-President & Co-Regional Market Director &#8211; Seattle , terminated a Rule 10b5-1 trading arrangement that he had previously adopted in December 2025 for the sale from time to time of up to 20,000 shares of common stock. The trading arrangement was intended to satisfy the affirmative defense conditions of Securities Exchange Act Rule 10b5-1(c) and was scheduled to expire on January 29, 2027 . During the three months ended June 30, 2026 , no other officers or directors adopted or terminated any contract, instruction, or written plan for the purchase or sale of our securities that was intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) or any &#8220;non-Rule 10b5-1 trading arrangement. &#8221; 127 ITEM 6.",
+        "charRange": [
+          481204,
+          483723
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 8303,
+            "context": "mber are:OperatingPropertiesMember 2026-06-30 0001035443 are:MontrealPropertiesMember 2026-01-01 2026-06-30 0001035443 are:CanadaMarketMember 2026-06-30 0001035443 are:AlexandriaCenterForLifeScienceNewYorkCityMember 2026-06-30 0001035443 are:HHAndEDCLitigationMember 2026-04-10 2026-04-10 0001035443 are:HHAndEDCLitigationMember 2026-04-10 0001035443 are:AlexandriaMember are:A50And60BinneyStreetMember 2026-06-30 0001035443 are:AlexandriaMember are:A75125BinneyStreetMember 2026-06-30 0001035443 are:AlexandriaMember are:A100And225BinneyStreetAnd300ThirdStreetMember 2026-06-30 0001035443 are:Alexan"
+          },
+          {
+            "charIndex": 8365,
+            "context": "ontrealPropertiesMember 2026-01-01 2026-06-30 0001035443 are:CanadaMarketMember 2026-06-30 0001035443 are:AlexandriaCenterForLifeScienceNewYorkCityMember 2026-06-30 0001035443 are:HHAndEDCLitigationMember 2026-04-10 2026-04-10 0001035443 are:HHAndEDCLitigationMember 2026-04-10 0001035443 are:AlexandriaMember are:A50And60BinneyStreetMember 2026-06-30 0001035443 are:AlexandriaMember are:A75125BinneyStreetMember 2026-06-30 0001035443 are:AlexandriaMember are:A100And225BinneyStreetAnd300ThirdStreetMember 2026-06-30 0001035443 are:AlexandriaMember are:A15NeccoStreetMember 2026-06-30 0001035443 are:"
+          },
+          {
+            "charIndex": 129209,
+            "context": "develop the project. We performed a probability-weighted recoverability analysis based on initial estimates of various possible outcomes and determined no impairment was present as of June 30, 2026 . Separately from, and not as part of, the pending litigation related to the Option Parcel, EDC, on behalf of H+H as the landlord and itself as lease administrator, delivered on April 20, 2026, a notice alleging that ARE is in default of certain information delivery obligations under the ground lease relating to the existing operating towers at the Alexandria Center for Life Science &#8211; New Yor"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 478172,
+            "context": "0, 2026 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 125 PART II &#8211; OTHER INFORMATION ITEM 1. LEGAL PROCEEDINGS Stockholder Matters On November 25, 2025, a securities class action was filed against the Company and certain of its officers and directors in the United States District Court for the Central District of California. The operative complaint alleges violations of the federal securities laws based on alleged material misrepresentations and omissions related to the Company's business performance and real e"
+          },
+          {
+            "charIndex": 479247,
+            "context": "for the District of Maryland and the United States District Court for the Central District of California. The derivative complaints assert claims under the federal securities laws and state law based on allegations similar to those in the securities class action and seek damages and other relief on behalf of the Company. The first two derivative actions were stayed on April 8, 2026 and June 23, 2026, respectively, pending resolution of any motion to dismiss in the securities class action. The Company does not believe the complaints state any meritorious claims and intends to defend these cases"
+          },
+          {
+            "charIndex": 479477,
+            "context": "e in the securities class action and seek damages and other relief on behalf of the Company. The first two derivative actions were stayed on April 8, 2026 and June 23, 2026, respectively, pending resolution of any motion to dismiss in the securities class action. The Company does not believe the complaints state any meritorious claims and intends to defend these cases vigorously. At this time, we cannot predict the outcome of these matters or reasonably estimate the amount or range of any possible loss, if any, and therefore we have not recorded an accrual related to these matters. Option Parc"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 53462,
+            "context": "es. 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES Consolidation On an ongoing basis, as circumstances indicate the need for reconsideration, we evaluate each legal entity that is not wholly owned by us in accordance with the consolidation accounting guidance. Our evaluation considers all of our variable interests, including equity ownership, as well as fees paid to us for our involvement in the management of each partially owned entity. To fall within the scope of the consolidation guidance, an entity must meet both of the following criteria: &#8226; The entity has a legal structure that has b"
+          },
+          {
+            "charIndex": 53699,
+            "context": "n accounting guidance. Our evaluation considers all of our variable interests, including equity ownership, as well as fees paid to us for our involvement in the management of each partially owned entity. To fall within the scope of the consolidation guidance, an entity must meet both of the following criteria: &#8226; The entity has a legal structure that has been established to conduct business activities and to hold assets; such entity can be in the form of a partnership, limited liability company, or corporation, among others; and &#8226; We have a variable interest in the legal entity — i."
+          },
+          {
+            "charIndex": 109443,
+            "context": "ividends, the accumulated dividend payment is made and the dividend payable liability is settled. Forward equity sales agreements From time to time, we enter into forward equity sales agreements and account for them in accordance with the accounting guidance governing financial instruments and derivatives. Under the accounting guidance, our forward equity sales agreements are not deemed to be liabilities as they do not embody obligations to repurchase our shares, nor do they embody obligations to issue a variable number of shares for which the monetary value is predominantly fixed, varied with"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 121293,
+            "context": "its updated estimated fair value less costs to sell of approximately $ 43.7 million based on recent negotiations with a potential buyer. This asset was classified as held for sale in December 2025 following our assessment of the project's financial outlook, including the significant capital required to redevelop and lease the property. As a result, we decided to sell this asset and reinvest the sales proceeds in other projects with greater value-creation opportunities, and recognized an impairment charge of $ 105.7 million in December 202 5. We expect to complete the sale within 12 months . S"
+          },
+          {
+            "charIndex": 260079,
+            "context": "sted EBITDA, which in turn may continue to negatively impact our key metrics such as Adjusted EBITDA margin, net debt and preferred stock to Adjusted EBITDA, and fixed-charge coverage ratios. This may also impact our credit ratings and credit rating outlooks. To preserve liquidity and mitigate an increase to our net debt and preferred stock to Adjusted EBITDA ratio resulting from declines in Adjusted EBITDA, we may seek additional capital by pursuing additional sales of real estate and non-real estate investments, or through equity offerings, which could be dilutive to existing stockholders. A"
+          },
+          {
+            "charIndex": 295244,
+            "context": "3825 Fabian Way and one operating building aggregatin g 228,000 RS F at 3875 Fabian Way in our Palo Alto submarket. These assets were acquired in 2019 with the intent to develop them for life science use. However, due to the project's macroeconomic outlook, the assets no longer aligned with our strategy and were sold to a residential developer. Based on the annualized results for the three months ended June 30, 2026, the assets generated approximately $6.2 million of annual net operating incom e. (2) For the year ending December 31, 2026, we may utilize multiple sources of capital, including"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 38965,
+            "context": "2,784 762,040 1,333,806 1,520,198 Expenses: Rental operations 207,336 224,433 431,478 450,828 General and administrative 36,861 29,128 71,546 59,803 Interest 64,342 55,296 128,926 106,172 Depreciation and amortization 304,384 346,123 609,825 688,185 Impairment of real estate 222,470 129,606 227,969 161,760 Total expenses 835,393 784,586 1,469,744 1,466,748 Equity in earnings (losses) of unconsolidated real estate joint ventures 413 ( 9,021 ) 266 ( 9,528 ) Investment income (losses) 133,227 ( 30,622 ) 128,645 ( 80,614 ) Gain on early extinguishment of debt — — 366,435 — Gain on sales of real es"
+          },
+          {
+            "charIndex": 47106,
+            "context": "ds) (Unaudited) Six Months Ended June 30, 2026 2025 Operating Activities: Net income (loss) $ 359,408 $ ( 23,527 ) Adjustments to reconcile net income (loss) to net cash provided by operating activities: Depreciation and amortization 609,825 688,185 Impairment of real estate 227,969 161,760 Gain on sales of real estate — ( 13,165 ) Gain on early extinguishment of debt ( 366,435 ) — Equity in (earnings) losses of unconsolidated real estate joint ventures ( 266 ) 9,528 Distributions of earnings from unconsolidated real estate joint ventures 599 1,289 Amortization of loan fees 8,845 9,306 Amortiz"
+          },
+          {
+            "charIndex": 73923,
+            "context": "en the consideration received and the partial interest at book value. Conversely, if we retain a noncontrolling interest upon completion of the sale of a partial interest of real estate, we recognize a gain or loss as if 100% of the asset were sold. Impairment of long-lived assets Prior to and subsequent to the end of each quarter, we review current activities and changes in the business conditions of all of our long-lived assets to determine the existence of any triggering events or impairment indicators requiring an impairment analysis. If triggering events or impairment indicators are ident"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 84392,
+            "context": "ring the presence of the following triggering events or impairment indicators: (i) a significant deterioration in the earnings performance, credit rating, asset quality, or business prospects of the investee; (ii) a significant adverse change in the regulatory, economic, or technological environment of the investee; (iii) a significant adverse change in the general market condition, including the research and development of technology and products that the investee is bringing or attempting to bring to the market; (iv) significant concerns about the investee's ability to continue as a going co"
+          },
+          {
+            "charIndex": 160905,
+            "context": "ring the presence of the following triggering events or impairment indicators: (i) a significant deterioration in the earnings performance, credit rating, asset quality, or business prospects of the investee; (ii) a significant adverse change in the regulatory, economic, or technological environment of the investee; (iii) a significant adverse change in the general market condition, including the research and development of technology and products that the investee is bringing or attempting to bring to the market; (iv) significant concerns about the investee's ability to continue as a going co"
+          },
+          {
+            "charIndex": 202250,
+            "context": "and share key characteristics, including generic and reusable improvements, consistent lease structures, and business and financial strategy. All properties are located within North America, predominantly in the U.S., and operate within a comparable regulatory environment. Operating segments Our Chief Operating Decision Maker (&#8220;CODM&#8221;), represented by our Executive Chairman and our Chief Executive Officer, evaluates operating results at the geographic market level to assess performance and allocate resources. Our operating segments align with our markets, including Greater Boston, S"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 42155,
+            "context": "es of noncontrolling interests — — ( 716 ) — — 10,288 9,572 — Distributions to and redemption of noncontrolling interests — — — — — ( 52,061 ) ( 52,061 ) ( 307 ) Issuance pursuant to stock plan 26,501 — 21,399 — — — 21,399 — Taxes related to the net settlement of equity awards ( 9,875 ) — ( 477 ) — — — ( 477 ) — Dividends declared on common stock ( $ 0.72 per share) — — — ( 125,448 ) — — ( 125,448 ) — Reclassification of net loss and distributions — — ( 198,231 ) 198,231 — — — — Balance as of June 30, 2026 170,728,916 $ 1,707 $ 15,585,296 $ — $ ( 33,027 ) $ 3,612,263 $ 19,166,239 $ 9,119 The a"
+          },
+          {
+            "charIndex": 43507,
+            "context": "sales of noncontrolling interests — — 19 — — 41,628 41,647 — Distributions to and redemption of noncontrolling interests — — — — — ( 57,383 ) ( 57,383 ) ( 201 ) Issuance pursuant to stock plan 25,786 — 27,776 — — — 27,776 — Taxes related to the net settlement of equity awards ( 9,600 ) — ( 693 ) — — — ( 693 ) — Dividends declared on common stock ( $ 1.32 per share) — — — ( 228,299 ) — — ( 228,299 ) — Reclassification of net loss and distributions — — ( 335,301 ) 335,301 — — — — Balance as of June 30, 2025 170,146,069 $ 1,701 $ 17,200,949 $ — $ ( 27,415 ) $ 4,554,156 $ 21,729,391 $ 9,612 The a"
+          },
+          {
+            "charIndex": 44862,
+            "context": "noncontrolling interests — — 6,363 — — 26,665 33,028 — Distributions to and redemption of noncontrolling interests — — — — — ( 111,979 ) ( 111,979 ) ( 50,208 ) Issuance pursuant to stock plan 315,986 3 49,661 — — — 49,664 — Taxes related to the net settlement of equity awards ( 124,937 ) ( 1 ) ( 6,437 ) — — — ( 6,438 ) — Dividends declared on common stock ( $ 1.44 per share) — — — ( 250,921 ) — — ( 250,921 ) — Reclassification of earnings in excess of distributions — — 37,949 ( 37,949 ) — — — — Balance as of June 30, 2026 170,728,916 $ 1,707 $ 15,585,296 $ — $ ( 33,027 ) $ 3,612,263 $ 19,166,"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 53936,
+            "context": "onsolidation guidance, an entity must meet both of the following criteria: &#8226; The entity has a legal structure that has been established to conduct business activities and to hold assets; such entity can be in the form of a partnership, limited liability company, or corporation, among others; and &#8226; We have a variable interest in the legal entity — i.e., variable interests that are contractual, such as equity ownership, or other financial interests that change with changes in the fair value of the entity's net assets. If an entity does not meet both criteria above, we apply other acc"
+          },
+          {
+            "charIndex": 55841,
+            "context": "ed losses; or &#8226; The right to receive the entity's expected residual returns. 11 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) For an entity, including our real estate joint ventures, structured as a limited partnership or a limited liability company, our evaluation of whether the equity holders (equity partners other than the general partner or the managing member of a joint venture) lack the characteristics of a controlling financial interest includes the evaluation of whether the limited partners or non-managing members (the noncontrolling equity holders) lack both substant"
+          },
+          {
+            "charIndex": 99335,
+            "context": "e operating lease agreements in which we are the lessee consisting of ground and office leases. At the lease commencement date (or at the acquisition date if the lease is acquired as part of a real estate acquisition), we are required to recognize a liability to account for our future obligations under these operating leases, and a corresponding right-of-use asset. The lease liability is measured based on the present value of the future lease payments, including payments during the term under our extension options that we are reasonably certain to exercise. The present value of the future leas"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-01-26",
+        "reportDate": "2025-12-31",
+        "accessionNumber": "0001035443-26-000013",
+        "primaryDocument": "are-20251231.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544326000013/are-20251231.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1035443/000103544326000013/"
+      },
+      "textLength": 910768,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's discussion and analysis of financial condition and results of operations&#8221; (&#8220;Item 7&#8221;). We evaluated the criteria and determined that we are eligible for the disclosure exceptions, which allow us to provide alternative disclosures; as such, we present alternative disclosures in Item 7. Loan fees Fees incurred in obtaining long-term financing are capitalized and classified with the corresponding debt instrument appearing on our consolidated balance sheets. Loan fees related to our unsecured senior line of credit are capitalized and classified within other assets. Capitalized amounts are amortized over the term of the related loan, and the amortization is classified in interest expense in our consolidated statements of operations. F-22 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) Distributions from equity method investments We use the &#8220;nature of the distribution&#8221; approach to determine the classification within our consolidated statements of cash flows of cash distributions received from equity method investments, including our unconsolidated real estate joint ventures and equity method non-real estate investments. Under this approach, distributions are classified based on the nature of the underlying activity that generated the cash distributions. If we lack the information necessary to apply this approach in the future, we will be required to apply the &#8220;cumulative earnings&#8221; approach as an accounting change on a retrospective basis. Under the cumulative earnings approach, distributions up to the amount of cumulative equity in earnings recognized are classified as cash inflows from operating activities, and those in excess of that amount are classified as cash inflows from investing activities. Restricted cash We present cash and cash equivalents separately from restricted cash within our consolidated balance sheets. However, we include restricted cash with cash and cash equivalents when reconciling the beginning-of-period and end-of-period total amounts shown in the consolidated statements of cash flows. We provide a reconciliation between the consolidated balance sheets and the consolidated statements of cash flows, which is required when the balance includes greater than one line item for cash, cash equivalents, and restricted cash. We also provide a disclosure of the nature of the restrictions related to material restricted cash balances. Recent accounting pronouncements On November 4, 2024, the FASB issued ASU 2024-03, Disaggregation of Income Statement Expenses , which will require entities to provide enhanced disclosures related to certain expense categories included in line items on the statement of operations. The ASU aims to increase transparency and provide investors with additional detailed information about the nature of expenses reported on the face of the income statement. The new standard does not change the requirements for the presentation of expenses on the face of the statement of operations. Under this ASU, entities are required to disaggregate, in a tabular format, expense line items presented on the face of the statement of operations — excluding earnings or losses from equity method investments — if they include any of the following expense categories: purchases of inventory, employee compensation, depreciation, intangible asset amortization, and depreciation or depletion. For any remaining items within each relevant expense line item, entities must provide a qualitative description of the nature of those expenses. The new ASU is effective for annual reporting periods beginning after December 15, 2026 and interim reporting periods beginning after December 15, 2027. Early adoption is permitted. We expect to adopt this ASU on January 1, 2027. Although the adoption is not expected to have an impact on our financial statements, it is expected to result in incremental disclosures within the footnotes to our consolidated financial statements. F-23 3. INVESTMENTS IN REAL ESTATE Our consolidated investments in real estate consisted of the following as of December 31, 2025 and 2024 (in thousands): December 31, 2025 2024 Rental properties: Land (related to rental properties) $ 3,204,479 $ 3,863,027 Buildings and building improvements 19,738,825 20,377,935 Other improvements 4,371,720 4,354,785 Rental properties 27,315,024 28,595,747 Current and future development and redevelopment projects 6,788,464 8,618,727 Gross investments in real estate 34,103,488 37,214,474 Less: accumulated depreciation ( 5,970,171 ) ( 5,477,082 ) Investments in real estate assets held for sale, less accumulated depreciation (1) 556,679 372,647 Investments in real estate $ 28,689,996 $ 32,110,039 (1) Refer to &#8220;Assets held for sale&#8221; below. Assets held for sale As of December 31, 2025 , we had 20 operating properties aggregating 1.6 million RS F a nd land parcels aggregating 1.9 million SF that were classified as held for sa le. The disposal of properties classified as held for sale does not represent a strategic shift that has, or will have, a major effect on our operations or financial results, as the dispositions relate to individual assets across multiple markets and do not represent the exit from any significant market. Accordingly, these assets do not meet the criteria for classification as a discontinued operation. We cease depreciation of our properties upon their classification as held for sale. The following is a summary of net assets as of December 31, 2025 and 2024 for our real estate investments that were classified as held for sale as of each respective date (in thousands): December 31, 2025 2024 Investments in real estate, less accumulated depreciation $ 556,679 $ 372,647 Other assets 37,859 9,488 Total assets 594,538 382,135 Total liabilities ( 12,235 ) ( 13,462 ) Total accumulated other comprehensive (loss) income ( 566 ) 2,584 Net assets classified as held for sale $ 581,737 $ 371,257 For additional information, refer to &#8220; Real estate sales &#8221; in Note 2 &#8211; &#8220;Summary of significant accounting policies&#8221; to our consolidated financial statements. Acquired below-market leases The balances of acquired below-market tenant leases existing as of December 31, 2025 and 2024 and related accumulated amortization, classified in accounts payable, accrued expenses, and other liabilities in our consolidated balance sheets as of December 31, 2025 and 2024 , were as follows (in thousands): December 31, 2025 2024 Acquired below-market leases $ 715,898 $ 652,757 Accumulated amortization ( 582,865 ) ( 472,350 ) $ 133,033 $ 180,407 F-24 3. INVESTMENTS IN REAL ESTATE (continued) For the years ended December 31, 2025, 2024, and 2023 , we recognized in rental revenues approximately $ 41.3 million , $ 89.4 million , and $ 96.9 million , respectively, related to the amortization of acquired below-market leases existing as of the end of each respective year. The weighted-average amortization period of the value of acquired below-market leases existing as of December 31, 2025 was approximately 7.9 years , and t he estimated annual amortization of the value of acquired below-market leases as of December 31, 2025 is as follows (in thousands): Year Amount 2026 $ 24,126 2027 22,721 2028 10,962 2029 8,634 2030 8,164 Thereafter 58,426 Total $ 133,033 Acquired in-place leases The balances of acquired in-place leases and related accumulated amortization, classified in other assets in our consolidated balance sheets as of December 31, 2025 and 2024 , were as follows (in thousands): December 31, 2025 2024 Acquired in-place leases $ 943,097 $ 1,032,744 Accumulated amortization ( 739,089 ) ( 727,600 ) $ 204,008 $ 305,144 Amortization for these intangible assets, classified in depreciation and amortization expense in our consolidated statements of operations, was approximately $ 83.0 million , $ 108.7 million , and $ 160.6 million for the years ended December 31, 2025, 2024, and 2023 , respectively. The weighted-average amortization period of the value of acquired in-place leases was approximately 7.8 years , and the estimated annual amortization of the value of acquired in-place leases as of December 31, 2025 is as follows (in thousands): Year Amount 2026 $ 43,811 2027 33,492 2028 23,946 2029 19,060 2030 16,736 Thereafter 66,963 Total $ 204,008 F-25 3. INVESTMENTS IN REAL ESTATE (continued) Sales of real estate assets and impairment of real estate Our completed dispositions of real estate assets during the year ended December 31, 2025 consisted of the following (dollars in thousands): Square Footage Gain on Sales of Real Estate Property Submarket/Market Date of Sale Interest Sold Operating Land and Future Sales Price 550 Arsenal Street Cambridge/Inner Suburbs/ Greater Boston 10/15/25 100 % 249,275 281,592 $ 99,250 $ — 285, 299, 307, and 345 Dorchester Avenue (consolidated JV) Seaport Innovation District/ Greater Boston 12/30/25 60 % — 1,040,000 33,500 (1) — 409 and 499 Illinois Street (consolidated JV) Mission Bay/San Francisco Bay Area 12/17/25 25 % 466,297 — 180,273 (2) 416,749 (2) 601, 611, 651, 681, 685, 701, and 751 Gateway Boulevard (consolidated JVs) South San Francisco/San Francisco Bay Area 12/30/25 (3) 1,104,826 528,684 283,173 (3) — 2425 Garcia Avenue and 2400/2450 Bayshore Parkway Greater Stanford/San Francisco Bay Area 6/30/25 100 % 95,901 — 11,000 — ARE Nautilus Torrey Pines/San Diego 12/10/25 100 % 218,640 — 192,000 86,260 Costa Verde by Alexandria University Town Center/San Diego 1/31/25 100 % 8,730 537,000 124,000 (4) — 4767 Nexus Center Drive University Town Center/San Diego 12/31/25 100 % 65,280 — 50,000 (5) 15,330 9363, 9373, and 9393 Towne Centre Drive University Town Center/San Diego 12/18/25 100 % — 230,000 40,000 17,978 Pacific Technology Park Sorrento Mesa/San Diego 9/9/25 50 % 544,352 — 1,570 (6) 9,290 6260 Sequence Drive Sorrento Mesa/San Diego 12/16/25 100 % 130,536 — 70,000 — 5505 Morehouse Drive Sorrento Mesa/San Diego 8/26/25 100 % 79,945 — 45,000 — 5600 Avenida Encinas Carlsbad/San Diego 12/17/25 100 % 182,276 — 64,100 — 21540 30th Drive Southeast Bothell/Seattle 12/22/25 100 % 144,738 — 43,829 — 14 TW Alexander Drive Research Triangle/Research Triangle 11/20/25 100 % 173,820 — 155,000 78,489 3029 East Cornwallis Road Research Triangle/Research Triangle 12/31/25 100 % — 600,000 29,500 — 601 Keystone Park Drive Research Triangle/Research Triangle 10/3/25 100 % 77,595 — 24,879 4,362 Alexandria Center for Life Science &#8211; Long Island City New York City/New York City 12/19/25 100 % 179,100 — 34,500 — Land parcel Texas 5/7/25 100 % — 1,350,000 73,287 — Other Various 258,917 13,987 $ 1,813,778 (7) $ 642,445 (1) Represents sales price of interest sold. (2) Represents two life science buildings in which we held a 25 % ownership intere st. At the time of sale, the properties were 40 % occupied, with a weighted-average remaining lease term of 8.3 years . These properties were sold by the joint venture to an existing tenant following its exercise of a purchase right included in its lease agreement. The gross sales price was $ 767.1 million ( $ 721.1 million net of seller credits and sales costs), of which our share of the price (after seller credits) was $ 180.3 million . Our share of gain on sales of real estate was $ 103.9 million . (3) We held a 50 % ownership interest at 601, 611, 651, 681, 685, and 701 Gateway Boulevard consolidated joint venture and a 51 % interest at 751 Gateway Boulevard consolidated joint venture. At the time of sale, these properties had operating and redevelopment properties occupancy of 62 % , with a weighted-average lease term of 5.1 years . Due to macroeconomic conditions in South San Francisco, including significant new supply, lower life science tenant demand, and ongoing challenges leasing both laboratory and office space, we reassessed the project's financial outlook and the substantial capital required to lease vacant space and to complete the redevelopment of 651 Gateway Boulevard and future development opportunities. As a result, we sold the consolidated joint ventures for a gross price of $ 600.0 million ( $ 560.4 million net of customary seller credits and sales costs), of which our share of the price (after seller credits) was $ 283.2 million . (4) We provided $ 91.0 million of seller financing during the three months ended March 31, 2025. This note receivable is classified within &#8220;Other assets&#8221; in our consolidated balance sheet. Refer to Note 8 &#8211; &#8220;Other assets&#8221; to our consolidated financial statements for additional information. (5) We provided $ 33.0 million of seller financing during the three months ended December 31, 2025. This note receivable is classified within &#8220;Other assets&#8221; in our consolidated balance sheet. Refer to Note 8 &#8211; &#8220;Other assets&#8221; to our consolidated financial statements for additional information. (6) $ 94.4 million of the sales price represents non-cash consideration. Refer to &#8220;Pacific Technology Park and 199 East Blaine Street&#8221; in Note 4 &#8211; &#8220;Consolidated and unconsolidated real estate joint ventures&#8221; to our consolidated financial statements for additional information regarding this sale. (7) Represents our share of the aggregate sales price from our dispositions, less sales credits, which differs from the sum of amounts disclosed in our consolidated statement of cash flows under &#8220;Investing activities&#8221; (proceeds from sales of real estate), &#8220;Financing activities&#8221; (contributions from and sales of noncontrolling interests), and &#8220;Supplemental disclosure and non-cash investing and financing activities\" (non-cash sales) primarily due to the timing of payments, closing costs, other sales- related adjustments (including prorations of rents and expenses), and our consolidated joint venture partners' share of the sales price, aggregating $ 685.4 million , reflected in our consolidated statement of cash flows. F-26 3. INVESTMENTS IN REAL ESTATE (continued) Impairment of real estate During the year ended December 31, 2025 , we recognized impairment charges aggregating $ 2.20 billion , classified in impairment of real estate in our consolidated statement of operations, primarily related to the following assets: Greater Boston market &#8226; Impairment charge of $ 236.0 million (including our share of $ 149.7 million ) was recognized to reduce the carrying amount of multiple land parcels aggregating 1.0 million of future developme nt SF owned by a consolidated real estate joint venture in our Seaport Innovation District submarket of our Greater Boston market, to their estimated fair values less costs to sell. We held a 60 % ownership interest in the land parcels. These industrial- and retail-zoned land parcels were originally acquired with the intent to develop laboratory space. The decision not to proceed with the project reflects a lack of tenant demand for",
+        "charRange": [
+          771410,
+          786410
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk factors&#8221; in this annual report on Form 10-K for a discussion of risks that inflation directly or indirectly may pose to our business. 125 Issuer and guarantor subsidiary summarized financial information Alexandria Real Estate Equities, Inc. (the &#8220;Issuer&#8221;) has sold certain debt securities registered under the Securities Act of 1933, as amended, that are fully and unconditionally guaranteed by Alexandria Real Estate Equities, L.P. (the &#8220;LP&#8221; or the &#8220;Guarantor Subsidiary&#8221;), an indirectly 100% owned subsidiary of the Issuer. The Issuer's other subsidiaries, including, but not limited to, the subsidiaries that own substantially all of its real estate (collectively, the &#8220;Combined Non-Guarantor Subsidiaries&#8221;), will not provide a guarantee of such securities, including the subsidiaries that are partially or 100% owned by the LP. The following summarized financial information presents on a combined basis, balance sheet information as of December 31, 2025 and 2024 , and results of operations and comprehensive income for the years ended December 31, 2025 and 2024 for the Issuer and the Guarantor Subsidiary. The information presented below excludes eliminations necessary to arrive at the information on a consolidated basis. In presenting the summarized financial statements, the equity method of accounting has been applied to (i) the Issuer's interests in the Guarantor Subsidiary, (ii) the Guarantor Subsidiary's interests in the Combined Non-Guarantor Subsidiaries, and (iii) the Combined Non-Guarantor Subsidiaries' interests in the Guarantor Subsidiary, where applicable, even though all such subsidiaries meet the requirements to be consolidated under GAAP. All assets and liabilities have been allocated to the Issuer and the Guarantor Subsidiary generally based on legal entity ownership. The following tables present combined summarized financial information as of December 31, 2025 and 2024 and for the years ended December 31, 2025 and 2024 for the Issuer and Guarantor Subsidiary. Amounts provided do not represent our total consolidated amounts (in thousands): December 31, 2025 2024 Assets: Cash, cash equivalents, and restricted cash $ 127,100 $ 103,993 Other assets 173,303 153,913 Total assets $ 300,403 $ 257,906 Liabilities: Unsecured senior notes payable $ 12,047,394 $ 12,094,465 Unsecured senior line of credit and commercial paper 353,161 — Other liabilities 433,707 542,322 Total liabilities $ 12,834,262 $ 12,636,787 Year Ended December 31, 2025 2024 Total revenues $ 48,748 $ 59,023 Total expenses (350,655) (349,437) Net loss (301,907) (290,414) Net income attributable to unvested restricted stock awards (8,417) (13,394) Net loss attributable to Alexandria Real Estate Equities, Inc.'s common stockholders $ (310,324) $ (303,808) As of December 31, 2025 , 328 of our 340 properties were held indirectly by the REIT's wholly owned consolidated subsidiary, Alexandria Real Estate Equities, L.P. 126 Critical accounting estimates Our consolidated financial statements have been prepared in accordance with GAAP. The preparation of these financial statements in conformity with GAAP requires us to make estimates, judgments, and assumptions that affect the reported amounts of assets, liabilities, revenues, and expenses. We base these estimates, judgments, and assumptions on historical experience, current trends, and various other factors that we believe to be reasonable under the circumstances. We continually evaluate the estimates, judgments, and assumptions we use to prepare our consolidated financial statements . C hanges in estimates, judgments, or assumptions could affect our financial position and our results of operations, which are used by our stockholders, potential investors, industry analysts, and lenders in their evaluation of our performance. Our critical accounting estimates are defined as accounting estimates or assumptions made in accordance with GAAP, which involve a significant level of estimation uncertainty or subjectivity and have had or are reasonably likely to have a material impact on our financial condition or results of operations. Our significant accounting policies, which utilize these critical accounting estimates, are described in Note 2 &#8211; &#8220;Summary of significant accounting policies&#8221; to our consolidated financial statements in Item 15 in this annual report on Form 10-K. Our critical accounting estimates are described below. Recognition of real estate acquired Generally, our acquisitions of real estate or in-substance real estate are accounted for as asset acquisitions and not business combinations because substantially all of the fair value is concentrated in a single identifiable asset or group of similar identifiable assets (i.e., land, buildings, and related intangible assets). The accounting model for asset acquisitions requires that the acquisition consideration (including acquisition costs) be allocated to the individual assets acquired and liabilities assumed on a relative fair value basis. Any excess (deficit) of the consideration transferred relative to the sum of the fair value of the assets acquired and liabilities assumed is allocated to the individual assets and liabilities based on their relative fair values. We assess the relative fair values of tangible and intangible assets and liabilities based on: (i) Available comparable market information; (ii) Estimated replacement costs; or (iii) Discounted cash flow analysis/estimated net operating income and capitalization rates. In certain instances, we may use multiple valuation techniques and estimate fair values based on an average of multiple valuation results. We exercise judgment to determine key assumptions used in each valuation technique. For example, to estimate future cash flows in the discounted cash flow analysis, we are required to use judgment and make a number of assumptions, including those related to projected growth in rental rates and operating expenses, and anticipated trends and market/economic conditions. The use of different assumptions in the discounted cash flow analysis can affect the amount of consideration allocated to the acquired depreciable/amortizable asset, which in turn can impact our net income due to the recognition of the related depreciation/amortization expense in our consolidated statements of operations. Impairment of long-lived assets Impairment of real estate assets classified as held for sale A property is classified as held for sale when all of the accounting criteria for a plan of sale have been met. These criteria are described in &#8220;Investments in real estate&#8221; in Note 2 &#8211; &#8220;Summary of significant accounting policies&#8221; to our consolidated financial statements in Item 15 in this annual report on Form 10-K. Upon classification as held for sale, we recognize an impairment charge, if necessary, to lower the carrying amount of the real estate asset to its estimated fair value less cost to sell. The determination of fair value can involve significant judgments and assumptions. We develop key assumptions based on the following available factors: (i) contractual sales price, (ii) preliminary non-binding letters of intent, or (iii) other available comparable market information. If this information is not available, we use estimated replacement costs or estimated cash flow projections that utilize estimated discount and capitalization rates. These estimates are subject to uncertainty and therefore require significant judgment by us. We review all assets held for sale each reporting period to determine whether the existing carrying amounts are fully recoverable in comparison to their estimated fair values less costs to sell. Subsequently, as a result of our quarterly assessment, we may recognize an incremental impairment charge for any decrease in the asset's fair value less cost to sell. Conversely, we may recognize a gain for a subsequent increase in fair value less cost to sell, limited to the cumulative net loss previously recognized. 127 Impairment of other long-lived assets For each reporting period, we review current activities and changes in the business conditions of all of our long-lived assets, including our rental properties, CIP, land held for development, right-of-use assets related to operating leases in which we are the lessee, and intangibles, to determine the existence of any triggering events or impairment indicators requiring an impairment analysis. If triggering events or impairment indicators are identified, we review an estimate of the future undiscounted cash flows, including, if necessary, a probability-weighted approach if multiple outcomes are under consideration. Long-lived assets to be held and used are individually evaluated for impairment when conditions exist that may indicate that the carrying amount of a long-lived asset may not be recoverable. The carrying amount of a long-lived asset to be held and used is not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the use and eventual disposition of the asset. Triggering events or impairment indicators for long-lived assets to be held and used, including our rental properties, CIP, land held for development, and intangibles, are assessed by project and include significant fluctuations in estimated net operating income, occupancy changes, significant near-term lease expirations, current and historical operating and/or cash flow losses, construction costs, estimated completion dates, rental rates, and other market factors. We assess the expected undiscounted cash flows based upon numerous factors, including, but not limited to, projected rental rates, exit capitalization rates, and construction costs for projects under development, which are based on available market information, current and historical operating results, known trends, current market/ economic conditions that may affect the property, and our assumptions about the use of the asset, including, if necessary, a probability- weighted approach if multiple outcomes are under consideration. Upon determination that an impairment has occurred, a write-down is recognized to reduce the carrying amount to its estimated fair value. If an impairment loss is not required to be recognized, the recognition of depreciation or amortization is adjusted prospectively, as necessary, to reduce the carrying amount of the real estate to its estimated disposition value over the remaining period that the asset is expected to be held and used. We may also adjust depreciation of properties that are expected to be disposed of or redeveloped prior to the end of their useful lives. The evaluation for impairment and calculation of the carrying amount of a long-lived asset to be held and used involves consideration of factors and calculations that are different than the estimate of fair value of assets classified as held for sale. Because of these two different models, it is possible for a long-lived asset previously classified as held and used to require the recognition of an impairment charge upon classification as held for sale. Impairment of non-real estate investments We hold strategic investments in publicly traded companies and privately held entities primarily involved in the life science industry. As a REIT, we generally limit our ownership percentage in the voting stock of each individual entity to less than 10% . Our investments in privately held entities that do not report NAV per share require our evaluation for impairment when changes in these entities' conditions may indicate that an impairment exists. We closely monitor these investments throughout the year for new developments, including operating results, prospects and results of clinical trials, new product initiatives, new collaborative agreements, capital-raising events, and merger and acquisition activities. We evaluate these investees on the basis of a qualitative assessment for indicators of impairment by monitoring the presence of the following triggering events or impairment indicators: (i) a significant deterioration in the earnings performance, credit rating, asset quality, or business prospects of the investee; (ii) a significant adverse change in the regulatory, economic, or technological environment of the investee, (iii) a significant adverse change in the general market condition, including the research and development of technology and products that the investee is bringing or attempting to bring to the market, (iv) significant concerns about the investee's ability to continue as a going concern, and/or (v) a decision by investors to cease providing support to reduce their financial commitment to the investee. If such indicators are present, we are required to estimate the investment's fair value and immediately recognize an impairment loss in an amount equal to the investment's carrying value in excess of its estimated fair value. As of each December 31, 2025 , 2024 , and 2023 , the carrying amounts of our investments in privately held entities that do not report NAV per share accounted for 2% , 2% , and 1% of our total assets and aggregated $536.6 million , $575.2 million , and $542.9 million , respectively. During the years ended December 31, 2025 , 2024 , and 2023 , we recognized impairment charges aggregating 18% , 10% , and 14% , respectively, of the carrying amounts of our investments in privately held entities that do not report NAV. 128 Monitoring of tenant credit quality We monitor, on an ongoing basis, the credit quality and any related material changes of our tenants by (i) monitoring the credit rating of tenants that are rated by a nationally recognized credit rating agency, (ii) reviewing financial statements of the tenants that are publicly available or that are required to be delivered to us pursuant to the applicable lease, (iii) monitoring news reports regarding our tenants and their respective businesses and industries in which they conduct business, and (iv) monitoring the timeliness of lease payments. We have a team of employees who, among them, have an extensive educational background or experience in biology, chemistry, industrial biotechnology, agtech, and the life science industry, as well as knowledge in finance. This team is responsible for timely assessment, monitoring, and communication of our tenants' credit quality and any material changes therein. During the years ended December 31, 2025 , 2024 , and 2023 , specific write-offs and increases to our general allowance balances related to deferred rent balances of tenants recognized in our consolidated statements of operations have not exceeded 0.8% o f our income from rentals for each respective year. For additional information, refer to &#8220; Monitoring of tenant credit quality &#8221; in Note 2 &#8211; &#8220;Summary of significant accounting policies&#8221; to our consolidated financial statement",
+        "charRange": [
+          580052,
+          595052
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 156544,
+            "context": "ance may not adequately cover all potential losses . As a part of Alexandria's risk management program, we maintain all-risk property insurance for our portfolio to mitigate risks posed by extreme weather events, natural disasters (including floods, wildfires, earthquakes, and wind events), and terrorism. Our all- risk property insurance currently provides a $2.0 billion per-occurrence limit for our operating portfolio . However, it may not fully cover all potential losses. There is no assurance that we will maintain current levels of insurance coverage in the future. A significant portion of"
+          },
+          {
+            "charIndex": 159319,
+            "context": "wholly owned properties, including properties partially owned through real estate joint ventures that are managed by our joint venture partners, carry comprehensive liability, fire, extended coverage, and rental loss insurance. For our properties in wildfire- or flood-prone areas, we are evaluating mitigation strategies and potential operational and physical improvements. For example, resilience measures that may be implemented at some of our properties may include: &#8226; Fire-resilience measures. Incorporation of brush management practices into landscape design; selection and positioning of"
+          },
+          {
+            "charIndex": 173704,
+            "context": "depend on PG&E for the delivery of these essential services. PG&E initiated voluntary reorganization proceedings under Chapter 11 of the U.S. Bankruptcy Code in January 2019 in response to potential liabilities arising from a series of catastrophic wildfires that occurred in Northern California in 2017 and 2018. While PG&E emerged from bankruptcy in July 2020, there is no guarantee that PG&E, or other major utilities providers on which we rely in other cities in which we operate, will be able to sustain safe operations and continue to provide consistent utilities services during similar or fu"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 90480,
+            "context": "thods could disrupt our information technology networks, enterprise applications, and related systems, cause a loss of assets or data, give rise to remediation or other expenses, expose us to liability under federal and state laws, and subject us to litigation and investigations, which could result in substantial reputational damage and adversely affect our business and financial condition. &#8226; The enactment of legislation, including the Inflation Reduction Act of 2022 (&#8220;IRA&#8221;), may adversely impact our financial condition and results of operations. We attempt to mitigate the fo"
+          },
+          {
+            "charIndex": 97803,
+            "context": "of the project, which may potentially result in higher construction costs, significant project delays, or lower financial returns. &#8226; We may encounter delays, refusals, unforeseen cost increases, and other impairments resulting from third-party litigation, natural disasters, or severe weather conditions. &#8226; We may encounter delays or refusals in obtaining all necessary zoning, land use, building, occupancy, and other required government permits and authorizations. &#8226; We may be unable to proceed with our development or redevelopment projects as anticipated due to changing zoning,"
+          },
+          {
+            "charIndex": 153863,
+            "context": "turns that were initially anticipated; &#8226; Become engaged in a dispute with our joint venture partner that could lead to the sale of either party's ownership interest or the property at a price below estimated fair market value; &#8226; Initiate litigation or settle disagreements with our partner through litigation or arbitration; and &#8226; Suffer losses or decreased returns as a result of actions taken by our partner with respect to our joint venture investments. We generally seek to maintain control of our partnerships, limited liability companies, and joint venture investments, and st"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 298131,
+            "context": "cations laws, including for example under wiretapping laws, if we share personal information with third parties through various methods, including cookies or via third-party marketing pixels. These practices may be subject to increased challenges by class action plaintiffs. Our inability or failure to obtain consent for these practices could result in adverse consequences, including class action litigation and mass arbitration demands. 46 Our employees and personnel use generative artificial intelligence (&#8220;AI&#8221;) and/or automated decision-making technologies to perform their work, an"
+          },
+          {
+            "charIndex": 298267,
+            "context": "including cookies or via third-party marketing pixels. These practices may be subject to increased challenges by class action plaintiffs. Our inability or failure to obtain consent for these practices could result in adverse consequences, including class action litigation and mass arbitration demands. 46 Our employees and personnel use generative artificial intelligence (&#8220;AI&#8221;) and/or automated decision-making technologies to perform their work, and the disclosure and use of personal information in AI technologies is subject to various privacy laws and other privacy obligations. Go"
+          },
+          {
+            "charIndex": 300183,
+            "context": "federal, state, and local privacy laws could lead to: &#8226; Damage to our reputation; &#8226; Increased remediation and compliance costs; &#8226; Government investigations and enforcement actions; &#8226; Fines, penalties, or litigation, including class actions; &#8226; Challenges in raising capital; and &#8226; Inability to execute on our business strategy, including our growth plans. Changes in the aforementioned laws and obligations may subject us to increased compliance risks and potential liability, and materially and adversely impact our business, financial condition, and results of op"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 54251,
+            "context": "ted States VIE Variable Interest Entity 1 PART I Forward-looking statements Certain information and statements included in this annual report on Form 10-K, including, without limitation, statements containing the words &#8220;forecast,&#8221; &#8220;guidance,&#8221; &#8220;goals,&#8221; &#8220;projects,&#8221; &#8220;estimates,&#8221; &#8220;anticipates,&#8221; &#8220;believes,&#8221; &#8220;expects,&#8221; &#8220;intends,&#8221; &#8220;may,&#8221; &#8220;plans,&#8221; &#8220;seeks,&#8221; &#8220;should,&#8221; &#8220;targets,&#8221; or &#8220;will,&#8221; or the negative of those words or sim"
+          },
+          {
+            "charIndex": 82116,
+            "context": "s writing, change management, interviewing, presentations, productivity, goal setting, delegation, communication, and feedback. Our mentoring program enables employees to partner with senior leaders throughout the organization for support and career guidance. 7 ITEM 1A. RISK FACTORS Overview The following risk factors may adversely affect our overall business, financial condition, results of operations, and cash flows; our ability to make distributions to our stockholders; our access to capital; or the market price of our common stock, as further described in each risk factor below. In additio"
+          },
+          {
+            "charIndex": 137301,
+            "context": "ommon stock may be adversely affected by our financial performance, our ability to meet market expectations, and a wide range of external factors outside of our control. Our actual financial results may differ materially from expectations and/or the guidance we provide. Failure to meet market expectations, including with respect to earnings estimates, funds from operations per share, operating cash flows, and revenues, or the occurrence of a wide range of operational and external factors beyond our control, including, but not limited to, those provided below, has adversely affected, and may in"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 330012,
+            "context": "astrophic declines in the equity capitalization of companies and failures of financial institutions. Although U.S. bank earnings and liquidity have rebounded, the potential of significant future bank credit losses creates uncertainty for the lending outlook. Downgrades of the U.S. federal government's sovereign credit rating and an economic crisis in Europe could negatively impact our liquidity, financial condition, and earnings. Previous U.S. debt ceiling and budget deficit concerns, together with sovereign debt conditions in Europe, have increased the possibility of additional downgrades of"
+          },
+          {
+            "charIndex": 397076,
+            "context": ",463 (1) Represents a retail shopping center with future development opportunity. We originally acquired the property in 2021 with the intent to demolish the retail center and develop it into laboratory space. However, due to the project's financial outlook and the substantial capital that development would have required, we decided to recycle the capital generated by the disposition into our development and redevelopment pipeline. (2) We held a 50% ownership interest at 601, 611, 651, 681, 685, and 701 Gateway Boulevard and a 51% interest at 751 Gateway Boulevard. At the time of sale, these p"
+          },
+          {
+            "charIndex": 397763,
+            "context": "ase term of 5.1 years. Due to macroeconomic conditions in South San Francisco, including significant new supply, lower life science tenant demand, and ongoing challenges leasing both laboratory and office space, we reassessed the project's financial outlook and the substantial capital required to lease vacant space and to complete the redevelopment of 651 Gateway Boulevard and future development opportunities. As a result, we sold the consolidated joint ventures for a gross price of $600.0 million ( $560.4 million net of seller credits and sales costs), of which our share of the price (after s"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 97764,
+            "context": "ties or require us to change the scope of the project, which may potentially result in higher construction costs, significant project delays, or lower financial returns. &#8226; We may encounter delays, refusals, unforeseen cost increases, and other impairments resulting from third-party litigation, natural disasters, or severe weather conditions. &#8226; We may encounter delays or refusals in obtaining all necessary zoning, land use, building, occupancy, and other required government permits and authorizations. &#8226; We may be unable to proceed with our development or redevelopment projects"
+          },
+          {
+            "charIndex": 428175,
+            "context": "million as of December 31, 2025 , depending on any collection of damages and/or the ability to develop the project. We performed a probability-weighted recoverability analysis based on initial estimates of various possible outcomes and determined no impairment was present as of December 31, 2025 . ITEM 4. MINE SAFETY DISCLOSURES Not applicable. 84 PART II ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS, AND ISSUER PURCHASES OF EQUITY SECURITIES Market Information Our common stock is traded on the NYSE under the symbol &#8220;ARE.&#8221; On January 15, 2026 , the last"
+          },
+          {
+            "charIndex": 455939,
+            "context": "projected incremental annual net operating income. 91 Unfavorable macroeconomic and capital market conditions may continue to adversely affect the value of our real estate and non-real estate portfolios, which could result in additional significant impairments and may impact our ability to raise capital efficiently to further our business objectives. The effective execution of our development and redevelopment activities is contingent on access to capital required to fund these projects. Our construction spending in 2025 aggregated $1.44 billion . We expect funding for construction spending i"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 135721,
+            "context": "payments; &#8226; The availability of financing; &#8226; Changes to the financial and banking industries; &#8226; Changes in interest rate levels; &#8226; Vacancies at our properties and our ability to re-lease space; &#8226; Changes in tax or other regulatory laws; &#8226; The costs of compliance with government regulation; &#8226; The lack of liquidity of real estate investments; &#8226; Increases in operating costs; and &#8226; Increases in costs to address environmental impacts related to climate change or natural disasters. 17 In addition, if a lease at a property is not a triple net leas"
+          },
+          {
+            "charIndex": 140933,
+            "context": "ntelligence tools and large language models and the conclusions that these tools and models may draw about our business and prospects in connection with the dissemination of negative opinions, characterizations, or disinformation; &#8226; Government regulatory action and changes in tax laws; &#8226; Fiscal policies or inaction at the U.S. federal government level that may lead to federal government shutdowns or negative impacts on the U.S. economy; &#8226; Negative developments in the operating results or financial condition of tenants, including, but not limited to, their ability to pay rent;"
+          },
+          {
+            "charIndex": 141292,
+            "context": "level that may lead to federal government shutdowns or negative impacts on the U.S. economy; &#8226; Negative developments in the operating results or financial condition of tenants, including, but not limited to, their ability to pay rent; &#8226; Regulatory approval and market acceptance of the products and technologies of tenants; 18 &#8226; Liability or contract claims by or against tenants; &#8226; Environmental laws affecting our properties; &#8226; Changes in rules or practices governing our financial reporting; &#8226; Other legal and operational matters, including REIT qualification"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 555121,
+            "context": "noncontrolling interests (951,780) (308,636) (643,144) Proceeds from issuance of common stock — 27,103 (27,103) Repurchase of common stock (208,187) (50,107) (158,080) Dividends on common stock (911,450) (898,557) (12,893) Taxes paid related to net settlement of equity awards (24,409) (62,413) 38,004 Net cash used in financing activities $ (1,783,794) $ (93,315) $ (1,690,479) 119 Sources of capital Net cash provided by operating activities after dividends We expect to retain $475 million to $575 million of net cash flows from operating activities after payment of common stock dividends and di"
+          },
+          {
+            "charIndex": 701600,
+            "context": "43,268 ) ( 243,268 ) ( 37,072 ) Transfer of noncontrolling interest — — — — — ( 7,766 ) ( 7,766 ) 7,766 Issuance of common stock 699,274 7 103,839 — — — 103,846 — Issuance pursuant to stock plan 798,729 8 156,257 — — — 156,265 — Taxes related to net settlement of equity awards ( 335,799 ) ( 3 ) ( 43,595 ) — — — ( 43,598 ) — Dividends declared on common stock ( $ 4.96 per share) — — — ( 860,176 ) — — ( 860,176 ) — Reclassification of distributions in excess of earnings — — ( 756,537 ) 756,537 — — — — Balance as of December 31, 2023 171,910,599 1,719 18,485,352 — ( 15,896 ) 4,135,338 22,606,513"
+          },
+          {
+            "charIndex": 702568,
+            "context": "( 3,637 ) ( 3,637 ) 3,637 Reallocation of capital to joint venture partner — — ( 30,185 ) — — 30,185 — — Issuance of common stock 229,558 2 27,101 — — — 27,103 — Issuance pursuant to stock plan 951,195 10 129,288 — — — 129,298 — Taxes related to net settlement of equity awards ( 391,633 ) ( 4 ) ( 44,147 ) — — — ( 44,151 ) — Repurchase of common stock ( 496,276 ) ( 5 ) ( 50,102 ) — — — ( 50,107 ) — Dividends declared on common stock ( $ 5.19 per share) — — — ( 906,996 ) — — ( 906,996 ) — Reclassification of distributions in excess of earnings — — ( 584,047 ) 584,047 — — — — Balance as of Decemb"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 73364,
+            "context": "be liable for contamination resulting from the presence or discharge of hazardous or toxic substances at that property and may be required to investigate and remediate contamination located on or emanating from that property. Such laws often impose liability without regard to whether the owner or operator knew of, or was responsible for, the presence of the contaminants, and the liability may be joint and several. Previous owners may have used some of our properties for industrial and other purposes, so those properties may contain some level of environmental contamination. The presence of co"
+          },
+          {
+            "charIndex": 73497,
+            "context": "quired to investigate and remediate contamination located on or emanating from that property. Such laws often impose liability without regard to whether the owner or operator knew of, or was responsible for, the presence of the contaminants, and the liability may be joint and several. Previous owners may have used some of our properties for industrial and other purposes, so those properties may contain some level of environmental contamination. The presence of contamination or the failure to remediate contamination at our properties may expose us to third-party liability or may materially adve"
+          },
+          {
+            "charIndex": 73815,
+            "context": "me of our properties for industrial and other purposes, so those properties may contain some level of environmental contamination. The presence of contamination or the failure to remediate contamination at our properties may expose us to third-party liability or may materially adversely affect our ability to sell, lease, or develop the real estate or to borrow capital using the real estate as collateral. State regulations, such as California's Connelly Act and Proposition 65, among others, require certain building owners and operators to disclose information on the presence of asbestos or othe"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 662784000,
+          "accn": "0001035443-26-000066",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-03",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 1333806000,
+          "accn": "0001035443-26-000066",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-03"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 671022000,
+          "accn": "0001035443-26-000042",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-27",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 3026556000,
+          "accn": "0001035443-26-000013",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-01-26",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 751944000,
+          "accn": "0001035443-25-000198",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-27",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 2272142000,
+          "accn": "0001035443-25-000198",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-27"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 762040000,
+          "accn": "0001035443-26-000066",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-03",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 762040000,
+          "accn": "0001035443-25-000179",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-21"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": -0.43,
+          "accn": "0001035443-26-000066",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-03",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 1.68,
+          "accn": "0001035443-26-000066",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-03"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 2.1,
+          "accn": "0001035443-26-000042",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-27",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": -8.44,
+          "accn": "0001035443-26-000013",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-01-26",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": -1.38,
+          "accn": "0001035443-25-000198",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-27",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": -2.09,
+          "accn": "0001035443-25-000198",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-27"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": -0.64,
+          "accn": "0001035443-26-000066",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-03",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": -0.64,
+          "accn": "0001035443-25-000179",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-21"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": -72783000,
+          "accn": "0001035443-26-000066",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-03",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 288870000,
+          "accn": "0001035443-26-000066",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-03"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 361653000,
+          "accn": "0001035443-26-000042",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-27",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": -1429570000,
+          "accn": "0001035443-26-000013",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-01-26",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": -232754000,
+          "accn": "0001035443-25-000198",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-27",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": -348695000,
+          "accn": "0001035443-25-000198",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-27"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": -107002000,
+          "accn": "0001035443-26-000066",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-03",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": -107002000,
+          "accn": "0001035443-25-000179",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-21"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": null,
+      "points": []
+    }
+  },
+  "companyMetrics": {
+    "ticker": "ARE",
+    "name": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
+    "sector": "Real Estate Investment Trusts",
+    "pe": null,
+    "pb": 0.53,
+    "ret3m": 6.0772,
+    "ret6m": -10.1635,
+    "roe": -9.19,
+    "debtEquity": 0.994,
+    "sentiment": 0.167,
+    "analyst": 44,
+    "beta": 1.1712337
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "Return Of The Bad News Bulls",
+        "url": "https://finnhub.io/api/news?id=ae46b1678dbbf20405c44a2b825e58d6bb950b27189542f45a0c42b0fe206f01",
+        "source": "SeekingAlpha",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "How To Lose Money Investing In REITs",
+        "url": "https://finnhub.io/api/news?id=edf5a2c8f6655f011405b0d84cb5932adae97827ced29e3067cd68bd2839dc87",
+        "source": "SeekingAlpha",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "BNP Paribas Maintains Underperform on Alexandria Real Estate, Raises Price Target to $48",
+        "url": "https://finnhub.io/api/news?id=7132605f6e22937f88fa63fe559dd8afbc2b5199a69c9ea928fda3b4d024136a",
+        "source": "Benzinga",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "Evercore ISI Group Maintains Outperform on Alexandria Real Estate, Lowers Price Target to $59",
+        "url": "https://finnhub.io/api/news?id=9314dcb013bc4dd05adbf55eb1eb63c7ae74d95364c2483d6c8660e77d60a942",
+        "source": "Benzinga",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "Cantor Fitzgerald Maintains Neutral on Alexandria Real Estate, Raises Price Target to $52",
+        "url": "https://finnhub.io/api/news?id=3b5ece9cb91d699eb3835d47ceb2934a11eed6dd710d9933d5be57af50f09cb5",
+        "source": "Benzinga",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "Healthpeak Properties: A Well-Covered 5.6% Yield, But Life Science Recovery Remains Key",
+        "url": "https://finnhub.io/api/news?id=f57455dbb935da2b3f4a83b9832a95e14c1f942c3de5ba7b2ea5680a4c7a9ae0",
+        "source": "SeekingAlpha",
+        "date": "2026-08-05"
+      }
+    ],
+    "cachedAt": "2026-08-11T05:40:17.170Z"
+  }
+}

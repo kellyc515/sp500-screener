@@ -1,0 +1,691 @@
+{
+  "ticker": "UHS",
+  "entityName": "UNIVERSAL HEALTH SERVICES INC",
+  "cik": "0000352915",
+  "generatedAt": "2026-08-11T10:05:22.682Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-08-07",
+        "reportDate": "2026-06-30",
+        "accessionNumber": "0001193125-26-340278",
+        "primaryDocument": "uhs-20260630.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/352915/000119312526340278/uhs-20260630.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/352915/000119312526340278/"
+      },
+      "textLength": 372918,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations-Forward Looking Statements and Risk Factors, as included herein. Those factors may cause our actual results to differ materially from any of our forward-looking statements. Forward-looking statements should not be read as a guarantee of future performance or results, and will not necessarily be accurate indications of the times at, or by which, such performance or results will be achieved. Forward-looking information is based on information available at the time and/or our good faith belief with respect to future events, and is subject to risks and uncertainties that are difficult to predict and many of which are outside of our control. Many factors, including those set forth herein in Item 1A. Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2025, and other important factors disclosed in this Quarterly Report, and from time to time in our other filings with the SEC, could cause actual performance or results to differ materially from those expressed in the statements. Such factors include, among other things, the following: &#8226; as discussed below in Sources of Revenue, we receive revenues from various state and county-based programs, including Medicaid in all the states in which we operate. We receive annual Medicaid revenues of approximately $100 million, or greater, from each of California, Texas, Nevada, Florida, Washington, D.C., Illinois, Pennsylvania, Kentucky, Mississippi, Virginia, Michigan, Massachusetts, Tennessee, Arizona, Ohio, and Washington. Most of these programs are approved on a year-to-year basis and there is no assurance that these revenues will continue at their current rates or at all. We are therefore particularly sensitive to potential reductions in Medicaid and other state-based revenue programs as well as regulatory, economic, environmental and competitive changes in those states; &#8226; the One Big Beautiful Bill Act, which became law on July 4, 2025, attaches work and community service requirements to eligibility for Medicaid benefits that will have the effect of limiting Medicaid enrollment and expenditure. The law also places limits on provider fees used to increase federal Medicaid funding to states. The law prohibits states not previously having expanded Medicaid eligibility to 138% of federal poverty level from increasing the rate of current provider fees which fund certain state supplemental payments or increasing the base of the fee to a class or items of services that the fee did not previously cover. That current provider fee threshold will remain at 6%. For states having expanded Medicaid eligibility under the law, the provider fee threshold will be reduced by 0.5% annually between federal fiscal years 2028 and 2032 with the resulting threshold ultimately becoming 3.5%. Under current law, and based on our current expectations, we estimate that, commencing with the 2028 state fiscal years, our aggregate annual net benefit will be reduced, on an annually increasing and relatively pro rata basis, by approximately $500 million by 2032. The law also eliminated certain insurance exchange premium tax credits beyond 2025 and exchange enrollment has already been adversely impacted. On January 8, 2026, the U.S. House of Representatives passed H.R.1834 to extend for three years the enhanced premium tax credits (\"EPTCs\") that expired on December 31, 2025. However, no law extending the EPTCs has been enacted, and there can be no assurance regarding the timing or outcome of future legislative action. All of these factors could have a material unfavorable impact on our results of operations and may be expected to reduce our revenue and likely increase the level of uncompensated care provided by our facilities; &#8226; there have been additional changes in the law that have resulted in and that are likely to result in major changes in the health care delivery system on a national or state level, including changes in the structure and administration of, and funding for, federal and state agencies and programs. For example, Congress has reduced to $0 the penalty for failing to maintain health coverage that was part of the original Patient Protection and Affordable Care Act, as amended by the Health and Education Reconciliation Act (collectively, the &#8220;ACA\") as part of the Tax Cuts and Jobs Act. The Biden administration had issued executive orders implementing a special enrollment period permitting individuals to enroll in health plans outside of the annual open enrollment period and reexamining policies that may undermine the ACA or the Medicaid program. The Inflation Reduction Act of 2022 (&#8220;IRA&#8221;) enables the Centers for Medicare and Medicaid Services (\"CMS\") to negotiate prices for certain single-source drugs reimbursed under Medicare Part B and Part D. The American Rescue Plan Act's expansion of subsidies to purchase coverage through an ACA exchange, which the IRA continued through 2025, has increased exchange enrollment, but along with the EPTCs, these enhanced subsidies expired on December 31, 2025; &#8226; there have been numerous political and legal efforts to expand, repeal, replace or modify the ACA since its enactment, some of which have been successful, in part, in modifying the ACA, as well as court challenges to the constitutionality of the law. The U.S. Supreme Court held in California v. Texas that the plaintiffs lacked standing to challenge the law's requirement to obtain minimum essential health insurance coverage, or the individual mandate. The Court dismissed the case without specifically ruling on the constitutionality of the ACA. ACA provisions continue to be subject to court challenges such as the June 2025 Kennedy v. Braidwood Management Supreme Court decision, which opined in favor of ACA HIV preventive care coverage and upheld the ACA's requirement that most private insurers and Medicaid expansion programs cover preventive services recommended by the United States Preventive Services Task Force, absent cost sharing. The impact of any future efforts to challenge, replace or replace the ACA or expand or substantially amend its provisions is unknown. See below in Sources of Revenues and Health Care Reform for additional disclosure;\n29\n\n\n&#8226; additional possible unfavorable changes in the levels and terms of reimbursement for our charges by third party payers or government based payers, including Medicare or Medicaid in the United States, and government based payers in the United Kingdom; &#8226; the healthcare industry is labor intensive and salaries, wages and benefits are subject to inflationary pressures, as are supplies expense and other operating expenses. In the past, staffing shortages have, at times, required us to hire expensive temporary personnel and/or enhance wages and benefits to recruit and retain nurses and other clinical staff and support personnel. At certain facilities, particularly within our behavioral health care segment, there have been occasions when we were unable to fill all vacant positions and, consequently, we were required to limit patient volumes. Additionally, effective June 1, 2026, California implemented staffing standards specific to acute psychiatric hospitals and requirements to determine appropriate staffing based on patient acuity and care needs. This has further increased our costs and may limit our revenue if we are required to limit the number of patients at our California facilities; &#8226; we have experienced inflationary pressures, primarily in personnel costs, although those pressures have moderated more recently. The extent of any future impacts from inflation on our business and our results of operations will be dependent upon how long the elevated inflation levels persist and the extent to which the rate of inflation further increases, if at all, neither of which we are able to predict. If elevated levels of inflation were to persist or if the rate of inflation were to accelerate, our expenses could increase faster than anticipated and we may utilize our capital resources sooner than expected. Further, given the complexities of the reimbursement landscape in which we operate, our ability to pass on increased costs associated with providing healthcare to Medicare and Medicaid patients is limited due to various federal, state and local laws, which in certain circumstances, limit our ability to increase prices; &#8226; in our acute care segment, we have experienced a significant increase in hospital based physician related expenses, especially in the areas of emergency room care, anesthesiology and radiology. We have implemented various initiatives to mitigate the increased expense, to the degree possible, which has moderated the rate of increase. However, significant increases in these physician related expenses could have a material unfavorable impact on our future results of operations; &#8226; the increase in interest rates during the past few years has increased our interest expense significantly, increasing our expenses and reducing our free cash flow and our ability to access the capital markets on favorable terms. As such, the effects of increased borrowing rates have adversely impacted our results of operations, financial condition and cash flows. We cannot predict future changes to interest rates, however, significant increases in our borrowing rates could have a material unfavorable impact on our future results of operations. Our $700 million, 1.65% senior notes (\"2026 Notes\") mature on September 1, 2026. Market interest rates have increased significantly since the 2026 Notes were issued in 2021. We expect that we will refinance the 2026 Notes at significantly higher interest rates which will significantly increase our interest expense thereby decreasing our net income attributable to UHS; &#8226; significant tariffs or other restrictions, if imposed on our imported pharmaceutical ingredients, medical devices, medical equipment and their ingredients and components, or otherwise on our suppliers, could escalate costs of medications, medical devices and medical equipment and disrupt our supply chains. While we continue to evaluate the potential impact of new tariffs on our business, given the uncertainty regarding the scope and duration of any new tariffs, as well as the potential for additional tariffs or trade barriers by the U.S. and the impacted foreign countries, we can provide no assurance that any strategies we implement to mitigate the impact of such tariffs or other trade actions will be successful. Therefore, changes in laws or policies governing the terms of foreign trade, and in particular, increased trade restrictions, tariffs or taxes on imports from where our products or materials are made (either directly or through our suppliers) could have an impact on our competitive position, business operations and financial results; &#8226; as of early August 2026, Congress has enacted appropriations funding most federal agencies for fiscal year 2026. In the past several years political disputes concerning authorization of a federal budget have led to shutdown of substantial portions of the federal government and other federal budget authorization delays have occurred. Federal budget delays and federal government shutdowns are unpredictable and may occur in the future. We cannot predict whether or not there will be future appropriations legislation avoiding a federal government shutdown, however, our operating cash flows and results of operations could be materially unfavorably impacted by a federal government shutdown; &#8226; the Consolidated Appropriations Act of 2021 (the \"CAA\"), included provisions aimed at preventing or limiting patient balance billing in certain circumstances. The CAA addresses surprise medical bills stemming from emergency services, out-of-network ancillary providers at in-network facilities, and air ambulance carriers. The CAA prohibits surprise billing when out-of-network emergency services or out-of-network services at an in-network facility are provided, unless informed consent is received. In these circumstances providers are prohibited from billing the patient for any amounts that exceed in-network cost-sharing requirements. HHS, the Department of Labor and the Department of the Treasury have issued rules to implement the CAA. The rules have limited the ability of our hospital-based physicians to receive payments for services at usually higher out-of-network rates in certain circumstances, and, as a result, have caused us to increase subsidies to these physicians or to replace their services at a higher cost;\n30\n\n\n&#8226; in June 2024, the U.S. Supreme Court issued its decision in Loper Bright Enters. v. Raimondo and Relentless, Inc. v. Department of Commerce , which modified the regulatory interpretation standard established 40 years ago by Chevron v. National Resources Defense Council . Chevron doctrine generally required courts to defer to federal agencies in their interpretation of federal statutes when a statute was silent or ambiguous with respect to a specific issue. In Loper Bright , the Supreme Court held that courts are no longer required to grant such deference, though they may consider an agency's statutory interpretation. As it is highly regulated, the health care industry could be significantly impacted by the Loper Bright decision, particularly in the areas of Medicare reimbursement, decision making by the Food & Drug Administration and health care fraud and abuse compliance, where parties may no longer be able to rely on federal agencies' policies, rules and guidance; &#8226; our ability to enter into managed care provider agreements on acceptable terms and the ability of our competitors to do the same; &#8226; the impact of the increasing shift of care from inpatient settings to lower cost outpatient settings and controls designed to reduce inpatient services or payments for inpatient services which payers believe could have been performed on an outpatient or outside facility basis; &#8226; our ability to achieve operating and financial targets, develop and execute plans to offset to the extent possible impacts from the One Big Beautiful Bill Act, the expiration of EPTCs, other legal and regulatory changes, and tariffs, attain expected levels of patient volumes and revenues, and control the costs of providing services; &#8226; the outcome of known and unknown litigation, government investigations, civil investigative demands, inquiries, false claims act allegations, and liabilities and other claims asserted against us and other matters, and the effects of adverse publicity relating to such matters, as disclosed in Note 6 to the Condensed Consolidated Financial Statements - Commitments and Contingencies, including, but not limited to, the jury verdict returned against Cumberland Hospital for Children and Adolescents located in",
+        "charRange": [
+          159573,
+          174573
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "risk factors contained in our Annual Report on Form 10-K, our Quarterly Reports on Form 10-Q and our other filings made with the Securities and Exchange Commission. The success of our acquisition of Talkspace, Inc. is subject to numerous risks and uncertainties. On March 9, 2026, we announced that we entered into a definitive agreement to acquire Talkspace, Inc. (\"Talkspace\") for $5.25 per share, or approximately $835 million in the aggregate. The transaction was approved by Talkspace's stockholders during the second quarter of 2026. The transaction is expected to close during the third quarter of 2026 and is subject to satisfaction of regulatory approvals and other customary closing conditions. Talkspace is a virtual behavioral healthcare company, with a network of approximately 6,000 licensed professionals that serve all 50 states, Washington, D.C., and Puerto Rico. We intend to finance the acquisition of Talkspace with additional borrowings pursuant to our Credit Agreement, as amended in April, 2026, as discussed in Note 4 to Condensed Consolidated Financial Statements &#8211; Treasury - Credit Facilities and Outstanding Debt Securities. The acquisition is subject to numerous risks and uncertainties including the occurrence of any event, change or other circumstances that could give rise to the termination of the merger agreement or the failure to satisfy the closing conditions; the possibility that the consummation of the proposed acquisition is delayed or does not occur; uncertainty as to whether the parties will be able to complete the merger on the terms set forth in the merger agreement; uncertainty regarding the timing of the receipt of required regulatory approvals for the merger and the possibility that the parties may be required to accept conditions that could reduce or eliminate the anticipated benefits of the merger as a condition to obtaining the outcome of any legal proceedings that may be instituted against the parties or others following announcement of the transactions contemplated by the merger agreement; challenges, disruptions and costs of closing, integrating the business and achieving anticipated synergies, or that such synergies will take longer to realize than expected; failure to retain key employees of Talkspace during the period prior to closing or thereafter; failure to retain a significant portion of Talkspace's providers or relationships with payors, risks that the merger and other transactions contemplated by the merger agreement disrupt current plans and operations that may harm the parties' businesses or divert management's attention from the parties' ongoing business operations; and the amount of any costs, fees, expenses, impairments and charges related to the merger including costs and use of capital related to financing the merger. Our performance depends on our ability to recruit and retain quality physicians. Typically, physicians are responsible for making hospital admissions decisions and for directing the course of patient treatment. As a result, the success and competitive advantage of our hospitals depends, in part, on the number and quality of the physicians on the medical staffs of our hospitals, the admitting practices of those physicians and our maintenance of good relations with those physicians. Physicians generally are not employees of our hospitals, and, in a number of our markets, physicians have admitting privileges at other hospitals in addition to our hospitals. They may terminate their affiliation with us at any time. If we are unable to maintain high ethical and professional standards, adequate support personnel and technologically advanced equipment and facilities that meet the needs of those physicians, they may be discouraged from referring patients to our facilities and our results of operations may decline. It may become difficult for us to attract and retain an adequate number of physicians to practice in certain communities in which our hospitals are located. Our failure to recruit physicians to these communities or the loss of physicians in these communities could make it more difficult to attract patients to our hospitals and thereby may have a material adverse effect on our business, financial condition and results of operations. The loss of one or more of these physicians, even if temporary, could cause a material reduction in our revenues, which could take significant time to replace given the difficulty and cost associated with recruiting and retaining physicians. In connection with the operations at our George Washington University Hospital and Cedar Hill Regional Medical Center located in Washington, D. C. (the &#8220;District Hospitals&#8221;), in late May 2026, we finalized negotiations and executed agreements with The George Washington University (the &#8220;University&#8221;) and the faculty medical group, The Medical Faculty Associates, Inc. (&#8220;MFA&#8221;), to change the arrangement among the parties. On August 1, 2026, Foggy Bottom Physicians Group d/b/a/ Capital Medical Group (&#8220;CMG&#8221;) began operations as a physician led non-profit entity employing all transitioning former MFA physicians, advanced practice providers and staff. A wholly-owned subsidiary of ours is the entity's sole member. The District of Columbia's Office of the Attorney General\n67\n\n\n(&#8220;OAG&#8221;) is reviewing the transaction under their assertion of authority pursuant to the Healthcare Equity Conversion Act. Although we dispute the OAG's jurisdiction over this matter, we are cooperating with the OAG as they conduct their review which is expected to be completed by the end of the third quarter of 2026. Once the OAG's review has been completed, the OAG may approve the transaction as currently structured, reject the transaction, or approve the transaction subject to certain conditions. Although the OAG's review is ongoing, we have assumed management and financial responsibility for the operations of CMG effective as of August 1, 2026. If the transaction is not approved, or approved subject to conditions that are not acceptable to us, the transaction may have to be unwound. In addition, since not all of the physicians affiliated with the MFA joined CMG, there is a risk that some physicians who have traditionally treated their patients at the District Hospitals may choose to not treat their patients at the District Hospitals. If as a result of the OAG's review the transaction is ultimately unwound, or significantly changed from its current form, and/or the anticipated benefits of the transition are not realized, the operations and financial performance of the District Hospitals could be materially adversely impacted which could potentially result in a material adverse effect on our consolidated results of operations. Item 2. Unregistered Sales of Equi ty Securities and Use of Proceeds As of December 31, 2025, we had an aggregate available repurchase authorization of $1.4 billion pursuant to our stock repurchase program. Pursuant to this program, shares of our Class B Common Stock may be repurchased, from time to time as conditions allow, on the open market or in negotiated private transactions. There is no expiration date for our stock repurchase program. As reflected below, during the three-month period ended June 30, 2026, we have repurchased approximately 1,890,298 shares at an aggregate cost of approximately $320.3 million (average price of approximately $169.43 per share) pursuant to the terms of our stock repurchase program. In addition, during the three-month period ended June 30, 2026, 2,800 shares were repurchased in connection with income tax withholding obligations resulting from stock-based compensation programs. During the period of April 1, 2026 through June 30, 2026, we repurchased the following shares:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdditional Dollars Authorized For Repurchase (in thousands)\n\n\nTotal number of shares purchased\n\n\nTotal number of shares cancelled\n\n\nAverage price paid per share for forfeited restricted shares\n\n\nTotal Number of shares purchased as part of publicly announced programs\n\n\n\nAverage price paid per share for shares purchased as part of publicly announced program\n\n\nAggregate purchase price paid for shares purchased as part of publicly announced program (in thousands)\n\n\nMaximum number of shares that may yet be purchased under the program\n\n\nMaximum number of dollars that may yet be purchased under the program (in thousands) (a.)\n\n\n\nApril, 2026\n\n$\n-\n\n\n\n251,728\n\n\n\n—\n\n\n$\n0.01\n\n\n\n250,000\n\n\n\n$\n168.14\n\n\n$\n42,036\n\n\n\n—\n\n\n$\n1,255,783\n\n\n\nMay, 2026\n\n$\n-\n\n\n\n1,641,022\n\n\n\n—\n\n\n$\n0.01\n\n\n\n1,640,298\n\n\n\n$\n169.62\n\n\n$\n278,233\n\n\n\n—\n\n\n$\n977,550\n\n\n\nJune, 2026\n\n$\n-\n\n\n\n348\n\n\n\n—\n\n\n$\n0.01\n\n\n\n—\n\n\n\n\n\n\n\n\n\n\n—\n\n\n$\n977,550\n\n\n\nTotal April through June, 2026\n\n$\n-\n\n\n\n1,893,098\n\n\n\n—\n\n\n$\n0.01\n\n\n\n1,890,298\n\n\n—\n\n\n169.43\n\n\n$\n320,269\n\n\n\n\n\n\n\n\nDividends During the quarter ended June 30, 2026, we declared and paid dividends of $.20 per share. Dividend equivalents are accrued on unvested restricted stock units and will be paid upon vesting of the restricted stock unit. Item 5. Other Information (c) None of the Company's directors or officers adopted , modified or terminated a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement during the Company's quarter ended June 30, 2026, as such terms are defined under Item 408(a) of Regulation S-K.\n68\n\n\nItem 6. Exhibits\n\n\n\n\n\n\n4.1\nFourth Supplemental Indenture, dated as of April 22, 2026, among the Company, the Subsidiary Guarantors party thereto, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as trustee, to the indenture, dated as of September 21, 2020, governing the 2030 Notes, previously filed as Exhibit 4.1 to the Company's Current Report on Form 8-K dated April 24, 2026, is incorporated herein by reference.\n\n\n4.2\nThird Supplemental Indenture, dated as of April 22, 2026, among the Company, the Subsidiary Guarantors party thereto, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as trustee, to the indenture, dated as of August 24, 2021, governing the 2026 Notes and the 2032 Notes, previously filed as Exhibit 4.2 to the Company's Current Report on Form 8-K dated April 24, 2026, is incorporated herein by reference.\n\n\n4.3\nSecond Supplemental Indenture, dated as of April 22, 2026, among the Company, the Subsidiary Guarantors party thereto, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as trustee, to the indenture, dated as of September 26, 2024, governing the 2029 Notes and the 2034 Notes, previously filed as Exhibit 4.3 to the Company's Current Report on Form 8-K dated April 24, 2026, is incorporated herein by reference.\n\n\n10.1\nEleventh Amendment and Increased Facility Activation Notice dated as of April 22, 2026, to Credit Agreement, dated as of November 15, 2010 and as amended and restated as of September 21, 2012, August 7, 2014, October 23, 2018, August 21, 2021, September 10, 2021, June 23, 2022 and September 26, 2024, among the Company, JP Morgan Chase Bank, N.A., as administrative agent and other financial institutions or entities from time to time parties thereto, including the amendment and restatement thereof, effective as of April 22, 2026, attached as Exhibit A thereto and referred to herein as the Senior Secured Credit Facility, previously filed as Exhibit 10.1 to the Company's Current Report on Form 8-K dated April 24, 2026, is incorporated herein by reference.\n\n\n10.2\nTwelfth Amendment and Increased Facility Activation Notice dated as of July 20, 2026, to Credit Agreement, dated as of November 15, 2010 and as amended and restated as of September 21, 2012, August 7, 2014, October 23, 2018, August 21, 2021, September 10, 2021, June 23, 2022, September 26, 2024 and April 22, 2026, among the Company, JP Morgan Chase Bank, N.A., as administrative agent and other financial institutions or entities from time to time parties thereto, including the amendment and restatement thereof, effective as of July 20, 2026, attached as Exhibit A thereto and referred to herein as the Senior Secured Credit Facility, previously filed as Exhibit 10.1 to the Company's Current Report on Form 8-K dated July 21, 2026, is incorporated herein by reference.\n\n\n22.1\nList of Guarantor Subsidiaries and Issuers of Guaranteed Securities and Affiliates Whose Securities Collateralize Securities of the Registrant.\n\n\n31.1\nCertification of the Company's Chief Executive Officer pursuant to Rule 13a-14(a)/15d-14(a) under the Securities Exchange Act of 1934.\n\n\n31.2\nCertification of the Company's Chief Financial Officer pursuant to Rule 13a-14(a)/15d-14(a) under the Securities Exchange Act of 1934.\n\n\n32.1\nCertification of the Company's Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.\n\n\n32.2\nCertification of the Company's Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.\n\n\n101.INS\nInline XBRL Instance Document &#8211;the instance document does not appear in the Interactive Data file because its XBRL tags are embedded within the Inline XBRL document.\n\n\n101.SCH\nInline XBRL Taxonomy Extension Schema Document\n\n\n104\nThe cover page from the Company's Quarterly Report on Form 10-Q for the quarter ended June 30, 2026, has been formatted in Inline XBRL.\n\n\n\n\n\n\n69\n\n\nUNIVERSAL HEALTH SERVICES, INC. AND SUBSIDIARIES Signa tures Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.\n\n\n\n\n\n\n\n\n\nUniversal Health Services, Inc.\n\n\n\n\n(Registrant)\n\n\n\n\n\n\n\nDate: August 7, 2026\n\n/s/ Marc D . Miller\n\n\n\n\nMarc D. Miller,\n\n\n\n\nPresident and Chief Executive Officer\n\n\n\n\n(Principal Executive Officer)\n\n\n\n\n\n\n\n\n\n/s/ Steve Filton\n\n\n\n\nSteve Filton,\n\n\n\n\nExecutive Vice President and\n\n\n\n\nChief Financial Officer\n\n\n\n\n(Principal Financial Officer)\n\n\n70",
+        "charRange": [
+          358804,
+          372918
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 179283,
+            "context": "cted acquisition benefits from certain of our prior or future acquisitions could result in impairment charges for goodwill and purchased intangibles; &#8226; the impact of severe weather conditions, including the effects of hurricanes, flash floods, wildfires and climate change; &#8226; our ability to continue to obtain capital on acceptable terms, including borrowed funds, to fund the future growth of our business; &#8226; our inpatient acute care and behavioral health care facilities may experience decreasing admission and length of stay trends; &#8226; our financial statements reflect large"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 106150,
+            "context": "egal Proceedings, Cumberland Hospital for Children and Adolescents (&#8220;Cumberland&#8221;), an indirect subsidiary of the Company, is a defendant in multi-plaintiff lawsuits filed in the Circuit Court for Richmond, Virginia (the &#8220;Cumberland Litigation&#8221;), relating to allegations of inappropriate sexual contact during medical examinations by Dr. Daniel Davidow, an independent contractor and the former medical director for Cumberland. The Company and UHS of Delaware, Inc., our administrative services subsidiary (&#8220;UHS Delaware&#8221;), were also named as co-defendants in the C"
+          },
+          {
+            "charIndex": 106510,
+            "context": "Daniel Davidow, an independent contractor and the former medical director for Cumberland. The Company and UHS of Delaware, Inc., our administrative services subsidiary (&#8220;UHS Delaware&#8221;), were also named as co-defendants in the Cumberland Litigation. Plaintiffs have asserted claims of negligence, assault and battery (against Dr. Davidow), false imprisonment, violations of the Virginia Consumer Protection\n16\n\n\nAct (&#8220;VCPA&#8221;), and vicarious liability for Dr. Davidow's conduct against Cumberland, the Company, and UHS Delaware. The Company and UHS Delaware were dismissed from"
+          },
+          {
+            "charIndex": 108109,
+            "context": "t prejudice as premature because the judgments in favor of the first three plaintiffs are neither final nor enforceable at this time. There are approximatel y 43 additiona l plaintiffs making similar allegations with claims pending in the Cumberland Litigation. In April 2026, the Court entered a Scheduling Order setting a consolidated three-week jury trial for three plaintiffs to begin in August 2026. The Company has been dismissed without prejudice from the trial scheduled for August 2026 and most of the remaining cases. UHS Delaware remains a defendant with respect to all remaining plaintiff"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 94191,
+            "context": "$ 4.8 billion and $ 4.6 billion, respectively. The fair value of our debt was computed based upon quotes received from financial institutions. We consider these to be &#8220;level 2&#8221; in the fair value hierarchy as outlined in the authoritative guidance for disclosures in connection with debt instruments. The aggregate scheduled maturities of our $ 4.9 billion total debt outstanding as of June 30, 2026, are as follows: (i) $ 772 million due during the next 12 months; (ii) $ 79 million due during months 13 to 24; (iii) $ 87 million due during months 25 to 36; (iv) $ 1.98 billion due during"
+          },
+          {
+            "charIndex": 96893,
+            "context": "ur commercial insurance subsidiary. The fair value of our restricted cash was computed based upon quotes received from financial institutions. We consider these to be &#8220;level 1&#8221; in the fair value hierarchy as outlined in the authoritative guidance for disclosures in connection with financial securities.\n14\n\n\n(5) Fair Value Measurement Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on"
+          },
+          {
+            "charIndex": 152981,
+            "context": "In September 2025, the FASB issued ASU 2025-06, &#8220;Intangibles—Goodwill and Other— Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software&#8221;. ASU 2025-06 intends to modernize the accounting guidance for the costs to develop software for internal use. The new guidance amends the existing standard that refers to various stages of a software development project to align better with current software development methods, such as agile programming. The ASU is effective for fiscal years beginning after December 15, 2027, including interim pe"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 100167,
+            "context": "xchange rates and spot rates at the reporting date. The fair value of the non-marketable securities that we hold are accounted for under the measurement alternative. Under the measurement alternative, the carrying value is measured at cost, less any impairment, plus or minus changes resulting from observable price changes in orderly transactions for identical or similar investments of the same issuer. Adjustments are determined primarily based on a market approach as of the transaction date and are recorded in other (income) expense, net.\n15\n\n\n(6) Commitments and Contingencies Professional and"
+          },
+          {
+            "charIndex": 178740,
+            "context": "transactions contemplated by the merger agreement disrupt current plans and operations that may harm the parties' businesses or divert management's attention from the parties' ongoing business operations; and the amount of any costs, fees, expenses, impairments and charges related to the merger including costs and use of capital related to financing the merger; &#8226; the availability of suitable acquisition and divestiture opportunities and our ability to successfully integrate and improve our acquisitions since failure to achieve expected acquisition benefits from certain of our prior or fu"
+          },
+          {
+            "charIndex": 179124,
+            "context": "lity of suitable acquisition and divestiture opportunities and our ability to successfully integrate and improve our acquisitions since failure to achieve expected acquisition benefits from certain of our prior or future acquisitions could result in impairment charges for goodwill and purchased intangibles; &#8226; the impact of severe weather conditions, including the effects of hurricanes, flash floods, wildfires and climate change; &#8226; our ability to continue to obtain capital on acceptable terms, including borrowed funds, to fund the future growth of our business; &#8226; our inpatient"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 115947,
+            "context": "are, or approximately $ 835 million in the aggregate. The transaction was approved by Talkspace's stockholders during the second quarter of 2026. The transaction is expected to close during the third quarter of 2026 and is subject to satisfaction of regulatory approvals and other customary closing conditions. Talkspace is a virtual behavioral healthcare company, with a network of approximately 6,000 licensed professionals that serve all 50 states, Washington, D.C., and Puerto Rico. We intend to finance the acquisition of Talkspace with additional borrowings pursuant to our Credit Agreement, as"
+          },
+          {
+            "charIndex": 116577,
+            "context": "scussed in Note 4 - Treasury, Credit Facilities and Outstanding Debt Securities. Legal Proceedings We operate in a highly regulated and litigious industry which subjects us to various claims and lawsuits in the ordinary course of business as well as regulatory proceedings and government investigations. These claims or suits include claims for damages for personal injuries, medical malpractice, commercial/contractual disputes, wrongful restriction of, or interference with, physicians' staff privileges, and employment related claims. In addition, health care companies are subject to investigatio"
+          },
+          {
+            "charIndex": 128795,
+            "context": "igation or governmental or internal investigations, including the matters described above, cannot be accurately predicted, nor can we predict any resulting penalties, fines or other sanctions that may be imposed at the discretion of federal or state regulatory authorities. We record accruals for such contingencies to the extent that we conclude it is probable that a liability has been incurred and the amount of the loss can be reasonably estimated. No estimate of the possible loss or range of loss in excess of amounts accrued, if any, can be made at this time regarding the matters described ab"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 62078,
+            "context": "ther working capital accounts\n\n\n( 182,146\n)\n\n\n25,324\n\n\n\nOther assets and deferred charges\n\n\n( 18,466\n)\n\n\n( 22,404\n)\n\n\nOther, net\n\n\n10,753\n\n\n\n16,143\n\n\n\nAccrued insurance expense, net of commercial premiums paid\n\n\n157,435\n\n\n\n94,696\n\n\n\nPayments made in settlement of self-insurance claims, net of commercial insurance reimbursements\n\n\n( 100,335\n)\n\n\n( 84,781\n)\n\n\nNet cash provided by operating activities\n\n\n844,931\n\n\n\n909,026\n\n\n\n\n\n\n\n\n\n\n\n\nCash Flows from Investing Activities:\n\n\n\n\n\n\n\n\nProperty and equipment additions\n\n\n( 444,790\n)\n\n\n( 505,040\n)\n\n\nProceeds received from sales of assets and businesses\n\n\n1"
+          },
+          {
+            "charIndex": 104036,
+            "context": "ility for self-insured professional and general liability claims is based on a number of factors including, among other things, the number of asserted claims and reported incidents, estimates of losses for these claims based on recent and historical settlement amounts and jury verdicts, estimates of incurred but not reported claims based on historical experience, and estimates of amounts recoverable under our commercial insurance policies. All relevant information, including our own historical experience, applicable per occurrence and aggregate self-insured retentions, and limitations and excl"
+          },
+          {
+            "charIndex": 118602,
+            "context": "te the False Claims Act may be subject to substantial monetary fines/penalties as well as face potential exclusion from participating in government health care programs or be required to comply with Corporate Integrity Agreements as a condition of a settlement of a False Claims Act matter. In September 2014, the Criminal Division of the Department of Justice (&#8220;DOJ&#8221;) announced that all qui tam cases will be shared with their Division to determine if a parallel criminal investigation should be opened. The DOJ has also announced an intention to pursue civil and criminal actions agains"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 679,
+            "context": "InputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 0000352915 uhs:BehavioralHealthCareFacilityMember uhs:UniversalHealthRealtyIncomeTrustMember 2026-01-01 2026-06-30 0000352915 uhs:CygnetHealthCareLimitedMember us-gaap:GeneralLiabilityMember srt:SubsidiariesMember 2026-06-30 0000352915 uhs:CommonClassDMember us-gaap:CommonStockMember 2024-12-31 0000352915 uhs:UniversalHealthRealtyIncomeTrustMember 2025-01-01 2025-06-30 0000352915 uhs:GeneralAndProfessionalLiabilityInsurancePoliciesMember srt:MaximumMember srt:SubsidiariesMember 2022-12-31 0000352915 uhs:TermLoanAFacilit"
+          },
+          {
+            "charIndex": 913,
+            "context": "us-gaap:GeneralLiabilityMember srt:SubsidiariesMember 2026-06-30 0000352915 uhs:CommonClassDMember us-gaap:CommonStockMember 2024-12-31 0000352915 uhs:UniversalHealthRealtyIncomeTrustMember 2025-01-01 2025-06-30 0000352915 uhs:GeneralAndProfessionalLiabilityInsurancePoliciesMember srt:MaximumMember srt:SubsidiariesMember 2022-12-31 0000352915 uhs:TermLoanAFacilityMember uhs:OneMonthSOFRRatePlusIndexBasedLoansMember srt:MaximumMember 2026-06-30 0000352915 uhs:AcuteCareHospitalServicesMember uhs:OtherPatientRevenueAndAdjustmentsNetMember 2026-01-01 2026-06-30 0000352915 uhs:OutsideOwnersMember"
+          },
+          {
+            "charIndex": 1587,
+            "context": "s:MedicareMember uhs:BehavioralHealthServicesMember 2026-01-01 2026-06-30 0000352915 uhs:CliveBehavioralHealthHospitalMember 2026-01-01 2026-06-30 0000352915 uhs:BehavioralHealthServicesMember 2025-04-01 2025-06-30 0000352915 uhs:DeferredCompensationLiabilityMember us-gaap:OtherLiabilitiesNoncurrent us-gaap:FairValueMeasurementsRecurringMember 2026-06-30 0000352915 us-gaap:ParentMember 2026-04-01 2026-06-30 0000352915 us-gaap:RestrictedStockMember uhs:TwoThousandTwentyStockIncentivePlanMember 2026-01-01 2026-06-30 0000352915 srt:MinimumMember 2026-01-01 2026-06-30 0000352915 uhs:MedicareMember"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-02-25",
+        "reportDate": "2025-12-31",
+        "accessionNumber": "0001193125-26-071676",
+        "primaryDocument": "uhs-20251231.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/352915/000119312526071676/uhs-20251231.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/352915/000119312526071676/"
+      },
+      "textLength": 682211,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for the year ended December 31, 2024, as filed with the Securities and Exchange Commission on February 26, 2025. Overview Our principal business is owning and operating, through our subsidiaries, acute care hospitals and outpatient facilities and behavioral health care facilities. As of February 25, 2026, we owned and/or operated 375 inpatient facilities and 168 outpatient and other facilities located in 40 states, Washington, D.C., the United Kingdom and Puerto Rico. We have changed the method of our outpatient behavioral health care facility counts during the third quarter of 2025 and substantially all of the increase from prior periods is related to that change in convention. Acute care facilities located in the U.S.: &#8226; 29 inpatient acute care hospitals; &#8226; 35 free-standing emergency departments, and; &#8226; 13 outpatient centers & 1 surgical hospital. Behavioral health care facilities (346 inpatient facilities and 119 outpatient facilities): Located in the U.S.: &#8226; 182 inpatient behavioral health care facilities, and; &#8226; 110 outpatient behavioral health care facilities. Located in the U.K.: &#8226; 161 inpatient behavioral health care facilities, and; &#8226; 2 outpatient behavioral health care facilities. Located in Puerto Rico: &#8226; 3 inpatient behavioral health care facilities; &#8226; 7 outpatient behavioral health care facilities. Net revenues from our acute care hospitals, outpatient facilities and commercial health insurer accounted for approximately 57% of our consolidated net revenues during each of 2025 and 2024. Net revenues from our behavioral health care facilities and commercial health insurer accounted for approximately 43% of our consolidated net revenues during each of 2025 and 2024. Our behavioral health care facilities located in the U.K. generated net revenues of approximately $1.001 billion in 2025 and $880 million in 2024. Total assets at our U.K. behavioral health care facilities were approximately $1.531 billion as of December 31, 2025 and $1.358 billion as of December 31, 2024. Services provided by our hospitals include general and specialty surgery, internal medicine, obstetrics, emergency room care, radiology, oncology, diagnostic care, coronary care, pediatric services, pharmacy services and/or behavioral health services. We provide capital resources as well as a variety of management services to our facilities, including central purchasing, information services, finance and control systems, facilities planning, physician recruitment services, administrative personnel management, marketing and public relations. Forward-Looking Statements and Risk Factors You should carefully review the information contained in this Annual Report, and should particularly consider any risk factors that we set forth in this Annual Report on Form 10-K for the year ended December 31, 2025, and in other reports or documents that we file from time to time with the Securities and Exchange Commission (the &#8220;SEC&#8221;). In this Annual Report, we state our beliefs of\n40\n\n\nfuture events and of our future financial performance. This Annual Report contains &#8220;forward-looking statements&#8221; that reflect our current estimates, expectations and projections about our future results, performance, prospects and opportunities. Forward-looking statements include, among other things, the information concerning our possible future results of operations, business and growth strategies, financing plans, expectations that regulatory developments or other matters will or will not have a material adverse effect on our business or financial condition, our competitive position and the effects of competition, the projected growth of the industry in which we operate, and the benefits and synergies to be obtained from our completed and any future acquisitions, and statements of our goals and objectives, and other similar expressions concerning matters that are not historical facts. Words such as &#8220;may,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;could,&#8221; &#8220;would,&#8221; &#8220;predicts,&#8221; &#8220;potential,&#8221; &#8220;continue,&#8221; &#8220;expects,&#8221; &#8220;anticipates,&#8221; &#8220;future,&#8221; &#8220;intends,&#8221; &#8220;plans,&#8221; &#8220;believes,&#8221; &#8220;estimates,&#8221; &#8220;appears,&#8221; &#8220;projects&#8221; and similar expressions, or the negative of those words and expressions, as well as statements in future tense, identify forward-looking statements. In evaluating those statements, you should specifically consider various factors, including the risks related to healthcare industry trends and those set forth herein in Item 1A. Risk Factors. Those factors may cause our actual results to differ materially from any of our forward-looking statements. Forward-looking statements should not be read as a guarantee of future performance or results, and will not necessarily be accurate indications of the times at, or by which, such performance or results will be achieved. Forward-looking information is based on information available at the time and/or our good faith belief with respect to future events, and is subject to risks and uncertainties that are difficult to predict and many of which are outside of our control. Many factors, including those set forth herein in Item 1A. Risk Factors , and other important factors disclosed in this report, and from time to time in our other filings with the SEC, could cause actual performance or results to differ materially from those expressed in the statements. Such factors include, among other things, the following: &#8226; as discussed below in Sources of Revenue, we receive revenues from various state and county-based programs, including Medicaid in all the states in which we operate. We receive annual Medicaid revenues of approximately $100 million, or greater, from each of Texas, California, Nevada, Washington, D.C., Illinois, Pennsylvania, Kentucky, Florida, Tennessee, Virginia, Massachusetts, Michigan, Mississippi and Washington. Most of these programs are approved on a year-to-year basis and there is no assurance that these revenues will continue at their current rates or at all. We are therefore particularly sensitive to potential reductions in Medicaid and other state-based revenue programs as well as regulatory, economic, environmental and competitive changes in those states; &#8226; legislation adopted on July 4, 2025 (the One Big Beautiful Bill Act), attaches work and community service requirements to eligibility for Medicaid benefits that will have the effect of limiting Medicaid enrollment and expenditure. That legislation also places limits on provider fees used to increase federal Medicaid funding to states. The legislation prohibits states not previously having expanded Medicaid eligibility to 138% of federal poverty level from increasing the rate of current provider fees which fund certain state supplemental payments or increasing the base of the fee to a class or items of services that the fee did not previously cover. That current provider fee threshold will remain at 6%. For states having expanded Medicaid eligibility under the legislation, the provider fee threshold will be reduced by 0.5% annually between federal fiscal years 2028 and 2032 with the resulting threshold ultimately becoming 3.5%. Under current law, and based on our current expectations, we estimate that, commencing with the 2028 state fiscal years, our aggregate annual net benefit will be reduced, on an annually increasing and relatively pro rata basis, by approximately $432 million to $480 million by 2032. The legislation also eliminates certain insurance exchange premium tax credits beyond 2025 and exchange enrollment is expected to be adversely impacted. On January 8, 2026, the U.S. House of Representatives passed H.R.1834 to extend for three years the enhanced premium tax credits (\"EPTCs\") that expired on December 31, 2025, which is currently undergoing review in the Senate. We cannot predict whether these subsidies will ultimately be adopted in federal fiscal year 2026. All of these factors, which could have a material unfavorable impact on our results of operations, may be expected to reduce our revenue and likely increase the level of uncompensated care provided by our facilities; &#8226; there are additional legislative changes that are likely to result in major changes in the health care delivery system on a national or state level, including changes in the structure and administration of, and funding for, federal and state agencies and programs. For example, Congress has reduced to $0 the penalty for failing to maintain health coverage that was part of the original Patient Protection and Affordable Care Act, as amended by the Health and Education Reconciliation Act (collectively, the &#8220;ACA\") as part of the Tax Cuts and Jobs Act. The Biden administration had issued executive orders implementing a special enrollment period permitting individuals to enroll in health plans outside of the annual open enrollment period and reexamining policies that may undermine the ACA or the Medicaid program. The Inflation Reduction Act of 2022 (&#8220;IRA&#8221;) was passed on August 16, 2022, which among other things, allows for the Centers for Medicare and Medicaid Services (\"CMS\") to negotiate prices for certain single-source drugs reimbursed under Medicare Part B and Part D. The American Rescue Plan Act's expansion of subsidies to purchase coverage through an ACA exchange, which the IRA continued through 2025, has increased exchange enrollment. These enhanced subsidies expired on December 31, 2025; &#8226; there have been numerous political and legal efforts to expand, repeal, replace or modify the ACA since its enactment, some of which have been successful, in part, in modifying the ACA, as well as court challenges to the constitutionality of\n41\n\n\nthe legislation. The U.S. Supreme Court held in California v. Texas that the plaintiffs lacked standing to challenge the legislation's requirement to obtain minimum essential health insurance coverage, or the individual mandate. The Court dismissed the case without specifically ruling on the constitutionality of the ACA. The legislation faced its most recent challenge when the Supreme Court, in the June 2025 Kennedy v. Braidwood Management decision, opined in favor of ACA HIV preventive care coverage. The impacts of this decision cannot be predicted. Any future efforts to challenge, replace or replace the ACA or expand or substantially amend its provision is unknown. See below in Sources of Revenues and Health Care Reform for additional disclosure; &#8226; additional possible unfavorable changes in the levels and terms of reimbursement for our charges by third party payers or government based payers, including Medicare or Medicaid in the United States, and government based payers in the United Kingdom; &#8226; the healthcare industry is labor intensive and salaries, wages and benefits are subject to inflationary pressures, as are supplies expense and other operating expenses. In the past, staffing shortages have, at times, required us to hire expensive temporary personnel and/or enhance wages and benefits to recruit and retain nurses and other clinical staff and support personnel. At certain facilities, particularly within our behavioral health care segment, there have been occasions when we were unable to fill all vacant positions and, consequently, we were required to limit patient volumes. Additionally, California is in the process of implementing staffing standards specific to acute psychiatric hospitals and requirements to determine appropriate staffing based on patient acuity and care needs, which are expected to take effect on June 1, 2026. This can further increase our costs and limit our revenue if we are required to limit the number of patients at our California facilities; &#8226; we have experienced inflationary pressures, primarily in personnel costs, although those pressures have moderated more recently. The extent of any future impacts from inflation on our business and our results of operations will be dependent upon how long the elevated inflation levels persist and the extent to which the rate of inflation further increases, if at all, neither of which we are able to predict. If elevated levels of inflation were to persist or if the rate of inflation were to accelerate, our expenses could increase faster than anticipated and we may utilize our capital resources sooner than expected. Further, given the complexities of the reimbursement landscape in which we operate, our ability to pass on increased costs associated with providing healthcare to Medicare and Medicaid patients is limited due to various federal, state and local laws, which in certain circumstances, limit our ability to increase prices; &#8226; in our acute care segment, we have experienced a significant increase in hospital based physician related expenses, especially in the areas of emergency room care, anesthesiology and radiology. We have implemented various initiatives to mitigate the increased expense, to the degree possible, which has moderated the rate of increase. However, significant increases in these physician related expenses could have a material unfavorable impact on our future results of operations; &#8226; the increase in interest rates during the past few years has increased our interest expense significantly increasing our expenses and reducing our free cash flow and our ability to access the capital markets on favorable terms. As such, the effects of increased borrowing rates have adversely impacted our results of operations, financial condition and cash flows. We cannot predict future changes to interest rates, however, significant increases in our borrowing rates could have a material unfavorable impact on our future results of operations. Our $700 million, 1.65% senior notes (\"2026 Notes\") mature on September 1, 2026. Market interest rates have increased significantly since the 2026 Notes were issued in 2021. We expect that we will refinance the 2026 Notes at significantly higher interest rates which will significantly increase our interest expense thereby decreasing our net income attributable to UHS; &#8226; significant tariffs or other restrictions, if imposed on our imported pharmaceutical ingredients, medical devices, medical equipment and their ingredients and components, could escalate costs of medications, medical devices and medical equipment and disrupt our supply chains. While we continue to evaluate the potential impact of the new tariffs on our business, given the uncertainty regarding the scope and duration of any new tariffs, as well as the potential for additional tariffs or trade barriers by the U.S. and the impacted foreign c",
+        "charRange": [
+          264043,
+          279043
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors Related To State Supplemental Medicaid Payments: As outlined above, we receive substantial reimbursement from multiple states in connection with various supplemental Medicaid payment programs. Failure to renew these programs beyond their scheduled termination dates, failure of the public hospitals to provide the necessary IGTs for the states' share of the DSH programs, failure of our hospitals that currently receive supplemental Medicaid revenues to qualify for future funds under these programs, or reductions in reimbursements, could cause our estimates to differ by material amounts which could have a material adverse effect on our future results of operations. In April, 2016, CMS published its final Medicaid Managed Care Rule which explicitly permits but phases out the use of pass-through payments (including supplemental payments) by Medicaid Managed Care Organizations (&#8220;MCO&#8221;) to hospitals over ten years but allows for a transition of the pass-through payments into value-based payment structures, delivery system reform initiatives or payments tied to services under a MCO contract. Since we are unable to determine the financial impact of this aspect of the final rule, we can provide no assurance that the final rule will not have a material adverse effect on our future results of operations. In November, 2020, CMS issued a final rule permitting pass-through supplemental provider payments during a time-limited period when states transition populations or services from fee-for-service Medicaid to managed care. We receive Medicaid SDP payments from MCOs authorized by CMS under 42 CFR &#167; 438.6(c). Consistent with capitated rates paid by Medicaid state agencies to MCO's for managing Medicaid beneficiary lives under a risk-based arrangement, SDP program related capitated rates must also be developed by the state in accordance with actuarial soundness standards noted at 42 CFR &#167; 438.4 and non-compliance could result in a reduction to SDP payment levels. In general, Medicaid SDP payments under 42 CFR &#167; 438.6(c) are subject to annual CMS approval via the submission of a preprint application by a state agency which provides details of the SDP payment methodology and conformity with applicable federal regulations. CMS SDP preprint approval, and the timing of such approval, if it occurs, are not certain which can affect the both the SDP payment level and timing of SDP revenue recorded by us. We incur Provider Taxes imposed by states in the form of a licensing fee, assessment or other mandatory payment which are related to: (i) healthcare items or services; (ii) the provision of, or the authority to provide, the health care items or services, or; (iii) the payment for the health care items or services that are used by respective states to finance the non-federal share of SDP's (or other Medicaid supplemental payment programs). Such Provider Taxes are subject to various federal regulations that limit the scope and amount of the taxes that can be levied by states in order to secure federal matching funds as part of their respective state Medicaid supplemental payment programs. States are subject to CMS both concurrent and retrospective review for their compliance with the applicable Provider Tax regulations and related federal statute. If CMS determines Provider Taxes used by a state Medicaid program to finance the non-federal share of a SDP (or other Medicaid supplemental payment programs) are not in compliance with the applicable Provider Tax regulations and related federal statutes, our SDP payments (and other Medicaid supplemental payments) could be subject to recoupment by the respective state agency when non-compliance is determined by CMS to exist. We believe that the SDP (and other state supplemental payment) programs are designed by each state to be in full compliance with the applicable federal regulations and federal statutes. However, we are unable to provide assurance CMS will determine on a retroactive basis that a state's SDP (or other Medicaid supplemental payment program) design and Medicaid financing structures is in full compliance with the applicable federal regulations and federal statute(s). On April 22, 2024, CMS issued Medicaid and Children's Health Insurance Program (\"CHIP\") Managed Care Access, Finance, and Quality Final Rule (&#8220;Managed Care Rule&#8221;). CMS intends for the Managed Care Rule to: &#8226; Strengthen standard for timely access to care and states' monitoring and enforcement efforts; &#8226; Enhance quality and fiscal and program integrity standards for state directed payments (&#8220;SDPs&#8221;); &#8226; Specify the scope of in lieu of services and settings to better address health-related social needs; &#8226; Further specify medical loss ratio requirements, and; &#8226; Establish a quality rating system for Medicaid and CHIP managed care plans. The SDP provisions included in the Managed Care Rule: &#8226; Requires that provider payment levels for state directed payments for inpatient and outpatient hospital services, nursing facility services, and the professional services at an academic medical center not exceed the average commercial rate; &#8226; Prohibits the use of post-payment reconciliation processes for state directed payments that are based on fee schedules;\n66\n\n\n&#8226; Makes explicit in regulation the existing requirement that state directed payments must comply with all federal laws concerning funding sources of the non-federal share, and; &#8226; Requires that states ensure each provider receiving a state directed payment attest that it does not participate in any arrangement that holds taxpayers harmless for the cost of a tax. CMS concurrently released an informational bulletin regarding CMS' exercise of enforcement discretion until calendar year 2028 for existing health-care related tax programs with certain hold-harmless arrangements involving the redistribution of Medicaid payments. Fee-For-Service Short-Doyle Medi-Cal (&#8220;SD/MC&#8221;) Hospitals Change In Payment Methodology: Under the California Medicaid prepaid inpatient health plan program, counties are required to ensure delivery of mental health services utilizing a system of county operated and contract providers. The California Medicaid program has adopted a new reimbursement method for inpatient psychiatric services with an effective date of December 12, 2023, incorporated a cost-based ceiling to negotiated rates. This change may require renegotiation of contracts our hospitals have had with counties, retroactive to December 12, 2023, and may also impact prospective rate negotiations. New California Medicaid rates could be materially lower than prior payment rates particularly if counties look to limit payment rates to a cost-based methodology rather than a market-based negotiated rate. We are awaiting formal guidance from California as to the manner in which this change will be implemented and whether the reimbursement method will change prospectively. Further, it is uncertain at this time whether and how counties will retroactively apply this change in method retroactively to December 12, 2023, given the previously negotiated payment terms. We are unable to predict with certainty the impact of this SPA at this time. However, under some scenarios, the adverse financial impact could be material. As disclosed herein, we receive a significant amount of Medicaid and Medicaid managed care revenue from both base payments and supplemental payments. Although we are unable to estimate the impact of the Managed Care Rule on our future results of operations, if implemented as proposed, Managed Care Rule related changes could have a material adverse impact on our future results of operations. Future changes to the terms and conditions of the various programs outlined above could materially reduce our net benefit derived from the programs which could have a material adverse impact on our future results of operations. In addition, Provider Taxes are governed by both federal and state laws and are subject to future legislative changes that, if reduced from current rates in several states, could have a material adverse impact on our future results of operations. A 6.2% increase to the Medicaid Federal Matching Assistance Percentage (&#8220;FMAP&#8221;) was included in the Families First Coronavirus Response Act. The CAA of 2023 provided for the transitional reduction of the 6.2% enhanced FMAP during 2023 to 5.0% during the second quarter, 2.5% during the third quarter and 1.5% during the fourth quarter of 2023. HITECH Act: In July 2010, HHS published final regulations implementing the health information technology provisions of the American Recovery and Reinvestment Act (referred to as the &#8220;HITECH Act&#8221;). The final regulation defines the &#8220;meaningful use&#8221; of Electronic Health Records (&#8220;EHR&#8221;) and establishes the requirements for the Medicare and Medicaid EHR payment incentive programs. The final rule established an initial set of standards and certification criteria. The implementation period for these Medicare and Medicaid incentive payments started in federal fiscal year 2011 and can end as late as 2016 for Medicare and 2021 for the state Medicaid programs. State Medicaid program participation in this federally funded incentive program is voluntary but all of the states in which our eligible hospitals operate have chosen to participate. Our acute care hospitals qualified for these EHR incentive payments upon implementation of the EHR application assuming they meet the &#8220;meaningful use&#8221; criteria. The government's ultimate goal is to promote more effective (quality) and efficient healthcare delivery through the use of technology to reduce the total cost of healthcare for all Americans and utilizing the cost savings to expand access to the healthcare system. All of our acute care hospitals have met the applicable meaningful use criteria. However, under the HITECH Act, hospitals must continue to meet the applicable meaningful use criteria in each fiscal year or they will be subject to a market basket update reduction in a subsequent fiscal year. Failure of our acute care hospitals to continue to meet the applicable meaningful use criteria would have an adverse effect on our future net revenues and results of operations. In the 2019 IPPS final rule, CMS overhauled the Medicare and Medicaid EHR Incentive Program to focus on interoperability, improve flexibility, relieve burden and place emphasis on measures that require the electronic exchange of health information between providers and patients. We can provide no assurance that the changes will not have a material adverse effect on our future results of operations. Managed Care: A significant portion of our net patient revenues are generated from managed care companies, which include health maintenance organizations, preferred provider organizations and managed Medicare (referred to as Medicare Part C or Medicare Advantage) and Medicaid programs. In general, we expect the percentage of our business from managed care programs to continue to grow. The consequent growth in managed care networks and the resulting impact of these networks on the operating results of our facilities vary among the markets in which we operate. Typically, we receive lower payments per patient from managed care payers than we do from traditional indemnity insurers, however, during the past few years we have secured price increases from many of our commercial payers including managed care companies.\n67\n\n\nCommercial Insurance: Our hospitals also provide services to individuals covered by private health care insurance. Private insurance carriers typically make direct payments to hospitals or, in some cases, reimburse their policy holders, based upon the particular hospital's established charges and the particular coverage provided in the insurance policy. Private insurance reimbursement varies among payers and states and is generally based on contracts negotiated between the hospital and the payer. Commercial insurers are continuing efforts to limit the payments for hospital services by adopting discounted payment mechanisms, including predetermined payment or DRG-based payment systems, for more inpatient and outpatient services. To the extent that such efforts are successful and reduce the insurers' reimbursement to hospitals and the costs of providing services to their beneficiaries, such reduced levels of reimbursement may have a negative impact on the operating results of our hospitals. Surprise Billing Interim Final Rule: On September 30, 2021, the Department of Labor, and the Department of the Treasury, along with the Office of Personnel Management (&#8220;OPM&#8221;), released an interim final rule with comment period, entitled &#8220;Requirements Related to Surprise Billing; Part II.&#8221; This rule is related to Title I (the &#8220;No Surprises Act&#8221;) of Division BB of the Consolidated Appropriations Act, 2021, and establishes new protections from surprise billing and excessive cost sharing for consumers receiving health care items/services. It implements additional protections against surprise medical bills under the No Surprises Act, including provisions related to the independent dispute resolution (\"IDR\") process, good faith estimates for uninsured (or self-pay) individuals, the patient-provider dispute resolution process, and expanded rights to external review. On February 28, 2022, a district judge in the Eastern District of Texas invalidated portions of the rule governing aspects of the IDR process. In light of this decision, the government issued a final rule on August 19, 2022 eliminating the rebuttable presumption in favor of the qualifying payment amount by the IDR entity and providing additional factors the IDR entity should consider when choosing between two competing offers. CMS regulations and guidance implementing the IDR process has been subject to a significant amount of provider-initiated litigation. As a result, portions of those regulations and guidance materials have been vacated by a federal district court, causing CMS to, on several occasions, pause and resume IDR process operations, causing significant delay in the processing of claims. On October 27, 2023, HHS, the Department of Labor, the Department of the Treasury, and OPM issued a proposed rule intended to improve the functioning of the federal IDR process. Additionally, arguments made by the plaintiffs in such litigation have included allegations that CMS's regulations and guidance materials are favorable to payers. We cannot predict the impact of the proposed rule on our operations at this time. Other Sources: Our hospitals provide services to individuals that do not have any form of health care coverage. Such patients are evaluated, at the time of service or shortly thereafter, for their ability to pay based upon federa",
+        "charRange": [
+          402966,
+          417966
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 112579,
+            "context": "e to employees throughout our organization. In 2025, the UHS Foundation continued to support employees and their families who suffered losses due to natural disasters across the country including Hurricane Milton, Hurricane Helene and the California wildfires. Environmental We have implemented environmentally sustainable practices and we strive to comply with applicable legal and regulatory environmental standards to protect our patients, visitors, staff and local communities. Our environmental stewardship includes following best practices when managing energy usage, constructing and designing"
+          },
+          {
+            "charIndex": 116518,
+            "context": "lly higher risk of experiencing events such as severe weather conditions. Given the location of our facilities, we are susceptible to revenue loss, cost increase, or damage caused by severe weather conditions or natural disasters such as hurricanes, wildfires, earthquakes, or tornadoes. Any significant loss due to a natural disaster may lead to a significant increase in the cost of insurance and/or a reduction in the availability of insurance on acceptable terms. Climate change may also have effects on our business by increasing the cost of property insurance or making coverage unavailable on"
+          },
+          {
+            "charIndex": 140428,
+            "context": "omic, public health, environmental or competitive conditions in those states could have a disproportionate effect on our overall business results. In addition, certain of our facilities and our operations in those states may be adversely impacted by wildfires (most particularly in California), winter storms, and other severe weather conditions, which adverse weather conditions may be more frequent and/or severe as the result of climate change. Such wildfires, storms or other severe weather conditions may cause considerable disruptions in our operations due to property damage or electrical outa"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 97835,
+            "context": "with EMTALA. Health Care Industry Investigations: We are subject to claims and suits in the ordinary course of business, including those arising from care and treatment afforded by our hospitals and are party to various government investigations and litigation. Please see Item 3. Legal Proceedings included herein for additional disclosure. In addition, currently, and from time to time, some of our facilities are subjected to inquiries and/or actions and receive notices of potential non-compliance of laws and regulations from various federal and state agencies. Providers that are found to have"
+          },
+          {
+            "charIndex": 98791,
+            "context": "and have developed a comprehensive ethics and compliance program that is designed to meet or exceed applicable federal guidelines and industry standards. Because the law in this area is complex and constantly evolving, governmental investigation or litigation may result in interpretations that are inconsistent with industry practices, including ours. Although we believe our policies, procedures and practices comply with governmental regulations, no assurance can be given that we will not be subjected to inquiries or actions, or that we will not be faced with sanctions, fines or penalties in c"
+          },
+          {
+            "charIndex": 99563,
+            "context": "rse effect on our future operating results. Our substantial Medicare, Medicaid and other governmental billings may result in heightened scrutiny of our operations. It is possible that governmental entities could initiate additional investigations or litigation in the future and that such matters could result in significant penalties as well as adverse publicity. It is also possible that our executives and/or managers could be included as targets or witnesses in governmental investigations or litigation and/or named as defendants in private litigation. Revenue Rulings 98-15 and 2004-51: In Marc"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 187799,
+            "context": "tances; and (v) other hazardous materials. If we fail to comply with those standards, we may be subject to sanctions and penalties that could harm our business and results of operations. We are subject to pending legal actions, purported stockholder class actions, governmental investigations and regulatory actions. We and our subsidiaries are subject to pending legal actions, governmental investigations and regulatory actions (see Note 8 to the Consolidated Financial Statements - Commitments and Contingencies , as included this Form 10-K). We may become subject to additional medical malpractic"
+          },
+          {
+            "charIndex": 188189,
+            "context": "l investigations and regulatory actions (see Note 8 to the Consolidated Financial Statements - Commitments and Contingencies , as included this Form 10-K). We may become subject to additional medical malpractice lawsuits, product liability lawsuits, class action lawsuits and other legal actions in the ordinary course of business. Defending ourselves against the allegations in the lawsuits and governmental investigations, or similar matters and any related publicity, could potentially entail significant costs and could require significant attention from our management and our reputation could s"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 97367,
+            "context": "or inpatient services; however, CMS has sought industry comments on the potential applicability of EMTALA to hospital inpatients and the responsibilities of hospitals with specialized capabilities, respectively. CMS has not yet issued regulations or guidance in response to that request for comments. The government also has expressed its intent to investigate and enforce EMTALA violations actively in the future. We believe that we operate in substantial compliance with EMTALA. Health Care Industry Investigations: We are subject to claims and suits in the ordinary course of business, including t"
+          },
+          {
+            "charIndex": 99949,
+            "context": "hat our executives and/or managers could be included as targets or witnesses in governmental investigations or litigation and/or named as defendants in private litigation. Revenue Rulings 98-15 and 2004-51: In March 1998 and May 2004, the IRS issued guidance regarding the tax consequences of joint ventures between for-profit and not-for-profit hospitals. As a result of the tax rulings, the IRS has proposed, and may in the future propose, to revoke the tax-exempt or public charity status of certain not-for-profit entities which participate in such joint ventures or to treat joint venture income"
+          },
+          {
+            "charIndex": 176609,
+            "context": "or a 30-day negotiation period for providers and payers to settle out-of-network claims. If no agreement is reached after this period, either party may opt for a binding independent dispute resolution (&#8220;IDR&#8221;) process. CMS regulations and guidance implementing the IDR process has been subject to a significant amount of provider-initiated litigation. As a result, portions of those regulations and guidance materials have been vacated by a federal district court, causing CMS to, on several occasions, pause and resume IDR process operations, causing significant delay in the processing o"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 210466,
+            "context": "e United States that could negatively impact our patient volumes and reimbursement rates, a continued rise in the unemployment rate and increases in the number of uninsured patients treated at our facilities, we may incur future charges to recognize impairment in the carrying value of our goodwill and other intangible assets, which could have a material adverse effect on our financial results. As inflationary pressures increase our operating costs, we may be unable to pass on the increased costs associated with providing healthcare services to our patients. We are experiencing inflationary pre"
+          },
+          {
+            "charIndex": 286353,
+            "context": "lity of suitable acquisition and divestiture opportunities and our ability to successfully integrate and improve our acquisitions since failure to achieve expected acquisition benefits from certain of our prior or future acquisitions could result in impairment charges for goodwill and purchased intangibles; &#8226; the impact of severe weather conditions, including the effects of hurricanes, flash floods, wildfires and climate change; &#8226; our ability to continue to obtain capital on acceptable terms, including borrowed funds, to fund the future growth of our business; &#8226; our inpatient"
+          },
+          {
+            "charIndex": 302276,
+            "context": "the Consolidated Financial Statements-Commitments and Contingencies for additional disclosure related to our self-insured general and professional liability and workers' compensation liability. Long-Lived Assets: We review our long-lived assets for impairment whenever events or circumstances indicate that the carrying value of these assets may not be recoverable. The assessment of possible impairment is based on our ability to recover the carrying value of our asset based on our estimate of its undiscounted future cash flow. If the analysis indicates that the carrying value is not recoverable"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 68475,
+            "context": "affing levels and equipment usage, improving patient management and reporting procedures and implementing more efficient billing and collection procedures. In addition, we will continue to emphasize innovation in our response to the rapid changes in regulatory trends and market conditions while fulfilling our commitment to patients, physicians, employees, communities and our stockholders. In addition, our aggressive recruiting of highly qualified physicians and developing provider networks help to establish our facilities as an important source of quality healthcare in their respective communi"
+          },
+          {
+            "charIndex": 80228,
+            "context": "nd recruitment agreements that adhere to certain enumerated requirements. CMS issued a final rule in 2020 that created a new Stark exception for value-based models. Although the final regulations provide exceptions to the Stark Law, there may remain regulatory risks for participating hospitals, as well as financial and operational risks. We monitor all aspects of our business and have developed a comprehensive ethics and compliance program that is designed to meet or exceed applicable federal guidelines and industry standards. Nonetheless, because the law in this area is complex and constantly"
+          },
+          {
+            "charIndex": 80628,
+            "context": "comprehensive ethics and compliance program that is designed to meet or exceed applicable federal guidelines and industry standards. Nonetheless, because the law in this area is complex and constantly evolving, there can be no assurance that federal regulatory authorities will not determine that any of our arrangements with physicians violate the Stark Law. Anti-kickback Statute: A provision of the Social Security Act known as the &#8220;anti-kickback statute&#8221; prohibits healthcare providers and others from directly or indirectly soliciting, receiving, offering or paying money or other re"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 101905,
+            "context": ". Proposed solutions include enacting limits on non-economic damages, malpractice insurance reform, and gathering lawsuit claims data from malpractice insurance companies and the courts for the purpose of assessing the connection between malpractice settlements and premium rates. Reform legislation has also been proposed, but not adopted, at the federal level that could preempt additional state legislation in this area.\n7\n\n\nCompliance Program: Our company-wide compliance program has been in place since 1998. Currently, the program's elements include a Code of Conduct, risk area specific polici"
+          },
+          {
+            "charIndex": 194616,
+            "context": "d have a material adverse effect on our business, financial condition, results of operations and/or cash flows which in turn could cause a decline in our stock price. In an effort to resolve one or more of these matters, we may choose to negotiate a settlement. Amounts we pay to settle any of these matters may be material. All professional and general liability insurance we purchase is subject to policy limitations. Our estimated liability for self-insured professional and general liability claims is based on a number of factors including, among other things, the number of asserted claims and"
+          },
+          {
+            "charIndex": 195054,
+            "context": "ility for self-insured professional and general liability claims is based on a number of factors including, among other things, the number of asserted claims and reported incidents, estimates of losses for these claims based on recent and historical settlement amounts and jury verdicts, estimates of incurred but not reported claims based on historical experience, and estimates of amounts recoverable under our commercial insurance policies. All relevant information, including our own historical experience, applicable per occurrence and aggregate self-insured retentions, and limitations and excl"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 3154,
+            "context": "orPeriodAccountingStandardsUpdateAdjustmentMember 2025-01-01 2025-12-31 0000352915 uhs:OnePointSixFivePercentSeniorSecuredNotesDueTwoThousandTwentySixMember 2025-12-31 0000352915 2022-12-31 0000352915 uhs:CygnetHealthCareLimitedMember us-gaap:GeneralLiabilityMember srt:SubsidiariesMember 2025-12-31 0000352915 us-gaap:GeneralLiabilityMember srt:MaximumMember srt:SubsidiariesMember 2023-12-31 0000352915 uhs:FivePointZeroFiveZeroPercentSeniorSecuredNotesDueTwoThousandThirtyFourMember 2024-01-01 2024-12-31 0000352915 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2024-12-31 0000352915 us-g"
+          },
+          {
+            "charIndex": 3230,
+            "context": "352915 uhs:OnePointSixFivePercentSeniorSecuredNotesDueTwoThousandTwentySixMember 2025-12-31 0000352915 2022-12-31 0000352915 uhs:CygnetHealthCareLimitedMember us-gaap:GeneralLiabilityMember srt:SubsidiariesMember 2025-12-31 0000352915 us-gaap:GeneralLiabilityMember srt:MaximumMember srt:SubsidiariesMember 2023-12-31 0000352915 uhs:FivePointZeroFiveZeroPercentSeniorSecuredNotesDueTwoThousandThirtyFourMember 2024-01-01 2024-12-31 0000352915 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2024-12-31 0000352915 us-gaap:CommonClassCMember us-gaap:CommonStockMember 2022-12-31 0000352915 uhs:O"
+          },
+          {
+            "charIndex": 3768,
+            "context": "sCMember us-gaap:CommonStockMember 2022-12-31 0000352915 uhs:OtherNonPatientRevenueMember 2025-01-01 2025-12-31 0000352915 uhs:TrancheATermLoanMember 2024-12-31 0000352915 uhs:MedicareMember 2023-01-01 2023-12-31 0000352915 uhs:GeneralAndProfessionalLiabilityMember 2023-01-01 2023-12-31 0000352915 us-gaap:SalesRevenueNetMember uhs:LasVegasNevadaMember us-gaap:GeographicConcentrationRiskMember 2024-01-01 2024-12-31 0000352915 uhs:S2025ADividendsMember 2025-01-01 2025-12-31 0000352915 srt:MaximumMember 2025-12-31 0000352915 uhs:NewSeniorSecuredCreditFacilityMember uhs:OnePointSixFivePercentSenio"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 4638012000,
+          "accn": "0001193125-26-340278",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-07",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 9133194000,
+          "accn": "0001193125-26-340278",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-07"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 4495182000,
+          "accn": "0001193125-26-211992",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-07",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 17364829000,
+          "accn": "0001193125-26-071676",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-25",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 4495245000,
+          "accn": "0001193125-25-272385",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-07",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 12878781000,
+          "accn": "0001193125-25-272385",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-07"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 4283816000,
+          "accn": "0001193125-26-340278",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-07",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 4283816000,
+          "accn": "0000950170-25-105857",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-08"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 5.98,
+          "accn": "0001193125-26-340278",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-07",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 11.63,
+          "accn": "0001193125-26-340278",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-07"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 5.65,
+          "accn": "0001193125-26-211992",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-07",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 23.1,
+          "accn": "0001193125-26-071676",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-25",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 5.86,
+          "accn": "0001193125-25-272385",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-07",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 16.07,
+          "accn": "0001193125-25-272385",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-07"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 5.43,
+          "accn": "0001193125-26-340278",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-07",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 5.43,
+          "accn": "0000950170-25-105857",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-08"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 358447000,
+          "accn": "0001193125-26-340278",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-07",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 707129000,
+          "accn": "0001193125-26-340278",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-07"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 348682000,
+          "accn": "0001193125-26-211992",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-07",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 1488796000,
+          "accn": "0001193125-26-071676",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-25",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 372957000,
+          "accn": "0001193125-25-272385",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-07",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 1042855000,
+          "accn": "0001193125-25-272385",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-07"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 353218000,
+          "accn": "0001193125-26-340278",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-07",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 353218000,
+          "accn": "0000950170-25-105857",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-08"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 516675000,
+          "accn": "0001193125-26-340278",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-07",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 1019535000,
+          "accn": "0001193125-26-340278",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-07"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 502860000,
+          "accn": "0001193125-26-211992",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-07",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 1994015000,
+          "accn": "0001193125-26-071676",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-25",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 521688000,
+          "accn": "0001193125-25-272385",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-07",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 1476783000,
+          "accn": "0001193125-25-272385",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-07"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 500270000,
+          "accn": "0001193125-26-340278",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-07",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 500270000,
+          "accn": "0000950170-25-105857",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-08"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "UHS",
+    "name": "UNIVERSAL HEALTH SERVICES INC",
+    "sector": "Services-General Medical & Surgical Hospitals, NEC",
+    "pe": 7.03,
+    "pb": 1.39,
+    "ret3m": 2.9972,
+    "ret6m": -14.0295,
+    "roe": 19.81,
+    "debtEquity": 0.646,
+    "sentiment": 0.313,
+    "analyst": 60.6,
+    "beta": 1.0389892
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "3 Reasons to Sell UHS and 1 Stock to Buy Instead",
+        "url": "https://finnhub.io/api/news?id=67a0ac498a6a3db3f72fce1b3ebc17bb16c4c6ce6b39c8821d890aa169b9e7be",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Will Lower PDS Margin Affect Aveanna Healthcare's Q2 Earnings?",
+        "url": "https://finnhub.io/api/news?id=a7a77faacf9e31fca7e56b5e6972b4c1129ae872039cf830cfc04c1c926d4bf1",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Can Higher Occupancy Help Brookdale Senior Narrow Q2 Losses?",
+        "url": "https://finnhub.io/api/news?id=5feee2f67b0128556161b0afaa9a0ae31fe3d6c855bcb9b7236df825ccc024ad",
+        "source": "Yahoo",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "Is Universal Health Services (UHS) Undervalued After Its Buyback Completion And Q2 2026 Earnings?",
+        "url": "https://finnhub.io/api/news?id=1bf8f5d94d15d5b0d964d9e9f6ac88c404053ac91ef3000cabaf3761ba83e6a6",
+        "source": "Yahoo",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "5 Revealing Analyst Questions From Universal Health Services’s Q2 Earnings Call",
+        "url": "https://finnhub.io/api/news?id=99f75d95c25b74ed3fd929ec6cb962dd5a6fa428e2fc04241ec879fb493f7759",
+        "source": "Yahoo",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Can Higher Occupancy Help Encompass Health Counter Rising Costs in Q2?",
+        "url": "https://finnhub.io/api/news?id=ad37dc5dae25e0e9f84b7b67ffc922da7c7e15f788d3e7321c000300e55e7a15",
+        "source": "Yahoo",
+        "date": "2026-08-03"
+      }
+    ],
+    "cachedAt": "2026-08-11T06:09:14.516Z"
+  }
+}

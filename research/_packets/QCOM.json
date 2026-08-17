@@ -1,0 +1,704 @@
+{
+  "ticker": "QCOM",
+  "entityName": "QUALCOMM INC/DE",
+  "cik": "0000804328",
+  "generatedAt": "2026-08-12T01:37:11.342Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-07-29",
+        "reportDate": "2026-06-28",
+        "accessionNumber": "0000804328-26-000086",
+        "primaryDocument": "qcom-20260628.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000086/qcom-20260628.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000086/"
+      },
+      "textLength": 226905,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations.&#8221; References to &#8220;and,&#8221; &#8220;or&#8221; and &#8220;and/or&#8221; should be read to include the others, as appropriate. Risk Factors Summary: RISKS RELATED TO OUR OPERATING BUSINESSES &#8226; We derive a significant portion of our revenues from a small number of customers and licensees, and particularly from their sale of premium-tier handset devices. If revenues derived from these customers or licensees decrease or the timing of such revenues fluctuates, our business and results of operations could be negatively affected. &#8226; Our business, particularly our semiconductor business, may suffer as a result of our customers vertically integrating (i.e., developing their own integrated circuit products). &#8226; A significant portion of our business is concentrated in China, and the risks of such concentration are exacerbated by U.S./China trade and national security tensions. RISKS RELATED TO NEW INITIATIVES &#8226; Our growth depends in part on our ability to extend our technologies and products into new and expanded product areas, and industries and applications beyond mobile handsets. Our research, development and other investments in these new and expanded product areas, industries and applications, and related technologies and products, as well as in our existing technologies and products, and new technologies, may not generate operating income or contribute to future results of operations that meet our expectations. &#8226; We may engage in acquisitions and other strategic transactions or make investments, or be unable to consummate planned strategic acquisitions, which could adversely affect our results of operations or fail to enhance stockholder value. RISKS RELATED TO SUPPLY AND MANUFACTURING &#8226; We depend on a limited number of third-party suppliers for the procurement, manufacture, assembly and testing of our products manufactured in a fabless production model. If we fail to execute supply strategies that provide supply assurance, technology leadership and reasonable margins, our business and results of operations may be harmed. We are also subject to order and shipment uncertainties that could negatively impact our results of operations. &#8226; There are numerous risks associated with the operation and control of our manufacturing facilities, including a higher portion of fixed costs relative to a fabless model; environmental compliance and liability; impacts related to climate change; exposure to natural disasters, health crises, geopolitical conflicts and cyber-attacks; timely supply of equipment and materials; and various manufacturing issues. RISKS RELATED TO CYBERSECURITY OR MISAPPROPRIATION OF OUR CRITICAL INFORMATION &#8226; Our business and operations could suffer in the event of security breaches of our IT systems, or other misappropriation of our technology, intellectual property or other proprietary or confidential information. RISKS RELATED TO HUMAN CAPITAL MANAGEMENT &#8226; We may not be able to attract or retain qualified employees. 27 RISKS SPECIFIC TO OUR LICENSING BUSINESS &#8226; The continued and future success of our licensing programs requires us to continue to evolve our patent portfolio and to renew or renegotiate license agreements that are expiring. &#8226; Efforts by some OEMs to avoid paying fair and reasonable royalties for the use of our intellectual property may require the investment of substantial management time and financial resources and may result in legal decisions or actions by governments, courts, regulators or agencies, Standards Development Organizations (SDOs) or other industry organizations that harm our business. &#8226; Changes in our patent licensing practices, whether due to governmental investigations, legal challenges or otherwise, could adversely impact our business and results of operations. RISKS RELATED TO REGULATORY AND LEGAL CHALLENGES &#8226; Our business may suffer as a result of adverse rulings in governmental investigations or proceedings or other legal proceedings. RISKS RELATED TO INDUSTRY DYNAMICS AND COMPETITION &#8226; Our revenues depend on our customers' and licensees' sales of products and services based on cellular and other communications technologies, including 5G, and customer demand for our products based on these technologies. &#8226; Our industry is subject to intense competition in an environment of rapid technological change. Our success depends in part on our ability to adapt to such change and compete effectively; and such change and competition could result in decreased demand for our products and technologies or declining average selling prices for our products or those of our customers or licensees. RISKS RELATED TO PRODUCT DEFECTS OR SECURITY VULNERABILITIES &#8226; Failures in our products, or in the products of our customers or licensees, including those resulting from security vulnerabilities, defects or errors, could harm our business. RISKS RELATED TO INTELLECTUAL PROPERTY &#8226; The enforcement and protection of our intellectual property may be expensive, could fail to prevent misappropriation or unauthorized use of our intellectual property, could result in the loss of our ability to enforce one or more patents, and could be adversely affected by changes in patent laws, by laws in certain foreign jurisdictions that may not effectively protect our intellectual property and by ineffective enforcement of laws in such jurisdictions. &#8226; Claims by third parties that we infringe their intellectual property could adversely affect our business. &#8226; Our use of open source software may harm our business. GENERAL RISK FACTORS &#8226; We operate in the highly cyclical semiconductor industry, which is subject to significant downturns. We are also susceptible to declines in global, regional and local economic conditions generally. Our stock price and financial results are subject to substantial quarterly and annual fluctuations due to these dynamics, among others. &#8226; Geopolitical conflicts, natural disasters, pandemics and other health crises, and other factors outside of our control, could significantly disrupt our business. &#8226; Our business may suffer due to the impact of, or our failure to comply with, the various existing, new or amended laws, regulations, policies or standards to which we are subject. &#8226; There are risks associated with our debt. &#8226; Tax liabilities could adversely affect our results of operations. 28 Risk Factors: RISKS RELATED TO OUR OPERATING BUSINESSES We derive a significant portion of our revenues from a small number of customers and licensees, and particularly from their sale of premium-tier handset devices. If revenues derived from these customers or licensees decrease or the timing of such revenues fluctuates, our business and results of operations could be negatively affected. We derive a significant portion of our revenues from a small number of customers and licensees, and particularly from their sale of premium-tier handset devices, and we expect this trend to continue in the foreseeable future. The mobile industry is experiencing and may continue to experience concentration of device share among a few companies, particularly at the premium tier, contributing to this trend. Certain Chinese original equipment manufacturers (OEMs) have increased and may continue to increase their device share in China and in certain regions outside of China, and we derive a significant portion of our revenues from a small number of these OEMs as well. See also &#8220;Notes to Condensed Consolidated Financial Statements, Note 2. Composition of Certain Financial Statement Items - Concentrations.&#8221; In addition, a number of our largest customers have developed, are developing or may develop their own integrated circuit products, or may choose our competitors' integrated circuit products, which they have in the past utilized, currently utilize and may in the future utilize in some or all of their devices, rather than our products, which could significantly reduce the revenues we derive from these customers. See also the Risk Factor titled &#8220; Our business, particularly our semiconductor business, may suffer as a result of our customers vertically integrating (i.e., developing their own integrated circuit products) .&#8221; Further, political actions, including trade and/or national security protection policies (for example, tariffs and other controls on imports or exports), or other actions by governments, particularly the U.S. and Chinese governments, have in the past, currently are and could in the future limit or prevent us from transacting business with certain of our customers, limit, prevent or discourage those customers from transacting business with us, or make it more expensive to do so, any of which could also significantly reduce the revenues we derive from these customers. See also the Risk Factor titled &#8220; A significant portion of our business is concentrated in China, and the risks of such concentration are exacerbated by U.S./China trade and national security tensions .&#8221; The loss of any one of our significant customers, a reduction in the purchases of our products by any of these customers or the cancellation of significant purchases by any of these customers, whether due to the use of their own integrated circuit products or our competitors' integrated circuit products, government restrictions, a decline in global, regional or local economic conditions, a decline in consumer demand (or a shift in consumer demand away from new devices in favor of refurbished or secondhand devices) or for any other reasons, would reduce our revenues and could harm our ability to achieve or sustain expected results of operations. A delay of significant purchases, even if only temporary, would reduce our revenues in the period of the delay. Any such reduction in revenues would also impact our cash resources available for other purposes, such as research and development. In addition, the timing and size of purchases by our significant customers may be impacted by the timing of such customers' new or next generation product introductions, over which we have no control, and the timing and success of such introductions may cause our revenues and results of operations to fluctuate. We spend a significant amount of engineering and development time, funds and resources in understanding our key customers' feedback and/or specifications and attempt to incorporate such input into our product launches and technologies. These efforts may not require or result in purchase commitments from such customers or we may have lower purchases from such customers than expected, and consequently, we may not achieve the anticipated revenues from these efforts, or these efforts may result in non-recoverable costs. Further, the concentration of device share among a few companies, and the corresponding purchasing power of these companies, may result in lower prices for our products, which could have an adverse effect on our revenues and margins. Apple purchases our MDM (or thin modem) products, which do not include our integrated application processor technology, and which have lower revenue and margin contributions than our combined modem and application processor products. Consequently, to the extent Apple devices using our MDM products take share from our customers who purchase our integrated modem and application processor products, our revenues and margins may be negatively impacted. Additionally, we expect that Apple will increasingly use its own modem products, rather than our products, in its future devices, which will have a significant negative impact on our QCT revenues, results of operations and cash flows. The mobile industry has also from time to time experienced declines in sales or slowing growth in the premium-tier device segment. A reduction in sales of premium-tier devices, a reduction in sales of our premium-tier integrated circuit products (which have a higher revenue and margin contribution than our lower-tier integrated circuit products), a shift in share away from OEMs that utilize our premium-tier products, or a shift in consumer demand in favor of refurbished or secondhand devices, would reduce our revenues and margins and may harm our ability to achieve or sustain expected 29 financial results. Any such reduction in revenues would also impact our cash resources available for other purposes, such as research and development. Further, while we derive a portion of our revenues from areas outside of mobile handsets, e.g., from industries such as automotive and IoT, certain product categories within those industries may in themselves be subject to high levels of customer concentration. Although we have many licensees, we derive a significant portion of our licensing revenues from a limited number of such licensees, which includes a number of Chinese OEMs. In the event that one or more of our significant licensees fail to meet their reporting and payment obligations, or we are unable to renew or modify one or more of their license agreements under similar terms as their existing agreements, our revenues, results of operations and cash flows would be adversely impacted. Moreover, the success of our core licensing business depends in part on the ability of our licensees to continue to develop, introduce and deliver high-volume products that achieve and sustain customer acceptance. We do not have control over the product development, sales efforts or pricing of products by our licensees, and our licensees might not be successful in these efforts. Reductions in sales of our licensees' products, or reductions in the average selling prices of such products without a sufficient increase in the volumes sold, would generally have an adverse effect on our licensing revenues. Our business, particularly our semiconductor business, may suffer as a result of our customers vertically integrating (i.e., developing their own integrated circuit products). Certain of our largest mobile handset customers (for example, Apple, Samsung and Xiaomi) develop their own integrated circuit products, which they have in the past utilized, and/or currently utilize, in certain of their devices. We expect such customers will in the future utilize their own integrated circuit products in some or all of their devices, rather than our products. In particular, we expect that Apple will increasingly use its own modem products, rather than our products, in its future devices, which will have a significant negative impact on our QCT revenues, results of operations and cash flows. Similarly, we derive a significant portion of our revenues from Chinese OEMs. Certain of our customers in China have developed, and others may in the future develop, their own integrated circuit products and use such integrated circuit pr",
+        "charRange": [
+          91881,
+          106881
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors titled &#8220; Our business may suffer as a result of adverse rulings in governmental investigations or proceedings or other legal proceedings,&#8221; &#8220; Changes in our patent licensing practices, whether 48 due to governmental investigations, legal challenges or otherwise, could adversely impact our business and results of operations,&#8221; &#8220;A significant portion of our business is concentrated in China, and the risks of such concentration are exacerbated by U.S./China trade and national security tensions,&#8221; &#8220; There are numerous risks associated with the operation and control of our manufacturing facilities, including a higher portion of fixed costs relative to a fabless model; environmental compliance and liability; impacts related to climate change; exposure to natural disasters, health crises, geopolitical conflicts and cyber-attacks; timely supply of equipment and materials; and various manufacturing issues,&#8221; and &#8220;Tax liabilities could adversely affect our results of operations.&#8221; Regulations are complex and changing (which may create uncertainty regarding compliance), are subject to varying interpretations, and their application in practice may evolve over time. In addition, and especially in developing regulatory areas (for example, AI, privacy and data protection, and sustainability-related reporting), Regulations may differ by country or by state within the United States and may be conflicting in certain cases. As a result, our efforts to comply with Regulations may fail, particularly if there is ambiguity as to how they should be applied in practice. Failure to comply with any Regulation may adversely affect our business, results of operations and cash flows. New Regulations, or evolving interpretations thereof, may cause us to incur higher costs as we revise current practices, policies or procedures; may divert management time and attention to compliance activities; and may negatively impact our ability to conduct business in certain jurisdictions. There are risks associated with our debt. Our outstanding debt and any additional debt we incur may have negative consequences on our business, including, among others: requiring us to use cash to pay the principal of and interest on our debt, thereby reducing the amount of cash available for other purposes; limiting our ability to obtain additional financing for working capital, capital expenditures, acquisitions, stock repurchases, dividends, general corporate or other purposes; and limiting our flexibility in planning for, or reacting to, changes in our business, industries or the market. Our ability to make payments of principal and interest on our debt depends upon our future performance, which is subject to economic and political conditions, industry cycles and financial, business and other factors, many of which are beyond our control. If we are unable to generate sufficient cash flow from operations to service our debt, we may be required to, among others: refinance or restructure all or a portion of our debt; reduce or delay planned capital or operating expenditures; reduce, suspend or eliminate our dividend payments and/or our stock repurchase program; or sell selected assets. Such measures might not be sufficient to enable us to service our debt. In addition, any such refinancing, restructuring or sale of assets might not be available on economically favorable terms or at all, and if prevailing interest rates at the time of any such refinancing or restructuring are higher than our current rates, interest expense related to such refinancing or restructuring would increase. Further, if there are adverse changes in the ratings assigned to our debt securities by credit rating agencies, our borrowing costs, our ability to access debt financing in the future and the terms of such debt could be adversely affected. Tax liabilities could adversely affect our results of operations. We are subject to income taxes in the United States and numerous foreign jurisdictions. Significant judgment is required in determining our provision for income taxes. We regularly are subject to examination of our tax returns and reports by taxing authorities in the United States federal jurisdiction and various state and foreign jurisdictions, most notably in countries where we earn a routine return and the tax authorities believe substantial value-add activities are performed, as well as countries where we own intellectual property. The final determination of tax audits and any related legal proceedings could materially differ from amounts reflected in our income tax provisions and accruals. In such case, our income tax provision, results of operations and cash flows in the period or periods in which that determination is made could be negatively affected. Tax rules may change in a manner that adversely affects our future reported results of operations or the way we conduct our business. Most of our income is taxable in the United States with a significant portion qualifying for preferential treatment as foreign-derived deduction eligible income (FDDEI), formerly known as foreign-derived intangible income (FDII). If U.S. tax rates increase and/or the FDDEI deduction is eliminated or reduced in the future, our provision for income taxes, results of operations and cash flows would be adversely affected (potentially materially). Also, if our customers move manufacturing operations to the United States, our FDDEI deduction may be reduced. 49 ITEM 2.",
+        "charRange": [
+          218039,
+          223577
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 139980,
+            "context": "pliers or both incurring additional compliance costs that are passed on to us. These costs may adversely impact our results of operations and financial condition. In addition, climate change could cause certain natural disasters, such as 35 drought, wildfires, storms, flooding or rising sea levels, to occur more frequently or with greater intensity, which could pose physical risks to our manufacturing facilities or our suppliers' facilities, could disrupt the availability of water necessary for the operation of such facilities, and could increase or decrease temperatures resulting in increased"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 41486,
+            "context": "he Qualcomm ALA. On January 8, 2025, Arm notified us that it was withdrawing its October 22, 2024 notice of breach and indicated that it has no current plan to terminate the Qualcomm ALA, while reserving its rights pending the outcome of the ongoing litigation. Contingent Losses and Other Considerations: Litigation and investigations are inherently uncertain, and we face difficulties in evaluating or estimating likely outcomes or ranges of possible loss, particularly in antitrust and trade regulation investigations. We have not recorded any accrual at June 28, 2026 for contingent losses associ"
+          },
+          {
+            "charIndex": 41542,
+            "context": "t it was withdrawing its October 22, 2024 notice of breach and indicated that it has no current plan to terminate the Qualcomm ALA, while reserving its rights pending the outcome of the ongoing litigation. Contingent Losses and Other Considerations: Litigation and investigations are inherently uncertain, and we face difficulties in evaluating or estimating likely outcomes or ranges of possible loss, particularly in antitrust and trade regulation investigations. We have not recorded any accrual at June 28, 2026 for contingent losses associated with the matters described above based on our belie"
+          },
+          {
+            "charIndex": 81175,
+            "context": "d national security tensions. &#8221; We are also involved in certain legal proceedings, including those described in this Quarterly Report in &#8220;Notes to Condensed Consolidated Financial Statements, Note 5. Commitments and Contingencies.&#8221; Litigation is inherently uncertain, and, while we intend to continue to vigorously defend ourselves in such matters, the unfavorable resolution of one or more of these matters could have a material adverse effect on our business, results of operations, financial condition or cash flows. In addition to the foregoing business and market-based matters"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 212233,
+            "context": "ffs or other trade restrictions affecting our products or those of our significant customers; and variations between our actual financial results or guidance and expectations of securities analysts or investors, among others. In the past, securities class action litigation has been brought against companies following periods of volatility in the market price of their securities, among other reasons. We have been in the past and may in the future be the target of securities litigation, which could result in substantial uninsured costs and divert management's attention and our resources. Geopoli"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 88709,
+            "context": "tions and our expected financing activities will satisfy our working and other capital requirements for at least the next 12 months and thereafter for the foreseeable future. See &#8220;Risk Factors&#8221; in this Quarterly Report. Recent Accounting Guidance Information regarding recent accounting guidance and the impact of such guidance on our condensed consolidated financial statements is provided in this Quarterly Report in the &#8220;Notes to Condensed Consolidated Financial Statements, Note 1. Basis of Presentation and Significant Accounting Policies Update.&#8221; ITEM 3. QUANTITATIVE AN"
+          },
+          {
+            "charIndex": 88758,
+            "context": "satisfy our working and other capital requirements for at least the next 12 months and thereafter for the foreseeable future. See &#8220;Risk Factors&#8221; in this Quarterly Report. Recent Accounting Guidance Information regarding recent accounting guidance and the impact of such guidance on our condensed consolidated financial statements is provided in this Quarterly Report in the &#8220;Notes to Condensed Consolidated Financial Statements, Note 1. Basis of Presentation and Significant Accounting Policies Update.&#8221; ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK Finan"
+          },
+          {
+            "charIndex": 88790,
+            "context": "pital requirements for at least the next 12 months and thereafter for the foreseeable future. See &#8220;Risk Factors&#8221; in this Quarterly Report. Recent Accounting Guidance Information regarding recent accounting guidance and the impact of such guidance on our condensed consolidated financial statements is provided in this Quarterly Report in the &#8220;Notes to Condensed Consolidated Financial Statements, Note 1. Basis of Presentation and Significant Accounting Policies Update.&#8221; ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK Financial market risks related to int"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 18678,
+            "context": "vities: Depreciation and amortization expense 1,202 1,231 Income tax payments in excess of income tax provision ( 5,550 ) ( 1,535 ) Share-based compensation expense 2,579 2,120 Net gains on marketable securities and other investments ( 933 ) ( 297 ) Impairment losses on other investments 61 93 Equity in net earnings of investees ( 149 ) ( 13 ) Other items ( 52 ) ( 10 ) Changes in assets and liabilities: Accounts receivable, net ( 264 ) 535 Inventories ( 1,798 ) 33 Other assets 777 361 Trade accounts payable 149 ( 220 ) Payroll, benefits and other liabilities 231 ( 943 ) Unearned revenues ( 225"
+          },
+          {
+            "charIndex": 30639,
+            "context": "e 29, 2025 June 28, 2026 June 29, 2025 Interest and dividend income $ 97 $ 160 $ 347 $ 495 Net gains on marketable securities (1) 726 204 605 241 Net gains on other investments 19 5 237 30 Net gains on deferred compensation plan assets 149 84 135 65 Impairment losses on other investments ( 38 ) ( 52 ) ( 61 ) ( 93 ) Equity in net earnings (losses) of investees 66 ( 4 ) 149 13 Other ( 5 ) ( 39 ) 46 ( 3 ) $ 1,014 $ 358 $ 1,458 $ 748 (1) Primarily consist of net unrealized gains related to certain marketable equity securities. Note 3. Income Taxes In the fourth quarter of fiscal 2025, tax reform l"
+          },
+          {
+            "charIndex": 45890,
+            "context": "ude amortization of certain intangible assets and certain other acquisition-related charges, third-party acquisition and integration services costs and certain other items, which may include major restructuring and restructuring-related costs, asset impairment charges and awards, settlements and/or damages arising from legal or regulatory matters and recognition of the step-up of inventories and property, plant and equipment to fair value. Our CODM does not evaluate our operating segments using discrete asset information. The table below presents revenues and EBT for reportable segments (in mi"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 35247,
+            "context": "diluted shares 12 7 9 10 Shares of common stock equivalents not included because the effect would be anti-dilutive or certain performance conditions were not satisfied at the end of the period — 2 10 1 Note 5. Commitments and Contingencies Legal and Regulatory Proceedings. ParkerVision, Inc. v. QUALCOMM Incorporated: On May 1, 2014, ParkerVision, Inc. (ParkerVision) filed a complaint against us in the United States District Court for the Middle District of Florida alleging that certain of our products infringed seven ParkerVision patents. ParkerVision subsequently reduced the number of patents"
+          },
+          {
+            "charIndex": 45970,
+            "context": "ted charges, third-party acquisition and integration services costs and certain other items, which may include major restructuring and restructuring-related costs, asset impairment charges and awards, settlements and/or damages arising from legal or regulatory matters and recognition of the step-up of inventories and property, plant and equipment to fair value. Our CODM does not evaluate our operating segments using discrete asset information. The table below presents revenues and EBT for reportable segments (in millions): Three Months Ended Nine Months Ended June 28, 2026 June 29, 2025 June 2"
+          },
+          {
+            "charIndex": 56874,
+            "context": "wins or product launches; industry, market or technology trends, dynamics or transitions; our expectations regarding future demand or supply conditions; strategic investments or acquisitions, and the anticipated timing or benefits thereof; legal or regulatory matters, including the expected impacts of recently enacted or pending tax or other regulatory changes; U.S./China trade or national security tensions; vertical integration by our customers; competition; annual effective tax rates; and other statements regarding matters that are not historical are also forward-looking statements. Althoug"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 28147,
+            "context": "s generally include certain sales-based royalty revenues related to system software, certain amounts related to customer incentives and licensing revenues recognized related to devices sold in prior periods (including revenues resulting from certain settlements and adjustments to prior period royalty estimates, which include the impact of the reporting by our licensees of actual royalties due) and were as follows (in millions): Three Months Ended Nine Months Ended June 28, 2026 June 29, 2025 June 28, 2026 June 29, 2025 Revenues recognized from previously satisfied performance obligations $ 165"
+          },
+          {
+            "charIndex": 45921,
+            "context": "angible assets and certain other acquisition-related charges, third-party acquisition and integration services costs and certain other items, which may include major restructuring and restructuring-related costs, asset impairment charges and awards, settlements and/or damages arising from legal or regulatory matters and recognition of the step-up of inventories and property, plant and equipment to fair value. Our CODM does not evaluate our operating segments using discrete asset information. The table below presents revenues and EBT for reportable segments (in millions): Three Months Ended Nin"
+          },
+          {
+            "charIndex": 48081,
+            "context": "revenues were not allocated to our segments in our management reports because they were not considered in evaluating segment results. Unallocated revenues in the first nine months of fiscal 2025 were comprised of licensing revenues resulting from a settlement of a licensing dispute in the second quarter of fiscal 2025. 15 QUALCOMM Incorporated NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) Note 7. Fair Value Measurements and Marketable Securities The following table presents our fair value hierarchy for assets and liabilities measured at fair value on a recurring basis at Ju"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 94385,
+            "context": "atively impact our results of operations. &#8226; There are numerous risks associated with the operation and control of our manufacturing facilities, including a higher portion of fixed costs relative to a fabless model; environmental compliance and liability; impacts related to climate change; exposure to natural disasters, health crises, geopolitical conflicts and cyber-attacks; timely supply of equipment and materials; and various manufacturing issues. RISKS RELATED TO CYBERSECURITY OR MISAPPROPRIATION OF OUR CRITICAL INFORMATION &#8226; Our business and operations could suffer in the event"
+          },
+          {
+            "charIndex": 116779,
+            "context": "ry is subject to long design-in time frames, long product life cycles and a high degree of regulatory and safety requirements, necessitating suppliers to the industry to comply with stringent qualification processes, very low defect rates and high reliability standards, all of which results in significant barriers to entry and increased costs. Additionally, certain customers have adopted, and other customers may adopt, policies that require us to achieve certain sustainability, climate or other environmental, social and governance (ESG)-related targets, such as our 2040 net-zero global GHG emi"
+          },
+          {
+            "charIndex": 123419,
+            "context": "China may be severely impacted. In addition, acquisitions that we have completed have been and may in the future be reviewed, investigated and/or challenged by government agencies following completion, which could result in fines, penalties or other liability, or requirements to divest all or a portion of an acquired business. If we do not achieve the anticipated benefits of business acquisitions or other strategic activities, or if we are unable to consummate acquisitions or strategic investments that we consider important to the future of our business, our business and results of operations"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2025-11-05",
+        "reportDate": "2025-09-28",
+        "accessionNumber": "0000804328-25-000085",
+        "primaryDocument": "qcom-20250928.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/"
+      },
+      "textLength": 405603,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations.&#8221; Revenue Recognition. We grant licenses or otherwise provide rights to use portions of our intellectual property portfolio, which, among other rights, includes certain patent rights essential to and/or useful in the manufacture, sale or use of certain wireless products. We estimate and recognize sales-based royalties on such licensed products in the period in which the licensees' sales occur, which is based largely on preliminary royalty estimates provided by our licensees. For fiscal 2025 and 2024, actual amounts for sales-based royalties have been materially consistent with such estimates, and no significant reversals of revenues have been required as a result of adjustments to prior period royalty estimates. Impairment of Non-marketable Equity Investments. We monitor our investments, many of which are in early-stage companies, for events or circumstances that could indicate impairment, including those that result from observable price adjustments. Key considerations in this assessment include the investee's financial and liquidity position and business forecasts (including their ability to respond to any significant deterioration), industry performance, development and/or market acceptance of the investee's products or technologies, as well as considering any appreciation in fair value that has not been recognized in the carrying values of such investments and other relevant events and factors. Measurement of any impairments may require the use of unobservable inputs. In fiscal 2025 and 2024, there were no significant impairment losses or adjustments to our previous judgments and estimates recorded. Inventories. We measure inventory at the lower of cost or net realizable value considering judgments and estimates related to future customer demand and other market conditions, such as the impact of the macroeconomic environment and global trade policies. Although we believe these estimates are reasonable, any significant changes in customer demand that are less favorable than our previous estimates may require additional inventory write-downs and would be reflected in cost of sales resulting in a negative impact to our gross margin in that period. For fiscal 2025 and 2024, the net effect from changes in this estimate and related reserves was less than 1% of cost of revenues during each period. Impairment of Goodwill, Other Indefinite-Lived Assets and Long-Lived Assets . We monitor our goodwill, other indefinite-lived assets and long-lived assets for the existence of impairment indicators and apply judgments in the valuation methods (generally income or market approach) and underlying inputs and assumptions utilized in such assessments, which are generally unobservable inputs. During fiscal 2025 and 2024, there were no material impairment charges for long-lived or indefinite-lived assets. Additionally, the estimated fair values of our QCT and QTL reporting units, based on our qualitative assessment, were substantially in excess of their respective carrying values at September 28, 2025. Legal and Regulatory Proceedings. We are currently involved in certain legal and regulatory proceedings, the outcomes of which are inherently uncertain. If there is at least a reasonable possibility that a material loss may have been incurred associated with pending legal and regulatory proceedings, we disclose such fact. We record our best estimate of a loss related to pending legal and regulatory proceedings when the loss is considered probable and the amount can be reasonably estimated. We face difficulties in evaluating or estimating likely outcomes and/or the amount of possible loss in certain legal and regulatory proceedings. Until the final resolution of such matters, there may be an exposure to loss in excess of the amount recorded (or the possible loss disclosed), and such amounts could be material. Income Taxes. We make significant judgments and estimates in determining our provision for income taxes, including our assessment of our income tax positions, both in the U.S. and foreign jurisdictions, given the uncertainties involved in the interpretation and application of complex tax laws and regulations in various taxing jurisdictions. While we believe we have appropriate support for the positions we have taken or plan to take on our tax returns, we regularly assess the potential outcomes of examinations by taxing authorities in determining the adequacy of our provision for income taxes based on the technical merits of the position. The actual liability for U.S. or foreign taxes may be materially different from our estimates, which could result in the need to record additional tax liabilities or potentially reverse previously recorded tax liabilities. Based on our results for fiscal 2025, an assumed one-percentage point increase to our annual effective tax rate would result in an increase in income tax expense of $127 million. Deferred tax assets represent amounts available to reduce income taxes payable on taxable income in future years. Under the OBBB enacted in July 2025, we expect to be subject to CAMT beginning in fiscal 2026 and therefore, we no longer expect to realize substantially all of our existing federal deferred tax assets. As a result, we recorded a charge of $5.7 billion to income tax expense to establish a valuation allowance against such deferred tax assets in the fourth quarter of fiscal 2025. Factors considered in this determination included assessing the adequacy of future expected taxable income from all sources, including reversal of taxable temporary differences, forecasted operating earnings and available tax planning strategies, and considering that substantially all of our income is taxed in the U.S., of which a significant portion qualifies for preferential treatment as FDDEI. Changes in future taxable income (including less of our income qualifying for preferential treatment as FDDEI), tax laws (including changes to the CAMT rules) and other factors may change our determination regarding whether we will be able to realize our deferred tax assets. 46 Recent Accounting Pronouncements Information regarding recent accounting pronouncements and the impact of those pronouncements, if any, on our consolidated financial statements is provided in this Annual Report in &#8220;Notes to Consolidated Financial Statements, Note 1. Significant Accounting Policies.&#8221; Item 7A. Quantitative and Qualitative Disclosures about Market Risk We are exposed to market risks, including changes to interest rates, equity price risk and foreign currency exchange rates. Interest Rate Risk We invest a portion of our cash in a number of diversified fixed- and floating-rate securities consisting of cash equivalents, marketable debt securities and time deposits that are subject to interest rate risk. At September 28, 2025 and September 29, 2024, a hypothetical increase in interest rates of 100 basis points across the entire yield curve on our holdings would have resulted in an immaterial decrease in the fair value of our holdings. At September 28, 2025 and September 29, 2024, all of our issued debt was comprised of unsecured fixed-rate notes. From time to time, we issue commercial paper for which our exposure to interest rate risk is negligible based on the original maturities of approximately three months or less. We manage our exposure to certain interest rate risks related to our long-term debt through the use of interest rate swaps. We enter into these agreements to manage interest rate risk associated with our cash equivalents and marketable securities, in addition to changes in the fair value of our outstanding debt. At September 28, 2025 and September 29, 2024, we had an aggregate notional amount of $3.6 billion and $2.1 billion, respectively, in interest rate swaps that are designated as fair value hedges to effectively convert certain fixed-rate interest payments into floating-rate payments on our outstanding debt. At September 28, 2025 and September 29, 2024, a hypothetical increase in interest rates of 100 basis points would not cause a material loss in earnings. Equity Price Risk We hold investments in non-marketable equity instruments in privately held companies that may be impacted by equity price risks. Volatility in the equity markets could negatively affect our investees' ability to raise additional capital as well as our ability to realize value from our investments through initial public offerings, mergers or private sales. Consequently, we could incur impairment losses or realized losses on all or part of the values of our non-marketable equity investments. At September 28, 2025, our non-marketable equity investments (including those accounted for under the equity method) consisted of investments in over 150 companies with an aggregate carrying value included in other assets of $1.4 billion. Impairment losses on such investments were not material for any of the periods presented in this Annual Report. Foreign Exchange Risk As a global company, we face exposure to adverse movements in foreign currency exchange rates. Financial assets and liabilities held by consolidated subsidiaries that are not denominated in the functional currency of those entities are subject to the effects of currency fluctuations. We could experience gains or losses on foreign currency cash flows, as well as economic loss with respect to the recoverability of foreign investments. We manage our exposure to foreign exchange market risks, when deemed appropriate, through the use of derivative and non-derivative financial instruments, including foreign currency forward and option contracts with financial counterparties and, from time to time, other financial instruments designated as net investment hedges. We utilize such financial instruments for hedging or risk management purposes rather than for speculative purposes. While we may hedge certain transactions with non-U.S. customers, declines in currency values in certain regions may, if not reversed, adversely affect future product sales because our products may become more expensive to purchase in the countries of the affected currencies. Gains or losses on hedged foreign currency transactions and investments, including certain royalties earned from licensees, operating expenses and net investments in foreign subsidiaries, are generally offset by corresponding losses or gains on the related hedging instrument. We have experienced fluctuations in our effective tax rate as a result of foreign currency gains or losses related to our Korean withholding tax receivable (which was $2.2 billion as of September 28, 2025), which is described further in this Annual Report in &#8220;Notes to Consolidated Financial Statements, Note 3. Income Taxes.&#8221; Based on the balance of such foreign withholding tax receivable, an assumed 10% adverse change to foreign exchange rates would result in losses of approximately $223 million and $222 million as of September 28, 2025 and September 29, 2024, respectively. Other gains and losses from foreign currency transactions were not material for any of the periods presented in this Annual Report. Our analysis methods used to assess and mitigate the risks discussed above should not be considered projections of future risks. Additional information regarding the financial instruments mentioned above is provided in this Annual Report in &#8220;Notes to Consolidated Financial Statements, Note 1. Significant Accounting Policies,&#8221; &#8220;Notes to Consolidated Financial Statements, Note 2. Composition of Certain Financial Statement Items,&#8221; &#8220;Notes to Consolidated Financial Statements, Note 6. Debt&#8221; and &#8220;Notes to Consolidated Financial Statements, Note 10. Fair Value Measurements and Marketable Securities.&#8221; 47 Item 8. Financial Statements and Supplementary Data The information required by this item is included in this Annual Report on pages F-1 through F-27. Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure None. Item 9A. Controls and Procedures Conclusion Regarding the Effectiveness of Disclosure Controls and Procedures Under the supervision and with the participation of our management, including our principal executive officer and our principal financial officer, we conducted an evaluation of our disclosure controls and procedures, as such terms are defined under Rule 13a-15(e) promulgated under the Securities Exchange Act of 1934, as amended (the Exchange Act). Based on this evaluation, our principal executive officer and our principal financial officer concluded that our disclosure controls and procedures were effective as of the end of the period covered by this Annual Report. Management's Report on Internal Control over Financial Reporting Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rule 13a-15(f). Under the supervision and with the participation of our management, including our principal executive officer and our principal financial officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework in Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on our evaluation under this framework, our management concluded that our internal control over financial reporting was effective as of September 28, 2025. PricewaterhouseCoopers LLP, the independent registered public accounting firm that audited our consolidated financial statements included in this Annual Report, has also audited the effectiveness of our internal control over financial reporting as of September 28, 2025, as stated in its report which appears on pages F-1 through F-2 in this Annual Report. Inherent Limitations over Internal Controls Our internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of consolidated financial statements for external purposes in accordance with generally accepted accounting principles. Our internal control over financial reporting includes those policies and procedures that: i. pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of our assets; ii. provide reasonable assurance that transactions are recorded as necessary to permit preparation of consolidated financial statements in accordance with generally accepted accounting principles, and that our receipts and expenditures are being made only in accordance with authorizations of our management and directors; and iii. provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposit",
+        "charRange": [
+          266303,
+          281303
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors&#8221; in this Annual Report. Critical Accounting Estimates The preparation of our consolidated financial statements in accordance with accounting principles generally accepted in the United States requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and disclosure of contingent amounts. We base our estimates on historical and anticipated results and trends and on various other assumptions that we believe are reasonable under the circumstances, including assumptions as to future events. By their nature, estimates are inherently subject to a degree of uncertainty. Although we believe that our estimates and the assumptions supporting our assessments are reasonable, actual results could differ materially from our estimates and assumptions, and could be material to our consolidated financial statements. 45 In addition to our critical accounting estimates and policies below, refer to &#8220;Note 1. Significant Accounting Policies&#8221; and &#8220;Note 2. Composition of Certain Financial Statement Items&#8221; included in this Annual Report in &#8220;Notes to Consolidated Financial Statements&#8221; for further information. If the impact of changes in our critical accounting estimates is material or considered necessary to understand our results of operations for the periods presented, then such information is disclosed within this Annual Report in &#8220;Part II, Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations.&#8221; Revenue Recognition. We grant licenses or otherwise provide rights to use portions of our intellectual property portfolio, which, among other rights, includes certain patent rights essential to and/or useful in the manufacture, sale or use of certain wireless products. We estimate and recognize sales-based royalties on such licensed products in the period in which the licensees' sales occur, which is based largely on preliminary royalty estimates provided by our licensees. For fiscal 2025 and 2024, actual amounts for sales-based royalties have been materially consistent with such estimates, and no significant reversals of revenues have been required as a result of adjustments to prior period royalty estimates. Impairment of Non-marketable Equity Investments. We monitor our investments, many of which are in early-stage companies, for events or circumstances that could indicate impairment, including those that result from observable price adjustments. Key considerations in this assessment include the investee's financial and liquidity position and business forecasts (including their ability to respond to any significant deterioration), industry performance, development and/or market acceptance of the investee's products or technologies, as well as considering any appreciation in fair value that has not been recognized in the carrying values of such investments and other relevant events and factors. Measurement of any impairments may require the use of unobservable inputs. In fiscal 2025 and 2024, there were no significant impairment losses or adjustments to our previous judgments and estimates recorded. Inventories. We measure inventory at the lower of cost or net realizable value considering judgments and estimates related to future customer demand and other market conditions, such as the impact of the macroeconomic environment and global trade policies. Although we believe these estimates are reasonable, any significant changes in customer demand that are less favorable than our previous estimates may require additional inventory write-downs and would be reflected in cost of sales resulting in a negative impact to our gross margin in that period. For fiscal 2025 and 2024, the net effect from changes in this estimate and related reserves was less than 1% of cost of revenues during each period. Impairment of Goodwill, Other Indefinite-Lived Assets and Long-Lived Assets . We monitor our goodwill, other indefinite-lived assets and long-lived assets for the existence of impairment indicators and apply judgments in the valuation methods (generally income or market approach) and underlying inputs and assumptions utilized in such assessments, which are generally unobservable inputs. During fiscal 2025 and 2024, there were no material impairment charges for long-lived or indefinite-lived assets. Additionally, the estimated fair values of our QCT and QTL reporting units, based on our qualitative assessment, were substantially in excess of their respective carrying values at September 28, 2025. Legal and Regulatory Proceedings. We are currently involved in certain legal and regulatory proceedings, the outcomes of which are inherently uncertain. If there is at least a reasonable possibility that a material loss may have been incurred associated with pending legal and regulatory proceedings, we disclose such fact. We record our best estimate of a loss related to pending legal and regulatory proceedings when the loss is considered probable and the amount can be reasonably estimated. We face difficulties in evaluating or estimating likely outcomes and/or the amount of possible loss in certain legal and regulatory proceedings. Until the final resolution of such matters, there may be an exposure to loss in excess of the amount recorded (or the possible loss disclosed), and such amounts could be material. Income Taxes. We make significant judgments and estimates in determining our provision for income taxes, including our assessment of our income tax positions, both in the U.S. and foreign jurisdictions, given the uncertainties involved in the interpretation and application of complex tax laws and regulations in various taxing jurisdictions. While we believe we have appropriate support for the positions we have taken or plan to take on our tax returns, we regularly assess the potential outcomes of examinations by taxing authorities in determining the adequacy of our provision for income taxes based on the technical merits of the position. The actual liability for U.S. or foreign taxes may be materially different from our estimates, which could result in the need to record additional tax liabilities or potentially reverse previously recorded tax liabilities. Based on our results for fiscal 2025, an assumed one-percentage point increase to our annual effective tax rate would result in an increase in income tax expense of $127 million. Deferred tax assets represent amounts available to reduce income taxes payable on taxable income in future years. Under the OBBB enacted in July 2025, we expect to be subject to CAMT beginning in fiscal 2026 and therefore, we no longer expect to realize substantially all of our existing federal deferred tax assets. As a result, we recorded a charge of $5.7 billion to income tax expense to establish a valuation allowance against such deferred tax assets in the fourth quarter of fiscal 2025. Factors considered in this determination included assessing the adequacy of future expected taxable income from all sources, including reversal of taxable temporary differences, forecasted operating earnings and available tax planning strategies, and considering that substantially all of our income is taxed in the U.S., of which a significant portion qualifies for preferential treatment as FDDEI. Changes in future taxable income (including less of our income qualifying for preferential treatment as FDDEI), tax laws (including changes to the CAMT rules) and other factors may change our determination regarding whether we will be able to realize our deferred tax assets. 46 Recent Accounting Pronouncements Information regarding recent accounting pronouncements and the impact of those pronouncements, if any, on our consolidated financial statements is provided in this Annual Report in &#8220;Notes to Consolidated Financial Statements, Note 1. Significant Accounting Policies.&#8221; Item 7A. Quantitative and Qualitative Disclosures about Market Risk We are exposed to market risks, including changes to interest rates, equity price risk and foreign currency exchange rates. Interest Rate Risk We invest a portion of our cash in a number of diversified fixed- and floating-rate securities consisting of cash equivalents, marketable debt securities and time deposits that are subject to interest rate risk. At September 28, 2025 and September 29, 2024, a hypothetical increase in interest rates of 100 basis points across the entire yield curve on our holdings would have resulted in an immaterial decrease in the fair value of our holdings. At September 28, 2025 and September 29, 2024, all of our issued debt was comprised of unsecured fixed-rate notes. From time to time, we issue commercial paper for which our exposure to interest rate risk is negligible based on the original maturities of approximately three months or less. We manage our exposure to certain interest rate risks related to our long-term debt through the use of interest rate swaps. We enter into these agreements to manage interest rate risk associated with our cash equivalents and marketable securities, in addition to changes in the fair value of our outstanding debt. At September 28, 2025 and September 29, 2024, we had an aggregate notional amount of $3.6 billion and $2.1 billion, respectively, in interest rate swaps that are designated as fair value hedges to effectively convert certain fixed-rate interest payments into floating-rate payments on our outstanding debt. At September 28, 2025 and September 29, 2024, a hypothetical increase in interest rates of 100 basis points would not cause a material loss in earnings. Equity Price Risk We hold investments in non-marketable equity instruments in privately held companies that may be impacted by equity price risks. Volatility in the equity markets could negatively affect our investees' ability to raise additional capital as well as our ability to realize value from our investments through initial public offerings, mergers or private sales. Consequently, we could incur impairment losses or realized losses on all or part of the values of our non-marketable equity investments. At September 28, 2025, our non-marketable equity investments (including those accounted for under the equity method) consisted of investments in over 150 companies with an aggregate carrying value included in other assets of $1.4 billion. Impairment losses on such investments were not material for any of the periods presented in this Annual Report. Foreign Exchange Risk As a global company, we face exposure to adverse movements in foreign currency exchange rates. Financial assets and liabilities held by consolidated subsidiaries that are not denominated in the functional currency of those entities are subject to the effects of currency fluctuations. We could experience gains or losses on foreign currency cash flows, as well as economic loss with respect to the recoverability of foreign investments. We manage our exposure to foreign exchange market risks, when deemed appropriate, through the use of derivative and non-derivative financial instruments, including foreign currency forward and option contracts with financial counterparties and, from time to time, other financial instruments designated as net investment hedges. We utilize such financial instruments for hedging or risk management purposes rather than for speculative purposes. While we may hedge certain transactions with non-U.S. customers, declines in currency values in certain regions may, if not reversed, adversely affect future product sales because our products may become more expensive to purchase in the countries of the affected currencies. Gains or losses on hedged foreign currency transactions and investments, including certain royalties earned from licensees, operating expenses and net investments in foreign subsidiaries, are generally offset by corresponding losses or gains on the related hedging instrument. We have experienced fluctuations in our effective tax rate as a result of foreign currency gains or losses related to our Korean withholding tax receivable (which was $2.2 billion as of September 28, 2025), which is described further in this Annual Report in &#8220;Notes to Consolidated Financial Statements, Note 3. Income Taxes.&#8221; Based on the balance of such foreign withholding tax receivable, an assumed 10% adverse change to foreign exchange rates would result in losses of approximately $223 million and $222 million as of September 28, 2025 and September 29, 2024, respectively. Other gains and losses from foreign currency transactions were not material for any of the periods presented in this Annual Report. Our analysis methods used to assess and mitigate the risks discussed above should not be considered projections of future risks. Additional information regarding the financial instruments mentioned above is provided in this Annual Report in &#8220;Notes to Consolidated Financial Statements, Note 1. Significant Accounting Policies,&#8221; &#8220;Notes to Consolidated Financial Statements, Note 2. Composition of Certain Financial Statement Items,&#8221; &#8220;Notes to Consolidated Financial Statements, Note 6. Debt&#8221; and &#8220;Notes to Consolidated Financial Statements, Note 10. Fair Value Measurements and Marketable Securities.&#8221; 47 Item 8. Financial Statements and Supplementary Data The information required by this item is included in this Annual Report on pages F-1 through F-27. Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure None. Item 9A. Controls and Procedures Conclusion Regarding the Effectiveness of Disclosure Controls and Procedures Under the supervision and with the participation of our management, including our principal executive officer and our principal financial officer, we conducted an evaluation of our disclosure controls and procedures, as such terms are defined under Rule 13a-15(e) promulgated under the Securities Exchange Act of 1934, as amended (the Exchange Act). Based on this evaluation, our principal executive officer and our principal financial officer concluded that our disclosure controls and procedures were effective as of the end of the period covered by this Annual Report. Management's Report on Internal Control over Financial Reporting Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rule 13a-15(f). Under the supervision and with the participation of our management, including our principal executive officer and our principal financial officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework in Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on our evaluation under this framework, our man",
+        "charRange": [
+          264829,
+          279829
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 139191,
+            "context": "suppliers or both incurring additional compliance costs that are passed on to us. These costs may adversely impact our results of operations and financial condition. In addition, climate change could cause certain natural disasters, such as drought, wildfires, storms, flooding or rising sea levels, to occur more frequently or with greater intensity, which could pose physical risks to our manufacturing facilities or our suppliers' facilities, could disrupt the availability of water necessary for the operation of such facilities, and could increase or decrease temperatures resulting in increased"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 86473,
+            "context": "or to May 2012, Ms. Ace served in various senior executive roles in human resources, post-acquisition/merger integration and employment law at Life Technologies Corporation. She began her career at Gray, Cary, Ware & Freidenrich (now DLA Piper) as a litigation and transactional employment attorney, specializing in mergers and acquisitions. Ms. Ace holds a B.A. in Law & Society from the University of California, Santa Barbara and a J.D. from Santa Clara School of Law. Baaziz Achour, age 64, has served as Chief Technology Officer, QTI since February 2025. Dr. Achour served as Chief Technology Of"
+          },
+          {
+            "charIndex": 87850,
+            "context": "rities from February 2021 to November 2021, Deputy General Counsel and Chief Compliance Officer, North America, Transformation Projects and Compliance from April 2019 to February 2021, Deputy General Counsel, Commercial, Transportation as a Service, Litigation and Regulation from January 2018 to April 2019, Deputy General Counsel, Intellectual Property, Regulation and Litigation from June 2017 to January 2018 and Deputy General Counsel, Litigation from December 2015 to June 2017. Prior to General Motors, Ms. Chaplin was an attorney at Fish & Richardson P.C. from February 2001 to December 2015,"
+          },
+          {
+            "charIndex": 87971,
+            "context": "ation Projects and Compliance from April 2019 to February 2021, Deputy General Counsel, Commercial, Transportation as a Service, Litigation and Regulation from January 2018 to April 2019, Deputy General Counsel, Intellectual Property, Regulation and Litigation from June 2017 to January 2018 and Deputy General Counsel, Litigation from December 2015 to June 2017. Prior to General Motors, Ms. Chaplin was an attorney at Fish & Richardson P.C. from February 2001 to December 2015, last holding the position of Litigation Practice Group Leader/Litigation Equity Principal. She began her career as an in"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 211398,
+            "context": "or other trade restrictions affecting our products or those of our significant customers; and variations between our actual financial results or guidance and 32 expectations of securities analysts or investors, among others. In the past, securities class action litigation has been brought against companies following periods of volatility in the market price of their securities, among other reasons. We have been in the past and may in the future be the target of securities litigation, which could result in substantial uninsured costs and divert management's attention and our resources. Geopoli"
+          },
+          {
+            "charIndex": 242139,
+            "context": "charges. Other expenses in fiscal 2024 primarily consisted of $107 million in restructuring and restructuring-related charges (substantially all of which related to severance costs) and a $75 million charge related to the settlement of a securities class action lawsuit. Interest Expense and Investment and Other Income, Net (in millions) 2025 2024 Change Interest expense $ 664 $ 697 $ (33) Investment and other income, net Interest and dividend income $ 639 $ 675 $ (36) Net gains on marketable securities 254 14 240 Net gains on other investments 44 175 (131) Net gains on deferred compensation p"
+          },
+          {
+            "charIndex": 361928,
+            "context": "harges. Other expenses in fiscal 2024 consisted primarily of $ 107 million in restructuring and restructuring-related charges (substantially all of which related to severance costs) and a $ 75 million charge related to the settlement of a securities class action lawsuit. Other expenses in fiscal 2023 consisted of $ 712 million in total restructuring and restructuring-related charges (substantially all of which related to severance costs, resulting from certain cost reduction actions committed to in fiscal 2023) and a $ 150 million intangible asset impairment charge related to in-process resear"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 211294,
+            "context": "tal investigation or proceeding against us, or any announcement concerning the implementation of tariffs or other trade restrictions affecting our products or those of our significant customers; and variations between our actual financial results or guidance and 32 expectations of securities analysts or investors, among others. In the past, securities class action litigation has been brought against companies following periods of volatility in the market price of their securities, among other reasons. We have been in the past and may in the future be the target of securities litigation, which"
+          },
+          {
+            "charIndex": 324173,
+            "context": "be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants as of the measurement date. Applicable accounting guidance provides an established hierarchy for inputs used in measuring fair value that maximizes the use of observable inputs and minimizes the use of unobservable inputs by requiring that the most observable inputs be used when available. Observable inputs are inputs that market participants would use in valuing the asset or liability and are dev"
+          },
+          {
+            "charIndex": 340263,
+            "context": "license agreements with us, or reporting to us in a manner that is not in compliance with their contractual obligations. In such cases, we estimate and recognize licensing revenues only when we have a contract, as defined in the revenue recognition guidance, which includes, among other items, evaluating whether our license agreements remain valid and enforceable and evaluating licensees' conduct and whether they remain committed to perform their respective obligations. We also estimate and recognize licensing revenues only to the extent it is probable that a significant reversal of cumulative"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 317489,
+            "context": "sset class; the security's relative performance versus its peers, sector or asset class; the market and economy in general; views of external investment managers; news or financial information that has been released specific to the investee; and the outlook for the overall industry in which the investee operates. Equity Method and Non-marketable Equity Investments. Equity investments in common stock or in-substance common stock for which we have significant influence, but not control, over the investee and are not the primary beneficiary of the investee's activities are accounted for under the"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 117749,
+            "context": "o new and expanded product areas, and industries and applications beyond mobile handsets, if our new technologies and products are not successful, or if we are not successful in the time frames we anticipate, we may incur significant costs and asset impairments, our business and revenues may not grow or grow as anticipated, our revenues and margins may be negatively impacted, our stock price may decline and our reputation may be harmed. We may engage in acquisitions and other strategic transactions or make investments, or be unable to consummate planned strategic acquisitions, which could adve"
+          },
+          {
+            "charIndex": 119710,
+            "context": "benefits. In some cases, we may be required to consolidate or record our share of the earnings or losses of companies in which we have acquired ownership or variable interests. In addition, we have in the past recorded, and may in the future record, impairment or other charges related to our strategic activities. Any losses or impairment charges that we incur related to strategic activities will have a negative impact on our results of operations and financial condition, and we may continue to incur new or additional losses related to strategic assets or investments that we have not fully impa"
+          },
+          {
+            "charIndex": 119789,
+            "context": "of the earnings or losses of companies in which we have acquired ownership or variable interests. In addition, we have in the past recorded, and may in the future record, impairment or other charges related to our strategic activities. Any losses or impairment charges that we incur related to strategic activities will have a negative impact on our results of operations and financial condition, and we may continue to incur new or additional losses related to strategic assets or investments that we have not fully impaired or exited. Achieving the anticipated benefits of business acquisitions dep"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 25268,
+            "context": "wins or product launches; industry, market or technology trends, dynamics or transitions; our expectations regarding future demand or supply conditions; strategic investments or acquisitions, and the anticipated timing or benefits thereof; legal or regulatory matters; U.S./China trade or national security tensions; vertical integration by our customers; competition; and other statements regarding matters that are not historical are also forward-looking statements. Although forward-looking statements in this Annual Report reflect our good faith judgment, such statements can only be based on fa"
+          },
+          {
+            "charIndex": 62471,
+            "context": "exist for QCT product offerings that have expanded into industries and applications beyond mobile handsets, including automotive and IoT. The automotive industry is subject to long design-in time frames, long product life cycles and a high degree of regulatory and safety requirements, necessitating suppliers to the industry to comply with stringent qualification processes, very low defect rates and high reliability standards, all of which results in a significant barrier to entry and may result in increased costs. 9 QCT also faces competition, which may intensify in the future, from products i"
+          },
+          {
+            "charIndex": 73108,
+            "context": "g &#8220;Seasonality.&#8221; Corporate Structure We operate our businesses through our parent company, QUALCOMM Incorporated, and multiple direct and indirect subsidiaries. We have developed our corporate structure in order to address various legal, regulatory, tax, contractual compliance, operational and other matters. Substantially all of our products and services businesses, including QCT, and substantially all of our engineering and research and development functions, are operated by Qualcomm Technologies, Inc. (QTI), a subsidiary of QUALCOMM Incorporated, and QTI's subsidiaries. QTL is op"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 240263,
+            "context": "6,415 6,171 244 $ 44,284 $ 38,962 $ 5,322 2025 vs. 2024 The increase in revenues in fiscal 2025 was primarily due to: + $5.1 billion in higher equipment and services revenue from our QCT segment + $143 million in licensing revenues resulting from a settlement of a licensing dispute in the second quarter of fiscal 2025, which was not allocated to our segment results Costs and Expenses (in millions, except percentages) 2025 2024 Change Cost of revenues $ 19,738 $ 17,060 $ 2,678 Gross margin 55 % 56 % 2025 vs. 2024 Gross margin percentage decreased in fiscal 2025 primarily due to a decrease in t"
+          },
+          {
+            "charIndex": 242112,
+            "context": "g and restructuring-related charges. Other expenses in fiscal 2024 primarily consisted of $107 million in restructuring and restructuring-related charges (substantially all of which related to severance costs) and a $75 million charge related to the settlement of a securities class action lawsuit. Interest Expense and Investment and Other Income, Net (in millions) 2025 2024 Change Interest expense $ 664 $ 697 $ (33) Investment and other income, net Interest and dividend income $ 639 $ 675 $ (36) Net gains on marketable securities 254 14 240 Net gains on other investments 44 175 (131) Net gains"
+          },
+          {
+            "charIndex": 322429,
+            "context": "et interest rates. The net gains and losses on the interest rate swaps, as well as the offsetting gains or losses on the related fixed-rate debt attributable to the hedged risks, are recognized as interest expense in the current period. The interest settlement payments associated with the interest rate swap agreements are classified as cash flows from operating activities in the consolidated statements of cash flows. From time to time, we also enter into forward-starting interest rate swaps to hedge the variability of forecasted interest payments on certain anticipated debt issuances. These sw"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 62630,
+            "context": "ry is subject to long design-in time frames, long product life cycles and a high degree of regulatory and safety requirements, necessitating suppliers to the industry to comply with stringent qualification processes, very low defect rates and high reliability standards, all of which results in a significant barrier to entry and may result in increased costs. 9 QCT also faces competition, which may intensify in the future, from products internally developed by our customers, including some of our largest customers. Our competitors devote significant amounts of their financial, technical and oth"
+          },
+          {
+            "charIndex": 93624,
+            "context": "vely impact our results of operations. 14 &#8226; There are numerous risks associated with the operation and control of our manufacturing facilities, including a higher portion of fixed costs relative to a fabless model; environmental compliance and liability; impacts related to climate change; exposure to natural disasters, health crises, geopolitical conflicts and cyber-attacks; timely supply of equipment and materials; and various manufacturing issues. RISKS RELATED TO CYBERSECURITY OR MISAPPROPRIATION OF OUR CRITICAL INFORMATION &#8226; Our business and operations could suffer in the event"
+          },
+          {
+            "charIndex": 115990,
+            "context": "ry is subject to long design-in time frames, long product life cycles and a high degree of regulatory and safety requirements, necessitating suppliers to the industry to comply with stringent qualification processes, very low defect rates and high reliability standards, all of which results in significant barriers to entry and increased costs. Additionally, certain customers have adopted, and other customers may adopt, policies that require us to achieve certain sustainability, climate or other environmental, social and governance (ESG)-related targets, such as our 2040 net-zero global GHG emi"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "Revenues",
+      "points": [
+        {
+          "start": "2026-03-30",
+          "end": "2026-06-28",
+          "val": 9947000000,
+          "accn": "0000804328-26-000086",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-29",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2025-09-29",
+          "end": "2026-06-28",
+          "val": 32798000000,
+          "accn": "0000804328-26-000086",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-29"
+        },
+        {
+          "start": "2025-12-29",
+          "end": "2026-03-29",
+          "val": 10599000000,
+          "accn": "0000804328-26-000061",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-04-29",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-09-29",
+          "end": "2026-03-29",
+          "val": 22851000000,
+          "accn": "0000804328-26-000061",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-04-29"
+        },
+        {
+          "start": "2025-09-29",
+          "end": "2025-12-28",
+          "val": 12252000000,
+          "accn": "0000804328-26-000017",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-02-04",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2024-09-30",
+          "end": "2025-09-28",
+          "val": 44284000000,
+          "accn": "0000804328-25-000085",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-11-05",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-03-31",
+          "end": "2025-06-29",
+          "val": 10365000000,
+          "accn": "0000804328-26-000086",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-29",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-03-31",
+          "end": "2025-06-29",
+          "val": 10365000000,
+          "accn": "0000804328-25-000045",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-07-30"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-03-30",
+          "end": "2026-06-28",
+          "val": 1.87,
+          "accn": "0000804328-26-000086",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-29",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2025-09-29",
+          "end": "2026-06-28",
+          "val": 11.53,
+          "accn": "0000804328-26-000086",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-29"
+        },
+        {
+          "start": "2025-12-29",
+          "end": "2026-03-29",
+          "val": 6.88,
+          "accn": "0000804328-26-000061",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-04-29",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-09-29",
+          "end": "2026-03-29",
+          "val": 9.65,
+          "accn": "0000804328-26-000061",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-04-29"
+        },
+        {
+          "start": "2025-09-29",
+          "end": "2025-12-28",
+          "val": 2.78,
+          "accn": "0000804328-26-000017",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-02-04",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2024-09-30",
+          "end": "2025-09-28",
+          "val": 5.01,
+          "accn": "0000804328-25-000085",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-11-05",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-03-31",
+          "end": "2025-06-29",
+          "val": 2.43,
+          "accn": "0000804328-26-000086",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-29",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-03-31",
+          "end": "2025-06-29",
+          "val": 2.43,
+          "accn": "0000804328-25-000045",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-07-30"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-03-30",
+          "end": "2026-06-28",
+          "val": 2002000000,
+          "accn": "0000804328-26-000086",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-29",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2025-09-29",
+          "end": "2026-06-28",
+          "val": 12377000000,
+          "accn": "0000804328-26-000086",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-29"
+        },
+        {
+          "start": "2025-12-29",
+          "end": "2026-03-29",
+          "val": 7370000000,
+          "accn": "0000804328-26-000061",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-04-29",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-09-29",
+          "end": "2026-03-29",
+          "val": 10375000000,
+          "accn": "0000804328-26-000061",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-04-29"
+        },
+        {
+          "start": "2025-09-29",
+          "end": "2025-12-28",
+          "val": 3004000000,
+          "accn": "0000804328-26-000017",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-02-04",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2024-09-30",
+          "end": "2025-09-28",
+          "val": 5541000000,
+          "accn": "0000804328-25-000085",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-11-05",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-03-31",
+          "end": "2025-06-29",
+          "val": 2666000000,
+          "accn": "0000804328-26-000086",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-29",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-03-31",
+          "end": "2025-06-29",
+          "val": 2666000000,
+          "accn": "0000804328-25-000045",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-07-30"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2026-03-30",
+          "end": "2026-06-28",
+          "val": 1626000000,
+          "accn": "0000804328-26-000086",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-29",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2025-09-29",
+          "end": "2026-06-28",
+          "val": 7302000000,
+          "accn": "0000804328-26-000086",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-29"
+        },
+        {
+          "start": "2025-12-29",
+          "end": "2026-03-29",
+          "val": 2309000000,
+          "accn": "0000804328-26-000061",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-04-29",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-09-29",
+          "end": "2026-03-29",
+          "val": 5676000000,
+          "accn": "0000804328-26-000061",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-04-29"
+        },
+        {
+          "start": "2025-09-29",
+          "end": "2025-12-28",
+          "val": 3366000000,
+          "accn": "0000804328-26-000017",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-02-04",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2024-09-30",
+          "end": "2025-09-28",
+          "val": 12355000000,
+          "accn": "0000804328-25-000085",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-11-05",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-03-31",
+          "end": "2025-06-29",
+          "val": 2762000000,
+          "accn": "0000804328-26-000086",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-07-29",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-03-31",
+          "end": "2025-06-29",
+          "val": 2762000000,
+          "accn": "0000804328-25-000045",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-07-30"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "QCOM",
+    "name": "QUALCOMM INC/DE",
+    "sector": "Radio & Tv Broadcasting & Communications Equipment",
+    "pe": 18.77,
+    "pb": 6.2,
+    "ret3m": -12.8317,
+    "ret6m": 9.9856,
+    "roe": 112.87,
+    "debtEquity": 3.93,
+    "revenueGrowth": 13.66,
+    "epsGrowth": -44.15,
+    "fcfGrowth": null,
+    "operatingMargin": 27.9,
+    "marginTrend": 2.05,
+    "sentiment": 0.789,
+    "analyst": 61.2,
+    "beta": 1.6818851
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "QUALCOMM (QCOM) Issued Q4 Guidance, Is The 17% Discount Enough?",
+        "url": "https://finnhub.io/api/news?id=775c79f968072e9dd13dff88f835ee87be33126a80e52bf240b6904f3ae25b6c",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Marvell Technology Stock's Multiple Leans On Profit From Below The Operating Line",
+        "url": "https://finnhub.io/api/news?id=4a8782728aedce2357e9c4eaafdfee82764aeaefc493664412fa88c240f2a443",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Qualcomm's Android Growth Number Has Left The Front Of The Story",
+        "url": "https://finnhub.io/api/news?id=6e226592b461469900f7997cbb601bccc7102a3350b730134af5cae6eb365ae6",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Micron Technology Stock Surged On A Shortage The Company Had Already Described",
+        "url": "https://finnhub.io/api/news?id=2e0fbc8d937a48bd74790743f4abac35f2fe01f96eb2898c6e213b15a1279094",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "What TSMC’s Surging Sales Growth Means for Apple and Nvidia Stocks",
+        "url": "https://finnhub.io/api/news?id=978f32088d979b9d0c84ed650ff818a961bad2e598bee12cf5be28da367ae770",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Apple downgraded, HPE upgraded: Wall Street's top analyst calls",
+        "url": "https://finnhub.io/api/news?id=60e1ba95325eb6d241779d78938c60d416b134d7a9889d1717b9a84e1a836b9a",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      }
+    ],
+    "cachedAt": "2026-08-11T06:04:04.505Z"
+  }
+}

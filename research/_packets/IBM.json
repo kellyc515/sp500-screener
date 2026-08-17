@@ -1,0 +1,555 @@
+{
+  "ticker": "IBM",
+  "entityName": "INTERNATIONAL BUSINESS MACHINES CORP",
+  "cik": "0000051143",
+  "generatedAt": "2026-08-11T18:22:15.823Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-07-23",
+        "reportDate": "2026-06-30",
+        "accessionNumber": "0000051143-26-000078",
+        "primaryDocument": "ibm-20260630.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000078/ibm-20260630.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000078/"
+      },
+      "textLength": 262506,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS",
+        "text": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS OF OPERATIONS AND FINANCIAL CONDITION FOR THE THREE AND SIX MONTHS ENDED JUNE 30, 2026 Snapshot Organization of Information: The Management Discussion is designed to provide readers with an overview of the business and a narrative on our financial results and certain factors that may affect our future prospects from the perspective of management. Within the tables presented, certain columns and rows may not add due to the use of rounded numbers for disclosure purposes. Percentages presented are calculated from the underlying whole-dollar amounts. Certain prior-period amounts have been reclassified to conform to the current-period presentation. This is annotated where applicable. Currency : The references to &#8220;adjusted for currency&#8221; or &#8220;at constant currency&#8221; in the Management Discussion do not include operational impacts that could result from fluctuations in foreign currency rates. When we refer to growth rates at constant currency or adjust such growth rates for currency, it is done so that certain financial results can be viewed without the impact of fluctuations in foreign currency exchange rates, thereby facilitating period-to-period comparisons of business performance. Financial results adjusted for currency are calculated by translating current period activity in local currency using the comparable prior-year period's currency conversion rate. This approach is used for countries where the functional currency is the local currency. Generally, when the dollar either strengthens or weakens against other currencies, the growth at constant currency rates or adjusting for currency will be higher or lower than growth reported at actual exchange rates. Refer to &#8220;Currency Rate Fluctuations&#8221; on page 70 for additional information. Operating (non-GAAP) Earnings: In an effort to provide better transparency into the operational results of the business, supplementally, management separates business results into operating and non-operating categories. Operating earnings from continuing operations is a non-GAAP measure that excludes the effects of certain acquisition-related charges and intangible asset amortization, expense resulting from basis differences on equity method investments, retirement-related costs and their related tax impacts. Due to the unique, non-recurring nature of the enactment of the U.S. Tax Cuts and Jobs Act (TCJA or U.S. tax reform), management characterizes the one-time provisional charge recorded in the fourth quarter of 2017, and adjustments to that charge, as non-operating. Adjustments include the tax effect of true-ups, audit adjustments, accounting elections and new regulations, or laws (e.g., H.R. 1 in July of 2025) that impact the TCJA provisions which resulted in the one-time provisional charge. For acquisitions, operating (non-GAAP) earnings exclude the amortization of acquired intangible assets and acquisition-related charges such as in-process research and development, transaction costs, applicable retention, restructuring and related expenses, tax charges related to acquisition integration, and pre-closing charges, such as financing costs. These charges are excluded as they may be inconsistent in amount and timing from period to period and are significantly impacted by the size, type and frequency of our acquisitions. All other spending for acquired companies is included in both earnings from continuing operations and in operating (non-GAAP) earnings. For retirement-related costs, management characterizes certain items as operating and others as non-operating, consistent with GAAP. We include defined benefit plan and nonpension postretirement benefit plan service costs, multi-employer plan costs and the cost of defined contribution plans in operating earnings. Non-operating retirement-related costs include defined benefit plan and nonpension postretirement benefit plan amortization of prior service costs, interest cost, expected return on plan assets, amortized actuarial gains/losses, the impacts of any plan curtailments/settlements and pension insolvency costs and other costs. Non-operating retirement-related costs are primarily related to changes in pension plan assets and liabilities which are tied to financial market performance, and we consider these costs to be outside of the operational performance of the business. Overall, management believes that supplementally providing investors with a view of operating earnings as described above provides increased transparency and clarity into both the operational results of the business and the performance of our pension plans; improves visibility to management decisions and their impacts on operational performance; enables better comparison to peer companies; and allows us to provide a long-term strategic view of the business going forward. In addition, these non-GAAP measures provide a perspective consistent with areas of interest we routinely receive from investors and analysts. 45 Table of Contents Management Discussion &#8211; (continued) Financial Results Summary — Three Months Ended June 30: ($ and shares in millions, except per share amounts) Yr.-to-Yr. Percent/ Margin Change For the three months ended June 30: 2026 2025 Revenue (1) $ 17,162 $ 16,977 1.1 % Gross profit margin 57.7 % 58.8 % (1.0) pts. Total expense and other (income) $ 7,428 $ 7,380 0.7 % Income from continuing operations before income taxes $ 2,479 $ 2,597 (4.5) % Provision for/(benefit from) income taxes from continuing operations $ 313 $ 404 (22.5) % Income from continuing operations $ 2,166 $ 2,193 (1.2) % Income from continuing operations margin 12.6 % 12.9 % (0.3) pts. Income/(loss) from discontinued operations, net of tax $ (1) $ 1 nm Net income $ 2,165 $ 2,194 (1.3) % Earnings per share from continuing operations - assuming dilution $ 2.27 $ 2.31 (1.7) % Consolidated earnings per share - assuming dilution $ 2.27 $ 2.31 (1.7) % Weighted-average shares outstanding - assuming dilution 953.3 948.0 0.6 % (1) Year-to-year revenue growth of 1 percent adjusted for currency. nm - not meaningful The following table provides the company's operating (non-GAAP) earnings for the second quarter of 2026 and 2025. ($ in millions, except per share amounts) Yr.-to-Yr. Percent Change For the three months ended June 30: 2026 2025 Net income as reported $ 2,165 $ 2,194 (1.3) % Income/(loss) from discontinued operations, net of tax (1) 1 nm Income from continuing operations $ 2,166 $ 2,193 (1.2) % Non-operating adjustments (net of tax): Acquisition-related charges 548 443 23.8 Non-operating retirement-related costs/(income) 76 17 nm U.S. tax reform impacts 2 — nm Operating (non-GAAP) earnings (1) $ 2,792 $ 2,652 5.3 % Diluted operating (non-GAAP) earnings per share (1) $ 2.93 $ 2.80 4.6 % (1) Refer to the quarter-to-date \"GAAP Reconciliation\" on page 65 for additional information. nm - not meaningful Financial Performance Summary — Three Months Ended June 30: In the second quarter of 2026, we reported $17.2 billion in revenue, income from continuing operations of $2.2 billion, and operating (non-GAAP) earnings of $2.8 billion. Diluted earnings per share from continuing operations was $2.27 as reported and $2.93 on an operating (non-GAAP) basis. We generated $2.6 billion in cash from operations and $2.5 billion in free cash flow, and returned $1.6 billion to shareholders in dividends. While our second-quarter performance was below our expectations, we have conviction in the strength of our portfolio and the strategic direction of our business. We believe our strategic investments over the past several years continue to strengthen IBM's position as a software-led Hybrid Cloud and AI platform company and we continue to build leadership in quantum. Total revenue grew 1.1 percent both as reported and adjusted for currency compared to the prior-year period. Software and Infrastructure revenue results were below our expectations, while Consulting was in-line. The Software shortfall was limited to a capital-sensitive area of the portfolio. While we are navigating near-term client buying dynamics that we will work through, about 80 percent of our software revenue is recurring in nature and delivered healthy growth in the quarter, 46 Table of Contents Management Discussion &#8211; (continued) reflecting the demand for our offerings and giving us confidence in our growth opportunity. Since the z17 was introduced in June 2025, this has been the strongest start to a mainframe program in our history, and we expected declines year to year in revenue. However, the results in the quarter were worse than our expectations, driven by a shortfall in our IBM Z performance and the associated software stack, primarily in Transaction Processing. In the final weeks of June, we saw a shift in client spending priorities that resulted in numerous large deals failing to close within the expected timelines, driving the majority of the shortfall. Many clients redirected spending toward servers, storage, and memory purchases to secure supply-constrained infrastructure ahead of expected price increases. We saw this dynamic firsthand, with Distributed Infrastructure revenue increasing 37 percent, our strongest quarter on record. Software delivered revenue growth of 5.1 percent as reported (4.6 percent adjusted for currency). Consulting revenue was flat as reported and increased 1.1 percent adjusted for currency. Infrastructure revenue decreased 7.4 percent both as reported and adjusted for currency. From a geographic perspective, Americas revenue decreased 0.5 percent as reported (1.0 percent adjusted for currency). Europe/Middle East/Africa (EMEA) increased 4.1 percent as reported (2.1 percent adjusted for currency). Asia Pacific increased 0.3 percent as reported (5.2 percent adjusted for currency). Gross margin of 57.7 percent decreased 1.0 point year to year driven by our revenue shortfall and mix, partially offset by productivity actions. Operating (non-GAAP) gross margin of 59.4 percent decreased 0.7 points compared to the prior-year period due to the same dynamics. Total expense and other (income) increased 0.7 percent in the second quarter of 2026 compared to the second quarter of 2025 driven by our investments in portfolio innovation, and higher amortization of acquired intangible assets and acquisition-related charges, partially offset by savings from productivity actions and the effects of currency. Total operating (non-GAAP) expense and other (income) decreased 1.5 percent year to year, driven by savings from productivity actions and the effects of currency, partially offset by our investments in portfolio innovations. Pre-tax income from continuing operations of $2.5 billion decreased 4.5 percent compared to the prior-year period and pre-tax margin declined 0.9 points year to year to 14.4 percent. Software and Consulting segment profit margins improved year to year, while Infrastructure profit margin was impacted by the IBM Z shortfall and cycle dynamics. The continuing operations provision for income taxes was $0.3 billion in the second quarter of 2026, compared to $0.4 billion in the second quarter of 2025. Net income from continuing operations was essentially flat year to year. Net income from continuing operations margin of 12.6 percent, was down 0.3 points year to year. Operating (non-GAAP) pre-tax income from continuing operations of $3.3 billion increased 2.9 percent compared to the second quarter of 2025 and the operating (non-GAAP) pre-tax margin from continuing operations increased 0.3 points to 19.2 percent. The operating (non-GAAP) provision for income taxes was $0.5 billion in both the second quarter of 2026 and the second quarter of 2025. Operating (non-GAAP) net income from continuing operations of $2.8 billion increased 5.3 percent and the operating (non-GAAP) net income margin from continuing operations of 16.3 percent increased 0.6 point year to year. Diluted earnings per share from continuing operations of $2.27 decreased 1.7 percent and operating (non-GAAP) diluted earnings per share of $2.93 increased 4.6 percent compared to the second quarter of 2025. Cash provided by operating activities was $2.6 billion in the second quarter of 2026, an increase of $0.9 billion compared to the second quarter of 2025, which includes a decrease in cash used by financing receivables of $1.2 billion. Free cash flow was $2.5 billion, a decrease of $0.3 billion versus the prior-year period. Net cash used in investing activities was $0.5 billion, compared with net cash provided by investing activities of $1.7 billion in the prior-year period. Net cash used in financing activities of $5.7 billion increased $2.9 billion compared to the second quarter of 2025. 47 Table of Contents Management Discussion &#8211; (continued) Financial Results Summary — Six Months Ended June 30: ($ and shares in millions, except per share amounts) Yr.-to-Yr. Percent/ Margin Change For the six months ended June 30: 2026 2025 Revenue (1) $ 33,079 $ 31,519 5.0 % Gross profit margin 57.0 % 57.1 % (0.1) pts. Total expense and other (income) $ 14,991 $ 14,253 5.2 % Income from continuing operations before income taxes $ 3,866 $ 3,755 3.0 % Provision for/(benefit from) income taxes from continuing operations $ 484 $ 507 (4.5) % Income from continuing operations $ 3,382 $ 3,248 4.1 % Income from continuing operations margin 10.2 % 10.3 % (0.1) pts. Income/(loss) from discontinued operations, net of tax $ (1) $ 1 nm Net income $ 3,381 $ 3,249 4.1 % Earnings per share from continuing operations - assuming dilution $ 3.55 $ 3.43 3.5 % Consolidated earnings per share - assuming dilution $ 3.55 $ 3.43 3.5 % Weighted-average shares outstanding - assuming dilution 952.7 946.7 0.6 % At 6/30/2026 At 12/31/2025 Assets $ 152,099 $ 151,880 0.1 % Liabilities $ 117,558 $ 119,139 (1.3) % Equity $ 34,541 $ 32,740 5.5 % (1) Year-to-year revenue growth of 3 percent adjusted for currency. nm - not meaningful The following table provides the company's operating (non-GAAP) earnings for the first six months of 2026 and 2025. ($ in millions, except per share amounts) Yr.-to-Yr. Percent Change For the six months ended June 30: 2026 2025 Net income as reported $ 3,381 $ 3,249 4.1 % Income/(loss) from discontinued operations, net of tax (1) 1 nm Income from continuing operations $ 3,382 $ 3,248 4.1 % Non-operating adjustments (net of tax): Acquisition-related charges 1,056 872 21.1 Non-operating retirement-related costs/(income) 169 51 229.9 U.S. tax reform impacts 6 (2) nm Operating (non-GAAP) earnings (1) $ 4,613 $ 4,169 10.7 % Diluted operating (non-GAAP) earnings per share (1) $ 4.84 $ 4.40 10.0 % (1) Refer to the year-to-date \"GAAP Reconciliation\" on page 66 for additional information. nm - not meaningful Financial Performance Summary —Six Months Ended June 30: In the first six months of 2026, we reported $33.1 billion in revenue, net income from continuing operations of $",
+        "charRange": [
+          163195,
+          178195
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "risk factors related to IBM securities; and other risks, uncertainties and factors discussed in the company's Form 10-Qs, Form 10-K and in the company's other filings with the U.S. Securities and Exchange Commission or in materials incorporated therein by reference. Any forward-looking statement in this Form 10-Q speaks only as of the date on which it is made. Except as required by law, the company assumes no obligation to update or revise any forward-looking statements. Item 4. Controls and Procedures The company's management evaluated, with the participation of the Chief Executive Officer and Chief Financial Officer, the effectiveness of the company's disclosure controls and procedures as of the end of the period covered by this report. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer have concluded that the company's disclosure controls and procedures were effective as of the end of the period covered by this report. There has been no change in the company's internal control over financial reporting that occurred during the quarter covered by this report that has materially affected, or is reasonably likely to materially affect, the company's internal control over financial reporting. 74 Table of Contents Part II — Other Information Item 1. Legal Proceedings Refer to note 14, &#8220;Contingencies,&#8221; in this Form 10-Q. Item 2. Unregistered Sales of Equity Securities and Use of Proceeds and Issuer Repurchases of Equity Securities The following table provides information relating to the company's repurchase of common stock for the second quarter of 2026. Period Total Number of Shares Purchased Average Price Paid per Share Total Number of Shares Purchased as Part of Publicly Announced Program Approximate Dollar Value of Shares that May Yet Be Purchased Under The Program (1) April 1, 2026 - April 30, 2026 — $ — — $ 2,007,611,768 May 1, 2026 - May 31, 2026 — $ — — $ 2,007,611,768 June 1, 2026 - June 30, 2026 — $ — — $ 2,007,611,768 Total — $ — — (1) On October 30, 2018, the Board of Directors authorized $4.0 billion in funds for use in the company's common stock repurchase program. The company stated that it would repurchase shares on the open market or in private transactions depending on market conditions. The common stock repurchase program does not have an expiration date. This table does not include shares tendered to satisfy the exercise price in connection with cashless exercises of employee stock options or shares tendered to satisfy tax withholding obligations in connection with employee equity awards. The company suspended its share repurchase program at the time of the Red Hat closing in 2019. Item 5. Other Information Insider Trading Arrangements None . 75 Table of Contents Item 6. Exhibits Exhibit Number 10.1 Terms and Conditions of IBM LTPP Equity Awards, effective May 1, 2026. 10.2 Terms and Conditions of IBM LTPP Equity Awards, effective April 30, 2026. 22 Subsidiary Issuer of Guaranteed Securities, filed as Exhibit 22 for the quarter ended March 31, 2024, is hereby incorporated by reference. 31.1 Certification by principal executive officer pursuant to Rule 13A-14(a) or 15D-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 31.2 Certification by principal financial officer pursuant to Rule 13A-14(a) or 15D-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 32.1 Certification by principal executive officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 32.2 Certification by principal financial officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 101.INS XBRL Instance Document &#8211; the instance document does not appear on the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 101.SCH XBRL Taxonomy Extension Schema Document 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF XBRL Taxonomy Extension Definition Linkbase Document 101.LAB XBRL Taxonomy Extension Label Linkbase Document 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File &#8211; the cover page interactive data file does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 76 Table of Contents SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. International Business Machines Corporation (Registrant) Date: July 22, 2026 By: /s/ Nicol&#225;s A. Fehring Nicol&#225;s A. Fehring Vice President and Controller 77",
+        "charRange": [
+          257655,
+          262506
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 131345,
+            "context": "ccrued, if any, for the following reasons. Claims, suits, investigations and proceedings are inherently uncertain, and it is not possible to predict the ultimate outcome of these matters. It is the company's experience that damage amounts claimed in litigation against it are unreliable and unrelated to possible outcomes, and as such are not meaningful indicators of the company's potential liability. Further, the company is unable to provide such an estimate due to a number of other factors with respect to these claims, suits, investigations and proceedings, including considerations of the proc"
+          },
+          {
+            "charIndex": 248998,
+            "context": "ents that could temporarily change the historical cash flow dynamics discussed previously and in our 2025 Annual Report include significant changes in operating results, material changes in geographic sources of cash, unexpected adverse impacts from litigation, future pension funding requirements, periods of severe downturn in the capital markets, the timing of tax payments, or the timing of certain working capital activities related to collections and payments. Whether any litigation has such an adverse impact will depend on a number of variables, which are more completely described in note 1"
+          },
+          {
+            "charIndex": 249227,
+            "context": "adverse impacts from litigation, future pension funding requirements, periods of severe downturn in the capital markets, the timing of tax payments, or the timing of certain working capital activities related to collections and payments. Whether any litigation has such an adverse impact will depend on a number of variables, which are more completely described in note 14, &#8220;Contingencies,&#8221; in this Form 10-Q. With respect to pension funding, our pension plans remain well funded as of the end of June 2026. Our expected 2026 contributions and pre-tax retirement-related plan costs remain"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 75141,
+            "context": "nge in current-period presentation. This is annotated where applicable. 2. Accounting Changes: New Standards to be Implemented Intangibles - Goodwill and Other - Internal-Use Software Standard/Description &#8211; Issuance date : September 2025. This guidance requires internal-use software development cost capitalization to begin when both of the following occur: management has authorized and committed to funding the software project, and it is probable the project will be completed and the software will be used to perform its intended function. This guidance eliminates accounting consideration"
+          },
+          {
+            "charIndex": 75447,
+            "context": "capitalization to begin when both of the following occur: management has authorized and committed to funding the software project, and it is probable the project will be completed and the software will be used to perform its intended function. This guidance eliminates accounting considerations of software development stages. Effective Date and Adoption Considerations &#8211; The guidance is effective for the company for annual and interim reporting periods beginning January 1, 2028. Early adoption is permitted. Effect on Financial Statements or Other Significant Matters &#8211; The company is"
+          },
+          {
+            "charIndex": 75580,
+            "context": "nd it is probable the project will be completed and the software will be used to perform its intended function. This guidance eliminates accounting considerations of software development stages. Effective Date and Adoption Considerations &#8211; The guidance is effective for the company for annual and interim reporting periods beginning January 1, 2028. Early adoption is permitted. Effect on Financial Statements or Other Significant Matters &#8211; The company is evaluating the impact of the guidance in the consolidated financial results. Disaggregation of Income Statement Expenses Standard/De"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 99717,
+            "context": "default swap market. The primary objective of the company's cash and debt investment portfolio is to protect principal by investing in very liquid investment securities with highly rated counterparties. Available-for-sale securities are measured for impairment on a recurring basis by comparing the security's fair value with its amortized cost basis. If the fair value of the security falls below its amortized cost basis, the change in fair value is recognized in the period the impairment is identified when the loss is due to credit factors. The change in fair value due to non-credit factors is"
+          },
+          {
+            "charIndex": 99948,
+            "context": "s are measured for impairment on a recurring basis by comparing the security's fair value with its amortized cost basis. If the fair value of the security falls below its amortized cost basis, the change in fair value is recognized in the period the impairment is identified when the loss is due to credit factors. The change in fair value due to non-credit factors is recorded in other comprehensive income when the company does not intend to sell and has the ability to hold the investment. The company's standard practice is to hold all of its debt security investments classified as available-for"
+          },
+          {
+            "charIndex": 100323,
+            "context": "ed in other comprehensive income when the company does not intend to sell and has the ability to hold the investment. The company's standard practice is to hold all of its debt security investments classified as available-for-sale until maturity. No impairments for credit losses and no material non-credit impairments were recorded for the three and six months ended June 30, 2026 and 2025, respectively. Certain non-financial assets such as property, plant and equipment, operating right-of-use assets, goodwill and intangible assets are also subject to nonrecurring fair value measurements if they"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 92691,
+            "context": "nal information. The acquisition was integrated into the Software segment. Transaction Signed — On July 22, 2026, the company entered into a definitive agreement to acquire a business which is expected to close in the second half of 2026, subject to regulatory approval and other customary closing conditions. Upon closing, the acquired business will be integrated into the Infrastructure segment. 6. Other (Income) and Expense : Components of other (income) and expense are as follows: Three Months Ended June 30, Six Months Ended June 30, ($ in millions) 2026 2025 2026 2025 Other (income) and expe"
+          },
+          {
+            "charIndex": 129416,
+            "context": "ity, cybersecurity, data privacy, securities, foreign operations, competition law and environmental matters. These actions may be commenced by a number of different parties, including competitors, clients, current or former employees, government and regulatory agencies, stockholders and representatives of the locations in which the company does business. Some of the actions to which the company is party may involve particularly complex technical issues, and some actions may raise novel questions under the laws of the various jurisdictions in which these matters arise. The company records a pro"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 31749,
+            "context": "finedBenefitPlansAdjustmentNetPriorServiceCostCreditMember 2026-04-01 2026-06-30 0000051143 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember 2026-04-01 2026-06-30 0000051143 ibm:RetirementRelatedBenefitPlansCurtailmentsAndSettlementsMember 2026-04-01 2026-06-30 0000051143 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2026-04-01 2026-06-30 0000051143 us-gaap:AccumulatedTranslationAdjustmentMember 2025-04-01 2025-06-30 0000051143 us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember 2025-04-01 2025-06-30 0000051143 us-gaap:AccumulatedGainLossNetCashFlowHed"
+          },
+          {
+            "charIndex": 33925,
+            "context": "finedBenefitPlansAdjustmentNetPriorServiceCostCreditMember 2025-04-01 2025-06-30 0000051143 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember 2025-04-01 2025-06-30 0000051143 ibm:RetirementRelatedBenefitPlansCurtailmentsAndSettlementsMember 2025-04-01 2025-06-30 0000051143 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2025-04-01 2025-06-30 0000051143 us-gaap:AccumulatedTranslationAdjustmentMember 2026-01-01 2026-06-30 0000051143 us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember 2026-01-01 2026-06-30 0000051143 us-gaap:AccumulatedGainLossNetCashFlowHed"
+          },
+          {
+            "charIndex": 36101,
+            "context": "finedBenefitPlansAdjustmentNetPriorServiceCostCreditMember 2026-01-01 2026-06-30 0000051143 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember 2026-01-01 2026-06-30 0000051143 ibm:RetirementRelatedBenefitPlansCurtailmentsAndSettlementsMember 2026-01-01 2026-06-30 0000051143 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2026-01-01 2026-06-30 0000051143 us-gaap:AccumulatedTranslationAdjustmentMember 2025-01-01 2025-06-30 0000051143 us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember 2025-01-01 2025-06-30 0000051143 us-gaap:AccumulatedGainLossNetCashFlowHed"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 97227,
+            "context": "n antidilutive. 19 Table of Contents Notes to Consolidated Financial Statements — (continued) 8. Financial Assets & Liabilities: Fair Value Measurements Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. The company classifies certain assets and liabilities based on the following fair value hierarchy: &#8226; Level 1 &#8211; Quoted prices (unadjusted) in active markets for identical assets or liabilities that can be accessed at the measurement date; &#8226; Lev"
+          },
+          {
+            "charIndex": 97683,
+            "context": "8211; Quoted prices (unadjusted) in active markets for identical assets or liabilities that can be accessed at the measurement date; &#8226; Level 2 &#8211; Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly; and &#8226; Level 3 &#8211; Unobservable inputs for the asset or liability. When available, the company uses unadjusted quoted market prices in active markets to measure the fair value and classifies such items as Level 1. If quoted market prices are not available, fair value is based upon internally develo"
+          },
+          {
+            "charIndex": 97790,
+            "context": "at the measurement date; &#8226; Level 2 &#8211; Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly; and &#8226; Level 3 &#8211; Unobservable inputs for the asset or liability. When available, the company uses unadjusted quoted market prices in active markets to measure the fair value and classifies such items as Level 1. If quoted market prices are not available, fair value is based upon internally developed models that use current market-based or independently sourced market parameters such as interest rates"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-02-24",
+        "reportDate": "2025-12-31",
+        "accessionNumber": "0000051143-26-000010",
+        "primaryDocument": "ibm-20251231.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/ibm-20251231.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/"
+      },
+      "textLength": 212023,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations: Refer to pages 6 through 38 of IBM's 2025 Annual Report to Stockholders, which are incorporated herein by reference. Item 7A. Quantitative and Qualitative Disclosures About Market Risk: Refer to the section titled &#8220;Market Risk&#8221; on page 37 of IBM's 2025 Annual Report to Stockholders, which is incorporated herein by reference. Item 8. Financial Statements and Supplementary Data: Refer to pages 42 through 116 of IBM's 2025 Annual Report to Stockholders, which are incorporated herein by reference. Also refer to the Financial Statement Schedule on page S-1 of this Form 10-K. Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure: Not applicable. Item 9A. Controls and Procedures: The company's management evaluated, with the participation of the Chief Executive Officer and Chief Financial Officer, the effectiveness of the company's disclosure controls and procedures as of the end of the period covered by this report. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer have concluded that the company's disclosure controls and procedures were effective as of the end of the period covered by this report. 12 Table of Contents Refer to &#8220;Report of Management&#8221; and &#8220;Report of Independent Registered Public Accounting Firm&#8221; on pages 39 through 41 of IBM's 2025 Annual Report to Stockholders, which are incorporated herein by reference. There has been no change in the company's internal control over financial reporting that occurred during the fourth fiscal quarter that has materially affected, or is reasonably likely to materially affect, the company's internal control over financial reporting. Item 9B. Other Information: None. Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections: Not applicable. 13 Table of Contents PART III Item 10. Directors, Executive Officers and Corporate Governance: Refer to the information under the captions &#8220;Election of Directors for a Term of One Year,&#8221; &#8220;Governance and the Board,&#8221; and &#8220;Frequently Asked Questions&#8221; in IBM's definitive Proxy Statement to be filed with the SEC and delivered to stockholders in connection with the Annual Meeting of Stockholders to be held April 28, 2026, all of which information is incorporated herein by reference. Also refer to Item 1 of this Form 10-K under the caption &#8220;Information About Our Executive Officers (at February 24, 2026)&#8221; on page 3 for additional information on the company's executive officers. Item 11. Executive Compensation: Refer to the information under the captions &#8220;2025 Executive Compensation\" in IBM's definitive Proxy Statement to be filed with the SEC and delivered to stockholders in connection with the Annual Meeting of Stockholders to be held April 28, 2026, all of which information is incorporated herein by reference. Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters: Refer to the information under the captions &#8220;Governance and the Board&#8221; in IBM's definitive Proxy Statement to be filed with the SEC and delivered to stockholders in connection with the Annual Meeting of Stockholders to be held April 28, 2026, all of which information is incorporated herein by reference. EQUITY COMPENSATION PLAN INFORMATION Plan Category Number of securities to be issued upon exercise of outstanding options, warrants and rights (1) (a) Weighted-average exercise price of outstanding options, warrants and rights (1) (b) Number of securities remaining available for future issuance under equity compensation plans (excluding securities reflected in column (a)) (c) Equity compensation plans approved by security holders Options 8,932,132 $ 168.84 — RSUs 14,613,935 N/A — PSUs (2) 4,986,930 N/A — Subtotal 28,532,997 $ 168.84 24,457,466 Equity compensation plans not approved by security holders Options 726,842 $ 163.32 — RSUs 2,262,375 N/A — PSUs (2) 409,285 N/A — DCEAP shares 231,675 N/A — Subtotal 3,630,177 $ 163.32 16,540,768 Total 32,163,174 $ 168.45 40,998,234 N/A = Not applicable RSUs = Restricted Stock Units, including Retention Restricted Stock Units PSUs = Performance Share Units DCEAP Shares = Promised Fee Shares under the DCEAP (refer to plan description below) (1) In connection with 18 acquisition transactions, 732,607 additional RSUs and 293,968 additional stock options were outstanding at December 31, 2025 as a result of the Company's assumption of pre-acquisition awards granted by the acquired entities. The weighted-average exercise price of stock options was $96.41. The Company has not made, and will not make, any further grants or awards of equity securities under the plans of these acquired companies. (2) The numbers included for PSUs in column (a) above reflect the maximum number payout. Assuming target number payout, the number of securities to be issued upon exercise of PSUs for equity compensation plans approved by security holders is 2,679,447 and for equity compensation plans not approved by security holders is 230,901. For additional information about PSUs, including payout calculations, refer to the information under &#8220;2025 Summary Compensation Table and Related Narrative &#8221; in IBM's definitive Proxy Statement to be filed with the SEC and delivered to stockholders in connection with the Annual Meeting of Stockholders to be held April 28, 2026. 14 Table of Contents The material features of each equity compensation plan under which equity securities are authorized for issuance that was adopted without stockholder approval are described below: 2001 Long-Term Performance Plan (the &#8220;2001 Plan&#8221;) The 2001 Plan has been used to fund awards for employees other than senior executives of the Company. Awards for senior executives of the Company have been and will continue to be funded from the stockholder-approved 1999 Long-Term Performance Plan (the &#8220;1999 Plan&#8221;); the 1999 Plan is also used to fund awards for employees other than senior executives, otherwise, the provisions of the 2001 Plan are identical to the 1999 Plan, including the type of awards that may be granted under the plan (stock options, restricted stock and unit awards and long-term performance incentive awards). The 2001 Plan is administered by the Executive Compensation and Management Resources Committee of the Board of Directors (the &#8220;Committee&#8221;), and that Committee may delegate to officers of the company certain of its duties, powers and authority. Payment of awards may be made in the form of cash, stock or combinations thereof and may be deferred with Committee approval. Awards are not transferable or assignable except (i) by law, will or the laws of descent and distribution, (ii) as a result of the disability of the recipient, or (iii) with the approval of the Committee. If the employment of a participant terminates, other than as a result of the death or disability of a participant, all unexercised, deferred and unpaid awards shall be canceled immediately, unless the award agreement provides otherwise. In the event of the death of a participant or in the event a participant is deemed by the company to be disabled and eligible for benefits under the terms of the IBM Long-Term Disability Plan (or any successor plan or similar plan of another employer), the participant's estate, beneficiaries or representative, as the case may be, shall have the rights and duties of the participant under the applicable award agreement. In addition, unless the award agreement specifies otherwise, the Committee may cancel, rescind, suspend, withhold or otherwise limit or restrict any unexpired, unpaid, or deferred award at any time if the participant is not in compliance with all applicable provisions of the awards agreement and the 2001 Plan. In addition, awards may be cancelled if the participant engages in any conduct or act determined to be injurious, detrimental or prejudicial to any interest of the company. PWCC Acquisition Long-Term Performance Plan (the &#8220;PWCC Plan&#8221;) The PWCC Plan was adopted by the Board of Directors in connection with the company's acquisition of PricewaterhouseCoopers Consulting (&#8220;PwCC&#8221;) from PricewaterhouseCoopers LLP, as announced on October 1, 2002. The PWCC Plan has been and will continue to be used solely to fund awards for employees of PwCC who have become employed by the company as a result of the acquisition. Awards for senior executives of the company will not be funded from the PWCC Plan. The terms and conditions of the PWCC Plan are substantively identical to the terms and conditions of the 2001 Plan, described above. Amended and Restated Deferred Compensation and Equity Award Plan (the &#8220;DCEAP&#8221;) The DCEAP was adopted in 1993 and amended and restated effective January 1, 2014. Under the Amended and Restated DCEAP, non-management directors receive Promised Fee Shares in connection with deferred annual retainer payments. Each Promised Fee Share is equal in value to one share of the company's common stock. Upon a director's retirement or other completion of service as a director, amounts deferred into Promised Fee Shares are payable in either cash and/or shares of the company's stock either as lump sum or installments pursuant to the director's distribution election. For additional information about the DCEAP, refer to &#8220;Director Compensation under the IBM Deferred Compensation and Equity Award Plan (DCEAP)&#8221; in IBM's definitive Proxy Statement to be filed with the SEC and delivered to stockholders in connection with the Annual Meeting of Stockholders to be held April 28, 2026. IBM HashiCorp Acquisition Long-Term Performance Plan (the &#8220;HashiCorp Plan&#8221;) The HashiCorp Plan was adopted by the Board of Directors in connection with the company's acquisition of HashiCorp, Inc. on February 27, 2025. The HashiCorp Plan is used solely to fund awards for employees who were not employed by IBM immediately prior to the closing of the acquisition. The terms and conditions of the HashiCorp Plan are substantively identical to the terms and conditions of the 2001 Plan, described above. 15 Table of Contents Item 13. Certain Relationships and Related Transactions, and Director Independence: Refer to the information under the captions &#8220;IBM Board of Directors,&#8221; and &#8220;Governance and the Board&#8221; in IBM's definitive Proxy Statement to be filed with the SEC and delivered to stockholders in connection with the Annual Meeting of Stockholders to be held April 28, 2026, all of which information is incorporated herein by reference. Item 14. Principal Accounting Fees and Services: Refer to the information under the captions &#8220;Report of the Audit Committee of the Board of Directors&#8221; in IBM's definitive Proxy Statement to be filed with the SEC and delivered to stockholders in connection with the Annual Meeting of Stockholders to be held April 28, 2026, all of which information is incorporated herein by reference. 16 Table of Contents PART IV Item 15. Exhibits, Financial Statement Schedules: (a) The following documents are filed as part of this report: 1. Financial statements from IBM's 2025 Annual Report to Stockholders, which are incorporated herein by reference: Report of Independent Registered Public Accounting Firm &#8210; PCAOB Firm ID 238 (pages 40 through 41). Consolidated Income Statement for the years ended December 31, 2025, 2024 and 2023 (page 42). Consolidated Statement of Comprehensive Income for the years ended December 31, 2025, 2024 and 2023 (page 43). Consolidated Balance Sheet at December 31, 2025 and 2024 (page 44). Consolidated Statement of Cash Flows for the years ended December 31, 2025, 2024 and 2023 (page 45). Consolidated Statement of Equity at December 31, 2025, 2024 and 2023 (pages 46 through 47). Notes to Consolidated Financial Statements (pages 48 through 116). 2. Financial statement schedule required to be filed by Item 8 of this Form: Page Schedule Number Report of Independent Registered Public Accounting Firm on Financial Statement Schedule. S-1 II Valuation and Qualifying Accounts and Reserves for the years ended December 31, 202 5 , 202 4 , and 202 3 . All other schedules are omitted as the required matter is not present, the amounts are not significant or the information is shown in the Consolidated Financial Statements or the notes thereto. 3. Exhibits: Reference Number per Item 601 of Regulation S-K Description of Exhibits Exhibit Number in this Form 10-K (3) Certificate of Incorporation and By-laws The Certificate of Incorporation of IBM, is Exhibit 3.1 to Form 10-K, filed February 22, 2022, and is hereby incorporated by reference. The By-Laws of IBM, as amended through July 24, 2025 , is Exhibit 3.2 to Form 10-Q, filed July 24, 2 025 , and is hereby incorporated by reference. (4) Instruments defining the rights of security holders The instrument defining the rights of the holders of the 7.00% Debentures due 2045 is Exhibit 3 to Form 8-K, filed on October 30, 1995, and is hereby incorporated by reference. The instrument defining the rights of the holders of the 7.125% Debentures due 2096 is Exhibit 4.2 to Form 8-K/A, filed on December 6, 1996, and is hereby incorporated by reference. The instrument defining the rights of the holders of the 6.22% Debentures due 2027 is Exhibit 3 to Form 8-K, filed on August 1, 1997, and is hereby incorporated by reference. The instrument defining the rights of the holders of the 6.50% Debentures due 2028 is Exhibit 2 to Form 8-K, filed on January 8, 1998, and is hereby incorporated by reference. 17 Table of Contents The instrument defining the rights of the holders of the 5.875% Debentures due 2032 is Exhibit 3 to Form 8 K, filed on November 26, 2002, and is hereby incorporated by reference. The instruments defining the rights of the holders of the 3.450% Notes due 2026 and the 4.700% Notes due 2046 are Exhibits 4.4 and 4.5 to Form 8-K, filed February 18, 2016, and are hereby incorporated by reference. The instrument defining the rights of the holders of the 1.750% Notes due 2028 is Exhibit 4.3 to Form 8-K, filed March 4, 2016, and is hereby incorporated by reference. The instrument defining the rights of the holders of the 0.300% Notes due 2026 is Exhibit 4 to Form 8-K, filed November 1, 2016, and is hereby incorporated by reference. The instrument defining the rights of the holders of the 3.300% Notes due 2027 is Exhibit 4.4 to Form 8-K, filed January 26, 2017, and are hereby incorporated by reference. The instrument defining the rights of the holders of the 1.500% Notes due 2029 is Exhibit 4.2 to Form 8-K, filed May 22, 2017, and is hereby incorporated by reference. The instruments defining the rights of the holders of the 1.250% Notes due 2027 and the 1.750% Notes due 2031 are Exh",
+        "charRange": [
+          173783,
+          188783
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors,\" the company faces numerous and evolving cybersecurity threats, including risks originating from the increased use of AI, intentional acts of individual and groups of criminal hackers, hacktivists, state-sponsored organizations, nation states and competitors; from intentional and unintentional acts or omissions of customers, contractors, business partners, vendors, employees and other third parties; and from errors in processes or technologies, as well as the risks associated with the number of customers, contractors, business partners, vendors, employees and other third parties working remotely. While the company continues to monitor for, identify, investigate, respond to and remediate cybersecurity risks, including incidents and vulnerabilities, there have not been any that have had a material adverse effect on the company, though there is no assurance that there will not be cybersecurity risks that will have a material adverse effect in the future. Governance Escalation of cyber risk is a core function within IBM's cyber governance so that emerging threats, incidents, and vulnerabilities are promptly communicated, escalated, and remediated at the appropriate leadership level across the enterprise. IBM's Enterprise & Technology Security (&#8220;E&TS&#8221;) organization is responsible for the security of both IBM's internal systems and external offerings and works across IBM to protect its brand and its clients against cybersecurity risks. E&TS 10 Table of Contents also addresses cybersecurity risks associated with third party suppliers. For these purposes, E&TS includes a dedicated Chief Information Security Officer (&#8220;CISO&#8221;) whose team is responsible for leading enterprise-wide information security strategy, policy, standards, architecture, and processes for IBM's internal systems. The CISO is responsible for enterprise incident response; the Product Security Incident Response Team (&#8220;PSIRT&#8221;), which focuses on product vulnerabilities potentially affecting the security of offerings sold to customers; and the Business Information Security Officers (&#8220;BISO&#8221;), which focus on security issues specific to particular business segments. The CSIRT team, together with the Office of the CISO, Cyber Legal, and BISOs, engage in on-going review of incidents, threat intelligence, detections, and vulnerabilities, including to assess client and regulatory impact. CSIRT leads and coordinates incident response investigations and depending on the nature of the matter, may include individuals from E&TS, the Office of the CISO, the Office of the Chief Information Officer, Cyber Legal, Business Units, the Risk, Compliance and Integrity Team, Human Resources, Procurement, Finance and Operations, and Corporate Security. Events of interest are promptly reported to the Chief Legal Officer (\"CLO\"), the Chief Financial Officer, and the Senior Vice President (\"SVP\") overseeing the impacted business unit. If required by the scale of the incident, an executive is appointed to provide the unified business leadership, coordination, and project management necessary to manage the broader business response under the direction of the CLO. The Board of Directors, the Audit Committee, and senior management participate in cyber incident tabletops to exercise preparedness for incidents and to strengthen cyber governance. The Cybersecurity Advisory Committee (&#8220;CAC&#8221;) is a senior executive committee comprised of SVPs from the business (Software, Consulting, Infrastructure) and corporate functions (Legal, Finance, Marketing/Communications), which provides oversight and direction for the management of the company's cybersecurity risk. It serves as a key resource and escalation point for IBM's CISO and operating units on significant and emerging cybersecurity incidents, risks, policies, and practices. IBM executives responsible for managing cybersecurity risk reflect a cross-section of functions from across the organization with significant experience in managing such risk as well as the technologies underlying these risks. They also hold leadership positions outside of IBM in the field of cybersecurity, serving on governing and advisory boards of public and private institutions at the forefront of issues related to cybersecurity, including technology development, cybersecurity policy, and national security. The Board of Directors and the Audit Committee oversee risk management at IBM. Leadership from E&TS, including the CISO, make regular presentations to the Audit Committee and the full Board on identification, management, escalation, and remediation of cybersecurity risks, both internal and external, as well as threat intelligence, emerging global policies and regulations, cybersecurity technologies, and best practices. In addition, executive management provides briefings as needed to the Lead Independent Director, Audit Committee Chair, the Audit Committee, and, as appropriate, the full Board on cybersecurity issues and incidents of potential interest. Item 2. Properties: IBM 's corporate headquarters are located at an owned site in Armonk, New York. As of December 31 , 2025 , in aggregate, we owned or leased facilities for current use consisting of approximat ely 39 million square feet worldwide. At December 31, 2025, IBM's facilities in the U.S. had aggregate floor space of approximately 17 million square feet, of which approximately 8 million was owned and 9 million was leased. Outside the U.S., facilities totaled approximately 22 million square feet, of which approximately 3 million was owned and 19 million was leased. This space is primarily used for sales and distribution, manufacturing and development, data processing services including the company's cloud centers, research and other administrative and general support purposes. Our facilities are utilized for current operations of all business segments. Continuous optimization, maintenance and upgrading of facilities are essential to maintain our technological leadership, improve productivity and meet customer demand. We believe that in all material respects our properties have been satisfactorily maintained, are in good condition and are suitable for our operations. Item 3. Legal Proceedings: Refer to note Q, &#8220;Commitments & Contingencies,&#8221; on pages 91 to 93 of IBM's 2025 Annual Report to Stockholders, which is incorporated herein by reference. Item 4. Mine Safety Disclosures: Not applicable. 11 Table of Contents PART II Item 5. Market for the Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities: Refer to page 118 of IBM's 2025 Annual Report to Stockholders, which is incorporated herein by reference solely as it relates to this item. IBM common stock is listed on the New York Stock Exchange and the NYSE Texas under the symbol &#8220;IBM.&#8221; There were 290,491 common stockholders of record at February 10, 2026. The following table provides information relating to the company's repurchase of common stock for the fourth quarter of 2025. Total Number of Shares Purchased Average Price Paid per Share Total Number of Shares Purchased as Part of Publicly Announced Program Approximate Dollar Value of Shares that May Yet Be Purchased Under the Program (1) October 1, 2025—October 31, 2025 — $ — — $ 2,007,611,768 November 1, 2025—November 30, 2025 — $ — — $ 2,007,611,768 December 1, 2025—December 31, 2025 — $ — — $ 2,007,611,768 Total — $ — — (1) On October 30, 2018, the Board of Directors authorized $4.0 billion in funds for use in the company's common stock repurchase program. The company stated that it would repurchase shares on the open market or in private transactions depending on market conditions. The common stock repurchase program does not have an expiration date. This table does not include shares tendered to satisfy the exercise price in connection with cashless exercises of employee stock options or shares tendered to satisfy tax withholding obligations in connection with employee equity awards. The company suspended its share repurchase program at the time of the Red Hat closing in 2019. Item 6. [Reserved] Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations: Refer to pages 6 through 38 of IBM's 2025 Annual Report to Stockholders, which are incorporated herein by reference. Item 7A. Quantitative and Qualitative Disclosures About Market Risk: Refer to the section titled &#8220;Market Risk&#8221; on page 37 of IBM's 2025 Annual Report to Stockholders, which is incorporated herein by reference. Item 8. Financial Statements and Supplementary Data: Refer to pages 42 through 116 of IBM's 2025 Annual Report to Stockholders, which are incorporated herein by reference. Also refer to the Financial Statement Schedule on page S-1 of this Form 10-K. Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure: Not applicable. Item 9A. Controls and Procedures: The company's management evaluated, with the participation of the Chief Executive Officer and Chief Financial Officer, the effectiveness of the company's disclosure controls and procedures as of the end of the period covered by this report. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer have concluded that the company's disclosure controls and procedures were effective as of the end of the period covered by this report. 12 Table of Contents Refer to &#8220;Report of Management&#8221; and &#8220;Report of Independent Registered Public Accounting Firm&#8221; on pages 39 through 41 of IBM's 2025 Annual Report to Stockholders, which are incorporated herein by reference. There has been no change in the company's internal control over financial reporting that occurred during the fourth fiscal quarter that has materially affected, or is reasonably likely to materially affect, the company's internal control over financial reporting. Item 9B. Other Information: None. Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections: Not applicable. 13 Table of Contents PART III Item 10. Directors, Executive Officers and Corporate Governance: Refer to the information under the captions &#8220;Election of Directors for a Term of One Year,&#8221; &#8220;Governance and the Board,&#8221; and &#8220;Frequently Asked Questions&#8221; in IBM's definitive Proxy Statement to be filed with the SEC and delivered to stockholders in connection with the Annual Meeting of Stockholders to be held April 28, 2026, all of which information is incorporated herein by reference. Also refer to Item 1 of this Form 10-K under the caption &#8220;Information About Our Executive Officers (at February 24, 2026)&#8221; on page 3 for additional information on the company's executive officers. Item 11. Executive Compensation: Refer to the information under the captions &#8220;2025 Executive Compensation\" in IBM's definitive Proxy Statement to be filed with the SEC and delivered to stockholders in connection with the Annual Meeting of Stockholders to be held April 28, 2026, all of which information is incorporated herein by reference. Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters: Refer to the information under the captions &#8220;Governance and the Board&#8221; in IBM's definitive Proxy Statement to be filed with the SEC and delivered to stockholders in connection with the Annual Meeting of Stockholders to be held April 28, 2026, all of which information is incorporated herein by reference. EQUITY COMPENSATION PLAN INFORMATION Plan Category Number of securities to be issued upon exercise of outstanding options, warrants and rights (1) (a) Weighted-average exercise price of outstanding options, warrants and rights (1) (b) Number of securities remaining available for future issuance under equity compensation plans (excluding securities reflected in column (a)) (c) Equity compensation plans approved by security holders Options 8,932,132 $ 168.84 — RSUs 14,613,935 N/A — PSUs (2) 4,986,930 N/A — Subtotal 28,532,997 $ 168.84 24,457,466 Equity compensation plans not approved by security holders Options 726,842 $ 163.32 — RSUs 2,262,375 N/A — PSUs (2) 409,285 N/A — DCEAP shares 231,675 N/A — Subtotal 3,630,177 $ 163.32 16,540,768 Total 32,163,174 $ 168.45 40,998,234 N/A = Not applicable RSUs = Restricted Stock Units, including Retention Restricted Stock Units PSUs = Performance Share Units DCEAP Shares = Promised Fee Shares under the DCEAP (refer to plan description below) (1) In connection with 18 acquisition transactions, 732,607 additional RSUs and 293,968 additional stock options were outstanding at December 31, 2025 as a result of the Company's assumption of pre-acquisition awards granted by the acquired entities. The weighted-average exercise price of stock options was $96.41. The Company has not made, and will not make, any further grants or awards of equity securities under the plans of these acquired companies. (2) The numbers included for PSUs in column (a) above reflect the maximum number payout. Assuming target number payout, the number of securities to be issued upon exercise of PSUs for equity compensation plans approved by security holders is 2,679,447 and for equity compensation plans not approved by security holders is 230,901. For additional information about PSUs, including payout calculations, refer to the information under &#8220;2025 Summary Compensation Table and Related Narrative &#8221; in IBM's definitive Proxy Statement to be filed with the SEC and delivered to stockholders in connection with the Annual Meeting of Stockholders to be held April 28, 2026. 14 Table of Contents The material features of each equity compensation plan under which equity securities are authorized for issuance that was adopted without stockholder approval are described below: 2001 Long-Term Performance Plan (the &#8220;2001 Plan&#8221;) The 2001 Plan has been used to fund awards for employees other than senior executives of the Company. Awards for senior executives of the Company have been and will continue to be funded from the stockholder-approved 1999 Long-Term Performance Plan (the &#8220;1999 Plan&#8221;); the 1999 Plan is also used to fund awards for employees other than senior executives, otherwise, the provisions of the 2001 Plan are identical to the 1999 Plan, including the type of awards that may be granted under the plan (stock options, restricted stock and unit awards and long-term performance incentive awards). The 2001 Plan is administered by the Executive Compensation and Management Resources Committee of the Board of Directors (the &#8220;Committee&#8221;), and that Committee may delegate to officers of the company certain of its duties, powers and authority. Payment of awards may be made in the form of cash, stock or combinations thereof and may be deferred with Committee approval. Awards a",
+        "charRange": [
+          165576,
+          180576
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 123145,
+            "context": "non-captive financing entities and financial institutions. Forward-Looking and Cautionary Statements Certain statements contained in this Form 10-K may constitute &#8220;forward-looking statements&#8221; within the meaning of the Private Securities Litigation Reform Act of 1995 (&#8220;Reform Act&#8221;). Forward-looking statements are based on the company's current assumptions regarding future business and financial performance. These statements by their nature address matters that are uncertain to different degrees. The company may also make forward-looking statements in other reports filed"
+          },
+          {
+            "charIndex": 131897,
+            "context": "and alliances, the related risks include the company failing to achieve anticipated revenue improvements and cost savings, the failure to retain key personnel or strategic relationships of acquired companies, the assumption of liabilities related to litigation or other legal proceedings involving the businesses in such transactions, and delays in obtaining, or the failure to obtain, necessary governmental or regulatory approvals, as well as the failure to close planned transactions. Such transactions may require the company to secure financing and any significant disruption or turmoil in the c"
+          },
+          {
+            "charIndex": 143941,
+            "context": "es, systems and networks using a wide variety of methods, and the increased use of AI technologies may introduce novel methods of attack. In the event of such actions, the company, its customers and other third parties could be exposed to liability, litigation, and regulatory or other government action, including debarment, as well as the loss of existing or potential customers, damage to brand and reputation, damage to IBM's competitive position, and other financial loss. The Company Could Be Impacted by Its Business with Government Clients: The company's customers include numerous government"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 162582,
+            "context": "e company's control. Since the market price of IBM's common stock fluctuates significantly, stockholders may not be able to sell the company's stock at attractive prices. 9 Table of Contents In addition, changes by any rating agency to the company's outlook or credit ratings can negatively impact the value and liquidity of both the company's debt and equity securities. The company does not make a market in either its debt or equity securities and cannot provide any assurances with respect to the liquidity or value of such securities. Item 1B. Unresolved Staff Comments: Not applicable. Item 1C."
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 139499,
+            "context": "odwill or Amortizable Intangible Assets May Become Impaired: The company acquires other companies, including the intangible assets of those companies. The company may not realize all the economic benefit from those acquisitions, which could cause an impairment of goodwill or intangible assets. If our goodwill or net intangible assets become impaired, we may be required to record a charge to the Consolidated Income Statement. The Company Depends on Skilled Employees and Could Be Impacted by a Shortage of Critical Skills: Much of the future success of the company depends on the continued service"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 132059,
+            "context": "strategic relationships of acquired companies, the assumption of liabilities related to litigation or other legal proceedings involving the businesses in such transactions, and delays in obtaining, or the failure to obtain, necessary governmental or regulatory approvals, as well as the failure to close planned transactions. Such transactions may require the company to secure financing and any significant disruption or turmoil in the capital markets could have an adverse effect on IBM's ability to access the capital markets at favorable terms. From time to time, the company divests or attempts"
+          },
+          {
+            "charIndex": 132743,
+            "context": "ansaction is subject to risks, including risks related to the terms and timing of such divestitures, risks related to retained liabilities not subject to the company's control, and delays in obtaining, or failing to obtain, necessary governmental or regulatory approvals, as well as the failure to close planned transactions. The Company's Financial Results for Particular Periods Are Difficult to Predict: IBM's revenues and profitability are affected by such factors as the introduction of new products and services, the ability to compete effectively in increasingly competitive marketplaces, the"
+          },
+          {
+            "charIndex": 135585,
+            "context": ". currencies, capital controls, and adverse changes in trade relationships amongst those countries. Further, as the company expands its customer base and the scope of its offerings, both within the U.S. and globally, it may be impacted by additional regulatory or other risks, including, compliance with U.S. and foreign data privacy requirements, outbound investment restrictions, AI and cloud regulations, data localization requirements, labor relations laws, enforcement of IP protection laws, laws relating to anti-corruption, anti-competition regulations, and import, export and trade restrictio"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 50042,
+            "context": "finedBenefitPlansAdjustmentNetPriorServiceCostCreditMember 2025-01-01 2025-12-31 0000051143 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember 2025-01-01 2025-12-31 0000051143 ibm:RetirementRelatedBenefitPlansCurtailmentsAndSettlementsMember 2025-01-01 2025-12-31 0000051143 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2025-01-01 2025-12-31 0000051143 us-gaap:AccumulatedTranslationAdjustmentMember 2024-01-01 2024-12-31 0000051143 us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember 2024-01-01 2024-12-31 0000051143 us-gaap:AccumulatedGainLossNetCashFlowHed"
+          },
+          {
+            "charIndex": 52163,
+            "context": "finedBenefitPlansAdjustmentNetPriorServiceCostCreditMember 2024-01-01 2024-12-31 0000051143 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember 2024-01-01 2024-12-31 0000051143 ibm:RetirementRelatedBenefitPlansCurtailmentsAndSettlementsMember 2024-01-01 2024-12-31 0000051143 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2024-01-01 2024-12-31 0000051143 us-gaap:AccumulatedTranslationAdjustmentMember 2023-01-01 2023-12-31 0000051143 us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember 2023-01-01 2023-12-31 0000051143 us-gaap:AccumulatedGainLossNetCashFlowHed"
+          },
+          {
+            "charIndex": 54284,
+            "context": "finedBenefitPlansAdjustmentNetPriorServiceCostCreditMember 2023-01-01 2023-12-31 0000051143 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember 2023-01-01 2023-12-31 0000051143 ibm:RetirementRelatedBenefitPlansCurtailmentsAndSettlementsMember 2023-01-01 2023-12-31 0000051143 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2023-01-01 2023-12-31 0000051143 us-gaap:AccumulatedTranslationAdjustmentMember 2022-12-31 0000051143 us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember 2022-12-31 0000051143 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-12"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 121806,
+            "context": "ned in the growing hybrid cloud infrastructure market, providing on-premises and cloud-based server and storage solutions. We gain advantage and differentiation through investments in higher-value capabilities, including security, scalability, and reliability, designed especially for mission-critical and AI workloads. In addition, we offer a portfolio of life-cycle services for hybrid cloud infrastructure deployment. Our principal competitors include: Dell Technologies, Hewlett-Packard Enterprise (HPE), Intel, NetApp and Pure Storage as well as original device manufacturers (ODMs) who provide"
+          },
+          {
+            "charIndex": 141674,
+            "context": "secure manner, and in compliance with all applicable laws and regulations could adversely affect the company's business. In addition, any defective components, supplies or materials, or inadequate services received from suppliers could reduce the reliability of the company's products and services and harm the company's reputation. Product and Service Quality Issues Could Impact the Company's Business and Operating Results: The company has rigorous quality control standards and governance processes intended to prevent, detect and correct errors, malfunctions and other defects in its products a"
+          },
+          {
+            "charIndex": 143930,
+            "context": "cts, services, systems and networks using a wide variety of methods, and the increased use of AI technologies may introduce novel methods of attack. In the event of such actions, the company, its customers and other third parties could be exposed to liability, litigation, and regulatory or other government action, including debarment, as well as the loss of existing or potential customers, damage to brand and reputation, damage to IBM's competitive position, and other financial loss. The Company Could Be Impacted by Its Business with Government Clients: The company's customers include numerous"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "Revenues",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 17162000000,
+          "accn": "0000051143-26-000078",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-23",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 33079000000,
+          "accn": "0000051143-26-000078",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-23"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 15917000000,
+          "accn": "0000051143-26-000038",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-23",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 67535000000,
+          "accn": "0000051143-26-000010",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-24",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 16331000000,
+          "accn": "0000051143-25-000064",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-23",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 47849000000,
+          "accn": "0000051143-25-000064",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-23"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 16977000000,
+          "accn": "0000051143-26-000078",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-23",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 16977000000,
+          "accn": "0000051143-25-000052",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-24"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 2.27,
+          "accn": "0000051143-26-000078",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-23",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 3.55,
+          "accn": "0000051143-26-000078",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-23"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 1.28,
+          "accn": "0000051143-26-000038",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-23",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 11.17,
+          "accn": "0000051143-26-000010",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-24",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 1.84,
+          "accn": "0000051143-25-000064",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-23",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 5.27,
+          "accn": "0000051143-25-000064",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-23"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 2.31,
+          "accn": "0000051143-26-000078",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-23",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 2.31,
+          "accn": "0000051143-25-000052",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-24"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 2165000000,
+          "accn": "0000051143-26-000078",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-23",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 3381000000,
+          "accn": "0000051143-26-000078",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-23"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 1216000000,
+          "accn": "0000051143-26-000038",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-23",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 10593000000,
+          "accn": "0000051143-26-000010",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-24",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 1744000000,
+          "accn": "0000051143-25-000064",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-23",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 4993000000,
+          "accn": "0000051143-25-000064",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-23"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 2194000000,
+          "accn": "0000051143-26-000078",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-07-23",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 2194000000,
+          "accn": "0000051143-25-000052",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-24"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": null,
+      "points": []
+    }
+  },
+  "companyMetrics": {
+    "ticker": "IBM",
+    "name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "sector": "Computer & office Equipment",
+    "pe": 20.98,
+    "pb": 6.45,
+    "ret3m": 2.1616,
+    "ret6m": -19.7071,
+    "roe": 30.75,
+    "debtEquity": 2.246,
+    "sentiment": 0.5,
+    "analyst": 68.5,
+    "beta": 0.7080213
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "ACN: Priced Like A Decline, Paying Like A Machine",
+        "url": "https://finnhub.io/api/news?id=ab8fcd2b0461214556fb775e773df2f32cb9291d73ebb5dccf70fe45b971d004",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "IBM Stock Options Price A Band Half Above Today's Price And A Third Below",
+        "url": "https://finnhub.io/api/news?id=c200acc5fb303a23e92d331f80afe380c75e8c24b935d7a152a0745874b906a0",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "These dow jones stocks are moving in today's session",
+        "url": "https://finnhub.io/api/news?id=215d57159ac550eaecc53a55f0b8bce07ef790c46ea7ddd57f4536b07ae4ddab",
+        "source": "ChartMill",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Broadcom Boosts VCF Security: Can it Fend Off Nutanix and IBM?",
+        "url": "https://finnhub.io/api/news?id=e24104c38ab21d258dc2ebcfe835b77949c7b85d0a9537bfc7ee887c85c88a77",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Following IonQ and D-Wave Earnings, Don’t Count Out These Smaller Quantum Stocks",
+        "url": "https://finnhub.io/api/news?id=f06e4893b64d3ac7d9f778b95625fb76c96cf374b415e424b6debd327f1281dd",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "How Monday.com Stock Gained 20.4% In July",
+        "url": "https://finnhub.io/api/news?id=2a493df258ab514225d41399c50a36b8651801fe2182296a3bded686770a9e94",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      }
+    ],
+    "cachedAt": "2026-08-11T05:55:08.771Z"
+  }
+}

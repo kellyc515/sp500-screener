@@ -1,0 +1,701 @@
+{
+  "ticker": "UBER",
+  "entityName": "Uber Technologies, Inc",
+  "cik": "0001543151",
+  "generatedAt": "2026-08-12T01:37:36.775Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-08-05",
+        "reportDate": "2026-06-30",
+        "accessionNumber": "0001543151-26-000032",
+        "primaryDocument": "uber-20260630.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000032/uber-20260630.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000032/"
+      },
+      "textLength": 443760,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations - Quantitative and Qualitative Disclosures About Market Risk - Interest Rate Risk.&#8221; We may have exposure to materially greater than anticipated tax liabilities. The tax laws applicable to our global business activities are subject to uncertainty and can be interpreted differently by different companies. For example, we may become subject to sales tax rates in certain jurisdictions that are significantly greater than the rates we currently pay in those jurisdictions. Like many other multinational corporations, we are subject to tax in multiple U.S. and foreign jurisdictions and have structured our operations to reduce our effective tax rate. Currently, certain jurisdictions are investigating our compliance with tax rules. If it is determined that we are not compliant with such rules, we could owe additional taxes. Certain jurisdictions, including Australia, Kingdom of Saudi Arabia, the UK and other countries, require that we pay any assessed taxes prior to being allowed to contest or litigate the applicability of tax assessments in those jurisdictions. These amounts could materially adversely impact our liquidity while those matters are being litigated. This prepayment of contested taxes is referred to as &#8220;pay-to-play.&#8221; Payment of these amounts is not an admission that we believe we are subject to such taxes; even when such payments are made, we continue to defend our positions vigorously. If we prevail in the proceedings for which a pay-to-play payment was made, the jurisdiction collecting the payment will be required to repay such amounts and also may be required to pay interest. Additionally, the taxing authorities of the jurisdictions in which we operate have in the past, and may in the future, examine or challenge our methodologies for valuing developed technology, which could increase our worldwide effective tax rate and harm our financial position and operating results. Furthermore, our future income taxes could be adversely affected by earnings being lower than anticipated in jurisdictions that have lower statutory tax rates and higher than anticipated in jurisdictions that have higher statutory tax rates, or changes in tax laws, regulations, or accounting principles. We are subject to regular review and audit by both U.S. federal and state tax authorities, as well as foreign tax authorities, and currently face numerous audits in the United States and abroad. Any adverse outcome of such reviews and audits could have an adverse effect on our financial position and operating results. In addition, the determination of our worldwide provision for income taxes and other tax liabilities requires significant judgment by our management, and we have engaged in many transactions for which the ultimate tax determination remains uncertain. The ultimate tax outcome may differ from the amounts recorded in our financial statements and may materially affect our financial results in the period or periods for which such determination is made. Our tax positions or tax returns are subject to change, and therefore we cannot accurately predict whether we may incur material additional tax liabilities in the future, which could impact our financial position. In addition, in connection with any planned or future acquisitions, we may acquire businesses that have differing licenses and other arrangements that may be challenged by tax authorities for not being at arm's-length or that are otherwise potentially less tax efficient than our licenses and arrangements. Any subsequent integration or continued operation of such acquired businesses may result in an increased effective tax rate in certain jurisdictions or potential indirect tax costs, which could result in us incurring additional tax liabilities or having to establish a reserve in our consolidated financial statements, and could adversely affect our financial results. Changes in global and U.S. tax legislation may adversely affect our financial condition, operating results, and cash flows. We are a U.S.-based multinational company subject to tax in multiple U.S. and foreign tax jurisdictions. We are unable to predict what other global or U.S. tax reforms may be proposed or enacted in the future or what effects such future changes would have on our business. Any such changes in tax legislation, regulations, policies or practices in the jurisdictions in which we operate could increase the estimated tax liability that we have expensed to date and paid or accrued on our balance sheet; affect our financial position, future operating results, cash flows, and effective tax rates where we have operations; reduce post-tax returns to our stockholders; and increase the complexity, burden, and cost of tax compliance. We could become subject to new or additional digital services taxes in one or more jurisdictions where we operate. The governments of countries in which we operate and other governmental bodies could make unprecedented assertions about how taxation is determined in their jurisdictions that are contrary to the way in which we have interpreted and historically applied the rules and regulations described above in our income tax returns filed in such jurisdictions. New laws could significantly increase our tax obligations in the countries in which we do business or require us to change the manner in which we operate our business. As a result of the large and expanding scale of our international business activities, many of these changes to the taxation of our activities could increase our worldwide effective tax rate and harm our financial position, operating results, and cash flows. 71 Our ability to use our net operating loss carryforwards and certain other tax attributes may be limited. As of December 31, 2025, we had U.S. federal net operating loss carryforwards of $43 million that begin to expire in 2031 and $4.1 billion that have an unlimited carryover period. As of December 31, 2025, we had U.S. state net operating loss carryforwards of $7.0 billion, including $6.0 billion with limited carryforward periods, an immaterial portion of which will expire beginning with the 2025 tax year if not utilized. The remaining $1.0 billion have an unlimited carryover period. As of December 31, 2025, we had foreign net operating loss carryforwards of $20.3 billion, including $961 million with limited carryforward periods, an immaterial portion of which will expire beginning with the 2025 tax year if not utilized. The remaining $19.3 billion have an unlimited carryover period. Realization of these net operating loss carryforwards depends on our future taxable income, and there is a risk that our existing carryforwards could expire unused and be unavailable to offset future income tax liabilities, which could materially and adversely affect our operating results. In addition, under Sections 382 and 383 of the IRC, if a corporation undergoes an &#8220;ownership change,&#8221; generally defined as a greater than 50% change (by value) in its equity ownership over a three-year period, the corporation's ability to use its pre-ownership change U.S. federal net operating loss carryforwards and other pre-ownership change U.S. federal tax attributes, such as research tax credits, to offset its post-ownership change income may be limited. Many U.S. states follow similar rules for restricting use of tax attributes after an ownership change. We may experience ownership changes in the future because of subsequent shifts in our stock ownership. As a result, if we earn net taxable income, our ability to use our pre-ownership change net operating loss carryforwards and other tax attributes to offset U.S. federal and state taxable income may be subject to limitations, which could potentially result in increased future tax liability to us. We are exposed to fluctuations in currency exchange rates. Because we conduct a significant and may conduct a growing portion of our business in currencies other than the U.S. dollar but report our consolidated financial results in U.S. dollars, we face exposure to fluctuations in currency exchange rates. As exchange rates vary, revenue, cost of revenue, exclusive of depreciation and amortization, operating expenses, other income and expense, and assets and liabilities, when translated, may also vary materially and thus affect our overall financial results. Although we have entered into and may in the future enter into hedging arrangements to manage foreign currency translation, such activity may not completely eliminate fluctuations in our operating results due to currency exchange rate changes. Hedging arrangements are inherently risky, and we have limited experience establishing hedging programs, which could expose us to additional risks that could adversely affect our financial condition and operating results. If we are unable to successfully identify, acquire and integrate suitable businesses, our operating results and prospects could be harmed, and any businesses we acquire may not perform as expected or be effectively integrated. As part of our business strategy, we have entered into, and expect to continue to enter into, agreements to acquire companies, form joint ventures, divest portions or aspects of our business, sell minority stakes in portions or aspects of our business, and acquire complementary companies or technologies. Competition within our industry for acquisitions of businesses, technologies, and assets is intense. As such, even if we are able to identify a target for acquisition, we may not be able to complete the acquisition on commercially reasonable terms, we may not be able to receive approval from the applicable competition authorities, or such target may be acquired by another company, including one of our competitors. Further, negotiations for potential acquisitions or other transactions may result in the diversion of our management's time and significant out-of-pocket costs. We may expend significant cash or incur substantial debt to finance such acquisitions, and such indebtedness may restrict our business or require the use of available cash to make interest and principal payments. In addition, we may finance or otherwise complete acquisitions by issuing equity or convertible debt securities, which may result in dilution to our stockholders, or if such convertible debt securities are not converted, significant cash outlays. If we fail to evaluate and execute acquisitions or other strategic transactions successfully or fail to successfully address any of these risks, our business, financial condition, and operating results may be harmed. In addition, any businesses we acquire may not perform as well as we expect. Failure to manage and successfully integrate acquired businesses and technologies, including managing internal controls and any privacy, data security or AI risks associated with such acquisitions, may harm our operating results and expansion prospects. For example, Careem has historically shared certain user data with certain government authorities, which conflicts with our global policies regarding data use, sharing, and ownership. We have maintained our data use, sharing, and ownership practices for both our business and Careem's business, and doing so may cause our relationships with government authorities in certain jurisdictions to suffer, and may result in such government authorities assessing fines or penalties against us. The process of integrating an acquired company, business, or technology or acquired personnel into our company is subject to various risks and challenges, including: &#8226; diverting management time and focus from operating our business to acquisition integration; &#8226; disrupting our ongoing business operations; &#8226; platform user acceptance of the acquired company's offerings; &#8226; implementing or remediating the controls, procedures, and policies of the acquired company; &#8226; integrating the acquired business onto our systems and ensuring the acquired business meets our financial reporting 72 requirements and timelines; &#8226; retaining and integrating acquired employees, including aligning incentives between acquired employees and existing employees, managing cultural differences between acquired businesses and our business, as well as managing costs associated with eliminating redundancies or transferring employees on acceptable terms with minimal business disruption; &#8226; maintaining important business relationships and contracts of the acquired business; &#8226; integrating the brand identity of an acquired company with our own; &#8226; integrating companies that have significant operations or that develop products where we do not have prior experience; &#8226; liability for pre-acquisition activities of the acquired company; &#8226; litigation or other claims or liabilities arising in connection with the acquisition or the acquired company; and &#8226; impairment charges associated with goodwill, long-lived assets, investments, and other acquired intangible assets. We have in the past and may in the future implement integration structures that do not fully integrate an acquired company's operating functions. Such structures may delay the efficiencies that we expect to gain from the acquisition and our brand and reputation could be impacted by any damage or reputational harm to the acquired company's brand. In addition, our acquisition of Careem has increased our risks under the U.S. Foreign Corrupt Practices Act (&#8220;FCPA&#8221;) and other similar laws outside the United States. Our existing and planned safeguards, including training and compliance programs to discourage corrupt practices by such parties, may not prove effective, and such parties may engage in conduct for which we could be held responsible. We may not receive a favorable return on investment for prior or future business combinations, and we cannot predict whether these transactions will be accretive to the value of our common stock. It is also possible that acquisitions, combinations, divestitures, joint ventures, or other strategic transactions we announce could be viewed negatively by the press, investors, platform users, or regulators, any or all of which may adversely affect our reputation and our business. Any of these factors may adversely affect our ability to consummate a transaction, our financial condition, and our operating results. We cannot guarantee that our share repurchase program will be fully consummated or that it will enhance long-term stockholder value. Although our board of directors has authorized a share repurchase program, the program does not obligate us to repurchase any specific dollar amount or to acquire any specific number of shares of our common stock. The timing, manner, price and amount of any repurchases are determined at the discretion of our management, depending on market",
+        "charRange": [
+          349228,
+          364228
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors&#8221; section. Any of the foregoing factors, or other cascading effects that are not foreseeable, could adversely impact our business, financial performance and condition, and results of operations. The impact of economic conditions, including the resulting effect on discretionary consumer spending, may harm our business and operating results. Our performance is subject to economic conditions and their impact on levels of discretionary consumer spending. Some of the factors that have an impact on discretionary consumer spending include general economic conditions, unemployment, consumer debt, reductions in net worth, residential real estate and mortgage markets, taxation, energy prices, interest rates, consumer confidence, tariffs, and other macroeconomic factors. A deterioration of general macroeconomic conditions, including slower growth or recession, inflation and higher interest rates, changes in labor market dynamics, or decreases in consumer spending power may harm our results of operations. For example, inflation has increased and is expected to increase our insurance costs. Consumer preferences tend to shift to lower-cost alternatives during recessionary periods and other periods in which disposable income is adversely affected. In such circumstances, consumers may choose to use one of our lower price-point products over a higher Gross Bookings per Trip offering, may choose to forgo our offerings for lower-cost personal vehicle or public transportation alternatives, or may reduce total miles traveled as economic activity decreases. Such a shift in consumer behavior may reduce our network liquidity and may harm our 67 business, financial condition, and operating results. Likewise, small businesses that do not have substantial resources, including many of the merchants in our network, tend to be more adversely affected by poor economic conditions than large businesses. Further, because spending for food purchases from merchants is generally considered discretionary, any decline in consumer spending may have a disproportionate effect on our Delivery offering. If spending at many of the merchants in our network declines, or if a significant number of these merchants go out of business, consumers may be less likely to use our products and offerings, which could harm our business and operating results. Alternatively, if economic conditions improve, it could lead to Drivers obtaining additional or alternative opportunities for work, which could negatively impact the number of Drivers on our platform, and thereby reduce our network liquidity. Increases in fuel, food, labor, energy, and other costs due to inflation and other factors could adversely affect our operating results. Factors such as inflation, increased fuel prices, and increased vehicle purchase, rental, insurance, or maintenance costs, including increased prices of new and used vehicle parts as a result of recent tariffs, global supply chain challenges, and increased fuel prices as result of the conflict between Russia and Ukraine and the conflict in the Middle East, have and may continue to increase the costs incurred by Drivers and Carriers when providing services on our platform. Similarly, factors such as inflation, increased food costs, increased labor and employee benefit costs, increased rental costs, and increased energy costs may increase merchant operating costs, particularly in certain international markets, such as Egypt. Many of the factors affecting Driver, merchant, and Carrier costs are beyond the control of these parties. In many cases, these increased costs may cause Drivers and Carriers to spend less time providing services on our platform or to seek alternative sources of income. Likewise, these increased costs may cause merchants to pass costs on to consumers by increasing prices, which would likely cause order volume to decline, may cause merchants to cease operations altogether, or may cause Carriers to pass costs on to Shippers, which may cause shipments on our platform to decline. A decreased supply of Drivers, consumers, merchants, Shippers, or Carriers on our platform would decrease our network liquidity, which could harm our business and operating results. Dependencies on Third Parties The successful operation of our business depends upon the performance and reliability of Internet, mobile, and other infrastructures that are not under our control. Our business depends on the performance and reliability of Internet, mobile, and other infrastructures that are not under our control. Disruptions in Internet infrastructure or GPS signals or the failure of telecommunications network operators to provide us with the bandwidth we need to provide our products and offerings have interfered, and could continue to interfere with the speed and availability of our platform. If our platform is unavailable when platform users attempt to access it, or if our platform does not load as quickly as platform users expect, platform users may not return to our platform as often in the future, or at all, and may use our competitors' products or offerings more often. In addition, we have no control over the costs of the services provided by national telecommunications operators. If mobile Internet access fees or other charges to Internet users increase, consumer traffic may decrease, which may in turn cause our revenue to significantly decrease. Our business depends on the efficient and uninterrupted operation of mobile communications systems. The occurrence of an unanticipated problem, such as a power outage, telecommunications delay or failure, security breach, or computer virus could result in delays or interruptions to our products, offerings, and platform, as well as business interruptions for us and platform users. Furthermore, foreign governments may leverage their ability to shut down directed services, and local governments may shut down our platform at the routing level. Any of these events could damage our reputation, significantly disrupt our operations, and subject us to liability, which could adversely affect our business, financial condition, and operating results. We have invested significant resources to develop new products to mitigate the impact of potential interruptions to mobile communications systems, which can be used by consumers in territories where mobile communications systems are less efficient. However, these products may ultimately be unsuccessful. We rely on third parties maintaining open marketplaces to distribute our platform and to provide the software we use in certain of our products and offerings. If such third parties interfere with the distribution of our products or offerings or with our use of such software, our business would be adversely affected. Our platform relies on third parties maintaining open marketplaces, including the Apple App Store and Google Play, which make applications available for download. We cannot assure you that the marketplaces through which we distribute our platform will maintain their current structures or that such marketplaces will not charge us fees to list our applications for download. For example, Apple Inc. requires that iOS apps obtain users' permission to track their activities across third-party apps and websites. If iOS users do not grant us such permission, our ability to target those users for advertisements and to measure the effectiveness of such advertisements may be adversely affected, which could decrease the effectiveness of our advertising, and increase our costs to acquire and engage users on our platform. We rely upon certain third parties to provide software for our products and offerings, including Google Maps for the mapping function that is critical to the functionality of our platform. We do not believe that an alternative mapping solution exists that can provide the global functionality that we require to offer our platform in all of the markets in which we operate. We do not control all mapping functions employed by our platform or Drivers using our platform, and it is possible that such mapping functions may not be reliable. If such third parties cease to provide access to the third-party software that we and Drivers use, 68 do not provide access to such software on terms that we believe to be attractive or reasonable, or do not provide us with the most current version of such software, we may be required to seek comparable software from other sources, which may be more expensive or inferior, or may not be available at all, any of which would adversely affect our business. Our business depends upon the interoperability of our platform across devices, operating systems, and third-party applications that we do not control. One of the most important features of our platform is its broad interoperability with a range of devices, operating systems, and third-party applications. Our platform is accessible from the web and from devices running various operating systems such as iOS and Android. We depend on the accessibility of our platform across these third-party operating systems and applications that we do not control. Moreover, third-party services and products are constantly evolving, and we may not be able to modify our platform to assure its compatibility with that of other third parties following development changes. The loss of interoperability, whether due to actions of third parties or otherwise, could adversely affect our business. We rely on third parties for elements of the payment processing infrastructure underlying our platform. If these third-party elements become unavailable or unavailable on favorable terms, our business could be adversely affected. The convenient payment mechanisms provided by our platform are key factors contributing to the development of our business. We rely on third parties for elements of our payment-processing infrastructure to complete consumer transactions and remit payments to Drivers, merchants, and Carriers using our platform, and these third parties may refuse to renew our agreements with them on commercially reasonable terms or at all. If these companies become unwilling or unable to provide these services to us on acceptable terms or at all, our business may be disrupted. For certain payment methods, including credit, debit cards, and digital wallets, we generally pay interchange fees and other processing and gateway fees, and such fees result in significant costs. In addition, online payment providers are under continued pressure to pay increased fees to banks to process funds, and there is no assurance that such online payment providers will not pass any increased costs on to merchant partners, including us. If these fees increase over time, our operating costs will increase, which could adversely affect our business, financial condition, and operating results. In addition, system failures have at times prevented us from making payments to Drivers in accordance with our typical timelines and processes, and have caused substantial Driver dissatisfaction and generated a significant number of Driver complaints. Future failures of the payment processing infrastructure underlying our platform could cause Drivers to lose trust in our payment operations and could cause them to instead use our competitors' platforms. If the quality or convenience of our payment processing infrastructure declines as a result of these limitations or for any other reason, the attractiveness of our business to Drivers, merchants, and Carriers could be adversely affected. If we are forced to migrate to other third-party payment service providers for any reason, the transition would require significant time and management resources, and may not be as effective, efficient, or well-received by platform users. We currently rely on a small number of third-party service providers to host a significant portion of our platform, and any interruptions or delays in services from these third parties could impair the delivery of our products and offerings and harm our business. We use a combination of third-party cloud computing services and co-located data centers in the United States and abroad. We do not control the physical operation of any of the co-located data centers we use or the operations of our third-party service providers. These third-party operations and co-located data centers may experience break-ins, computer viruses, denial-of-service attacks, sabotage, acts of vandalism, and other misconduct. These facilities may also be vulnerable to damage or interruption from power loss, telecommunications failures, fires, floods, earthquakes, hurricanes, tornadoes, and similar events. Our systems do not provide complete redundancy of data storage or processing, and as a result, the occurrence of any such event, a decision by our third-party service providers to close our co-located data centers without adequate notice, or other unanticipated problems may result in our inability to serve data reliably or require us to migrate our data to either a new on-premise data center or cloud computing service. This could be time consuming and costly and may result in the loss of data, any of which could significantly interrupt the provision of our products and offerings and harm our reputation and brand. We may not be able to easily switch to another cloud or data center provider in the event of any disruptions or interference to the services we use, and even if we do, other cloud and data center providers are subject to the same risks. Additionally, our co-located data center facility agreements are of limited durations, and our co-located data center facilities have no obligation to renew their agreements with us on commercially reasonable terms or at all. If we are unable to renew our agreements with these facilities on commercially reasonable terms, we may experience delays in the provision of our products and offerings until an agreement with another co-located data center is arranged. Interruptions in the delivery of our products and offerings may reduce our revenue, cause Drivers, merchants, and Carriers to stop offering their services through our platform, and reduce use of our platform by consumers and Shippers. Our business and operating results may be harmed if current and potential Drivers, consumers, merchants, Shippers, and Carriers believe our platform is unreliable. In addition, if we are unable to scale our data storage and computational capacity sufficiently or on commercially reasonable terms, our ability to innovate and introduce new products on our platform may be delayed or compromised, which would have an adverse effect on our growth and business. Our use of third-party open source software could adversely affect our ability to offer our products and offerings and subjects us to possible litigation. We use third-party open source software in connection with the development of our platform. From time to time, compa",
+        "charRange": [
+          326513,
+          341513
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 316276,
+            "context": "tation, financial condition and results of operations could be adversely affected. Physical climate risks include risks related to extreme weather events or natural disasters, and include extreme storms and temperatures, flooding, droughts, freezes, wildfires, earthquakes and tsunamis, as well as chronic changes such as sea-level rise. Climate-related events, including the increasing frequency, severity and duration of extreme weather events and their impact on critical infrastructure in the United States and elsewhere, have the potential to disrupt our business, our third-party suppliers, and"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 36559,
+            "context": "Use of Proceeds 84 Item 5. Other Information 85 Item 6. Exhibits 85 Signatures 87 1 SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical facts contained in this Quarterly Report on Form 10-Q, including statements regarding our future results of operations or financial condition, business strategy and plans, and objectives of management for future operations, are forward-looking statements. In some case"
+          },
+          {
+            "charIndex": 37702,
+            "context": "ll,&#8221; or &#8220;would&#8221; or the negative of these words or other similar terms or expressions. These forward-looking statements include, but are not limited to, statements concerning the following: &#8226; our ability to successfully defend litigation and government proceedings brought against us, including with respect to our relationship with drivers and couriers, and the potential impact on our business operations and financial performance if we are not successful; &#8226; our ability to successfully compete in highly competitive markets; &#8226; our expectations regarding financia"
+          },
+          {
+            "charIndex": 117596,
+            "context": "52 7,218 7,172 Asia Pacific (\"APAC\") 1,404 1,808 2,680 3,485 Total revenue $ 12,651 $ 14,191 $ 24,184 $ 27,394 Note 11 &#8211; Commitments and Contingencies Contingencies From time to time, we are a party to various claims, non-income tax audits and litigation in the normal course of business. As of December 31, 2025 and June 30, 2026, we had recorded aggregate liabilities of $ 2.1 billion and $ 1.8 billion, respectively, of which $ 215 million and $ 208 million, respectively, relate to non-income tax matters in accrued and other current liabilities on the condensed consolidated balance sheets"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 118700,
+            "context": "ation and other employment-related claims, Americans with Disabilities Act (&#8220;ADA&#8221;) claims, data and privacy claims, securities claims, antitrust claims, challenges to regulations, and other matters. We have existing litigation, including class actions, Private Attorney General Act lawsuits, arbitration claims, and governmental administrative and audit proceedings, asserting claims by or on behalf of Drivers that Drivers are misclassified as independent contractors. We may receive misclassification claims in several jurisdictions across the United States for the foreseeable future."
+          },
+          {
+            "charIndex": 142754,
+            "context": "opments The classification of Drivers is currently being challenged in courts, by legislators and by government agencies in the United States and abroad. We are involved in numerous legal proceedings globally, including putative class and collective class action lawsuits, demands for arbitration, charges and claims before administrative agencies, and investigations or audits by labor, social security, and tax authorities that claim that Drivers should be treated as our employees (or as workers or quasi-employees where those statuses exist), rather than as independent contractors. Of particular"
+          },
+          {
+            "charIndex": 214627,
+            "context": "loyees. The classification of Drivers is currently being challenged in courts, by legislators and by government agencies in the United States and abroad. We are involved in numerous legal proceedings globally, including putative class and collective class action lawsuits, demands for arbitration, charges and claims before administrative agencies, and investigations or audits by labor, social security, and tax authorities that claim that Drivers should be treated as our employees (or as workers or quasi-employees where those statuses exist), rather than as independent contractors. We believe th"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 62810,
+            "context": "tements and related disclosures. In December 2025, the FASB issued ASU 2025-10, &#8220;Government Grants (Topic 832): Accounting for Government Grants Received by Business Entities,&#8221; which establishes recognition, measurement, and presentation guidance for government grants received by business entities. The standard will be effective for public companies for annual reporting periods beginning after December 15, 2028, and interim reporting periods within those annual reporting periods. Early adoption is permitted. We are currently evaluating the impact of this ASU on our consolidated fin"
+          },
+          {
+            "charIndex": 63349,
+            "context": "tly evaluating the impact of this ASU on our consolidated financial statements and related disclosures. In May 2026, the FASB issued ASU 2026-02, &#8220;Environmental Credits and Environmental Credit Obligations (Topic 818),&#8221; which establishes guidance for the recognition, measurement, presentation, and disclosure of environmental credits and environmental credit obligations. The standard will be effective for public companies for annual reporting periods beginning after December 15, 2027, and interim reporting periods within those annual reporting periods. Early adoption is permitted as"
+          },
+          {
+            "charIndex": 158627,
+            "context": "tional efforts among approximately 140 countries and taxing jurisdictions to propose and implement changes to numerous long-standing tax principles, including a framework that imposes a minimum tax rate of 15% in each taxing jurisdiction. Under this guidance, we are required to determine a combined effective tax rate for all entities located in a jurisdiction. If the jurisdictional effective tax rate determined under these rules is less than 15%, a top-up tax will be due to bring the jurisdictional effective tax rate up to 15%. We are continuing to monitor the pending implementation of these r"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 61456,
+            "context": "which management believes are reasonable under the circumstances. On an ongoing basis, management evaluates estimates, including, but not limited to: fair values of investments and other financial instruments (including the measurement of credit or impairment losses); useful lives of amortizable long-lived assets; fair value of acquired intangible assets and related impairment assessments; impairment of goodwill; stock-based compensation; income taxes and non-income tax reserves; certain deferred tax assets and tax liabilities; insurance reserves; and other contingent liabilities. These estim"
+          },
+          {
+            "charIndex": 61576,
+            "context": "including, but not limited to: fair values of investments and other financial instruments (including the measurement of credit or impairment losses); useful lives of amortizable long-lived assets; fair value of acquired intangible assets and related impairment assessments; impairment of goodwill; stock-based compensation; income taxes and non-income tax reserves; certain deferred tax assets and tax liabilities; insurance reserves; and other contingent liabilities. These estimates are inherently subject to judgment and actual results could differ from those estimates. Recently Issued Accounting"
+          },
+          {
+            "charIndex": 61600,
+            "context": "ed to: fair values of investments and other financial instruments (including the measurement of credit or impairment losses); useful lives of amortizable long-lived assets; fair value of acquired intangible assets and related impairment assessments; impairment of goodwill; stock-based compensation; income taxes and non-income tax reserves; certain deferred tax assets and tax liabilities; insurance reserves; and other contingent liabilities. These estimates are inherently subject to judgment and actual results could differ from those estimates. Recently Issued Accounting Pronouncements Not Yet"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 40057,
+            "context": "ual property rights; &#8226; our ability to introduce new products and offerings and enhance existing products and offerings; &#8226; our ability to successfully enter into new geographies, expand our presence in countries in which we are limited by regulatory restrictions, and manage our international expansion; &#8226; our ability to successfully renew licenses to operate our business in certain jurisdictions; &#8226; our ability to successfully respond to global economic conditions, including rising inflation and interest rates; &#8226; the availability of capital to grow our business; &#82"
+          },
+          {
+            "charIndex": 58505,
+            "context": "and Southeast Asia). Pending Acquisition of Blacklane On March 28, 2026, we entered into an agreement to acquire Blacklane GmbH, a Berlin-based global chauffeur service provider, for approximately $ 550 million in cash. The transaction is subject to regulatory approvals, including antitrust review, and other closing conditions, and is expected to close by the end of 2026. Basis of Presentation The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with generally accepted accounting principles in the United States (&#8220;GAAP&#8221;) and applica"
+          },
+          {
+            "charIndex": 79225,
+            "context": "offer will be subject to a minimum acceptance threshold of 50 % plus one share of Delivery Hero's outstanding share capital (inclusive of shares owned by Uber) and certain further conditions, including receipt of certain merger control and financial regulatory clearances. The transaction is expected to close in the second half of 2027. We will fund the takeover offer through existing cash on our balance sheet and new debt financing. On July 16, 2026, we executed a bridge credit agreement, which provides for &#8364; 14.2 billion in aggregate amount of commitments for senior unsecured loans. Car"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 49168,
+            "context": "erests Total Equity Shares Amount Balance as of December 31, 2024 $ 93 2,107,953 $ — $ 42,801 $ ( 517 ) $ ( 20,726 ) $ 825 $ 22,383 Exercise of stock options — 657 — 8 — — — 8 Stock-based compensation — — — 448 — — — 448 Issuance of common stock for settlement of RSUs — 10,293 — — — — — — Shares withheld related to net share settlement — ( 460 ) — ( 33 ) — — — ( 33 ) Repurchase of common stock — ( 26,587 ) — ( 1,800 ) — — — ( 1,800 ) Re-measurement of non-controlling interests 18 — — ( 18 ) — — — ( 18 ) Unrealized gain on investments in available-for-sale debt securities, net of tax — — — — 1"
+          },
+          {
+            "charIndex": 49245,
+            "context": "953 $ — $ 42,801 $ ( 517 ) $ ( 20,726 ) $ 825 $ 22,383 Exercise of stock options — 657 — 8 — — — 8 Stock-based compensation — — — 448 — — — 448 Issuance of common stock for settlement of RSUs — 10,293 — — — — — — Shares withheld related to net share settlement — ( 460 ) — ( 33 ) — — — ( 33 ) Repurchase of common stock — ( 26,587 ) — ( 1,800 ) — — — ( 1,800 ) Re-measurement of non-controlling interests 18 — — ( 18 ) — — — ( 18 ) Unrealized gain on investments in available-for-sale debt securities, net of tax — — — — 1 — — 1 Foreign currency translation adjustment — — — — 31 — — 31 Net income (l"
+          },
+          {
+            "charIndex": 49829,
+            "context": "31 Net income (loss) ( 18 ) — — — — 1,780 12 1,792 Balance as of March 31, 2025 93 2,091,856 — 41,406 ( 485 ) ( 18,946 ) 837 22,812 Exercise of stock options — 370 — 7 — — — 7 Stock-based compensation — — — 489 — — — 489 Issuance of common stock for settlement of RSUs — 8,809 — — — — — — Issuance of common stock under the Employee Stock Purchase Plan — 2,151 — 119 — — — 119 Shares withheld related to net share settlement — ( 58 ) — ( 5 ) — — — ( 5 ) Repurchase of common stock — ( 16,360 ) — ( 1,377 ) — — — ( 1,377 ) Re-measurement of non-controlling interests 14 — — ( 14 ) — — — ( 14 ) Redempt"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 98936,
+            "context": "$ 2,179 Accrued and Other Current Liabilities 21 Accrued and other current liabilities were as follows (in millions): As of December 31, 2025 June 30, 2026 Accrued legal, regulatory and non-income taxes $ 2,052 $ 1,841 Accrued Drivers and Merchants liability 1,626 1,773 Accrued compensation and employee benefits 777 573 Income and other tax liabilities 1,033 1,042 Other 2,263 2,343 Accrued and other current liabilities $ 7,751 $ 7,572 Other Long-Term Liabilities Other non-current liabilities were as follows (in millions): As of December 31, 2025 June 30, 2026 Deferred tax liabilities $ 31 $ 2"
+          },
+          {
+            "charIndex": 127826,
+            "context": "of the NJDOL matters is uncertain, and the amount accrued for those matters is recorded within accrued and other current liabilities on the condensed consolidated balance sheet as of June 30, 2026. 29 Non-Income Tax Matters We recorded an estimated liability for contingencies related to non-income tax matters and are under audit by various domestic and foreign tax authorities with regard to such matters. The subject matter of these contingent liabilities and non-income tax audits primarily arise from the characterization for tax purposes of the transactions on the platform, as well as the app"
+          },
+          {
+            "charIndex": 128738,
+            "context": "dictions with disputes connected to employment or income taxes, disputes involve the applicability of withholding taxes related to employment taxes or back-up income tax withholding on payments made to Drivers, Couriers, and Merchants. Our estimated liability is inherently subjective due to the complexity and uncertainty of these matters and the judicial processes in certain jurisdictions; therefore, the final outcome could be materially different from the estimated liability recorded. United Kingdom As of March 14, 2022, we modified our operating model in the UK, such that as of that date Ube"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-02-13",
+        "reportDate": "2025-12-31",
+        "accessionNumber": "0001543151-26-000015",
+        "primaryDocument": "uber-20251231.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/"
+      },
+      "textLength": 650413,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations - Critical Accounting Estimates - Revenue Recognition&#8221; as well as &#8220;Note 1 &#8211; Description of Business and Summary of Significant Accounting Policies - Revenue Recognition&#8221; to our consolidated financial statements included in Part II, Item 8, &#8220;Financial Statements and Supplementary Data,&#8221; of this Annual Report on Form 10-K. Cost of Revenue, Exclusive of Depreciation and Amortization Cost of revenue, exclusive of depreciation and amortization, primarily consists of costs incurred for certain Mobility and Delivery transactions where we are primarily responsible for Mobility and Delivery services and pay Drivers and Couriers for services, certain insurance costs related to our Mobility and Delivery offerings, costs incurred with Carriers for Uber Freight transportation services, credit card processing fees, bank fees, data center and networking expenses, mobile device and service costs, and amounts related to fare chargebacks and other credit card losses. We expect that cost of revenue, exclusive of depreciation and amortization, will fluctuate on an absolute dollar basis for the foreseeable future primarily driven by Trip volume changes on the platform. Operations and Support Operations and support expenses primarily consist of compensation expenses, including stock-based compensation, for employees that support operations in cities, including the general managers, Driver operations, platform user support representatives and community managers. Also included is the cost of customer support, Driver background checks and the allocation of certain corporate costs. We would expect operations and support expenses to vary from period to period on an absolute dollar basis, but decrease as a percentage of revenue as we become more efficient in supporting platform users. Sales and Marketing Sales and marketing expenses primarily consist of advertising costs, product marketing costs, consumer discounts, promotions, credits and refunds provided to end-users who are not customers, compensation costs, including stock-based compensation to sales and marketing employees, and the allocation of certain corporate costs. We expense advertising and other promotional expenditures as incurred. We would expect sales and marketing expenses to vary from period to period as a percentage of revenue due to timing of marketing campaigns. Research and Development 50 Research and development expenses primarily consist of compensation costs, including stock-based compensation, for employees in engineering, design and product development. Expenses also include ongoing improvements to, and maintenance of, existing products and services, and allocation of certain corporate costs. We expense substantially all research and development expenses as incurred. We would expect research and development expenses to increase on an absolute dollar basis and vary from period to period as a percentage of revenue as we continue to invest in research and development activities relating to ongoing improvements to and maintenance of our platform offerings and other research and development programs. General and Administrative General and administrative expenses primarily consist of compensation costs, including stock-based compensation, for executive management and administrative employees, including finance and accounting, human resources, policy and communications, legal, and certain impairment charges, as well as allocation of certain corporate costs, occupancy, and general corporate insurance costs. General and administrative expenses also include certain legal-related accruals and expenses. We would expect general and administrative expenses to increase on an absolute dollar basis for the foreseeable future as our business continues to grow and Trip volume increases, but decrease as a percentage of revenue as we achieve improved fixed cost leverage and efficiencies in our internal support functions. General and administrative expenses as a percentage of revenue may vary from period to period as a percentage of revenue due to the variability of legal and regulatory-related expenses. Depreciation and Amortization Depreciation and amortization expenses primarily consist of depreciation on buildings, site improvements, computer and network equipment, software, leasehold improvements, furniture and fixtures, and amortization of intangible assets. Depreciation includes expenses associated with buildings, site improvements, computer and network equipment, and furniture, fixtures, as well as leasehold improvements. Amortization includes expenses associated with our capitalized internal-use software and acquired intangible assets. Interest Expense Interest expense consists primarily of interest expense associated with our outstanding debt, including amortization of debt discount and issuance costs. For additional detail related to our debt obligations, see &#8220;Note 8 &#8211; Long-Term Debt and Credit Arrangements&#8221; to our consolidated financial statements included in Part II, Item 8, &#8220;Financial Statements and Supplementary Data,&#8221; of this Annual Report on Form 10-K. Interest Income Interest income consists primarily of interest earned on our cash and cash equivalents, short-term investments, restricted cash and cash equivalents and restricted investments. Other Income (Expense), Net Other income (expense), net primarily includes the following items: &#8226; Foreign currency exchange gains (losses), net, which consist primarily of remeasurement of transactions and monetary assets and liabilities denominated in currencies other than the functional currency at the end of the period. &#8226; Unrealized gain (loss) on debt and equity securities, net, which consists primarily of gains (losses) from fair value adjustments relating to our marketable and non-marketable securities. &#8226; Acquisition termination fee. &#8226; Other, net. Provision for (Benefit from) Income Taxes We are subject to income taxes in the United States and foreign jurisdictions in which we do business. These foreign jurisdictions have different statutory tax rates than those in the United States. Additionally, certain of our foreign earnings may also be taxable in the United States. Accordingly, our effective tax rate will vary depending on the relative proportion of foreign to domestic income, and changes in tax laws. The income tax benefit was $4.3 billion for the year ended December 31, 2025, which includes a $5.0 billion benefit related to the release of our valuation allowance on the Netherlands' deferred tax assets, partially offset by tax expense on our earnings. We regularly assess the need for a valuation allowance against our deferred tax assets. In making that assessment, we consider both positive and negative evidence related to the likelihood of realization of the deferred tax assets to determine, based on the weight of all available evidence, whether it is more-likely-than-not that some or all of the deferred tax assets will be realized. 51 Based on all available positive and negative evidence, we continue to maintain a valuation allowance against the California R&D credits, as we believe it is not more-likely-than-not to be realized, as we expect R&D tax credit generation to exceed our ability to use these credits in future periods. In evaluating the recoverability of these deferred tax assets, we considered all available evidence, both positive and negative. As of December 31, 2025, we were in a 12-quarter cumulative income position based on the Netherlands' pre-tax book income adjusted for permanent book-to-tax differences. The 12-quarter cumulative income position is considered significant positive evidence that is both objective and verifiable. The historical income position provides us evidence to place greater reliance on projections of future profit as a source of income. Furthermore, current-year profitability and corresponding positive taxable income in the Netherlands, along with projections of future profit, provides strong positive evidence for the realization of our deferred tax assets in the Netherlands. Based on all available evidence, including the objective and verifiable positive evidence as described above and anticipated future earnings, we concluded it is more-likely-than-not that our Netherlands' deferred tax assets will be realizable. Accordingly, we released $5.0 billion of our Netherlands valuation allowance during the year ended December 31, 2025. We will continue to monitor the need for a valuation allowance against our deferred tax assets on a quarterly basis. The Inflation Reduction Act Corporate Alternative Minimum Tax (\"CAMT\"), which is a minimum tax calculated by reference to financial statement income, does not apply to the Company in 2025. We could be subject to the CAMT in future years, which would require us to make minimum cash tax payments. In addition, the Organisation for Economic Co-operation and Development (&#8220;OECD&#8221;) has led international efforts among approximately 140 countries and taxing jurisdictions to propose and implement changes to numerous long-standing tax principles, including a framework that imposes a minimum tax rate of 15% in each taxing jurisdiction. Under this guidance, we will be required to determine a combined effective tax rate for all entities located in a jurisdiction. If the jurisdictional effective tax rate determined under these rules is less than 15%, a top-up tax will be due to bring the jurisdictional effective tax rate up to 15%. We are continuing to monitor the pending implementation of these rules by individual countries and the potential impact on our business. The provisions effective in 2025 have an insignificant impact on our tax obligations for 2025. Loss from Equity Method Investments Loss from equity method investments primarily includes the results of our share of income or loss from our equity method investments. For additional information, see &#8220;Note 4 &#8211; Equity Method Investments&#8221; to our consolidated financial statements included in Part II, Item 8, &#8220;Financial Statements and Supplementary Data,&#8221; of this Annual Report on Form 10-K. 52 Results of Operations The following table summarizes our consolidated statements of operations for each of the periods presented (in millions): Year Ended December 31, 2024 2025 Revenue $ 43,978 $ 52,017 Costs and expenses Cost of revenue, exclusive of depreciation and amortization shown separately below 26,651 31,338 Operations and support 2,732 2,854 Sales and marketing 4,337 4,898 Research and development 3,109 3,402 General and administrative 3,639 3,241 Depreciation and amortization 711 719 Total costs and expenses 41,179 46,452 Income from operations 2,799 5,565 Interest expense (523) (440) Interest income 721 743 Other income (expense), net 1,128 (68) Income before income taxes and loss from equity method investments 4,125 5,800 Provision for (benefit from) income taxes (5,758) (4,346) Loss from equity method investments (38) (53) Net income including non-controlling interests 9,845 10,093 Less: net income (loss) attributable to non-controlling interests, net of tax (11) 40 Net income attributable to Uber Technologies, Inc. $ 9,856 $ 10,053 The following table sets forth the components of our consolidated statements of operations for each of the periods presented as a percentage of revenue (1) : Year Ended December 31, 2024 2025 Revenue 100 % 100 % Costs and expenses Cost of revenue, exclusive of depreciation and amortization shown separately below 61 % 60 % Operations and support 6 % 5 % Sales and marketing 10 % 9 % Research and development 7 % 7 % General and administrative 8 % 6 % Depreciation and amortization 2 % 1 % Total costs and expenses 94 % 89 % Income from operations 6 % 11 % Interest expense (1) % (1) % Interest income 2 % 1 % Other income (expense), net 3 % — % Income before income taxes and loss from equity method investments 9 % 11 % Provision for (benefit from) income taxes (13) % (8) % Loss from equity method investments — % — % Net income including non-controlling interests 22 % 19 % Less: net income (loss) attributable to non-controlling interests, net of tax — % — % Net income attributable to Uber Technologies, Inc. 22 % 19 % 53 (1) Totals of percentage of revenues may not foot due to rounding. Comparison of the Years Ended December 31, 2024 and 2025 Revenue Year Ended December 31, % Change (In millions, except percentages) 2024 2025 Revenue $ 43,978 $ 52,017 18 % 2025 Compared to 2024 Revenue increased $8.0 billion, or 18% year-over-year, primarily attributable to an increase in Gross Bookings of 19%. The increase in Gross Bookings was primarily driven by an increase in Mobility and Delivery Trip volumes. Cost of Revenue, Exclusive of Depreciation and Amortization Year Ended December 31, % Change (In millions, except percentages) 2024 2025 Cost of revenue, exclusive of depreciation and amortization $ 26,651 $ 31,338 18 % Percentage of revenue 61 % 60 % 2025 Compared to 2024 Cost of revenue, exclusive of depreciation and amortization, increased $4.7 billion, or 18%, mainly due to a $1.6 billion increase in Driver payments and incentives that are recorded in cost of revenue, exclusive of depreciation and amortization, as a result of increased Mobility Gross Bookings in certain markets, a $1.6 billion increase in Courier payments and incentives that are recorded in cost of revenue, exclusive of depreciation and amortization, as a result of increased Delivery Gross Bookings in certain markets, and a $851 million increase in insurance expense primarily due to an increase in insurance rate per mile and miles driven in our Mobility business. Operations and Support Year Ended December 31, % Change (In millions, except percentages) 2024 2025 Operations and support $ 2,732 $ 2,854 4 % Percentage of revenue 6 % 5 % 2025 Compared to 2024 Operations and support expenses increased $122 million, or 4%, primarily attributable to a $138 million increase in employee headcount costs, partially offset by a $30 million decrease in external contractor expenses. Sales and Marketing Year Ended December 31, % Change (In millions, except percentages) 2024 2025 Sales and marketing $ 4,337 $ 4,898 13 % Percentage of revenue 10 % 9 % 2025 Compared to 2024 Sales and marketing expenses increased $561 million, or 13%, primarily attributable to a $221 million increase in indirect advertising and marketing, a $207 million increase in consumer discounts, promotions, credits and refunds to $1.6 billion compared to $1.4 billion in the same period in 2024, and a $129 million increase in employee headcount costs. Research and Development Year Ended December 31, % Change (In millions, except percentages) 2024 2025 Research and development $ 3,109 $ 3,402 9 % Percentage of revenue 7 % 7 % 54 2025 Compared to 202",
+        "charRange": [
+          342106,
+          357106
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "risk factors related to how misclassification challenges may impact our business, result of operations, financial position and operating condition and cash flows, see the risk factor titled &#8220;-Our business would be adversely affected if Drivers were classified as employees, workers or quasi-employees&#8221; included in Part I, Item 1A, &#8220;Risk Factors&#8221;, and Note 14 &#8211; Commitments and Contingencies to our consolidated financial statements included in Part II, Item 8, &#8220;Financial Statements and Supplementary Data,&#8221; of this Annual Report on Form 10-K. In addition, if we are required to classify Drivers as employees, this may impact our current financial statement presentation including revenue, cost of revenue, incentives and promotions as further described in Note 1 &#8211; Description of Business and Summary of Significant Accounting Policies in the notes to the consolidated financial statements included in Part II, Item 8, &#8220;Financial Statements and Supplementary Data,&#8221; and the section titled &#8220;Critical Accounting Estimates&#8221; in Part II, Item 7, of this Annual Report on Form 10-K. Financial and Operational Highlights Year Ended December 31, (In millions, except percentages) 2024 2025 % Change % Change (Constant Currency (1) ) Monthly Active Platform Consumers (&#8220;MAPCs&#8221;) (2), (3) 171 202 18 % Trips (2) 11,273 13,567 20 % Gross Bookings (2) $ 162,773 $ 193,454 19 % 20 % Revenue $ 43,978 $ 52,017 18 % 18 % Income from operations $ 2,799 $ 5,565 99 % Net income attributable to Uber Technologies, Inc. $ 9,856 $ 10,053 2 % Adjusted EBITDA (1) $ 6,484 $ 8,730 35 % Net cash provided by operating activities $ 7,137 $ 10,099 42 % Free cash flow (1) $ 6,895 $ 9,763 42 % (1) See the section titled &#8220;Reconciliations of Non-GAAP Financial Measures&#8221; for more information and reconciliations to the most directly comparable GAAP financial measure. (2) See the section titled &#8220;Certain Key Metrics&#8221; below for more information. (3) MAPCs presented for annual periods are MAPCs for the fourth quarter of the year. For additional information on these matters, refer to Note 14 &#8211; Commitments and Contingencies to our consolidated financial statements included in Part II, Item 8, &#8220;Financial Statements and Supplementary Data,&#8221; of this Annual Report on Form 10-K as well as the section titled &#8220;Liquidity and Capital Resources&#8221;. Highlights for 2025 In the fourth quarter of 2025, our MAPCs were 202 million, growing 18% compared to the same period in 2024. Overall Gross Bookings increased by $30.7 billion in 2025, up 19%, or 20% on a constant currency basis, compared to 2024. Mobility Gross Bookings grew 19% year-over-year, on a constant currency basis, primarily due to an increase in Mobility Trip volumes. Delivery Gross Bookings grew 22% year-over-year, on a constant currency basis, primarily driven by an increase in Delivery Trip volumes. Freight Gross Bookings declined 1% year-over-year, on a constant currency basis, as a result of challenging freight market cycles. Revenue was $52.0 billion, up 18% year-over-year, primarily attributable to an increase in Gross Bookings of 19%. The increase in Gross Bookings was primarily driven by an increase in Mobility and Delivery Trip volumes. 49 Net income attributable to Uber Technologies, Inc. was $10.1 billion, which includes: (i) a $5.0 billion benefit from the release of our Netherlands' deferred tax assets valuation allowance and (ii) the unfavorable impact of a pre-tax unrealized loss on debt and equity securities, net, of $97 million primarily related to changes in the fair value of our equity securities, including: a $802 million net unrealized loss on our Aurora investment, a $155 million net unrealized loss on our Lucid investment, partially offset by a $409 million net unrealized gain on our Didi investment, a $179 million net unrealized gain on our Waabi investment, and a $145 million net unrealized gain on our Grab investment. Adjusted EBITDA was $8.7 billion, growing $2.2 billion year-over-year. Mobility Adjusted EBITDA was $7.9 billion, up $1.4 billion year-over-year. Delivery Adjusted EBITDA was $3.6 billion, up $1.1 billion year-over-year. These increases were partially offset by a $298 million increase in Corporate G&A and Platform R&D costs, year-over-year. We ended the year with $7.6 billion in unrestricted cash, cash equivalents and short-term investments. During the fourth quarter of 2025, we redeemed $1.15 billion of our outstanding debt. For additional information, see Note 8 &#8211; Long-Term Debt and Credit Arrangements to our consolidated financial statements included in Part II, Item 8, &#8220;Financial Statements and Supplementary Data,&#8221; of this Annual Report on Form 10-K. Components of Results of Operations Revenue We generate substantially all of our revenue from fees paid by Drivers and Merchants for use of our platform. We have concluded that we are an agent in these arrangements as we arrange for other parties to provide the service to the end-user. Under this model, revenue is net of Driver and Merchant earnings and Driver incentives. We act as an agent in these transactions by connecting consumers to Drivers and Merchants to facilitate a Trip, meal, grocery or other delivery service. In certain markets we are responsible for the Mobility or Delivery services (and in most markets we are responsible for the Freight services), and in these markets we present revenue from end-users and from Shippers on a gross basis, with the payments to Drivers and Carriers classified within cost of revenue, exclusive of depreciation and amortization. We would expect revenue to fluctuate on an absolute dollar basis for the foreseeable future based upon factors such as Trip volume, Driver supply, macroeconomic conditions, global travel activities and management pricing and promotional activities. For additional discussion related to our revenue, see the section titled &#8220;Management's Discussion and Analysis of Financial Condition and Results of Operations - Critical Accounting Estimates - Revenue Recognition&#8221; as well as &#8220;Note 1 &#8211; Description of Business and Summary of Significant Accounting Policies - Revenue Recognition&#8221; to our consolidated financial statements included in Part II, Item 8, &#8220;Financial Statements and Supplementary Data,&#8221; of this Annual Report on Form 10-K. Cost of Revenue, Exclusive of Depreciation and Amortization Cost of revenue, exclusive of depreciation and amortization, primarily consists of costs incurred for certain Mobility and Delivery transactions where we are primarily responsible for Mobility and Delivery services and pay Drivers and Couriers for services, certain insurance costs related to our Mobility and Delivery offerings, costs incurred with Carriers for Uber Freight transportation services, credit card processing fees, bank fees, data center and networking expenses, mobile device and service costs, and amounts related to fare chargebacks and other credit card losses. We expect that cost of revenue, exclusive of depreciation and amortization, will fluctuate on an absolute dollar basis for the foreseeable future primarily driven by Trip volume changes on the platform. Operations and Support Operations and support expenses primarily consist of compensation expenses, including stock-based compensation, for employees that support operations in cities, including the general managers, Driver operations, platform user support representatives and community managers. Also included is the cost of customer support, Driver background checks and the allocation of certain corporate costs. We would expect operations and support expenses to vary from period to period on an absolute dollar basis, but decrease as a percentage of revenue as we become more efficient in supporting platform users. Sales and Marketing Sales and marketing expenses primarily consist of advertising costs, product marketing costs, consumer discounts, promotions, credits and refunds provided to end-users who are not customers, compensation costs, including stock-based compensation to sales and marketing employees, and the allocation of certain corporate costs. We expense advertising and other promotional expenditures as incurred. We would expect sales and marketing expenses to vary from period to period as a percentage of revenue due to timing of marketing campaigns. Research and Development 50 Research and development expenses primarily consist of compensation costs, including stock-based compensation, for employees in engineering, design and product development. Expenses also include ongoing improvements to, and maintenance of, existing products and services, and allocation of certain corporate costs. We expense substantially all research and development expenses as incurred. We would expect research and development expenses to increase on an absolute dollar basis and vary from period to period as a percentage of revenue as we continue to invest in research and development activities relating to ongoing improvements to and maintenance of our platform offerings and other research and development programs. General and Administrative General and administrative expenses primarily consist of compensation costs, including stock-based compensation, for executive management and administrative employees, including finance and accounting, human resources, policy and communications, legal, and certain impairment charges, as well as allocation of certain corporate costs, occupancy, and general corporate insurance costs. General and administrative expenses also include certain legal-related accruals and expenses. We would expect general and administrative expenses to increase on an absolute dollar basis for the foreseeable future as our business continues to grow and Trip volume increases, but decrease as a percentage of revenue as we achieve improved fixed cost leverage and efficiencies in our internal support functions. General and administrative expenses as a percentage of revenue may vary from period to period as a percentage of revenue due to the variability of legal and regulatory-related expenses. Depreciation and Amortization Depreciation and amortization expenses primarily consist of depreciation on buildings, site improvements, computer and network equipment, software, leasehold improvements, furniture and fixtures, and amortization of intangible assets. Depreciation includes expenses associated with buildings, site improvements, computer and network equipment, and furniture, fixtures, as well as leasehold improvements. Amortization includes expenses associated with our capitalized internal-use software and acquired intangible assets. Interest Expense Interest expense consists primarily of interest expense associated with our outstanding debt, including amortization of debt discount and issuance costs. For additional detail related to our debt obligations, see &#8220;Note 8 &#8211; Long-Term Debt and Credit Arrangements&#8221; to our consolidated financial statements included in Part II, Item 8, &#8220;Financial Statements and Supplementary Data,&#8221; of this Annual Report on Form 10-K. Interest Income Interest income consists primarily of interest earned on our cash and cash equivalents, short-term investments, restricted cash and cash equivalents and restricted investments. Other Income (Expense), Net Other income (expense), net primarily includes the following items: &#8226; Foreign currency exchange gains (losses), net, which consist primarily of remeasurement of transactions and monetary assets and liabilities denominated in currencies other than the functional currency at the end of the period. &#8226; Unrealized gain (loss) on debt and equity securities, net, which consists primarily of gains (losses) from fair value adjustments relating to our marketable and non-marketable securities. &#8226; Acquisition termination fee. &#8226; Other, net. Provision for (Benefit from) Income Taxes We are subject to income taxes in the United States and foreign jurisdictions in which we do business. These foreign jurisdictions have different statutory tax rates than those in the United States. Additionally, certain of our foreign earnings may also be taxable in the United States. Accordingly, our effective tax rate will vary depending on the relative proportion of foreign to domestic income, and changes in tax laws. The income tax benefit was $4.3 billion for the year ended December 31, 2025, which includes a $5.0 billion benefit related to the release of our valuation allowance on the Netherlands' deferred tax assets, partially offset by tax expense on our earnings. We regularly assess the need for a valuation allowance against our deferred tax assets. In making that assessment, we consider both positive and negative evidence related to the likelihood of realization of the deferred tax assets to determine, based on the weight of all available evidence, whether it is more-likely-than-not that some or all of the deferred tax assets will be realized. 51 Based on all available positive and negative evidence, we continue to maintain a valuation allowance against the California R&D credits, as we believe it is not more-likely-than-not to be realized, as we expect R&D tax credit generation to exceed our ability to use these credits in future periods. In evaluating the recoverability of these deferred tax assets, we considered all available evidence, both positive and negative. As of December 31, 2025, we were in a 12-quarter cumulative income position based on the Netherlands' pre-tax book income adjusted for permanent book-to-tax differences. The 12-quarter cumulative income position is considered significant positive evidence that is both objective and verifiable. The historical income position provides us evidence to place greater reliance on projections of future profit as a source of income. Furthermore, current-year profitability and corresponding positive taxable income in the Netherlands, along with projections of future profit, provides strong positive evidence for the realization of our deferred tax assets in the Netherlands. Based on all available evidence, including the objective and verifiable positive evidence as described above and anticipated future earnings, we concluded it is more-likely-than-not that our Netherlands' deferred tax assets will be realizable. Accordingly, we released $5.0 billion of our Netherlands valuation allowance during the year ended December 31, 2025. We will continue to monitor the need for a valuation allowance against our deferred tax assets on a quarterly basis. The Inflation Reduction Act Corporate Alternative Minimum Tax (\"CAMT\"), which is a minimum tax calculated by reference to financial statement income, does not apply to the Company in 2025. We could be subject to the CAMT in future years, which would requi",
+        "charRange": [
+          336076,
+          351076
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 193925,
+            "context": "tation, financial condition and results of operations could be adversely affected. Physical climate risks include risks related to extreme weather events or natural disasters, and include extreme storms and temperatures, flooding, droughts, freezes, wildfires, earthquakes and tsunamis, as well as chronic changes such as sea-level rise. Climate-related events, including the increasing frequency, severity and duration of extreme weather events and their impact on critical infrastructure in the United States and elsewhere, have the potential to disrupt our business, our third-party suppliers, and"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 45985,
+            "context": "tement Schedules 124 Item 16. Form 10-K Summary 124 Exhibit Index 125 Signatures 127 1 SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical facts contained in this Annual Report on Form 10-K, including statements regarding our future results of operations or financial condition, business strategy and plans, and objectives of management for future operations, are forward-looking statements. In some cases,"
+          },
+          {
+            "charIndex": 47125,
+            "context": "ll,&#8221; or &#8220;would&#8221; or the negative of these words or other similar terms or expressions. These forward-looking statements include, but are not limited to, statements concerning the following: &#8226; our ability to successfully defend litigation and government proceedings brought against us, including with respect to our relationship with drivers and couriers, and the potential impact on our business operations and financial performance if we are not successful; &#8226; our ability to successfully compete in highly competitive markets; &#8226; our expectations regarding financia"
+          },
+          {
+            "charIndex": 91673,
+            "context": "versight relating to the provision of payment and financial services. &#8226; We face risks related to our collection, use, transfer, disclosure, deletion and other processing of data, which have resulted and may result in investigations, inquiries, litigation, fines, legislative and regulatory action, and negative press about our privacy and data protection practices. &#8226; If we are unable to protect our intellectual property, or if third parties are successful in claiming that we are misappropriating the intellectual property of others, we may incur significant expense and our business ma"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 92820,
+            "context": "loyees. The classification of Drivers is currently being challenged in courts, by legislators and by government agencies in the United States and abroad. We are involved in numerous legal proceedings globally, including putative class and collective class action lawsuits, demands for arbitration, charges and claims before administrative agencies, and investigations or audits by labor, social security, and tax authorities that claim that Drivers should be treated as our employees (or as workers or quasi-employees where those statuses exist), rather than as independent contractors. We believe th"
+          },
+          {
+            "charIndex": 252331,
+            "context": "tain laws and regulations to our business. Others have been brought by taxicab owners, local regulators, local law enforcement, and platform users, including Drivers and consumers. These include individual, multiple plaintiff, and putative class and class action claims for alleged violation of laws related to, among other things, transportation, competition, advertising, consumer protection, fee calculations, personal injuries, privacy, intellectual property, product liability, discrimination, safety, and employment. For example, in May 2019, a class action was filed against us and certain of"
+          },
+          {
+            "charIndex": 252632,
+            "context": "elated to, among other things, transportation, competition, advertising, consumer protection, fee calculations, personal injuries, privacy, intellectual property, product liability, discrimination, safety, and employment. For example, in May 2019, a class action was filed against us and certain of our subsidiaries in the Supreme Court of Victoria, Australia on behalf of participants in the taxi, hire-car, limousine, and charter vehicle industry who were licensed to operate in particular regions of Australia during certain periods between April 2014 and August 2017. The class action alleges tha"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 220384,
+            "context": "ng claims for infringement of intellectual property rights or for breach of contract. Furthermore, there is an increasing number of open-source software license types, almost none of which have been tested in a court of law, resulting in a dearth of guidance regarding the proper legal interpretation of such licenses. If we were to receive a claim of non-compliance with the terms of any of our open source licenses, we may be required to publicly release certain portions of our proprietary source code or expend substantial time and resources to re-engineer some or all of our software. In additio"
+          },
+          {
+            "charIndex": 351475,
+            "context": "tional efforts among approximately 140 countries and taxing jurisdictions to propose and implement changes to numerous long-standing tax principles, including a framework that imposes a minimum tax rate of 15% in each taxing jurisdiction. Under this guidance, we will be required to determine a combined effective tax rate for all entities located in a jurisdiction. If the jurisdictional effective tax rate determined under these rules is less than 15%, a top-up tax will be due to bring the jurisdictional effective tax rate up to 15%. We are continuing to monitor the pending implementation of the"
+          },
+          {
+            "charIndex": 501051,
+            "context": "will continue to be incurred for the remaining term of a contract that is not a lease, and provide no economic benefits to us are recognized at the cease-use date. Costs associated with lease contracts are accounted for under the leasing accounting guidance or under the long-lived assets accounting guidance. Restructuring and related charges are recognized as an operating expense within the consolidated statements of operations and are classified based on our classification policy for each category of operating expense. Personnel costs are classified based on each employee's classification, l"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 239549,
+            "context": "oducts where we do not have prior experience; &#8226; liability for pre-acquisition activities of the acquired company; &#8226; litigation or other claims or liabilities arising in connection with the acquisition or the acquired company; and &#8226; impairment charges associated with goodwill, long-lived assets, investments, and other acquired intangible assets. We have in the past and may in the future implement integration structures that do not fully integrate an acquired company's operating functions. Such structures may delay the efficiencies that we expect to gain from the acquisition an"
+          },
+          {
+            "charIndex": 345620,
+            "context": "inistrative expenses primarily consist of compensation costs, including stock-based compensation, for executive management and administrative employees, including finance and accounting, human resources, policy and communications, legal, and certain impairment charges, as well as allocation of certain corporate costs, occupancy, and general corporate insurance costs. General and administrative expenses also include certain legal-related accruals and expenses. We would expect general and administrative expenses to increase on an absolute dollar basis for the foreseeable future as our business c"
+          },
+          {
+            "charIndex": 371963,
+            "context": "expense, (vi) interest income, (vii) other income (expense), net, (viii) depreciation and amortization, (ix) stock-based compensation expense, (x) certain legal, non-income tax, and regulatory reserve changes and settlements, (xi) goodwill and asset impairments/loss on sale of assets, (xii) acquisition, financing and divestitures related expenses, (xiii) restructuring and related charges and (xiv) other items not indicative of our ongoing operating performance. We have included Adjusted EBITDA in this Annual Report on Form 10-K because it is a key measure used by our management team to evaluat"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 49500,
+            "context": "ual property rights; &#8226; our ability to introduce new products and offerings and enhance existing products and offerings; &#8226; our ability to successfully enter into new geographies, expand our presence in countries in which we are limited by regulatory restrictions, and manage our international expansion; &#8226; our ability to successfully renew licenses to operate our business in certain jurisdictions; &#8226; our ability to successfully respond to global economic conditions, including rising inflation and interest rates; &#8226; the availability of capital to grow our business; &#82"
+          },
+          {
+            "charIndex": 65124,
+            "context": "mpetes with global and North American freight brokers and managed transportation providers such as C.H. Robinson, Total Quality Logistics, RXO, XPO, Echo Global Logistics, and DHL. Government Regulation We operate in a particularly complex legal and regulatory environment. Our business is subject to a variety of U.S. federal, state, local and foreign laws, rules, and regulations, including those related to Internet activities, privacy, cybersecurity, data protection, intellectual property, competition, consumer protection, payments, labor and employment, transportation services, transportation"
+          },
+          {
+            "charIndex": 65912,
+            "context": "our business. Examples of certain laws and regulations we are subject to are described below. For further discussion of risks relating to government regulation, see our risk factors, including the risk factors in the section titled &#8220;Legal and Regulatory Risks Related to Our Business&#8221; in Part I, Item 1A of this Annual Report on Form 10-K. Our platform, and in particular our Mobility products, are subject to differing, and sometimes conflicting, laws, rules, and regulations in the numerous jurisdictions in which we operate. A large number of proposals are before various national, re"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 94110,
+            "context": "d into arbitration agreements with us have filed (or expressed an intention to file) arbitration demands against us that assert similar classification claims. We have resolved the classification claims of a majority of these Drivers under individual settlement agreements. Furthermore, we are involved in numerous legal proceedings regarding the enforceability of arbitration agreements entered into with Drivers. If we are not successful in such proceedings, this could negatively impact the enforceability of arbitration agreements in other legal proceedings, which could have an adverse consequenc"
+          },
+          {
+            "charIndex": 253080,
+            "context": "who were licensed to operate in particular regions of Australia during certain periods between April 2014 and August 2017. The class action alleges that we operated unlawfully in such regions during such periods. The court approved the class action settlement with no admission of liability by Uber. In September 2024, a constitutional reform to the judiciary in Mexico was approved, establishing that judges will be elected by citizens starting in June 2025; such reform may result in greater uncertainty in litigation outcomes if new judges lack judicial experience. These legislative and regulato"
+          },
+          {
+            "charIndex": 268092,
+            "context": "rsuant to which we agreed, among other things, to implement a comprehensive privacy program, undergo biennial third-party assessments, and not misrepresent how we protect consumer information through 2038. In October 2018, the FTC approved the final settlement, which exposes us to penalties for, amongst other activities, future failure to report security incidents. In November and December 2018, UK, Dutch and French supervisory authorities imposed fines totaling approximately $1.6 million. We have also entered into settlement agreements with numerous state enforcement agencies. For example, in"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 55811,
+            "context": "m to innovate faster than other companies with similar products. We believe our scale and global availability allows our Mobility segment to offer better consumer experiences to riders in a variety of vehicle types, providing consumers with higher reliability and Drivers with better earnings opportunities. Mobility also includes activity related to our financial partnerships products and advertising. Delivery Our Delivery offering allows consumers to search for and discover the best of local commerce—from restaurants to grocery, alcohol, convenience and other retailers—order a meal or other it"
+          },
+          {
+            "charIndex": 95716,
+            "context": "petitors will be required to comply with the provisions of Proposition 22. Although our stipulation to dissolve the California Attorney General's preliminary injunction was granted in April 2021, that litigation remains pending, and we also may face liability relating to periods before the effective date of Proposition 22. The California Supreme Court upheld the constitutionality of Proposition 22; however, legal challenges, including constitutional challenges, to Proposition 22 may continue to be filed. We face similar challenges in other jurisdictions within the United States and abroad. For"
+          },
+          {
+            "charIndex": 131495,
+            "context": "abilities. Collisions, including fatal collisions, have happened. Failures of autonomous vehicle technologies that we may offer on our platform or crashes involving autonomous vehicles using the technology of our partners, could generate substantial liability for us, create negative publicity about us, or result in regulatory scrutiny, all of which would have an adverse effect on our reputation, brand, business, prospects, and operating results. Federal and state government regulations, or their equivalents abroad, specifically designed to govern autonomous vehicle operation, testing and/or ma"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "Revenues",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 14191000000,
+          "accn": "0001543151-26-000032",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 27394000000,
+          "accn": "0001543151-26-000032",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 13203000000,
+          "accn": "0001543151-26-000022",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-06",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 52017000000,
+          "accn": "0001543151-26-000015",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-13",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 13467000000,
+          "accn": "0001543151-25-000033",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-04"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 37651000000,
+          "accn": "0001543151-25-000033",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-04"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 12651000000,
+          "accn": "0001543151-26-000032",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 12651000000,
+          "accn": "0001543151-25-000023",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 1.17,
+          "accn": "0001543151-26-000032",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 1.29,
+          "accn": "0001543151-26-000032",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 0.13,
+          "accn": "0001543151-26-000022",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-06",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 4.73,
+          "accn": "0001543151-26-000015",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-13",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 3.11,
+          "accn": "0001543151-25-000033",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-04"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 4.57,
+          "accn": "0001543151-25-000033",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-04"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 0.63,
+          "accn": "0001543151-26-000032",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 0.63,
+          "accn": "0001543151-25-000023",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 2394000000,
+          "accn": "0001543151-26-000032",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 2657000000,
+          "accn": "0001543151-26-000032",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 263000000,
+          "accn": "0001543151-26-000022",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-06",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 10053000000,
+          "accn": "0001543151-26-000015",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-13"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 6626000000,
+          "accn": "0001543151-25-000033",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-04"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 9757000000,
+          "accn": "0001543151-25-000033",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-04"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1355000000,
+          "accn": "0001543151-26-000032",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1355000000,
+          "accn": "0001543151-25-000023",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 1890000000,
+          "accn": "0001543151-26-000032",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 3813000000,
+          "accn": "0001543151-26-000032",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 1923000000,
+          "accn": "0001543151-26-000022",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-06",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 5565000000,
+          "accn": "0001543151-26-000015",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-13",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 1113000000,
+          "accn": "0001543151-25-000033",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-04"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 3791000000,
+          "accn": "0001543151-25-000033",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-04"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1450000000,
+          "accn": "0001543151-26-000032",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-05",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1450000000,
+          "accn": "0001543151-25-000023",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "UBER",
+    "name": "Uber Technologies, Inc",
+    "sector": "Services-Business Services, NEC",
+    "pe": 17.13,
+    "pb": 5.83,
+    "ret3m": -5.2419,
+    "ret6m": -7.1994,
+    "roe": 36.8,
+    "debtEquity": 0.466,
+    "revenueGrowth": 18.28,
+    "epsGrowth": 3.73,
+    "fcfGrowth": 41.6,
+    "operatingMargin": 10.7,
+    "marginTrend": 4.34,
+    "sentiment": 0.583,
+    "analyst": 77.6,
+    "beta": 1.2616546
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "Uber: I See Shares Ready To Rerate Fast And Aggressively",
+        "url": "https://finnhub.io/api/news?id=2150525e4a421ba260a735917d652d64a4d992347c64b2245f2f11431aab62da",
+        "source": "SeekingAlpha",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Top Analyst Reports for Costco, Chevron & Home Depot",
+        "url": "https://finnhub.io/api/news?id=a9307eb5f139be61f14b0044d0814a9fce869365a42e0a4a51fc84dc992886b8",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "30 Million Reasons to Buy LYFT Stock",
+        "url": "https://finnhub.io/api/news?id=e893743f5db7604d1fe9e261bb6b1293de82fe03423bd2c92375fd97126458f8",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Uber: Still A Generational Buying Opportunity",
+        "url": "https://finnhub.io/api/news?id=964413cf442cad3b870ae9688210a7b8c634d9b2da3bdd7badb5cf2a616bc342",
+        "source": "SeekingAlpha",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Can Joby's Texas Air Taxi Flights Unlock Its Next Commercial Phase?",
+        "url": "https://finnhub.io/api/news?id=fb36ea507499d6ba31f08e5ff570fcaffe5ec8ac8e74d23d3181dff44a4b1a5d",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Is JOBY Worth Buying as Commercial Progress Meets Execution Risk?",
+        "url": "https://finnhub.io/api/news?id=01d5dc4975ea9e3a058b56779f31462eaae5c727d1513359d4ba8d451274b73e",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      }
+    ],
+    "cachedAt": "2026-08-11T06:08:43.810Z"
+  }
+}

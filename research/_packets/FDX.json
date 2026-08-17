@@ -1,0 +1,715 @@
+{
+  "ticker": "FDX",
+  "entityName": "FEDEX CORP",
+  "cik": "0001048911",
+  "generatedAt": "2026-08-12T01:37:04.106Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-03-19",
+        "reportDate": "2026-02-28",
+        "accessionNumber": "0001048911-26-000011",
+        "primaryDocument": "fdx-20260228.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891126000011/fdx-20260228.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1048911/000104891126000011/"
+      },
+      "textLength": 189523,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS",
+        "text": "Management's Discussion and Analysis of Results of Operations and Financial Condition &#8211; Financial Condition &#8211; Liquidity Outlook&#8221; for additional information. ITEM 5. OTHER INFORMATION During the quarter ended February 28, 2026 , no director or officer of FedEx adopted , modified, or terminated any Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement, as such terms are defined in Item 408(a) of Regulation S-K. -48- Table of Contents ITEM 6. EXHIBITS Exhibit Number Description of Exhibit 3.1 Restated Certificate of Incorporation of FedEx (Filed as Exhibit 3.1 to FedEx's FY25 Second Quarter Report on Form 10-Q, and incorporated herein by reference ) . 3.2 Amended and Restated Bylaws of FedEx (Filed as Exhibit 3.1 to FedEx's Current Report on Form 8-K dated and filed March 11, 2024, and incorporated herein by reference) . 4.1 Indenture, dated as of February 5, 2026, among FedEx Freight Holding Company, Inc., FedEx Freight, Inc., and Regions Bank, as trustee (Filed as Exhibit 4.1 to FedEx's Current Report on Form 8-K dated and filed February 5, 2026, and incorporated herein by reference). 4.2 Guarantee Agreement, dated as of February 5, 2026, among FedEx Freight Holding Company, Inc., FedEx Corporation, and Regions Bank, as trustee (Filed as Exhibit 4.2 to FedEx's Current Report on Form 8-K dated and filed February 5, 2026, and incorporated herein by reference). 4.3 Form of 4.300% Senior Note due 2029 (Included in Exhibit 4.1 to FedEx's Current Report on Form 8-K dated and filed February 5, 2026, and incorporated herein by reference). 4.4 Form of 4.650% Senior Note due 2031 (Included in Exhibit 4.1 to FedEx's Current Report on Form 8-K dated and filed February 5, 2026, and incorporated herein by reference). 4.5 Form of 4.950% Senior Note due 2033 (Included in Exhibit 4.1 to FedEx's Current Report on Form 8-K dated and filed February 5, 2026, and incorporated herein by reference). 4.6 Form of 5.250% Senior Note due 2036 (Included in Exhibit 4.1 to FedEx's Current Report on Form 8-K dated and filed February 5, 2026, and incorporated herein by reference). 10.1 Revolving Credit Agreement, dated as of January 15, 2026, by and among FedEx Freight Holding Company, Inc., as borrower, the lenders party thereto, the issuing banks party thereto and JPMorgan Chase Bank, N.A., as administrative agent (Filed as Exhibit 10.1 to FedEx's Current Report on Form 8-K dated January 12, 2026 and filed January 16, 2026, and incorporated herein by reference). 10.2 Delayed Draw Term Loan Agreement, dated as of January 15, 2026, by and among FedEx Freight Holding Company, Inc., as borrower, the lenders party thereto, and JPMorgan Chase Bank, N.A., as administrative agent (Filed as Exhibit 10.2 to FedEx's Current Report on Form 8-K dated January 12, 2026 and filed January 16, 2026, and incorporated herein by reference). *15.1 Letter re: Unaudited Interim Financial Statements. *22 List of Subsidia ry Guarant ors and Subsidiary Issuers of Gua ranteed Securities . *31.1 Certification of Principal Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. *31.2 Certification of Principal Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. *32.1 Certification of Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. *32.2 Certification of Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 101.1 Interactive Data Files pursuant to Rule 405 of Regulation S-T formatted in Inline Extensible Business Reporting Language (&#8220;Inline XBRL&#8221;). 104.1 Cover Page Interactive Data File (formatted in Inline XBRL and contained in Exhibit 101.1). __________________________________________ * Filed herewith. -49- Table of Contents SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. FedEx Corporation Date: March 19, 2026 /s/ Guy M. Erwin II Guy M. Erwin II Corporate Vice President and Chief Accounting Officer -50-",
+        "charRange": [
+          185100,
+          189523
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "risk factors described in our Annual Report on Form 10-K for the fiscal year ended May 31, 2025.We may fail to achieve our long-term financial performance targets if we are unsuccessful in implementing our strategies, our estimates or assumptions change, or for any other reason. If we are not able to achieve these targets, there could be an adverse effect on our results of operations and financial condition, and the price of our common stock may be negatively affected. We may not achieve the expected strategic or financial benefits relating to our investment InPost. We, as a member of a consortium, have entered into a conditional agreement on an intended recommended all-cash public offer for all issued and outstanding shares of InPost S.A. (&#8220;InPost&#8221;), which offer is subject to regulatory approvals and other conditions. Following the completion of the offer, the consortium will be structured with FedEx holding 37%, and thereafter InPost and FedEx intend to enter into arm's length commercial agreements. Because InPost would continue to operate as a standalone company and we would not control this entity and must rely on the actions of other investors and the management of the entity, we may not be able to influence key strategic or operational decisions. In addition, delays in obtaining required regulatory approvals or completing the related commercial arrangements (or failure to obtain such approvals or complete such arrangements) could adversely affect the timing or value of the investment. -47- Table of Contents Even if the regulatory approvals are obtained and other conditions met and our commercial arrangements with InPost are finalized, there can be no assurance that our investment and the commercial agreements will achieve the strategic or financial benefits we currently expect. ITEM 2.",
+        "charRange": [
+          182490,
+          184325
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 93575,
+            "context": "facilities and have undiscounted future payments of approximately $ 1.3 billion that will commence when FedEx gains beneficial access to the leased asset. Commencement dates are expected to be from calendar years 2026 to 2027. NOTE 9: CONTINGENCIES Litigation Matters. FedEx and its subsidiaries are subject to various legal proceedings and claims, including lawsuits alleging that Federal Express should be treated as the employer or joint employer of drivers employed by service providers engaged by Federal Express, lawsuits containing various class-action allegations of wage-and-hour violations"
+          },
+          {
+            "charIndex": 106171,
+            "context": "these developments on our business and financial statements. However, at this time, we cannot reasonably estimate the financial impact, and no adjustments have been recorded. See &#8220;Other Business Matters&#8221; below for information on related litigation. MD-11 Operational Impact In November 2025, the U.S. Federal Aviation Administration issued an emergency Airworthiness Directive to address a potentially unsafe condition on all Boeing MD-11 aircraft, prohibiting further flight until the aircraft are inspected and all corrective actions are performed. As a result, during the third quarte"
+          },
+          {
+            "charIndex": 168565,
+            "context": "&#8220;Retirement Plans,&#8221; &#8220;Commitments,&#8221; and &#8220;Contingencies&#8221; notes to our unaudited condensed consolidated financial statements, are &#8220;forward-looking&#8221; statements within the meaning of the Private Securities Litigation Reform Act of 1995 (the &#8220;PSLRA&#8221;) with respect to our financial condition, results of operations, cash flows, plans, objectives, future performance, and business and the assumptions underlying such statements. Forward-looking statements include those preceded by, followed by, or that include the words &#8220;will,&#8221; &#822"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 94967,
+            "context": "of International Trade against the U.S. Customs and Border Protection (&#8220;CBP&#8221;), the CBP commissioner, and the United States of America seeking a full refund of all IEEPA tariffs that FedEx has paid to the United States. Additionally, five class action lawsuits seeking refunds of IEEPA tariffs from FedEx were filed in U.S. district courts in South Carolina, Florida, New York, Tennessee, and Delaware. The financial impact of these events is uncertain, as it is unclear to what extent duties will be refunded by CBP, what processes will govern such refunds, or if we can fully collect rel"
+          },
+          {
+            "charIndex": 109108,
+            "context": "of International Trade against the U.S. Customs and Border Protection (&#8220;CBP&#8221;), the CBP commissioner, and the United States of America seeking a full refund of all IEEPA tariffs that FedEx has paid to the United States. Additionally, five class action lawsuits seeking refunds of IEEPA tariffs from FedEx were filed in U.S. district courts in South Carolina, Florida, New York, Tennessee, and Delaware. -26- Table of Contents RESULTS OF OPERATIONS Many of our operating expenses are directly affected by revenue and volume levels, and we expect these operating expenses to fluctuate on a y"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 63450,
+            "context": "al basis. There are no material restrictions on our ability to declare dividends, nor are there any material restrictions on the ability of our subsidiaries to transfer funds to us in the form of cash dividends, loans, or advances. RECENT ACCOUNTING GUIDANCE. New accounting rules and disclosure requirements can significantly affect our reported results and the comparability of our financial statements. We believe the following new accounting guidance is relevant to the readers of our financial statements. New Accounting Standards and Accounting Standards Not Yet Adopted In December 2025, the F"
+          },
+          {
+            "charIndex": 63646,
+            "context": "cash dividends, loans, or advances. RECENT ACCOUNTING GUIDANCE. New accounting rules and disclosure requirements can significantly affect our reported results and the comparability of our financial statements. We believe the following new accounting guidance is relevant to the readers of our financial statements. New Accounting Standards and Accounting Standards Not Yet Adopted In December 2025, the Financial Accounting Standards Board (&#8220;FASB&#8221;) issued Accounting Standards Update (&#8220;ASU&#8221;) 2025-11, Interim Reporting (Topic 270): Narrow-Scope Improvements, which clarifies t"
+          },
+          {
+            "charIndex": 64038,
+            "context": "2025, the Financial Accounting Standards Board (&#8220;FASB&#8221;) issued Accounting Standards Update (&#8220;ASU&#8221;) 2025-11, Interim Reporting (Topic 270): Narrow-Scope Improvements, which clarifies the applicability of the interim reporting guidance, the types of interim reporting, and the form and content of interim financial statements in accordance with U.S. generally accepted accounting principles. Per the FASB, the amendment does not intend to change the fundamental nature of interim reporting or expand or reduce current interim disclosure requirements but rather provide clarity"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 103873,
+            "context": "ur Annual Report, as updated by our quarterly reports on Form 10-Q, for more information. Additionally, see &#8220; Results of Operations &#8211; Consolidated Results &#8211; Separation and Other Costs &#8211; Business Optimization Costs and &#8211; Outlook&#8221; and &#8220; Financial Condition &#8211; Liquidity Outlook &#8221; below for additional information on efforts we are taking to mitigate adverse trends. Macroeconomic Conditions While macroeconomic risks apply to most companies, we are particularly vulnerable. The transportation industry is highly cyclical and especially susceptible t"
+          },
+          {
+            "charIndex": 103938,
+            "context": "Q, for more information. Additionally, see &#8220; Results of Operations &#8211; Consolidated Results &#8211; Separation and Other Costs &#8211; Business Optimization Costs and &#8211; Outlook&#8221; and &#8220; Financial Condition &#8211; Liquidity Outlook &#8221; below for additional information on efforts we are taking to mitigate adverse trends. Macroeconomic Conditions While macroeconomic risks apply to most companies, we are particularly vulnerable. The transportation industry is highly cyclical and especially susceptible to trends in economic activity. Our primary business is to transpo"
+          },
+          {
+            "charIndex": 114131,
+            "context": "d for repurchases under the stock repurchase program approved by our Board of Directors in 2024. See Note 1 of the accompanying unaudited condensed consolidated financial statements, &#8220;Financial Condition &#8211; Liquidity and &#8211; Liquidity Outlook &#8221; below, and Part II, Item 2. &#8220;Unregistered Sales of Equity Securities and Use of Proceeds&#8221; of this Form 10-Q for additional information. The following graphs for Federal Express and FedEx Freight show selected volume trends (in thousands) calculated on a 5-day-per-week basis over the five most recent quarters: (1) Interna"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 58304,
+            "context": "asurement alternative to all other investments in equity securities without a readily determinable fair value. Under the measurement alternative these equity securities are accounted for at cost, with adjustments for observable changes in prices and impairments recognized in &#8220;Other (expense) income&#8221; on our accompanying unaudited condensed consolidated statements of income. -12- Table of Contents We perform an assessment each reporting period to evaluate whether these equity securities are impaired. Our assessment includes a review of recent operating results and trends and other pu"
+          },
+          {
+            "charIndex": 72249,
+            "context": "to FedEx and other transactions related to the planned spin-off of FedEx Freight and certain other customary items) to consolidated earnings (excluding noncash retirement plans mark-to-market adjustments; noncash pension service costs; noncash asset impairment charges; and, subject to certain limitations, business optimization and restructuring expenses, pro forma cost savings and synergies associated with an acquisition, and transaction costs, fees, and expenses and synergies and cost savings related to the planned spin-off of FedEx Freight) before interest, taxes, depreciation, and amortizat"
+          },
+          {
+            "charIndex": 166759,
+            "context": "o prepare the financial statements of a complex, global corporation. However, even under optimal circumstances, estimates routinely require adjustment based on changing circumstances and new or better information. GOODWILL. Goodwill is evaluated for impairment indicators between annual tests and tested for impairment whenever events or circumstances make it more likely than not that the fair value of a reporting unit has fallen below its carrying value. We do not believe there has been any additional change of events or circumstances that would indicate that additional reevaluation of the good"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 60465,
+            "context": "holding 37 %. InPost will continue to operate as a standalone company. The Offer and the transactions contemplated thereby (the &#8220;Transactions&#8221;) are subject to certain customary closing conditions, including, among others, the receipt of regulatory approvals. Based upon the proposed Offer price, FedEx's investment is valued at approximately $ 2.6 billion. FedEx intends to fund its portion of the Offer by utilizing available cash balances, existing or new liquidity sources, or a combination thereof. The Transaction is expected to be completed in the second half of 2026. TREASURY SHA"
+          },
+          {
+            "charIndex": 152582,
+            "context": "- Table of Contents pre-existing contractual commitments, anticipated volume growth, domestic and international economic conditions, new or enhanced services, geographical expansion of services, availability of satisfactory financing, and actions of regulatory authorities. The following table compares capital expenditures by asset category and reportable segment for the periods ended February 28, 2026 and 2025 (in millions): Three Months Ended Nine Months Ended Percent Change 2026 2025 2026 2025 Three Months Ended Nine Months Ended Aircraft and related equipment $ 196 $ 367 $ 380 $ 630 (47) (4"
+          },
+          {
+            "charIndex": 160419,
+            "context": "x holding 37%. InPost will continue to operate as a standalone company. The Offer and the transactions contemplated thereby (the &#8220;Transactions&#8221;) are subject to certain customary closing conditions, including, among others, the receipt of regulatory approvals. Based upon the proposed Offer price, FedEx's investment is valued at approximately $2.6 billion. FedEx intends to fund its portion of the Offer by utilizing available cash balances, existing or new liquidity sources, or a combination thereof. Once the Transactions are completed, InPost and FedEx will enter into arm's length co"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 61759,
+            "context": "5, 8.9 million shares were repurchased through accelerated share repurchase (&#8220;ASR&#8221;) agreements and open market transactions at an average price of $ 281.74 per share for a total of $ 2.5 billion. The final number of shares delivered upon settlement of the ASR agreements was determined based on a discount to the volume-weighted average price of our stock during the term of the transaction. The repurchased shares were accounted for as a reduction to common stockholders' investment in the accompanying unaudited condensed consolidated balance sheet and resulted in a reduction of the ou"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 92835,
+            "context": "6 3,169 2029 112 2,340 2,452 184 2,636 2030 103 1,973 2,076 167 2,243 Thereafter 399 8,466 8,865 664 9,529 Total lease payments 883 19,359 20,242 1,550 21,792 Less imputed interest ( 147 ) ( 3,326 ) ( 3,473 ) ( 372 ) ( 3,845 ) Present value of lease liability $ 736 $ 16,033 $ 16,769 $ 1,178 $ 17,947 While certain of our lease agreements contain covenants governing the use of the leased assets or require us to maintain certain levels of insurance, none of our lease agreements include material financial covenants or limitations. As of February 28, 2026, FedEx has entered into additional leases w"
+          },
+          {
+            "charIndex": 93270,
+            "context": "s of insurance, none of our lease agreements include material financial covenants or limitations. As of February 28, 2026, FedEx has entered into additional leases which have not yet commenced and are therefore not part of the right-of-use asset and liability. These leases are generally for build-to-suit facilities and have undiscounted future payments of approximately $ 1.3 billion that will commence when FedEx gains beneficial access to the leased asset. Commencement dates are expected to be from calendar years 2026 to 2027. NOTE 9: CONTINGENCIES Litigation Matters. FedEx and its subsidiarie"
+          },
+          {
+            "charIndex": 94332,
+            "context": "breaks or other benefits, and lawsuits alleging that FedEx and its subsidiaries are responsible for third-party losses related to vehicle accidents that could exceed our insurance coverage for such losses. In the opinion of management, the aggregate liability, if any, with respect to these actions will not have a material adverse effect on our financial position, results of operations, or cash flows. On February 20, 2026, the U.S. Supreme Court issued a decision invalidating tariffs imposed under the International Emergency Economic Powers Act (&#8220;IEEPA&#8221;). On February 23, 2026, FedEx"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-07-20",
+        "reportDate": "2026-05-31",
+        "accessionNumber": "0001048911-26-000105",
+        "primaryDocument": "fdx-20260531.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891126000105/fdx-20260531.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1048911/000104891126000105/"
+      },
+      "textLength": 601484,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS",
+        "text": "Management's Discussion and Analysis of Financ ial Condition and Results of Operations . &#8221; -65- ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT'S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING Our management is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Securities Exchange Act of 1934, as amended). Our internal control over financial reporting includes, among other things, defined policies and procedures for conducting and governing our business, sophisticated information systems for processing transactions, and a properly staffed, professional internal audit department. Mechanisms are in place to monitor the effectiveness of our internal control over financial reporting and actions are taken to correct all identified deficiencies. Our procedures for financial reporting include the active involvement of senior management, our Audit and Finance Committee, and our staff of highly qualified financial and legal professionals. Management, with the participation of our principal executive and financial officers, assessed our internal control over financial reporting as of May 31, 2026, the end of our fiscal year. Management based its assessment on criteria established in Internal Control — Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). Based on this assessment, management has concluded that our internal control over financial reporting was effective as of May 31, 2026. The effectiveness of our internal control over financial reporting as of May 31, 2026, has been audited by Ernst & Young LLP (PCAOB ID: 42 ), the independent registered public accounting firm who also audited the Company's consolidated financial statements included in this Annual Report. Ernst & Young LLP's report on the Company's internal control over financial reporting is included in this Annual Report. -66- Report of Independent Registered Public Accounting Firm To the Stockholders and the Board of Directors of FedEx Corporation Opinion on Internal Control Over Financial Reporting We have audited FedEx Corporation's internal control over financial reporting as of May 31, 2026, based on criteria established in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). In our opinion, FedEx Corporation (the Company) maintained, in all material respects, effective internal control over financial reporting as of May 31, 2026, based on the COSO criteria. We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of May 31, 2026 and 2025, the related consolidated statements of income, comprehensive income, cash flows and changes in common stockholders' investment for each of the three years in the period ended May 31, 2026, and the related notes and our report dated July 20, 2026 expressed an unqualified opinion thereon. Basis for Opinion The Company's management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Management's Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company's internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion. Definition and Limitations of Internal Control Over Financial Reporting A company's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. /s/ Ernst & Young LLP Memphis, Tennessee July 20, 2026 -67- Report of Independent Registered Public Accounting Firm To the Stockholders and the Board of Directors of FedEx Corporation Opinion on the Financial Statements We have audited the accompanying consolidated balance sheets of FedEx Corporation (the Company) as of May 31, 2026 and 2025, the related consolidated statements of income, comprehensive income, cash flows and changes in common stockholders' investment for each of the three years in the period ended May 31, 2026, and the related notes (collectively referred to as the &#8220;consolidated financial statements&#8221;). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at May 31, 2026 and 2025, and the results of its operations and its cash flows for each of the three years in the period ended May 31, 2026, in conformity with U.S. generally accepted accounting principles. We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of May 31, 2026, based on criteria established in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework), and our report dated July 20, 2026 expressed an unqualified opinion thereon. Basis for Opinion These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. Critical Audit Matters The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate. U.S. Pension Projected Benefit Obligation Description of the Matter The Company sponsors defined benefit pension plans that provide retirement benefits to certain U.S. employees. At May 31, 2026, the Company's aggregated projected benefit obligation for U.S. pension plans was $27.1 billion, which was less than the $28.5 billion fair value of U.S. pension plan assets, resulting in a funded status of $1.4 billion. As explained in Note 1 and Note 1 2 to the consolidated financial statements, the Company's projected benefit obligation for the U.S. pension plans is measured using actuarial techniques that reflect management's assumptions. Auditing the projected benefit obligation of the U.S. pension plans was complex due to the highly judgmental nature and significant effect of the discount rate used in the measurement process. The discount rate has a significant effect on the projected benefit obligation and is developed by utilizing the yield on a theoretical portfolio of high-grade corporate bonds with cash flows that are designed to match expected benefit payments in future years. -68- How We Addressed the Matter in Our Audit We obtained an understanding, evaluated the design and tested the operating effectiveness of controls over management's process for estimating the projected benefit obligation of the U.S. pension plans, including management's review of the discount rate and assessment of the data inputs provided to the actuary. To test the projected benefit obligation of the U.S. pension plans, our audit procedures included, among others, evaluating the methodologies, discount rate, and the underlying data used by the Company. We compared the actuarial assumptions used by management to historical trends and evaluated the change in the projected benefit obligation of the U.S. pension plans from the prior year due to the change in service cost, interest cost, actuarial gains, and benefit payments. In addition, we involved our actuarial specialists to assist in evaluating management's methodology for determining the discount rate. As part of this assessment, we compared management's selected discount rate to an independently developed range of reasonable discount rates. Additionally, we compared the projected future cash flows of the U.S. pension plans to the prior year projections and compared the current year benefits paid to the prior year projected cash flows. We also tested the completeness and accuracy of the underlying data, including the participant data provided to management's actuarial specialists. Valuation of Self-Insurance Accruals Description of the Matter At May 31, 2026, the Company's self-insurance accruals reflected in the balance sheet were $6.4 billion. As explained in Note 1 to the consolidated financial statements, self-insurance accruals include costs associated with vehicle accidents, workers' compensation claims, property and cargo loss, general business liabilities, and benefits paid under employee disability programs. These accrued liabilities are primarily based on the actuarially estimated cost of claims, including incurred-but-not-reported (IBNR) claims. Auditing the Company's self-insurance accruals for vehicle accidents and workers' compensation claims is complex due to the significant measurement uncertainty inherent to the estimate, the application of management judgment, and the use of various actuarial methods. In addition, the accruals are sensitive due to the volume of claims and the amount of time that can pass before the final cost is known. How We Addressed the Matter in Our Audit We obtained an understanding, evaluated the design and tested the operating effectiveness of controls over management's process for estimating self-insurance accruals for vehicle accidents and workers' compensation claims, including management's review of actuarial estimates and assessment of data underlying the accruals. To evaluate the self-insurance accruals for vehicle accidents and workers' compensation claims, our audit procedures included, among others, testing the completeness and accuracy of the underlying claims data used by the Company. We involved our actuarial specialists to assist in our evaluation of the methodologies applied by management in establishing the actuarially determined accrual and in reviewing the Company's reinsurance contracts by policy year to assess the Company's self-insured retentions, deductibles, and coverage limits. We compared the Company's accrued amounts to a range developed by our actuarial specialists. Furthermore, we compared the Company's historical estimates of expected incurred losses to actual losses experienced during the current year. /s/ Ernst & Young LLP We have served as the Company's auditor since 2002. Memphis, Tennessee July 20, 2026 -69- FEDEX CORPORATION CONSOLIDATED BALANCE SHEETS (IN MILLIONS) May 31, 2026 2025 ASSETS CURRENT ASSETS Cash and cash equivalents $ 13,311 $ 5,502 Receivables, less allowances of $ 864 and $ 773 12,672 11,368 Spare parts, supplies, and fuel, less allowances of $ 324 and $ 308 669 602 Prepaid expenses and other 1,251 914 Total current assets 27,903 18,386 PROPERTY AND EQUIPMENT, AT COST Aircraft and related equipment 32,107 31,584 Package handling and ground support equipment 19,816 18,878 Information technology 9,942 9,706 Vehicles and trailers 11,150 10,949 Facilities and other 17,911 16,505 Total property and equipment, at cost 90,926",
+        "charRange": [
+          383484,
+          398484
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors &#8221; of this Annual Report for more information. INVESTMENTS IN EQUITY AND DEBT SECURITIES. Investments in equity securities with a readily determinable fair value are carried at fair value and are classified as Level 1 investments in the fair value hierarchy. Level 1 investments are valued at the closing price or last trade reported on the major market on which the individual securities are traded. For equity securities without readily determinable fair values that qualify for the net asset value (&#8220;NAV&#8221;) practical expedient, we have elected to apply the NAV practical -81- FEDEX CORPORATION NOTES TO CONSOLIDATED",
+        "charRange": [
+          440347,
+          440995
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 233727,
+            "context": "erially and adversely affect our business and results of operations, cash flows, and financial condition. Our operations are exposed to adverse weather conditions and localized risks from natural or man-made disasters such as earthquakes, volcanoes, wildfires, hurricanes, tornadoes, wind gusts, floods, severe winter weather, heat waves, or extended droughts, conflicts or unrest, or subject to terrorist or other physical attacks, or other disturbances, actual or threatened. Disruptions to government agencies or personnel (including as a result of government shutdowns), disruptions at airport fa"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 60040,
+            "context": "s,&#8221; and &#8220;Contingencies&#8221; notes to the consolidated financial statements in &#8220; Item 8. Financial Statements and Supplementary Data &#8221; are &#8220;forward-looking&#8221; statements within the meaning of the Private Securities Litigation Reform Act of 1995 with respect to our financial condition, results of operations, cash flows, plans, objectives, future performance, and business. Forward-looking statements include those preceded by, followed by, or that include the words &#8220;will,&#8221; &#8220;may,&#8221; &#8220;could,&#8221; &#8220;would,&#8221; &#8220;should,&#8"
+          },
+          {
+            "charIndex": 168867,
+            "context": "nally, it is possible that the business and network integration and optimization process could result in higher-than-currently-expected costs, less-than-expected savings, the loss of customers, the disruption of ongoing businesses, union organizing, litigation, legal disputes with service providers, governmental agency challenges, the loss of key employees or service providers, or other unexpected issues. It is also possible that the overall process will take longer than currently anticipated. Additionally, the following issues, among others, must be addressed in order to realize the anticipat"
+          },
+          {
+            "charIndex": 171782,
+            "context": "hese initiatives and enhancements may differ from our current expectations and estimates. These initiatives and enhancements could also result in asset impairment charges and changes to our tax liabilities and deferred tax balances and subject us to litigation. If we are not able to successfully implement our transformation initiatives, our future financial results will suffer and we may not be able to achieve our financial performance goals. All of these factors could adversely affect our results of operations and negatively affect the price of our common stock. In addition, at times the atte"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 242567,
+            "context": "to comply with applicable United States or foreign data protection laws, regulations, or other data protection standards or cybersecurity regulations may expose us or our applicable third-party providers to litigation (including, in some instances, class action litigation), fines, sanctions, or other penalties, which could -30- materially and adversely affect our business, reputation, results of operations, cash flows, and financial condition. This regulatory environment is increasingly challenging, based on discretionary factors, and difficult to predict. Consequently, compliance with all ap"
+          },
+          {
+            "charIndex": 289865,
+            "context": "losses. Recoveries of such amounts are recognized in the period cash is received or when realization is reasonably assured which is generally when cash is received and are recorded as reductions of bad debt expense. Additionally, fourteen nationwide class action lawsuits seeking refunds of IEEPA tariffs from FedEx were filed in U.S. district courts in various states. Thirteen of those lawsuits were consolidated into a single case pending in Tennessee federal court. The remaining lawsuit is pending in the Court of International Trade. The financial impact of these events is uncertain, as it is"
+          },
+          {
+            "charIndex": 542813,
+            "context": "corresponding refunds as soon as practicable. Accordingly, FedEx has recorded $ 749 million as of May 31, 2026 within current liabilities representing estimated customer refund obligations for cash refunds received. Additionally, fourteen nationwide class action lawsuits seeking refunds of IEEPA tariffs from FedEx were filed in U.S. district courts in various states. Thirteen of those lawsuits were consolidated into a single case pending in Tennessee federal court. The remaining lawsuit is pending in the Court of International Trade. The financial impact of these events is uncertain, as it is"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 105889,
+            "context": "ns our ability to participate in same-day and on-demand delivery opportunities. In May 2026, we introduced an AI-driven assistant within the FedEx Developer Portal to help developers more efficiently access documentation, receive real-time technical guidance, and accelerate integrations with FedEx digital services. Also in 2026, we announced separate strategic partnerships with ServiceNow and Dun & Bradstreet to provide customers with more intelligent supply chain solutions powered by FedEx Dataworks. These collaborations include AI-powered workflows designed to improve supply chain visibility"
+          },
+          {
+            "charIndex": 183352,
+            "context": "tended outputs or outcomes. Our use of AI may also increase risks related to cybersecurity, data privacy, intellectual property, confidentiality, regulatory compliance, and reputational harm. In addition, evolving laws, regulations, and governmental guidance relating to AI may require us to incur additional compliance costs, change our business practices, or limit our ability to develop or use AI technologies. Our competitors may also adopt AI technologies more quickly or more effectively than we do. Further, our investments in AI technologies may not improve our services, operations, efficien"
+          },
+          {
+            "charIndex": 216625,
+            "context": "ould make it easier for our employees, as well as vendor, service provider, and supplier workforces, to organize under the RLA or NLRA. Finally, changes to federal or state laws, regulations, rules, judicial or administrative precedent, decisions or guidance governing employee classification could affect the status of service providers as independent employers of their drivers. If we are deemed to be an employer or joint employer of the drivers of these service providers, labor organizations could more easily organize these individuals, our operating costs could increase materially, and we cou"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 59155,
+            "context": "5. Market for Registrant's Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities &#8221;; the &#8220;Trends Affecting Our Business,&#8221; &#8220;Business Optimization Costs,&#8221; &#8220;Income Taxes,&#8221; &#8220;Outlook,&#8221; &#8220;Reportable Segments,&#8221; &#8220; Liquidity Outlook ,&#8221; and &#8220; Critical Accounting Estimates &#8221; sections of &#8220; Item 7. Management's Discussion and Analysis of Results of Operations and Financial Condition &#8221;; and the &#8220;Description of Business Segments and Summary of Significant Accounting Polic"
+          },
+          {
+            "charIndex": 59224,
+            "context": "s, and Issuer Purchases of Equity Securities &#8221;; the &#8220;Trends Affecting Our Business,&#8221; &#8220;Business Optimization Costs,&#8221; &#8220;Income Taxes,&#8221; &#8220;Outlook,&#8221; &#8220;Reportable Segments,&#8221; &#8220; Liquidity Outlook ,&#8221; and &#8220; Critical Accounting Estimates &#8221; sections of &#8220; Item 7. Management's Discussion and Analysis of Results of Operations and Financial Condition &#8221;; and the &#8220;Description of Business Segments and Summary of Significant Accounting Policies,&#8221; &#8220;Goodwill and Other Intangible Assets,&#8221; &#822"
+          },
+          {
+            "charIndex": 85201,
+            "context": "1, 2026, the tables used to determine fuel surcharges for Express U.S. Domestic services were updated. The tables used to determine fuel surcharges for Express International services were updated in May 2026. See the &#8220;Results of Operations and Outlook — Consolidated Results — Fuel&#8221; section of &#8220; Item 7. Management's Discussion and Analysis of Results of Operations and Financial Condition &#8221; of this Annual Report for more information. Retail Access Network FedEx Office offers retail access to Federal Express shipping services at all of its retail locations. Federal Express"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 171684,
+            "context": "incurred and related cost savings and reductions to our permanent cost structure resulting from these initiatives and enhancements may differ from our current expectations and estimates. These initiatives and enhancements could also result in asset impairment charges and changes to our tax liabilities and deferred tax balances and subject us to litigation. If we are not able to successfully implement our transformation initiatives, our future financial results will suffer and we may not be able to achieve our financial performance goals. All of these factors could adversely affect our results"
+          },
+          {
+            "charIndex": 210021,
+            "context": "operating margins, and undercapacity could negatively affect service levels. See &#8220; Item 7. Management's Discussion and Analysis of Results of Operations and Financial Condition - Results of Operations and Outlook - Consolidated Results - Asset Impairment Charges&#8221; of this Annual Report for information regarding the noncash impairment charges recorded in 2026 and 2025 in connection with our decision to permanently retire certain aircraft and related engines from service. Our inability to execute and effectively operate, integrate, leverage, and grow acquired businesses and realize th"
+          },
+          {
+            "charIndex": 210107,
+            "context": "0; Item 7. Management's Discussion and Analysis of Results of Operations and Financial Condition - Results of Operations and Outlook - Consolidated Results - Asset Impairment Charges&#8221; of this Annual Report for information regarding the noncash impairment charges recorded in 2026 and 2025 in connection with our decision to permanently retire certain aircraft and related engines from service. Our inability to execute and effectively operate, integrate, leverage, and grow acquired businesses and realize the anticipated benefits of acquisitions, joint ventures, and strategic alliances and in"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 110181,
+            "context": "priate. Regulation Air . Under the Federal Aviation Act of 1958, as amended (the &#8220;Federal Aviation Act&#8221;), both the U.S. Department of Transportation (&#8220;DOT&#8221;) and the Federal Aviation Administration (&#8220;FAA&#8221;) exercise regulatory authority over FedEx's air operations. The FAA's regulatory authority relates primarily to operational aspects of air transportation, including aircraft standards and maintenance, as well as personnel and ground facilities, which may from time to time affect the ability of FedEx to operate its aircraft in the most efficient manner. FedEx"
+          },
+          {
+            "charIndex": 110241,
+            "context": "958, as amended (the &#8220;Federal Aviation Act&#8221;), both the U.S. Department of Transportation (&#8220;DOT&#8221;) and the Federal Aviation Administration (&#8220;FAA&#8221;) exercise regulatory authority over FedEx's air operations. The FAA's regulatory authority relates primarily to operational aspects of air transportation, including aircraft standards and maintenance, as well as personnel and ground facilities, which may from time to time affect the ability of FedEx to operate its aircraft in the most efficient manner. FedEx holds an air carrier certificate granted by the FAA pursuan"
+          },
+          {
+            "charIndex": 110969,
+            "context": "dEx maintains its standards of safety and meets the operational requirements of the regulations. The DOT's authority relates primarily to economic aspects of air transportation. The DOT's jurisdiction extends to aviation route authority and to other regulatory matters, including the transfer of route authority between carriers. FedEx holds various certificates issued by the DOT authorizing the company to engage in U.S. and international air transportation of property and mail on a worldwide basis. These certificates remain in effect as we maintain our economic fitness to perform all-cargo serv"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 185184,
+            "context": "laims involved and the length of time until the ultimate cost is known, which may be several years. Material increases in the magnitude of claims, changes to healthcare costs, accident frequency and severity, insurance retention levels, judgment and settlement amounts, associated legal expenses, and other factors could result in unfavorable differences between actual self-insurance costs and our reserve estimates. As a result, our insurance and claims costs could materially increase in the future, which could adversely affect our results of operations and financial condition. As a supplement t"
+          },
+          {
+            "charIndex": 357931,
+            "context": "a tax benefit must be at least more likely than not of being sustained based on the technical merits. The benefit for positions meeting the recognition threshold is measured as the largest benefit more likely than not of being realized upon ultimate settlement with a taxing authority that has full knowledge of all relevant information. Significant judgment is required in making these determinations and adjustments to unrecognized tax benefits may be necessary to reflect actual taxes payable upon settlement. Deferred income tax assets represent amounts available to reduce income taxes payable o"
+          },
+          {
+            "charIndex": 358182,
+            "context": "ettlement with a taxing authority that has full knowledge of all relevant information. Significant judgment is required in making these determinations and adjustments to unrecognized tax benefits may be necessary to reflect actual taxes payable upon settlement. Deferred income tax assets represent amounts available to reduce income taxes payable on taxable income in future years. Such assets arise because of temporary differences between the financial reporting and tax bases of assets and liabilities, as well as from net operating loss, capital loss, and tax credit carryforwards. We evaluate t"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 96199,
+            "context": "e U.S. domestic freight and international freight markets are both highly competitive and sensitive to price and service, especially in periods of little or no macroeconomic growth. The ability to compete effectively depends upon price, frequency, reliability, capacity and speed of scheduled service, ability to track packages, extent of geographic coverage, innovative service offerings, and the fit within the customer's overall supply chain. Competitors for Express U.S. Domestic include other package delivery concerns, principally United Parcel Service, Inc. (&#8220;UPS&#8221;), passenger airl"
+          },
+          {
+            "charIndex": 98405,
+            "context": "important as the delivery of the package itself&#8221; remains at the core of our comprehensive technology strategy. We strive to build technology solutions that will solve our customers' business problems with simplicity, convenience, speed, and reliability. Additionally, FedEx stands at the nexus of digital and physical networks, a crucial intersection for the success of e-commerce and time-sensitive deliveries. We continue to expand our e-commerce convenience network and explore innovative alternatives to help customers and businesses deliver. We have substantially advanced our major infor"
+          },
+          {
+            "charIndex": 100049,
+            "context": "ing our customer service representatives and sales professionals to focus on higher-value customer interactions. During 2026, we launched confidence-based notification optimization, leveraging advanced analytics to further improve the accuracy and reliability of the estimated delivery dates and estimated delivery time windows provided to customers. SenseAware Mobile, a FedEx innovation currently available in over 120 countries worldwide, allows customers to stay connected to their critical shipments by providing real-time updates regarding current location, temperature, relative humidity, baro"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "Revenues",
+      "points": [
+        {
+          "start": "2019-09-01",
+          "end": "2019-11-30",
+          "val": 17324000000,
+          "accn": "0001564590-19-046220",
+          "fy": 2020,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2019-12-17",
+          "frame": "CY2019Q4"
+        },
+        {
+          "start": "2019-06-01",
+          "end": "2019-11-30",
+          "val": 34372000000,
+          "accn": "0001564590-19-046220",
+          "fy": 2020,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2019-12-17"
+        },
+        {
+          "start": "2019-06-01",
+          "end": "2019-08-31",
+          "val": 17048000000,
+          "accn": "0001564590-19-034896",
+          "fy": 2020,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2019-09-17",
+          "frame": "CY2019Q3"
+        },
+        {
+          "start": "2018-12-01",
+          "end": "2019-02-28",
+          "val": 17010000000,
+          "accn": "0001564590-19-008444",
+          "fy": 2019,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2019-03-19",
+          "frame": "CY2019Q1"
+        },
+        {
+          "start": "2018-06-01",
+          "end": "2019-02-28",
+          "val": 51886000000,
+          "accn": "0001564590-19-008444",
+          "fy": 2019,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2019-03-19"
+        },
+        {
+          "start": "2018-09-01",
+          "end": "2018-11-30",
+          "val": 17824000000,
+          "accn": "0001564590-19-046220",
+          "fy": 2020,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2019-12-17",
+          "frame": "CY2018Q4"
+        },
+        {
+          "start": "2018-09-01",
+          "end": "2018-11-30",
+          "val": 17824000000,
+          "accn": "0001564590-18-031032",
+          "fy": 2019,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2018-12-18"
+        },
+        {
+          "start": "2018-06-01",
+          "end": "2018-11-30",
+          "val": 34876000000,
+          "accn": "0001564590-19-046220",
+          "fy": 2020,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2019-12-17"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2025-06-01",
+          "end": "2026-05-31",
+          "val": 18.55,
+          "accn": "0001048911-26-000105",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-07-20",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-12-01",
+          "end": "2026-02-28",
+          "val": 4.41,
+          "accn": "0001048911-26-000011",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-03-19",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-06-01",
+          "end": "2026-02-28",
+          "val": 11.91,
+          "accn": "0001048911-26-000011",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-03-19"
+        },
+        {
+          "start": "2025-09-01",
+          "end": "2025-11-30",
+          "val": 4.04,
+          "accn": "0001048911-25-000078",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-12-18",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2025-06-01",
+          "end": "2025-11-30",
+          "val": 7.5,
+          "accn": "0001048911-25-000078",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-12-18"
+        },
+        {
+          "start": "2025-06-01",
+          "end": "2025-08-31",
+          "val": 3.46,
+          "accn": "0001048911-25-000044",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-09-18",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2024-06-01",
+          "end": "2025-05-31",
+          "val": 16.81,
+          "accn": "0001048911-26-000105",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-07-20",
+          "frame": "CY2024"
+        },
+        {
+          "start": "2024-06-01",
+          "end": "2025-05-31",
+          "val": 16.81,
+          "accn": "0001048911-25-000011",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-07-21"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2025-06-01",
+          "end": "2026-05-31",
+          "val": 4433000000,
+          "accn": "0001048911-26-000105",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-07-20",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-12-01",
+          "end": "2026-02-28",
+          "val": 1056000000,
+          "accn": "0001048911-26-000011",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-03-19",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-06-01",
+          "end": "2026-02-28",
+          "val": 2836000000,
+          "accn": "0001048911-26-000011",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-03-19"
+        },
+        {
+          "start": "2025-09-01",
+          "end": "2025-11-30",
+          "val": 956000000,
+          "accn": "0001048911-25-000078",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-12-18",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2025-06-01",
+          "end": "2025-11-30",
+          "val": 1780000000,
+          "accn": "0001048911-25-000078",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-12-18"
+        },
+        {
+          "start": "2025-06-01",
+          "end": "2025-08-31",
+          "val": 824000000,
+          "accn": "0001048911-25-000044",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-09-18",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2024-06-01",
+          "end": "2025-05-31",
+          "val": 4092000000,
+          "accn": "0001048911-26-000105",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-07-20",
+          "frame": "CY2024"
+        },
+        {
+          "start": "2024-06-01",
+          "end": "2025-05-31",
+          "val": 4092000000,
+          "accn": "0001048911-25-000011",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-07-21"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2025-06-01",
+          "end": "2026-05-31",
+          "val": 5463000000,
+          "accn": "0001048911-26-000105",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-07-20",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-12-01",
+          "end": "2026-02-28",
+          "val": 1348000000,
+          "accn": "0001048911-26-000011",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-03-19",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-06-01",
+          "end": "2026-02-28",
+          "val": 3912000000,
+          "accn": "0001048911-26-000011",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2026-03-19"
+        },
+        {
+          "start": "2025-09-01",
+          "end": "2025-11-30",
+          "val": 1378000000,
+          "accn": "0001048911-25-000078",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-12-18",
+          "frame": "CY2025Q4"
+        },
+        {
+          "start": "2025-06-01",
+          "end": "2025-11-30",
+          "val": 2564000000,
+          "accn": "0001048911-25-000078",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-12-18"
+        },
+        {
+          "start": "2025-06-01",
+          "end": "2025-08-31",
+          "val": 1186000000,
+          "accn": "0001048911-25-000044",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-09-18",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2024-06-01",
+          "end": "2025-05-31",
+          "val": 5217000000,
+          "accn": "0001048911-26-000105",
+          "fy": 2026,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-07-20",
+          "frame": "CY2024"
+        },
+        {
+          "start": "2024-06-01",
+          "end": "2025-05-31",
+          "val": 5217000000,
+          "accn": "0001048911-25-000011",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-07-21"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "FDX",
+    "name": "FEDEX CORP",
+    "sector": "Air Courier Services",
+    "pe": 17.54,
+    "pb": 2.47,
+    "ret3m": -13.5265,
+    "ret6m": -8.0214,
+    "roe": 14.01,
+    "debtEquity": 0.76,
+    "revenueGrowth": 7.73,
+    "epsGrowth": -91.39,
+    "fcfGrowth": null,
+    "operatingMargin": 5.77,
+    "marginTrend": -0.16,
+    "sentiment": 0.375,
+    "analyst": 72.1,
+    "beta": 1.2156997
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "Is FedEx (FDX) Using Robotics To Sharpen Its Cost Edge Or Just Keep Pace With Rivals?",
+        "url": "https://finnhub.io/api/news?id=c59fcc9f4e9677563701370752cd48d371e54493fc7f0373acf499cf9bdde757",
+        "source": "Yahoo",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Is FedEx (FDX) Undervalued As Trailer Loading Automation Starts At Its Hagerstown Hub?",
+        "url": "https://finnhub.io/api/news?id=384769cd1d5f78ac57c04151136b5dab092ad6a76f47497b2a3e0208d3a142f2",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Memphis Tradition of Hope Continues to Change Children's Lives During the 2026 FedEx St. Jude Championship Benefiting St. Jude Children's Research Hospital®",
+        "url": "https://finnhub.io/api/news?id=7a47f0a43695fb8db73a63749646c8d7da10bd1281c54d766ebe8a90ae9a468f",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "FedEx, Amazon pursue expanded use of robotic arms",
+        "url": "https://finnhub.io/api/news?id=2128318b2d767220895d687cffa1baf1ddb5e1d35ce1e29dd8c17c42ea75b681",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "His Employer Closed the Facility and Offered a Transfer. The Moving Check Can Shrink His Social Security While Severance May Not.",
+        "url": "https://finnhub.io/api/news?id=c57e657afa067b6b2dc4607b5b01a0d8a591e2fd0698c16a6e3c155fefeb30c4",
+        "source": "Yahoo",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "Buc-ee's releases statement amid federal trademark infringement lawsuit with Beaver's Mini Mart",
+        "url": "https://finnhub.io/api/news?id=fbb1d3baff585de19e9b45a0ca04df0daaeb35e2260e54db7aa3d79f4ce917f5",
+        "source": "Yahoo",
+        "date": "2026-08-07"
+      }
+    ],
+    "cachedAt": "2026-08-11T05:51:48.337Z"
+  }
+}

@@ -1,0 +1,666 @@
+{
+  "ticker": "LDOS",
+  "entityName": "Leidos Holdings, Inc.",
+  "cik": "0001336920",
+  "generatedAt": "2026-08-12T01:37:29.384Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-08-04",
+        "reportDate": "2026-07-03",
+        "accessionNumber": "0001336920-26-000246",
+        "primaryDocument": "ldos-20260703.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000246/ldos-20260703.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000246/"
+      },
+      "textLength": 125992,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations The following discussion and analysis of Leidos Holdings, Inc.'s (\"Leidos\") financial condition, results of operations, and quantitative and qualitative discussion about business environment and trends should be read in conjunction with Leidos' condensed consolidated financial statements and related notes. The following discussion contains forward-looking statements, including statements regarding our intent, belief or current expectations with respect to, among other things, trends affecting our financial condition or results of operations, backlog, our industry, the impact of our merger and acquisition activity, government budgets and spending, our business contingency plans, interest rates and uncertainties in tax due to new tax legislation or other regulatory developments. In some cases, forward-looking statements can be identified by words such as &#8220;will,&#8221; &#8220;expect,&#8221; &#8220;estimate,&#8221; &#8220;plan,&#8221; &#8220;potential,&#8221; &#8220;continue&#8221; or similar expressions. Such statements are not guarantees of future performance and involve risks and uncertainties and actual results may differ materially from those in the forward-looking statements as a result of various factors. Some of these factors include, but are not limited to, the risk factors set forth in our Annual Report on Form 10-K, as updated by the risk factor in this report under Part II, Item 1A. \"Risk Factors\" and as may be further updated in subsequent filings with the U.S. Securities and Exchange Commission. Due to such uncertainties and risks, you are cautioned not to place undue reliance on such forward-looking statements, which speak only as of the date hereof. We do not undertake any obligation to update these factors or to publicly announce the results of any changes to our forward-looking statements due to future events or developments. Unless indicated otherwise, references in this report to \"we,\" \"us\" and \"our\" refer collectively to Leidos and its consolidated subsidiaries. OVERVIEW Leidos is an industry and technology leader serving government and commercial customers with smarter, more efficient digital and mission innovations. Headquartered in Reston, Virginia, with 50,000 global employees, we pursue strategic growth across five pillars: defense tech; energy infrastructure; cyber; mission and digital solutions; and managed health services. Our customers include the U.S. Department of War (&#8220;DoW&#8221;), the U.S. Intelligence Community, the U.S. Department of Homeland Security, the Federal Aviation Administration, the Department of Veterans Affairs, and many other U.S. civilian, state and local government agencies, foreign government agencies and commercial businesses. Beginning in fiscal 2026, we realigned our business and operate in four reportable segments that are focused on specific, defined capability sets we bring to our customers. As a result of this change, prior year segment results and disclosures have been recast to reflect the current reportable segment structure. We now operate in the following reportable segments: Intelligence & Digital, Health, Homeland and Defense. We also separately present the unallocable costs associated with corporate functions as Corporate (see \"Note 10&#8211;Business Segments\"). BUSINESS ENVIRONMENT AND TRENDS U.S. GOVERNMENT MARKETS During the three and six months ended July 3, 2026, we generated approximately 83% and 85%, respectively, of total revenues from contracts with the U.S. government, as compared to 87% for both the three and six months ended July 4, 2025. Accordingly, our business performance is affected by the overall level of U.S. government spending, especially national security, homeland security and intelligence spending, and the alignment of our service and product offerings and capabilities with current and future budget priorities of the U.S. government. While Congress continues to advance the government fiscal year 2027 appropriations bills, it is increasingly expected that lawmakers will rely on a short-term continuing resolution (\"CR\") to keep the government funded beyond the September 30, 2026 deadline. Failure to pass the appropriations bills or a CR by September 30, 2026, will result in a full or partial federal government shutdown. 24 Leidos Holdings, Inc. Table of Contents PART I—FINANCIAL INFORMATION INTERNATIONAL MARKETS Sales to customers in international markets represented approximately 9% and 8% of total revenues for the three and six months ended July 3, 2026, respectively, and as compared to 8% of total revenues for both the three and six months ended July 4, 2025. Our international customers include foreign governments and their agencies. Our international business increases our exposure to international markets and the associated international regulatory, foreign currency exchange rate and geopolitical risks. Changes in international trade policies, including higher tariffs on imported goods and materials, may increase the cost of certain goods necessary to fulfill our contractual requirements and for internal purposes. We expect to recover certain portions of the increase to the cost of goods through contractual measures. While we continue to evaluate the tariff environment and potential impacts of higher tariffs, we currently do not expect them to have a significant effect on our business. RESULTS OF OPERATIONS The following table summarizes our condensed consolidated results of operations for the periods presented: Three Months Ended Six Months Ended (dollars in millions) July 3, 2026 July 4, 2025 Percent change July 3, 2026 July 4, 2025 Percent change Revenues $ 4,558 $ 4,253 7.2 % $ 8,958 $ 8,498 5.4 % Operating income 514 571 (10.0 %) 1,022 1,101 (7.2 %) Non-operating expense, net (63) (53) 18.9 % (142) (105) 35.2 % Income before income taxes 451 518 (12.9 %) 880 996 (11.6 %) Income tax expense (95) (125) (24.0 %) (189) (238) (20.6 %) Net income 356 393 (9.4 %) 691 758 (8.8 %) Net income attributable to Leidos common stockholders $ 354 $ 391 (9.5) % $ 682 $ 754 (9.5) % Operating margin 11.3 % 13.4 % 11.4 % 13.0 % SEGMENT AND CORPORATE RESULTS Three Months Ended Six Months Ended Intelligence & Digital (dollars in millions) July 3, 2026 July 4, 2025 Percent change July 3, 2026 July 4, 2025 Percent change Revenues $ 1,499 $ 1,408 6.5 % $ 3,012 $ 2,816 7.0 % Operating income 142 135 5.2 % 288 267 7.9 % Operating margin 9.5 % 9.6 % 9.6 % 9.5 % The increase in revenues and operating income for the three months ended July 3, 2026, as compared to the three months ended July 4, 2025, was primarily attributable to program wins, partially offset by the completion of certain contracts. The increase in revenues for the six months ended July 3, 2026, as compared to the six months ended July 4, 2025, was primarily attributable to program wins and $27 million of increased revenues recognized from the acquisition of Savanna Industries, Inc. (\"Kudu Dynamics\"), partially offset by the completion of certain contracts. The increase in operating income for the six months ended July 3, 2026, as compared to the six months ended July 4, 2025, was primarily attributable to program wins and improved margins from program mix, partially offset by the completion of certain contracts. Leidos Holdings, Inc. 25 Table of Contents PART I—FINANCIAL INFORMATION Three Months Ended Six Months Ended Health (dollars in millions) July 3, 2026 July 4, 2025 Percent change July 3, 2026 July 4, 2025 Percent change Revenues $ 1,086 $ 1,175 (7.6 %) $ 2,274 $ 2,363 (3.8 %) Operating income 254 303 (16.2 %) 538 591 (9.0 %) Operating margin 23.4 % 25.8 % 23.7 % 25.0 % The decrease in revenues and operating income for the three and six months ended July 3, 2026, as compared to the three and six months ended July 4, 2025, was primarily attributable to a net decrease in volumes. Three Months Ended Six Months Ended Homeland (dollars in millions) July 3, 2026 July 4, 2025 Percent change July 3, 2026 July 4, 2025 Percent change Revenues $ 1,018 $ 771 32.0 % $ 1,834 $ 1,541 19.0 % Operating income 92 64 43.8 % 125 125 — % Operating margin 9.0 % 8.3 % 6.8 % 8.1 % The increase in revenues for the three months ended July 3, 2026, as compared to the three months ended July 4, 2025, was primarily attributable to a net increase in volumes, program wins, $141 million recognized from the acquisition of Entrust and a $14 million favorable impact from exchange rate movements, partially offset by the completion of certain contracts. The increase in revenues for the six months ended July 3, 2026, as compared to the six months ended July 4, 2025, was primarily attributable to a net increase in volumes, program wins, $152 million recognized from the acquisition of Entrust and a $37 million favorable impact from exchange rate movements, partially offset by the completion of certain contracts and write-downs on certain programs. The increase in operating income for the three and six months ended July 3, 2026, as compared to the three and six months ended July 4, 2025, was primarily attributable to a net increase in volumes, program wins and the contribution from the acquisition of Entrust. The increase was partially offset by increased amortization, acquisition and restructuring expenses. Three Months Ended Six Months Ended Defense (dollars in millions) July 3, 2026 July 4, 2025 Percent change July 3, 2026 July 4, 2025 Percent change Revenues $ 955 $ 899 6.2 % $ 1,838 $ 1,778 3.4 % Operating income 84 78 7.7 % 146 152 (3.9 %) Operating margin 8.8 % 8.7 % 7.9 % 8.5 % The increase in revenues for the three and six months ended July 3, 2026, as compared to the three and six months ended July 4, 2025, was primarily attributable to program wins and increased volumes on existing contracts, partially offset by the completion of certain contracts. The increase in operating income for the three months ended July 3, 2026, as compared to the three months ended July 4, 2025, was primarily attributable to program wins, partially offset by the completion of certain contracts. The decrease in operating income for the six months ended July 3, 2026, as compared to the six months ended July 4, 2025, was primarily attributable to the completion of higher-margin contracts, partially offset by program wins. Three Months Ended Six Months Ended Corporate (dollars in millions) July 3, 2026 July 4, 2025 Percent change July 3, 2026 July 4, 2025 Percent change Operating loss $ (58) $ (9) NM $ (75) $ (34) 120.6 % NM - Not Meaningful The increase in operating loss for the three months ended July 3, 2026, as compared to the three months ended July 4, 2025, was primarily attributable to the receipt of a $25 million insurance reimbursement in the prior year for legal costs primarily incurred prior to fiscal year 2025, and increased acquisition and integration costs in the current year. 26 Leidos Holdings, Inc. Table of Contents PART I—FINANCIAL INFORMATION The increase in operating loss for the six months ended July 3, 2026, as compared to the six months ended July 4, 2025, was primarily attributable to higher insurance reimbursements for legal costs in the prior year, and increased acquisition and integration costs in the current year. NON-OPERATING EXPENSE, NET Non-operating expense, net for the three months ended July 3, 2026, was $63 million as compared to $53 million for the three months ended July 4, 2025. The increase was primarily attributable to increased interest expense from the termination of our senior unsecured bridge loan facility and issuance of our $600 million and $800 million senior notes. Non-operating expense, net for the six months ended July 3, 2026, was $142 million as compared to $105 million for the six months ended July 4, 2025. The increase was primarily attributable to a $23 million settlement loss from the buy-out of our UK defined benefit pension plan and increased interest expense from the termination of our senior unsecured bridge loan facility and issuance of our $600 million and $800 million senior notes. PROVISION FOR INCOME TAXES The effective tax rate was 21.1% for the three months ended July 3, 2026, compared to 24.1% for the three months ended July 4, 2025, and 21.5% for the six months ended July 3, 2026, compared to 23.9% for the six months ended July 4, 2025. The decrease in both periods was primarily due to a decrease in unrecognized tax benefits. BOOKINGS AND BACKLOG We recorded net bookings worth an estimated $4.9 billion and $8.2 billion during the three and six months ended July 3, 2026, respectively, as compared to $3.9 billion and $6.0 billion for the three and six months ended July 4, 2025, respectively. The estimated value of our total backlog was as follows: July 3, 2026 July 4, 2025 (in millions) Funded Unfunded Total Funded Unfunded Total Intelligence & Digital $ 1,922 $ 16,492 $ 18,414 $ 1,667 $ 16,081 $ 17,748 Health 1,242 5,369 6,611 504 7,522 8,026 Homeland 3,669 6,261 9,930 2,918 6,920 9,838 Defense 3,390 10,366 13,756 2,033 8,565 10,598 Total $ 10,223 $ 38,488 $ 48,711 $ 7,122 $ 39,088 $ 46,210 Backlog at July 3, 2026, includes amounts acquired as part of the Entrust transaction. As of March 27, 2026, the acquisition date, Entrust had $371 million of backlog that was included within the Homeland reportable segment. Backlog represents the revenues we expect to recognize under negotiated contracts and unissued task orders on sole source IDIQ contracts, to the extent we believe their execution and funding to be probable. Backlog does not include potential task orders expected to be awarded under multiple award IDIQ contracts. Backlog estimates are subject to change and may be affected by factors including modifications of contracts and foreign currency movements. LIQUIDITY AND CAPITAL RESOURCES OVERVIEW OF LIQUIDITY As of July 3, 2026, we had $748 million in cash and cash equivalents. We have a senior unsecured revolving credit facility which can provide up to $1.5 billion in additional borrowing, if required, and a commercial paper program under which we may issue short-term unsecured commercial paper notes (\"Commercial Paper Notes\") not to exceed $1.5 billion, with maturities of up to 397 days from the date of issuance. As of July 3, 2026, and January 2, 2026, there were no borrowings outstanding under the revolving credit facility and no Commercial Paper Notes outstanding. We had outstanding debt of $6.0 billion and $4.6 billion at July 3, 2026, and January 2, 2026, respectively. In March 2026, we issued and sold $600 million 4.10% and $800 million 5.00% senior unsecured notes maturing in March 2029 and March 2036, Leidos Holdings, Inc. 27 Table of Contents PART I—FINANCIAL INFORMATION respectively. The annual interest rate is payable on a semi-annual basis. The proceeds from the notes were used to fund a portion of the consideration payable in connection with the acquisi",
+        "charRange": [
+          94107,
+          109107
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors\" in our Annual Report on Form 10-K for the year ended January 2, 2026. Item 2. Unregistered Sales of Equity Securities and Use of Proceeds (a) None (b) None (c) Purchases of Equity Securities by the Issuer The following table presents information related to the repurchases of our common stock during the quarter ended July 3, 2026. Period Total Number of Shares (1) (or Units) Purchased Average Price Paid per Share (or Unit) Total Number of Shares (or Units) Purchased as Part of Publicly Announced Repurchase Plans or Programs (2) Maximum Number of Shares (or Units) that May Yet Be Purchased Under the Plans or Programs (2) April 4, 2026 - April 30, 2026 — $ — — 512,468 May 1, 2026 - May 31, 2026 512,469 (3) 128.04 512,469 — June 1, 2026 - June 30, 2026 31,440 107.12 — — July 1, 2026 - July 3, 2026 — — — — Total 543,909 $ 126.83 512,469 (1) The total number of shares purchased includes shares surrendered to satisfy statutory tax withholding obligations related to vesting of restricted stock units. (2) In February 2022, our Board of Directors authorized a share repurchase program of up to 20 million shares of our outstanding common stock. The shares may be repurchased from time to time in one or more open market repurchases or privately negotiated transactions, including accelerated share repurchase transactions. The actual timing, number and value of shares repurchased under the program will depend on a number of factors, including the market price of our common stock, general market and economic conditions, applicable legal requirements, compliance with the terms of our outstanding indebtedness and other considerations. There is no assurance as to the number of shares that will be repurchased, and the repurchase program may be suspended or discontinued at any time at our Board of Directors' discretion. In July 2026, our Board of Directors authorized a revised share repurchase program of up to 20 million shares of our outstanding common stock. This updated authorization replaced the 2022 authorization with the same terms as the 2022 authorization. (3) On July 31, 2026, our Board of Directors ratified the purchase of one share of common stock inadvertently purchased in excess of the previously authorized share repurchase program. Item 3. Defaults Upon Senior Securities None. Item 4. Mine Safety Disclosures Not applicable. 32 Leidos Holdings, Inc. Table of Contents PART II—OTHER INFORMATION Item 5. Other Information RULE 10B5-1 TRADING ARRANGEMENT During the three months ended July 3, 2026, no director or officer of the Company adopted , modified or terminated a &#8220;Rule 10b5-1 trading arrangement&#8221; or &#8220;non-Rule 10b5-1 trading arrangement,&#8221; as each term is defined in Item 408(c) of Regulation S-K. Leidos Holdings, Inc. 33 Table of Contents PART II—OTHER INFORMATION Item 6. Exhibits Exhibit Number Description of Exhibit 22 List of Guarantors and Subsidiary Issuers of Guaranteed Securities. Incorporated herein by reference to Exhibit 22 to our Quarterly Report on Form 10-Q, filed with the SEC on May 5, 2026. 31.1 Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 31.2 Certification of Executive Vice President and Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 32.1 Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 32.2 Certification of Executive Vice President and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 101 Interactive Data File. The instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 104 Cover Page Interactive Data File. The cover page interactive data file does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 34 Leidos Holdings, Inc. Table of Contents PART II—OTHER INFORMATION Signatures Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. Date: August 4, 2026 Leidos Holdings, Inc. /s/ Christopher R. Cage Christopher R. Cage Executive Vice President and Chief Financial Officer and as a duly authorized officer Leidos Holdings, Inc. 35",
+        "charRange": [
+          121519,
+          125992
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 72739,
+            "context": "inancial performance, including an analysis of our current and projected cash flows, revenues and earnings, (iv) a sustained decrease in share price and (v) other relevant entity-specific events including changes in management, strategy, partners or litigation. In conjunction with the change in reportable segments in fiscal 2026, the Company evaluated goodwill for impairment immediately before and after the change and determined that goodwill was not impaired. During the three and six months ended July 3, 2026, and July 4, 2025, there were no impairments to goodwill. INTANGIBLE ASSETS Intangib"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 50450,
+            "context": "UNTING STANDARDS UPDATES ADOPTED ASU 2025-06 Intangibles - Goodwill and Other-Internal-Use Software In September 2025, the FASB issued ASU 2025-06, which amends certain aspects of the accounting and disclosure of internal use software costs. Current guidance requires capitalization of internal-use software development costs depending on the nature of the costs and the project stage during which they occur. The amendments in this update remove references to prescriptive and sequential software development stages and require entities to start capitalizing software development costs when a) manag"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 48862,
+            "context": "timates and assumptions on an ongoing basis, including those relating to estimated profitability of long-term contracts, indirect billing rates, allowances for doubtful accounts, inventories, right-of-use assets and lease liabilities, fair value and impairment of intangible assets and goodwill, income taxes, stock-based compensation expense and contingencies. These estimates have been prepared by management on the basis of the most current and best available information; however, actual results could differ materially from those estimates. Certain amounts in the prior year financial statements"
+          },
+          {
+            "charIndex": 71960,
+            "context": "tion of a business — — 1,652 — 1,652 Foreign currency translation adjustments — — 6 — 6 Transfers to assets held for sale — — ( 337 ) — ( 337 ) Goodwill at July 3, 2026 $ 2,238 $ 1,336 $ 2,298 $ 1,791 $ 7,663 (1) Carrying amount includes accumulated impairment loss of $ 596 million within the Homeland segment, which is part of the SES Business discussed above. 16 Leidos Holdings, Inc. Table of Contents LEIDOS HOLDINGS, INC. NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) We evaluate qualitative factors that could cause us to consider whether the estimated fair value of each of"
+          },
+          {
+            "charIndex": 72856,
+            "context": "stained decrease in share price and (v) other relevant entity-specific events including changes in management, strategy, partners or litigation. In conjunction with the change in reportable segments in fiscal 2026, the Company evaluated goodwill for impairment immediately before and after the change and determined that goodwill was not impaired. During the three and six months ended July 3, 2026, and July 4, 2025, there were no impairments to goodwill. INTANGIBLE ASSETS Intangible assets, net consisted of the following: July 3, 2026 January 2, 2026 (in millions) Gross carrying value Accumulate"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 94956,
+            "context": "ondition or results of operations, backlog, our industry, the impact of our merger and acquisition activity, government budgets and spending, our business contingency plans, interest rates and uncertainties in tax due to new tax legislation or other regulatory developments. In some cases, forward-looking statements can be identified by words such as &#8220;will,&#8221; &#8220;expect,&#8221; &#8220;estimate,&#8221; &#8220;plan,&#8221; &#8220;potential,&#8221; &#8220;continue&#8221; or similar expressions. Such statements are not guarantees of future performance and involve risks and uncertainti"
+          },
+          {
+            "charIndex": 99021,
+            "context": "al revenues for both the three and six months ended July 4, 2025. Our international customers include foreign governments and their agencies. Our international business increases our exposure to international markets and the associated international regulatory, foreign currency exchange rate and geopolitical risks. Changes in international trade policies, including higher tariffs on imported goods and materials, may increase the cost of certain goods necessary to fulfill our contractual requirements and for internal purposes. We expect to recover certain portions of the increase to the cost of"
+          },
+          {
+            "charIndex": 110745,
+            "context": "cluding through accelerated share repurchase agreements. Whether repurchases are made and the timing and actual number of shares repurchased depends on a variety of factors including price, corporate capital requirements, other market conditions and regulatory requirements. The repurchase program may be accelerated, suspended, delayed or discontinued at any time. We made open market repurchases of our common stock for an aggregate purchase price of $66 million and $266 million during the three and six months ended July 3, 2026, respectively. During the three and six months ended July 4, 2025,"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 42987,
+            "context": "Cash flows from operations: Net income $ 691 $ 758 Adjustments to reconcile net income to net cash provided by operations: Depreciation and amortization 153 141 Stock-based compensation 51 46 Deferred income taxes ( 2 ) 200 Net loss on pension plan settlement 20 — Other 14 — Change in assets and liabilities, net of effects of acquisitions and dispositions: Receivables ( 193 ) ( 236 ) Other current assets and other long-term assets 38 ( 34 ) Accounts payable and accrued liabilities and other long-term liabilities 97 ( 260 ) Accrued payroll and employee benefits 34 7 Income taxes receivable/pay"
+          },
+          {
+            "charIndex": 82349,
+            "context": "tents LEIDOS HOLDINGS, INC. NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) On February 11, 2026, the Plan completed a full buy-out, thus relieving the Company of future pension obligations. As a result, we recognized a $ 23 million settlement loss primarily related to the unamortized loss previously recorded within AOCI. The settlement loss was recorded in \"Other income (expense), net\" in the condensed consolidated statements of operations. Note 8&#8211;Earnings Per Share The following table provides a reconciliation of the weighted average number of shares outstanding used t"
+          },
+          {
+            "charIndex": 82444,
+            "context": "February 11, 2026, the Plan completed a full buy-out, thus relieving the Company of future pension obligations. As a result, we recognized a $ 23 million settlement loss primarily related to the unamortized loss previously recorded within AOCI. The settlement loss was recorded in \"Other income (expense), net\" in the condensed consolidated statements of operations. Note 8&#8211;Earnings Per Share The following table provides a reconciliation of the weighted average number of shares outstanding used to compute basic and diluted EPS for the periods presented: Three Months Ended Six Months Ended"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 60277,
+            "context": "on a monthly or bi-weekly basis as indicated by the negotiated billing terms and conditions of the contract. As a result, the timing of revenue recognition, customer billings and cash collections for each contract results in a net contract asset or liability at the end of each reporting period. 12 Leidos Holdings, Inc. Table of Contents LEIDOS HOLDINGS, INC. NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) Contract assets consist of unbilled receivables, which is the amount of revenue recognized that exceeds the amount billed to the customer. Unbilled receivables exclude amoun"
+          },
+          {
+            "charIndex": 61846,
+            "context": "revenue recognized on certain contracts, partially offset by the timing of billings on certain contracts. For the three and six months ended July 3, 2026, $ 20 million and $ 76 million, respectively, of revenue recognized was included as a contract liability at January 2, 2026. For the three and six months ended July 4, 2025, $ 62 million and $ 199 million, respectively, of revenue recognized was included as a contract liability at January 3, 2025. Note 3&#8211;Acquisitions and Divestitures ACQUISITIONS Entrust Acquisition On March 27, 2026, (\"Acquisition Date\"), Leidos, Inc. completed the ac"
+          },
+          {
+            "charIndex": 62020,
+            "context": "76 million, respectively, of revenue recognized was included as a contract liability at January 2, 2026. For the three and six months ended July 4, 2025, $ 62 million and $ 199 million, respectively, of revenue recognized was included as a contract liability at January 3, 2025. Note 3&#8211;Acquisitions and Divestitures ACQUISITIONS Entrust Acquisition On March 27, 2026, (\"Acquisition Date\"), Leidos, Inc. completed the acquisition of KENE Holdings, L.P. and KENE Parent Inc. (\"Entrust\") to acquire all of the shares of Entrust for a purchase price of $ 2.4 billion in cash, subject to customary"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-02-17",
+        "reportDate": "2026-01-02",
+        "accessionNumber": "0001336920-26-000030",
+        "primaryDocument": "ldos-20260102.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/ldos-20260102.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/"
+      },
+      "textLength": 466720,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations.&#8221; OVERVIEW Leidos is an industry and technology leader serving government and commercial customers with smarter, more efficient digital and mission innovations. Headquartered in Reston, Virginia, with 47,000 global employees, we pursue strategic growth across five pillars: space and maritime; energy infrastructure; digital modernization and cyber; mission software; and managed health services. Our customers include the U.S. Department of War (&#8220;DoW&#8221;), the U.S. Intelligence Community, the U.S. Department of Homeland Security, the Federal Aviation Administration, the Department of Veterans Affairs and many other U.S. civilian, state and local government agencies, foreign government agencies and commercial businesses. Approximately 8% of our revenues are generated by entities located outside of the United States. Our business is aligned into four reportable segments that are focused on specific, defined capability sets we bring to our customers. We operate in the following reportable segments: National Security & Digital, Health & Civil, Commercial & International and Defense Systems. We also separately present the unallocated costs associated with corporate functions as Corporate. For additional information regarding our reportable segments, see &#8220;Business&#8221; in Part I and &#8220;Note 20—Business Segments&#8221; of the notes to the consolidated financial statements contained within this Annual Report on Form 10-K. Our significant initiatives include the following: u achieving annual revenue growth guided by our NorthStar 2030 strategy focusing on the growth pillars aligned with our customers' priorities; u continual improvements in the effectiveness and efficiency of our business processes driven by our enterprise transformation office leveraging artificial intelligence and automation; and u disciplined deployment of our cash resources and use of our capital structure to enhance shareholder value while retaining an appropriate amount of financial leverage. Sales Trend . For fiscal 2025, revenues increased $0.5 billion, or 3%, compared to fiscal 2024, the increase was primarily due to program wins and a net increase in volumes, partially offset by the completion of certain contracts. Operating Expenses and Income Trend . For fiscal 2025, operating expenses increased by $223 million, or 1%, compared to fiscal 2024. Operating margin for fiscal 2025 was 12% compared to 11% for fiscal 2024. Operating income was $2,109 million, a $282 million increase compared to fiscal 2024. The increase in operating income was primarily attributable to a program wins and a net increase in volumes on certain programs, partially offset by an increase in general & administrative expenses and the completion of programs. 44 Leidos Holdings, Inc. Annual Report Table of Contents PART II From a macroeconomic perspective, our industry is under general competitive pressures associated with spending from our largest customer, the U.S. government, and requires a high level of cost management focus to allow us to remain competitive. Although the U.S. Presidential Administration has not indicated a desire to reduce spending in the defense and homeland security sectors, the likelihood, extent and duration of current spending levels in these areas remains unclear. We continue to review our cost structure against our anticipated sales and undertake cost management actions and efficiency initiatives where necessary. BUSINESS ENVIRONMENT AND TRENDS U.S. GOVERNMENT MARKETS We generated approximately 87% of our total revenues from contracts with the U.S. government in both fiscal 2025 and 2024, either as a prime contractor or a subcontractor to other contractors engaged in work for the U.S. government. Revenues under contracts with the DoW and U.S. Intelligence Community, including subcontracts under which the DoW or the U.S. Intelligence Community is the ultimate purchaser, represented approximately 49% and 48% of our total revenues for fiscal 2025 and 2024, respectively. Accordingly, our business performance is affected by the overall level of U.S. government spending, especially national security, homeland security and intelligence spending, and the alignment of our service and product offerings and capabilities with current and future budget priorities of the U.S. government. On February 3, 2026, the House of Representatives passed five of the six remaining appropriations bills to fund the federal government for fiscal year 2026. On February 13, 2026, the Homeland Security bill was not passed and DHS was shutdown until another continuing resolution is agreed upon. Trends in the U.S. government contracting process, including a shift towards multiple-awards contracts, in which certain contractors are preapproved using IDIQ and U.S. General Services Administration (&#8220;GSA&#8221;) contract vehicles, have increased competition for U.S. government contracts, reduced backlogs by shortening periods of performance on contracts and increased pricing pressure. We expect that a majority of the business that we seek in the foreseeable future will be awarded through a competitive bidding process. For more information on these risks and uncertainties, see &#8220;Risk Factors&#8221; in Part I of this Annual Report on Form 10-K. INTERNATIONAL MARKETS Sales to customers in international markets represented approximately 8% of total revenues for fiscal 2025 and 2024. Our international customers include foreign governments and their agencies. Our international business increases our exposure to international markets and the associated international regulatory, foreign currency exchange rate and geopolitical risks. Changes in international trade policies, including higher tariffs on imported goods and materials, may increase our procurement costs of certain IT hardware used both on our contracts and for internal use. However, we expect to recover certain portions of these higher tariffs through our cost-plus contracts. While we evaluate the impact of higher tariffs, currently, we do not expect tariffs to have a significant impact to our business. KEY PERFORMANCE MEASURES The primary financial performance measures we use to manage our business and monitor results of operations are revenue, operating income, cash flows from operations and diluted earnings per share. Bookings and backlog are also useful measures for management and investors to evaluate our performance and potential future revenues. In addition, we consider business performance by contract type to be useful to management and investors when evaluating our operating income and margin performance. Leidos Holdings, Inc. Annual Report 45 Table of Contents PART II RESULTS OF OPERATIONS Our results of operations for the periods presented were as follows: Year Ended (dollars in millions) January 2, 2026 January 3, 2025 Percent change Revenues $ 17,174 $ 16,662 3 % Cost of revenues 14,075 13,864 2 % Selling, general and administrative expenses 999 983 2 % Acquisition, integration and restructuring costs 18 16 13 % Asset impairment charges 5 11 (55) % Equity earnings of non-consolidated subsidiaries (32) (39) (18) % Operating income 2,109 1,827 15 % Non-operating expense, net (200) (188) (6) % Income before income taxes 1,909 1,639 16 % Income tax expense (447) (388) 15 % Net income 1,462 1,251 17 % Less: net income (loss) attributable to non-controlling interest 14 (3) (567) % Net income attributable to Leidos common stockholders $ 1,448 $ 1,254 15 % Operating margin 12.3 % 11.0 % SEGMENT AND CORPORATE RESULTS Year Ended National Security & Digital (dollars in millions) January 2, 2026 January 3, 2025 Percent change Revenues $ 7,611 $ 7,365 3 % Operating income 760 720 6 % Operating margin 10.0 % 9.8 % The increase in revenues for fiscal 2025 as compared to fiscal 2024, was primarily attributable to program wins, a net increase in volumes and $60 million recognized from the acquisition of Kudu Dynamics, partially offset by program completions and a net decrease in contract write-ups in the current year. The increase in operating income for fiscal 2025 as compared to fiscal 2024, was primarily attributable to program wins and a net increase in volumes, partially offset by program completions and a net decrease in contract write-ups in the current year. Year Ended Health & Civil (dollars in millions) January 2, 2026 January 3, 2025 Percent change Revenues $ 5,069 $ 5,015 1 % Operating income 1,202 1,095 10 % Operating margin 23.7 % 21.8 % The increase in revenues for fiscal 2025 as compared to fiscal 2024, was primarily attributable to a net increase in write-ups on certain programs primarily within the managed health services business, partially offset by a net decrease in volumes. The increase in operating income for fiscal 2025 as compared to fiscal 2024, was primarily due to operational efficiencies on certain programs and a net increase in write-ups primarily within the managed health services business, partially offset by increased general and administrative expenses. 46 Leidos Holdings, Inc. Annual Report Table of Contents PART II Year Ended Commercial & International (dollars in millions) January 3, 2025 January 3, 2025 Percent change Revenues $ 2,315 $ 2,252 3 % Operating income 166 104 60 % Operating margin 7.2 % 4.6 % The increase in revenues for fiscal 2025 as compared to fiscal 2024, was primarily attributable to program wins, prior year write-downs on certain programs within our UK operations and a $13 million favorable impact from exchange rate movements, partially offset by completion of programs. The increase in operating income for fiscal 2025 as compared to fiscal 2024, was primarily driven by prior year write-downs on certain programs within our UK operations, program wins and a net increase in volumes, partially offset by the completion of programs and increased in indirect expenses. Year Ended Defense Systems (dollars in millions) January 2, 2026 January 3, 2025 Percent change Revenues $ 2,179 $ 2,030 7 % Operating income 156 94 66 % Operating margin 7.2 % 4.6 % The increase in revenues for fiscal 2025 as compared to fiscal 2024, was primarily attributable to program wins and a net increase in volumes, partially offset by the completion of programs. The increase in operating income for fiscal 2025 as compared to fiscal 2024, was primarily attributable to a net increase in volumes, a prior year one-time write-down related to program assets, program wins and lower amortization expense. The increase was partially offset by the completion of programs. Year Ended Corporate (dollars in millions) January 2, 2026 January 3, 2025 Percent change Operating loss $ (175) $ (186) 6 % The decrease in operating loss for fiscal 2025 as compared to fiscal 2024, was primarily attributable to a decrease in legal costs, partially offset by an increase in research and development activities. NON-OPERATING EXPENSE, NET Non-operating expense, net increased by $12 million for fiscal 2025 as compared to fiscal 2024, primarily driven by a net increase in interest expense on borrowings, partially offset by a gain on an immaterial divested business that was not aligned to the Company's long term strategy. PROVISION FOR INCOME TAXES Our effective tax rate was 23.4% in fiscal 2025 compared to 23.7% in fiscal 2024. The decrease to the effective tax rate was primarily due to a decrease in unrecognized tax benefits, partially offset by the impacts from cross-border taxes resulting from the H.R.1 Reconciliation Act, commonly referred to as the One Big Beautiful Bill Act (the &#8220;OBBBA&#8221;). BOOKINGS AND BACKLOG Effective fiscal 2025, we changed our backlog policy to include estimated future revenue on task orders expected to be awarded under sole source indefinite delivery/indefinite quantity (\"IDIQ\") contracts in our reported backlog. We believe this presentation provides enhanced visibility for investors and more accurately reflects the future revenues we expect to generate from our business. Leidos Holdings, Inc. Annual Report 47 Table of Contents PART II We had net bookings of $17.5 billion and $23.2 billion during fiscal 2025 and 2024, respectively. Net bookings represent the estimated amount of revenue to be earned in the future from funded and unfunded contract awards and modifications and unissued task orders on sole source IDIQ contracts that were received during the year, net of any adjustments to previously awarded backlog amounts. We calculate net bookings as the year's ending backlog, plus the year's revenues, less the prior year's ending backlog and any impacts from foreign currency or acquisitions and divestitures. Backlog represents the revenues we expect to recognize under negotiated contracts and unissued task orders on sole source IDIQ contracts, to the extent we believe their execution and funding to be probable. Backlog does not include potential task orders expected to be awarded under multiple award IDIQ contracts. We segregate our backlog into two categories as follows: u Funded Backlog. Funded backlog for contracts with the U.S. government represents the value on contracts for which funding is appropriated less revenues previously recognized on these contracts. Funded backlog for contracts with non-U.S. government entities and commercial customers represents the estimated value on contracts, which may cover multiple future years, under which we are obligated to perform, less revenues previously recognized on the contracts. u Negotiated Unfunded Backlog. Negotiated unfunded backlog represents all remaining value on task orders that is not funded, including options, that we expect to recognize as well as expected future task orders under sole source IDIQ contracts. The estimated value of our segment backlog for the periods presented was as follows: January 2, 2026 January 3, 2025 (1) (in millions) Funded Unfunded Total Funded Unfunded Total National Security & Digital $ 2,749 $ 23,891 $ 26,640 $ 2,881 $ 23,404 $ 26,285 Health & Civil 2,745 7,690 10,435 1,456 10,735 12,191 Commercial & International 2,588 2,659 5,247 2,456 1,901 4,357 Defense Systems 1,603 5,107 6,710 1,616 3,941 5,557 Total $ 9,685 $ 39,347 $ 49,032 $ 8,409 $ 39,981 $ 48,390 (1) Amounts have been recast to include estimated future revenue on task orders expected to be awarded under sole source IDIQ contracts. As a result, unfunded backlog increased $4,836 million from our prior year annual report amounts. Backlog at January 2, 2026, includes $149 million acquired through the acquisition of Kudu Dynamics within our National Security & Digital reportable segment. Bookings and backlog fluctuate from period to period depending on our success rate in winning contracts and the timing of contract awards, renewals, modifications and cancellations, as well as foreign currency movements. Contract awards may be negatively impacted by",
+        "charRange": [
+          259836,
+          274836
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors&#8221; in Part I of this Annual Report on Form 10-K. INTERNATIONAL MARKETS Sales to customers in international markets represented approximately 8% of total revenues for fiscal 2025 and 2024. Our international customers include foreign governments and their agencies. Our international business increases our exposure to international markets and the associated international regulatory, foreign currency exchange rate and geopolitical risks. Changes in international trade policies, including higher tariffs on imported goods and materials, may increase our procurement costs of certain IT hardware used both on our contracts and for internal use. However, we expect to recover certain portions of these higher tariffs through our cost-plus contracts. While we evaluate the impact of higher tariffs, currently, we do not expect tariffs to have a significant impact to our business. KEY PERFORMANCE MEASURES The primary financial performance measures we use to manage our business and monitor results of operations are revenue, operating income, cash flows from operations and diluted earnings per share. Bookings and backlog are also useful measures for management and investors to evaluate our performance and potential future revenues. In addition, we consider business performance by contract type to be useful to management and investors when evaluating our operating income and margin performance. Leidos Holdings, Inc. Annual Report 45 Table of Contents PART II RESULTS OF OPERATIONS Our results of operations for the periods presented were as follows: Year Ended (dollars in millions) January 2, 2026 January 3, 2025 Percent change Revenues $ 17,174 $ 16,662 3 % Cost of revenues 14,075 13,864 2 % Selling, general and administrative expenses 999 983 2 % Acquisition, integration and restructuring costs 18 16 13 % Asset impairment charges 5 11 (55) % Equity earnings of non-consolidated subsidiaries (32) (39) (18) % Operating income 2,109 1,827 15 % Non-operating expense, net (200) (188) (6) % Income before income taxes 1,909 1,639 16 % Income tax expense (447) (388) 15 % Net income 1,462 1,251 17 % Less: net income (loss) attributable to non-controlling interest 14 (3) (567) % Net income attributable to Leidos common stockholders $ 1,448 $ 1,254 15 % Operating margin 12.3 % 11.0 % SEGMENT AND CORPORATE RESULTS Year Ended National Security & Digital (dollars in millions) January 2, 2026 January 3, 2025 Percent change Revenues $ 7,611 $ 7,365 3 % Operating income 760 720 6 % Operating margin 10.0 % 9.8 % The increase in revenues for fiscal 2025 as compared to fiscal 2024, was primarily attributable to program wins, a net increase in volumes and $60 million recognized from the acquisition of Kudu Dynamics, partially offset by program completions and a net decrease in contract write-ups in the current year. The increase in operating income for fiscal 2025 as compared to fiscal 2024, was primarily attributable to program wins and a net increase in volumes, partially offset by program completions and a net decrease in contract write-ups in the current year. Year Ended Health & Civil (dollars in millions) January 2, 2026 January 3, 2025 Percent change Revenues $ 5,069 $ 5,015 1 % Operating income 1,202 1,095 10 % Operating margin 23.7 % 21.8 % The increase in revenues for fiscal 2025 as compared to fiscal 2024, was primarily attributable to a net increase in write-ups on certain programs primarily within the managed health services business, partially offset by a net decrease in volumes. The increase in operating income for fiscal 2025 as compared to fiscal 2024, was primarily due to operational efficiencies on certain programs and a net increase in write-ups primarily within the managed health services business, partially offset by increased general and administrative expenses. 46 Leidos Holdings, Inc. Annual Report Table of Contents PART II Year Ended Commercial & International (dollars in millions) January 3, 2025 January 3, 2025 Percent change Revenues $ 2,315 $ 2,252 3 % Operating income 166 104 60 % Operating margin 7.2 % 4.6 % The increase in revenues for fiscal 2025 as compared to fiscal 2024, was primarily attributable to program wins, prior year write-downs on certain programs within our UK operations and a $13 million favorable impact from exchange rate movements, partially offset by completion of programs. The increase in operating income for fiscal 2025 as compared to fiscal 2024, was primarily driven by prior year write-downs on certain programs within our UK operations, program wins and a net increase in volumes, partially offset by the completion of programs and increased in indirect expenses. Year Ended Defense Systems (dollars in millions) January 2, 2026 January 3, 2025 Percent change Revenues $ 2,179 $ 2,030 7 % Operating income 156 94 66 % Operating margin 7.2 % 4.6 % The increase in revenues for fiscal 2025 as compared to fiscal 2024, was primarily attributable to program wins and a net increase in volumes, partially offset by the completion of programs. The increase in operating income for fiscal 2025 as compared to fiscal 2024, was primarily attributable to a net increase in volumes, a prior year one-time write-down related to program assets, program wins and lower amortization expense. The increase was partially offset by the completion of programs. Year Ended Corporate (dollars in millions) January 2, 2026 January 3, 2025 Percent change Operating loss $ (175) $ (186) 6 % The decrease in operating loss for fiscal 2025 as compared to fiscal 2024, was primarily attributable to a decrease in legal costs, partially offset by an increase in research and development activities. NON-OPERATING EXPENSE, NET Non-operating expense, net increased by $12 million for fiscal 2025 as compared to fiscal 2024, primarily driven by a net increase in interest expense on borrowings, partially offset by a gain on an immaterial divested business that was not aligned to the Company's long term strategy. PROVISION FOR INCOME TAXES Our effective tax rate was 23.4% in fiscal 2025 compared to 23.7% in fiscal 2024. The decrease to the effective tax rate was primarily due to a decrease in unrecognized tax benefits, partially offset by the impacts from cross-border taxes resulting from the H.R.1 Reconciliation Act, commonly referred to as the One Big Beautiful Bill Act (the &#8220;OBBBA&#8221;). BOOKINGS AND BACKLOG Effective fiscal 2025, we changed our backlog policy to include estimated future revenue on task orders expected to be awarded under sole source indefinite delivery/indefinite quantity (\"IDIQ\") contracts in our reported backlog. We believe this presentation provides enhanced visibility for investors and more accurately reflects the future revenues we expect to generate from our business. Leidos Holdings, Inc. Annual Report 47 Table of Contents PART II We had net bookings of $17.5 billion and $23.2 billion during fiscal 2025 and 2024, respectively. Net bookings represent the estimated amount of revenue to be earned in the future from funded and unfunded contract awards and modifications and unissued task orders on sole source IDIQ contracts that were received during the year, net of any adjustments to previously awarded backlog amounts. We calculate net bookings as the year's ending backlog, plus the year's revenues, less the prior year's ending backlog and any impacts from foreign currency or acquisitions and divestitures. Backlog represents the revenues we expect to recognize under negotiated contracts and unissued task orders on sole source IDIQ contracts, to the extent we believe their execution and funding to be probable. Backlog does not include potential task orders expected to be awarded under multiple award IDIQ contracts. We segregate our backlog into two categories as follows: u Funded Backlog. Funded backlog for contracts with the U.S. government represents the value on contracts for which funding is appropriated less revenues previously recognized on these contracts. Funded backlog for contracts with non-U.S. government entities and commercial customers represents the estimated value on contracts, which may cover multiple future years, under which we are obligated to perform, less revenues previously recognized on the contracts. u Negotiated Unfunded Backlog. Negotiated unfunded backlog represents all remaining value on task orders that is not funded, including options, that we expect to recognize as well as expected future task orders under sole source IDIQ contracts. The estimated value of our segment backlog for the periods presented was as follows: January 2, 2026 January 3, 2025 (1) (in millions) Funded Unfunded Total Funded Unfunded Total National Security & Digital $ 2,749 $ 23,891 $ 26,640 $ 2,881 $ 23,404 $ 26,285 Health & Civil 2,745 7,690 10,435 1,456 10,735 12,191 Commercial & International 2,588 2,659 5,247 2,456 1,901 4,357 Defense Systems 1,603 5,107 6,710 1,616 3,941 5,557 Total $ 9,685 $ 39,347 $ 49,032 $ 8,409 $ 39,981 $ 48,390 (1) Amounts have been recast to include estimated future revenue on task orders expected to be awarded under sole source IDIQ contracts. As a result, unfunded backlog increased $4,836 million from our prior year annual report amounts. Backlog at January 2, 2026, includes $149 million acquired through the acquisition of Kudu Dynamics within our National Security & Digital reportable segment. Bookings and backlog fluctuate from period to period depending on our success rate in winning contracts and the timing of contract awards, renewals, modifications and cancellations, as well as foreign currency movements. Contract awards may be negatively impacted by ongoing industry-wide delays in procurement decisions and budget cuts by the U.S. government as discussed in &#8220;Business Environment and Trends&#8221; in this Annual Report on Form 10-K. We expect to recognize a substantial portion of our funded backlog as revenues within the next 12 months. However, the U.S. government may cancel any contract at any time through a termination for the convenience of the U.S. government. In addition, certain contracts with commercial or non-U.S. government customers may include provisions that allow the customer to cancel at any time. Most of our contracts have cancellation terms that would permit us to recover all or a portion of our incurred costs and fees for work performed. 48 Leidos Holdings, Inc. Annual Report Table of Contents PART II CONTRACT TYPES Our earnings and profitability may vary materially depending on changes in the proportionate amount of revenues derived from each type of contract. For a discussion of the types of contracts under which we generate revenues, see &#8220;Business—Contract Payment Types&#8221; in Part I of this Annual Report on Form 10-K. Revenues by contract type as a percentage of our total revenues for the periods presented were as follows: Year Ended January 2, 2026 January 3, 2025 Cost-reimbursement and fixed-price-incentive-fee 44 % 44 % Firm-fixed-price 43 % 43 % Time-and-materials and fixed-price-level-of-effort 13 % 13 % Total 100 % 100 % LIQUIDITY AND CAPITAL RESOURCES OVERVIEW OF LIQUIDITY As of January 2, 2026, we had $1,108 million in cash and cash equivalents. We have a senior unsecured revolving credit facility which can provide up to $1.0 billion in additional borrowing, if required. As of January 2, 2026, and January 3, 2025, there were no borrowings outstanding under any revolving credit facility. We had outstanding debt of $4.6 billion and $4.7 billion at January 2, 2026, and January 3, 2025, respectively. In fiscal 2025, we issued and sold $500 million 5.40% and $500 million 5.50% senior unsecured notes maturing in March 2032 and March 2035, respectively. The annual interest rate is payable on a semi-annual basis. The proceeds from the issuance of the notes were used to retire the $500 million senior unsecured notes due May 2025 and repurchase $500 million outstanding shares of common stock in an accelerated share repurchase (&#8220;ASR&#8221;) agreement as discussed below. We have a commercial paper program in which we may issue short-term unsecured commercial paper notes (&#8220;Commercial Paper Notes&#8221;) that have maturities of up to 397 days from the date of issuance (see &#8220;Note 13—Debt&#8221; of the notes to the consolidated financial statements contained within this Annual Report on Form 10-K). As of January 2, 2026, and January 3, 2025, we did not have any commercial paper notes outstanding. We made principal payments, excluding the impacts of our Commercial Paper Notes, on our debt of $1,019 million, $18 million and $2,045 million during fiscal 2025, 2024 and 2023, respectively. The activity for fiscal 2025 included a prepayment on our senior unsecured term loan of $450 million and a $500 million payment to discharge the $500 million notes due May 2025. The activity for fiscal 2023 included a $1,210 million payment to discharge the $1.9 billion 5.77% senior unsecured term loan facility, a $498 million payment to discharge the $500 million 2.95% notes, due May 2023, and a principal repayment of $320 million to discharge the 364-day term loan credit agreement. Our credit facility, term loan facility, commercial paper notes and notes outstanding as of January 2, 2026, contain financial covenants and customary restrictive covenants. We were in compliance with all covenants as of January 2, 2026. We paid dividends of $211 million, $208 million and $201 million for fiscal 2025, 2024 and 2023, respectively. We may from time to time seek to retire or purchase our outstanding debt through cash purchases in the open market, privately negotiated transactions or otherwise. Such repurchases, if any, will depend on prevailing market conditions, our liquidity requirements, contractual restrictions and other factors. The amounts involved may be material. Stock repurchases of Leidos common stock may be made on the open market or in privately negotiated transactions with third parties including through ASR agreements. Whether repurchases are made and the timing and actual number of shares repurchased depends on a variety of factors including price, corporate capital requirements, other market conditions and regulatory requirements. The repurchase program may be accelerated, suspended, delayed or discontinued at any time. During fiscal 2025, 2024, and 2023, we made open market repurchases of our common stock for an aggregate purchase price of $400 million, $850 million and $225 million, respectively. Leidos Holdings, Inc. Annual Report 49 Table of Contents PART II In fiscal 2025, we entered into an ASR agreement with a financial institution to repurchase shares of our outstanding common stock. We paid $500 million to the financial institution and received 3.6 million shares. (see &#8220;Note 16—Earnings Per Share&#8221; of the notes to the consolidated financial statements contained within this Annual Report on Form 10-K). All shares d",
+        "charRange": [
+          265158,
+          280158
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 182701,
+            "context": "ant operations, including infrastructure, information technology systems, research facilities, and centers of excellence, located in regions that may be exposed to physical risks, such as hurricanes, earthquakes, other damaging storms, water levels, wildfires and other natural disasters, including places such as Alabama, Florida, California, and Texas. Our subcontractors and suppliers are also subject to physical risks that could affect their ability to deliver or perform under a contract, including as a result of disruptions to their workforce and critical industrial infrastructure needed for"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 41344,
+            "context": "chedules 108 Item 16. Form 10-K Summary 111 Signatures 112 Table of Contents LEIDOS HOLDINGS, INC. FORM 10-K Forward-Looking Statements This Annual Report on Form 10-K contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, that are based on our management's belief and assumptions about the future in light of information currently available to our management. In some cases, you can identify forward-looking statements by words such as &#8220;may,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;expects,&#8221; &#8220;intends,&#8221"
+          },
+          {
+            "charIndex": 47113,
+            "context": "ery laws and regulations; u our ability to protect our intellectual property and other proprietary rights by third parties of infringement, misappropriation or other violations by us of their intellectual property rights; u our ability to prevail in litigation brought by third parties of infringement, misappropriation or other violations by us of their intellectual property rights; u our ability to declare or increase future dividends based on our earnings, financial condition, capital requirements and other factors, including compliance with applicable law and our agreements; u our ability to"
+          },
+          {
+            "charIndex": 102706,
+            "context": "lved unfavorably to us. u Our business is subject to governmental review and investigation, which could adversely affect our financial position, operating results and growth prospects. u Investigations, audits, claims, disputes, enforcement actions, litigation, arbitration or other legal proceedings could require us to pay potentially large damage awards or penalties and could be costly to defend, which would adversely affect our cash balances and profitability, and could damage our reputation. u Our business and operations expose us to numerous legal and regulatory requirements, and any viola"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 154164,
+            "context": "privacy policies and other public statements about data privacy and security and other obligations in these areas could result in regulatory or government actions lawsuits against us (including civil claims, such as representative actions and other class action-type litigation), legal liability, monetary penalties, fines, sanctions, damages and other costs, orders to cease or change our processing of data, changes to our business practices, diversion of internal resources, and harm to our reputation, Leidos Holdings, Inc. Annual Report 23 Table of Contents PART I all of which could adversely"
+          },
+          {
+            "charIndex": 156740,
+            "context": "gness of other parties to pay their share, could require us to incur material additional costs in excess of those anticipated. We may become a party to legal proceedings and disputes involving government and private parties (including individual and class actions) relating to alleged impacts from pollutants released into the environment, including bodily injury and property damage. These matters could result in material compensatory or other damages, remediation costs, penalties, non-monetary relief, and adverse allowability or insurance coverage determinations. The impact of these factors is"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 66223,
+            "context": "nical and leadership skills to actively maintain our workplace culture. Company councils continue to champion and integrate Leidos values across the enterprise and are comprised of employees across our business areas and functions with oversight and guidance from executive leadership. We continue to invest in our employees through the continuous improvement of our Total Rewards plans and programs. Our Total Rewards philosophy is built on providing competitive, market-based compensation; comprehensive and flexible benefits; and programs that support employees' overall well-being, financial secu"
+          },
+          {
+            "charIndex": 239230,
+            "context": "ence, forensics, penetration testing and malware reverse engineering, as well as the functioning of specific applications or underlying information technology infrastructure. Leidos CSIRT owns the incident response process and provides direction and guidance to users of Leidos computing resources when responding to cybersecurity incidents. Leidos CSIRT also provides intrusion monitoring of networks and information systems and continuously monitors the Leidos computing environments and performs triage and analysis of events to identify potential incidents. We employ multiple security and monito"
+          },
+          {
+            "charIndex": 250611,
+            "context": "of the Institute of Internal Auditors (&#8220;IIA&#8221;) from April 2022 to March 2023. He has been involved as a volunteer leader with the IIA since becoming a member in 2011. Mr. Sanglier has also served as a member of The IIA's Audit Committee, Guidance Development Committee, North American Publications Advisory Committee and multiple task forces. Leslie Fautsch 53 Ms. Fautsch has served as Chief Human Resources Officer of Leidos since October 2024. Ms. Fautsch has held several key leadership roles at Leidos, including Senior Vice President for Human Resources Operations and Total Rewards"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 106077,
+            "context": ". We may experience operational challenges in integrating or segregating assets for such a venture or transaction. 14 Leidos Holdings, Inc. Annual Report Table of Contents PART I u Goodwill represents a significant asset on our balance sheet and any impairment of this asset could negatively impact our results of operations, and shareholders' equity. u We depend on our teaming arrangements and relationships with other contractors and subcontractors. If we are not able to maintain these relationships, or if these parties fail to satisfy their obligations to us or the customer, our revenues, prof"
+          },
+          {
+            "charIndex": 196707,
+            "context": "t our business and distract our management from other responsibilities. Even if successful, these transactions could result in unfavorable public perception or reduce earnings for a number of reasons, including the amortization of intangible assets, impairment charges, adverse tax consequences, acquired operations that are not yet profitable, or the payment of additional consideration under earn-out arrangements if an acquisition performs better than expected. In addition, significant acquisitions, investments and joint ventures can be complex, costly and time-consuming. Acquisitions, investme"
+          },
+          {
+            "charIndex": 203659,
+            "context": "ets and operations, which could impact the execution or timing of such dispositions and could result in disruptions to our operations and/or claims for damages, among other things. Goodwill represents a significant asset on our balance sheet and any impairment of this asset could negatively impact our results of operations, and shareholders ' equity. As of January 2, 2026, goodwill was 47% of our total assets. The amount of our goodwill may substantially increase in the future as a result of any acquisitions that we make. Goodwill is tested for impairment whenever events or changes in circumst"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 43309,
+            "context": "'s failure to raise the debt ceiling, which increases the possibility of a default by the U.S. government on its debt obligations, related credit-rating downgrades, or an economic recession; u uncertainties in tax due to new tax legislation or other regulatory developments; u deterioration of economic conditions or weakening in credit or capital markets; u uncertainty in the consequences of current and future geopolitical events; u inflationary pressures and fluctuations in interest rates; u delays in the U.S. government contract procurement process or the award of contracts and delays or loss"
+          },
+          {
+            "charIndex": 45375,
+            "context": "employees; u our ability to accurately estimate costs, including cost increases due to inflation, associated with our firm-fixed-price contracts and other contracts; u resolution of legal and other disputes with our customers and others or legal or regulatory compliance issues; u cybersecurity, data security or other security threats, system failures or other disruptions of our business; Leidos Holdings, Inc. Annual Report 1 Table of Contents LEIDOS HOLDINGS, INC. FORM 10-K u our compliance with international, federal, state and local laws and regulations regarding privacy, data security, pro"
+          },
+          {
+            "charIndex": 76855,
+            "context": "egulated, and we must comply with and are affected by laws and regulations relating to the formation, administration and performance of U.S. government and other contracts. The U.S. government procurement environment has evolved due to statutory and regulatory procurement reform initiatives. Today, U.S. government customers employ several contracting methods to purchase services and products. Budgetary pressures and reforms in the procurement process have caused many U.S. government customers to increasingly purchase services and products using contracting methods that give them the ability to"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 147215,
+            "context": "re subject to and may become a party to various other litigation, claims, investigations, audits, enforcement actions, arbitrations, or other legal proceedings that arise from time to time in the ordinary course of our business. Adverse judgments or settlements in some or all of these legal disputes may result in significant monetary damages, penalties, or injunctive relief against us. Any claims or litigation could be costly to defend, and even if we are successful or fully indemnified or insured, they could damage our reputation and make it more difficult to compete effectively or obtain ade"
+          },
+          {
+            "charIndex": 341305,
+            "context": "ned in our disclosure statements under U.S. government Cost Accounting Standards. Selling, general and administrative expenses include general and administrative, bid and proposal, company-funded research and development expenses, and legal fees and settlements. Leidos Holdings, Inc. Annual Report 69 Table of Contents LEIDOS HOLDINGS, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS We conduct research and development activities under customer-funded contracts and with company-funded research and development funds. Company-funded research and development expense was $ 187 million, $ 150 million"
+          },
+          {
+            "charIndex": 344093,
+            "context": "n the basis of the technical merits of the position and for those tax positions that meet the more-likely-than-not recognition threshold, we recognize the largest amount of tax benefit that is more than 50 percent likely to be realized upon ultimate settlement with the related tax authority. We recognize interest and penalties related to uncertain tax positions in our income tax expense. CASH AND CASH EQUIVALENTS Our cash equivalents are primarily comprised of investments in several large institutional money market accounts, with original maturity of three months or less. Effective fiscal 2025"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 46510,
+            "context": "venture partners; u our ability to manage performance and other risks related to customer contracts; u the failure of our inspection or detection systems to detect threats; u the adequacy of our insurance programs, customer indemnifications or other liability protections designed to protect us from significant product or other liability claims, including cybersecurity attacks; u our ability to manage risks associated with our international business; u our ability to comply with the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act of 2010 and similar worldwide anti-corruption and anti-b"
+          },
+          {
+            "charIndex": 46589,
+            "context": "o customer contracts; u the failure of our inspection or detection systems to detect threats; u the adequacy of our insurance programs, customer indemnifications or other liability protections designed to protect us from significant product or other liability claims, including cybersecurity attacks; u our ability to manage risks associated with our international business; u our ability to comply with the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act of 2010 and similar worldwide anti-corruption and anti-bribery laws and regulations; u our ability to protect our intellectual property"
+          },
+          {
+            "charIndex": 57277,
+            "context": "roject portfolio spans large-scale energy initiatives across the United States, serving electric utilities, generation owners, and industrial clients. We support utilities and industrial customers in modernizing power delivery systems for enhanced reliability, implementing energy management strategies, advancing vehicle electrification, transforming digital infrastructure, and optimizing operational efficiency to meet evolving energy demands and market expectations. Our expertise spans power grid engineering and design, grid modernization, utility planning and consulting, energy management and"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "Revenues",
+      "points": [
+        {
+          "start": "2026-04-04",
+          "end": "2026-07-03",
+          "val": 4558000000,
+          "accn": "0001336920-26-000246",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-03",
+          "end": "2026-07-03",
+          "val": 8958000000,
+          "accn": "0001336920-26-000246",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04"
+        },
+        {
+          "start": "2026-01-03",
+          "end": "2026-04-03",
+          "val": 4400000000,
+          "accn": "0001336920-26-000169",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-05",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-04",
+          "end": "2026-01-02",
+          "val": 17174000000,
+          "accn": "0001336920-26-000030",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-17",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-05",
+          "end": "2025-10-03",
+          "val": 4469000000,
+          "accn": "0001336920-25-000060",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-04",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-04",
+          "end": "2025-10-03",
+          "val": 12967000000,
+          "accn": "0001336920-25-000060",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-04"
+        },
+        {
+          "start": "2025-04-05",
+          "end": "2025-07-04",
+          "val": 4253000000,
+          "accn": "0001336920-26-000246",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-05",
+          "end": "2025-07-04",
+          "val": 4253000000,
+          "accn": "0001336920-25-000034",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-05"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-04-04",
+          "end": "2026-07-03",
+          "val": 2.81,
+          "accn": "0001336920-26-000246",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-03",
+          "end": "2026-07-03",
+          "val": 5.37,
+          "accn": "0001336920-26-000246",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04"
+        },
+        {
+          "start": "2026-01-03",
+          "end": "2026-04-03",
+          "val": 2.56,
+          "accn": "0001336920-26-000169",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-05",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-04",
+          "end": "2026-01-02",
+          "val": 11.14,
+          "accn": "0001336920-26-000030",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-17",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-05",
+          "end": "2025-10-03",
+          "val": 2.82,
+          "accn": "0001336920-25-000060",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-04",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-04",
+          "end": "2025-10-03",
+          "val": 8.62,
+          "accn": "0001336920-25-000060",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-04"
+        },
+        {
+          "start": "2025-04-05",
+          "end": "2025-07-04",
+          "val": 3.01,
+          "accn": "0001336920-26-000246",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-05",
+          "end": "2025-07-04",
+          "val": 3.01,
+          "accn": "0001336920-25-000034",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-05"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-04",
+          "end": "2026-07-03",
+          "val": 354000000,
+          "accn": "0001336920-26-000246",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-03",
+          "end": "2026-07-03",
+          "val": 682000000,
+          "accn": "0001336920-26-000246",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04"
+        },
+        {
+          "start": "2026-01-03",
+          "end": "2026-04-03",
+          "val": 328000000,
+          "accn": "0001336920-26-000169",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-05",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-04",
+          "end": "2026-01-02",
+          "val": 1448000000,
+          "accn": "0001336920-26-000030",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-17",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-05",
+          "end": "2025-10-03",
+          "val": 367000000,
+          "accn": "0001336920-25-000060",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-04",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-04",
+          "end": "2025-10-03",
+          "val": 1121000000,
+          "accn": "0001336920-25-000060",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-04"
+        },
+        {
+          "start": "2025-04-05",
+          "end": "2025-07-04",
+          "val": 391000000,
+          "accn": "0001336920-26-000246",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-05",
+          "end": "2025-07-04",
+          "val": 391000000,
+          "accn": "0001336920-25-000034",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-05"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-04",
+          "end": "2026-07-03",
+          "val": 514000000,
+          "accn": "0001336920-26-000246",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-03",
+          "end": "2026-07-03",
+          "val": 1022000000,
+          "accn": "0001336920-26-000246",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04"
+        },
+        {
+          "start": "2026-01-03",
+          "end": "2026-04-03",
+          "val": 508000000,
+          "accn": "0001336920-26-000169",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-05",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-04",
+          "end": "2026-01-02",
+          "val": 2109000000,
+          "accn": "0001336920-26-000030",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-17",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-05",
+          "end": "2025-10-03",
+          "val": 535000000,
+          "accn": "0001336920-25-000060",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-04",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-04",
+          "end": "2025-10-03",
+          "val": 1636000000,
+          "accn": "0001336920-25-000060",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-11-04"
+        },
+        {
+          "start": "2025-04-05",
+          "end": "2025-07-04",
+          "val": 571000000,
+          "accn": "0001336920-26-000246",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-04",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-05",
+          "end": "2025-07-04",
+          "val": 571000000,
+          "accn": "0001336920-25-000034",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-05"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "LDOS",
+    "name": "Leidos Holdings, Inc.",
+    "sector": "Services-Computer Integrated Systems Design",
+    "pe": 12.99,
+    "pb": 3.3,
+    "ret3m": 5.9729,
+    "ret6m": -26.7085,
+    "roe": 27.4,
+    "debtEquity": 0.224,
+    "revenueGrowth": 3.07,
+    "epsGrowth": 20.82,
+    "fcfGrowth": 25.32,
+    "operatingMargin": 12.28,
+    "marginTrend": 1.31,
+    "sentiment": 0.667,
+    "analyst": 66,
+    "beta": 0.59442914
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "Should Investors Buy ICFI as Growth Improves While Key Risks Persist?",
+        "url": "https://finnhub.io/api/news?id=81e601371608870f1aac279a1bde49a3269d9ec39ec5c54b323ab250c8e7604d",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Behind the Games: Leidos QTC Health Services Volunteers Reflect on a Week of Service at the 2026 National Veterans Wheelchair Games",
+        "url": "https://finnhub.io/api/news?id=ec048d8331268f2e9b33527cd2aa411489431b01feeea5dae8fe36130f175611",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "TD Cowen Maintains Hold on Leidos Holdings, Raises Price Target to $135",
+        "url": "https://finnhub.io/api/news?id=8e0a9451843cedddc26bb3ed1f188afed6d229f619de7169f6306c44d5518e36",
+        "source": "Benzinga",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "Explore the top gainers and losers within the S&P500 index in today's session.",
+        "url": "https://finnhub.io/api/news?id=66be9094570456fc28b35eb99f3c6ef5f0fc41d34be1f1ed72e8a3ae5118c97d",
+        "source": "ChartMill",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "These S&P500 stocks are moving in today's session",
+        "url": "https://finnhub.io/api/news?id=18ffb2c8a90864ce06bc70051d09aaaf74d62894ecdd5094bdffd71cffcf8353",
+        "source": "ChartMill",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "Leidos Portfolio Diversification Seen Underappreciated, RBC Says",
+        "url": "https://finnhub.io/api/news?id=de2f75803eba63b3cb49a3b6f4185e221eed81745f58922b69dff49451ed8d5d",
+        "source": "Yahoo",
+        "date": "2026-08-05"
+      }
+    ],
+    "cachedAt": "2026-08-11T05:57:43.229Z"
+  }
+}

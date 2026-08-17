@@ -1,0 +1,713 @@
+{
+  "ticker": "CRM",
+  "entityName": "Salesforce, Inc.",
+  "cik": "0001108524",
+  "generatedAt": "2026-08-12T01:37:08.038Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-05-28",
+        "reportDate": "2026-04-30",
+        "accessionNumber": "0001108524-26-000127",
+        "primaryDocument": "crm-20260430.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000127/crm-20260430.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000127/"
+      },
+      "textLength": 314798,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations&#8221; included in Item 7 of Part II of our Annual Report on Form 10-K for the fiscal year ended January 31, 2026 . For more information regarding our lease obligations as of April 30, 2026 , see Note 5 &#8220;Leases and Other Commitments&#8221; to the condensed consolidated financial statements in Item 1 of Part I of this Quarterly Report on Form 10-Q. We generally expect to satisfy these commitments with cash on hand and cash provided by operating activities. During the three months ended April 30, 2026 and in future years, we have made, and expect to continue to make, additional investments in enterprise cloud computing services to allow us to scale with our customers and continue to evolve our security measures. We plan to upgrade or replace various internal systems to scale with our overall growth. While we continue to make investments in our infrastructure service providers to provide capacity for the growth of our business, our strategy may continue to change related to these investments and we may slow the pace of our investments. 40 Table of Contents Other Future Obligations As of April 30, 2026, we expect approximately $130 million to $150 million in future cash payments related to our restructuring initiatives, primarily related to workforce costs, such as severance payments. We generally expect to satisfy these commitments with cash on our balance sheet and cash provided by operating activities. Stakeholder Impact We believe that business is the greatest platform for change. Guided by our values, we work to earn the trust of our stakeholders. Transparency is key to trust, which is why we have published an annual Stakeholder Impact Report for over ten years to keep our stakeholders informed and to hold ourselves accountable to our sustainability, impact and equality strategies. Our disclosures in these areas are also informed by topics identified through relevancy assessments and third-party ESG reporting organizations, frameworks and standards. Read more about these initiatives and view our Stakeholder Impact Report at https://salesforce.com/stakeholder-impact-report. Website references throughout this document are provided for convenience only, and the content on the referenced websites is not incorporated by reference into this report. ITEM 3.",
+        "charRange": [
+          170248,
+          172632
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "RISK FACTORS In evaluating our business, you should carefully consider the following discussion of material risks, events and uncertainties that make an investment in us speculative or risky in addition to the other information included in this Annual Report. A manifestation of any of the following risks and uncertainties could, in circumstances we may or may not be able to accurately predict, materially and adversely affect our business and operations, growth, reputation, prospects, operating and financial results, financial condition, cash flows, liquidity and stock price. Some of the factors, events and contingencies discussed below may have occurred in the past, but the disclosures below are not representations as to whether or not the factors, events or contingencies have occurred in the past and instead reflect our beliefs and opinions as to the factors, events or contingencies that could materially and adversely affect us in the future. The risks and uncertainties described below are not the only ones we face. Other events, factors or uncertainties that we do not currently anticipate or that we currently deem immaterial also may affect our business, financial condition, results of operations, cash flows, other key metrics and the trading price of our common stock. Therefore, you should not consider the following risks to be a complete statement of all the potential risks or uncertainties that we face. Risk Factor Summary Operational and Execution Risks &#8226; Any breaches in our security measures or those of our third-party data center providers, cloud computing platform providers, customers, partners, or other third-party vendors, or the underlying Internet infrastructure that cause unauthorized access to, disclosure, alteration, corruption, destruction or loss of customer data, our data or our IT systems, or disruption of authorized access thereto. &#8226; Any defects or disruptions in our services that diminish demand for our services. &#8226; Any interruptions or delays in services from third parties, including data center hosting facilities, cloud computing platform providers and other hardware and software vendors, as well as Internet infrastructure, or from our inability to adequately plan for and manage service interruptions or infrastructure capacity requirements. &#8226; An inability to realize the expected business or financial benefits of company and technology acquisitions. &#8226; Strain on our personnel resources and infrastructure from supporting our existing and growing customer base or an inability to scale our operations and increase productivity. &#8226; Customer attrition, or our inability to accurately predict subscription renewals, customer usage of consumption-based offerings, and upgrade rates. &#8226; Disruptions caused by periodic changes to our sales organization. &#8226; Exposure to risks inherent in international operations from sales to customers outside the United States. &#8226; A more time-consuming and expensive sales cycle, pricing pressure and implementation and configuration challenges for sales efforts to larger enterprise customers. &#8226; Any loss of key members of our management team or development and operations personnel, or inability to attract and retain employees necessary to support our operations and growth. &#8226; Any failure in the delivery of high-quality professional and technical support services related to our online applications. 45 Table of Contents Strategic and Industry Risks &#8226; An inability to compete effectively in the intensely competitive markets in which we participate. &#8226; Any failure to expand our services and to develop and integrate our existing services in order to keep pace with technological developments. &#8226; An inability to maintain and enhance our brands. &#8226; Partial or complete loss of invested capital, or significant changes in the fair value, of our strategic investment portfolio. &#8226; Any discontinuance by third-party developers and vendors in embracing our technology delivery model and enterprise cloud computing services, or customers asking us for warranties for third-party applications, integrations, data and content. &#8226; Social, ethical, and regulatory issues, including the development, deployment, use or capabilities of AI in our offerings. &#8226; The evolving landscape related to environmental, social and governance matters. Legal and Regulatory Risks &#8226; Privacy concerns and laws as well as evolving regulation of cloud computing, AI services, increased restriction of cross-border data transfers and other regulatory developments. &#8226; Evolving industry-specific regulations, requirements, interpretive positions or standards. &#8226; Lawsuits against us by third parties for various claims, including alleged infringement of proprietary rights. &#8226; Any failure to obtain registration or protection of our intellectual property rights. &#8226; Risks related to government contracts and related procurement regulations. &#8226; Governmental sanctions and export and import controls that could impair our ability to compete in international markets and may subject us to liability. Financial Risks &#8226; Downturns or upturns in new business, which may not be immediately reflected in our operating results because we generally recognize revenue from subscriptions for our services over the term of the subscription. &#8226; Significant fluctuations in our rate of anticipated growth and any failure to balance our expenses with our revenue forecasts. &#8226; Unanticipated changes in our effective tax rate and additional tax liabilities and global tax developments. &#8226; Fluctuations in currency exchange rates, particularly the U.S. Dollar versus local currencies. &#8226; Our debt service obligations, lease commitments and other contractual obligations. Risks Related to Owning Our Common Stock &#8226; Fluctuations in our quarterly results. &#8226; Volatility in our stock price and associated litigation. &#8226; Provisions in our governing documents and Delaware law that might discourage, delay or prevent a change of control of the Company or changes in our management. General Risks &#8226; Volatile and significantly weakened global economic conditions. &#8226; The occurrence of natural disasters and other catastrophic events beyond our control. &#8226; The long-term impact of climate change on our business. Operational and Execution Risks If our security measures, or those of our third-party data center providers, cloud computing platform providers, customers, partners, other third-party vendors or the underlying Internet infrastructure, are breached or otherwise compromised, resulting in the unauthorized access to, disclosure, alteration, corruption, destruction or loss of customer data, our data or our IT systems, or disruption of authorized access thereto, our services may be perceived as insecure, customers may reduce or terminate their use of our services, and we may incur significant reputational harm, legal liability, regulatory scrutiny or a negative financial impact. 46 Table of Contents Our services involve the storage and transmission of our customers' and our customers' customers' proprietary and other sensitive data, including financial, health and other personal information. Our services and underlying infrastructure have in the past and may in the future be breached or compromised, including, for example, as a result of the following: &#8226; attempts to fraudulently induce our employees, customers, partners, or third-party vendors to disclose sensitive information to gain unauthorized access to our or our customers' data or IT systems; &#8226; efforts by threat actors, including criminal organizations, state-sponsored actors and nation-states, to launch coordinated cyberattacks or supply chain attacks on our infrastructure or that of our third-party vendors, including through ransomware, destructive malware, distributed denial-of-service attacks or exploitation of previously unknown &#8220;zero-day&#8221; vulnerabilities, which may be discovered and weaponized by autonomous AI agents and through new frontier AI models; &#8226; attempts to misuse our marketing, advertising, messaging or social products and functionalities to impersonate persons or organizations and disseminate information that is false, misleading or malicious; &#8226; vulnerabilities arising from new technologies and infrastructures, including those from acquisitions, enhancements and updates to our existing products, and the adoption and deployment of AI technologies within our products, services, internal systems, which may introduce novel security, data governance, or operational risks; &#8226; vulnerabilities in products or components within the broad ecosystem in which our services operate and upon which they depend; &#8226; attacks on, or vulnerabilities in, the underlying networks and services that power the Internet on which our products depend, most of which are not under our control or the control of our third-party vendors, partners or customers; and &#8226; employee or contractor errors, omissions or intentional acts that compromise our security systems. Although we devote significant resources to protecting our data and IT systems, we can provide no assurances that our security measures, including systems and processes designed to protect the confidentiality, integrity and availability of our customers' and our customers' customers' proprietary and sensitive data, will be effective or that a material cybersecurity incident will not occur. Our ability to mitigate these risks may be impacted by the following: &#8226; evolving and increasingly sophisticated techniques used to breach or disrupt IT systems and infrastructure, including the use or exploitation of AI technologies by threat actors to identify previously unknown vulnerabilities and accelerate, scale or personalize cyberattacks, which may significantly reduce the time available for us to remediate vulnerabilities before they are exploited; &#8226; the increasing complexity of our internal IT systems as we integrate acquired businesses and adopt new technologies and data-sharing models; and &#8226; our limited control over our customers, partners, and third-party vendors (including those authorized by customers to access their data), or over the processing of data by such third parties, which may limit our ability to maintain the integrity or security of such transmissions or processing. In the normal course of business, we and our customers are and have been the target of malicious cyberattacks and other security threats. Although to date we have not identified any security incidents involving our systems that have had a material financial impact on us, there can be no assurance that future incidents will not be material or significant. As our market presence grows, we may face increased risks of cyberattacks and other security threats. Additionally, as AI technologies, including generative and agentic AI, continue to evolve, threat actors are using and exploiting these technologies to enhance the sophistication, scale, speed and effectiveness of security threats that may be more difficult to detect and defend against, including future capabilities to identify previously unknown vulnerabilities and automate complex, multi-stage attack chains. Any delay in detecting, containing, or remediating a cybersecurity incident may result in additional harm, and in certain cases the full scope and impact of any such incident may not be immediately apparent. A cybersecurity incident could result in unauthorized access to, or the loss or denial of authorized access to, our IT systems or data, or those of our customers, including intellectual property and other proprietary, sensitive or confidential information. We are subject to contractual, regulatory and other legal obligations to notify relevant stakeholders of certain security incidents. For example, SEC rules require disclosure on Form 8-K of the nature, scope and timing of any material cybersecurity incident and the reasonably likely impact of such incident. As data protection, cybersecurity, and privacy laws continue to evolve, we may face additional reporting requirements to regulatory authorities. Assessing whether an incident is material or reportable to one or more external parties may require complex judgment and investigation, and disclosure of an incident may itself adversely affect our reputation, customer relationships and exposure to legal or regulatory proceedings. A security incident or related disclosure could result in loss of confidence in the security of our services, harm our reputation, negatively impact future sales, disrupt our business operations, increase insurance premiums and result in legal, regulatory and financial liability. Additionally, it may take considerable time for us to investigate and evaluate the full impact of cybersecurity attacks, particularly for sophisticated attacks, which may inhibit our ability to provide prompt, full and reliable information about the incident to our customers, regulators and the public. Further, there can be no assurance that our insurance coverage 47 Table of Contents will be sufficient in type or amount to cover the losses arising from a cybersecurity incident. In addition, prevention, detection, investigation and remediation of actual or suspected vulnerabilities or incidents, including determining whether notification or disclosure is required, may not be straightforward, may result in significant direct and indirect costs, including increased infrastructure and security spending and the diversion of resources from development activities. Defects or disruptions in our services could diminish demand for our services and subject us to substantial liability. We have in the past and may in the future identify defects in or experience disruptions to our services. Such issues may arise in a variety of circumstances, including from customers using our services in unanticipated ways that disrupt access for other customers; from employee, contractor or other third-party action or inaction; or from the complexity of our services, which incorporate a variety of hardware, proprietary software and third-party and open-source software and AI models. Across the industry, cloud services frequently contain undetected errors when first introduced or when new versions or enhancements are released. Although we benchmark AI model performance on metrics relevant to our services and test new models introduced into our services prior to deployment, AI models are probabilistic in nature and we cannot predict model output and subsequent AI agent behavior with complete accuracy. The use of agentic AI by us, our third-party service providers or customers may result in unanticipated outcomes that disrupt our systems or those of our customers, which may be difficult to",
+        "charRange": [
+          189715,
+          204715
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 307396,
+            "context": "may be vulnerable to the adverse effects of climate change. For example, our offices globally are projected to continue to experience climate-related events at increased frequency, including drought, water scarcity, heat waves, cold waves, flooding, wildfires and resultant air quality impacts and power shutoffs. These events in turn have impacts on inflation risks, the cost and availability of insurance, food security, water security (including for water availability for data center cooling), energy security and on our employees' health, productivity and well-being. Changing market dynamics, g"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 23217,
+            "context": "ckCompensationPlanMember 2026-02-01 2026-04-30 0001108524 us-gaap:StockCompensationPlanMember 2025-02-01 2025-04-30 0001108524 crm:ASRAgreementsMember 2026-02-01 2026-04-30 0001108524 crm:ASRAgreementsMember 2025-02-01 2025-04-30 0001108524 crm:SlackLitigationMember 2019-09-01 2019-09-30 0001108524 crm:BackpageLitigationMember 2026-01-01 2026-01-31 0001108524 crm:BackpageLitigationMember 2020-04-01 2023-11-30 0001108524 2020-04-01 2023-11-30 0001108524 crm:S.M.A.V.SalesforceInc.Member 2023-05-01 2024-03-31 0001108524 crm:A.S.V.SalesforceInc.Member 2023-05-01 2024-03-31 0001108524 crm:A.G.B.V.S"
+          },
+          {
+            "charIndex": 23279,
+            "context": "aap:StockCompensationPlanMember 2025-02-01 2025-04-30 0001108524 crm:ASRAgreementsMember 2026-02-01 2026-04-30 0001108524 crm:ASRAgreementsMember 2025-02-01 2025-04-30 0001108524 crm:SlackLitigationMember 2019-09-01 2019-09-30 0001108524 crm:BackpageLitigationMember 2026-01-01 2026-01-31 0001108524 crm:BackpageLitigationMember 2020-04-01 2023-11-30 0001108524 2020-04-01 2023-11-30 0001108524 crm:S.M.A.V.SalesforceInc.Member 2023-05-01 2024-03-31 0001108524 crm:A.S.V.SalesforceInc.Member 2023-05-01 2024-03-31 0001108524 crm:A.G.B.V.SalesforceInc.Member 2023-05-01 2024-03-31 0001108524 crm:E.Y.W"
+          },
+          {
+            "charIndex": 23341,
+            "context": "24 crm:ASRAgreementsMember 2026-02-01 2026-04-30 0001108524 crm:ASRAgreementsMember 2025-02-01 2025-04-30 0001108524 crm:SlackLitigationMember 2019-09-01 2019-09-30 0001108524 crm:BackpageLitigationMember 2026-01-01 2026-01-31 0001108524 crm:BackpageLitigationMember 2020-04-01 2023-11-30 0001108524 2020-04-01 2023-11-30 0001108524 crm:S.M.A.V.SalesforceInc.Member 2023-05-01 2024-03-31 0001108524 crm:A.S.V.SalesforceInc.Member 2023-05-01 2024-03-31 0001108524 crm:A.G.B.V.SalesforceInc.Member 2023-05-01 2024-03-31 0001108524 crm:E.Y.W.V.SalesforceInc.Member 2023-05-01 2024-03-31 0001108524 crm:G"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 108475,
+            "context": "0, 2026 2025 Employee stock awards 31 2 Unsettled component of ASR Agreements 36 0 12. Legal Proceedings and Claims In the ordinary course of business, the Company is or may be involved in various legal or regulatory proceedings, claims or purported class actions related to alleged infringement of third-party patents and other intellectual property rights, commercial, corporate and securities, labor and employment, wage and hour and other claims. The Company has been, and may in the future be, put on notice or sued by third parties for alleged infringement of their proprietary rights, includin"
+          },
+          {
+            "charIndex": 110501,
+            "context": "te, payment or other contingency, the resolution of a matter could materially affect the Company's current or future results of operations or cash flows, or both, in a particular quarter. Slack Litigation Beginning in September 2019, seven purported class action lawsuits were filed against Slack, its directors, certain of its officers and certain investment funds associated with certain of its directors, each alleging violations of securities laws in connection with Slack's registration statement on Form S-1 (the &#8220;Registration Statement&#8221;) filed with the SEC. All but one of these ac"
+          },
+          {
+            "charIndex": 268681,
+            "context": "&#8221;) and related Federal Communication Commission orders, which impose significant restrictions on the use of telephone calls and text messages to mobile telephone numbers without prior consent. We have been, and may in the future be, subject to class action and individual lawsuits alleging that one of our businesses or customers violated the TCPA or similar communications-based laws. A determination that we or our customers failed to comply with such requirements could expose us to significant statutory damages or other liabilities that could, individually or in the aggregate, materially"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 232233,
+            "context": "es require highly skilled and trained service professionals to successfully onboard and implement our applications. Customers depend on our customer success and support organizations to provide coaching, resolve technical issues, and offer proactive guidance relating to our applications. Implementation, training, and advisory services may be performed by us, our customers, a third party, or a combination thereof. Our strategy is to work with third parties to increase the breadth of capability and depth of capacity for delivery of these services to our customers. If customers are not satisfied"
+          },
+          {
+            "charIndex": 253279,
+            "context": "lues, we have in the past and may in the future establish and disclose quantitative and qualitative statements related to equality and sustainability matters, which are subject to numerous risks and dependencies. The proliferation of regulations and guidance addressing climate, human capital and other topics at the regional, state and national levels has required and may continue to require significant effort and resources, and our practices, processes and controls may not ensure compliance with evolving standards. Further, various regulations or guidance may conflict with each other, making u"
+          },
+          {
+            "charIndex": 253582,
+            "context": "topics at the regional, state and national levels has required and may continue to require significant effort and resources, and our practices, processes and controls may not ensure compliance with evolving standards. Further, various regulations or guidance may conflict with each other, making universal compliance challenging as a multinational company, and our status as a government contractor in various jurisdictions, including but not limited to the U.S. where we are headquartered, may also result in greater exposure or differentiated obligations or requirements with which we would seek to"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 36032,
+            "context": "cash equivalents 1,608 2,080 Cash and cash equivalents, beginning of period 7,327 8,848 Cash and cash equivalents, end of period $ 8,935 $ 10,928 (1) Includes amortization of intangible assets acquired through business combinations, depreciation and impairment of fixed assets and amortization and impairment of right-of-use assets. See accompanying Notes. 7 Table of Contents Salesforce, Inc. Condensed Consolidated Statements of Cash Flows Supplemental Cash Flow Disclosure (in millions) (unaudited) Three Months Ended April 30, 2026 2025 Supplemental cash flow disclosure: Cash paid during the per"
+          },
+          {
+            "charIndex": 36080,
+            "context": "alents, beginning of period 7,327 8,848 Cash and cash equivalents, end of period $ 8,935 $ 10,928 (1) Includes amortization of intangible assets acquired through business combinations, depreciation and impairment of fixed assets and amortization and impairment of right-of-use assets. See accompanying Notes. 7 Table of Contents Salesforce, Inc. Condensed Consolidated Statements of Cash Flows Supplemental Cash Flow Disclosure (in millions) (unaudited) Three Months Ended April 30, 2026 2025 Supplemental cash flow disclosure: Cash paid during the period for: Interest $ 87 $ 28 Income taxes, net of"
+          },
+          {
+            "charIndex": 53197,
+            "context": "ompany periodically evaluates whether there have been any changes in its business, the market conditions in which it operates or other events which would indicate that its amortization period should be changed or if there are potential indicators of impairment. Amortization of capitalized costs to obtain revenue contracts is included in sales and marketing expense in the accompanying condensed consolidated statements of operations. There were no impairments of costs to obtain revenue contracts for the three months ended April 30, 2026 and 2025. Cash and Cash Equivalents The Company considers a"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 81553,
+            "context": "nbilled portions of the remaining performance obligation denominated in foreign currencies are revalued each period based on the period end exchange rates. Remaining performance obligation is subject to future economic risks, including bankruptcies, regulatory changes and other market factors. The Company excludes amounts related to performance obligations from professional services contracts that are billed and recognized on a time and materials basis. 17 Table of Contents The majority of the Company's noncurrent remaining performance obligation is expected to be recognized in the next 13 to"
+          },
+          {
+            "charIndex": 108431,
+            "context": "ve (in millions): Three Months Ended April 30, 2026 2025 Employee stock awards 31 2 Unsettled component of ASR Agreements 36 0 12. Legal Proceedings and Claims In the ordinary course of business, the Company is or may be involved in various legal or regulatory proceedings, claims or purported class actions related to alleged infringement of third-party patents and other intellectual property rights, commercial, corporate and securities, labor and employment, wage and hour and other claims. The Company has been, and may in the future be, put on notice or sued by third parties for alleged infrin"
+          },
+          {
+            "charIndex": 193948,
+            "context": "y third-party developers and vendors in embracing our technology delivery model and enterprise cloud computing services, or customers asking us for warranties for third-party applications, integrations, data and content. &#8226; Social, ethical, and regulatory issues, including the development, deployment, use or capabilities of AI in our offerings. &#8226; The evolving landscape related to environmental, social and governance matters. Legal and Regulatory Risks &#8226; Privacy concerns and laws as well as evolving regulation of cloud computing, AI services, increased restriction of cross-bord"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 32759,
+            "context": "ss) Retained Earnings Total Stockholders' Equity Shares Amount Shares Amount Balance at January 31, 2026 1,073 $ 1 ( 144 ) $ ( 32,228 ) $ 68,835 $ 313 $ 22,221 $ 59,142 Common stock issued 4 0 0 0 35 0 0 35 Common stock withheld related to net share settlement of equity awards 0 0 0 0 ( 250 ) 0 0 ( 250 ) Common stock repurchased 0 0 ( 114 ) ( 22,800 ) ( 4,566 ) 0 0 ( 27,366 ) Stock-based compensation 0 0 0 0 859 0 0 859 Other comprehensive income, net of tax 0 0 0 0 0 82 0 82 Cash dividends and dividend equivalents declared 0 0 0 0 0 0 ( 374 ) ( 374 ) Net income 0 0 0 0 0 0 2,107 2,107 Balance"
+          },
+          {
+            "charIndex": 35457,
+            "context": "s ( 145 ) ( 179 ) Net cash used in investing activities ( 2,183 ) ( 1,567 ) Financing activities: Proceeds from issuance of debt, net of issuance costs 24,842 0 Repurchases of common stock ( 27,248 ) ( 2,633 ) Payments for taxes related to net share settlement of equity awards ( 250 ) 0 Proceeds from employee stock plans 230 294 Principal payments on financing obligations ( 130 ) ( 179 ) Payments of dividends and dividend equivalents ( 365 ) ( 402 ) Net cash used in financing activities ( 2,921 ) ( 2,920 ) Effect of exchange rate changes 11 91 Net increase in cash and cash equivalents 1,608 2,"
+          },
+          {
+            "charIndex": 59103,
+            "context": "rivative financial instruments program is not conducted for trading or speculative purposes. The Company generally enters into master netting arrangements with the financial institutions with which it contracts for such derivatives, which permit net settlement of transactions with the same counterparty, thereby reducing risk of credit-related losses from a financial institution's nonperformance. While the contract or notional amount is often used to express the volume of foreign currency derivative contracts, the amounts potentially subject to credit risk are generally limited to the amounts,"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 63390,
+            "context": "s, or other costs that are subject to fluctuation from period to period. The Company's lease terms may include options to extend or terminate the lease. Periods beyond the noncancellable term of the lease are included in the measurement of the lease liability only when it is reasonably certain that the Company will exercise the associated extension option or waive the termination option. The Company reassesses the lease term if and when a significant event or change in circumstances occurs within the control of the Company. As most of the Company's leases do not provide an implicit rate, the n"
+          },
+          {
+            "charIndex": 64144,
+            "context": "s an estimate of the interest rate the Company would have to pay to borrow on a collateralized basis with similar terms and payments, in the economic environment where the leased asset is located. The lease ROU asset is recognized based on the lease liability, adjusted for any rent payments or initial direct costs incurred or tenant incentives received prior to commencement. Lease expense for operating leases, which includes amortization expense of ROU assets, is recognized on a straight-line basis over the lease term. Amortization expense of finance lease ROU assets is recognized on a straigh"
+          },
+          {
+            "charIndex": 71322,
+            "context": "se awards is recognized based on the requisite service period elapsed, as well as the probability of achievement and estimated attainment of the performance condition as of the end of our reporting period. Income Taxes The Company uses the asset and liability method of accounting for income taxes. Under this method, deferred tax assets and liabilities are determined based on temporary differences between the financial statement and tax basis of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse. The effect on deferred tax asse"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-03-02",
+        "reportDate": "2026-01-31",
+        "accessionNumber": "0001108524-26-000060",
+        "primaryDocument": "crm-20260131.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/crm-20260131.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/"
+      },
+      "textLength": 441385,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations\" in our Annual Report on Form 10-K for the year ended January 31, 2025. Liquidity and Capital Resources As of January 31, 2026, our principal sources of liquidity were cash, cash equivalents and marketable securities totaling $9.6 billion and accounts receivable of $14.3 billion. Our cash equivalents and marketable securities are comprised primarily of corporate notes and obligations, U.S. treasury securities, U.S. agency obligations, asset-backed securities, foreign government obligations, mortgage-backed obligations, covered bonds, time deposits, money market mutual funds and municipal securities. Our Revolving Loan Credit Agreement (as defined below), which provides the ability to borrow up to $5.0 billion in unsecured financing (the &#8220;Credit Facility&#8221;) as of January 31, 2026, also serves as a source of liquidity. Net cash provided by operating activities could continue to be affected by various risks and uncertainties, including, but not limited to, the risks detailed in Part II, Item 1A, &#8220;Risk Factors.&#8221; We believe our existing cash, cash equivalents, marketable securities, cash provided by operating activities, unbilled amounts related to contracted noncancellable subscription agreements, which are not reflected on the balance sheet, and, if necessary, our borrowing capacity under our Credit Facility will be sufficient to meet our working capital, capital expenditure and debt maintenance needs over the next 12 months and thereafter. In the future, we may enter into arrangements to acquire or invest in complementary businesses, services, technologies and intellectual property rights. To facilitate these acquisitions or investments, we may seek additional equity or debt financing, which may not be available on terms favorable to us or at all, impacting our ability to complete subsequent acquisitions or investments. For example, we entered into certain credit agreements in connection with our acquisition of Informatica. See discussion in &#8220;Debt&#8221; below. Our cash tax profile was impacted by OBBBA primarily due to the immediate deduction of the domestic research and development expenditures. Moreover, the OBBBA brought into scope other provisions of the U.S. tax code. Guidance that clarifies these provisions could change our future cash taxes. 46 Table of Contents Cash Flows For fiscal years ended January 31, 2026, 2025, and 2024 our cash flows were as follows (in millions): 4 Fiscal Year Ended January 31, 2026 2025 2024 Net cash provided by operating activities $ 14,996 $ 13,092 $ 10,234 Net cash used in investing activities (8,590) (3,163) (1,327) Net cash used in financing activities (8,079) (9,429) (7,477) Operating Activities The net cash provided by operating activities during fiscal 2026 was primarily comprised of net income of $7.5 billion, adjusted for non-cash items, including $3.6 billion of depreciation and amortization and $3.5 billion of stock-based compensation expense. Net cash provided by operating activities can be significantly impacted by factors such as growth in new business, timing of cash receipts from customers, vendor payment terms and timing of payments to vendors. Net cash provided by operating activities during fiscal 2026 was further benefited by the changes in accounts payable and accrued expenses and other liabilities of $1.0 billion and unearned revenue of $2.9 billion, partially offset by the change in accounts receivable, net of $2.2 billion and costs capitalized to obtain revenue contracts, net of $2.8 billion. As our business continues to grow, and assuming our expenses remain in line with or less than our revenue growth, we expect to continue to see growth in net cash provided by operating activities. The net cash provided by operating activities during fiscal 2025 was primarily comprised of net income of $6.2 billion, adjusted for non-cash items, including $3.5 billion of depreciation and amortization and $3.2 billion of stock-based compensation expense. Net cash provided by operating activities can be significantly impacted by factors such as growth in new business, timing of cash receipts from customers, vendor payment terms and timing of payments to vendors. Net cash provided by operating activities during fiscal 2025 was further benefited by the changes in unearned revenue of $1.6 billion and accounts payable and accrued expenses and other liabilities of $1.1 billion, partially offset by the changes in costs capitalized to obtain revenue contracts, net of $2.1 billion, prepaid expenses and other current assets and other assets of $1.5 billion and accounts receivable, net of $490 million. Investing Activities The net cash used in investing activities during fiscal 2026 was primarily related to net outflows for acquisitions of $9.3 billion, which is primarily associated with $8.1 billion, net, related to the Informatica acquisition, as well as net outflows from strategic investment activity of $1.8 billion and capital expenditures of $594 million, partially offset by net inflows from marketable securities activity of $3.0 billion. The net cash used in investing activities during fiscal 2025 was primarily related to net outflows for acquisitions of $2.7 billion, net outflows from strategic investment activity of $413 million and capital expenditures of $658 million, partially offset by net inflows from marketable securities activity of $642 million. Financing Activities The net cash used in financing activities during fiscal 2026 was primarily related to $12.6 billion used for repurchases of common stock and $1.6 billion related to payments of dividends and equivalents, partially offset by $6.0 billion of proceeds from the Informatica credit agreements and $1.0 billion of proceeds from equity plans. The net cash used in financing activities during fiscal 2025 was primarily related to $7.8 billion used for repurchases of common stock, $1.5 billion related to payments of dividends and $1.0 billion related to repayments of debt, partially offset by $6.0 billion from proceeds of the issuance of debt and $1.5 billion from proceeds from equity plans. Debt As of January 31, 2026, we had senior unsecured debt outstanding, with maturities starting in April 2028 and extending through July 2061 with a total carrying value of $8.4 billion. We were in compliance with all debt covenants as of January 31, 2026. In October 2024, we entered into a Credit Agreement with the lenders and issuing lenders party thereto, and Bank of America, N.A., as administrative agent (the &#8220;Revolving Loan Credit Agreement&#8221;). The Revolving Loan Credit Agreement replaced the Credit Agreement, dated December 23, 2020 (as amended, the &#8220;Prior Credit Agreement&#8221;), among us, the lenders and the issuing lenders party thereto, and Citibank, N.A., as administrative agent, which provided for a $3.0 billion unsecured revolving credit facility that was scheduled to mature on December 23, 2025. There were no outstanding borrowings under the Prior Credit Agreement. The Revolving Loan Credit Agreement provides for a $5.0 billion Credit Facility and matures in 47 Table of Contents October 2029. We may use the proceeds of future borrowings under the Credit Facility for general corporate purposes. There were no outstanding borrowings under the Credit Facility as of January 31, 2026. In June 2025, we entered into a 364-day Credit Agreement that provided us with the ability to borrow up to $4.0 billion (the &#8220;364-day Informatica Credit Agreement&#8221;) and a three-year Credit Agreement that provides us with the ability to borrow up to $2.0 billion (the &#8220;Three-year Informatica Credit Agreement&#8221; and, together with the 364-day Informatica Credit Agreement, the &#8220;Informatica Credit Agreements&#8221;), both on an unsecured basis, to finance a portion of the cash consideration for the acquisition of Informatica, the repayment of certain debt of Informatica and the payment of fees, costs and expenses related thereto. In November 2025, as part of the acquisition of Informatica, we borrowed the full $6.0 billion available under the credit facilities associated with the Informatica Credit Agreements, which was outstanding as of January 31, 2026. We do not have any special purpose entities and we do not engage in off-balance sheet financing arrangements. Share Repurchase Program Our Board of Directors (the &#8220;Board&#8221;) authorized a program to repurchase shares of the Company's common stock (the \"Share Repurchase Program\"), which commenced in August 2022. In September 2025, the Board authorized an additional $20.0 billion in repurchases under the Share Repurchase Program, for an aggregate total authorized of $50.0 billion. The Share Repurchase Program does not have a fixed expiration date and does not obligate us to acquire any specific number of shares. We repurchased the following under the Share Repurchase Program (in millions, except average price per share): 2026 2025 2024 Shares Average price per share Amount Shares Average price per share Amount Shares Average price per share Amount Fiscal year ended January 31, 50 $ 254.21 $ 12,677 30 $ 260.12 $ 7,757 36 $ 210.30 $ 7,674 All repurchases were made in open market transactions. As of January 31, 2026, we were authorized to purchase a remaining $17.9 billion of the Company's common stock under the Share Repurchase Program. Subsequent to January 31, 2026, we have incurred approximately $1.4 billion through February 25, 2026 for additional shares repurchased under the Share Repurchase Program. In February 2026, the Board authorized $50.0 billion in share repurchases under the Share Repurchase Program that replaced the previous remaining unpurchased authorization. Dividends We announced the following dividends: Quarter Ended Record Date Payment Date Dividend per Share Amount (in millions) Fiscal 2026 April 30, 2025 April 10, 2025 April 24, 2025 $ 0.416 $ 406 July 31, 2025 June 18, 2025 July 10, 2025 $ 0.416 $ 404 October 31, 2025 September 17, 2025 October 9, 2025 $ 0.416 $ 400 January 31, 2026 December 18, 2025 January 8, 2026 $ 0.416 $ 395 Fiscal 2025 April 30, 2024 March 14, 2024 April 11, 2024 $ 0.40 $ 388 July 31, 2024 July 9, 2024 July 25, 2024 $ 0.40 $ 388 October 31, 2024 September 18, 2024 October 8, 2024 $ 0.40 $ 385 January 31, 2025 December 18, 2024 January 9, 2025 $ 0.40 $ 388 In February 2026, the Board declared a $0.44 dividend per share that is payable on April 23, 2026 to stockholders of record as of the close of business on April 9, 2026. The declaration and payment of future cash dividends is subject to the Board continuing to determine that the declaration of dividends is in the best interests of the Company and our stockholders, after giving consideration to continued capital availability, general economic and market conditions, and applicable laws and agreements. Contractual Obligations Our principal commitments consist of obligations under leases for office space, co-location data center facilities and our development and test data center, as well as leases for computer equipment, software, furniture and fixtures. As of January 31, 48 Table of Contents 2026, the future noncancellable minimum payments under these commitments were approximately $3.6 billion, with payments of $0.9 billion due in the next 12 months and $2.7 billion due thereafter. In addition to our leasing arrangements, we have other contractual commitments associated with agreements that are enforceable and legally binding, including those with infrastructure service providers. As of January 31, 2026 our total commitments under these agreements were approximately $16.7 billion, of which payments of $3.7 billion are due in the next 12 months and $13.0 billion are due thereafter. We generally expect to satisfy these commitments with cash on hand and cash provided by operating activities. During fiscal 2026 and in future years, we have made, and expect to continue to make, additional investments in enterprise cloud computing services to allow us to scale with our customers and continue to evolve our security measures. We plan to upgrade or replace various internal systems to scale with our overall growth. While we continue to make investments in our infrastructure service providers to provide capacity for the growth of our business, our strategy may continue to change related to these investments and we may slow the pace of our investments. Other Future Obligations As of January 31, 2026, we expect approximately $220 million to $250 million in future cash payments related to our restructuring initiatives, primarily related to workforce costs, such as severance payments. We generally expect to satisfy these commitments with cash on our balance sheet and cash provided by operating activities. Stakeholder Impact We believe that business is the greatest platform for change. Guided by our values, we work to earn the trust of our stakeholders. Transparency is key to trust, which is why we have published an annual Stakeholder Impact Report for over ten years to keep our stakeholders informed and to hold ourselves accountable to our sustainability, impact and equality strategies. Our disclosures in these areas are also informed by topics identified through relevancy assessments and third-party ESG reporting organizations, frameworks and standards. Read more about these initiatives and view our Stakeholder Impact Report at https://salesforce.com/stakeholder-impact-report. Website references throughout this document are provided for convenience only, and the content on the referenced websites is not incorporated by reference into this report. ITEM 7A.",
+        "charRange": [
+          263730,
+          277513
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors.&#8221; We believe our existing cash, cash equivalents, marketable securities, cash provided by operating activities, unbilled amounts related to contracted noncancellable subscription agreements, which are not reflected on the balance sheet, and, if necessary, our borrowing capacity under our Credit Facility will be sufficient to meet our working capital, capital expenditure and debt maintenance needs over the next 12 months and thereafter. In the future, we may enter into arrangements to acquire or invest in complementary businesses, services, technologies and intellectual property rights. To facilitate these acquisitions or investments, we may seek additional equity or debt financing, which may not be available on terms favorable to us or at all, impacting our ability to complete subsequent acquisitions or investments. For example, we entered into certain credit agreements in connection with our acquisition of Informatica. See discussion in &#8220;Debt&#8221; below. Our cash tax profile was impacted by OBBBA primarily due to the immediate deduction of the domestic research and development expenditures. Moreover, the OBBBA brought into scope other provisions of the U.S. tax code. Guidance that clarifies these provisions could change our future cash taxes. 46 Table of Contents Cash Flows For fiscal years ended January 31, 2026, 2025, and 2024 our cash flows were as follows (in millions): 4 Fiscal Year Ended January 31, 2026 2025 2024 Net cash provided by operating activities $ 14,996 $ 13,092 $ 10,234 Net cash used in investing activities (8,590) (3,163) (1,327) Net cash used in financing activities (8,079) (9,429) (7,477) Operating Activities The net cash provided by operating activities during fiscal 2026 was primarily comprised of net income of $7.5 billion, adjusted for non-cash items, including $3.6 billion of depreciation and amortization and $3.5 billion of stock-based compensation expense. Net cash provided by operating activities can be significantly impacted by factors such as growth in new business, timing of cash receipts from customers, vendor payment terms and timing of payments to vendors. Net cash provided by operating activities during fiscal 2026 was further benefited by the changes in accounts payable and accrued expenses and other liabilities of $1.0 billion and unearned revenue of $2.9 billion, partially offset by the change in accounts receivable, net of $2.2 billion and costs capitalized to obtain revenue contracts, net of $2.8 billion. As our business continues to grow, and assuming our expenses remain in line with or less than our revenue growth, we expect to continue to see growth in net cash provided by operating activities. The net cash provided by operating activities during fiscal 2025 was primarily comprised of net income of $6.2 billion, adjusted for non-cash items, including $3.5 billion of depreciation and amortization and $3.2 billion of stock-based compensation expense. Net cash provided by operating activities can be significantly impacted by factors such as growth in new business, timing of cash receipts from customers, vendor payment terms and timing of payments to vendors. Net cash provided by operating activities during fiscal 2025 was further benefited by the changes in unearned revenue of $1.6 billion and accounts payable and accrued expenses and other liabilities of $1.1 billion, partially offset by the changes in costs capitalized to obtain revenue contracts, net of $2.1 billion, prepaid expenses and other current assets and other assets of $1.5 billion and accounts receivable, net of $490 million. Investing Activities The net cash used in investing activities during fiscal 2026 was primarily related to net outflows for acquisitions of $9.3 billion, which is primarily associated with $8.1 billion, net, related to the Informatica acquisition, as well as net outflows from strategic investment activity of $1.8 billion and capital expenditures of $594 million, partially offset by net inflows from marketable securities activity of $3.0 billion. The net cash used in investing activities during fiscal 2025 was primarily related to net outflows for acquisitions of $2.7 billion, net outflows from strategic investment activity of $413 million and capital expenditures of $658 million, partially offset by net inflows from marketable securities activity of $642 million. Financing Activities The net cash used in financing activities during fiscal 2026 was primarily related to $12.6 billion used for repurchases of common stock and $1.6 billion related to payments of dividends and equivalents, partially offset by $6.0 billion of proceeds from the Informatica credit agreements and $1.0 billion of proceeds from equity plans. The net cash used in financing activities during fiscal 2025 was primarily related to $7.8 billion used for repurchases of common stock, $1.5 billion related to payments of dividends and $1.0 billion related to repayments of debt, partially offset by $6.0 billion from proceeds of the issuance of debt and $1.5 billion from proceeds from equity plans. Debt As of January 31, 2026, we had senior unsecured debt outstanding, with maturities starting in April 2028 and extending through July 2061 with a total carrying value of $8.4 billion. We were in compliance with all debt covenants as of January 31, 2026. In October 2024, we entered into a Credit Agreement with the lenders and issuing lenders party thereto, and Bank of America, N.A., as administrative agent (the &#8220;Revolving Loan Credit Agreement&#8221;). The Revolving Loan Credit Agreement replaced the Credit Agreement, dated December 23, 2020 (as amended, the &#8220;Prior Credit Agreement&#8221;), among us, the lenders and the issuing lenders party thereto, and Citibank, N.A., as administrative agent, which provided for a $3.0 billion unsecured revolving credit facility that was scheduled to mature on December 23, 2025. There were no outstanding borrowings under the Prior Credit Agreement. The Revolving Loan Credit Agreement provides for a $5.0 billion Credit Facility and matures in 47 Table of Contents October 2029. We may use the proceeds of future borrowings under the Credit Facility for general corporate purposes. There were no outstanding borrowings under the Credit Facility as of January 31, 2026. In June 2025, we entered into a 364-day Credit Agreement that provided us with the ability to borrow up to $4.0 billion (the &#8220;364-day Informatica Credit Agreement&#8221;) and a three-year Credit Agreement that provides us with the ability to borrow up to $2.0 billion (the &#8220;Three-year Informatica Credit Agreement&#8221; and, together with the 364-day Informatica Credit Agreement, the &#8220;Informatica Credit Agreements&#8221;), both on an unsecured basis, to finance a portion of the cash consideration for the acquisition of Informatica, the repayment of certain debt of Informatica and the payment of fees, costs and expenses related thereto. In November 2025, as part of the acquisition of Informatica, we borrowed the full $6.0 billion available under the credit facilities associated with the Informatica Credit Agreements, which was outstanding as of January 31, 2026. We do not have any special purpose entities and we do not engage in off-balance sheet financing arrangements. Share Repurchase Program Our Board of Directors (the &#8220;Board&#8221;) authorized a program to repurchase shares of the Company's common stock (the \"Share Repurchase Program\"), which commenced in August 2022. In September 2025, the Board authorized an additional $20.0 billion in repurchases under the Share Repurchase Program, for an aggregate total authorized of $50.0 billion. The Share Repurchase Program does not have a fixed expiration date and does not obligate us to acquire any specific number of shares. We repurchased the following under the Share Repurchase Program (in millions, except average price per share): 2026 2025 2024 Shares Average price per share Amount Shares Average price per share Amount Shares Average price per share Amount Fiscal year ended January 31, 50 $ 254.21 $ 12,677 30 $ 260.12 $ 7,757 36 $ 210.30 $ 7,674 All repurchases were made in open market transactions. As of January 31, 2026, we were authorized to purchase a remaining $17.9 billion of the Company's common stock under the Share Repurchase Program. Subsequent to January 31, 2026, we have incurred approximately $1.4 billion through February 25, 2026 for additional shares repurchased under the Share Repurchase Program. In February 2026, the Board authorized $50.0 billion in share repurchases under the Share Repurchase Program that replaced the previous remaining unpurchased authorization. Dividends We announced the following dividends: Quarter Ended Record Date Payment Date Dividend per Share Amount (in millions) Fiscal 2026 April 30, 2025 April 10, 2025 April 24, 2025 $ 0.416 $ 406 July 31, 2025 June 18, 2025 July 10, 2025 $ 0.416 $ 404 October 31, 2025 September 17, 2025 October 9, 2025 $ 0.416 $ 400 January 31, 2026 December 18, 2025 January 8, 2026 $ 0.416 $ 395 Fiscal 2025 April 30, 2024 March 14, 2024 April 11, 2024 $ 0.40 $ 388 July 31, 2024 July 9, 2024 July 25, 2024 $ 0.40 $ 388 October 31, 2024 September 18, 2024 October 8, 2024 $ 0.40 $ 385 January 31, 2025 December 18, 2024 January 9, 2025 $ 0.40 $ 388 In February 2026, the Board declared a $0.44 dividend per share that is payable on April 23, 2026 to stockholders of record as of the close of business on April 9, 2026. The declaration and payment of future cash dividends is subject to the Board continuing to determine that the declaration of dividends is in the best interests of the Company and our stockholders, after giving consideration to continued capital availability, general economic and market conditions, and applicable laws and agreements. Contractual Obligations Our principal commitments consist of obligations under leases for office space, co-location data center facilities and our development and test data center, as well as leases for computer equipment, software, furniture and fixtures. As of January 31, 48 Table of Contents 2026, the future noncancellable minimum payments under these commitments were approximately $3.6 billion, with payments of $0.9 billion due in the next 12 months and $2.7 billion due thereafter. In addition to our leasing arrangements, we have other contractual commitments associated with agreements that are enforceable and legally binding, including those with infrastructure service providers. As of January 31, 2026 our total commitments under these agreements were approximately $16.7 billion, of which payments of $3.7 billion are due in the next 12 months and $13.0 billion are due thereafter. We generally expect to satisfy these commitments with cash on hand and cash provided by operating activities. During fiscal 2026 and in future years, we have made, and expect to continue to make, additional investments in enterprise cloud computing services to allow us to scale with our customers and continue to evolve our security measures. We plan to upgrade or replace various internal systems to scale with our overall growth. While we continue to make investments in our infrastructure service providers to provide capacity for the growth of our business, our strategy may continue to change related to these investments and we may slow the pace of our investments. Other Future Obligations As of January 31, 2026, we expect approximately $220 million to $250 million in future cash payments related to our restructuring initiatives, primarily related to workforce costs, such as severance payments. We generally expect to satisfy these commitments with cash on our balance sheet and cash provided by operating activities. Stakeholder Impact We believe that business is the greatest platform for change. Guided by our values, we work to earn the trust of our stakeholders. Transparency is key to trust, which is why we have published an annual Stakeholder Impact Report for over ten years to keep our stakeholders informed and to hold ourselves accountable to our sustainability, impact and equality strategies. Our disclosures in these areas are also informed by topics identified through relevancy assessments and third-party ESG reporting organizations, frameworks and standards. Read more about these initiatives and view our Stakeholder Impact Report at https://salesforce.com/stakeholder-impact-report. Website references throughout this document are provided for convenience only, and the content on the referenced websites is not incorporated by reference into this report. ITEM 7A.",
+        "charRange": [
+          264842,
+          277513
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 196562,
+            "context": "may be vulnerable to the adverse effects of climate change. For example, our offices globally are projected to continue to experience climate-related events at increased frequency, including drought, water scarcity, heat waves, cold waves, flooding, wildfires and resultant air quality impacts and power shutoffs. These events in turn have impacts on inflation risks, the cost and availability of insurance, food security, water security (including for water availability for data center cooling), energy security and on our employees' health, productivity and well-being. Changing market dynamics, g"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 29047,
+            "context": "OtherMember 2026-01-31 0001108524 us-gaap:StockCompensationPlanMember 2025-02-01 2026-01-31 0001108524 us-gaap:StockCompensationPlanMember 2024-02-01 2025-01-31 0001108524 us-gaap:StockCompensationPlanMember 2023-02-01 2024-01-31 0001108524 crm:SlackLitigationMember 2019-09-01 2019-09-30 0001108524 crm:BackpageLitigationMember 2026-01-01 2026-01-31 0001108524 crm:BackpageLitigationMember 2020-04-01 2023-11-30 0001108524 2020-04-01 2023-11-30 0001108524 crm:S.M.A.V.SalesforceInc.Member 2023-05-01 2024-03-31 0001108524 crm:A.S.V.SalesforceInc.Member 2023-05-01 2024-03-31 0001108524 crm:A.G.B.V.S"
+          },
+          {
+            "charIndex": 29109,
+            "context": "nMember 2025-02-01 2026-01-31 0001108524 us-gaap:StockCompensationPlanMember 2024-02-01 2025-01-31 0001108524 us-gaap:StockCompensationPlanMember 2023-02-01 2024-01-31 0001108524 crm:SlackLitigationMember 2019-09-01 2019-09-30 0001108524 crm:BackpageLitigationMember 2026-01-01 2026-01-31 0001108524 crm:BackpageLitigationMember 2020-04-01 2023-11-30 0001108524 2020-04-01 2023-11-30 0001108524 crm:S.M.A.V.SalesforceInc.Member 2023-05-01 2024-03-31 0001108524 crm:A.S.V.SalesforceInc.Member 2023-05-01 2024-03-31 0001108524 crm:A.G.B.V.SalesforceInc.Member 2023-05-01 2024-03-31 0001108524 crm:G.G.C"
+          },
+          {
+            "charIndex": 29171,
+            "context": "tionPlanMember 2024-02-01 2025-01-31 0001108524 us-gaap:StockCompensationPlanMember 2023-02-01 2024-01-31 0001108524 crm:SlackLitigationMember 2019-09-01 2019-09-30 0001108524 crm:BackpageLitigationMember 2026-01-01 2026-01-31 0001108524 crm:BackpageLitigationMember 2020-04-01 2023-11-30 0001108524 2020-04-01 2023-11-30 0001108524 crm:S.M.A.V.SalesforceInc.Member 2023-05-01 2024-03-31 0001108524 crm:A.S.V.SalesforceInc.Member 2023-05-01 2024-03-31 0001108524 crm:A.G.B.V.SalesforceInc.Member 2023-05-01 2024-03-31 0001108524 crm:G.G.ConsolidatedCasesMember 2025-02-01 2026-01-31 0001108524 crm:Te"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 158086,
+            "context": "&#8221;) and related Federal Communication Commission orders, which impose significant restrictions on the use of telephone calls and text messages to mobile telephone numbers without prior consent. We have been, and may in the future be, subject to class action and individual lawsuits alleging that one of our businesses or customers violated the TCPA or similar communications-based laws. A determination that we or our customers failed to comply with such requirements could expose us to significant statutory damages or other liabilities that could, individually or in the aggregate, materially"
+          },
+          {
+            "charIndex": 159448,
+            "context": "vities. These include claims, suits, government investigations and other proceedings involving alleged infringement of third-party patents and other intellectual property rights, as well as commercial, corporate and securities, labor and employment, class actions, wage and hour, antitrust, data privacy, cybersecurity and other matters. The software and Internet industries are characterized by the existence of many patents, trademarks, trade secrets and copyrights and by frequent litigation based on allegations of infringement or other violations of intellectual property rights. We have receive"
+          },
+          {
+            "charIndex": 161293,
+            "context": "cause reputational harm to our brand or result in liability. 24 Table of Contents Our exposure to risks associated with various claims may be increased as a result of acquisitions of other companies. For example, we are subject to ongoing securities class action litigation and related stockholder derivative claims brought against Slack that remain outstanding, and as to which we may ultimately be subject to liability or settlement costs. Additionally, we may have a lower level of visibility into the development process with respect to intellectual property or the care taken to safeguard agains"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 143447,
+            "context": "lues, we have in the past and may in the future establish and disclose quantitative and qualitative statements related to equality and sustainability matters, which are subject to numerous risks and dependencies. The proliferation of regulations and guidance addressing climate, human capital and other topics at the regional, state and national levels has required and may continue to require significant effort and resources, and our practices, processes and controls may not ensure compliance with evolving standards. Further, various regulations or guidance may conflict with each other, making u"
+          },
+          {
+            "charIndex": 143750,
+            "context": "topics at the regional, state and national levels has required and may continue to require significant effort and resources, and our practices, processes and controls may not ensure compliance with evolving standards. Further, various regulations or guidance may conflict with each other, making universal compliance challenging as a multinational company, and our status as a government contractor in various jurisdictions, including but not limited to the U.S. where we are headquartered, may also result in greater exposure or differentiated obligations or requirements with which we would seek to"
+          },
+          {
+            "charIndex": 176020,
+            "context": "e OBBBA, notably, the immediate deduction of domestic research and development expenditures favorably impact our cash flows from operating activities, our tax provision may be adversely impacted to the extent additional clarification or interpretive guidance related to the OBBBA is released, or if there are changes to our valuation allowance assessment related to CAMT. We may also be subject to additional tax liabilities and penalties due to changes in non-income based taxes resulting from changes in federal, state, local or international tax laws, changes in taxing jurisdictions' administrati"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 222878,
+            "context": "ITEM 6. RESERVED ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS The following discussion contains forward-looking statements, including, without limitation, our expectations and statements regarding our outlook and future revenues, expenses, results of operations, liquidity, plans, strategies and management objectives and any assumptions underlying any of the foregoing. Our actual results may differ significantly from those projected in the forward-looking statements. Our forward-looking statements and factors that might cause future actual result"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 135226,
+            "context": "et period of time after a public offering. All of our investments are subject to a risk of partial or total loss of invested capital. We are exposed to volatility in our operating results due to changes in market prices, observable price changes and impairments of our strategic investments. The measurement of our non-marketable equity securities at fair value is inherently subjective and requires management judgment and estimation. The resulting gains or losses could be material depending on market conditions and events, particularly in periods with economic uncertainty, inflation, geopolitica"
+          },
+          {
+            "charIndex": 241122,
+            "context": "of revenue and operating expense category. Restructuring Restructuring consists of charges related to employee transition, severance payments, employee benefits and stock-based compensation, as well as data center exits, office space reductions and impairment charges associated with long-lived assets. Restructuring excludes allocated overhead. Critical Accounting Policies and Estimates Our consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States. The preparation of these consolidated financial statements requires us to mak"
+          },
+          {
+            "charIndex": 248806,
+            "context": "uidity. The carrying values of our privately held equity securities are adjusted if there are observable price changes in a same or similar security from the same issuer or if there are identified events or changes in circumstances that may indicate impairment, as discussed below. In determining the estimated fair value for these investments, we utilize the most recent data available and apply valuation methods, including the market approach, the common stock equivalent (&#8220;CSE&#8221;) method, and option pricing models (&#8220;OPM&#8221;), adjusted to reflect the specific rights and prefer"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 41492,
+            "context": "platform, which are sold separately from, or in conjunction with, our service offerings. Salesforce is committed to a core set of values: trust, customer success, innovation, equality and sustainability &#8211; all of which are grounded in legal and regulatory frameworks that guide and inform our business. Foremost among these is trust, which is paramount and the foundation for everything we do, and is also firmly rooted in compliance with applicable laws governing security, privacy, data protection and operational integrity. Our customers expect to trust and rely on our technology to meet the"
+          },
+          {
+            "charIndex": 43216,
+            "context": "s help our customers meet their own sustainability and compliance priorities, guided by applicable environmental and sustainability-related laws, corporate social responsibility frameworks and legal requirements. By grounding our values in legal and regulatory principles, we reinforce our opportunity and responsibility to uphold high integrity and robust ethical standards, ensuring that trust, fairness, and compliance remain central to everything we seek to do. We believe that our values, grounded in legal and regulatory frameworks, create value, and the business of business is to make the wor"
+          },
+          {
+            "charIndex": 43482,
+            "context": "iples, we reinforce our opportunity and responsibility to uphold high integrity and robust ethical standards, ensuring that trust, fairness, and compliance remain central to everything we seek to do. We believe that our values, grounded in legal and regulatory frameworks, create value, and the business of business is to make the world a better place for all of our stakeholders, including stockholders, customers, employees, partners, the planet and the communities in which we work and live. Salesforce is committed to giving back to our communities, helping businesses grow while protecting the e"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 161467,
+            "context": "tions of other companies. For example, we are subject to ongoing securities class action litigation and related stockholder derivative claims brought against Slack that remain outstanding, and as to which we may ultimately be subject to liability or settlement costs. Additionally, we may have a lower level of visibility into the development process with respect to intellectual property or the care taken to safeguard against infringement risks with respect to acquired companies or technologies. In addition, third parties have made claims in connection with our acquisitions and may do so in the"
+          },
+          {
+            "charIndex": 162159,
+            "context": "ired technology that had not been asserted prior to our acquisition. The outcome of any claims or litigation, regardless of the merits, is inherently uncertain. Any claims or lawsuits, and the disposition of such claims and lawsuits, whether through settlement or licensing discussions, or litigation, could be time-consuming and expensive to resolve, divert management attention from executing our business plan, result in efforts to enjoin our activities, lead to attempts on the part of other parties to pursue similar claims and, in the case of intellectual property claims, require us to change"
+          },
+          {
+            "charIndex": 162673,
+            "context": "similar claims and, in the case of intellectual property claims, require us to change our technology, change our business practices, pay monetary damages or enter into short- or long-term royalty or licensing agreements. Any adverse determination or settlement could prevent us from offering our services to others, could be material to our financial condition or cash flows, or both, or could otherwise adversely affect our current or future operating results, including our results of operations or cash flows in a particular period. Any failure to obtain registration or protection of our intellec"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 88362,
+            "context": "property rights. &#8226; Risks related to government contracts and related procurement regulations. &#8226; Governmental sanctions and export and import controls that could impair our ability to compete in international markets and may subject us to liability. Financial Risks &#8226; Downturns or upturns in new business, which may not be immediately reflected in our operating results because we generally recognize revenue from subscriptions for our services over the term of the subscription. &#8226; Significant fluctuations in our rate of anticipated growth and any failure to balance our expen"
+          },
+          {
+            "charIndex": 90259,
+            "context": "s of customer data, our data or our IT systems, or disruption of authorized access thereto, our services may be perceived as insecure, customers may reduce or terminate their use of our services, and we may incur significant reputational harm, legal liability, regulatory scrutiny or a negative financial impact. Our services involve the storage and transmission of our customers' and our customers' customers' proprietary and other sensitive data, including financial, health and other personal information. Our services and underlying infrastructure have in the past and may in the future be breach"
+          },
+          {
+            "charIndex": 95646,
+            "context": "or related disclosure could result in loss of confidence in the security of our services, harm our reputation, negatively impact future sales, disrupt our business operations, increase insurance premiums and result in legal, regulatory and financial liability. Additionally, it may take considerable time for us to investigate and evaluate the full impact of cybersecurity attacks, particularly for sophisticated attacks, which may inhibit our ability to provide prompt, full and reliable information about the incident to our customers, regulators and the public. Further, there can be no assurance"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "Revenues",
+      "points": [
+        {
+          "start": "2016-11-01",
+          "end": "2017-01-31",
+          "val": 2293988000,
+          "accn": "0001108524-17-000006",
+          "fy": 2017,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2017-03-06",
+          "frame": "CY2016Q4"
+        },
+        {
+          "start": "2016-02-01",
+          "end": "2017-01-31",
+          "val": 8391984000,
+          "accn": "0001108524-17-000006",
+          "fy": 2017,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2017-03-06",
+          "frame": "CY2016"
+        },
+        {
+          "start": "2016-08-01",
+          "end": "2016-10-31",
+          "val": 2144775000,
+          "accn": "0001108524-17-000006",
+          "fy": 2017,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2017-03-06",
+          "frame": "CY2016Q3"
+        },
+        {
+          "start": "2016-05-01",
+          "end": "2016-07-31",
+          "val": 2036618000,
+          "accn": "0001108524-17-000006",
+          "fy": 2017,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2017-03-06",
+          "frame": "CY2016Q2"
+        },
+        {
+          "start": "2016-02-01",
+          "end": "2016-04-30",
+          "val": 1916603000,
+          "accn": "0001108524-17-000006",
+          "fy": 2017,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2017-03-06",
+          "frame": "CY2016Q1"
+        },
+        {
+          "start": "2015-11-01",
+          "end": "2016-01-31",
+          "val": 1809398000,
+          "accn": "0001108524-17-000006",
+          "fy": 2017,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2017-03-06",
+          "frame": "CY2015Q4"
+        },
+        {
+          "start": "2015-11-01",
+          "end": "2016-01-31",
+          "val": 1809398000,
+          "accn": "0001108524-16-000053",
+          "fy": 2016,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2016-03-07"
+        },
+        {
+          "start": "2015-02-01",
+          "end": "2016-01-31",
+          "val": 6667216000,
+          "accn": "0001108524-17-000006",
+          "fy": 2017,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2017-03-06",
+          "frame": "CY2015"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-02-01",
+          "end": "2026-04-30",
+          "val": 2.42,
+          "accn": "0001108524-26-000127",
+          "fy": 2027,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-28",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2026-01-31",
+          "val": 7.8,
+          "accn": "0001108524-26-000060",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-02",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-08-01",
+          "end": "2025-10-31",
+          "val": 2.19,
+          "accn": "0001108524-25-000238",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-04",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-10-31",
+          "val": 5.73,
+          "accn": "0001108524-25-000238",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-04"
+        },
+        {
+          "start": "2025-05-01",
+          "end": "2025-07-31",
+          "val": 1.96,
+          "accn": "0001108524-25-000088",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-09-04",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-07-31",
+          "val": 3.55,
+          "accn": "0001108524-25-000088",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-09-04"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-04-30",
+          "val": 1.59,
+          "accn": "0001108524-26-000127",
+          "fy": 2027,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-28",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-04-30",
+          "val": 1.59,
+          "accn": "0001108524-25-000030",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-05-29"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-02-01",
+          "end": "2026-04-30",
+          "val": 2107000000,
+          "accn": "0001108524-26-000127",
+          "fy": 2027,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-28",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2026-01-31",
+          "val": 7457000000,
+          "accn": "0001108524-26-000060",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-02"
+        },
+        {
+          "start": "2025-08-01",
+          "end": "2025-10-31",
+          "val": 2086000000,
+          "accn": "0001108524-25-000238",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-04",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-10-31",
+          "val": 5514000000,
+          "accn": "0001108524-25-000238",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-04"
+        },
+        {
+          "start": "2025-05-01",
+          "end": "2025-07-31",
+          "val": 1887000000,
+          "accn": "0001108524-25-000238",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-04",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-05-01",
+          "end": "2025-07-31",
+          "val": 1887000000,
+          "accn": "0001108524-25-000088",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-09-04"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-07-31",
+          "val": 3428000000,
+          "accn": "0001108524-25-000088",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-09-04"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-04-30",
+          "val": 1541000000,
+          "accn": "0001108524-26-000127",
+          "fy": 2027,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-28",
+          "frame": "CY2025Q1"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2026-02-01",
+          "end": "2026-04-30",
+          "val": 2347000000,
+          "accn": "0001108524-26-000127",
+          "fy": 2027,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-28",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2026-01-31",
+          "val": 8331000000,
+          "accn": "0001108524-26-000060",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-02",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-08-01",
+          "end": "2025-10-31",
+          "val": 2188000000,
+          "accn": "0001108524-25-000238",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-04",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-10-31",
+          "val": 6462000000,
+          "accn": "0001108524-25-000238",
+          "fy": 2026,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-04"
+        },
+        {
+          "start": "2025-05-01",
+          "end": "2025-07-31",
+          "val": 2332000000,
+          "accn": "0001108524-25-000088",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-09-04",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-07-31",
+          "val": 4274000000,
+          "accn": "0001108524-25-000088",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-09-04"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-04-30",
+          "val": 1942000000,
+          "accn": "0001108524-26-000127",
+          "fy": 2027,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-28",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-04-30",
+          "val": 1942000000,
+          "accn": "0001108524-25-000030",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-05-29"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "sector": "Services-Prepackaged Software",
+    "pe": 22.85,
+    "pb": 4.73,
+    "ret3m": 5.9944,
+    "ret6m": 0.5754,
+    "roe": 21.78,
+    "debtEquity": 1.147,
+    "revenueGrowth": 9.58,
+    "epsGrowth": null,
+    "fcfGrowth": 15.83,
+    "operatingMargin": 20.06,
+    "marginTrend": 1.05,
+    "sentiment": -0.333,
+    "analyst": 73.3,
+    "beta": 1.211729
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "American Public Education Q2 Earnings Call Highlights",
+        "url": "https://finnhub.io/api/news?id=ef4bf6c2bac8e1b29940f6aff602eb544ce0632b2b6cc13aa919a7405b06e9cc",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "CRM Stock Has Bounced From This Price Before. Now What?",
+        "url": "https://finnhub.io/api/news?id=1740958c32945d425837d62ff6e5bf09008ddbb9185957c7854da5fe65a2aa92",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Microsoft Stock Runs One Of The Market's Biggest Cash-Return Machines",
+        "url": "https://finnhub.io/api/news?id=68aef218e98284dffbe7165a577e58dc5bddcb93a98b8c46bf2057f8df71060a",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Stock Market Today: Dow Dips, Apple Skids On iPhone Fear; This AI Play Clears Entry (Live Coverage)",
+        "url": "https://finnhub.io/api/news?id=127c3702d339fdef4a1bdfe0b989e5a3c934143c6ea05b9b617a89f06cb6b00e",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Stay informed with the top movers within the dow jones index on Monday.",
+        "url": "https://finnhub.io/api/news?id=2f75049ab7be9065daa72677147eb7c5f80eb38c8674a895383a372bc4e3f887",
+        "source": "ChartMill",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "These dow jones stocks are moving in today's session",
+        "url": "https://finnhub.io/api/news?id=215d57159ac550eaecc53a55f0b8bce07ef790c46ea7ddd57f4536b07ae4ddab",
+        "source": "ChartMill",
+        "date": "2026-08-10"
+      }
+    ],
+    "cachedAt": "2026-08-11T06:05:23.238Z"
+  }
+}

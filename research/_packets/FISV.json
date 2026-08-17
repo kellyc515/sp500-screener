@@ -1,0 +1,681 @@
+{
+  "ticker": "FISV",
+  "entityName": "FISERV INC",
+  "cik": "0000798354",
+  "generatedAt": "2026-08-11T18:22:04.788Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-08-07",
+        "reportDate": "2026-06-30",
+        "accessionNumber": "0000798354-26-000031",
+        "primaryDocument": "fisv-20260630.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/fisv-20260630.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/"
+      },
+      "textLength": 226335,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS",
+        "text": "management's discussion and analysis of our financial condition and results of operations. &#8226; Changes in critical accounting policies and estimates. This section contains a discussion of changes since our Annual Report on Form 10-K for the year ended December 31, 2025 in the accounting policies that we believe are important to our financial condition and results of operations and that require judgment and estimates on the part of management in their application. &#8226; Results of operations. This section contains an analysis of our results of operations presented in the accompanying unaudited consolidated statements of income by comparing the results for the three and six months ended June 30, 2026 to the comparable period in 2025. &#8226; Liquidity and capital resources. This section provides an analysis of our cash flows and a discussion of our outstanding debt at June 30, 2026. Overview Company Background We are a global leader uniting commerce and finance. At the intersection of banking and commerce, we power sustained growth and innovation at scale for financial institutions and businesses worldwide across payments, account processing, digital 34 Table of Contents banking, merchant acquiring, network services, e-commerce, and Clover &#174; , the all-in-one business management platform. Most of the products and services we provide are necessary for our clients to operate their businesses and are therefore non-discretionary in nature. We serve our global client base by working among our geographic teams across various regions, including the United States of America (&#8220;U.S.&#8221;) and Canada; Europe, Middle East and Africa; Latin America; and Asia Pacific. Our operations are comprised of the Merchant Solutions (&#8220;Merchant&#8221;) segment and Financial Solutions (&#8220;Financial&#8221;) segment. We are focused on providing exceptional client service, world-class execution, value-added technology solutions, and cutting-edge innovation. Our long-term focus is to meet our financial commitments, deliver compelling, innovative solutions that address our clients' most critical needs, and realize productivity and efficiency gains by embedding artificial intelligence (&#8220;AI&#8221;) in our products, services and business operations. The businesses in our Merchant segment provide commerce-enabling products and services to companies of all sizes around the world. These products and services include merchant acquiring and digital commerce services; mobile payment services; security and fraud protection solutions; stored-value solutions; software-as-a-service; point-of-sale (&#8220;POS&#8221;) devices; and pay-by-bank solutions. The business lines aggregated within the Merchant segment consist of the following: &#8226; Small Business &#8211; provides products and services to small businesses and independent software vendors (&#8220;ISVs&#8221;), including Clover, our POS and business management platform for small business clients &#8226; Enterprise &#8211; provides products and services to large businesses, including our integrated omnichannel operating system for enterprise clients &#8226; Processing &#8211; provides products and services to financial institutions, joint ventures, and other third party resellers which have direct relationships with merchants We distribute the products and services in the Merchant segment businesses through a variety of channels, including direct sales teams, strategic partnerships with agent sales forces, ISVs, independent sales organizations, financial institutions and other strategic partners in the form of joint venture alliances, revenue sharing alliances and referral agreements. The businesses in our Financial segment provide products and services to financial institution, corporate and public sector clients across the world, enabling the processing of customer loan and deposit accounts, digital payments and card transactions. The business lines aggregated within the Financial segment consist of the following: &#8226; Digital Payments &#8211; provides debit card processing services; debit network services; security and fraud protection products; bill payment; person-to-person payments; and account-to-account transfers &#8226; Issuing &#8211; provides credit card processing services; prepaid card processing services; card production services; print services; government payment processing; and student loan servicing &#8226; Banking &#8211; provides customer loan and deposit account processing; digital banking; financial and risk management; professional services and consulting; and check processing Corporate and Other supports the reportable segments described above, and consists of amortization of acquisition-related intangible assets, unallocated corporate expenses and other activities that are not considered when we evaluate segment performance, such as gains or losses on sales of businesses, certain assets or investments; costs associated with acquisition and divestiture activity; expenses associated with our One Fiserv transformation initiative; postage reimbursements; and gains on early debt extinguishment associated with refinancing activities. One Fiserv Action Plan In the third quarter of 2025, we launched the One Fiserv action plan designed to prioritize and enhance client focus across five strategic pillars. The One Fiserv action plan centers our investments in areas that build on Fiserv's strengths, including: operating with a client-first mindset to grow our client base and average revenue per client; building the leading small business operating platform with Clover &#174; ; creating innovative platforms in finance and commerce to drive value for our clients, including embedded finance and stablecoin; delivering AI-enabled operational excellence and efficiency; and employing disciplined long-term capital allocation. To advance this transformation, we are simplifying and standardizing processes, adopting new ways of working, and embedding AI to create a higher-quality, more productive business. This approach rethinks how business functions operate and aligns our product portfolio for the future. We are modernizing our technology infrastructure, enhancing resiliency, and reengineering our operating model through AI and advanced automation. We expect these efforts to strengthen efficiency, scalability, and innovation to deliver differentiated value and an exceptional experience for our clients. 35 Table of Contents Acquisitions, Dispositions and Other Transactions We frequently review our businesses to ensure we have the necessary assets to execute our strategy. We expect to acquire businesses when we identify: a compelling strategic need, such as a product, service or technology that helps meet client demand; a way to achieve business scale that enables competition and operational efficiency; or similar considerations. We expect to divest businesses that are not in line with our market, product or financial strategies. The results of operations for the following acquired businesses are included in our consolidated results from the respective dates of acquisition. Acquisitions of Businesses On December 17, 2025, we acquired StoneCastle Cash Management, LLC, INDX Processing, LLC and StoneCastle Trust Co. (collectively, &#8220;StoneCastle&#8221;), a provider of deposit funding solutions. StoneCastle is included within the Financial segment and provides its network of depository institutions easy access to stable, cost efficient deposit funding. On October 1, 2025, we acquired a portion of The Toronto-Dominion Bank's merchant processing business in Canada (&#8220;TD Merchant Canada&#8221;). This business is included within the Merchant segment and expands the footprint of our Clover &#174; platform. In connection with this transaction, we signed a multi-year strategic managed services program agreement with The Toronto-Dominion Bank to utilize our technology, including Clover, within its Merchant Solutions business. On September 25, 2025, we acquired the Smith Consulting Group, LLC business (&#8220;SCG&#8221;), an operational consulting service utilized by community banks and credit unions across the U.S. SCG is included within the Financial segment and supports our ability to provide consultative engagement to enhance community banks' and credit unions' strategic investments. On September 4, 2025, we acquired CardFree Inc. (&#8220;CardFree&#8221;), an all-in-one platform delivering integrated order, payment and loyalty solutions for merchants. CardFree is included within the Merchant segment and further expands the capabilities of our Clover platform across the hospitality, restaurant and lodging industries. On June 4, 2025, we acquired Money Money Servi&#231;os Financeiros S.A. (&#8220;Money Money&#8221;), a provider of risk analysis and credit decisioning solutions. Money Money is included within the Merchant segment and expands our payment and financial service capabilities, enabling access to working capital and other payment solutions for small and medium-sized businesses. On April 4, 2025, we acquired Pinch Payments NZ Limited (together with Zootive Pty Ltd, &#8220;Pinch Payments&#8221;), a payment facilitator. Pinch Payments is included within the Merchant segment and expands our flexible payment services for our partners and clients and our presence within the Asia-Pacific region. On March 18, 2025, we acquired CCV Group B.V. (&#8220;CCV&#8221;), a supplier of POS payment solutions. CCV is included within the Merchant segment and expands our network of payment solutions, enabling our ability to accelerate the deployment of our Clover POS and business management platform across Europe. On March 2, 2025, we acquired Payfare, Inc. (&#8220;Payfare&#8221;), a provider of program management solutions powering instant access to earnings and banking solutions for workforces. Payfare is included within the Financial segment and expands our embedded finance capabilities for large enterprises and financial institutions. We acquired these businesses for an aggregate purchase price, including deferred payments, of $857 million, net of $84 million of acquired cash and including earn-out provisions estimated at a fair value of $35 million. Disposition of Business and Other Transactions In May 2026, we entered into a definitive agreement to sell our student loan servicing business, which is reported within the Financial segment. The transaction is expected to close in the third quarter of 2026, subject to customary closing conditions. In August 2026, we formed a joint venture, MoneyPass Group, of which we will maintain a 49% ownership interest, encompassing our MoneyPass Network, ATM Managed Services and Cash Intelligence businesses, which are reported within the Financial segment. On September 5, 2025, we acquired the remaining 49.9% ownership interest, including cash held of $195 million, in AIB Merchant Services (&#8220;AIBMS&#8221;), a payments solution provider, for $420 million. On April 17, 2025, we acquired the remaining 19% ownership interest in ICICI Merchant Services Private Limited, a merchant acceptance business, for $22 million. We previously held a majority controlling financial interest in each of these subsidiaries, which continue to be consolidated and reported within the Merchant segment. In the third quarter of 2024, Wells Fargo Bank, National Association (&#8220;Wells Fargo&#8221;) provided us with a notice of non-renewal for the Wells Fargo Merchant Services merchant alliance (&#8220;WFMS&#8221;), which was accounted for as an equity method investment. Upon the expiration of the joint venture in April 2025, we received a cash payment of $453 million. In connection with the non-renewal of WFMS, we entered into a multi-year agreement with Wells Fargo to provide processing for current and future merchant clients as well as other services to Wells Fargo's merchant business. 36 Table of Contents Industry Trends The global payments landscape continues to evolve, with rapidly advancing technologies and a steady expansion of digital payments, e-commerce and real-time payments infrastructure. Because of this growth, competition also continues to intensify. Business and consumer expectations continue to rise, with a focus on speed, convenience, choice and security. To meet these expectations, payments companies are focused on modernizing their technology, expanding the use of data and enhancing the customer experience. These innovations are driving a competitive landscape where customer expectations evolve rapidly as services digitize and choices multiply. Merchants The rapid growth in and globalization of mobile and e-commerce, driven by consumers' desire for simpler, more efficient shopping experiences, has created an opportunity for merchants to reach consumers nearly anywhere, through any device, which often requires a merchant acquiring provider to enable and optimize the acceptance of payments. Consumers are increasingly using digital wallets, contactless payments, and mobile-first solutions, making omnichannel strategies that integrate online, mobile, and in-store experiences essential for customer retention. Consumers expect instant and secure checkouts, making simplified payment orchestration critical. Merchants are demanding simpler, integrated and flexible systems to enable them to serve customers and help manage cash flow and everyday business operations. When combined with the ever-increasing ways a consumer can pay for goods and services, merchants have sought modern end-to-end solutions throughout their growth lifecycle to streamline the complexity. Merchants are moving beyond traditional payment acceptance to offer embedded financial services to deepen customer relationships and create new revenue streams. Unified commerce solutions and value-added services are becoming key differentiators in competitive markets. Furthermore, merchants can now search, discover, compare, purchase and even install a new system through direct, digital-only experiences. This direct, digital-only channel is a source of new merchant acquisition opportunities, especially with respect to smaller merchants. Additionally, there are numerous software-as-a-service solution providers in the industry, many of which have chosen to integrate merchant acquiring into their software as a way to generate revenue from existing client relationships. Such providers are referred to as ISVs, and we believe there are numerous potential distribution partnership opportunities to cross-sell multiple value-added solutions available to us. We believe that our merchant acquiring products and solutions create compelling value propositions for merchant clients of all sizes, from small and mid-sized businesses to medium-sized regional businesses to global enterprise merchants. The depth and breadth of our omnichannel solutions, and flexibility to serve clients across various channels an",
+        "charRange": [
+          156583,
+          171583
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors&#8221; in our Annual Report on Form 10-K for the year ended December 31, 2025, and in other documents that we file with the Securities and Exchange Commission, which are available at http://www.sec.gov. You should consider these factors carefully in evaluating forward-looking statements and are cautioned not to place undue reliance on such statements, which speak only as of the date of this report. We undertake no obligation to update forward-looking statements to reflect events or circumstances occurring after the date of this report. Management's discussion and analysis of financial condition and results of operations is provided as a supplement to our unaudited consolidated financial statements and accompanying notes to help provide an understanding of our financial condition, the changes in our financial condition and our results of operations. Our discussion is organized as follows: &#8226; Overview. This section contains background information on: our company and the products and services that we provide, acquisitions, dispositions, other transactions and the trends affecting our industry in order to provide context for management's discussion and analysis of our financial condition and results of operations. &#8226; Changes in critical accounting policies and estimates. This section contains a discussion of changes since our Annual Report on Form 10-K for the year ended December 31, 2025 in the accounting policies that we believe are important to our financial condition and results of operations and that require judgment and estimates on the part of management in their application. &#8226; Results of operations. This section contains an analysis of our results of operations presented in the accompanying unaudited consolidated statements of income by comparing the results for the three and six months ended June 30, 2026 to the comparable period in 2025. &#8226; Liquidity and capital resources. This section provides an analysis of our cash flows and a discussion of our outstanding debt at June 30, 2026. Overview Company Background We are a global leader uniting commerce and finance. At the intersection of banking and commerce, we power sustained growth and innovation at scale for financial institutions and businesses worldwide across payments, account processing, digital 34 Table of Contents banking, merchant acquiring, network services, e-commerce, and Clover &#174; , the all-in-one business management platform. Most of the products and services we provide are necessary for our clients to operate their businesses and are therefore non-discretionary in nature. We serve our global client base by working among our geographic teams across various regions, including the United States of America (&#8220;U.S.&#8221;) and Canada; Europe, Middle East and Africa; Latin America; and Asia Pacific. Our operations are comprised of the Merchant Solutions (&#8220;Merchant&#8221;) segment and Financial Solutions (&#8220;Financial&#8221;) segment. We are focused on providing exceptional client service, world-class execution, value-added technology solutions, and cutting-edge innovation. Our long-term focus is to meet our financial commitments, deliver compelling, innovative solutions that address our clients' most critical needs, and realize productivity and efficiency gains by embedding artificial intelligence (&#8220;AI&#8221;) in our products, services and business operations. The businesses in our Merchant segment provide commerce-enabling products and services to companies of all sizes around the world. These products and services include merchant acquiring and digital commerce services; mobile payment services; security and fraud protection solutions; stored-value solutions; software-as-a-service; point-of-sale (&#8220;POS&#8221;) devices; and pay-by-bank solutions. The business lines aggregated within the Merchant segment consist of the following: &#8226; Small Business &#8211; provides products and services to small businesses and independent software vendors (&#8220;ISVs&#8221;), including Clover, our POS and business management platform for small business clients &#8226; Enterprise &#8211; provides products and services to large businesses, including our integrated omnichannel operating system for enterprise clients &#8226; Processing &#8211; provides products and services to financial institutions, joint ventures, and other third party resellers which have direct relationships with merchants We distribute the products and services in the Merchant segment businesses through a variety of channels, including direct sales teams, strategic partnerships with agent sales forces, ISVs, independent sales organizations, financial institutions and other strategic partners in the form of joint venture alliances, revenue sharing alliances and referral agreements. The businesses in our Financial segment provide products and services to financial institution, corporate and public sector clients across the world, enabling the processing of customer loan and deposit accounts, digital payments and card transactions. The business lines aggregated within the Financial segment consist of the following: &#8226; Digital Payments &#8211; provides debit card processing services; debit network services; security and fraud protection products; bill payment; person-to-person payments; and account-to-account transfers &#8226; Issuing &#8211; provides credit card processing services; prepaid card processing services; card production services; print services; government payment processing; and student loan servicing &#8226; Banking &#8211; provides customer loan and deposit account processing; digital banking; financial and risk management; professional services and consulting; and check processing Corporate and Other supports the reportable segments described above, and consists of amortization of acquisition-related intangible assets, unallocated corporate expenses and other activities that are not considered when we evaluate segment performance, such as gains or losses on sales of businesses, certain assets or investments; costs associated with acquisition and divestiture activity; expenses associated with our One Fiserv transformation initiative; postage reimbursements; and gains on early debt extinguishment associated with refinancing activities. One Fiserv Action Plan In the third quarter of 2025, we launched the One Fiserv action plan designed to prioritize and enhance client focus across five strategic pillars. The One Fiserv action plan centers our investments in areas that build on Fiserv's strengths, including: operating with a client-first mindset to grow our client base and average revenue per client; building the leading small business operating platform with Clover &#174; ; creating innovative platforms in finance and commerce to drive value for our clients, including embedded finance and stablecoin; delivering AI-enabled operational excellence and efficiency; and employing disciplined long-term capital allocation. To advance this transformation, we are simplifying and standardizing processes, adopting new ways of working, and embedding AI to create a higher-quality, more productive business. This approach rethinks how business functions operate and aligns our product portfolio for the future. We are modernizing our technology infrastructure, enhancing resiliency, and reengineering our operating model through AI and advanced automation. We expect these efforts to strengthen efficiency, scalability, and innovation to deliver differentiated value and an exceptional experience for our clients. 35 Table of Contents Acquisitions, Dispositions and Other Transactions We frequently review our businesses to ensure we have the necessary assets to execute our strategy. We expect to acquire businesses when we identify: a compelling strategic need, such as a product, service or technology that helps meet client demand; a way to achieve business scale that enables competition and operational efficiency; or similar considerations. We expect to divest businesses that are not in line with our market, product or financial strategies. The results of operations for the following acquired businesses are included in our consolidated results from the respective dates of acquisition. Acquisitions of Businesses On December 17, 2025, we acquired StoneCastle Cash Management, LLC, INDX Processing, LLC and StoneCastle Trust Co. (collectively, &#8220;StoneCastle&#8221;), a provider of deposit funding solutions. StoneCastle is included within the Financial segment and provides its network of depository institutions easy access to stable, cost efficient deposit funding. On October 1, 2025, we acquired a portion of The Toronto-Dominion Bank's merchant processing business in Canada (&#8220;TD Merchant Canada&#8221;). This business is included within the Merchant segment and expands the footprint of our Clover &#174; platform. In connection with this transaction, we signed a multi-year strategic managed services program agreement with The Toronto-Dominion Bank to utilize our technology, including Clover, within its Merchant Solutions business. On September 25, 2025, we acquired the Smith Consulting Group, LLC business (&#8220;SCG&#8221;), an operational consulting service utilized by community banks and credit unions across the U.S. SCG is included within the Financial segment and supports our ability to provide consultative engagement to enhance community banks' and credit unions' strategic investments. On September 4, 2025, we acquired CardFree Inc. (&#8220;CardFree&#8221;), an all-in-one platform delivering integrated order, payment and loyalty solutions for merchants. CardFree is included within the Merchant segment and further expands the capabilities of our Clover platform across the hospitality, restaurant and lodging industries. On June 4, 2025, we acquired Money Money Servi&#231;os Financeiros S.A. (&#8220;Money Money&#8221;), a provider of risk analysis and credit decisioning solutions. Money Money is included within the Merchant segment and expands our payment and financial service capabilities, enabling access to working capital and other payment solutions for small and medium-sized businesses. On April 4, 2025, we acquired Pinch Payments NZ Limited (together with Zootive Pty Ltd, &#8220;Pinch Payments&#8221;), a payment facilitator. Pinch Payments is included within the Merchant segment and expands our flexible payment services for our partners and clients and our presence within the Asia-Pacific region. On March 18, 2025, we acquired CCV Group B.V. (&#8220;CCV&#8221;), a supplier of POS payment solutions. CCV is included within the Merchant segment and expands our network of payment solutions, enabling our ability to accelerate the deployment of our Clover POS and business management platform across Europe. On March 2, 2025, we acquired Payfare, Inc. (&#8220;Payfare&#8221;), a provider of program management solutions powering instant access to earnings and banking solutions for workforces. Payfare is included within the Financial segment and expands our embedded finance capabilities for large enterprises and financial institutions. We acquired these businesses for an aggregate purchase price, including deferred payments, of $857 million, net of $84 million of acquired cash and including earn-out provisions estimated at a fair value of $35 million. Disposition of Business and Other Transactions In May 2026, we entered into a definitive agreement to sell our student loan servicing business, which is reported within the Financial segment. The transaction is expected to close in the third quarter of 2026, subject to customary closing conditions. In August 2026, we formed a joint venture, MoneyPass Group, of which we will maintain a 49% ownership interest, encompassing our MoneyPass Network, ATM Managed Services and Cash Intelligence businesses, which are reported within the Financial segment. On September 5, 2025, we acquired the remaining 49.9% ownership interest, including cash held of $195 million, in AIB Merchant Services (&#8220;AIBMS&#8221;), a payments solution provider, for $420 million. On April 17, 2025, we acquired the remaining 19% ownership interest in ICICI Merchant Services Private Limited, a merchant acceptance business, for $22 million. We previously held a majority controlling financial interest in each of these subsidiaries, which continue to be consolidated and reported within the Merchant segment. In the third quarter of 2024, Wells Fargo Bank, National Association (&#8220;Wells Fargo&#8221;) provided us with a notice of non-renewal for the Wells Fargo Merchant Services merchant alliance (&#8220;WFMS&#8221;), which was accounted for as an equity method investment. Upon the expiration of the joint venture in April 2025, we received a cash payment of $453 million. In connection with the non-renewal of WFMS, we entered into a multi-year agreement with Wells Fargo to provide processing for current and future merchant clients as well as other services to Wells Fargo's merchant business. 36 Table of Contents Industry Trends The global payments landscape continues to evolve, with rapidly advancing technologies and a steady expansion of digital payments, e-commerce and real-time payments infrastructure. Because of this growth, competition also continues to intensify. Business and consumer expectations continue to rise, with a focus on speed, convenience, choice and security. To meet these expectations, payments companies are focused on modernizing their technology, expanding the use of data and enhancing the customer experience. These innovations are driving a competitive landscape where customer expectations evolve rapidly as services digitize and choices multiply. Merchants The rapid growth in and globalization of mobile and e-commerce, driven by consumers' desire for simpler, more efficient shopping experiences, has created an opportunity for merchants to reach consumers nearly anywhere, through any device, which often requires a merchant acquiring provider to enable and optimize the acceptance of payments. Consumers are increasingly using digital wallets, contactless payments, and mobile-first solutions, making omnichannel strategies that integrate online, mobile, and in-store experiences essential for customer retention. Consumers expect instant and secure checkouts, making simplified payment orchestration critical. Merchants are demanding simpler, integrated and flexible systems to enable them to serve customers and help manage cash flow and everyday business operations. When combined with the ever-increasing ways a consumer can pay for goods and services, merchants have sought modern end-to-end solutions throughout their growth lifecycle to streamline the complexity. Merchants are moving beyond traditional payment acceptance to offer embedded financial services to deepen customer relationships and create new revenue str",
+        "charRange": [
+          155426,
+          170426
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 137098,
+            "context": "ed under financing arrangements 19 193 Right-of-use assets obtained in exchange for lease liabilities - operating leases 223 28 Right-of-use assets obtained in exchange for lease liabilities - finance leases 450 259 17. Commitments and Contingencies Litigation and Investigation Matters In the normal course of business, the Company or its subsidiaries are named as defendants in lawsuits in which claims are asserted against the Company. The Company maintained an accrual of $ 18 million and $ 25 million at June 30, 2026 and December 31, 2025, respectively, related to its various legal proceedings"
+          },
+          {
+            "charIndex": 138651,
+            "context": "t platform and the impact of the Company's Argentina business on its organic growth were false and/or misleading and led to a decline in the Company's stock price over the purported class period. The action is captioned In re Fiserv, Inc. Securities Litigation , No. 1:25-cv-06094. Between December 10, 2025 and February 3, 2026, derivative complaints were filed by purported Company shareholders Richard Martin, Nathan Silva, and Gary Peterson in the United States District Court for the Eastern District of Wisconsin. On May 18, 2026 and June 3, 2026, respectively, these actions were consolidated"
+          },
+          {
+            "charIndex": 139750,
+            "context": "any as the nominal defendant, and generally allege that certain individual defendants breached their fiduciary duties and violated the Exchange Act in connection with, among other things, factual allegations made in the In re Fiserv, Inc. Securities Litigation action. The actions also allege that certain individual defendants are liable for trading in Company stock at artificially inflated prices. The actions are stayed pending a decision on a forthcoming motion to dismiss in the In re Fiserv, Inc. Securities Litigation action. The Company has also received demands on the board of directors fr"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 73894,
+            "context": "odel for the application of hedge accounting to cash flow hedges of interest payments on choose-your-rate debt instruments; the ability to designate a variable price component of a forecasted purchase or sale of a nonfinancial asset; and refines the guidance for net written options as hedging instruments and for a dual hedge strategy involving foreign currency denominated debt. For public entities, the provisions within ASU 2025-09 are effective for fiscal years beginning after December 15, 2026, and for interim reporting periods within those fiscal years. The provisions within ASU 2025-09 are"
+          },
+          {
+            "charIndex": 76208,
+            "context": "option of ASU 2024-03 will have on its consolidated financial statement disclosures. In 2025, the FASB issued ASU No. 2025-06, Targeted Improvements to the Accounting for Internal-Use Software (&#8220;ASU 2025-06&#8221;), to modernize the accounting guidance for costs to develop software for internal use. ASU 2025-06 amends the existing standard that refers to various stages of a software development project to better align with current software development methods, such as agile programming. Under ASU 2025-06, cost capitalization begins when management has authorized and committed to funding"
+          },
+          {
+            "charIndex": 77487,
+            "context": "ted financial statements and disclosures. In 2025, the FASB issued ASU No. 2025-10, Government Grants (Topic 832): Accounting for Government Grants Received by Business Entities (&#8220;ASU 2025-10&#8221;), which amends Topic 832 to provide specific guidance on the recognition, measurement, presentation and disclosure of government grants received by business entities, including both monetary and certain non-monetary grants. For public entities, the provisions within ASU 2025-10 are effective for annual and interim periods beginning after December 15, 2028, with early adoption permitted. The p"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 152679,
+            "context": "the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. Forward-looking statements include those that express a plan, belief, expectation, estimation, anticipation, intent, contingency, future development, outlook, or similar expression, and can generally be identified as forward-looking because they include words such as &#8220;believes,&#8221; &#8220;anticipates,&#8221; &#8220;expects,&#8221; &#8220;could,&#8221; &#8220;should,&#8221; &#8220;confident,&#8221; &#8220;likely,&#8221; &#8220;plan,&#8221; or words of similar meaning. Statements that des"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 64022,
+            "context": "lease liabilities in the consolidated balance sheet. Goodwill Goodwill represents the excess of purchase price over the fair value of identifiable assets acquired and liabilities assumed in a business combination. The Company evaluates goodwill for impairment on an annual basis, or more frequently if circumstances indicate possible impairment. Goodwill is tested for impairment at a reporting unit level, which is one level below the Company's operating segments. During its annual impairment a ssessment as of October 1, 2025, the Company performed a quantitative test for each of its reporting u"
+          },
+          {
+            "charIndex": 64107,
+            "context": "e excess of purchase price over the fair value of identifiable assets acquired and liabilities assumed in a business combination. The Company evaluates goodwill for impairment on an annual basis, or more frequently if circumstances indicate possible impairment. Goodwill is tested for impairment at a reporting unit level, which is one level below the Company's operating segments. During its annual impairment a ssessment as of October 1, 2025, the Company performed a quantitative test for each of its reporting units and determined that its goodwill was not impaired as the estimated fair values e"
+          },
+          {
+            "charIndex": 64142,
+            "context": "fair value of identifiable assets acquired and liabilities assumed in a business combination. The Company evaluates goodwill for impairment on an annual basis, or more frequently if circumstances indicate possible impairment. Goodwill is tested for impairment at a reporting unit level, which is one level below the Company's operating segments. During its annual impairment a ssessment as of October 1, 2025, the Company performed a quantitative test for each of its reporting units and determined that its goodwill was not impaired as the estimated fair values exceeded the respective carrying val"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 154734,
+            "context": "ey may have on us and our employees, clients, vendors, supply chain, operations and sales; our ability to use artificial intelligence to improve our products and services and enhance our operations; the effect of proposed and enacted legislative and regulatory actions affecting us or the financial services industry as a whole; our ability to comply with government regulations and applicable card association and network rules; the protection and validity of intellectual property rights; the outcome of pending and future litigation and governmental proceedings; our ability to successfully identi"
+          },
+          {
+            "charIndex": 172463,
+            "context": "nding and investment products, and the distinctions among the products and services traditionally offered by different types of financial institutions continue to narrow as they seek to serve the same customers. At the same time, the evolving global regulatory and cybersecurity landscape has continued to create a challenging operating environment for financial institutions. These conditions are driving heightened interest in solutions that help financial institutions win and retain customers, generate revenue, comply with regulations and enhance operating efficiency. In addition, the focus on"
+          },
+          {
+            "charIndex": 174224,
+            "context": "s on faster, more convenient options across mobile channels, online applications, in-store cards, and digital currencies. Financial institutions are adopting advanced technologies, introducing new solutions, and responding to an increasingly complex regulatory landscape. We expect that financial institutions will continue to invest significant capital to process transactions, manage information, maintain regulatory 37 Table of Contents compliance and offer innovative new services to their customers in this rapidly evolving and competitive environmental shift from traditional to digital banking"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 43980,
+            "context": "d Balance Sheets (In millions) (Unaudited) June 30, 2026 December 31, 2025 Assets Cash and cash equivalents $ 627 $ 798 Trade accounts receivable, less allowance for doubtful accounts 3,909 3,981 Prepaid expenses and other current assets 3,077 3,396 Settlement assets 17,561 16,479 Assets held for sale 190 — Total current assets 25,364 24,654 Property and equipment, net 3,328 3,084 Customer relationships, net 4,588 5,093 Other intangible assets, net 5,124 5,068 Goodwill 37,524 37,703 Contract costs, net 1,029 1,039 Investments in unconsolidated affiliates 1,031 1,046 Other long-term assets 2,89"
+          },
+          {
+            "charIndex": 44548,
+            "context": ",046 Other long-term assets 2,898 2,446 Total assets $ 80,886 $ 80,133 Liabilities and Equity Accounts payable and other current liabilities $ 4,707 $ 5,307 Short-term and current maturities of long-term debt 1,207 1,239 Contract liabilities 819 865 Settlement obligations 17,561 16,479 Liabilities associated with assets held for sale 13 — Total current liabilities 24,307 23,890 Long-term debt 26,679 27,758 Deferred income taxes 1,589 1,478 Long-term contract liabilities 260 259 Other long-term liabilities 1,125 939 Total liabilities 53,960 54,324 Commitments and Contingencies (see Note 17) Fis"
+          },
+          {
+            "charIndex": 47166,
+            "context": "g capitalized software and other intangibles ( 956 ) ( 814 ) Proceeds from sale of assets 187 — Merchant cash advances, including Clover Capital program ( 566 ) — Repayments and sales of merchant cash advances, including Clover Capital program 678 — Settlement anticipation cash advances, net 188 ( 539 ) Payments for acquisition of businesses, net of cash acquired — ( 337 ) Distributions from unconsolidated affiliates 8 13 Purchases of investments ( 16 ) ( 41 ) Proceeds from sale of investments 15 474 Other investing activities 3 ( 19 ) Net cash used in investing activities ( 459 ) ( 1,263 ) 4"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 50618,
+            "context": "or benefit is reported within the income tax provision in the consolidated statements of income. Significant influence over an affiliate's operations generally coincides with an ownership interest of between 20% and 50%; for partnerships and limited liability companies, an ownership interest of between 3% and 50%; or board of director representation may also constitute significant influence. Noncontrolling interests in entities of which the Company maintains a majority controlling financial interest represent the minority shareholders' share of the net income or loss and equity in consolidated"
+          },
+          {
+            "charIndex": 68725,
+            "context": "the underlying foreign currency-denominated subsidiaries. 9 Table of Contents Derivatives Derivatives are entered into for periods consistent with related underlying exposures and are recorded in the consolidated balance sheets as either an asset or liability measured at fair value. If the derivative is designated as a cash flow hedge, changes in the fair value of the derivative are recorded as a component of accumulated other comprehensive loss and recognized in the consolidated statements of income when the hedged item affects earnings. If the derivative is designated as a net investment hed"
+          },
+          {
+            "charIndex": 81707,
+            "context": "ities primarily relate to advance consideration received from customers (deferred revenue) for which transfer of control occurs, and therefore revenue is recognized, as services are provided. Contract balances are reported in a net contract asset or liability position on a contract-by-contract basis at the end of each reporting period. The Company recognized $ 572 million of revenue during the six months ended June 30, 2026 that was included in the contract liabilities balance at the beginning of the period. 12 Table of Contents Transaction Price Allocated to Remaining Performance Obligations"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-02-19",
+        "reportDate": "2025-12-31",
+        "accessionNumber": "0000798354-26-000009",
+        "primaryDocument": "fi-20251231.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000009/fi-20251231.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000009/"
+      },
+      "textLength": 466986,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS",
+        "text": "management's discussion and analysis of our financial condition and results of operations. &#8226; Critical accounting policies and estimates . This section contains a discussion of the accounting policies that we believe are important to our financial condition and results of operations and that require judgment and estimates on the part of management in their application. Our critical accounting policies are also summarized in Note 1 to the accompanying consolidated financial statements. 27 Table of Contents &#8226; Results of operations . This section contains an analysis of our results of operations presented in the accompanying consolidated statements of income by comparing the results for the year ended December 31, 2025 to the results for the year ended December 31, 2024. &#8226; Liquidity and capital resources . This section provides an analysis of our cash flows and a discussion of our outstanding debt and commitments at December 31, 2025. Overview Company Background We are a leading global provider of payments and financial services technology solutions. We serve clients around the globe, including merchants, banks, credit unions, other financial institutions, corporate and public sector clients. We help clients achieve best-in-class results through a commitment to innovation and excellence in areas including account processing and digital banking solutions; card issuer processing and network services; payments; e-commerce; merchant acquiring and processing; and the Clover &#174; cloud-based point-of-sale (&#8220;POS&#8221;) and business management platform. Most of the products and services we provide are necessary for our clients to operate their businesses and are therefore non-discretionary in nature. We serve our global client base by working among our geographic teams across various regions, including the United States of America (&#8220;U.S.&#8221;) and Canada; Europe, Middle East and Africa; Latin America; and Asia Pacific. Our operations are comprised of the Merchant Solutions (&#8220;Merchant&#8221;) segment and Financial Solutions (&#8220;Financial&#8221;) segment. We are focused on providing exceptional client service, world-class execution, value-added technology solutions, and cutting-edge innovation. Our long-term focus is to meet our financial commitments, deliver compelling, innovative solutions that address our clients' most critical needs, and realize productivity and efficiency gains by embedding artificial intelligence (&#8220;AI&#8221;) in our products, services and business operations. The businesses in our Merchant segment provide commerce-enabling products and services to companies of all sizes around the world. These products and services include merchant acquiring and digital commerce services; mobile payment services; security and fraud protection solutions; stored-value solutions; software-as-a-service; POS devices; and pay-by-bank solutions. The business lines aggregated within the Merchant segment consist of the following: &#8226; Small Business &#8211; provides products and services to small businesses and independent software vendors (&#8220;ISV&#8221;), including Clover, our POS and business management platform for small business clients &#8226; Enterprise &#8211; provides products and services to large businesses, including our integrated omnichannel operating system for enterprise clients &#8226; Processing &#8211; provides products and services to financial institutions, joint ventures, and other third party resellers which have direct relationships with merchants We distribute the products and services in the Merchant segment businesses through a variety of channels, including direct sales teams, strategic partnerships with agent sales forces, ISV's, independent sales organizations, financial institutions and other strategic partners in the form of joint venture alliances, revenue sharing alliances and referral agreements. The businesses in our Financial segment provide products and services to financial institution, corporate and public sector clients across the world, enabling the processing of customer loan and deposit accounts, digital payments and card transactions. The business lines aggregated within the Financial segment consist of the following: &#8226; Digital Payments &#8211; provides debit card processing services; debit network services; security and fraud protection products; bill payment; person-to-person payments; and account-to-account transfers &#8226; Issuing &#8211; provides credit card processing services; prepaid card processing services; card production services; print services; government payment processing; and student loan processing &#8226; Banking &#8211; provides customer loan and deposit account processing; digital banking; financial and risk management; professional services and consulting; and check processing Corporate and Other supports the reportable segments described above, and consists of amortization of acquisition-related intangible assets, unallocated corporate expenses and other activities that are not considered when we evaluate segment performance, such as gains or losses on sales of businesses, certain assets or investments; costs associated with acquisition and divestiture activity; certain services revenue associated with various dispositions; expenses associated with our transformation initiative focused on operational excellence; and postage reimbursements. 28 Table of Contents One Fiserv Action Plan In the third quarter of 2025, we launched the One Fiserv action plan designed to prioritize and enhance client focus across five strategic pillars. The One Fiserv action plan centers our investments in areas that build on Fiserv's strengths, including: operating with a client-first mindset to win new enterprise clients and grow average revenue per client; building the pre-eminent small business operating platform through Clover &#174; ; creating differentiated, innovative platforms in finance and commerce, including embedded finance and stablecoin; delivering operational excellence enabled by AI; and employing disciplined capital allocation for the long-term. To advance this transformation, we are simplifying and standardizing processes, adopting new ways of working, and embedding AI to create a higher-quality, more productive business. This approach rethinks how business functions operate and aligns our product portfolio for the future. We are modernizing our technology infrastructure, enhancing resiliency, and reengineering our operating model through AI and advanced automation. We expect these efforts to strengthen efficiency, scalability, and innovation to deliver differentiated value and an exceptional experience for our clients. Acquisitions and Other Transactions We frequently review our businesses to ensure we have the necessary assets to execute our strategy. We expect to acquire businesses when we identify: a compelling strategic need, such as a product, service or technology that helps meet client demand; a way to achieve business scale that enables competition and operational efficiency; or similar considerations. We expect to divest businesses that are not in line with our market, product or financial strategies. The results of operations for the following acquired businesses are included in our consolidated results from the respective dates of acquisition. Acquisitions of Businesses On December 17, 2025, we acquired StoneCastle Cash Management, LLC, INDX Processing, LLC and StoneCastle Trust Co. (collectively, &#8220;StoneCastle&#8221;), a provider of deposit funding solutions. StoneCastle is included within the Financial segment and provides its network of depository institutions easy access to stable, cost efficient deposit funding. On October 1, 2025, we acquired a portion of The Toronto-Dominion Bank's merchant processing business in Canada (&#8220;TD Merchant Canada&#8221;). This business is included within the Merchant segment and expands the footprint of our Clover &#174; platform. In connection with this transaction, we signed a multi-year strategic managed services program agreement with The Toronto-Dominion Bank to utilize our technology, including Clover, within its Merchant Solutions business. On September 25, 2025, we acquired the Smith Consulting Group, LLC business (&#8220;SCG&#8221;), an operational consulting service utilized by community banks and credit unions across the U.S. SCG is included within the Financial segment and supports our ability to provide consultative engagement to enhance community banks' and credit unions' strategic investments. On September 4, 2025, we acquired CardFree Inc. (&#8220;CardFree&#8221;), an all-in-one platform delivering integrated order, payment and loyalty solutions for merchants. CardFree is included within the Merchant segment and further expands the capabilities of our Clover platform across the hospitality, restaurant and lodging industries. On June 4, 2025, we acquired Money Money Servi&#231;os Financeiros S.A. (&#8220;Money Money&#8221;), a provider of risk analysis and credit decisioning solutions. Money Money is included within the Merchant segment and expands our payment and financial service capabilities, enabling access to working capital and other payment solutions for small and medium-sized businesses. On April 4, 2025, we acquired Pinch Payments NZ Limited (together with Zootive Pty Ltd, &#8220;Pinch Payments&#8221;), a payment facilitator. Pinch Payments is included within the Merchant segment and expands our flexible payment services for our partners and clients and our presence within the Asia-Pacific region. On March 18, 2025, we acquired CCV Group B.V. (&#8220;CCV&#8221;), a supplier of POS payment solutions. CCV is included within the Merchant segment and expands our network of payment solutions, enabling our ability to accelerate the deployment of our Clover POS and business management platform across Europe. On March 2, 2025, we acquired Payfare, Inc. (&#8220;Payfare&#8221;), a provider of program management solutions powering instant access to earnings and banking solutions for workforces. Payfare is included within the Financial segment and expands our embedded finance capabilities for large enterprises and financial institutions. We acquired these businesses for an aggregate purchase price, including deferred payments, of $856 million, net of $84 million of acquired cash and including earn-out provisions estimated at a fair value of $35 million. Other Transactions On September 5, 2025, we acquired the remaining 49.9% ownership interest, including cash held of $195 million, in AIB Merchant Services (&#8220;AIBMS&#8221;), a payments solution provider, for $420 million. On April 17, 2025, we acquired the remaining 19% ownership interest in ICICI Merchant Services Private Limited, a merchant acceptance business, for $22 million. We 29 Table of Contents previously held a majority controlling financial interest in each of these subsidiaries, which continue to be consolidated and reported within the Merchant segment. In the third quarter of 2024, Wells Fargo Bank, National Association (&#8220;Wells Fargo&#8221;) provided us with a notice of non-renewal for the Wells Fargo Merchant Services merchant alliance (&#8220;WFMS&#8221;), which was accounted for as an equity method investment. Upon the expiration of the joint venture on April 1, 2025, we received an initial cash payment of $453 million. Completion of the contractual valuation and separation process during the third quarter of 2025 did not result in a significant adjustment to the initial cash payment received. In connection with the non-renewal of WFMS, we entered into a multi-year agreement with Wells Fargo to provide processing for current and future merchant clients as well as other services to Wells Fargo's merchant business. Industry Trends The global payments landscape continues to evolve, with rapidly advancing technologies and a steady expansion of digital payments, e-commerce and real-time payments infrastructure. Because of this growth, competition also continues to intensify. Business and consumer expectations continue to rise, with a focus on speed, convenience, choice and security. To meet these expectations, payments companies are focused on modernizing their technology, expanding the use of data and enhancing the customer experience. These innovations are driving a competitive landscape where customer expectations evolve rapidly as services digitize and choices multiply. Merchants The rapid growth in and globalization of mobile and e-commerce, driven by consumers' desire for simpler, more efficient shopping experiences, has created an opportunity for merchants to reach consumers nearly anywhere, through any device, which often requires a merchant acquiring provider to enable and optimize the acceptance of payments. Consumers are increasingly using digital wallets, contactless payments, and mobile-first solutions, making omnichannel strategies that integrate online, mobile, and in-store experiences essential for customer retention. Consumers expect instant and secure checkouts, making simplified payment orchestration critical. Merchants are demanding simpler, integrated and flexible systems to enable them to serve customers and help manage cash flow and everyday business operations. When combined with the ever-increasing ways a consumer can pay for goods and services, merchants have sought modern end-to-end solutions throughout their growth lifecycle to streamline the complexity. Merchants are moving beyond traditional payment acceptance to offer embedded financial services to deepen customer relationships and create new revenue streams. Unified commerce solutions and value-added services are becoming key differentiators in competitive markets. Furthermore, merchants can now search, discover, compare, purchase and even install a new system through direct, digital-only experiences. This direct, digital-only channel is a source of new merchant acquisition opportunities, especially with respect to smaller merchants. Additionally, there are numerous software-as-a-service solution providers in the industry, many of which have chosen to integrate merchant acquiring into their software as a way to generate revenue from existing client relationships. Such providers are independent software vendors, typically referred to as ISVs, and we believe there are numerous potential distribution partnership opportunities to cross-sell multiple value-added solutions available to us. We believe that our merchant acquiring products and solutions create compelling value propositions for merchant clients of all sizes, from small and mid-sized businesses to medium-sized regional businesses to global enterprise merchants. The depth and breadth of our omnichannel solutions, and flexibility to serve clients across various channels and geographies, drives higher product attach rates with new a",
+        "charRange": [
+          179379,
+          194379
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "risk factors, such as FICO score, number of years the lessee has been in business and the nature of the lessee's industry, which are considered indicators of the likelihood a lessee may default in the future. The allowance for estimated credit losses on lease payment receivables was $ 55 million and $ 50 million at December 31, 2025 and 2024, respectively. The Company determines delinquency status on lease payment receivables based on the number of calendar days past due. The Company considers lease payments that are 90 days or less past due as performing. Lease payments that are greater than 90 days past due are placed on non-accrual status in which interest income within product revenue is no longer recognized. Lease payment receivables are fully written off in the period they become delinquent greater than 180 days past due. Lease payment receivables that were determined to be on non-accrual status were nominal at each of December 31, 2025 and 2024. 77 Table of Contents 12. Debt The Company's debt consisted of the following: December 31, (In millions) 2025 2024 Short-term and current maturities of long-term debt: Foreign lines of credit $ 762 $ 784 Finance lease and other financing obligations 477 326 Total short-term and current maturities of long-term debt $ 1,239 $ 1,110 Long-term debt: 3.850 % senior notes due June 2025 $ — $ 900 2.250 % senior notes due July 2025 (British Pound-denominated) — 661 3.200 % senior notes due July 2026 2,000 2,000 5.150 % senior notes due March 2027 750 750 2.250 % senior notes due June 2027 1,000 1,000 1.125 % senior notes due July 2027 (Euro-denominated) 589 521 5.450 % senior notes due March 2028 900 900 2.875 % senior notes due June 2028 (Euro-denominated) 883 — 5.375 % senior notes due August 2028 700 700 4.200 % senior notes due October 2028 1,000 1,000 3.500 % senior notes due July 2029 3,000 3,000 4.750 % senior notes due March 2030 850 850 2.650 % senior notes due June 2030 1,000 1,000 1.625 % senior notes due July 2030 (Euro-denominated) 589 521 4.550 % senior notes due February 2031 1,000 — 5.350 % senior notes due March 2031 500 500 4.500 % senior notes due May 2031 (Euro-denominated) 942 835 3.000 % senior notes due July 2031 (British Pound-denominated) 709 661 3.500 % senior notes due June 2032 (Euro-denominated) 912 — 5.600 % senior notes due March 2033 900 900 5.625 % senior notes due August 2033 1,300 1,300 5.450 % senior notes due March 2034 750 750 5.150 % senior notes due August 2034 900 900 5.250 % senior notes due August 2035 1,000 — 4.000 % senior notes due June 2036 (Euro-denominated) 765 — 4.400 % senior notes due July 2049 2,000 2,000 U.S. dollar commercial paper notes 326 221 Euro commercial paper notes 839 1,239 Revolving credit facility 188 115 Unamortized discount and deferred financing costs ( 169 ) ( 150 ) Finance lease and other financing obligations 1,635 656 Total long-term debt $ 27,758 $ 23,730 78 Table of Contents Annual maturities of the Company's total debt were as follows at December 31, 2025: (In millions) Year Ending December 31, 2026 $ 1,239 2027 2,804 2028 3,885 2029 3,364 2030 6,037 Thereafter 11,837 Total principal payments 29,166 Unamortized discount and deferred financing costs ( 169 ) Total debt $ 28,997 The Company was in compliance with all financial debt covenants during the year ended December 31, 2025. Senior Notes The Company has outstanding $ 24.9 billion of various fixed-rate senior notes, as described above. The indentures governing the Company's senior notes contain covenants that, among other matters, limit (i) the Company's ability to consolidate or merge with or into, or convey, transfer or lease all or substantially all of its properties and assets to, another person, (ii) the Company's and certain of its subsidiaries' ability to create or assume liens, and (iii) the Company's and certain of its subsidiaries' ability to engage in sale and leaseback transactions. The Company may, at its option, redeem the senior notes, in whole or in part, at any time and from time to time, at the applicable redemption price. Interest on the Company's U.S. dollar-denominated senior notes is paid semi-annually, while interest on its Euro- and British Pound-denominated senior notes is paid annually. The interest rate applicable to certain of the senior notes is subject to an increase of up to two percent in the event that the credit rating assigned to such notes is downgraded below investment grade. On August 11, 2025, the Company completed the public offering and issuance of $ 2.0 billion of senior notes, comprised of $ 1.0 billion aggregate principal amount of 4.550 % senior notes due in February 2031 and $ 1.0 billion aggregate principal amount of 5.250 % senior notes due in August 2035. Interest on these senior notes is paid semi-annually. The Company used the net proceeds from this senior notes offering for general corporate purposes, including the repayment of a portion of the Company's commercial paper notes and for share repurchases. On May 7, 2025, Fiserv Funding Unlimited Company, an indirect wholly owned subsidiary of the Company, completed the public offering and issuance of &#8364; 2.175 billion of senior notes, comprised of &#8364; 750 million aggregate principal amount of 2.875 % senior notes due in June 2028, &#8364; 775 million aggregate principal amount of 3.500 % senior notes due in June 2032 and &#8364; 650 million aggregate principal amount of 4.000 % senior notes due in June 2036. These notes are fully and unconditionally guaranteed on a senior unsecured basis by the Company. Interest on these senior notes is paid annually. The Company used the net proceeds from this senior notes offering for general corporate purposes, including the repayment of a portion of the Company's commercial paper notes, 3.850 % senior notes due in June 2025 and 2.250 % senior notes due in July 2025. On August 12, 2024, the Company completed the public offering and issuance of $ 1.75 billion of senior notes, comprised of $ 850 million aggregate principal amount of 4.750 % senior notes due in March 2030 and $ 900 million aggregate principal amount of 5.150 % senior notes due in August 2034. Interest on these senior notes is paid semi-annually. The Company used the net proceeds from this senior notes offering for general corporate purposes, including the repayment of a portion of the Company's commercial paper notes and for share repurchases. On March 4, 2024, the Company completed the public offering and issuance of $ 2.0 billion of senior notes, comprised of $ 750 million aggregate principal amount of 5.150 % senior notes due in March 2027, $ 500 million aggregate principal amount of 5.350 % senior notes due in March 2031 and $ 750 million aggregate principal amount of 5.450 % senior notes due in March 2034. Interest on these senior notes is paid semi-annually. The Company used the net proceeds from this senior notes offering for general corporate purposes, including the repayment of a portion of the Company's commercial paper notes and for share repurchases, and in July 2024, the repayment of a portion of its 2.750 % senior notes due in July 2024. At December 31, 2025, the 3.200 % senior notes due in July 2026 were classified in the consolidated balance sheet as long-term, as the Company has the ability to refinance such debt under its revolving credit facility. 79 Table of Contents Commercial Paper The Company maintains unsecured U.S. dollar and Euro commercial paper programs. From time to time, the Company may issue under these programs U.S. dollar commercial paper with maturities of up to 397 days from the date of issuance and Euro commercial paper with maturities of up to 183 days from the date of issuance. Outstanding borrowings under the U.S. dollar program were $ 326 million and $ 221 million at December 31, 2025 and 2024, with weighted average interest rates of 3.851 % and 4.534 %, respectively. Outstanding borrowings under the Euro program were $ 839 million and $ 1.2 billion at December 31, 2025 and 2024, with weighted average interest rates of 2.210 % and 3.115 %, respectively. The Company intends to maintain available capacity under its revolving credit facility, as described below, in an amount at least equal to the aggregate outstanding borrowings under its commercial paper programs. Outstanding borrowings under the commercial paper programs are classified in the consolidated balance sheets as long-term as the Company has the intent to refinance this commercial paper on a long-term basis through the continued issuance of new commercial paper upon maturity, and the Company also has the ability to refinance such commercial paper under its revolving credit facility. Revolving Credit Facility On August 12, 2025, the Company entered into a new senior unsecured multicurrency revolving credit facility with substantially the same syndicate of banks that were leaders under its prior revolving credit facility, which the Company voluntarily terminated and replaced. The new credit facility matures in August 2030 and provides for a maximum aggregate principal amount of availability of $ 8.0 billion. Borrowings under the credit facility bear interest at a variable base rate, determined by the term and currency of the borrowing, plus a specified margin based on the Company's long-term debt rating. Outstanding borrowings under the revolving credit facilities were $ 188 million and $ 115 million at December 31, 2025 and 2024, with corresponding interest rates of 4.685 % and 5.440 %, respectively. The new credit facility also requires the Company to pay a facility fee based on the aggregate commitments in effect under the agreement from time to time. The credit facility contains various restrictions and covenants that require the Company to, among other things, limit its consolidated indebtedness as of the end of each fiscal quarter to no more than 3.75 times the Company's consolidated net income before interest, taxes, depreciation, amortization, non-cash charges and expenses and certain other adjustments during the period of four fiscal quarters then ended, subject to certain exceptions. Foreign Lines of Credit The Company maintains various short-term lines of credit and other borrowing arrangements with foreign banks and alliance partners primarily to fund merchant settlement advances associated with operations in Latin America through the Company's settlement anticipation program. The following table provides a summary of the outstanding borrowings and weighted average interest rates of the Company's foreign lines of credit and other borrowing arrangements by country at December 31: Outstanding Borrowings (In millions) Weighted-Average Interest Rate 2025 2024 2025 2024 Argentina $ 282 $ 597 51.559 % 38.470 % Brazil 365 94 15.482 % 12.976 % Uruguay and Other 115 93 7.964 % 7.014 % Total $ 762 $ 784 27.727 % 31.695 % Deferred Financing Costs Deferred financing costs are amortized as a component of interest expense, net over the term of the underlying debt using the straight-line method. Deferred financing costs related to the Company's senior notes totaled $ 114 million and $ 103 million at December 31, 2025 and 2024, respectively, and are reported as a direct reduction of the related debt instrument in the consolidated balance sheets. Deferred financing costs related to the Company's revolving credit facility totaled $ 13 million and $ 5 million at December 31, 2025 and 2024, respectively, and are reported within other long-term assets in the consolidated balance sheets. 13. Redeemable Noncontrolling Interest The minority partner in one of the Company's merchant alliance joint ventures maintained a redeemable noncontrolling 1 % interest which was presented outside of equity and carried at its estimated redemption value. The minority partner was entitled to a contractually determined share of the entity's income, and the joint venture agreement contained redemption features whereby the interest held by the minority partner was redeemable either (i) at the option of the holder or (ii) upon the occurrence of an event that is not solely within the Company's control. 80 Table of Contents Effective June 2024, the Company and the merchant alliance joint venture minority partner mutually agreed to terminate the joint venture agreement on September 1, 2024. Under the provisions of the separation agreement, the Company redeemed the minority partner's membership interest in exchange for a future distribution of certain merchant contracts. The redeemable noncontrolling interest was adjusted in the second quarter of 2024 to reflect the estimated redemption value, with a corresponding adjustment recorded to additional paid-in capital within the consolidated statement of equity. Additionally, as the redeemable noncontrolling interest became mandatorily redeemable, the Company's obligation to satisfy the purchase of the minority partner's membership interest was classified as a current liability in the consolidated balance sheet. The distribution of certain merchant contracts for the redemption of the minority partner's membership interest was settled in the third quarter of 2025, resulting in a gain of $ 89 million recorded within net gain on sale of business and distribution of other assets in the consolidated statement of income. There was no associated tax impact on this gain. The Company maintains an ongoing relationship with the former minority partner to provide processing and other support services following the termination of the joint venture agreement. The following table presents a summary of the redeemable noncontrolling interest activity during the year ended December 31, 2024: (In millions) Balance at beginning of year $ 161 Distributions paid to redeemable noncontrolling interest ( 13 ) Share of income 13 Adjustment to estimated redemption value of redeemable noncontrolling interest ( 66 ) Reclassification to current liability ( 95 ) Balance at end of year $ — 14. Accumulated Other Comprehensive Loss Changes in accumulated other comprehensive loss by component, net of income taxes, consisted of the following: (In millions) Derivatives Foreign Currency Translation Pension Plans Total Year Ended December 31, 2025 Balance at December 31, 2024 $ ( 79 ) $ ( 1,327 ) $ ( 7 ) $ ( 1,413 ) Other comprehensive income (loss) before reclassifications ( 7 ) 419 2 414 Amounts reclassified from accumulated other comprehensive loss 15 — — 15 Net current-period other comprehensive income 8 419 2 429 Balance at December 31, 2025 $ ( 71 ) $ ( 908 ) $ ( 5 ) $ ( 984 ) Year Ended December 31, 2024 Balance at December 31, 2023 $ ( 78 ) $ ( 688 ) $ ( 17 ) $ ( 783 ) Other comprehensive loss before reclassifications ( 10 ) ( 639 ) ( 88 ) ( 737 ) Amounts reclassified from accumulated other comprehensive loss 9 — 98 107 Net current-period other comprehensive (loss) income ( 1 ) ( 639 ) 10 ( 630 ) Balance at December 31, 2024 $ ( 79 ) $ ( 1,327 ) $ ( 7 ) $ ( 1,413",
+        "charRange": [
+          377166,
+          392166
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 43381,
+            "context": "Summary 104 Signatures 105 i Table of Contents FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K contains &#8220;forward-looking statements&#8221; intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. Forward-looking statements include those that express a plan, belief, expectation, estimation, anticipation, intent, contingency, future development, outlook, or similar expression, and can generally be identified as forward-looking because they include words such as &#8220;believes,&#8221; &#8220;anticipates,&#8221;"
+          },
+          {
+            "charIndex": 45904,
+            "context": "ing us or the financial services industry as a whole; our ability to comply with government regulations and applicable card association and network rules; the protection and validity of intellectual property rights; the outcome of pending and future litigation and governmental proceedings; our ability to successfully identify, complete and integrate acquisitions, and to realize the anticipated benefits associated with the same; the impact of our growth strategies; our ability to attract and retain key personnel; adverse impacts from currency exchange rates or currency controls; changes in corp"
+          },
+          {
+            "charIndex": 102674,
+            "context": "ons may impose obligations related to our development, offering, and use of artificial intelligence, particularly those use cases that are deemed by the law to be &#8220;high risk&#8221;, and expose us to increased risk of regulatory enforcement and litigation. As a result, our ability to use artificial intelligence and machine learning may be constrained by current or future laws, regulatory or self-regulatory requirements. The One Fiserv action plan may not generate the benefits that we anticipate. In 2025, we announced a strategic plan, referred to as the One Fiserv action plan, that focuse"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 79058,
+            "context": "ing Agencies, which are comprised of the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and the Office of the Comptroller of the Currency. We are regulated based on the uniform principles, standards, and guidance created by the Federal Financial Institutions Examination Council (&#8220;FFIEC&#8221;). The FFIEC is a formal interagency body empowered to standardize and promote uniformity in supervision of financial institutions. The member agencies of the FFIEC include the Federal Reserve Board, the Federal Deposit Insurance Corporation, the Office o"
+          },
+          {
+            "charIndex": 135573,
+            "context": "gulations affecting the supervision and operation of the financial services industry within the U.S. have been adopted, including those that establish the Consumer Financial Protection Bureau (&#8220;CFPB&#8221;). The CFPB has issued regulations and guidance under U.S. consumer financial protection laws that apply to, and conducts direct examinations of, &#8220;supervised banks and nonbanks&#8221; as well as &#8220;supervised service providers&#8221; like us. CFPB rules, examinations and enforcement actions may require us to adjust our activities and may increase our compliance costs. Changes"
+          },
+          {
+            "charIndex": 145821,
+            "context": "tions. Changes in tax laws or their interpretations could materially increase the amount of taxes we owe, thereby negatively impacting our results of operations as well as our cash flows from operations. Additionally, future tax laws, regulations or guidance from the Internal Revenue Service, the Securities and Exchange Commission or the Financial Accounting Standards Board could cause us to adjust current estimates in future periods, which could impact our earnings and have an adverse effect on our results of operations and cash flow. The U.S. Congress, the Organization for Economic Co-operat"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 43562,
+            "context": "the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. Forward-looking statements include those that express a plan, belief, expectation, estimation, anticipation, intent, contingency, future development, outlook, or similar expression, and can generally be identified as forward-looking because they include words such as &#8220;believes,&#8221; &#8220;anticipates,&#8221; &#8220;expects,&#8221; &#8220;could,&#8221; &#8220;should,&#8221; &#8220;confident,&#8221; &#8220;likely,&#8221; &#8220;plan,&#8221; or words of similar meaning. Statements that des"
+          },
+          {
+            "charIndex": 251341,
+            "context": "g general market conditions, interest rates, credit ratings on our debt securities, perception of our potential future earnings and the market price of our common stock. As of December 31, 2025, we had a corporate credit rating of Baa2 with a stable outlook from Moody's Investors Service, Inc. (&#8220;Moody's&#8221;) and BBB with a negative outlook from Standard & Poor's Ratings Services (&#8220;S&P&#8221;) on our senior unsecured debt securities. As of December 31, 2025, we had a commercial paper credit rating of P-2 from Moody's and A-2 from S&P. On November 5, 2025, our corporate credit rat"
+          },
+          {
+            "charIndex": 251434,
+            "context": "n of our potential future earnings and the market price of our common stock. As of December 31, 2025, we had a corporate credit rating of Baa2 with a stable outlook from Moody's Investors Service, Inc. (&#8220;Moody's&#8221;) and BBB with a negative outlook from Standard & Poor's Ratings Services (&#8220;S&P&#8221;) on our senior unsecured debt securities. As of December 31, 2025, we had a commercial paper credit rating of P-2 from Moody's and A-2 from S&P. On November 5, 2025, our corporate credit rating outlook was revised from stable to negative by S&P. We continue to maintain strong liquid"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 155310,
+            "context": "ired business; we may not realize expected operating efficiencies or product integration benefits from an acquisition; we could enter markets where we have minimal prior experience; and we may experience decreases in earnings as a result of non-cash impairment charges. We may be obligated to indemnify the purchasers of businesses pursuant to the terms of the relevant purchase and sale agreements. We have in the past and may in the future sell businesses. In connection with sales of businesses, we may make representations and warranties about the businesses and their financial affairs and agree"
+          },
+          {
+            "charIndex": 156026,
+            "context": "o indemnify the purchasers and agreement to retain liabilities could have a material adverse effect on our business, results of operations and financial condition. Our balance sheet includes significant amounts of goodwill and intangible assets. The impairment of a significant portion of these assets could negatively affect our results of operations. Our balance sheet includes goodwill and intangible assets that represent approximately 60% of our total assets at December 31, 2025. These assets consist primarily of goodwill and identified intangible assets associated with our acquisitions. We e"
+          },
+          {
+            "charIndex": 156397,
+            "context": "includes goodwill and intangible assets that represent approximately 60% of our total assets at December 31, 2025. These assets consist primarily of goodwill and identified intangible assets associated with our acquisitions. We evaluate goodwill for impairment on an annual basis, or more frequently if circumstances indicate possible impairment. In addition, we review intangible assets for impairment whenever events or changes in circumstances indicate the carrying amount of the asset may not be recoverable. If the carrying value of the asset is determined to be impaired, then it is written dow"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 45629,
+            "context": "ey may have on us and our employees, clients, vendors, supply chain, operations and sales; our ability to use artificial intelligence to improve our products and services and enhance our operations; the effect of proposed and enacted legislative and regulatory actions affecting us or the financial services industry as a whole; our ability to comply with government regulations and applicable card association and network rules; the protection and validity of intellectual property rights; the outcome of pending and future litigation and governmental proceedings; our ability to successfully identi"
+          },
+          {
+            "charIndex": 86324,
+            "context": "erational Resilience Act in the E.U., and the CERT-In obligations in India. Additional information about privacy and cybersecurity regulation applicable to our business can be found in the Risk Factors section of this report under the heading &#8220;Regulatory and Compliance Risks.&#8221; Money Transmission and Payment Instrument Licensing and Regulations. We are subject to various U.S. federal, state and foreign laws and regulations governing money transmission and the issuance and sale of payment instruments, including some of our prepaid products. In the U.S., most states license money tran"
+          },
+          {
+            "charIndex": 87314,
+            "context": "ulations and often require the licensee to maintain certain levels of net worth. Stablecoin Regulations. In 2025, the U.S. enacted the Guiding and Establishing National Innovation for U.S. Stablecoins Act (&#8220;GENIUS Act&#8221;), which provides a regulatory framework for payment stablecoins, and will become effective on the earlier of January 18, 2027, or 120 days after the issuance of final regulations implementing the GENIUS Act. Among other provisions, the GENIUS Act will subject payment stablecoin issuers to certain technical, disclosure, capital, liquidity and risk management requireme"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 61604,
+            "context": "rough our proprietary processing platforms, software application licenses, or SaaS hosted in the cloud. Our solutions in North America primarily use our Optis &#8480; platform to provide transaction authorization and posting, account maintenance and settlement. Our FirstVision &#8482; and VisionPLUS &#174; products are used globally to provide transaction processing services or are licensed to enable clients to process transactions on their own. We have introduced VisionNext &#8482; , our modernized cloud-based suite of payment solutions, and a platform for 4 Table of Contents embedded finance"
+          },
+          {
+            "charIndex": 81406,
+            "context": "o Division of Banking in connection with our subsidiary's trust company in Colorado. In addition, several of our subsidiaries outside of the U.S. provide services such as merchant terminal leasing, debit processing, acquiring, issuing, factoring and settlement that make them subject to regulation by financial services supervisory agencies. Association and Network Rules. We are subject to the rules of various payment networks, such as Visa and Mastercard. In order to provide processing services, a number of our subsidiaries are registered with Visa and/or Mastercard as service providers for mem"
+          },
+          {
+            "charIndex": 107705,
+            "context": "basis, either contractually or through a separate legal entity. Merchant contracts may be contributed to the alliance by us and/or the bank or institution. The banks and other institutions generally provide card association sponsorship, clearing and settlement services and typically act as a merchant referral source when the institution has an existing banking or other relationship with such merchant. We provide transaction processing and related functions to the alliance. Both we and our alliance partners may also provide management, sales, marketing and other administrative services. The all"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 43333,
+            "context": "ncial Statement Schedules 100 Item 16. Form 10-K Summary 104 Signatures 105 i Table of Contents FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K contains &#8220;forward-looking statements&#8221; intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. Forward-looking statements include those that express a plan, belief, expectation, estimation, anticipation, intent, contingency, future development, outlook, or similar expression, and can generally be identified as forward-looking because they include words such as &#8"
+          },
+          {
+            "charIndex": 71478,
+            "context": "ynamic, with new innovations entering the market and driving the expectations of our clients globally. The products and services we offer seek to meet the needs of our clients and their customers, with strong emphasis on quality, security, service reliability, timely introduction of new capabilities and features, flexibility and value. This requires us to continue our focus on product and service delivery, integration and innovation to meet and exceed the specific needs of our clients. We believe that our financial strength and specialized market knowledge enable us to support our clients to m"
+          },
+          {
+            "charIndex": 75877,
+            "context": "on the product or service, competitive factors may include quality, security, innovation, breadth or novelty of features and functionality, client satisfaction, market opportunity, integration, global reach, multiple distribution channels, service reliability and performance standards, timely introduction of new products and features, platform scalability and flexibility, and value. We believe that we compete favorably in each of these categories. Additional information about competition in our segments is provided below. Merchant The products and services in our Merchant segment compete with"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "Revenues",
+      "points": [
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 21193000000,
+          "accn": "0000798354-26-000009",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-19",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 5263000000,
+          "accn": "0000798354-25-000171",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-30",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 15909000000,
+          "accn": "0000798354-25-000171",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-30"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 5516000000,
+          "accn": "0000798354-25-000163",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-24",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-06-30",
+          "val": 10646000000,
+          "accn": "0000798354-25-000163",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-24"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 5130000000,
+          "accn": "0000798354-25-000104",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-04-25",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2024-01-01",
+          "end": "2024-12-31",
+          "val": 20456000000,
+          "accn": "0000798354-26-000009",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-19",
+          "frame": "CY2024"
+        },
+        {
+          "start": "2024-01-01",
+          "end": "2024-12-31",
+          "val": 20456000000,
+          "accn": "0000798354-25-000047",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-20"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 1.17,
+          "accn": "0000798354-26-000031",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-07",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 2.24,
+          "accn": "0000798354-26-000031",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-07"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 1.07,
+          "accn": "0000798354-26-000018",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-06",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 6.34,
+          "accn": "0000798354-26-000009",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-19",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 1.46,
+          "accn": "0000798354-25-000171",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-30",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 4.83,
+          "accn": "0000798354-25-000171",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-30"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1.86,
+          "accn": "0000798354-26-000031",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-07",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1.86,
+          "accn": "0000798354-25-000163",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-24"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 627000000,
+          "accn": "0000798354-26-000031",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-07",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 1198000000,
+          "accn": "0000798354-26-000031",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-07"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 571000000,
+          "accn": "0000798354-26-000018",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-06",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 3480000000,
+          "accn": "0000798354-26-000009",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-19",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 792000000,
+          "accn": "0000798354-25-000171",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-30",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 2669000000,
+          "accn": "0000798354-25-000171",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-30"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1026000000,
+          "accn": "0000798354-26-000031",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-07",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1026000000,
+          "accn": "0000798354-25-000163",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-24"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2026-04-01",
+          "end": "2026-06-30",
+          "val": 1015000000,
+          "accn": "0000798354-26-000031",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-07",
+          "frame": "CY2026Q2"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-06-30",
+          "val": 1933000000,
+          "accn": "0000798354-26-000031",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-07"
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 918000000,
+          "accn": "0000798354-26-000018",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-05-06",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 5818000000,
+          "accn": "0000798354-26-000009",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-19",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 1436000000,
+          "accn": "0000798354-25-000171",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-30",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 4527000000,
+          "accn": "0000798354-25-000171",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-30"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1696000000,
+          "accn": "0000798354-26-000031",
+          "fy": 2026,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2026-08-07",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1696000000,
+          "accn": "0000798354-25-000163",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-24"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "FISV",
+    "name": "FISERV INC",
+    "sector": "Services-Business Services, NEC",
+    "pe": 10.02,
+    "pb": 1.03,
+    "ret3m": -8.0796,
+    "ret6m": -10.1514,
+    "roe": 12.93,
+    "debtEquity": 0.195,
+    "sentiment": -0.227,
+    "analyst": 59.3,
+    "beta": 0.7811467
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "What Wall Street Pushed MA To Explain",
+        "url": "https://finnhub.io/api/news?id=73d3d072157488534c8c3ca457a861a6a12a2b849318c3ddb6daefbafe64b9d7",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Fiserv, FIS pressured to sell parts of businesses",
+        "url": "https://finnhub.io/api/news?id=d9b4043fd5907d6710f73091713509e25b869d675f84e8e35e492a742f323dc9",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Are Wall Street Analysts Predicting Fiserv Stock Will Climb or Sink?",
+        "url": "https://finnhub.io/api/news?id=7d1b24cc59d4de070dd2dce5fbaf9d3a20c91a9c630adcfa556fb052c52d6f21",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Is Fiserv Worth Buying Now After Earnings Cuts and a Deep Valuation?",
+        "url": "https://finnhub.io/api/news?id=f2385911a03339854a59fef3308b0ab29273a1c54ee3af69d5b2e942f0bc15d9",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Fiserv Cuts 2026 Outlook as Margin Pressure Tests Its Recovery Story",
+        "url": "https://finnhub.io/api/news?id=bb49a1d81f0f6f55749a6a5a4b25fc542904d2e1e4b752ecb07ca934178a0e90",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "The Real Upside Case For Mastercard Stock Is In The Plumbing",
+        "url": "https://finnhub.io/api/news?id=fce6bd73aaa34aac5f4c62c43db4b0f5b5b35c1bb0958cd853cf2e66499eb104",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      }
+    ],
+    "cachedAt": "2026-08-11T05:52:15.252Z"
+  }
+}

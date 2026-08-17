@@ -1,0 +1,62 @@
+{
+  "ticker": "DAL",
+  "companyName": "DELTA AIR LINES, INC.",
+  "researchedAt": "2026-08-12T02:15:00.000Z",
+  "researchMethod": "Phase 6 operational layer - filings fetched/extracted programmatically (research.js), analysis performed directly by Claude Code reading the extracted material, not by an automated LLM API call. Every factual claim below cites a specific source in the sources[] list.",
+  "filingsUsed": [
+    { "form": "10-Q", "filingDate": "2026-07-10", "reportDate": "2026-06-30", "url": "https://www.sec.gov/Archives/edgar/data/27904/000002790426000031/dal-20260630.htm" },
+    { "form": "10-K", "filingDate": "2026-02-11", "reportDate": "2025-12-31", "url": "https://www.sec.gov/Archives/edgar/data/27904/000002790426000013/dal-20251231.htm" }
+  ],
+  "quantContext": {
+    "note": "From this project's own scoring pipeline (companies.json + screener.js, Phases 1-5/7), included for reference only - not itself a research source.",
+    "pe": 14.82, "pb": 2.69, "roe": 22.94, "debtEquity": 0.592,
+    "sentiment": 0.24, "analystScore": 78.9, "beta": 1.3688204, "ret3m": 22.0216, "ret6m": 26.6468
+  },
+  "questions": {
+    "whyCheapBearCase": {
+      "answer": "DAL isn't dramatically cheap by P/E (14.82) - the stock has already rallied sharply (+22.0% 3m, +26.6% 6m) [source: 1], so the more useful question here is what could justify caution despite that rally and a still-solid ROE (22.94%). The 10-Q's own non-GAAP reconciliation tables show a clear answer: fuel costs spiked sharply. Average fuel price per gallon (adjusted) rose to $3.93 in Q2 2026 from $2.25 in Q2 2025 - a 74.7% increase - and total fuel expense rose to $4,109 million from $2,458 million (+67.2%) even though gallons consumed didn't rise nearly as fast [source: 2]. Unit costs followed: CASM rose to 22.74 cents from 18.73 cents (+21.4% YoY) [source: 2]. That cost pressure shows up directly in earnings: diluted EPS fell to $2.44 in Q2 2026 from $3.27 in Q2 2025 (-25.4%), and Q1 2026 posted an outright net loss of $289 million (EPS -$0.44) [source: 3]. Debt/equity remains meaningfully elevated at 0.592 [source: 1] even after recent credit-rating upgrades. A cached headline directly poses the valuation question: 'Is Delta Air Lines (DAL) Fully Valued Following Recent Insider Selling?' [source: 4] - a real, dated, DAL-specific signal that at least one outlet is questioning whether the rally has run ahead of fundamentals.",
+      "sourceRefs": [1, 2, 3, 4]
+    },
+    "revenueEpsTrend": {
+      "answer": "Mixed: revenue is growing strongly while earnings are declining, and Q1 2026 was an outright loss quarter. Per the 10-Q, total revenue was $19,757 million in Q2 2026 vs. $16,648 million in Q2 2025 (+18.7%) [source: 2]. But per XBRL, diluted EPS fell to $2.44 in Q2 2026 from $3.27 in Q2 2025 (-25.4%), and net income fell to $1,604 million from $2,102 million (-23.7%) [source: 3]. Q1 2026 was worse still: a net loss of $289 million (EPS -$0.44) [source: 3], pulling six-month 2026 net income down to $1,315 million and diluted EPS to $2.00 for H1 2026. FY2025 as a whole was solid (diluted EPS of $7.66) [source: 3], so the earnings weakness is concentrated in the first half of 2026, coinciding with the fuel-cost spike described above.",
+      "direction": "mixed_revenue_growing_earnings_declining",
+      "sourceRefs": [2, 3]
+    },
+    "marginTrend": {
+      "answer": "Deteriorating, and the 10-Q's own supplemental reconciliation tables make the driver explicit: unit costs (CASM) rose 21.4% year-over-year in Q2 2026 (22.74 cents vs. 18.73 cents), while unit revenue (TRASM) rose only 17.1% (25.11 cents vs. 21.44 cents) - costs outpaced revenue on a per-unit basis. The single largest driver disclosed is fuel: average price per gallon (adjusted) rose 74.7% year-over-year ($3.93 vs. $2.25) [source: 2]. Even the fuel-and-refinery-adjusted unit cost measure (CASM-Ex) rose from 13.20 cents to 14.09 cents (+6.7%), showing some non-fuel cost pressure too, though fuel is clearly the dominant factor. Operating income fell 11.3% year-over-year in Q2 2026 ($1,864 million vs. $2,102 million) despite the 18.7% revenue increase [source: 3], confirming real margin compression rather than just a fuel-line accounting effect.",
+      "direction": "deteriorating_fuel_cost_driven",
+      "sourceRefs": [2, 3]
+    },
+    "guidanceChange": {
+      "answer": "Not determinable from available sources. The text captured under the 10-Q's matched MD&A heading is the non-GAAP supplemental reconciliation tables (revenue, opex, fuel, TRASM/CASM, free cash flow), not a forward guidance discussion, and no explicit FY2026 guidance range was located in the extracted 10-K text either.",
+      "sourceRefs": []
+    },
+    "catalysts": [
+      { "text": "Improving credit profile: Moody's upgraded Delta to Baa2 (investment grade) in February 2025; Fitch upgraded its outlook to Positive in the September 2025 quarter; S&P Global upgraded its outlook to Positive in January 2026 - each could support lower future financing costs.", "sourceRefs": [5] },
+      { "text": "Large, largely unused capital-return capacity: a $1.0 billion opportunistic share repurchase program was authorized in the June 2025 quarter (open through June 30, 2028), and as of the Q2 2026 10-Q, no shares had yet been repurchased under it - meaning the full $1.0 billion remains available.", "sourceRefs": [5, 6] },
+      { "text": "Large, growing, high-margin loyalty revenue stream: remuneration from the American Express co-brand credit card relationship was $8.2 billion in 2025, up 11% year-over-year.", "sourceRefs": [5] },
+      { "text": "Underlying demand remains strong: total revenue grew 18.7% year-over-year in Q2 2026 even amid the fuel-cost spike, suggesting the top-line franchise is intact.", "sourceRefs": [2] }
+    ],
+    "risks": [
+      { "text": "Sharp fuel-cost inflation (average adjusted price per gallon +74.7% year-over-year in Q2 2026) is compressing unit economics and earnings even as revenue grows - a real, current, filing-quantified cost headwind, not a hypothetical one.", "sourceRefs": [2] },
+      { "text": "Q1 2026 produced an outright net loss ($289 million) - a real reported quarterly loss, not merely decelerating growth.", "sourceRefs": [3] },
+      { "text": "Debt/equity remains elevated at 0.592 even after recent ratings upgrades, leaving less balance-sheet cushion against further cost shocks.", "sourceRefs": [1] },
+      { "text": "A cached, DAL-specific headline directly raises a 'fully valued... following recent insider selling' question, a real and dated signal of market skepticism about the size of the recent rally (+22% 3m, +26.6% 6m).", "sourceRefs": [1, 4] }
+    ],
+    "verdict": {
+      "classification": "opportunity_with_real_structural_risk",
+      "confidence": "medium",
+      "reasoning": "Delta has real franchise strengths that the filings confirm: strong and growing revenue (+18.7% YoY in Q2 2026), a large and growing high-margin loyalty/co-brand business, improving credit ratings, and a largely untapped $1.0 billion buyback authorization. But the bear case is also filing-confirmed and current, not speculative: a sharp, quantified fuel-cost spike (adjusted price per gallon +74.7% YoY) drove a 25% year-over-year decline in Q2 2026 diluted EPS and an outright Q1 2026 net loss, and this is happening after the stock has already re-rated significantly higher (+22%/+27% over 3/6 months). That combination - real cost-driven earnings pressure arriving right after a large price rally, plus a cached headline explicitly questioning whether the stock is 'fully valued' - caps confidence at medium rather than higher.",
+      "sourceRefs": [1, 2, 3, 4, 5]
+    }
+  },
+  "sources": [
+    { "id": 1, "type": "internal-quant-data", "description": "companies.json / screener.js output for DAL (pe, pb, roe, debtEquity, sentiment, analyst, beta, ret3m, ret6m) as of the current screener-report.html generation", "url": null, "date": "2026-08-11" },
+    { "id": 2, "type": "10-Q MD&A - Supplemental Information", "description": "Delta Air Lines Q2 2026 Form 10-Q, MD&A Supplemental Information - non-GAAP reconciliations for total revenue, operating expense, fuel expense/price per gallon, TRASM, and CASM-Ex, Q2 2026 vs. Q2 2025 and six months 2026 vs. 2025", "url": "https://www.sec.gov/Archives/edgar/data/27904/000002790426000031/dal-20260630.htm", "date": "2026-07-10" },
+    { "id": 3, "type": "SEC XBRL companyfacts", "description": "Multi-period Revenues, EarningsPerShareDiluted, NetIncomeLoss, and OperatingIncomeLoss figures, CIK 0000027904", "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000027904.json", "date": "2026-08-12 (retrieved)" },
+    { "id": 4, "type": "cached news headline (Yahoo via Finnhub)", "description": "'Is Delta Air Lines (DAL) Fully Valued Following Recent Insider Selling?' - headline only, article content not fetched", "url": "https://finnhub.io/api/news?id=fe950bba15269228ed57d6dea97919c52721567aef8b24800b7d86bc4f44e2ea", "date": "2026-08-09" },
+    { "id": 5, "type": "10-K MD&A", "description": "Delta Air Lines FY2025 Form 10-K, Financial Condition and Liquidity section - credit rating upgrades (Moody's/Fitch/S&P), American Express co-brand remuneration, and capital returns to shareholders", "url": "https://www.sec.gov/Archives/edgar/data/27904/000002790426000013/dal-20251231.htm", "date": "2026-02-11" },
+    { "id": 6, "type": "10-Q Item 2 (Unregistered Sales of Equity Securities)", "description": "Delta Air Lines Q2 2026 Form 10-Q - $1.0 billion opportunistic share repurchase program authorization (approved June 2025 quarter, open through June 30, 2028) and confirmation that no shares had been repurchased under the program through June 30, 2026", "url": "https://www.sec.gov/Archives/edgar/data/27904/000002790426000031/dal-20260630.htm", "date": "2026-07-10" }
+  ],
+  "sourcingNote": "One cached headline ('Airline Insider Hits Eject, Sells 40,460 Shares Valued at $3.8 Million') was reviewed but NOT cited: its title does not name Delta specifically, and I could not confirm from the headline alone that it refers to a Delta insider rather than another airline, so I chose not to attribute it to DAL. Other cached headlines ('Cold Jobs Report Warms Up Wall Street, Airbnb Steals the Show', 'We Just Had the Busiest Day for Commercial Air Travel Ever...', 'These 3 Georgia companies among 100 best...', 'JetBlue Stock Has Been Flying...') were reviewed but are sector-wide or about other companies, not DAL-specific, and were not cited."
+}

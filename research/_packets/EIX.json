@@ -1,0 +1,766 @@
+{
+  "ticker": "EIX",
+  "entityName": "EDISON INTERNATIONAL",
+  "cik": "0000827052",
+  "generatedAt": "2026-08-12T01:37:01.108Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-07-30",
+        "reportDate": "2026-06-30",
+        "accessionNumber": "0000827052-26-000059",
+        "primaryDocument": "eix-20260630.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/827052/000082705226000059/eix-20260630.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/827052/000082705226000059/"
+      },
+      "textLength": 278010,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS MANAGEMENT OVERVIEW Highlights of Operating Results Edison International is the ultimate parent holding company of SCE, which is an investor-owned public utility primarily engaged in the business of supplying and delivering electricity to an approximately 50,000 square mile area across Southern, Central, and Coastal California. In the second quarter of 2026, Edison International completed the disposition of Trio, a former indirect wholly-owned subsidiary. Trio's business activities have not been material to Edison International. See \"Results of Operations—Edison International Parent and Other—Trio\" and \"Notes to Condensed Consolidated Financial Statements—Note 1. Summary of Significant Accounting Policies\" for further information. Edison International's earnings are prepared in accordance with GAAP. Management uses core earnings (loss) internally for financial planning and for analysis of performance. Core earnings (loss) are also used when communicating with investors and analysts regarding Edison International's earnings results to facilitate comparisons of the company's performance from period to period. Core earnings (loss) are a non-GAAP financial measure and may not be comparable to those of other companies. Core earnings (loss) are defined as earnings available to Edison International shareholders less non-core items. Non-core items include income or loss from discontinued operations and income or loss from significant discrete items that management does not consider representative of ongoing earnings, such as write-downs, asset impairments, and other income and expense related to changes in law, outcomes in tax, regulatory or legal proceedings, and exit activities, including sale of certain assets and other activities that are no longer continuing. SCE implemented a customer-funded wildfire self-insurance program in 2023. With the commencement of this program, Edison International and SCE no longer consider wildfire-related claim losses to be representative of ongoing earnings and treat such costs as non-core items. Three months ended June 30, Six months ended June 30, (in millions) 2026 2025 Change 2026 2025 Change Net income (loss) available to Edison International SCE $ 643 $ 443 $ 200 $ 1,262 $ 2,010 $ (748) Edison International Parent and Other (109) (100) (9) (197) (231) 34 Edison International 534 343 191 1,065 1,779 (714) Less: Non-core items SCE Wildfire-related (claims and expenses), net of recoveries (4) (8) 4 9 1,343 (1,334) Wildfire Fund expense (36) (36) — (71) (72) 1 Income tax benefit (expense) 1 11 13 (2) 17 (355) 372 SCE non-core items (29) (31) 2 (45) 916 (961) Edison International Parent and Other Trio disposition and related losses 2 (30) — (30) (36) — (36) Changes to wildfire claims and expenses insured by EIS — — — 1 (50) 51 Income tax benefit 1 1 — 1 3 11 (8) Edison International Parent and Other non-core items (29) — (29) (32) (39) 7 Total non-core items (58) (31) (27) (77) 877 (954) Core earnings (loss) SCE 672 474 198 1,307 1,094 213 Edison International Parent and Other (80) (100) 20 (165) (192) 27 Edison International $ 592 $ 374 $ 218 $ 1,142 $ 902 $ 240 4 Table of Contents 1 SCE and Edison International Parent and Other non-core items are tax-effected at an estimated statutory rate of approximately 28%; wildfire claims and expenses insured by EIS are tax-effected at the federal statutory rate of 21%. No net tax benefit was recognized for the Trio disposition loss as the related tax benefits are not expected to be realized. 2 As a result of the disposition of Trio in the second quarter of 2026, Trio-related income and expenses are classified as non-core items. Trio's after-tax operating losses of $4 million from the first quarter of 2026 were recast to non-core and included in the six months ended June 30, 2026 amount. Trio's after-tax operating losses of $2 million and $7 million for the three and six months ended June 30, 2025, respectively, were included in core earnings as originally reported. Edison International's second quarter 2026 earnings increased $191 million from the second quarter of 2025, resulting from an increase in SCE's earnings of $200 million, partially offset by an increase in Edison International Parent and Other's loss of $9 million. SCE's higher net income reflected $198 million of higher core earnings and a $2 million lower non-core loss. Edison International Parent and Other's loss increased by $9 million due to a $29 million non-core loss in 2026, partially offset by $20 million of lower core loss compared to 2025. Edison International's earnings for the six months ended June 30, 2026 decreased $714 million from the same period ended June 30, 2025, resulting from a decrease in SCE's earnings of $748 million, partially offset by a decrease in Edison International Parent and Other's loss of $34 million. SCE's lower net income reflected a $45 million non-core loss in 2026 compared to a $916 million non-core benefit in 2025, partially offset by $213 million of higher core earnings. Edison International Parent and Other's loss decreased by $34 million due to $27 million of lower core loss and $7 million of lower non-core loss. The increase in SCE's core earnings for the three and six months ended June 30, 2026, compared to the same periods in 2025, was primarily due to the adoption of the 2025 GRC final decision in the third quarter of 2025. The increase for the six-month period was partially offset by the absence of a benefit to interest expense related to cost recoveries authorized under the TKM Settlement Agreement in 2025. The decrease in Edison International Parent and Other's core loss for the three and six months ended June 30, 2026, was primarily due to lower preferred stock dividends, partially offset by higher interest expense. Consolidated non-core items for the six months ended June 30, 2026 and 2025 for Edison International included: &#8226; Wildfire-related recoveries, net of claims and expenses: &#8226; Net earnings of $9 million ($6 million after-tax) recorded in 2026 primarily due to expected recoveries, partially offset by claims and legal expenses associated with Other Wildfire Events. &#8226; Net earnings of $1,343 million ($968 million after-tax) in 2025 primarily related to the TKM Settlement Agreement and insurance reimbursements related to Other Wildfire Events. See \"Notes to Condensed Consolidated Financial Statements—Note 12. Commitments and Contingencies\" for further information. &#8226; Charges of $71 million ($51 million after-tax) and $72 million ($52 million after-tax) recorded in 2026 and 2025, respectively, from amortization of SCE's contributions to the Wildfire Fund. See \"Notes to Condensed Consolidated Financial Statements—Note 1. Summary of Significant Accounting Policies\" for further information. &#8226; Losses of $36 million ($33 million after-tax) in 2026 related to the disposition of Trio, including Trio's operating losses, the loss on disposition, and related transaction and employee costs. See \"Results of Operations—Edison International Parent and Other—Trio\" and \"Notes to Condensed Consolidated Financial Statements—Note 1. Summary of Significant Accounting Policies\" for further information. &#8226; Net earnings of $1 million ($1 million after-tax) recorded in 2026 primarily due to updated estimates of claims accruals, net of legal expenses, and charges of $50 million ($39 million after-tax) recorded in 2025, both related to wildfire claims insured by EIS. See \"Notes to Condensed Consolidated Financial Statements—Note 12. Commitments and Contingencies\" for further information. See \"Results of Operations\" for discussion of SCE's and Edison International Parent and Other's results of operations. Capital Program Total capital expenditures (including accruals) were $3.1 billion for both six months ended June 30, 2026 and 2025. As discussed in the 2025 Form 10-K, SCE forecasts total capital expenditures ranging from $37.5 billion to $40.6 billion for 2026 &#8211; 2030, and weighted average annual rate base from $50.8 billion to $67.9 billion for 2026 &#8211; 2030. These capital program and rate base projections incorporate the planned CPUC-jurisdictional spending as informed by the 2025 GRC 5 Table of Contents final decision and expected FERC capital expenditures, see \"Liquidity and Capital Resources—SCE—Capital Investment Plan\" below and \"Management Overview—Capital Program\" in the 2025 MD&A. In May 2026, the CAISO approved its 2025-2026 Transmission Plan, which identified new transmission projects expected to be constructed by SCE and finalized the CAISO's reassessment of certain SCE projects from the 2022-2023 Transmission Plan. As a result of this reassessment, certain previously approved projects were removed or modified and offset by newly approved projects. SCE's total anticipated capital expenditures for CAISO-approved transmission projects remain approximately $3 billion, of which approximately $1 billion is included in the total forecasted capital expenditures from 2026 &#8211; 2030. For further information, see \"Management Overview—Capital Program\" in the 2025 MD&A. Southern California Wildfires Unprecedented weather conditions in California due to climate change and greater concentrations of residents in high-fire risk areas, among other things, have contributed to wildfires, including those where SCE's equipment has been alleged to be associated with the fire's ignition, that have caused loss of life and substantial damage in SCE's service area. SCE continues to implement its WMP to reduce the risk of SCE equipment contributing to the ignition of wildfires. Further to the investments SCE is making as part of its WMP, SCE also uses its PSPS program to proactively de-energize power lines as a last resort to mitigate the risk of significant wildfires during extreme weather events. In addition, California has increased its investment in wildfire prevention and fire suppression capabilities. Yet, the potential for catastrophic wildfire activity in SCE's service area still exists. In February 2026, the OEIS issued a final decision approving SCE's 2026 &#8211; 2028 WMP. In March 2026, the OEIS issued SCE's safety certification which is valid until the later of March 2, 2027, and when OEIS acts on SCE's timely submittal of a request for its next safety certification. In April 2026, the CEA submitted to the California Legislature and the Governor a report required by SB&#8239;254 that evaluates California's approach to natural catastrophe risk, including wildfires. The report identifies increasing natural catastrophe risk driven by climate&#8209;related factors, development in wildfire&#8209;prone areas, fuel conditions, and other systematic factors, and highlights challenges in wildfire mitigation, insurance availability, liability allocation, and post&#8209;event recovery. The report observes that failure to address escalating wildfire risk would prolong recovery for affected communities, significantly increase electric utility costs, driving higher customer rates, and also could elevate insurance premiums statewide. The report further observes that inaction would expose SCE to risk of credit downgrades and heightened financial stress, limiting access to capital needed to maintain safe and reliable infrastructure. Taken together, these dynamics would exacerbate affordability pressures, undermine market stability, and impede SCE's ability to support long&#8209;term reliability and California's climate&#8209;related objectives. Against this backdrop, the report presents a framework of policy options organized around three non&#8209;exclusive pathways: committing to community&#8209;level wildfire mitigation, including measures to reduce the severity and scale of catastrophic events through coordinated community&#8209;based risk reduction, home&#8209; and neighborhood&#8209;level hardening, and risk-informed targeting of mitigation investments; equitably allocating catastrophe burdens among stakeholders, including through insurance and liability&#8209;related mechanisms such as insurance market reforms, quicker compensation and claims&#8209;handling structures, and potential changes to utility wildfire liability frameworks; and defining potential state roles in catastrophe resilience, including options such as expanded or restructured catastrophe financing mechanisms, state&#8209;level risk pooling or backstops, and other approaches intended to address extreme loss events. The report discusses options with varying implementation timeframes and fiscal impacts and does not recommend or endorse any specific policy approach. Edison International and SCE are engaging with stakeholders in the legislative process related to wildfire-related risks, however, they cannot predict whether or when there will be a comprehensive economy-wide solution mitigating the significant risk faced by California investor-owned utilities related to wildfires. Eaton Fire In January 2025, several wind-driven wildfires impacted portions of SCE's service area, causing loss of life, substantial damage to both residential and business properties, and service outages for SCE customers. One of the largest of these wildfires, the Eaton Fire, ignited in SCE's service area in Los Angeles County and spread due to a number of contributing factors under conditions of an extreme Santa Ana windstorm. The Los Angeles County Fire Department is leading the investigation into the origin and cause of the Eaton Fire, with the assistance of CAL FIRE, and has identified a preliminary area of origin of the fire. SCE has transmission facilities in the preliminary area of origin and the SED is conducting an investigation with respect to the Eaton Fire. Edison International and SCE are also aware of an ongoing investigation by the Los Angeles District Attorney's Office of the Eaton Fire for the purpose of determining whether any criminal violations have occurred. SCE could be subject to material fines, penalties, or restitution if it is determined that it failed to comply with applicable laws and regulations. SCE is not aware of any basis for 6 Table of Contents felony liability with regards to the Eaton Fire. Any fines and penalties incurred in connection with the Eaton Fire will not be recoverable from insurance, from the Wildfire Fund, or through electric rates. Multiple lawsuits related to the Eaton Fire have been initiated against SCE and Edison International by individual plaintiffs, subrogation plaintiffs, and public entity plaintiffs related to the Eaton Fire. A bellwether jury trial in the Eaton Fire litigation has been set for January 2027. SCE's internal review into the facts and circumstances of the Eaton Fire is complex an d ongoing. SCE's review includes ongoing inspections of its facilities and records and of third-party information and testing. While SCE has not con",
+        "charRange": [
+          74527,
+          89527
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors,\" \"Notes to Consolidated Financial Statements—Note 1. Summary of Significant Accounting Policies—Wildfire Fund,\" \"Business—Southern California Wildfires\" and \"Notes to Consolidated Financial Statements—Note 12. Commitments and Contingencies—Contingencies—Southern California Wildfires and Mudslides\" in the 2025 Form 10-K; and \"Notes to Condensed Consolidated Financial Statements— Note 1. Summary of Significant Accounting Policies — Wildfire Fund,\" and \"Notes to Condensed Consolidated Financial Statements— Note 12. Commitments and Contingencies —Contingencies—Southern California Wildfires and Mudslides\" in this report. 8 Table of Contents RESULTS OF OPERATIONS SCE The following discusses SCE's condensed consolidated statements of income for the three and six months ended June 30, 2026 and 2025. In general, expenses SCE is authorized to pass through directly to customers (such as purchased power and fuel expenses, flow-through taxes, as well as costs incurred for various programs and activities, such as public purpose programs and vegetation management activities) and the corresponding amount of revenues collected to recover those pass-through costs do not impact net income. The following tables summarize SCE's results of operations for the periods indicated. Three months ended June 30, 2026 versus June 30, 2025 Three months ended June 30, Favorable (Unfavorable) (in millions) 2026 2025 2026 to 2025 Operating revenue $ 4,348 $ 4,532 $ (184) Purchased power and fuel 1,137 1,157 20 Operation and maintenance 1,041 1,553 512 Wildfire-related claims, net of (recoveries) 17 — (17) Wildfire Fund expense 36 36 — Depreciation and amortization 833 825 (8) Property and other taxes 169 167 (2) Other (2) — 2 Total operating expenses 3,231 3,738 507 Operating income 1,117 794 323 Interest expense (415) (421) 6 Other income, net 117 117 — Income before income taxes 819 490 329 Income tax expense 150 14 (136) Net income 669 476 193 Less: Preference stock dividend requirements 26 33 7 Net income available to common stock $ 643 $ 443 $ 200 Operating Revenue A decrease in operating revenue of $184 million was primarily due to: &#8226; A decrease in revenue of $400 million related to net lower expenses that are passed through to customers, which mainly included decreases in: &#8226; Operation and maintenance expense of $425 million; &#8226; Depreciation and amortization expense of $30 million; &#8226; Purchased power and fuel expense of $20 million; partially offset by increases in: &#8226; Income tax expense of $56 million; &#8226; Wildfire-related claims, net of recoveries, of $17 million. &#8226; A decrease in revenue of $57 million primarily due to the recognition of return on wildfire-related balancing account rate base resulting from regulatory decisions received in the second quarter of 2025. 9 Table of Contents partially offset by: &#8226; An increase in revenue of $273 million driven by the 2025 GRC final decision, including the 2026 escalation mechanism set forth in the 2025 GRC decision. SCE's results of operations for the three months ended June 30, 2025 were based on the 2024 authorized revenue. SCE received the final 2025 GRC decision in the third quarter of 2025 and the authorized revenue attributable to the second quarter of 2025 but recorded subsequently in 2025 was approximately $193 million. Purchased Power and Fuel A decrease in purchased power and fuel costs of $20 million was primarily due to lower energy prices and higher congestion revenue rights credits, partially offset by higher capacity costs (offset in \"Operating Revenue\" above). Operation and Maintenance A decrease in operation and maintenance expense of $512 million was primarily due to: &#8226; A net decrease of $425 million pass-through costs (offset in \"Operating Revenue\" above), which is mainly related to the recognition of previously deferred wildfire mitigation and vegetation management costs authorized for recovery in 2025. &#8226; A charge of $62 million recorded in 2025 primarily associated with disallowed historical expenses related to 2021 GRC wildfire mitigation memorandum account balances. Wildfire-related Claims, Net of Recoveries An increase of $17 million in wildfire-related claims, net of recoveries, was primarily due to the net recognition of previously deferred claim costs to be recovered through FERC rates (offset in \"Operating Revenue\" above). For further information, see \"Notes to Condensed Consolidated Financial Statements—Note 12. Commitments and Contingencies—Contingencies—Southern California Wildfires and Mudslides.\" Depreciation and Amortization An increase in depreciation and amortization expense of $8 million was primarily due to higher plant balances, partially offset by $30 million of lower pass-through costs mainly associated with wildfire-related regulatory decisions received in 2025 (offset in \"Operating Revenue\" above). Income Taxes An increase in income tax expense of $136 million was primarily due to $94 million of higher tax expense on higher pre-tax income and $42 million of lower flow-through tax benefits that were passed through to customers (offset the corresponding pre-tax amount in \"Operating Revenue\"). See \"Notes to Condensed Consolidated Financial Statements—Note 8. Income Taxes\" for a reconciliation of the federal statutory rate to the effective income tax rate. 10 Table of Contents Six months ended June 30, 2026 versus June 30, 2025 Six months ended June 30, Favorable (Unfavorable) (in millions) 2026 2025 2026 to 2025 Operating revenue $ 8,444 $ 8,334 $ 110 Purchased power and fuel 2,107 2,204 97 Operation and maintenance 2,039 2,515 476 Wildfire-related claims, net of (recoveries) 14 (1,355) (1,369) Wildfire Fund expense 71 72 1 Depreciation and amortization 1,666 1,566 (100) Property and other taxes 347 332 (15) Other (2) 8 10 Total operating expenses 6,242 5,342 (900) Operating income 2,202 2,992 (790) Interest expense (845) (641) (204) Other income, net 238 228 10 Income before income taxes 1,595 2,579 (984) Income tax expense 278 502 224 Net income 1,317 2,077 (760) Less: Preference stock dividend requirements 55 67 12 Net income available to common stock $ 1,262 $ 2,010 $ (748) Operating Revenue An increase in operating revenue of $110 million was primarily due to: &#8226; An increase in revenue of $553 million driven by the 2025 GRC final decision, including the 2026 escalation mechanism set forth in the 2025 GRC decision. SCE's results of operations for the six months ended June 30, 2025 were based on the 2024 authorized revenue. SCE received the final 2025 GRC decision in the third quarter of 2025 and the authorized revenue attributable to the first and second quarters of 2025 but recorded subsequently in 2025 was approximately $394 million. partially offset by: &#8226; A decrease in revenue of $390 million related to net lower expenses that are passed through to customers, which mainly included decreases in: &#8226; Operation and maintenance expense of $408 million; &#8226; Purchased power and fuel expense of $97 million; &#8226; Depreciation and amortization expense of $6 million; and increases in: &#8226; Other income of $9 million; partially offset by increases in: &#8226; Income tax expense of $65 million; &#8226; Interest expense of $38 million; &#8226; Wildfire-related claims, net of recoveries, of $25 million; &#8226; Property and other taxes of $2 million. 11 Table of Contents &#8226; A decrease in revenue of $53 million primarily due to the recognition of return on wildfire-related balancing account rate base resulting from regulatory decisions received in the second quarter of 2025. Purchased Power and Fuel A decrease in purchased power and fuel costs of $97 million was primarily due to lower energy prices, partially offset by higher capacity costs (offset in \"Operating Revenue\" above). Operation and Maintenance A decrease in operation and maintenance expense of $476 million was primarily due to: &#8226; A net decrease of $408 million pass-through costs (offset in \"Operating Revenue\" above), which is mainly related to the recognition of previously deferred wildfire mitigation and vegetation management costs authorized for recovery in 2025. &#8226; A charge of $62 million recorded in 2025 primarily associated with disallowed historical expenses related to 2021 GRC wildfire mitigation memorandum account balances. Wildfire-related Claims, Net of Recoveries A decrease in recoveries of wildfire-related claims of $1,369 million was primarily due to: &#8226; $1,341 million claim costs recovery authorized and recorded in 2025 under the TKM Settlement Agreement; &#8226; $14 million insurance reimbursements recorded in 2025 related to Other Wildfire Events; &#8226; $25 million of net recognition of previously deferred claim costs to be recovered through FERC rates (offset in \"Operating Revenue\" above); partially offset by: &#8226; Benefits of $11 million mainly due to expected recoveries related to Other Wildfire Events. For further information, see \"Notes to Condensed Consolidated Financial Statements—Note 12. Commitments and Contingencies—Contingencies—Southern California Wildfires and Mudslides.\" Depreciation and Amortization An increase in depreciation and amortization expense of $100 million was primarily due to higher plant balances, partially offset by $6 million of lower pass-through costs (offset in \"Operating Revenue\" above). Property and Other Taxes An increase in property and other taxes of $15 million was primarily related to higher assessed property values and $2 million of higher pass-through costs (offset in \"Operating Revenue\" above). Interest Expense An increase in interest expense of $204 million was primarily due to: &#8226; $171 million cost recovery authorized and recorded in 2025 under the TKM Settlement Agreement. &#8226; $38 million pass-through expense mainly associated with increased securitization debt (offset in \"Operating Revenue\" above). Other Income, Net An increase in other income of $10 million was primarily due to an increase in equity allowance for funds used during construction and $9 million of higher pass-through costs (offset in \"Operating Revenue\" above), partially offset by lower insurance benefits. Income Taxes A decrease in income tax expense of $224 million was primarily due to $276 million of lower tax expense on lower pre-tax income, partially offset by $52 million of lower flow-through tax benefits that were passed through to customers (offset the 12 Table of Contents corresponding pre-tax amount in \"Operating Revenue\"). See \"Notes to Condensed Consolidated Financial Statements—Note 8. Income Taxes\" for a reconciliation of the federal statutory rate to the effective income tax rate. Edison International Parent and Other Results of operations for Edison International Parent and Other include amounts from other subsidiaries that are not reportable segments, as well as intercompany eliminations. Trio In the second quarter of 2026, Edison International completed the disposition of Trio and recognized a $23 million loss on disposition, including transaction costs. In addition, Edison International recognized an additional $5 million of employee-related expenses in connection with the disposition. See \"Notes to Condensed Consolidated Financial Statements—Note 1. Summary of Significant Accounting Policies\" for further information. Loss from Operations The following table summarizes the results of Edison International Parent and Other: Three months ended June 30, Favorable (Unfavorable) Six months ended June 30, Favorable (Unfavorable) (in millions) 2026 2025 2026 to 2025 2026 2025 2026 to 2025 Edison International Parent and Other net loss $ (108) $ (78) $ (30) $ (186) $ (187) $ 1 Less: Preferred stock dividend requirements 1 22 21 11 44 33 Edison International Parent and Other net loss available to common shareholders $ (109) $ (100) $ (9) $ (197) $ (231) $ 34 The net loss available to common shareholders from operations of Edison International Parent and Other increased $9 million for the three months ended June 30, 2026, compared to the same period in 2025, primarily due to the Trio disposition and related losses (see \"—Trio\" above for further information) and higher interest expense, partially offset by lower preferred stock dividends. The net loss available to common shareholders from operations of Edison International Parent and Other decreased $34 million for the six months ended June 30, 2026, compared to the same period in 2025, primarily due to lower expenses from wildfire claims insured by an EIS insurance contract (see \"Notes to Condensed Consolidated Financial Statements—Note 12. Commitments and Contingencies\" and \"Note 16. Related-Party Transactions\" for further information) and lower preferred stock dividends, partially offset by the Trio disposition and related losses (see \"—Trio\" above for further information) and higher interest expense. 13 Table of Contents LIQUIDITY AND CAPITAL RESOURCES SCE SCE's ability to operate its business, fund capital expenditures, and implement its business strategy is dependent upon its operating cash flow and access to the bank and capital markets. SCE's overall cash flows fluctuate based on, among other things, its ability to recover its costs in a timely manner from its customers through regulated rates, changes in commodity prices and volumes, collateral requirements, interest obligations, dividend payments to and equity contributions from Edison International, obligations to preference shareholders, and the outcome of tax, regulatory, and legal matters. In the next 12 months, SCE expects to fund its cash requirements through operating cash flows, capital market and bank financings, and equity contributions from Edison International Parent, as needed. In addition, SCE expects to fund costs related to the Eaton Fire through customer-funded self-insurance and reimbursement from the Initial Account of the Wildfire Fund. SCE also has availability under its credit facility and agreements with lenders to issue bilateral unsecured standby letters of credit to fund cash requirements. In July 2026, SCE Recovery Funding LLC issued approximately $2.0 billion of securitized recovery bonds to finance cost recoveries authorized under the Woolsey Settlement Agreement. For further details, see \"Management Overview—Southern California Wildfires and Mudslides\" in the 2025 Form 10-K and \"Notes to Condensed Consolidated Financial Statements—Note 3. Variable Interest Entities.\" During the six months ended June 30, 2026, SCE issued a total of $1.7 billion of first and refunding mortgage bonds. In February 2026, SCE entered into a term loan agreement to borrow $1.5 billion due in March 2027, which was partially used to repay all borrowings under a February 2026 $300 million unsecured term loan agreement. For further details, see \"Notes t o Condensed Consolidated Financial Statements— Note 5. Debt and Credit Agreemen",
+        "charRange": [
+          95853,
+          110853
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 4503,
+            "context": "sChannelDirectlyToConsumerMember eix:SouthernCaliforniaEdisonCompanyMember 2025-01-01 2025-06-30 0000827052 eix:AllOthersMember eix:SouthernCaliforniaEdisonCompanyMember 2025-01-01 2025-06-30 0000827052 eix:EatonFireMember eix:LongTermReceivablesFromWildfireFundRecoveriesMember 2026-06-30 0000827052 2025-11-30 0000827052 2025-11-30 2025-11-30 0000827052 us-gaap:PreferredStockMember 2025-12-31 0000827052 us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 2025-12-31 0000827052 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2025-12-31 0000827052 us-gaap:RetainedEarningsMember 2025-12-31"
+          },
+          {
+            "charIndex": 34703,
+            "context": "0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:FERCBalancingAccountsMember 2026-06-30 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:FERCBalancingAccountsMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:WildfireExpenseMemorandumAccountMember 2026-06-30 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:WildfireExpenseMemorandumAccountMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:WildfireAndDroughtRestorationAccountMember 2026-06-30 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:WildfireAndDroughtRestora"
+          },
+          {
+            "charIndex": 34810,
+            "context": "eix:SouthernCaliforniaEdisonCompanyMember eix:FERCBalancingAccountsMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:WildfireExpenseMemorandumAccountMember 2026-06-30 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:WildfireExpenseMemorandumAccountMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:WildfireAndDroughtRestorationAccountMember 2026-06-30 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:WildfireAndDroughtRestorationAccountMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:WoolseySettlementCost"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 39832,
+            "context": "18WildfireMudslideEventsMember 2026-06-30 0000827052 eix:OtherWildfireEventsMember 2026-06-30 0000827052 eix:EatonFireMember 2026-06-30 0000827052 eix:SEDSettlementMember eix:A20172018WildfireMudslideEventsMember 2026-06-30 0000827052 us-gaap:SettledLitigationMember eix:A20172018WildfireMudslideEventsMember 2025-12-31 0000827052 eix:SEDSettlementMember eix:A20172018WildfireMudslideEventsMember 2025-12-31 0000827052 eix:SEDSettlementMember eix:A20172018WildfireMudslideEventsMember 2026-06-30 0000827052 eix:SEDSettlementMember eix:A20172018WildfireMudslideEventsMember 2025-12-31 0000827052 eix:S"
+          },
+          {
+            "charIndex": 63490,
+            "context": "2025 in the CPUC-jurisdictional rate recovery proceeding related to the Woolsey Fire v Table of Contents FORWARD-LOOKING STATEMENTS This Quarterly Report on Form 10-Q contains \"forward-looking statements\" within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements reflect Edison International's and SCE's current expectations and projections about future events based on Edison International's and SCE's knowledge of present facts and circumstances and assumptions about future events and include any statements that do not directly relate to a historical"
+          },
+          {
+            "charIndex": 89250,
+            "context": "Multiple lawsuits related to the Eaton Fire have been initiated against SCE and Edison International by individual plaintiffs, subrogation plaintiffs, and public entity plaintiffs related to the Eaton Fire. A bellwether jury trial in the Eaton Fire litigation has been set for January 2027. SCE's internal review into the facts and circumstances of the Eaton Fire is complex an d ongoing. SCE's review includes ongoing inspections of its facilities and records and of third-party information and testing. While SCE has not conclusively determined that its equipment caused the ignition of the Eaton"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 218650,
+            "context": "nt have been filed by three categories of plaintiffs: individual plaintiffs, subrogation plaintiffs and public entity plaintiffs. A number of the lawsuits also name Edison International as a defendant and some of the lawsuits were filed as purported class actions. As of July 23, 2026, in addition to the outstanding claims of approximately 50 individual plaintiffs, there were alleged and potential claims of certain public entity plaintiffs, including CAL OES, outstanding. SCE has settled all fire suppression claims and subrogation plaintiffs' claims related to the 2017/2018 Wildfire/Mudslide Ev"
+          },
+          {
+            "charIndex": 228488,
+            "context": "for felony liability with regards to the Eaton Fire. Multiple lawsuits related to the Eaton Fire have been initiated against SCE. A number of the lawsuits also name Edison International as a defendant and some of the lawsuits were filed as purported class actions. As of July 23, 2026, SCE was aware of approximately 2,000 lawsuits related to the Eaton Fire: representing lawsuits by approximately 32,000 individual plaintiffs and also lawsuits by subrogation plaintiffs and public entity plaintiffs. A bellwether jury trial in the Eaton Fire litigation has been set for January 2027. SCE's internal"
+          },
+          {
+            "charIndex": 268579,
+            "context": "nt have been filed by three categories of plaintiffs: individual plaintiffs, subrogation plaintiffs and public entity plaintiffs. A number of the lawsuits also name Edison International as a defendant and some of the lawsuits were filed as purported class actions. As of July 23, 2026, in addition to the outstanding claims of approximately 50 of the approximately 15,000 initial individual plaintiffs, there were alleged and potential claims of certain public entity plaintiffs, including CAL OES, outstanding. SCE has settled all fire suppression and subrogation plaintiffs' claims related to the 2"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 53937,
+            "context": "r 17 Edison International Income T axes 18 Historical Cash Flows 18 Southern California Edison Company 18 Edison International Parent and Other 20 Contingencies 20 MARKET RISK EXPOSURES 20 CRITICAL ACCOUNTING ESTIMATES AND POLICIES 20 NEW ACCOUNTING GUIDANCE 21 QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 21 Part I, Item 3 CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 22 Part I, Item 1 Condensed Consolidated Statements of Income for Edison International 22 Condensed Consolidated Statements of Comprehensive Income for Edison International 23 Condensed Consolidated Balance Sheets for"
+          },
+          {
+            "charIndex": 136137,
+            "context": "nd Policies\" in the 2025 MD&A. In addition, for information regarding the Wildfire Fund, see \"Notes to Condensed Consolidated Financial Statements—Note 1. Summary of Significant Accounting Policies—Wildfire Fund.\" 20 Table of Contents NEW ACCOUNTING GUIDANCE New accounting guidance is discussed in \"Notes to Condensed Consolidated Financial Statements—Note 1. Summary of Significant Accounting Policies—New Accounting Guidance.\" QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK Information responding to this section is included in the MD&A under the heading \"Market Risk Exposures\" and is"
+          },
+          {
+            "charIndex": 136161,
+            "context": "MD&A. In addition, for information regarding the Wildfire Fund, see \"Notes to Condensed Consolidated Financial Statements—Note 1. Summary of Significant Accounting Policies—Wildfire Fund.\" 20 Table of Contents NEW ACCOUNTING GUIDANCE New accounting guidance is discussed in \"Notes to Condensed Consolidated Financial Statements—Note 1. Summary of Significant Accounting Policies—New Accounting Guidance.\" QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK Information responding to this section is included in the MD&A under the heading \"Market Risk Exposures\" and is incorporated herein by"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 70553,
+            "context": "ass or departure for other electricity providers such as CCAs and Electric Service Providers; &#8226; actions by credit rating agencies to downgrade Edison International or SCE's credit ratings or to place those ratings on negative watch or negative outlook, including downgrades that may be made if the California legislature does not timely adopt legislation that effectively mitigates the significant wildfire-related risk faced by California investor-owned utilities; &#8226; ability of Edison International or SCE to borrow funds and access bank and capital markets on reasonable terms; &#8226;"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 76175,
+            "context": "shareholders less non-core items. Non-core items include income or loss from discontinued operations and income or loss from significant discrete items that management does not consider representative of ongoing earnings, such as write-downs, asset impairments, and other income and expense related to changes in law, outcomes in tax, regulatory or legal proceedings, and exit activities, including sale of certain assets and other activities that are no longer continuing. SCE implemented a customer-funded wildfire self-insurance program in 2023. With the commencement of this program, Edison Inte"
+          },
+          {
+            "charIndex": 160763,
+            "context": "ncurred. The Wildfire Fund amortization period will be evaluated and adjusted prospectively as new or additional information on contributions and wildfire events, including reasonably estimated losses related to the Eaton Fire, becomes available. An impairment will be recorded to the Wildfire Fund contribution asset if the asset exceeds SCE's ability to benefit from the remaining coverage provided by the Wildfire Fund. SB 254 expands the Wildfire Fund originally created under AB 1054 by establishing the Continuation Account within the Wildfire Fund. As of June 30, 2026, and as of the date of t"
+          }
+        ],
+        "rate case": [
+          {
+            "charIndex": 59000,
+            "context": "y increasing the speed with which a protective device reacts to most fault currents FERC Federal Energy Regulatory Commission Fitch Fitch Ratings, Inc. GAAP generally accepted accounting principles in the United States GHG greenhouse gas GRC general rate case Initial Account an account within the Wildfire Fund established under AB 1054 available for fires ignited before the SB 254 Effective Date IRA Inflation Reduction Act of 2022 Koenigstein Fire a wind-driven fire that originated near Koenigstein Road in the City of Santa Paula in Ventura County, California, on December 4, 2017 LAFD the Los"
+          },
+          {
+            "charIndex": 199949,
+            "context": "making. For SCE, it includes property-related adjustments, the corporate alternative minimum tax, and other temporary differences which reverse over time. These flow-through items increase or decrease SCE's current authorized revenue requirements in rate cases and give rise to regulatory assets or liabilities for deferred income taxes expected to be realized in future periods. Differences between the amounts authorized in SCE's rate cases, adjusted for balancing and memorandum account activity, and flow-through amounts recorded also result in changes to tax-related regulatory assets and liabil"
+          },
+          {
+            "charIndex": 200131,
+            "context": "crease or decrease SCE's current authorized revenue requirements in rate cases and give rise to regulatory assets or liabilities for deferred income taxes expected to be realized in future periods. Differences between the amounts authorized in SCE's rate cases, adjusted for balancing and memorandum account activity, and flow-through amounts recorded also result in changes to tax-related regulatory assets and liabilities, with a corresponding impact on the effective tax rate, to the extent recovery in future rates is probable. For further information, see Note 11. The IRA imposed a CAMT, which"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 31123,
+            "context": "2 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:RepurchaseAgreementsMember 2026-06-30 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:RepurchaseAgreementsMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:RegulatoryClauseRevenuesUnderRecoveredMember 2026-06-30 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:RegulatoryClauseRevenuesUnderRecoveredMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:OtherRegulatoryAssetsLiabilitiesMember 2026-06-30 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:Other"
+          },
+          {
+            "charIndex": 31240,
+            "context": "forniaEdisonCompanyMember us-gaap:RepurchaseAgreementsMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:RegulatoryClauseRevenuesUnderRecoveredMember 2026-06-30 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:RegulatoryClauseRevenuesUnderRecoveredMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:OtherRegulatoryAssetsLiabilitiesMember 2026-06-30 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:OtherRegulatoryAssetsLiabilitiesMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:DeferredInc"
+          },
+          {
+            "charIndex": 31362,
+            "context": "er us-gaap:RegulatoryClauseRevenuesUnderRecoveredMember 2026-06-30 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:RegulatoryClauseRevenuesUnderRecoveredMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:OtherRegulatoryAssetsLiabilitiesMember 2026-06-30 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:OtherRegulatoryAssetsLiabilitiesMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:DeferredIncomeTaxChargesMember 2026-06-30 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:DeferredIncomeTaxChargesMember"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 35146,
+            "context": "sonCompanyMember eix:WildfireAndDroughtRestorationAccountMember 2026-06-30 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:WildfireAndDroughtRestorationAccountMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:WoolseySettlementCostRecoveryMember 2026-06-30 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:WoolseySettlementCostRecoveryMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:TaxAccountingMemorandumAccountAndPoleLoadingBalancingAccountMember 2026-06-30 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:TaxAccountingM"
+          },
+          {
+            "charIndex": 35250,
+            "context": "rniaEdisonCompanyMember eix:WildfireAndDroughtRestorationAccountMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:WoolseySettlementCostRecoveryMember 2026-06-30 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:WoolseySettlementCostRecoveryMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:TaxAccountingMemorandumAccountAndPoleLoadingBalancingAccountMember 2026-06-30 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:TaxAccountingMemorandumAccountAndPoleLoadingBalancingAccountMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonC"
+          },
+          {
+            "charIndex": 36303,
+            "context": "onCompanyMember eix:MontecitoMudslidesMember 2018-01-31 0000827052 us-gaap:SubsequentEventMember eix:SouthernCaliforniaEdisonCompanyMember eix:MontecitoMudslidesMember 2026-07-23 2026-07-23 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:SEDSettlementMember eix:A20172018WildfireMudslideEventsMember 2021-10-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:SEDSettlementMember eix:A20172018WildfireMudslideEventsMember 2021-10-01 2021-10-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:SEDSettlementMember eix:ThomasKoenigsteinFiresAndMontecitoMudslidesMember 2021-10-"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 44772,
+            "context": "June302023Member 2022-07-01 2023-06-30 0000827052 eix:SouthernCaliforniaEdisonCompanyMember 2022-07-01 2023-06-30 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:CommercialInsuranceCarriersMember 2022-07-01 2023-06-30 0000827052 eix:WildfireLiabilityInsuranceMember eix:SouthernCaliforniaEdisonCompanyMember us-gaap:SubsidiaryOfCommonParentMember 2023-01-01 2023-12-31 0000827052 eix:WildfireLiabilityInsuranceMember eix:SouthernCaliforniaEdisonCompanyMember us-gaap:SubsidiaryOfCommonParentMember 2024-01-01 2024-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:CustomerFunded"
+          },
+          {
+            "charIndex": 44923,
+            "context": "onCompanyMember eix:CommercialInsuranceCarriersMember 2022-07-01 2023-06-30 0000827052 eix:WildfireLiabilityInsuranceMember eix:SouthernCaliforniaEdisonCompanyMember us-gaap:SubsidiaryOfCommonParentMember 2023-01-01 2023-12-31 0000827052 eix:WildfireLiabilityInsuranceMember eix:SouthernCaliforniaEdisonCompanyMember us-gaap:SubsidiaryOfCommonParentMember 2024-01-01 2024-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:CustomerFundedSelfInsuranceMember 2024-07-01 2024-07-31 0000827052 eix:WildfireLiabilityInsuranceMember eix:SouthernCaliforniaEdisonCompanyMember us-gaap:SubsidiaryO"
+          },
+          {
+            "charIndex": 45187,
+            "context": "anceMember eix:SouthernCaliforniaEdisonCompanyMember us-gaap:SubsidiaryOfCommonParentMember 2024-01-01 2024-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:CustomerFundedSelfInsuranceMember 2024-07-01 2024-07-31 0000827052 eix:WildfireLiabilityInsuranceMember eix:SouthernCaliforniaEdisonCompanyMember us-gaap:SubsidiaryOfCommonParentMember 2025-01-01 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:WildfiresIgnitedBetweenJanuary12025AndDecember312025Member 2025-01-01 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:WildfiresIgnitedBetweenJanu"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-02-18",
+        "reportDate": "2025-12-31",
+        "accessionNumber": "0000827052-26-000012",
+        "primaryDocument": "eix-20251231.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/827052/000082705226000012/eix-20251231.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/827052/000082705226000012/"
+      },
+      "textLength": 715841,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations in Edison International's and SCE's combined Annual Report on Form 10-K for the year ended December 31, 2024, which was filed with the SEC in February 2025. MANAGEMENT OVERVIEW Highlights of Operating Results Edison International is the ultimate parent holding company of SCE and Edison Energy, LLC, doing business as Trio. SCE is an investor-owned public utility primarily engaged in the business of supplying and delivering electricity to an approximately 50,000 square mile area across Southern, Central and Coastal California. Trio is a global energy advisory firm providing integrated sustainability and energy solutions to commercial, industrial and institutional customers. Trio's business activities are currently not material to report as a separate business segment. Edison International's earnings are prepared in accordance with GAAP. Management uses core earnings (loss) internally for financial planning and for analysis of performance. Core earnings (loss) are also used when communicating with investors and analysts regarding Edison International's earnings results to facilitate comparisons of the company's performance from period to period. Core earnings (loss) are a non-GAAP financial measure and may not be comparable to those of other companies. Core earnings (loss) are defined as earnings available to Edison International shareholders less non-core items. Non-core items include income or loss from discontinued operations and income or loss from significant discrete items that management does not consider representative of ongoing earnings, such as write downs, asset impairments and other income and expense related to changes in law, outcomes in tax, regulatory or legal proceedings, and exit activities, including sale of certain assets and other activities that are no longer continuing. SCE implemented a customer-funded wildfire self-insurance program in July 2023. With the commencement of this program, Edison International and SCE no longer consider wildfire-related claim losses to be representative of ongoing earnings and treat such costs as non-core items. 3 Table of C ontents (in millions) 2025 2024 2025 vs. 2024 Change Net income (loss) available to Edison International SCE $ 4,889 $ 1,619 $ 3,270 Edison International Parent and Other (430) (335) (95) Edison International 4,459 1,284 3,175 Less: Non-core items SCE 2017/2018 Wildfire/Mudslide Events (claims and expenses), net of recoveries 2,961 (493) 3,454 Eaton Fire claims and expenses (15) — (15) Other Wildfire Events (claims and expenses), net of recoveries (1) (162) 161 Wildfire Fund expense (144) (146) 2 Net charges related to disallowed historical capital expenditures in SCE's 2025 GRC decision (76) — (76) Severance costs, net of recovery — (50) 50 Income tax (expense) benefit 1 (747) 238 (985) SCE non-core items 1,978 (613) 2,591 Edison International Parent and Other Wildfire claims insured by EIS (50) (4) (46) Income tax benefit 1 11 1 10 Edison International Parent and Other non-core items (39) (3) (36) Total non-core items 1,939 (616) 2,555 Core earnings (loss) SCE 2,911 2,232 679 Edison International Parent and Other (391) (332) (59) Edison International $ 2,520 $ 1,900 $ 620 1 SCE and Edison International Parent and Other non-core items are tax-effected at an estimated statutory rate of approximately 28%; wildfire claims insured by EIS insurance contract are tax-effected at the federal statutory rate of 21%. Edison International's 2025 earnings increased $3,175 million, driven by an increase in SCE's earnings of $3,270 million, partially offset by an increase in Edison International Parent and Other loss of $95 million. SCE's higher net income consisted of $679 million of higher core earnings and $2,591 million of higher non-core earnings. Edison International Parent and Other's higher net loss consisted of $59 million of higher core loss and $36 million of higher non-core loss. In January and December 2025, the CPUC approved the TKM Settlement Agreement and the Woolsey Settlement Agreement, respectively. As a result, in the year ended 2025, SCE recorded cost recoveries through CPUC electric rates authorized under both the TKM Settlement Agreement and the Woolsey Settlement Agreement. These cost recoveries are reflected either as core earnings or non-core items, as discussed below. This classification is consistent with the original classification when the respective costs were incurred. The increase in SCE's core earnings in 2025 was primarily due to higher revenue from the 2025 GRC final decision and a benefit to interest expense related to cost recoveries authorized under the TKM and Woolsey Settlement Agreements. The increase in Edison International Parent and Other's core loss in 2025, was primarily due to higher interest expense and preferred stock redemption loss. Consolidated non-core items for 2025 and 2024 for Edison International included: &#8226; 2017/2018 Wildfire/Mudslide Events claims and expenses, net of recoveries: &#8226; Net earnings recorded in 2025 related to the TKM Settlement Agreement, including ongoing legal expenses: $1,341 million ($966 million after-tax) of claim costs and $55 million ($40 million after-tax) of legal expenses authorized for recovery, partially offset by shareholder-funded wildfire mitigation expenses of $50 million ($36 million after-tax) and impairment of incremental restoration-related assets of $8 million ($6 million after-tax). 4 Table of C ontents &#8226; Net earnings recorded in 2025 related to the Woolsey Settlement Agreement, including ongoing legal expenses: $1,603 million ($1,154 million after-tax) of claim costs and $35 million ($25 million after-tax) of legal expenses authorized for recovery, partially offset by impairment of incremental restoration-related assets of $10 million ($7 million after-tax). &#8226; Charges of $5 million ($3 million after tax) recorded in 2025, and $493 million ($355 million after-tax) recorded in 2024, related to claim costs and related legal expenses, net of expected regulatory recoveries. See \"Notes to Consolidated Financial Statements—Note 12. Commitments and Contingencies\" for further information. &#8226; Eaton Fire claims and expenses: &#8226; Charges of $15 million ($11 million after tax) recorded in 2025 primarily from the shareholder contribution related to SCE's customer-funded self-insurance coverage and legal and other expenses. See \"Notes to Consolidated Financial Statements—Note 12. Commitments and Contingencies\" for further information. &#8226; Other Wildfire Events claims and expenses, net of recoveries: &#8226; Charges of $1 million ($1 million after-tax) recorded in 2025 consisted of $15 million of legal expenses, net of expected regulatory recoveries, partially offset by $14 million of insurance reimbursements for costs incurred in previous years. &#8226; Charges of $162 million ($117 million after-tax) recorded in 2024 for wildfire claims and related legal expenses, net of expected insurance and regulatory recoveries. See \"Notes to Consolidated Financial Statements—Note 12. Commitments and Contingencies\" for further information. &#8226; Charges of $144 million ($104 million after-tax) recorded in 2025 and $146 million ($105 million after-tax) recorded in 2024 from the amortization of SCE's contributions to the Wildfire Fund. See \"Notes to Consolidated Financial Statements—Note 1. Summary of Significant Accounting Policies\" for further information. &#8226; Net charges of $76 million ($39 million after-tax) recorded in 2025, primarily related to the impairment of utility property, plant and equipment associated with historical capital expenditures disallowed in SCE's 2025 GRC final decision. See \"Results of Operations —Impact of 2025 GRC\" for further information. &#8226; Severance costs of $50 million ($36 million after-tax), net of expected FERC recovery, recorded in 2024 due to reductions in workforce. &#8226; Charges of $50 million ($39 million after-tax) recorded in 2025 and $4 million ($3 million after-tax) recorded in 2024, both related to wildfire claims insured by EIS. See \"Notes to Consolidated Financial Statements— Note 12. Commitments and Contingencies\" for further information. See \"Results of Operations\" for discussion of SCE and Edison International Parent and Other results of operations. Electricity Industry Trends The electric power industry is undergoing urgent and fundamental changes in how energy infrastructure is planned and built, driven by new sources of demand, such as electric vehicles, data centers, and building electrification; technological innovations that support clean energy adoption, such as distributed generation and energy storage; and government actions to reduce GHG emissions. These factors, coupled with the increasing impacts of climate change, are altering the way in which electricity is generated and delivered. These changes are further amplified by rapidly rising electricity demand across the U.S. economy, which is reshaping investment needs and grid planning timelines. Rising electricity demand across the U.S. economy is a primary force reshaping grid needs and investment planning. SCE projects electricity demand to nearly double between 2025 and 2045, driven by transportation electrification, new residential housing, and increases in commercial and industrial consumption. These economy-wide trends create broad customer and climate benefits by supporting long-term emissions reduction. Emerging market uncertainties, tighter resource timelines, and rising costs have increased the complexity of long&#8209;term clean energy planning, adding pressure to California's climate goals. Despite this, California has demonstrated strong long-term support of transportation electrification. Edison International believes that more state policy support, along with public and private investment, is needed to enable California to reach its 2030 and 2045 GHG reduction targets. Additional policy and regulatory support is also needed to de-risk the development of clean firm resources, adjust planning processes to enable proactive grid build- 5 Table of C ontents out, and streamline permitting processes. The current federal administration has declared a national emergency on energy, stressing the need for a reliable, diversified, and affordable supply of energy. The integrity and expansion of energy infrastructure is an immediate and pressing priority. In parallel, climate change impacts continue to intensify the need for system resilience and clean&#8209;energy adoption. The impacts of climate change are apparent and accelerating. In 2024, the Earth experienced its hottest year on record. This spike in temperature is making extreme weather events commonplace. In California alone, climate-related disasters have cost the state tens of billions of dollars since 2018, with the 2025 wildfires being particularly devastating. Climate change is expected to have far-reaching effects on society, necessitating industry-wide solutions to enhance grid resilience and support a clean, reliable and affordable grid. Recent federal actions have challenged clean energy standards and regulations in jurisdictions across the country. Rising customer cost pressures underscore the importance of enacting electricity policies and investment decisions that balance affordability while supporting a reliable and clean energy transition. California remains committed to reducing its GHG emissions, improving local air quality and supporting continued economic growth. The state codified into law goals to reduce GHG emissions by 40% from 1990 levels by 2030 and 85% from the same baseline by 2045, as well as to be carbon neutral by 2045. State and local air quality plans also call for substantial improvements including reducing smog-causing nitrogen oxides 90% below 2010 levels by 2032 in the most polluted areas of the state. State and local agencies continue to develop regulations that support the state's climate and clean air goals. While these policy goals cannot be achieved by the electric sector alone, the electric grid is a critical enabler of the adoption of energy technologies that support California's GHG reduction objectives. California has set RPS targets which require California retail sellers of electricity to provide 60% of power from renewable resources by 2030. California also requires sellers of electricity to deliver 100% of retail sales from carbon-free sources by 2045, including interim targets of 90% by 2035 and 95% by 2040. Using preliminary estimates based on information available as of February 11, 2026, approximately 61% of SCE's customer deliveries in 2025 came from carbon-free resources. SCE continues to make progress towards meeting its long-term RPS and carbon-free power goals and interim targets. In addition, Edison International is committed to achieving net-zero GHG emissions by 2045, in alignment with economy-wide climate actions planned by California. This commitment covers the power SCE delivers to customers and Edison International's enterprise-wide operations. To further support these goals, Edison International and SCE are investing in building a more resilient grid to reduce climate- and weather-related vulnerabilities. Since 2018, SCE has been adapting to climate change through system hardening to reduce wildfire risk. SCE continues to make grid hardening investments approved in SCE's 2025 GRC to address wildfire risks. SCE is conducting ongoing analysis for wildfire and other climate adaptation vulnerabilities that will be presented in its 2026 climate adaptation vulnerability assessment. Edison International believes that California's 2045 goals can be achieved most economically through emissions reductions enabled by clean electricity to serve 100% of retail sales, electrifying approximately 90% of light-duty vehicles, 90% of medium-duty vehicles, 54% of heavy-duty vehicles, 80% of buses and 95% of buildings. Additionally, reducing emissions to near zero in the electric sector relies on developing clean firm resources to replace natural gas. Clean firm resources, such as next-generation geothermal, small modular nuclear reactors, natural gas with carbon capture and storage, and clean hydrogen, produce constant power through any weather condition or season with little or no greenhouse gas emissions. Edison International's vision is to lead the transformation of the electric power industry and the company is focused on opportunities in delivering clean energy, advancing electrification, building a modernized and more reliable grid, and enabling customers' technology choices. SCE's ongoing focus to drive operational and service excellence is intended to allow it to achieve these objectives safely while controlling costs and customer rates. SCE expects its bundled system average rate will rise at a compound annual growth rate equal to",
+        "charRange": [
+          130435,
+          145435
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors—Risks Relating to Edison International and Southern California Edison Company—Cybersecurity and Physical Security Risks.\" 136 Table of C ontents Risk Management, Strategy and Oversight SCE assesses and monitors cybersecurity risks to current infrastructure, new projects, and third parties, including vendors. SCE maintains incident response plans, utilizes cybersecurity incident response exercises, performs targeted audits, leverages third party assessments and uses the National Institute of Standards and Technology (\"NIST\") Cybersecurity Framework (\"CSF\") as a guideline to identify, evaluate and manage material risks from cybersecurity threats . SCE also engages consultants, and coordinates with the Federal government and industry peers, to assist in identifying, evaluating and managing its cybersecurity risks, and uses contractual terms to establish cybersecurity requirements with certain third parties . Identified cybersecurity risks are documented and presented to management to review and advise on cybersecurity strategies and mitigation measures. Based on management reviews, cybersecurity strategies and remediation plans are developed or adjusted to address pertinent risks. Edison International and SCE leverage training, policies, technical and procedural controls, and mitigation plans to address risks from cybersecurity t hreats. Management has established a cybersecurity oversight group comprised of a multidisciplinary senior management team, including its Vice President of Enterprise Risk Management, to monitor and provide strategic direction for the prevention, detection, mitigation, and remediation of risks from cybersecurity threats. A Boards of Directors' liaison regularly attends meetings of the cybersecurity oversight group and provides reports to the Safety and Operations Committees of the Boards of Directors . Other members of the Boards of Directors are invited to attend meetings and typically attend at least one meeting annually. The Edison International and SCE Audit and Finance Committees of the Boards of Directors oversee enterprise risk management, including risks from cybersecurity threats . Annually, Edison International and SCE's enterprise risk management team conducts a review of enterprise risks, including risks from cybersecurity threats, and presents the results of its review to management and the Audit and Finance Committees. In addition, the Boards of Directors have assigned primary responsibility for cybersecurity operations oversight to the Edison International and SCE Safety and Operations Committees, which receive semi-annual cybersecurity updates from SCE's Chief Security Officer on specific topics, including the dynamic cybersecurity landscape and defense and risk mitigation strategies. To inform its oversight over cybersecurity threats, SCE's Chief Security Officer also presents to the full Boards of Directors annually. The Boards of Directors also receive a periodic cybersecurity report from an external SCE consultant that includes an assessment of SCE's cybersecurity program and organization . SCE's Chief Security Officer has primary responsibility for assessing and managing risks from cybersecurity threats, and serves as Edison International and SCE's chief information security officer. SCE's Chief Security Officer has extensive experience in the cybersecurity industry, including previous experience in cybersecurity roles at Southern Company, the MITRE Corporation, NIST, and the Federal Bureau of Investigation. SCE's Chief Security Officer earned a bachelor's degree in computer information systems from Clemson University and is a Certified Information Systems Security Professional. For additional information on the Edison International Board of Directors cybersecurity related experience and oversight of cybersecurity risk management, see Edison International's Proxy Statement under the headings \"Director Skills Matrix\" and \"Oversight of Strategy, Risk and Sustainability.\" PROPERTIES As a holding company, Edison International does not directly own any significant properties other than the stock of its subsidiaries. The principal properties of SCE are described above under \"Business—SCE—Properties.\"",
+        "charRange": [
+          659460,
+          663689
+        ]
+      },
+      "keywordScan": {
+        "wildfire": [
+          {
+            "charIndex": 13859,
+            "context": "-01 2025-09-30 0000827052 eix:TKMSettlementAgreementMember eix:SouthernCaliforniaEdisonCompanyMember 2025-01-01 2025-12-31 0000827052 eix:WoolseySettlementAgreementMember eix:SouthernCaliforniaEdisonCompanyMember 2025-01-01 2025-12-31 0000827052 eix:WildfireInsuranceFundMember 2025-12-31 0000827052 eix:WildfireInsuranceFundMember 2024-12-31 0000827052 eix:WildfireInsuranceFundMember 2020-01-01 2020-12-31 0000827052 eix:WildfireInsuranceFundMember 2025-01-01 2025-12-31 0000827052 eix:WildfireInsuranceFundMember 2024-01-01 2024-12-31 0000827052 eix:WildfireInsuranceFundMember 2023-01-01 2023-12-"
+          },
+          {
+            "charIndex": 13913,
+            "context": "mber eix:SouthernCaliforniaEdisonCompanyMember 2025-01-01 2025-12-31 0000827052 eix:WoolseySettlementAgreementMember eix:SouthernCaliforniaEdisonCompanyMember 2025-01-01 2025-12-31 0000827052 eix:WildfireInsuranceFundMember 2025-12-31 0000827052 eix:WildfireInsuranceFundMember 2024-12-31 0000827052 eix:WildfireInsuranceFundMember 2020-01-01 2020-12-31 0000827052 eix:WildfireInsuranceFundMember 2025-01-01 2025-12-31 0000827052 eix:WildfireInsuranceFundMember 2024-01-01 2024-12-31 0000827052 eix:WildfireInsuranceFundMember 2023-01-01 2023-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMembe"
+          },
+          {
+            "charIndex": 13967,
+            "context": "-01 2025-12-31 0000827052 eix:WoolseySettlementAgreementMember eix:SouthernCaliforniaEdisonCompanyMember 2025-01-01 2025-12-31 0000827052 eix:WildfireInsuranceFundMember 2025-12-31 0000827052 eix:WildfireInsuranceFundMember 2024-12-31 0000827052 eix:WildfireInsuranceFundMember 2020-01-01 2020-12-31 0000827052 eix:WildfireInsuranceFundMember 2025-01-01 2025-12-31 0000827052 eix:WildfireInsuranceFundMember 2024-01-01 2024-12-31 0000827052 eix:WildfireInsuranceFundMember 2023-01-01 2023-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:EatonFireMember 2025-01-01 2025-12-31 0000827052"
+          }
+        ],
+        "litigation": [
+          {
+            "charIndex": 77663,
+            "context": "onFireMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:A20172018WildfireMudslideEventsMember 2024-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:OtherWildfireEventsMember 2024-12-31 0000827052 us-gaap:SettledLitigationMember eix:A20172018WildfireMudslideEventsMember 2025-12-31 0000827052 eix:SEDSettlementMember eix:A20172018WildfireMudslideEventsMember 2025-12-31 0000827052 us-gaap:SettledLitigationMember eix:A20172018WildfireMudslideEventsMember 2024-12-31 0000827052 eix:SEDSettlementMember eix:A20172018WildfireMudslideEventsMember 2024-12-31 00008270"
+          },
+          {
+            "charIndex": 77847,
+            "context": "ix:OtherWildfireEventsMember 2024-12-31 0000827052 us-gaap:SettledLitigationMember eix:A20172018WildfireMudslideEventsMember 2025-12-31 0000827052 eix:SEDSettlementMember eix:A20172018WildfireMudslideEventsMember 2025-12-31 0000827052 us-gaap:SettledLitigationMember eix:A20172018WildfireMudslideEventsMember 2024-12-31 0000827052 eix:SEDSettlementMember eix:A20172018WildfireMudslideEventsMember 2024-12-31 0000827052 eix:SEDSettlementMember eix:A20172018WildfireMudslideEventsMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:A20172018WildfireMudslideEventsMember 2025-01-0"
+          },
+          {
+            "charIndex": 120069,
+            "context": "2025 in the CPUC-jurisdictional rate recovery proceeding related to the Woolsey Fire vii Table of C ontents FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K contains \"forward-looking statements\" within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements reflect Edison International's and SCE's current expectations and projections about future events based on Edison International's and SCE's knowledge of present facts and circumstances and assumptions about future events and include any statements that do not directly relate to a historical"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 504003,
+            "context": "nt have been filed by three categories of plaintiffs: individual plaintiffs, subrogation plaintiffs and public entity plaintiffs. A number of the lawsuits also name Edison International as a defendant and some of the lawsuits were filed as purported class actions. As of February 11, 2026, in addition to the outstanding claims of approximately 100 individual plaintiffs, there were alleged and potential claims of certain public entity plaintiffs, including CAL OES, outstanding. SCE has settled all fire suppression claims and subrogation plaintiffs' claims related to the 2017/2018 Wildfire/Mudsli"
+          },
+          {
+            "charIndex": 517293,
+            "context": "for felony liability with regards to the Eaton Fire. Multiple lawsuits related to the Eaton Fire have been initiated against SCE. A number of the lawsuits also name Edison International as a defendant and some of the lawsuits were filed as purported class actions. As of February 11, 2026, SCE was aware of approximately 1,500 lawsuits related to the Eaton Fire: representing lawsuits by approximately 20,000 individual plaintiffs and also lawsuits by subrogation plaintiffs and public entity plaintiffs. A bellwether jury trial in the Eaton Fire litigation has been set for January 2027. SCE's inter"
+          },
+          {
+            "charIndex": 664078,
+            "context": "nt have been filed by three categories of plaintiffs: individual plaintiffs, subrogation plaintiffs and public entity plaintiffs. A number of the lawsuits also name Edison International as a defendant and some of the lawsuits were filed as purported class actions. As of February 11, 2026, in addition to the outstanding claims of approximately 100 claims of approximately 15,000 initial individual plaintiffs, there were alleged and potential claims of certain public entity plaintiffs, including CAL OES, outstanding. SCE has settled all fire suppression and subrogation plaintiffs' claims related"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 107379,
+            "context": "ies 28 Rate Regulated Enterprises 29 Income Taxes 30 Nuclear Decommissioning &#8211; Asset Retirement Obligation 31 i Table of C ontents Pensions and Postretirement Benefits Other than Pensions 32 Contributions to the Wildfire Fund 33 NEW ACCOUNTING GUIDANCE 34 RISK FACTORS 34 Part I, Item 1A RISKS RELATING TO EDISON INTERNATIONAL 34 RISKS RELATING TO SOUTHERN CALIFORNIA EDISON COMPANY 34 Regulatory and Legislative Risks 34 Operating Risks 36 Financing Risks 39 Competitive and Market Risks 40 RISKS RELATING TO EDISON INTERNATIONAL AND SOUTHERN CALIFORNIA EDISON COMPANY 40 Cybersecurity and Phy"
+          },
+          {
+            "charIndex": 228113,
+            "context": "g account, see \"Business—SCE—Overview of Ratemaking Process.\" Fair Value of Derivative Instruments The fair value of derivative instruments is included in the consolidated balance sheets unless subject to an exception under the applicable accounting guidance. Realized gains and losses from derivative instruments are expected to be recovered from or refunded to customers through regulatory mechanisms and, accordingly, changes in the fair value of derivative instruments have no impact on earnings. SCE does not use hedge accounting for these transactions due to this regulatory accounting treatmen"
+          },
+          {
+            "charIndex": 246362,
+            "context": "pplicable tax laws. However, these tax positions are subject to interpretation by the Internal Revenue Service, state tax authorities and the courts. Edison International and SCE determine uncertain tax positions in accordance with the authoritative guidance. Key Assumptions and Approach Used. In determining whether it is more likely than not that all or some portion of net operating loss and tax credit carryforwards can be utilized, management analyzes the trend of GAAP earnings and then estimates the impact of future taxable income, reversing temporary differences and available prudent and f"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 126950,
+            "context": "ass or departure for other electricity providers such as CCAs and Electric Service Providers; &#8226; actions by credit rating agencies to downgrade Edison International or SCE's credit ratings or to place those ratings on negative watch or negative outlook; &#8226; ability of Edison International or SCE to borrow funds and access bank and capital markets on reasonable terms; &#8226; changes in tax laws and regulations, at both the state and federal levels, or changes in the application of those laws, that could affect recorded deferred tax assets and liabilities, effective tax rates and cash"
+          },
+          {
+            "charIndex": 186738,
+            "context": "vidends, see \"Notes to Consolidated Financial Statements—Note 1. Summary of Significant Accounting Policies—SCE Dividends.\" Credit Ratings Following the passage of SB 254 in September 2025, Moody's reaffirmed SCE's long-term issuer credit rating and outlook, and Fitch also reaffirmed SCE's credit rating and revised its outlook from ratings watch negative to stable. However, S&P 16 Table of C ontents downgraded SCE's long-term issuer credit rating. For further details on SB 254, see \"Business—Southern California Wildfires—Recovery of Wildfire-Related Costs—California Wildfire Legislation.\" The"
+          },
+          {
+            "charIndex": 186809,
+            "context": "y of Significant Accounting Policies—SCE Dividends.\" Credit Ratings Following the passage of SB 254 in September 2025, Moody's reaffirmed SCE's long-term issuer credit rating and outlook, and Fitch also reaffirmed SCE's credit rating and revised its outlook from ratings watch negative to stable. However, S&P 16 Table of C ontents downgraded SCE's long-term issuer credit rating. For further details on SB 254, see \"Business—Southern California Wildfires—Recovery of Wildfire-Related Costs—California Wildfire Legislation.\" The following table summarizes SCE's current long-ter m issuer credit ratin"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 97,
+            "context": "eix-20251231 0000827052 FY FALSE 2025 0000092103 FY FALSE 2025 http://fasb.org/us-gaap/2025#AssetImpairmentCharges http://xbrl.sec.gov/country/2025#US http://xbrl.sec.gov/country/2025#US http://xbrl.sec.gov/country/2025#US P3Y http://fasb.org/us-gaap/2025#OtherLiabilitiesNoncurrent 791 iso4217:USD xbrli:shares iso4217:USD xbrli:shares utr:sqmi xbrli:pure utr:MW iso4217:USD utr:MWh utr:GWh utr:Bcfe utr:acre eix:item eix:individual eix:plaintiff"
+          },
+          {
+            "charIndex": 132119,
+            "context": "shareholders less non-core items. Non-core items include income or loss from discontinued operations and income or loss from significant discrete items that management does not consider representative of ongoing earnings, such as write downs, asset impairments and other income and expense related to changes in law, outcomes in tax, regulatory or legal proceedings, and exit activities, including sale of certain assets and other activities that are no longer continuing. SCE implemented a customer-funded wildfire self-insurance program in July 2023. With the commencement of this program, Edison"
+          },
+          {
+            "charIndex": 135879,
+            "context": "$1,341 million ($966 million after-tax) of claim costs and $55 million ($40 million after-tax) of legal expenses authorized for recovery, partially offset by shareholder-funded wildfire mitigation expenses of $50 million ($36 million after-tax) and impairment of incremental restoration-related assets of $8 million ($6 million after-tax). 4 Table of C ontents &#8226; Net earnings recorded in 2025 related to the Woolsey Settlement Agreement, including ongoing legal expenses: $1,603 million ($1,154 million after-tax) of claim costs and $35 million ($25 million after-tax) of legal expenses author"
+          }
+        ],
+        "rate case": [
+          {
+            "charIndex": 115100,
+            "context": "y increasing the speed with which a protective device reacts to most fault currents FERC Federal Energy Regulatory Commission Fitch Fitch Ratings, Inc. GAAP generally accepted accounting principles in the United States GHG greenhouse gas GRC general rate case Initial Account an account within the Wildfire Fund established under AB 1054 available for fires ignited before the SB 254 Effective Date IRA Inflation Reduction Act of 2022 Koenigstein Fire a wind-driven fire that originated near Koenigstein Road in the City of Santa Paula in Ventura County, California, on December 4, 2017 v Table of C"
+          },
+          {
+            "charIndex": 388613,
+            "context": "ure rates, the amount of revenue for the period is objectively determinable and probable of recovery and the revenue will be collected within 24 months following the end of the annual period. 66 Table of C ontents Regulatory Proceedings 2025 General Rate Case In September 2025, the CPUC approved a final decision in SCE's 2025 GRC, authorized a base rate revenue requirement of $ 9.7 billion for 2025, an increase of $ 1.1 billion over the revenue requirement authorized for 2024. See Note 11 for further information. Power Purchase Agreements SCE enters into power purchase agreements (\"PPAs\") in t"
+          },
+          {
+            "charIndex": 441308,
+            "context": "The CPUC requires flow-through ratemaking treatment for the current tax benefit arising from certain property-related and other temporary differences which reverse over time. Flow-through items reduce current authorized revenue requirements in SCE's rate cases and result in a regulatory asset for recovery of deferred income taxes in future periods. The difference between the authorized amounts as determined in SCE's rate cases, adjusted for balancing and memorandum account activities, and the recorded flow-through items also result in increases or decreases in regulatory assets with a correspo"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 66820,
+            "context": "ortizedInvestmentsNetOfAccumulatedAmortizationMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:UnamortizedInvestmentsNetOfAccumulatedAmortizationMember 2024-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:RegulatoryClauseRevenuesUnderRecoveredMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:RegulatoryClauseRevenuesUnderRecoveredMember 2024-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:OtherRegulatoryAssetsLiabilitiesMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:Other"
+          },
+          {
+            "charIndex": 66937,
+            "context": "eix:UnamortizedInvestmentsNetOfAccumulatedAmortizationMember 2024-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:RegulatoryClauseRevenuesUnderRecoveredMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:RegulatoryClauseRevenuesUnderRecoveredMember 2024-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:OtherRegulatoryAssetsLiabilitiesMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:OtherRegulatoryAssetsLiabilitiesMember 2024-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:DeferredInc"
+          },
+          {
+            "charIndex": 67059,
+            "context": "er us-gaap:RegulatoryClauseRevenuesUnderRecoveredMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:RegulatoryClauseRevenuesUnderRecoveredMember 2024-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:OtherRegulatoryAssetsLiabilitiesMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:OtherRegulatoryAssetsLiabilitiesMember 2024-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:DeferredIncomeTaxChargesMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember us-gaap:DeferredIncomeTaxChargesMember"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 13642,
+            "context": "hernCaliforniaEdisonCompanyMember 2024-01-01 2024-12-31 0000827052 us-gaap:OtherIncomeMember eix:SouthernCaliforniaEdisonCompanyMember 2023-01-01 2023-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember 2025-09-01 2025-09-30 0000827052 eix:TKMSettlementAgreementMember eix:SouthernCaliforniaEdisonCompanyMember 2025-01-01 2025-12-31 0000827052 eix:WoolseySettlementAgreementMember eix:SouthernCaliforniaEdisonCompanyMember 2025-01-01 2025-12-31 0000827052 eix:WildfireInsuranceFundMember 2025-12-31 0000827052 eix:WildfireInsuranceFundMember 2024-12-31 0000827052 eix:WildfireInsuranceFundMemb"
+          },
+          {
+            "charIndex": 13754,
+            "context": "niaEdisonCompanyMember 2023-01-01 2023-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember 2025-09-01 2025-09-30 0000827052 eix:TKMSettlementAgreementMember eix:SouthernCaliforniaEdisonCompanyMember 2025-01-01 2025-12-31 0000827052 eix:WoolseySettlementAgreementMember eix:SouthernCaliforniaEdisonCompanyMember 2025-01-01 2025-12-31 0000827052 eix:WildfireInsuranceFundMember 2025-12-31 0000827052 eix:WildfireInsuranceFundMember 2024-12-31 0000827052 eix:WildfireInsuranceFundMember 2020-01-01 2020-12-31 0000827052 eix:WildfireInsuranceFundMember 2025-01-01 2025-12-31 0000827052 eix:Wildfir"
+          },
+          {
+            "charIndex": 70807,
+            "context": "nCaliforniaEdisonCompanyMember eix:WildfireAndDroughtRestorationMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:WildfireAndDroughtRestorationMember 2024-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:WoolseySettlementCostRecoveryMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:WoolseySettlementCostRecoveryMember 2024-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:TaxAccountingMemorandumAccountMember 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:TaxAccountingMemorandumAccountMember 2024-12"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 85683,
+            "context": "Member eix:SouthernCaliforniaEdisonCompanyMember 2022-07-01 2023-06-30 0000827052 eix:SouthernCaliforniaEdisonCompanyMember 2025-01-01 2025-03-31 0000827052 us-gaap:SubsidiaryOfCommonParentMember eix:SouthernCaliforniaEdisonCompanyMember eix:WildfireLiabilityInsuranceMember 2023-01-01 2023-12-31 0000827052 us-gaap:SubsidiaryOfCommonParentMember eix:SouthernCaliforniaEdisonCompanyMember eix:WildfireLiabilityInsuranceMember 2024-01-01 2024-12-31 0000827052 eix:CustomerFundedSelfInsuranceMember eix:SouthernCaliforniaEdisonCompanyMember 2024-07-01 2024-07-31 0000827052 us-gaap:SubsidiaryOfCommonPa"
+          },
+          {
+            "charIndex": 85834,
+            "context": "27052 us-gaap:SubsidiaryOfCommonParentMember eix:SouthernCaliforniaEdisonCompanyMember eix:WildfireLiabilityInsuranceMember 2023-01-01 2023-12-31 0000827052 us-gaap:SubsidiaryOfCommonParentMember eix:SouthernCaliforniaEdisonCompanyMember eix:WildfireLiabilityInsuranceMember 2024-01-01 2024-12-31 0000827052 eix:CustomerFundedSelfInsuranceMember eix:SouthernCaliforniaEdisonCompanyMember 2024-07-01 2024-07-31 0000827052 us-gaap:SubsidiaryOfCommonParentMember eix:SouthernCaliforniaEdisonCompanyMember eix:WildfireLiabilityInsuranceMember 2025-01-01 2025-12-31 0000827052 eix:SouthernCaliforniaEdison"
+          },
+          {
+            "charIndex": 86098,
+            "context": "anceMember 2024-01-01 2024-12-31 0000827052 eix:CustomerFundedSelfInsuranceMember eix:SouthernCaliforniaEdisonCompanyMember 2024-07-01 2024-07-31 0000827052 us-gaap:SubsidiaryOfCommonParentMember eix:SouthernCaliforniaEdisonCompanyMember eix:WildfireLiabilityInsuranceMember 2025-01-01 2025-12-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:ThomasKoenigsteinFiresAndMontecitoMudslidesMember 2019-01-01 2024-05-31 0000827052 eix:SouthernCaliforniaEdisonCompanyMember eix:ThomasAndKoenigsteinFiresAndMontecitoMudslidesTKMMember 2019-01-01 2024-05-31 0000827052 eix:SouthernCaliforniaEdison"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "Revenues",
+      "points": [
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 4103000000,
+          "accn": "0000827052-26-000042",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 19317000000,
+          "accn": "0000827052-26-000012",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-18",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 5750000000,
+          "accn": "0000827052-25-000100",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-28",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 14104000000,
+          "accn": "0000827052-25-000100",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-28"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 4543000000,
+          "accn": "0000827052-25-000074",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-31",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-06-30",
+          "val": 8354000000,
+          "accn": "0000827052-25-000074",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-31"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 3811000000,
+          "accn": "0000827052-26-000042",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 3811000000,
+          "accn": "0000827052-25-000043",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-04-29"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 1.37,
+          "accn": "0000827052-26-000042",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 11.55,
+          "accn": "0000827052-26-000012",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-18",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 2.16,
+          "accn": "0000827052-25-000100",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-28",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 6.76,
+          "accn": "0000827052-25-000100",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-28"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 0.89,
+          "accn": "0000827052-25-000074",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-31",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-06-30",
+          "val": 4.61,
+          "accn": "0000827052-25-000074",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-31"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 3.72,
+          "accn": "0000827052-26-000042",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 3.72,
+          "accn": "0000827052-25-000043",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-04-29"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 531000000,
+          "accn": "0000827052-26-000042",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 4459000000,
+          "accn": "0000827052-26-000012",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-18",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 832000000,
+          "accn": "0000827052-25-000100",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-28",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 2611000000,
+          "accn": "0000827052-25-000100",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-28"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 343000000,
+          "accn": "0000827052-25-000074",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-31",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-06-30",
+          "val": 1779000000,
+          "accn": "0000827052-25-000074",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-31"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 1436000000,
+          "accn": "0000827052-26-000042",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 1436000000,
+          "accn": "0000827052-25-000043",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-04-29"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 1074000000,
+          "accn": "0000827052-26-000042",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "val": 7093000000,
+          "accn": "0000827052-26-000012",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-02-18",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 1432000000,
+          "accn": "0000827052-25-000100",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-28",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-09-30",
+          "val": 4341000000,
+          "accn": "0000827052-25-000100",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-10-28"
+        },
+        {
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 775000000,
+          "accn": "0000827052-25-000074",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-31",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-06-30",
+          "val": 2909000000,
+          "accn": "0000827052-25-000074",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-07-31"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 2134000000,
+          "accn": "0000827052-26-000042",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-04-28",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 2134000000,
+          "accn": "0000827052-25-000043",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-04-29"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "EIX",
+    "name": "EDISON INTERNATIONAL",
+    "sector": "Electric Services",
+    "pe": 6.65,
+    "pb": 1.49,
+    "ret3m": -1.0792,
+    "ret6m": 10.3286,
+    "roe": 25.74,
+    "debtEquity": 2.399,
+    "revenueGrowth": 9.76,
+    "epsGrowth": 248.94,
+    "fcfGrowth": null,
+    "operatingMargin": 36.72,
+    "marginTrend": 20.07,
+    "sentiment": 0.083,
+    "analyst": 59.1,
+    "beta": 0.6421329
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "A High-Yield Dividend Bundle for Income Investors to Buy in August",
+        "url": "https://finnhub.io/api/news?id=ba68797cc56ffe3623a915e668947db49eccdc1cc86ade10257a86f1bb0a19da",
+        "source": "Yahoo",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "Evergy's Q2 Earnings Beat Estimates, Revenues Increase Y/Y",
+        "url": "https://finnhub.io/api/news?id=aa0acfa57bf7da3268909c6d49be838b36e5d77fcd03e528513864e215b295a0",
+        "source": "Yahoo",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "Correction: S&P 500 Posts Weekly Gain Amid AI Monetization Optimism",
+        "url": "https://finnhub.io/api/news?id=8cc65415fbe0311fedf94d3d41ecc9c384db487c9f0d4cdeabb2d415a6dde459",
+        "source": "Yahoo",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "Spire's Q3 Loss Wider Than Estimates, Revenues Decrease Y/Y",
+        "url": "https://finnhub.io/api/news?id=362ccf3ec35a268628c1141690af50c5582d9347451e4533c0c1ddc5b086fbd5",
+        "source": "Yahoo",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "PEG Q2 Earnings Outpace Expectations, Revenues Decrease Y/Y",
+        "url": "https://finnhub.io/api/news?id=f54db0ce44a9d85389c7a6dd52dbd331d28b10bc9f419025eb552cc965a41242",
+        "source": "Yahoo",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "NRG Energy Q2 Earnings Lag Estimates, Revenues Increase Y/Y",
+        "url": "https://finnhub.io/api/news?id=4905d66e4ebe1c79d6896c4604df811ef415422d11c75d90a321f55c64f02ea8",
+        "source": "Yahoo",
+        "date": "2026-08-04"
+      }
+    ],
+    "cachedAt": "2026-08-11T05:50:00.160Z"
+  }
+}

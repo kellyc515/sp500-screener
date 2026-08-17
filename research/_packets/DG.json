@@ -1,0 +1,694 @@
+{
+  "ticker": "DG",
+  "entityName": "DOLLAR GENERAL CORP",
+  "cik": "0000029534",
+  "generatedAt": "2026-08-11T18:22:26.940Z",
+  "filings": {
+    "10-Q": {
+      "meta": {
+        "form": "10-Q",
+        "filingDate": "2026-06-02",
+        "reportDate": "2026-05-01",
+        "accessionNumber": "0001104659-26-069205",
+        "primaryDocument": "dg-20260501x10q.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/29534/000110465926069205/dg-20260501x10q.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/29534/000110465926069205/"
+      },
+      "textLength": 113629,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations&#8221; of this Form 10-Q. &#8203; ITEM 5. OTHER INFORMATION. &#8203; Insider Trading Arrangements . During our fiscal quarter ended May 1, 2026 , none of our directors or officers (as defined in Rule 16a-1(f) of the Exchange Act) adopted or terminated a &#8220;Rule 10 b5-1 trading arrangement&#8221; or a &#8220;non-Rule 10 b5-1 trading arrangement&#8221; (as such terms are defined in Item 408 of Regulation S-K). &#8203; ITEM 6.",
+        "charRange": [
+          107574,
+          108092
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "RISK FACTORS. &#8203; There have been no material changes to the disclosures relating to this item from those set forth in our Annual Report on Form 10-K for the fiscal year ended January 30, 2026, other than as set forth in the discussion of certain items that have impacted or could impact our business or results of operations during 2026 or in the future as disclosed in the &#8220;Executive Overview&#8221; section within &#8220;Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations&#8221; of this Form 10-Q. &#8203; ITEM 5. OTHER INFORMATION. &#8203; Insider Trading Arrangements . During our fiscal quarter ended May 1, 2026 , none of our directors or officers (as defined in Rule 16a-1(f) of the Exchange Act) adopted or terminated a &#8220;Rule 10 b5-1 trading arrangement&#8221; or a &#8220;non-Rule 10 b5-1 trading arrangement&#8221; (as such terms are defined in Item 408 of Regulation S-K). &#8203; ITEM 6.",
+        "charRange": [
+          107132,
+          108092
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 10428,
+            "context": "203; &#8203; 1\n&#8203; &#8203; &#8203; &#8203; CAUTIONARY DISCLOSURE REGARDING FORWARD-LOOKING STATEMENTS &#8203; We include &#8220;forward-looking statements&#8221; within the meaning of the federal securities laws, including the Private Securities Litigation Reform Act, throughout this report, particularly under &#8220;Management's Discussion and Analysis of Financial Condition and Results of Operations&#8221; included in Part I, Item 2, and &#8220;Note 7. Commitments and Contingencies&#8221; included in Part I, Item 1, among others. You can identify these statements because they are not lim"
+          },
+          {
+            "charIndex": 13819,
+            "context": "e programs, such as Supplemental Nutrition Assistance Program (&#8220;SNAP&#8220;) benefits, unemployment benefits, and economic stimulus payments; and &#9679; expected outcome or effect of pending or threatened legal disputes, governmental actions, litigation or audits. &#8203; Forward-looking statements are subject to risks, uncertainties and other factors that may change at any time and may cause our actual results to differ materially from those that we expected. We derive many of these statements from our operating budgets and forecasts as of the date of this document, which are based on"
+          },
+          {
+            "charIndex": 22756,
+            "context": "ffecting our overall effective tax rate, and uncertainty surrounding potential changes to the regulatory environment under the current U.S. administration; &#8203; &#9679; developments in or outcomes of private actions, class actions, multi-district litigation, arbitrations, derivative actions, administrative proceedings, regulatory actions or other litigation or of inquiries from federal, state and local agencies, regulatory authorities, attorneys general, committees, subcommittees and members of the U.S. Congress, and other local, state, federal and international governmental authorities; &#"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 22726,
+            "context": "porting positions negatively affecting our overall effective tax rate, and uncertainty surrounding potential changes to the regulatory environment under the current U.S. administration; &#8203; &#9679; developments in or outcomes of private actions, class actions, multi-district litigation, arbitrations, derivative actions, administrative proceedings, regulatory actions or other litigation or of inquiries from federal, state and local agencies, regulatory authorities, attorneys general, committees, subcommittees and members of the U.S. Congress, and other local, state, federal and internationa"
+          },
+          {
+            "charIndex": 57778,
+            "context": "statements. For some matters, a liability is not probable or the amount cannot be reasonably estimated and therefore an accrual has not been made. &#8203; On November 27, 2023, and November 30, 2023, respectively, the following putative shareholder class action lawsuits were filed in the United States District Court for the Middle District of Tennessee in which the plaintiffs allege that during the putative class periods noted below, the Company and certain of its current and former officers violated the federal securities laws by misrepresenting the impact of alleged store labor, inventory,"
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 23135,
+            "context": "from federal, state and local agencies, regulatory authorities, attorneys general, committees, subcommittees and members of the U.S. Congress, and other local, state, federal and international governmental authorities; &#8203; &#9679; new accounting guidance or changes in the interpretation or application of existing guidance; &#8203; &#9679; factors disclosed under &#8220;Risk Factors&#8221; in Part I, Item 1A of our Form 10-K for the fiscal year ended January 30, 2026; and &#8203; &#9679; factors disclosed elsewhere in this document (including, without limitation, in conjunction with the for"
+          },
+          {
+            "charIndex": 23204,
+            "context": "neys general, committees, subcommittees and members of the U.S. Congress, and other local, state, federal and international governmental authorities; &#8203; &#9679; new accounting guidance or changes in the interpretation or application of existing guidance; &#8203; &#9679; factors disclosed under &#8220;Risk Factors&#8221; in Part I, Item 1A of our Form 10-K for the fiscal year ended January 30, 2026; and &#8203; &#9679; factors disclosed elsewhere in this document (including, without limitation, in conjunction with the forward-looking statements themselves) and other factors. &#8203; 4\n&#82"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 11362,
+            "context": "ed on,&#8221; &#8220;forecast,&#8221; &#8220;future,&#8221; &#8220;goal,&#8221; &#8220;intend,&#8221; &#8220;likely,&#8221; &#8220;long-term,&#8221; &#8220;may,&#8221; &#8220;objective,&#8221; &#8220;ongoing,&#8221; &#8220;opportunity,&#8221; &#8220;outlook,&#8221; &#8220;over time,&#8221; &#8220;plan,&#8221; &#8220;position,&#8221; &#8220;potential,&#8221; &#8220;predict,&#8221; &#8220;project,&#8221; &#8220;prospect,&#8221; &#8220;scheduled,&#8221; &#8220;seek,&#8221; &#8220;should,&#8221; &#8220;strive,&#8221; &#8220;subject to,&#8221; &#8220;uncertain,&#8221; &#8220;will&#8221; or &#8220;w"
+          },
+          {
+            "charIndex": 11809,
+            "context": "&#8221; &#8220;seek,&#8221; &#8220;should,&#8221; &#8220;strive,&#8221; &#8220;subject to,&#8221; &#8220;uncertain,&#8221; &#8220;will&#8221; or &#8220;would&#8221; and similar expressions that concern our strategies, plans, initiatives, intentions, outlook or beliefs about future occurrences or results. For example, all statements relating to, among others, the following are forward-looking statements: &#9679; our projections and expectations regarding expenditures, costs, cash flows, results of operations, financial condition and liquidity; &#9679; our expectations regarding economic and com"
+          },
+          {
+            "charIndex": 98113,
+            "context": "levels and within time frames deemed acceptable to the rating agencies. The credit ratings for our borrowings are as follows: &#8203; &#8203; &#8203; &#8203; Rating Agency &#8203; Senior unsecured debt rating &#8203; Commercial paper rating &#8203; Outlook Moody's &#8203; Baa3 &#8203; P-3 &#8203; Stable outlook Standard & Poor's &#8203; BBB &#8203; A-2 &#8203; Stable outlook &#8203; Changes in Cash Flows &#8203; Unless otherwise noted, all references to the 2026 and 2025 periods in the discussion of cash flows from operating, investing and financing activities below refer to the 13-week perio"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 13285,
+            "context": "ff refunds), inflationary, fuel and labor pressures; &#9679; expectations regarding cash dividends and stock repurchases; &#9679; anticipated borrowing under our credit agreement and our commercial paper program; &#9679; potential impact of legal or regulatory changes or governmental assistance or stimulus programs and our responses thereto, including without limitation potential further federal, state and/or local minimum wage increases or changes to salary levels, as well as changes to certain government policies and assistance programs, such as Supplemental Nutrition Assistance Program (&#8"
+          },
+          {
+            "charIndex": 22600,
+            "context": ", the interpretation of existing tax laws, the expiration of the Work Opportunity Tax Credit, or our failure to sustain our reporting positions negatively affecting our overall effective tax rate, and uncertainty surrounding potential changes to the regulatory environment under the current U.S. administration; &#8203; &#9679; developments in or outcomes of private actions, class actions, multi-district litigation, arbitrations, derivative actions, administrative proceedings, regulatory actions or other litigation or of inquiries from federal, state and local agencies, regulatory authorities, a"
+          },
+          {
+            "charIndex": 22830,
+            "context": "tial changes to the regulatory environment under the current U.S. administration; &#8203; &#9679; developments in or outcomes of private actions, class actions, multi-district litigation, arbitrations, derivative actions, administrative proceedings, regulatory actions or other litigation or of inquiries from federal, state and local agencies, regulatory authorities, attorneys general, committees, subcommittees and members of the U.S. Congress, and other local, state, federal and international governmental authorities; &#8203; &#9679; new accounting guidance or changes in the interpretation or"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 44558,
+            "context": ", upon examination by the taxing authorities. If the tax position is expected to meet the more likely than not criteria, the benefit recorded for the tax position equals the largest amount that is greater than 50% likely to be realized upon ultimate settlement of the respective tax position. &#8203; As of May 1, 2026, the total reserves for uncertain tax benefits, interest expense related to income taxes and potential income tax penalties were $ 10.8 million, $ 2.2 million and $ 0.8 million, respectively, for a total of $ 13.8 million. The uncertain tax liability is reflected in noncurrent oth"
+          },
+          {
+            "charIndex": 45138,
+            "context": "ed in noncurrent other liabilities in the consolidated balance sheet. &#8203; The Company's reserve for uncertain tax positions is expected to be reduced by $ 3.0 million in the coming twelve months resulting from expiring statutes of limitations or settlements. As of May 1, 2026, approximately $ 10.8 million of the reserve for uncertain tax positions would impact the Company's effective income tax rate if the Company were to recognize the tax benefit for these positions. &#8203; The Company's 2021 and earlier tax years are not open for further examination by the Internal Revenue Service (&#82"
+          },
+          {
+            "charIndex": 65475,
+            "context": "individually and in the aggregate, will be resolved without a material adverse effect on the Company's consolidated financial statements as a whole. However, litigation and other legal matters involve an element of uncertainty. Adverse decisions and settlements, including any required changes to the Company's business, or other developments in such matters could affect the consolidated operating results in future periods or result in liability or other amounts material to the Company's annual consolidated financial statements. &#8203; 16\n&#8203; 8. Segment reporting &#8203; The Company manages"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 19783,
+            "context": "l unrest, acts of war, violence or terrorism, and disruptive 3\n&#8203; global political events (for example, political uncertainty involving China, the conflict between Russia and Ukraine and the conflict in the Middle East); &#8203; &#9679; product liability, product recall or product safety, labeling or other product-related claims; &#8203; &#9679; incurrence of material uninsured losses, excessive insurance costs or accident costs; &#8203; &#9679; failure to attract, develop and retain qualified employees while controlling labor costs (including the possibility of increased federal, and fur"
+          },
+          {
+            "charIndex": 43763,
+            "context": "ing such awards would be antidilutive, were approximately 0.0 million and 0.2 million in the respective 13-week periods ended May 1, 2026 and May 2, 2025. &#8203; 3. Income taxes &#8203; Under the accounting standards for income taxes, the asset and liability method is used for computing the future income tax consequences of events that have been recognized in the Company's consolidated financial statements or income tax returns. &#8203; Income tax reserves are determined using the methodology established by accounting standards for income taxes which require companies to assess each income ta"
+          },
+          {
+            "charIndex": 44868,
+            "context": "1, 2026, the total reserves for uncertain tax benefits, interest expense related to income taxes and potential income tax penalties were $ 10.8 million, $ 2.2 million and $ 0.8 million, respectively, for a total of $ 13.8 million. The uncertain tax liability is reflected in noncurrent other liabilities in the consolidated balance sheet. &#8203; The Company's reserve for uncertain tax positions is expected to be reduced by $ 3.0 million in the coming twelve months resulting from expiring statutes of limitations or settlements. As of May 1, 2026, approximately $ 10.8 million of the reserve for"
+          }
+        ]
+      }
+    },
+    "10-K": {
+      "meta": {
+        "form": "10-K",
+        "filingDate": "2026-03-20",
+        "reportDate": "2026-01-30",
+        "accessionNumber": "0001104659-26-032325",
+        "primaryDocument": "dg-20260130x10k.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/29534/000110465926032325/dg-20260130x10k.htm",
+        "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/29534/000110465926032325/"
+      },
+      "textLength": 355590,
+      "mda": {
+        "located": true,
+        "label": "MD&A",
+        "matchedHeading": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "text": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS &#8203; This discussion and analysis should be read with, and is qualified in its entirety by, the Consolidated Financial Statements and the notes thereto. It also should be read in conjunction with the Cautionary Disclosure Regarding Forward-Looking Statements and the Risk Factors disclosures set forth in the Introduction and in Item 1A of this report, respectively. &#8203; Executive Overview &#8203; We are the largest discount retailer in the United States by number of stores, with 20,959 stores located in 48 U.S. states and Mexico as of February 27, 2026, with the greatest concentration of stores in the southern, southwestern, midwestern and eastern United States. We offer a broad selection of merchandise, including consumable products such as food, paper and cleaning products, health and beauty products and pet supplies, and non-consumable products such as seasonal merchandise, home decor and domestics, and basic apparel. Our merchandise includes national brands from leading manufacturers, as well as our own private brand selections with prices often at substantial discounts to national brands. We offer our customers these national brand and private brand products at everyday low prices (typically $10 or less) from our convenient small-box locations. &#8203; We believe our convenient store formats, locations, and broad selection of high-quality products at compelling values have driven our substantial growth and financial success over the years and through a variety of economic cycles. We are mindful that the majority of our customers are value-conscious, and many have low and/or fixed incomes. As a result, we are intensely focused on helping our customers make the most of their spending dollars. The primary macroeconomic factors that affect our core customers include unemployment and underemployment rates, inflation, wage growth, changes in federal and state tax policies, interest rates, changes in U.S. and global trade policy (including price increases resulting from tariffs), and changes in U.S. government policy and assistance programs (including cost of living adjustments and work requirements), such as SNAP, unemployment benefits, and economic stimulus programs. Finally, significant unseasonable or unusual weather patterns or extreme weather can impact customer shopping behaviors. &#8203; Uncertainty remains regarding the potential impact of tariffs on consumer behavior and our business. Tariff rates on both direct imports and domestic purchases did not materially impact our financial results in 2025. The tariff environment remains dynamic, and the specific tariffs applicable to goods imported by us and our suppliers into the U.S. may continue to evolve. Currently announced tariff rates, as well as any rate increases or expansions of tariff coverage affecting the products that we sell, could have a significant impact on our business and on our customers' budgets. Further, on February 20, 2026, the United States Supreme Court invalidated the tariffs imposed under the International Emergency Economic Powers Act (IEEPA). Significant uncertainty exists regarding potential tariff refunds and replacement tariffs under other statutes. We continue to monitor developments and to evaluate and implement mitigation strategies to address the potential sales and margin impact of current and potential future tariffs, as well as to take various actions designed to minimize price increases for our customers. There can be no assurance we will be successful in our efforts, or that price increases will not adversely affect customer behavior. &#8203; Our core customers are often among the first to be affected by negative or uncertain economic conditions and among the last to feel the effects of improving economic conditions, particularly when trends are inconsistent and of an uncertain duration. Our customers continue to feel constrained in the current macroeconomic environment and to experience elevated expenses that generally comprise a large portion of their household budgets, such as rent, healthcare, energy and fuel prices, as well as cost inflation in frequently purchased household products (including food), which we expect will continue to pressure our customers' spending overall. &#8203; We remain committed to our long-term operating priorities as we consistently strive to improve our performance while retaining our customer-centric focus. These priorities include: 1) driving profitable sales growth, 2) capturing growth opportunities, 3) enhancing our position as a low-cost operator, and 4) investing in the growth and development of our teams. &#8203; 28\nTable of Contents We seek to drive profitable sales growth through initiatives aimed at increasing customer traffic and average transaction amount. Historically, sales in our consumables category, which tend to have lower gross margins, have been key drivers of net sales and customer traffic, while sales in our non-consumables categories, which tend to have higher gross margins, have been key drivers of more profitable sales growth and average transaction amount. Our sales mix remains heavily weighted towards consumables, although we saw slight improvement in our sales mix in 2025 compared to the prior year. Certain of our initiatives are intended to better optimize our sales mix; however, there can be no assurances that these efforts will be successful. &#8203; As we work to provide everyday low prices and meet our customers' affordability needs, we remain focused on enhancing our margins through inventory shrink and damage reduction initiatives, as well as pricing and markdown optimization, the DG Media Network (our platform that connects brand partners with our customers), effective category management and inventory reduction efforts, distribution and transportation efficiencies, private brands penetration and global sourcing strategies. Several of our strategic and other sales-driving initiatives are also designed to capture growth opportunities. &#8203; Inventory shrink has significantly improved from prior elevated levels, and although damages remain elevated, we made progress reducing damages in 2025. We continue to implement actions designed to drive sustained improvement in both shrink and damages. &#8203; We continue to implement and invest in certain strategic initiatives intended to drive profitable sales growth with both new and existing customers and capture long-term growth opportunities. Such initiatives include providing our customers with a variety of shopping access points and even greater value and convenience by leveraging and developing digital tools and technology, such as our Dollar General app, which contains a variety of tools to enhance the shopping experience. We remain focused on enhancing both the in-store and digital shopping experience, while driving operational efficiency. The delivery component of our digital initiatives is becoming a meaningful contributor to our comparable store sales performance. Third-party delivery services and myDG&#174; Delivery are available in the majority of our stores, providing added convenience and incremental sales. We believe these digital efforts will contribute to the continued growth of our DG Media Network. &#8203; In 2025, we expanded our efforts to improve the performance and profitability of our mature stores through the rollout of an incremental remodel program, Project Elevate. This partial-remodel initiative is designed to refresh and optimize the merchandising in our stores, and in turn, enhance the shopping experience for our customers, while also potentially mitigating future repairs and maintenance expense. Project Elevate remodels are incremental to our full-remodel program, Project Renovate. &#8203; We also remain focused on capturing growth opportunities. In 2025, we opened a total of 589 new stores, including 8 stores in Mexico, remodeled 2,000 stores through Project Renovate and 2,254 stores through Project Elevate, relocated 47 stores and closed 290 stores. In 2026, we plan to open approximately 450 new stores (as well as approximately 10 stores in Mexico), remodel approximately 2,000 stores through Project Renovate, remodel approximately 2,250 stores through Project Elevate, and relocate approximately 20 stores, for a total of 4,730 real estate projects. &#8203; pOpshelf, our unique retail concept focused on categories such as seasonal and home d&#233;cor, health and beauty, home cleaning supplies, and party and entertainment goods, represents an additional potential growth opportunity. At the end of 2025, we operated 180 standalone pOpshelf stores. We continue to take focused actions designed to improve the performance of pOpshelf stores, although there can be no assurances that our efforts will be successful. &#8203; We expect store format innovation to allow us to capture additional growth opportunities as we continue to utilize the most productive of our various Dollar General store formats based on the specific market opportunity. In 2025, we began utilizing store formats averaging approximately 8,500 square feet of selling space for the significant majority of new stores. These formats allow for expanded high-capacity-cooler counts, an extended queue line, and a broader product assortment, including an enhanced non-consumable offering, a larger health and beauty section, and produce in select stores. &#8203; 29\nTable of Contents &#8203; We always seek ways to reduce or control costs that do not affect our customers' shopping experiences. We plan to continue enhancing our position as a low-cost operator over time while employing ongoing cost discipline to reduce certain expenses as a percentage of sales. Nonetheless, we seek to maintain flexibility to invest in the business as necessary to enhance our long-term competitiveness and profitability. From time to time, our strategic initiatives, including without limitation those discussed above, have required and may continue to require us to incur upfront expenses for which there may not be an immediate return in terms of sales or enhanced profitability. &#8203; Certain of our operating expenses, such as wage rates and occupancy costs have continued to increase in recent years, due primarily to market forces such as labor availability, increases in minimum wage rates, inflation, property rents and interest rates. Significant or rapid increases to federal, state or local minimum wage rates or salary levels could significantly adversely affect our earnings if we are not able to otherwise offset these increased labor costs elsewhere in our business. &#8203; We believe ongoing inflationary pressures could continue to affect our vendors and customers and our operating results. Both inflation and higher interest rates have significantly increased new store opening costs and occupancy costs in recent years and, while new store returns remain strong, these increased costs have negatively impacted our projected new store returns and influenced our new store growth plans. &#8203; Our teams are a competitive advantage, and we proactively seek ways to continue investing in their development. Our goal is to create an environment that attracts, develops, and retains talented personnel, particularly at the store manager level, as employees who are promoted from within our company generally have longer tenures and are greater contributors to improvements in our financial performance. We are taking actions designed to continue reducing our higher than targeted store manager turnover, including through budgeting and allocation of labor hours and simplifying in-store activities. &#8203; Key Performance Indicators &#8203; We utilize key performance indicators, which are defined below, in the management of our business including same-store sales, average sales per square foot, and inventory turnover. We use these measures to maximize profitability and for decisions about the allocation of resources. Each of these measures is commonly used by investors in retail companies to measure the health of the business. &#8203; Same-store sales are calculated based upon our stores that were open at least 13 full fiscal months and remain open at the end of the reporting period. We include stores that have been remodeled, expanded or relocated in our same-store sales calculation. Changes in same-store sales are calculated based on the comparable 52 calendar weeks in the current and prior years. The method of calculating same-store sales varies across the retail industry. As a result, our calculation of same-store sales is not necessarily comparable to similarly titled measures reported by other companies. &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; 2025 &#8203; &#8203; &#8203; 2024 Same-store sales &#8203; 3.0 % &#8203; 1.4 % &#8203; &#8203; Average sales per square foot is calculated based on total sales for the preceding four quarters as of the ending date of the reporting period divided by the average selling square footage as of the end of the most recent five quarters. &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; January 30, &#8203; January 31, &#8203; &#8203; &#8203; &#8203; 2026 &#8203; 2025 Average sales per square foot &#8203; $ 270 &#8203; &#8203; &#8203; $ 263 &#8203; 30\nTable of Contents Inventory turnover is calculated based on total cost of goods sold for the preceding four quarters as of the ending date of the reporting period divided by the average inventory balance as of the end of the most recent five quarters. &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; January 30, &#8203; January 31, &#8203; &#8203; &#8203; &#8203; 2026 &#8203; 2025 Inventory turnover &#8203; 4.5 &#8203; &#8203; &#8203; 4.1 &#8203; Results of Operations &#8203; Accounting Periods. The following text contains references to years 2025, 2024, and 2023, which represent fiscal years ended January 30, 2026, January 31, 2025, and February 2, 2024, respectively. Our fiscal year ends on the Friday closest to January 31. Fiscal years 2025, 2024 and 2023 were 52-week accounting periods. &#8203; Seasonality . The nature of our business is somewhat seasonal. Primarily because of sales of Christmas-related merchandise, operating profit in our fourth quarter (November, December and January) has historically been higher than operating profit achieved in each of the first three quarters of the fiscal year, although this was not the case in 2024 and 2023. Expenses, and to a greater extent operating profit, vary by quarter. Results of a period shorter than a full year may not be indicative of results expected for the entire year. Furthermore, the seasonal nature of our business may aff",
+        "charRange": [
+          132289,
+          147289
+        ]
+      },
+      "riskFactors": {
+        "located": true,
+        "label": "Risk Factors",
+        "matchedHeading": "RISK FACTORS",
+        "text": "Risk Factors disclosures set forth in the Introduction and in Item 1A of this report, respectively. &#8203; Executive Overview &#8203; We are the largest discount retailer in the United States by number of stores, with 20,959 stores located in 48 U.S. states and Mexico as of February 27, 2026, with the greatest concentration of stores in the southern, southwestern, midwestern and eastern United States. We offer a broad selection of merchandise, including consumable products such as food, paper and cleaning products, health and beauty products and pet supplies, and non-consumable products such as seasonal merchandise, home decor and domestics, and basic apparel. Our merchandise includes national brands from leading manufacturers, as well as our own private brand selections with prices often at substantial discounts to national brands. We offer our customers these national brand and private brand products at everyday low prices (typically $10 or less) from our convenient small-box locations. &#8203; We believe our convenient store formats, locations, and broad selection of high-quality products at compelling values have driven our substantial growth and financial success over the years and through a variety of economic cycles. We are mindful that the majority of our customers are value-conscious, and many have low and/or fixed incomes. As a result, we are intensely focused on helping our customers make the most of their spending dollars. The primary macroeconomic factors that affect our core customers include unemployment and underemployment rates, inflation, wage growth, changes in federal and state tax policies, interest rates, changes in U.S. and global trade policy (including price increases resulting from tariffs), and changes in U.S. government policy and assistance programs (including cost of living adjustments and work requirements), such as SNAP, unemployment benefits, and economic stimulus programs. Finally, significant unseasonable or unusual weather patterns or extreme weather can impact customer shopping behaviors. &#8203; Uncertainty remains regarding the potential impact of tariffs on consumer behavior and our business. Tariff rates on both direct imports and domestic purchases did not materially impact our financial results in 2025. The tariff environment remains dynamic, and the specific tariffs applicable to goods imported by us and our suppliers into the U.S. may continue to evolve. Currently announced tariff rates, as well as any rate increases or expansions of tariff coverage affecting the products that we sell, could have a significant impact on our business and on our customers' budgets. Further, on February 20, 2026, the United States Supreme Court invalidated the tariffs imposed under the International Emergency Economic Powers Act (IEEPA). Significant uncertainty exists regarding potential tariff refunds and replacement tariffs under other statutes. We continue to monitor developments and to evaluate and implement mitigation strategies to address the potential sales and margin impact of current and potential future tariffs, as well as to take various actions designed to minimize price increases for our customers. There can be no assurance we will be successful in our efforts, or that price increases will not adversely affect customer behavior. &#8203; Our core customers are often among the first to be affected by negative or uncertain economic conditions and among the last to feel the effects of improving economic conditions, particularly when trends are inconsistent and of an uncertain duration. Our customers continue to feel constrained in the current macroeconomic environment and to experience elevated expenses that generally comprise a large portion of their household budgets, such as rent, healthcare, energy and fuel prices, as well as cost inflation in frequently purchased household products (including food), which we expect will continue to pressure our customers' spending overall. &#8203; We remain committed to our long-term operating priorities as we consistently strive to improve our performance while retaining our customer-centric focus. These priorities include: 1) driving profitable sales growth, 2) capturing growth opportunities, 3) enhancing our position as a low-cost operator, and 4) investing in the growth and development of our teams. &#8203; 28\nTable of Contents We seek to drive profitable sales growth through initiatives aimed at increasing customer traffic and average transaction amount. Historically, sales in our consumables category, which tend to have lower gross margins, have been key drivers of net sales and customer traffic, while sales in our non-consumables categories, which tend to have higher gross margins, have been key drivers of more profitable sales growth and average transaction amount. Our sales mix remains heavily weighted towards consumables, although we saw slight improvement in our sales mix in 2025 compared to the prior year. Certain of our initiatives are intended to better optimize our sales mix; however, there can be no assurances that these efforts will be successful. &#8203; As we work to provide everyday low prices and meet our customers' affordability needs, we remain focused on enhancing our margins through inventory shrink and damage reduction initiatives, as well as pricing and markdown optimization, the DG Media Network (our platform that connects brand partners with our customers), effective category management and inventory reduction efforts, distribution and transportation efficiencies, private brands penetration and global sourcing strategies. Several of our strategic and other sales-driving initiatives are also designed to capture growth opportunities. &#8203; Inventory shrink has significantly improved from prior elevated levels, and although damages remain elevated, we made progress reducing damages in 2025. We continue to implement actions designed to drive sustained improvement in both shrink and damages. &#8203; We continue to implement and invest in certain strategic initiatives intended to drive profitable sales growth with both new and existing customers and capture long-term growth opportunities. Such initiatives include providing our customers with a variety of shopping access points and even greater value and convenience by leveraging and developing digital tools and technology, such as our Dollar General app, which contains a variety of tools to enhance the shopping experience. We remain focused on enhancing both the in-store and digital shopping experience, while driving operational efficiency. The delivery component of our digital initiatives is becoming a meaningful contributor to our comparable store sales performance. Third-party delivery services and myDG&#174; Delivery are available in the majority of our stores, providing added convenience and incremental sales. We believe these digital efforts will contribute to the continued growth of our DG Media Network. &#8203; In 2025, we expanded our efforts to improve the performance and profitability of our mature stores through the rollout of an incremental remodel program, Project Elevate. This partial-remodel initiative is designed to refresh and optimize the merchandising in our stores, and in turn, enhance the shopping experience for our customers, while also potentially mitigating future repairs and maintenance expense. Project Elevate remodels are incremental to our full-remodel program, Project Renovate. &#8203; We also remain focused on capturing growth opportunities. In 2025, we opened a total of 589 new stores, including 8 stores in Mexico, remodeled 2,000 stores through Project Renovate and 2,254 stores through Project Elevate, relocated 47 stores and closed 290 stores. In 2026, we plan to open approximately 450 new stores (as well as approximately 10 stores in Mexico), remodel approximately 2,000 stores through Project Renovate, remodel approximately 2,250 stores through Project Elevate, and relocate approximately 20 stores, for a total of 4,730 real estate projects. &#8203; pOpshelf, our unique retail concept focused on categories such as seasonal and home d&#233;cor, health and beauty, home cleaning supplies, and party and entertainment goods, represents an additional potential growth opportunity. At the end of 2025, we operated 180 standalone pOpshelf stores. We continue to take focused actions designed to improve the performance of pOpshelf stores, although there can be no assurances that our efforts will be successful. &#8203; We expect store format innovation to allow us to capture additional growth opportunities as we continue to utilize the most productive of our various Dollar General store formats based on the specific market opportunity. In 2025, we began utilizing store formats averaging approximately 8,500 square feet of selling space for the significant majority of new stores. These formats allow for expanded high-capacity-cooler counts, an extended queue line, and a broader product assortment, including an enhanced non-consumable offering, a larger health and beauty section, and produce in select stores. &#8203; 29\nTable of Contents &#8203; We always seek ways to reduce or control costs that do not affect our customers' shopping experiences. We plan to continue enhancing our position as a low-cost operator over time while employing ongoing cost discipline to reduce certain expenses as a percentage of sales. Nonetheless, we seek to maintain flexibility to invest in the business as necessary to enhance our long-term competitiveness and profitability. From time to time, our strategic initiatives, including without limitation those discussed above, have required and may continue to require us to incur upfront expenses for which there may not be an immediate return in terms of sales or enhanced profitability. &#8203; Certain of our operating expenses, such as wage rates and occupancy costs have continued to increase in recent years, due primarily to market forces such as labor availability, increases in minimum wage rates, inflation, property rents and interest rates. Significant or rapid increases to federal, state or local minimum wage rates or salary levels could significantly adversely affect our earnings if we are not able to otherwise offset these increased labor costs elsewhere in our business. &#8203; We believe ongoing inflationary pressures could continue to affect our vendors and customers and our operating results. Both inflation and higher interest rates have significantly increased new store opening costs and occupancy costs in recent years and, while new store returns remain strong, these increased costs have negatively impacted our projected new store returns and influenced our new store growth plans. &#8203; Our teams are a competitive advantage, and we proactively seek ways to continue investing in their development. Our goal is to create an environment that attracts, develops, and retains talented personnel, particularly at the store manager level, as employees who are promoted from within our company generally have longer tenures and are greater contributors to improvements in our financial performance. We are taking actions designed to continue reducing our higher than targeted store manager turnover, including through budgeting and allocation of labor hours and simplifying in-store activities. &#8203; Key Performance Indicators &#8203; We utilize key performance indicators, which are defined below, in the management of our business including same-store sales, average sales per square foot, and inventory turnover. We use these measures to maximize profitability and for decisions about the allocation of resources. Each of these measures is commonly used by investors in retail companies to measure the health of the business. &#8203; Same-store sales are calculated based upon our stores that were open at least 13 full fiscal months and remain open at the end of the reporting period. We include stores that have been remodeled, expanded or relocated in our same-store sales calculation. Changes in same-store sales are calculated based on the comparable 52 calendar weeks in the current and prior years. The method of calculating same-store sales varies across the retail industry. As a result, our calculation of same-store sales is not necessarily comparable to similarly titled measures reported by other companies. &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; 2025 &#8203; &#8203; &#8203; 2024 Same-store sales &#8203; 3.0 % &#8203; 1.4 % &#8203; &#8203; Average sales per square foot is calculated based on total sales for the preceding four quarters as of the ending date of the reporting period divided by the average selling square footage as of the end of the most recent five quarters. &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; January 30, &#8203; January 31, &#8203; &#8203; &#8203; &#8203; 2026 &#8203; 2025 Average sales per square foot &#8203; $ 270 &#8203; &#8203; &#8203; $ 263 &#8203; 30\nTable of Contents Inventory turnover is calculated based on total cost of goods sold for the preceding four quarters as of the ending date of the reporting period divided by the average inventory balance as of the end of the most recent five quarters. &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; January 30, &#8203; January 31, &#8203; &#8203; &#8203; &#8203; 2026 &#8203; 2025 Inventory turnover &#8203; 4.5 &#8203; &#8203; &#8203; 4.1 &#8203; Results of Operations &#8203; Accounting Periods. The following text contains references to years 2025, 2024, and 2023, which represent fiscal years ended January 30, 2026, January 31, 2025, and February 2, 2024, respectively. Our fiscal year ends on the Friday closest to January 31. Fiscal years 2025, 2024 and 2023 were 52-week accounting periods. &#8203; Seasonality . The nature of our business is somewhat seasonal. Primarily because of sales of Christmas-related merchandise, operating profit in our fourth quarter (November, December and January) has historically been higher than operating profit achieved in each of the first three quarters of the fiscal year, although this was not the case in 2024 and 2023. Expenses, and to a greater extent operating profit, vary by quarter. Results of a period shorter than a full year may not be indicative of results expected for the entire year. Furthermore, the seasonal nature of our business may affect comparisons between periods. &#8203; The following table contains results of operations data for fiscal years 2025, 2024, and 2023, and the dollar and percentage variances among those years. &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; &",
+        "charRange": [
+          132645,
+          147645
+        ]
+      },
+      "keywordScan": {
+        "litigation": [
+          {
+            "charIndex": 19883,
+            "context": "ht to these trademarks and tradenames. &#8203; Cautionary Disclosure Regarding Forward-Looking Statements &#8203; We include &#8220;forward-looking statements&#8221; within the meaning of the federal securities laws, including the Private Securities Litigation Reform Act, throughout this report, particularly under the headings &#8220;Business&#8221; included in Part I, Item 1, &#8220;Management's Discussion and Analysis of Financial Condition and Results of Operations&#8221; included in Part II, Item 7, and &#8220;Note 7. Commitments and Contingencies&#8221; included in Part II, Item 8, among"
+          },
+          {
+            "charIndex": 23307,
+            "context": "e programs, such as Supplemental Nutrition Assistance Program (&#8220;SNAP&#8221;) benefits, unemployment benefits, and economic stimulus payments; and &#9679; expected outcome or effect of pending or threatened legal disputes, governmental actions, litigation or audits. &#8203; Forward-looking statements are subject to risks, uncertainties and other factors that may change at any time and may cause our actual results to differ materially from those that we expected. We derive many of these statements from our operating budgets and forecasts as of the date of this document, which are based on"
+          },
+          {
+            "charIndex": 68186,
+            "context": "g our inventory balances, our cash flows from operations and financial condition may be negatively affected. Failure to maintain the security of our business, customer, employee or vendor information or to comply with privacy laws could expose us to litigation, government enforcement actions and costly response measures, and could materially harm our reputation and affect our business and financial performance. In connection with sales, we transmit confidential credit and debit card information which is encrypted using point-to-point encryption. We also have access to, collect or maintain cert"
+          }
+        ],
+        "class action": [
+          {
+            "charIndex": 106645,
+            "context": "f applicable laws and regulations or untimely or incomplete execution of a required product recall can result in significant penalties (including loss of licenses, eligibility to accept certain government benefits such as SNAP or significant fines), class action or other litigation, governmental investigation or action and reputational damage. Further, states may enact conflicting laws, mandating changes in operations that negatively impact our ability to execute uniformly and achieve economies of scale across states. Additionally, changes in tax laws and policies (including those related to t"
+          },
+          {
+            "charIndex": 109910,
+            "context": "ations and financial condition. Our business is subject to the risk of litigation or other legal proceedings by employees, consumers, suppliers, competitors, shareholders, unions, government officials and agencies and others through private actions, class actions, multi-district litigation, arbitrations, derivative actions, administrative proceedings, regulatory actions (including investigations) or other litigation. For example, we are involved in certain legal proceedings as discussed in Note 7 to the consolidated financial statements. The outcome of legal proceedings, particularly class act"
+          },
+          {
+            "charIndex": 110251,
+            "context": "proceedings, regulatory actions (including investigations) or other litigation. For example, we are involved in certain legal proceedings as discussed in Note 7 to the consolidated financial statements. The outcome of legal proceedings, particularly class action or multi-district litigation or mass arbitrations and regulatory actions, can be difficult to assess or quantify. Plaintiffs in these types of lawsuits, as well as government officials and agencies, may seek recovery of very large or indeterminate amounts, and the magnitude of the potential loss may remain unknown for lengthy periods."
+          }
+        ],
+        "guidance": [
+          {
+            "charIndex": 104413,
+            "context": "the past few years, include the perceived prospects and actual results of operations of our business, as well as any failure to achieve projected results; changes in estimates of our results of operations by analysts, investors or us, as well as our guidance not aligning with market expectations; trading activity by our large shareholders; trading activity by sophisticated algorithms; performance results of our competitors; actions, news or announcements by us, our competitors, and other third parties; litigation and judicial decisions; legislative or regulatory actions or changes; and changes"
+          },
+          {
+            "charIndex": 111426,
+            "context": "our reputation, regardless of the validity of the allegations. As a result, legal proceedings may adversely affect our business, results of operations and financial condition. See also Note 7 to the consolidated financial statements. New accounting guidance or changes in the interpretation or application of existing accounting guidance could adversely affect our financial performance. The implementation of new accounting standards could require certain systems, internal process and controls and other changes that could increase our operating costs and result in changes to our financial statem"
+          },
+          {
+            "charIndex": 111506,
+            "context": "al proceedings may adversely affect our business, results of operations and financial condition. See also Note 7 to the consolidated financial statements. New accounting guidance or changes in the interpretation or application of existing accounting guidance could adversely affect our financial performance. The implementation of new accounting standards could require certain systems, internal process and controls and other changes that could increase our operating costs and result in changes to our financial statements. U.S. generally accepted accounting principles and related accounting prono"
+          }
+        ],
+        "outlook": [
+          {
+            "charIndex": 20883,
+            "context": "ed on,&#8221; &#8220;forecast,&#8221; &#8220;future,&#8221; &#8220;goal,&#8221; &#8220;intend,&#8221; &#8220;likely,&#8221; &#8220;long-term,&#8221; &#8220;may,&#8221; &#8220;objective,&#8221; &#8220;ongoing,&#8221; &#8220;opportunity,&#8221; &#8220;outlook,&#8221; &#8220;over time,&#8221; &#8220;plan,&#8221; &#8220;position,&#8221; &#8220;potential,&#8221; &#8220;predict,&#8221; &#8220;project,&#8221; &#8220;prospect,&#8221; &#8220;scheduled,&#8221; &#8220;seek,&#8221; &#8220;should,&#8221; &#8220;strive,&#8221; &#8220;subject to,&#8221; &#8220;uncertain,&#8221; &#8220;will&#8221; or &#8220;w"
+          },
+          {
+            "charIndex": 21330,
+            "context": "&#8221; &#8220;seek,&#8221; &#8220;should,&#8221; &#8220;strive,&#8221; &#8220;subject to,&#8221; &#8220;uncertain,&#8221; &#8220;will&#8221; or &#8220;would&#8221; and similar expressions that concern our strategies, plans, initiatives, intentions, outlook or beliefs about future occurrences or results. For example, all statements relating to, among others, the following are forward-looking statements: &#9679; our projections and expectations regarding expenditures, costs, cash flows, results of operations, financial condition and liquidity; &#9679; our expectations regarding economic and com"
+          },
+          {
+            "charIndex": 101953,
+            "context": "trict our access to these potential sources of future liquidity. Our continued access to liquidity sources on favorable terms depends on multiple factors, including our operating performance and credit ratings. In 2025, Standard & Poor's changed our outlook from &#8220;Negative&#8221; to &#8220;Stable,&#8221; and Moody's changed our rating from Baa2 to Baa3 and our outlook from &#8220;Negative&#8221; to &#8220;Stable.&#8221; &#8203; Our current increased debt leverage levels have reduced our available capital, and these levels, combined with our desire to maintain our current investment grade"
+          }
+        ],
+        "impairment": [
+          {
+            "charIndex": 57081,
+            "context": "ailure to achieve successful or cost-effective implementation of our initiatives could materially and adversely affect our business, results of operations and financial condition. For example, in the fourth quarter of 2024, we recorded a significant impairment expense, the majority of which relates to pOpshelf stores. The success of our merchandising initiatives, particularly those related to non-consumable products (including pOpshelf) and efforts to increase sales of higher margin products within the consumables category, further depends in part upon our ability to accurately predict the pro"
+          },
+          {
+            "charIndex": 65608,
+            "context": "s and sales from our existing stores, thereby adversely affecting our overall financial performance. In the first quarter of 2025, we closed 45 pOpshelf stores and converted an additional six to Dollar General stores, as well as incurred significant impairment charges, the majority of which relate to the pOpshelf stores. Although we took focused action in 2025 to improve the performance of pOpshelf stores and will continue to do so in 2026, there can be no assurances that our efforts will be successful. 13\nTable of Contents Inventory shrinkage and damages may negatively affect our results of o"
+          },
+          {
+            "charIndex": 66539,
+            "context": "ct our results of operations and financial condition. In addition, sustained high rates of inventory shrink at certain stores have historically contributed, and inventory shrink and/or damages may contribute, to the closure of certain stores and the impairment of long-term assets in the future. There can be no assurance that we will be successful in our efforts to contain or reduce inventory shrinkage and damages. Our cash flows from operations, profitability and financial condition may be negatively affected if we are not successful in managing our inventory balances. Our inventory balance re"
+          }
+        ],
+        "regulatory": [
+          {
+            "charIndex": 22773,
+            "context": "regarding tariff, inflationary and labor pressures; &#9679; expectations regarding cash dividends and stock repurchases; &#9679; anticipated borrowing under our credit agreement and our commercial paper program; &#9679; potential impact of legal or regulatory changes or governmental assistance or stimulus programs and our responses thereto, including without limitation potential further federal, state and/or local minimum wage increases or changes to salary levels, as well as changes to certain government policies and assistance programs, such as Supplemental Nutrition Assistance Program (&#8"
+          },
+          {
+            "charIndex": 64733,
+            "context": "ding our pOpshelf and Mi Super Dollar General store concepts), including into new countries or domestic markets, states or urban or suburban areas where we have limited or no meaningful experience or brand recognition. Those areas may have different regulatory environments, competitive and market conditions, consumer tastes and discretionary spending patterns than our existing markets, as well as higher cost of entry and operating costs. These factors and other factors not currently contemplated may cause our new stores to be less profitable than stores in our existing markets, which could slo"
+          },
+          {
+            "charIndex": 84427,
+            "context": "etain qualified employees while controlling labor costs, as well as other labor issues, including employee safety issues, could adversely affect our financial performance. Our future growth and performance, positive customer experience and legal and regulatory compliance depends on our ability to attract, develop, retain and motivate qualified employees while operating in an industry that has historically been challenged by high rates of employee turnover. Our ability to meet our labor needs, while controlling our labor costs, is subject to many external factors, including competition for and"
+          }
+        ],
+        "settlement": [
+          {
+            "charIndex": 189517,
+            "context": ", upon examination by the taxing authorities. If the tax position is expected to meet the more likely than not criteria, the benefit recorded for the tax position equals the largest amount that is greater than 50% likely to be realized upon ultimate settlement of the respective tax position. Uncertain tax positions require determinations and liabilities to be estimated based on provisions of the tax law which may be subject to change or varying interpretation. If our determinations and estimates prove to be inaccurate, the resulting adjustments could be material to our future financial results"
+          },
+          {
+            "charIndex": 230147,
+            "context": "&#8203; 310,568 &#8203; Other &#8203; 454,984 &#8203; 398,885 &#8203; &#8203; &#8203; $ 1,263,296 &#8203; $ 1,045,856 &#8203; &#8203; Included in other accrued expenses are liabilities for freight expense, interest, utilities, maintenance and legal settlements. &#8203; Supply chain finance programs &#8203; The Company utilizes supply chain finance programs whereby qualifying suppliers may elect at their sole discretion to sell the Company's payment obligations to designated third party financial institutions. While the terms of these agreements are between the supplier and the financial insti"
+          },
+          {
+            "charIndex": 242324,
+            "context": ", upon examination by the taxing authorities. If the tax position is expected to meet the more likely than not criteria, the benefit recorded for the tax position equals the largest amount that is greater than 50% likely to be realized upon ultimate settlement of the respective tax position. Uncertain tax positions require determinations and estimated liabilities to be made based on provisions of the tax law which may be subject to change or varying interpretation. If the Company's determinations and estimates prove to be inaccurate, the resulting adjustments could be material to the Company's"
+          }
+        ],
+        "liability": [
+          {
+            "charIndex": 91285,
+            "context": "ance, merchandise purchases and supply chain. These events and their impacts could otherwise disrupt and adversely affect our operations, potentially impact customer purchasing behaviors, and could adversely affect our financial performance. Product liability, product recall or other product safety or labeling claims could adversely affect our business, reputation and financial performance. We depend on our vendors to ensure that the products we buy from them comply with applicable product safety and labeling laws and regulations and to inform us of all applicable restrictions on the sale of s"
+          },
+          {
+            "charIndex": 91670,
+            "context": "ormance. We depend on our vendors to ensure that the products we buy from them comply with applicable product safety and labeling laws and regulations and to inform us of all applicable restrictions on the sale of such products. Nonetheless, product liability, personal injury, consumer protection or other claims may be asserted against us relating to alleged product contamination, adulteration, tampering, expiration, mislabeling, recall, prohibited substances and other safety or labeling issues. We seek but may not be successful in obtaining contractual indemnification and insurance coverage f"
+          },
+          {
+            "charIndex": 93123,
+            "context": "ime between recall and backfilling the recalled product. Our current insurance program may expose us to unexpected costs and negatively affect our financial performance. Our insurance coverage reflects deductibles, self-insured retentions, limits of liability and similar provisions that we believe are prudent based on our operations. However, there are types of losses we may incur but against which we cannot be insured or which we believe are not economically reasonable to insure, such as losses due to acts of war, certain crimes (including employee crime), certain wage and hour and other empl"
+          }
+        ]
+      }
+    }
+  },
+  "xbrlTrend": {
+    "revenue": {
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "points": [
+        {
+          "start": "2026-01-31",
+          "end": "2026-05-01",
+          "val": 10786965000,
+          "accn": "0001104659-26-069205",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-06-02",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2026-01-30",
+          "val": 42724369000,
+          "accn": "0001104659-26-032325",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-20",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-08-02",
+          "end": "2025-10-31",
+          "val": 10649450000,
+          "accn": "0001104659-25-118289",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-04",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-10-31",
+          "val": 31813166000,
+          "accn": "0001104659-25-118289",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-04"
+        },
+        {
+          "start": "2025-05-03",
+          "end": "2025-08-01",
+          "val": 10727737000,
+          "accn": "0001558370-25-011786",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-28",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-08-01",
+          "val": 21163716000,
+          "accn": "0001558370-25-011786",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-28"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-05-02",
+          "val": 10435979000,
+          "accn": "0001104659-26-069205",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-06-02",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-05-02",
+          "val": 10435979000,
+          "accn": "0001558370-25-008354",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-06-03"
+        }
+      ]
+    },
+    "eps": {
+      "tag": "EarningsPerShareDiluted",
+      "points": [
+        {
+          "start": "2026-01-31",
+          "end": "2026-05-01",
+          "val": 2,
+          "accn": "0001104659-26-069205",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-06-02",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2026-01-30",
+          "val": 6.85,
+          "accn": "0001104659-26-032325",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-20",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-08-02",
+          "end": "2025-10-31",
+          "val": 1.28,
+          "accn": "0001104659-25-118289",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-04",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-10-31",
+          "val": 4.92,
+          "accn": "0001104659-25-118289",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-04"
+        },
+        {
+          "start": "2025-05-03",
+          "end": "2025-08-01",
+          "val": 1.86,
+          "accn": "0001558370-25-011786",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-28",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-08-01",
+          "val": 3.64,
+          "accn": "0001558370-25-011786",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-28"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-05-02",
+          "val": 1.78,
+          "accn": "0001104659-26-069205",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-06-02",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-05-02",
+          "val": 1.78,
+          "accn": "0001558370-25-008354",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-06-03"
+        }
+      ]
+    },
+    "netIncome": {
+      "tag": "NetIncomeLoss",
+      "points": [
+        {
+          "start": "2026-01-31",
+          "end": "2026-05-01",
+          "val": 444127000,
+          "accn": "0001104659-26-069205",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-06-02",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2026-01-30",
+          "val": 1512311000,
+          "accn": "0001104659-26-032325",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-20"
+        },
+        {
+          "start": "2025-08-02",
+          "end": "2025-10-31",
+          "val": 282657000,
+          "accn": "0001104659-25-118289",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-04",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-10-31",
+          "val": 1086011000,
+          "accn": "0001104659-25-118289",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-04"
+        },
+        {
+          "start": "2025-05-03",
+          "end": "2025-08-01",
+          "val": 411426000,
+          "accn": "0001558370-25-011786",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-28",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-08-01",
+          "val": 803354000,
+          "accn": "0001558370-25-011786",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-28"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-05-02",
+          "val": 391928000,
+          "accn": "0001104659-26-069205",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-06-02",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-05-02",
+          "val": 391928000,
+          "accn": "0001558370-25-008354",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-06-03"
+        }
+      ]
+    },
+    "operatingIncome": {
+      "tag": "OperatingIncomeLoss",
+      "points": [
+        {
+          "start": "2026-01-31",
+          "end": "2026-05-01",
+          "val": 638516000,
+          "accn": "0001104659-26-069205",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-06-02",
+          "frame": "CY2026Q1"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2026-01-30",
+          "val": 2203668000,
+          "accn": "0001104659-26-032325",
+          "fy": 2025,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2026-03-20",
+          "frame": "CY2025"
+        },
+        {
+          "start": "2025-08-02",
+          "end": "2025-10-31",
+          "val": 425851000,
+          "accn": "0001104659-25-118289",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-04",
+          "frame": "CY2025Q3"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-10-31",
+          "val": 1597392000,
+          "accn": "0001104659-25-118289",
+          "fy": 2025,
+          "fp": "Q3",
+          "form": "10-Q",
+          "filed": "2025-12-04"
+        },
+        {
+          "start": "2025-05-03",
+          "end": "2025-08-01",
+          "val": 595428000,
+          "accn": "0001558370-25-011786",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-28",
+          "frame": "CY2025Q2"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-08-01",
+          "val": 1171541000,
+          "accn": "0001558370-25-011786",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-28"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-05-02",
+          "val": 576113000,
+          "accn": "0001104659-26-069205",
+          "fy": 2026,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2026-06-02",
+          "frame": "CY2025Q1"
+        },
+        {
+          "start": "2025-02-01",
+          "end": "2025-05-02",
+          "val": 576113000,
+          "accn": "0001558370-25-008354",
+          "fy": 2025,
+          "fp": "Q1",
+          "form": "10-Q",
+          "filed": "2025-06-03"
+        }
+      ]
+    }
+  },
+  "companyMetrics": {
+    "ticker": "DG",
+    "name": "DOLLAR GENERAL CORP",
+    "sector": "Retail-Variety Stores",
+    "pe": 17.31,
+    "pb": 3.05,
+    "ret3m": 5.1086,
+    "ret6m": -17.3061,
+    "roe": 17.1,
+    "debtEquity": 0.79,
+    "sentiment": 0.231,
+    "analyst": 66.9,
+    "beta": 0.20741467
+  },
+  "cachedNews": {
+    "headlines": [
+      {
+        "title": "Dollar General (DG) Falls More Steeply Than Broader Market: What Investors Need to Know",
+        "url": "https://finnhub.io/api/news?id=e4f3fdf651173ab479a3ad8563b50669c4142d06d7683f584eeda1fa9db82661",
+        "source": "Yahoo",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Monday's session: gap up and gap down stock in the S&P500 index",
+        "url": "https://finnhub.io/api/news?id=786333ae38527dab07cb9c6aeae7f34965145ac07de4856938d934a0f03430e3",
+        "source": "ChartMill",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "3 S&P 500 Stocks We Approach with Caution",
+        "url": "https://finnhub.io/api/news?id=30bab006bd06043a980b97019c39a9a23b428730fbe045b0eaae0dcfcf1c0bb0",
+        "source": "Yahoo",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "From Classrooms To Wall Street: Why Back-To-School Matters More This Year",
+        "url": "https://finnhub.io/api/news?id=f79187f8f2236805eeeabc94cc100a48261547c0546655ef23f19da4152a911c",
+        "source": "SeekingAlpha",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "Is Dollar General (DG) Still Trading At A Discount To Fair Value?",
+        "url": "https://finnhub.io/api/news?id=117da549dd5e06fe8b2f69b7fa9379a0ffabcbb44c06b300d45f4137274a8d4b",
+        "source": "Yahoo",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "DISCLOSURE OF THE NUMBER OF SHARES FORMING THE CAPITAL AND OF THE TOTAL NUMBER OF VOTING RIGHTS AS OF 31 JULY 2026",
+        "url": "https://finnhub.io/api/news?id=d7bcb0c1b3ce337b9611243e5798daeeeae6e0f302c1dfa6dcf876a7279e71b4",
+        "source": "Yahoo",
+        "date": "2026-08-04"
+      }
+    ],
+    "cachedAt": "2026-08-11T05:49:02.281Z"
+  }
+}
