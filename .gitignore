@@ -19,6 +19,9 @@ screener-report.html
 research-queue.json
 research/_packets/
 
+# Finished one-time migration scripts (already baked into their target file)
+add-growth-metrics.js
+
 # Manual snapshots and superseded working copies
 CURRENT_*.js
 screener-before-*.js
