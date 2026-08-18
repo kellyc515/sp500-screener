@@ -955,7 +955,8 @@ function scoreColor(score) {
 // metricScores for the raw metric columns (already sector-relative where
 // appropriate, per Phase 4) and colorPercentiles for Score/Value Opp/Trap
 // Risk. Null percentile -> no band -> cell stays neutral/uncolored.
-const BAND_COLOR = { good: '#22c55e', mid: '#eab308', bad: '#ef4444' };
+// Direction B palette (see screener-design-options.html, reference only).
+const BAND_COLOR = { good: '#34d399', mid: '#f0a868', bad: '#ff7b72' };
 function bandFor(percentile) {
   if (percentile === null || percentile === undefined) return null;
   if (percentile >= 200 / 3) return 'good';
@@ -964,28 +965,74 @@ function bandFor(percentile) {
 }
 function bandStyle(percentile) {
   const band = bandFor(percentile);
-  return band ? 'background:' + BAND_COLOR[band] + '22' : '';
+  return band ? 'background:' + BAND_COLOR[band] + '26' : '';
+}
+// Direction B score meter: a small horizontal bar next to Value Opp/Trap
+// Risk, filled to the percentile and colored by the same good/mid/bad band
+// already used everywhere else - display-only, reads the same
+// colorPercentiles values bandStyle() above already uses.
+function meterHTML(percentile) {
+  if (percentile === null || percentile === undefined) return '';
+  const band = bandFor(percentile);
+  const color = band ? BAND_COLOR[band] : '#8b949e';
+  const width = Math.max(0, Math.min(100, percentile));
+  return '<span class="meter"><i style="width:' + width.toFixed(0) + '%;background:' + color + '"></i></span>';
 }
 
-const TIER_COLOR = { A: '#2dd4bf', B: '#84cc16', C: '#eab308', D: '#f97316', F: '#ef4444' };
+const TIER_COLOR = { A: '#10b981', B: '#a3e635', C: '#f0a868', D: '#f0883e', F: '#ff7b72' };
+// Reuses the label groupings you'd expect from the classification names -
+// explicit buckets (undervalued/quality = green, trap/distressed = red,
+// momentum = blue, quality-at-fair-value = orange, mixed = grey) for the
+// clearly-matching labels; the remaining labels (expensive quality,
+// turnaround candidate) get a distinct color from the same family so all
+// 10 stay visually distinguishable in a 503-row table.
 const CLASSIFICATION_COLOR = {
-  [CLASSIFICATION.DISTRESSED]: '#ef4444',
-  [CLASSIFICATION.POSSIBLE_VALUE_TRAP]: '#f97316',
-  [CLASSIFICATION.UNDERVALUED_HIGH_RISK]: '#eab308',
-  [CLASSIFICATION.UNDERVALUED_QUALITY]: '#2dd4bf',
+  [CLASSIFICATION.DISTRESSED]: '#ff7b72',
+  [CLASSIFICATION.POSSIBLE_VALUE_TRAP]: '#ff7b72',
+  [CLASSIFICATION.UNDERVALUED_HIGH_RISK]: '#a3e635',
+  [CLASSIFICATION.UNDERVALUED_QUALITY]: '#34d399',
   [CLASSIFICATION.EXPENSIVE_QUALITY]: '#a78bfa',
-  [CLASSIFICATION.QUALITY_AT_FAIR_VALUE]: '#84cc16',
+  [CLASSIFICATION.QUALITY_AT_FAIR_VALUE]: '#f0a868',
   [CLASSIFICATION.TURNAROUND_CANDIDATE]: '#22d3ee',
-  [CLASSIFICATION.GROWTH_AT_REASONABLE_PRICE]: '#34d399',
-  [CLASSIFICATION.MOMENTUM_LEADER]: '#38bdf8',
-  [CLASSIFICATION.MIXED]: '#7c8ba1',
+  [CLASSIFICATION.GROWTH_AT_REASONABLE_PRICE]: '#4ade80',
+  [CLASSIFICATION.MOMENTUM_LEADER]: '#79b8ff',
+  [CLASSIFICATION.MIXED]: '#8b949e',
 };
 
 function fmtCell(key, v) {
   if (v === null || v === undefined) return '\u2014';
   if (key === 'sentiment') return Number(v).toFixed(2);
   if (key === 'analyst')   return Number(v).toFixed(0);
+  if (key === 'peg' || key === 'netDebtEbitda') return Number(v).toFixed(2);
   return Number(v).toFixed(1);
+}
+
+// Display-only percentile for table-cell coloring, computed fresh from
+// `scored` for fields that live in STAT_METRICS but NOT in METRICS (so they
+// have no scoring-pipeline metricScores/colorPercentiles entry). Market-wide
+// only (these fields carry no sectorRelative flag), unlike the real
+// scoring percentiles - purely cosmetic, never read by scoreUniverse() or
+// anything upstream of it.
+function computeDisplayPercentiles(scored, keys) {
+  const out = {};
+  for (const key of keys) {
+    const lowerIsBetter = !!(STAT_METRICS[key] && STAT_METRICS[key].lowerIsBetter);
+    const values = scored.map((c) => c[key]).filter((v) => v !== null && v !== undefined && !Number.isNaN(v));
+    const byTicker = {};
+    for (const c of scored) {
+      const v = c[key];
+      if (v === null || v === undefined || Number.isNaN(v) || !values.length) { byTicker[c.ticker] = null; continue; }
+      let below = 0, equal = 0;
+      for (const other of values) {
+        if (other < v) below++;
+        else if (other === v) equal++;
+      }
+      const pct = ((below + 0.5 * equal) / values.length) * 100;
+      byTicker[c.ticker] = lowerIsBetter ? 100 - pct : pct;
+    }
+    out[key] = byTicker;
+  }
+  return out;
 }
 
 /* ---- the cheat sheet content ---- */
@@ -1049,11 +1096,12 @@ function buildChangesCardHTML(changes) {
   const gainers = changes.gainers.filter((m) => m.scoreDelta > 0).slice(0, 8).map(moveRow).join('') || '<p class="hint">No gainers.</p>';
   const losers = changes.losers.filter((m) => m.scoreDelta < 0).slice(0, 8).map(moveRow).join('') || '<p class="hint">No losers.</p>';
 
-  const classRows = changes.classificationChanges.length
+  const classCount = changes.classificationChanges.length;
+  const classRows = classCount
     ? changes.classificationChanges.map((c) =>
         '<div class="move-row"><span class="move-ticker">' + c.ticker + '</span>' +
         '<span class="move-class">' + c.from + ' &rarr; ' + c.to + '</span></div>').join('')
-    : '<p class="hint">None.</p>';
+    : '';
 
   const riskRows = changes.newRiskFlags.length
     ? changes.newRiskFlags.map((c) =>
@@ -1062,7 +1110,7 @@ function buildChangesCardHTML(changes) {
     : '<p class="hint">None.</p>';
 
   const summary = [
-    changes.classificationChanges.length + ' classification change' + (changes.classificationChanges.length === 1 ? '' : 's'),
+    classCount + ' classification change' + (classCount === 1 ? '' : 's'),
     changes.newRiskFlags.length + ' new risk flag' + (changes.newRiskFlags.length === 1 ? '' : 's'),
     changes.enteredTopTier.length + ' entered Tier ' + TOP_TIER,
     changes.leftTopTier.length + ' left Tier ' + TOP_TIER,
@@ -1070,14 +1118,26 @@ function buildChangesCardHTML(changes) {
     changes.dropped.length + ' dropped',
   ].join('  &middot;  ');
 
+  // Classification Changes can be a long itemized list (one row per moved
+  // ticker) - collapsed behind an expander by default so the card stays
+  // compact; nothing is removed, Top Gainers/Losers/New Risk Flags stay
+  // visible as before. Styled to match the main table's "Show all" control.
+  const classificationExpander = classCount
+    ? '<div class="changes-expand">' +
+      '<button type="button" class="changes-expand-btn" id="changesExpandBtn" data-count="' + classCount + '">Show ' + classCount + ' change' + (classCount === 1 ? '' : 's') + ' &#9662;</button>' +
+      '<div class="changes-expand-body" id="changesExpandBody" hidden><h3>Classification Changes</h3>' + classRows + '</div>' +
+      '</div>'
+    : '<div class="changes-expand"><p class="hint">No classification changes.</p></div>';
+
   return '<div class="card changes-card"><h2>What Changed Since ' + changes.previousDate + '</h2>' +
     '<p class="hint changes-summary">' + summary + '</p>' +
     '<div class="changes-grid">' +
     '<div class="changes-col"><h3>Top Gainers</h3>' + gainers + '</div>' +
     '<div class="changes-col"><h3>Top Losers</h3>' + losers + '</div>' +
-    '<div class="changes-col"><h3>Classification Changes</h3>' + classRows + '</div>' +
     '<div class="changes-col"><h3>New Risk Flags</h3>' + riskRows + '</div>' +
-    '</div></div>';
+    '</div>' +
+    classificationExpander +
+    '</div>';
 }
 
 /* ---- Phase 9: morning brief / dashboard ----
@@ -1090,8 +1150,8 @@ function buildChangesCardHTML(changes) {
 const DASH_LIST_SIZE = 8;
 
 function classBadge(classification) {
-  const color = CLASSIFICATION_COLOR[classification] || '#7c8ba1';
-  return '<span class="class-badge" style="background:' + color + '22;color:' + color + '">' + classification + '</span>';
+  const color = CLASSIFICATION_COLOR[classification] || '#8b949e';
+  return '<span class="class-badge" style="background:' + color + '26;color:' + color + '">' + classification + '</span>';
 }
 
 // Every ticker mention in the dashboard is one of these - a single
@@ -1168,13 +1228,43 @@ function buildDashboardSectorsHTML(sectors) {
     '<div class="dash-sector-group"><h4>Worst</h4>' + worst.map(row).join('') + '</div>';
 }
 
+// Direction B stat-card row: four numbers pulled from data buildChangesCardHTML/
+// buildDashboardOpportunitiesHTML/buildDashboardTrapsHTML already compute -
+// no new business logic, just a display-level summary of what those cards
+// already show below it (the "Traps to watch" count is literally the length
+// of the same top-N list buildDashboardTrapsHTML renders, so the two always
+// agree).
+function buildStatCardsHTML(scored, changes) {
+  const classChanges = changes.hasHistory ? changes.classificationChanges.length : null;
+  const riskFlags = changes.hasHistory ? changes.newRiskFlags.length : null;
+  const topOpp = [...scored].filter((c) => c.valueOpportunity != null)
+    .sort((a, b) => b.valueOpportunity - a.valueOpportunity)[0];
+  const trapCount = [...scored].filter((c) => c.valueTrapRisk != null)
+    .sort((a, b) => b.valueTrapRisk - a.valueTrapRisk)
+    .slice(0, DASH_LIST_SIZE).length;
+  return '<div class="cards">' +
+    '<div class="stat"><div class="k">Classification changes</div><div class="v">' +
+      (classChanges === null ? '—' : classChanges) + '</div><div class="d">' +
+      (changes.hasHistory ? 'since ' + changes.previousDate : 'no prior snapshot yet') + '</div></div>' +
+    '<div class="stat"><div class="k">New risk flags</div><div class="v' + (riskFlags ? ' warn' : '') + '">' +
+      (riskFlags === null ? '—' : riskFlags) + '</div><div class="d">' +
+      (changes.hasHistory ? (riskFlags ? 'today' : 'none today') : 'no prior snapshot yet') + '</div></div>' +
+    '<div class="stat"><div class="k">Top opportunity</div><div class="v em">' +
+      (topOpp ? topOpp.ticker : '—') + '</div><div class="d">' +
+      (topOpp ? 'score ' + topOpp.valueOpportunity.toFixed(1) : 'no eligible names') + '</div></div>' +
+    '<div class="stat"><div class="k">Traps to watch</div><div class="v">' + trapCount + '</div><div class="d">' +
+      (trapCount ? 'highest risk names' : 'none flagged') + '</div></div>' +
+    '</div>';
+}
+
 function buildDashboardHTML(scored, sectors, watchlist, changes, changesCardHTML, generated) {
   return '<div class="dashboard">' +
     '<div class="dash-top"><h2>Morning Brief</h2><span class="dash-timestamp">as of ' + generated + '</span></div>' +
+    buildStatCardsHTML(scored, changes) +
     changesCardHTML +
     '<div class="dash-grid">' +
-    '<div class="card dash-card"><h2>Top Opportunities</h2>' + buildDashboardOpportunitiesHTML(scored) + '</div>' +
-    '<div class="card dash-card"><h2>Watch For Traps</h2>' + buildDashboardTrapsHTML(scored) + '</div>' +
+    '<div class="card dash-card"><h2><span class="dot g"></span>Top Opportunities</h2>' + buildDashboardOpportunitiesHTML(scored) + '</div>' +
+    '<div class="card dash-card"><h2><span class="dot r"></span>Watch For Traps</h2>' + buildDashboardTrapsHTML(scored) + '</div>' +
     '<div class="card dash-card"><h2>My Watchlist</h2>' + buildDashboardWatchlistHTML(scored, watchlist, changes) + '</div>' +
     '<div class="card dash-card"><h2>Sector Snapshot</h2>' + buildDashboardSectorsHTML(sectors) + '</div>' +
     '</div></div>';
@@ -1183,22 +1273,63 @@ function buildDashboardHTML(scored, sectors, watchlist, changes, changesCardHTML
 function buildHTML(scored, sectors, watchlist, stockDetails, metricDistributions, changes) {
   const watchlistSet = new Set(watchlist);
   const keys = Object.keys(METRICS);
+  // Column toggle: every field that makes sense as a table column is always
+  // rendered into the DOM (so search/sort/values are untouched regardless of
+  // what's currently shown) with data-col set to its real field name. The 9
+  // STAT_METRICS-only fields (never in METRICS) get a display-only
+  // percentile computed fresh here purely for cell coloring - see
+  // computeDisplayPercentiles()'s comment. Visibility itself is entirely
+  // client-side (a dynamically-updated <style> tag), not baked into this
+  // HTML - see the "Columns" picker wiring further down.
+  const EXTRA_COLUMN_KEYS = ['peg', 'evEbitda', 'fcfYield', 'roic', 'fcfConversion', 'netDebtEbitda', 'basicShareChange', 'ret1y', 'pctBelow52wHigh'];
+  const allMetricColKeys = keys.concat(EXTRA_COLUMN_KEYS);
+  const displayPercentiles = computeDisplayPercentiles(scored, EXTRA_COLUMN_KEYS);
+  const colLabel = (k) => (METRICS[k] ? METRICS[k].label : STAT_METRICS[k].label);
+
+  // Every toggleable column (identity columns rank/ticker/name/the star
+  // control are always on and not part of this list). Order here is the
+  // order they appear in the Columns picker checkbox list.
+  const TOGGLEABLE_COLUMN_KEYS = ['tier', 'sector', 'classification', 'score', 'valueOpp', 'trapRisk'].concat(allMetricColKeys);
+  const KEY_ONLY_PRESET = ['score', 'valueOpp', 'trapRisk', 'classification', 'pe', 'roe', 'debtEquity', 'epsGrowth'];
+  const toggleColLabel = (k) => {
+    if (k === 'valueOpp') return 'Value Opp';
+    if (k === 'trapRisk') return 'Trap Risk';
+    if (k === 'score') return 'Score';
+    if (k === 'classification') return 'Classification';
+    if (k === 'sector') return 'Sector';
+    if (k === 'tier') return 'Tier';
+    return colLabel(k);
+  };
+  const colPickerCheckboxes = TOGGLEABLE_COLUMN_KEYS.map((k) =>
+    '<label><input type="checkbox" data-col-toggle="' + k + '" checked>' + toggleColLabel(k) + '</label>').join('');
+
   const generated = new Date().toLocaleString();
   const changesCardHTML = buildChangesCardHTML(changes);
   const dashboardHTML = buildDashboardHTML(scored, sectors, watchlist, changes, changesCardHTML, generated);
 
-  const sectorRows = sectors.map((s, i) =>
+  // Same collapse pattern as the main table: ordering/bars untouched, only
+  // how many render visible by default changes. No search/sort to compose
+  // with here (unlike the table), so this is a plain show/hide toggle -
+  // matches the "What Changed" classification-list expander's mechanism.
+  const SECTOR_COLLAPSE_ROWS = 25;
+  const sectorRow = (s, i) =>
     '<div class="sector-row"><span class="sector-rank">' + (i + 1) + '</span>' +
     '<span class="sector-name">' + s.sector + '</span>' +
     '<span class="sector-bar-wrap"><span class="sector-bar" style="width:' + s.avg.toFixed(1) + '%;background:' + scoreColor(s.avg) + '"></span></span>' +
-    '<span class="sector-score">' + s.avg.toFixed(1) + '</span></div>').join('');
+    '<span class="sector-score">' + s.avg.toFixed(1) + '</span></div>';
+  const sectorRowsTop = sectors.slice(0, SECTOR_COLLAPSE_ROWS).map(sectorRow).join('');
+  const sectorRowsRest = sectors.slice(SECTOR_COLLAPSE_ROWS).map((s, i) => sectorRow(s, i + SECTOR_COLLAPSE_ROWS)).join('');
+  const sectorExpandHTML = sectors.length > SECTOR_COLLAPSE_ROWS
+    ? '<div class="sector-extra" id="sectorExtraBody" hidden>' + sectorRowsRest + '</div>' +
+      '<div class="table-expand"><button type="button" id="sectorExpandBtn" data-count="' + sectors.length + '">Show all ' + sectors.length + ' &#9662;</button></div>'
+    : '';
 
-  const headCols = keys.map((k, i) => '<th class="num" data-col="m' + i + '" data-type="num">' + METRICS[k].label + '</th>').join('');
+  const headCols = allMetricColKeys.map((k) => '<th class="num" data-col="' + k + '" data-type="num">' + colLabel(k) + '</th>').join('');
 
   const bodyRows = scored.map((c) => {
-    const cells = keys.map((k, i) => {
-      const sc = c.metricScores[k];
-      return '<td class="num" data-col="m' + i + '" data-value="' + (sc == null ? -1 : sc) + '" style="' + bandStyle(sc) + '">' + fmtCell(k, c[k]) + '</td>';
+    const cells = allMetricColKeys.map((k) => {
+      const sc = METRICS[k] ? c.metricScores[k] : (displayPercentiles[k] ? displayPercentiles[k][c.ticker] : null);
+      return '<td class="num" data-col="' + k + '" data-value="' + (sc == null ? -1 : sc) + '" style="' + bandStyle(sc) + '">' + fmtCell(k, c[k]) + '</td>';
     }).join('');
     const opp = c.valueOpportunity, trap = c.valueTrapRisk;
     const cp = c.colorPercentiles;
@@ -1241,17 +1372,17 @@ function buildHTML(scored, sectors, watchlist, stockDetails, metricDistributions
       '<td data-col="ticker" data-value="' + c.ticker + '" class="ticker">' + c.ticker + '</td>' +
       '<td data-col="name" data-value="' + c.name + '" class="name">' + c.name + '</td>' +
       '<td data-col="sector" data-value="' + c.sector + '" class="sector">' + c.sector + '</td>' +
-      '<td data-col="classification" data-value="' + c.classification + '" class="classification"><span class="class-badge" style="background:' + (CLASSIFICATION_COLOR[c.classification] || '#7c8ba1') + '22;color:' + (CLASSIFICATION_COLOR[c.classification] || '#7c8ba1') + '">' + c.classification + '</span></td>' +
+      '<td data-col="classification" data-value="' + c.classification + '" class="classification"><span class="class-badge" style="background:' + (CLASSIFICATION_COLOR[c.classification] || '#8b949e') + '26;color:' + (CLASSIFICATION_COLOR[c.classification] || '#8b949e') + '">' + c.classification + '</span></td>' +
       '<td data-col="score" data-value="' + (c.compositeEligible ? c.composite : -1) + '" class="num score" style="' + bandStyle(cp.score) + '">' +
         '<span class="score-main">' + c.composite.toFixed(1) + '</span>' +
         scoreCoverageNote +
       '</td>' +
       '<td class="num" data-col="valueOpp" data-value="' + (opp == null ? -1 : opp) + '" style="' + bandStyle(cp.valueOpp) + '">' +
-        '<span class="score-main">' + (opp == null ? '—' : opp.toFixed(1)) + '</span>' +
+        '<span class="score-main">' + (opp == null ? '—' : opp.toFixed(1)) + meterHTML(cp.valueOpp) + '</span>' +
         oppCoverageNote +
       '</td>' +
       '<td class="num" data-col="trapRisk" data-value="' + (trap == null ? -1 : trap) + '" style="' + bandStyle(cp.trapRisk) + '">' +
-        '<span class="score-main">' + (trap == null ? '—' : trap.toFixed(1)) + '</span>' +
+        '<span class="score-main">' + (trap == null ? '—' : trap.toFixed(1)) + meterHTML(cp.trapRisk) + '</span>' +
         trapCoverageNote +
       '</td>' +
       cells + '</tr>';
@@ -1274,158 +1405,189 @@ function buildHTML(scored, sectors, watchlist, stockDetails, metricDistributions
   return '<!doctype html><html lang="en"><head><meta charset="utf-8">' +
 '<meta name="viewport" content="width=device-width,initial-scale=1"><title>Stock Screener</title>' +
 '<style>' +
-':root{--bg:#0c1118;--panel:#131b26;--line:#1f2b3a;--ink:#e6edf5;--muted:#7c8ba1;--accent:#2dd4bf}' +
+// Direction B "Fintech Dashboard" palette - see screener-design-options.html
+// (reference mockup only, never linked/published from the report itself).
+':root{--bg:#0d1117;--bg2:#0b0f14;--panel:#161b22;--line:#21262d;--ink:#e6edf3;--muted:#8b949e;--accent:#10b981;--good:#34d399;--mid:#f0a868;--bad:#ff7b72}' +
 '*{box-sizing:border-box}' +
-'body{margin:0;background:var(--bg);color:var(--ink);font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif}' +
-'header{padding:26px 22px 10px;border-bottom:1px solid var(--line)}' +
-'h1{margin:0;font-size:19px;letter-spacing:.14em;text-transform:uppercase;font-weight:650}' +
+'body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,sans-serif;font-variant-numeric:tabular-nums}' +
+'header{padding:30px 26px 14px;border-bottom:1px solid var(--line)}' +
+'h1{margin:0;font-size:22px;font-weight:700;letter-spacing:-.01em}' +
 'h1 span{color:var(--accent)}' +
-'.sub{color:var(--muted);font-size:12.5px;margin-top:6px;font-family:ui-monospace,monospace}' +
-'.wrap{padding:20px 22px 60px}' +
-'.grid{display:grid;grid-template-columns:1fr;gap:20px}' +
+'.sub{color:var(--muted);font-size:13px;margin-top:6px}' +
+'.wrap{padding:28px 26px 70px}' +
+'.grid{display:grid;grid-template-columns:1fr;gap:24px}' +
 '@media(min-width:900px){.grid{grid-template-columns:300px 1fr}}' +
-'.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px}' +
-'.card h2{margin:0 0 14px;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);font-weight:600}' +
-'.sector-row{display:grid;grid-template-columns:20px 1fr 90px 44px;align-items:center;gap:9px;padding:7px 0}' +
-'.sector-rank{color:var(--muted);font-size:12px;font-family:ui-monospace,monospace;text-align:center}' +
+'.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:20px 22px}' +
+'.card h2{margin:0 0 16px;font-size:14px;font-weight:600;color:var(--ink);display:flex;align-items:center;gap:8px}' +
+'.dot{display:inline-block;width:8px;height:8px;border-radius:50%;flex:none}' +
+'.dot.g{background:var(--good)}.dot.r{background:var(--bad)}' +
+'.sector-row{display:grid;grid-template-columns:20px 1fr 90px 44px;align-items:center;gap:9px;padding:8px 0}' +
+'.sector-rank{color:var(--muted);font-size:12px;text-align:center}' +
 '.sector-name{font-size:13.5px}' +
-'.sector-bar-wrap{height:7px;background:#0c141d;border-radius:5px;overflow:hidden}' +
-'.sector-bar{display:block;height:100%;border-radius:5px}' +
-'.sector-score{font-family:ui-monospace,monospace;font-size:12.5px;text-align:right;color:var(--muted)}' +
+'.sector-bar-wrap{height:6px;background:var(--bg2);border-radius:3px;overflow:hidden}' +
+'.sector-bar{display:block;height:100%;border-radius:3px}' +
+'.sector-score{font-size:12.5px;text-align:right;color:var(--muted)}' +
 '.table-card{overflow-x:auto;padding:0}' +
-'table{border-collapse:collapse;width:100%;font-size:13.5px;min-width:960px}' +
-'thead th{position:sticky;top:0;background:#0f1722;color:var(--muted);text-align:left;font-weight:600;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;padding:12px 14px;border-bottom:1px solid var(--line);border-right:1px solid rgba(255,255,255,.05);cursor:pointer;white-space:nowrap;user-select:none}' +
+'table{border-collapse:separate;border-spacing:0;width:100%;font-size:14.5px;min-width:960px}' +
+'thead th{position:sticky;top:0;background:var(--panel);color:var(--muted);text-align:left;font-weight:500;font-size:12px;padding:0 16px 14px;border-bottom:1px solid var(--line);cursor:pointer;white-space:nowrap;user-select:none}' +
 'thead th:hover{color:var(--ink)}' +
-'thead th.num,td.num{text-align:right;font-family:ui-monospace,monospace}' +
-'tbody td{padding:11px 14px;border-bottom:1px solid #16202c;border-right:1px solid rgba(255,255,255,.04);white-space:nowrap}' +
-'tbody tr:nth-child(even){background:rgba(255,255,255,.014)}' +
-'tbody tr:hover{background:#0f1925}' +
-'@media(max-width:640px){table{font-size:12px}thead th,tbody td{padding:8px 9px}}' +
+'thead th.num,td.num{text-align:right;font-variant-numeric:tabular-nums}' +
+'tbody td{padding:15px 16px;border-top:1px solid var(--line);white-space:nowrap}' +
+'tbody tr:hover td{background:var(--panel)}' +
+'@media(max-width:640px){table{font-size:13px}thead th{padding:0 10px 10px}tbody td{padding:10px 10px}}' +
 '.rank{color:var(--muted)}' +
-'.ticker{font-family:ui-monospace,monospace;font-weight:600}' +
-'.name{color:#cdd8e6}.sector{color:var(--muted);font-size:12px}' +
-'.score{font-weight:700;font-size:14px}' +
+'.ticker{font-weight:600}' +
+'.name{color:var(--muted)}.sector{color:var(--muted);font-size:12px}' +
+'.score{font-weight:700;font-size:14.5px}' +
 '.score-main{display:block}' +
 '.coverage-note{display:block;margin-top:2px;color:var(--muted);font-size:9.5px;font-weight:500;line-height:1.2;white-space:nowrap}' +
-'.coverage-note.coverage-warn{color:#f59e0b}' +
-'.tier{display:inline-block;min-width:22px;text-align:center;padding:2px 7px;border-radius:6px;color:#08121a;font-weight:800;font-size:12px}' +
-'.dashboard{padding:20px 22px 0}' +
+'.coverage-note.coverage-warn{color:var(--mid)}' +
+'.tier{display:inline-block;min-width:22px;text-align:center;padding:2px 7px;border-radius:20px;color:#04110b;font-weight:800;font-size:12px}' +
+'.meter{display:inline-block;height:5px;background:var(--line);border-radius:3px;overflow:hidden;margin-left:8px;width:50px;vertical-align:middle}' +
+'.meter i{display:block;height:100%;border-radius:3px}' +
+'.good{color:var(--good)}.mid{color:var(--mid)}.bad{color:var(--bad)}' +
+'.dashboard{padding:34px 26px 6px}' +
 '.dash-top{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px}' +
-'.dash-top h2{margin:0;font-size:15px;letter-spacing:.04em;font-weight:700;color:var(--ink)}' +
-'.dash-timestamp{color:var(--muted);font-size:11.5px;font-family:ui-monospace,monospace}' +
-'.dashboard .changes-card{margin-top:12px}' +
+'.dash-top h2{margin:0;font-size:22px;letter-spacing:-.01em;font-weight:700;color:var(--ink)}' +
+'.dash-timestamp{color:var(--muted);font-size:13px}' +
+'.cards{display:grid;grid-template-columns:1fr;gap:16px;margin-top:22px}' +
+'@media(min-width:680px){.cards{grid-template-columns:repeat(2,1fr)}}' +
+'@media(min-width:1000px){.cards{grid-template-columns:repeat(4,1fr)}}' +
+'.stat{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px 20px}' +
+'.stat .k{color:var(--muted);font-size:12.5px;font-weight:500;margin-bottom:10px}' +
+'.stat .v{font-size:28px;font-weight:700;letter-spacing:-.02em}' +
+'.stat .v.em{color:var(--accent)}.stat .v.warn{color:var(--mid)}' +
+'.stat .d{color:#6e7681;font-size:12px;margin-top:6px}' +
+'.dashboard .changes-card{margin-top:18px}' +
 '.dash-grid{display:grid;grid-template-columns:1fr;gap:16px;margin-top:16px}' +
 '@media(min-width:680px){.dash-grid{grid-template-columns:1fr 1fr}}' +
-'.dash-row{display:flex;align-items:center;gap:8px;padding:6px 0;border-top:1px solid #16202c;font-size:12.5px;flex-wrap:wrap}' +
+'.dash-row{display:flex;align-items:center;gap:8px;padding:9px 0;border-top:1px solid var(--line);font-size:13px;flex-wrap:wrap}' +
 '.dash-row:first-child{border-top:none}' +
-'.dash-row-score{font-family:ui-monospace,monospace;font-weight:700;min-width:38px}' +
-'.dash-row-danger{color:#ef4444}' +
-'.dash-flag{font-size:10.5px;font-weight:700;color:#f97316;background:#f9731622;padding:2px 6px;border-radius:5px;letter-spacing:.02em}' +
-'.dash-flag-new{color:#7c8ba1;background:#7c8ba122}' +
-'.dash-flag-stale{color:#f59e0b;background:#f59e0b22}' +
-'.dash-ticker-link{background:none;border:none;color:var(--accent);font-family:ui-monospace,monospace;font-weight:700;font-size:12.5px;cursor:pointer;padding:0;min-width:46px;text-align:left}' +
+'.dash-row-score{font-weight:700;min-width:38px}' +
+'.dash-row-danger{color:var(--bad)}' +
+'.dash-flag{font-size:10.5px;font-weight:700;color:var(--mid);background:rgba(240,168,104,.15);padding:2px 6px;border-radius:5px;letter-spacing:.02em}' +
+'.dash-flag-new{color:var(--muted);background:rgba(139,148,158,.15)}' +
+'.dash-flag-stale{color:var(--mid);background:rgba(240,168,104,.15)}' +
+'.dash-ticker-link{background:none;border:none;color:var(--accent);font-weight:700;font-size:13px;cursor:pointer;padding:0;min-width:46px;text-align:left}' +
 '.dash-ticker-link:hover{text-decoration:underline}' +
 '.dash-sector-group{margin-bottom:10px}' +
 '.dash-sector-group:last-child{margin-bottom:0}' +
 '.dash-sector-group h4{margin:0 0 4px;font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:700}' +
 '.dash-sector-name{flex:1;font-size:12.5px}' +
-'.changes-card{margin-top:20px}' +
-'.changes-summary{margin:0 0 14px}' +
-'.changes-grid{display:grid;grid-template-columns:1fr;gap:16px}' +
+'.changes-card{margin-top:16px}' +
+'.changes-summary{margin:0 0 18px}' +
+'.changes-grid{display:grid;grid-template-columns:1fr;gap:20px}' +
 '@media(min-width:680px){.changes-grid{grid-template-columns:1fr 1fr}}' +
-'@media(min-width:1100px){.changes-grid{grid-template-columns:1fr 1fr 1fr 1fr}}' +
-'.changes-col h3{margin:0 0 8px;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:700}' +
-'.move-row{display:flex;align-items:center;gap:8px;padding:5px 0;border-top:1px solid #16202c;font-size:12.5px;flex-wrap:wrap}' +
+'@media(min-width:1000px){.changes-grid{grid-template-columns:1fr 1fr 1fr}}' +
+'.changes-col h3{margin:0 0 8px;font-size:12px;letter-spacing:.03em;color:var(--muted);font-weight:600}' +
+'.changes-expand{margin-top:16px;padding-top:16px;border-top:1px solid var(--line)}' +
+'.changes-expand-btn{background:var(--bg2);color:var(--muted);border:1px solid var(--line);border-radius:20px;padding:8px 18px;font-size:12.5px;font-weight:600;cursor:pointer;font-family:system-ui,sans-serif;transition:color .15s,border-color .15s}' +
+'.changes-expand-btn:hover{color:var(--accent);border-color:var(--accent)}' +
+'.changes-expand-body{margin-top:16px}' +
+'.changes-expand-body h3{margin:0 0 8px;font-size:12px;letter-spacing:.03em;color:var(--muted);font-weight:600}' +
+'.move-row{display:flex;align-items:center;gap:8px;padding:8px 0;border-top:1px solid var(--line);font-size:13px;flex-wrap:wrap}' +
 '.move-row:first-child{border-top:none}' +
-'.move-ticker{font-family:ui-monospace,monospace;font-weight:700;min-width:44px}' +
-'.move-delta{font-family:ui-monospace,monospace;font-weight:700}' +
-'.move-up{color:#22c55e}.move-down{color:#ef4444}.move-flat{color:var(--muted)}' +
+'.move-ticker{font-weight:700;min-width:44px}' +
+'.move-delta{font-weight:700}' +
+'.move-up{color:var(--good)}.move-down{color:var(--bad)}.move-flat{color:var(--muted)}' +
 '.move-class{color:var(--muted);font-size:11.5px}' +
-'.move-class.risk-flag{color:#f97316;font-weight:600}' +
-'.guide{margin-top:20px}' +
-'.guide-grid{display:grid;grid-template-columns:1fr;gap:14px}' +
+'.move-class.risk-flag{color:var(--mid);font-weight:600}' +
+'.guide{margin-top:30px}' +
+'.guide-grid{display:grid;grid-template-columns:1fr;gap:16px}' +
 '@media(min-width:680px){.guide-grid{grid-template-columns:1fr 1fr}}' +
 '@media(min-width:1100px){.guide-grid{grid-template-columns:1fr 1fr 1fr}}' +
-'.g-card{background:#0f1722;border:1px solid var(--line);border-radius:10px;padding:14px}' +
-'.g-name{font-family:ui-monospace,monospace;font-weight:700;color:var(--accent);font-size:14px;margin-bottom:5px}' +
+'.g-card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px}' +
+'.g-name{font-weight:700;color:var(--accent);font-size:14px;margin-bottom:5px}' +
 '.g-what{color:var(--muted);font-size:12px;line-height:1.5;margin-bottom:11px}' +
-'.g-band{display:grid;grid-template-columns:110px 1fr;gap:8px;padding:4px 0;border-top:1px solid #16202c;font-size:12.5px}' +
-'.g-range{font-family:ui-monospace,monospace;color:var(--ink)}' +
+'.g-band{display:grid;grid-template-columns:110px 1fr;gap:8px;padding:4px 0;border-top:1px solid var(--line);font-size:12.5px}' +
+'.g-range{color:var(--ink)}' +
 '.g-mean{color:var(--muted)}' +
-'.hint{color:var(--muted);font-size:11.5px;margin:16px 0 0;font-family:ui-monospace,monospace}' +
+'.hint{color:var(--muted);font-size:11.5px;margin:16px 0 0}' +
 '.why2-wrap{margin-top:8px}' +
-'.why2-summary{margin-bottom:10px;color:var(--muted);font-size:11.5px;line-height:1.55;font-family:ui-monospace,monospace}' +
+'.why2-summary{margin-bottom:10px;color:var(--muted);font-size:11.5px;line-height:1.55}' +
 '.why2-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px;margin-top:10px}' +
-'.why2-card{background:#0f1722;border:1px solid var(--line);border-radius:8px;padding:10px 11px}' +
+'.why2-card{background:var(--bg2);border:1px solid var(--line);border-radius:10px;padding:10px 11px}' +
 '.why2-head{display:flex;justify-content:space-between;gap:10px;align-items:center;margin-bottom:5px}' +
 '.why2-name{font-size:11px;font-weight:700}' +
-'.why2-score{font-size:13px;font-weight:700;font-family:ui-monospace,monospace}' +
+'.why2-score{font-size:13px;font-weight:700}' +
 '.why2-meta{color:var(--muted);font-size:10.5px}' +
-'.why2-change{margin-top:12px;padding-top:10px;border-top:1px solid #16202c;font-size:12.5px}' +
+'.why2-change{margin-top:12px;padding-top:10px;border-top:1px solid var(--line);font-size:12.5px}' +
 '.why2-class-change{margin-top:4px;color:var(--muted);font-size:11.5px}' +
 
-'.filter-row{display:flex;align-items:center;gap:14px;padding:14px 12px;flex-wrap:wrap}' +
+'.filter-row{display:flex;align-items:center;gap:16px;padding:16px 14px;flex-wrap:wrap}' +
 '.filter-row label{color:var(--muted);font-size:11px;letter-spacing:.08em;text-transform:uppercase}' +
-'.filter-row select{background:#0f1722;color:var(--ink);border:1px solid var(--line);border-radius:6px;padding:5px 8px;font-size:12.5px;font-family:ui-sans-serif,system-ui,sans-serif}' +
-'.class-badge{display:inline-block;padding:2px 8px;border-radius:6px;font-size:11px;font-weight:700;letter-spacing:.02em;white-space:nowrap}' +
+'.filter-row select{background:var(--bg2);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:6px 9px;font-size:12.5px;font-family:system-ui,sans-serif}' +
+'.col-picker{position:relative;margin-left:auto}' +
+'.col-picker-btn{background:var(--bg2);color:var(--muted);border:1px solid var(--line);border-radius:8px;padding:6px 11px;font-size:12px;font-family:system-ui,sans-serif;cursor:pointer}' +
+'.col-picker-btn:hover{color:var(--ink)}' +
+'.col-picker-panel{position:absolute;top:calc(100% + 6px);right:0;z-index:20;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px;width:270px;max-height:60vh;overflow-y:auto;box-shadow:0 8px 24px rgba(0,0,0,.4)}' +
+'.col-picker-presets{display:flex;gap:8px;margin-bottom:12px;padding-bottom:12px;border-bottom:1px solid var(--line)}' +
+'.col-picker-presets button{flex:1;background:var(--bg2);color:var(--muted);border:1px solid var(--line);border-radius:20px;padding:6px 10px;font-size:11.5px;font-weight:600;cursor:pointer;font-family:system-ui,sans-serif;transition:color .15s,border-color .15s}' +
+'.col-picker-presets button:hover{color:var(--accent);border-color:var(--accent)}' +
+'.col-picker-list label{display:flex;align-items:center;gap:8px;padding:5px 2px;font-size:12.5px;color:var(--ink);cursor:pointer}' +
+'.col-picker-list input{accent-color:var(--accent)}' +
+'.class-badge,.pill{display:inline-block;padding:4px 11px;border-radius:20px;font-size:11.5px;font-weight:600;letter-spacing:.02em;white-space:nowrap}' +
 '.view-tabs{display:flex;gap:6px}' +
-'.view-tab{background:#0f1722;color:var(--muted);border:1px solid var(--line);border-radius:6px;padding:6px 11px;font-size:12px;font-family:ui-sans-serif,system-ui,sans-serif;cursor:pointer}' +
+'.view-tab{background:var(--bg2);color:var(--muted);border:1px solid var(--line);border-radius:8px;padding:6px 11px;font-size:12px;font-family:system-ui,sans-serif;cursor:pointer}' +
 '.view-tab:hover{color:var(--ink)}' +
-'.view-tab.active{color:#08121a;background:var(--accent);border-color:var(--accent);font-weight:700}' +
+'.view-tab.active{color:#04110b;background:var(--accent);border-color:var(--accent);font-weight:700}' +
 '.star-cell{text-align:center!important;width:34px;cursor:default!important}' +
-'.star-btn{background:none;border:none;color:#3a4759;font-size:17px;cursor:pointer;line-height:1;padding:2px}' +
-'.star-btn:hover{color:#eab308}' +
-'.star-btn.starred{color:#eab308}' +
-'.wl-export{padding:14px;border-top:1px solid var(--line)}' +
-'.wl-export button{background:var(--accent);color:#08121a;border:none;border-radius:6px;padding:7px 13px;font-size:12.5px;font-weight:700;cursor:pointer;font-family:ui-sans-serif,system-ui,sans-serif}' +
-'.wl-export button:hover{opacity:.88}' +
-'#wlCopyStatus{color:var(--accent);font-size:12px;margin-left:6px}' +
-'#wlJson{display:block;width:100%;max-width:520px;margin-top:9px;background:#0c141d;color:var(--muted);border:1px solid var(--line);border-radius:6px;padding:8px;font-family:ui-monospace,monospace;font-size:11.5px;resize:vertical}' +
+'.star-btn{background:none;border:none;color:#3a4148;font-size:17px;cursor:pointer;line-height:1;padding:2px}' +
+'.star-btn:hover{color:#f0a868}' +
+'.star-btn.starred{color:#f0a868}' +
+'.table-expand{padding:14px 16px;border-top:1px solid var(--line);text-align:center}' +
+'.table-expand button{background:var(--bg2);color:var(--muted);border:1px solid var(--line);border-radius:20px;padding:8px 18px;font-size:12.5px;font-weight:600;cursor:pointer;font-family:system-ui,sans-serif;transition:color .15s,border-color .15s}' +
+'.table-expand button:hover{color:var(--accent);border-color:var(--accent)}' +
 '.data-row{cursor:pointer}' +
 '.ticker::before{content:"\\25B8\\a0";color:var(--muted);font-size:10px}' +
-'.data-row.expanded{background:#132030}' +
+'.data-row.expanded td{background:rgba(16,185,129,.06)}' +
 '.data-row.expanded .ticker::before{content:"\\25BE\\a0"}' +
-'.detail-row td{padding:0;border-right:none;cursor:default}' +
-'.detail-row{background:#0a0f16}' +
-'.detail-wrap{position:sticky;left:0;width:min(94vw,900px);padding:18px 22px 22px;opacity:0;transform:translateY(-6px);transition:opacity .22s ease,transform .22s ease;white-space:normal}' +
+'.detail-row td{padding:0;cursor:default}' +
+'.detail-row{background:var(--bg2)}' +
+'.detail-wrap{position:sticky;left:0;width:min(94vw,900px);padding:22px 26px 26px;opacity:0;transform:translateY(-6px);transition:opacity .22s ease,transform .22s ease;white-space:normal}' +
 '.detail-row.open .detail-wrap{opacity:1;transform:translateY(0)}' +
 '.detail-section h4{margin:0 0 10px;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}' +
 '.detail-price-section{margin-bottom:18px}' +
 '.detail-price{font-size:21px;font-weight:700;margin-bottom:10px}' +
-'.cache-note{font-size:11px;font-weight:400;color:var(--muted);font-family:ui-monospace,monospace}' +
+'.cache-note{font-size:11px;font-weight:400;color:var(--muted)}' +
 '.tv-widget-container{min-height:260px}' +
+'.detail-allmetrics-section{margin-bottom:22px;padding-bottom:20px;border-bottom:1px solid var(--line)}' +
+'.all-metrics-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:0 20px}' +
+'.am-row{display:flex;justify-content:space-between;align-items:baseline;gap:10px;padding:8px 0;border-top:1px solid var(--line);font-size:13px}' +
+'.am-label{color:var(--muted)}' +
+'.am-value{font-weight:600;color:var(--ink);white-space:nowrap}' +
 '.detail-grid{display:grid;grid-template-columns:1fr;gap:22px}' +
 '@media(min-width:820px){.detail-grid{grid-template-columns:1fr 1fr}}' +
 '.news-list{list-style:none;margin:0;padding:0;max-height:280px;overflow-y:auto}' +
-'.news-list li{padding:8px 0;border-bottom:1px solid #16202c}' +
+'.news-list li{padding:8px 0;border-bottom:1px solid var(--line)}' +
 '.news-list a{color:var(--ink);text-decoration:none;font-size:13px;line-height:1.4}' +
 '.news-list a:hover{color:var(--accent);text-decoration:underline}' +
-'.news-meta{display:block;color:var(--muted);font-size:11px;margin-top:3px;font-family:ui-monospace,monospace}' +
+'.news-meta{display:block;color:var(--muted);font-size:11px;margin-top:3px}' +
 '.stat-label{display:block;font-size:12px;color:var(--muted);margin-bottom:8px}' +
-'.stat-select{margin-left:6px;background:#0f1722;color:var(--ink);border:1px solid var(--line);border-radius:6px;padding:4px 7px;font-size:12.5px}' +
+'.stat-select{margin-left:6px;background:var(--bg2);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:4px 7px;font-size:12.5px}' +
 '.stat-chart-container{margin-top:10px}' +
-'.stat-readout{display:flex;gap:16px;font-size:12px;font-family:ui-monospace,monospace;margin-top:8px;flex-wrap:wrap}' +
+'.stat-readout{display:flex;gap:16px;font-size:12px;margin-top:8px;flex-wrap:wrap}' +
 '.detail-research-section{margin-top:22px;padding-top:18px;border-top:1px solid var(--line)}' +
 '.research-empty{color:var(--muted);font-size:12.5px;padding:2px 0}' +
-'.research-freshness{font-size:11.5px;font-weight:600;padding:6px 10px;border-radius:6px;margin-bottom:12px}' +
-'.research-freshness.rf-new{background:#7c8ba122;color:var(--muted)}' +
-'.research-freshness.rf-stale{background:#f59e0b22;color:#f59e0b}' +
-'.research-verdict{display:inline-flex;gap:14px;align-items:center;flex-wrap:wrap;border:1px solid;border-radius:8px;padding:8px 14px;font-weight:700;font-size:13.5px;margin-bottom:10px}' +
+'.research-freshness{font-size:11.5px;font-weight:600;padding:6px 10px;border-radius:8px;margin-bottom:12px}' +
+'.research-freshness.rf-new{background:rgba(139,148,158,.15);color:var(--muted)}' +
+'.research-freshness.rf-stale{background:rgba(240,168,104,.15);color:var(--mid)}' +
+'.research-verdict{display:inline-flex;gap:14px;align-items:center;flex-wrap:wrap;border:1px solid;border-radius:10px;padding:8px 14px;font-weight:700;font-size:13.5px;margin-bottom:10px}' +
 '.research-verdict-label{text-transform:capitalize}' +
-'.research-confidence{font-size:11px;font-weight:600;opacity:.85;font-family:ui-monospace,monospace;text-transform:uppercase;letter-spacing:.03em}' +
-'.research-verdict-reasoning{color:#cdd8e6;font-size:13px;line-height:1.55;margin:2px 0 10px}' +
-'.research-timestamp{color:var(--muted);font-size:11px;font-family:ui-monospace,monospace;margin:0 0 16px}' +
+'.research-confidence{font-size:11px;font-weight:600;opacity:.85;text-transform:uppercase;letter-spacing:.03em}' +
+'.research-verdict-reasoning{color:var(--ink);font-size:13px;line-height:1.55;margin:2px 0 10px}' +
+'.research-timestamp{color:var(--muted);font-size:11px;margin:0 0 16px}' +
 '.research-question{margin-bottom:16px}' +
 '.research-question h5{margin:0 0 6px;font-size:12px;letter-spacing:.03em;color:var(--ink);display:flex;align-items:center;gap:8px;font-weight:700}' +
-'.research-direction{font-size:10px;font-weight:700;text-transform:uppercase;color:var(--accent);background:#0f2a27;border:1px solid #1c4640;padding:2px 7px;border-radius:5px;letter-spacing:.03em}' +
-'.research-question p{margin:0 0 6px;font-size:13px;line-height:1.55;color:#cdd8e6}' +
-'.research-list{margin:0 0 6px;padding-left:18px;font-size:13px;line-height:1.55;color:#cdd8e6}' +
+'.research-direction{font-size:10px;font-weight:700;text-transform:uppercase;color:var(--accent);background:rgba(16,185,129,.12);border:1px solid rgba(16,185,129,.3);padding:2px 7px;border-radius:5px;letter-spacing:.03em}' +
+'.research-question p{margin:0 0 6px;font-size:13px;line-height:1.55;color:var(--ink)}' +
+'.research-list{margin:0 0 6px;padding-left:18px;font-size:13px;line-height:1.55;color:var(--ink)}' +
 '.research-list li{margin-bottom:8px}' +
 '.src-chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:5px}' +
-'.src-chip{font-size:10.5px;font-family:ui-monospace,monospace;color:var(--accent);background:#0f2a27;border:1px solid #1c4640;border-radius:5px;padding:2px 7px;text-decoration:none;white-space:nowrap}' +
-'.src-chip:hover{background:#123531}' +
-'.src-chip-nolink{color:var(--muted);background:#141d28;border-color:var(--line);cursor:default}' +
-'.research-sources{margin-top:14px;padding-top:12px;border-top:1px solid #16202c}' +
+'.src-chip{font-size:10.5px;color:var(--accent);background:rgba(16,185,129,.12);border:1px solid rgba(16,185,129,.3);border-radius:5px;padding:2px 7px;text-decoration:none;white-space:nowrap}' +
+'.src-chip:hover{background:rgba(16,185,129,.2)}' +
+'.src-chip-nolink{color:var(--muted);background:var(--bg2);border-color:var(--line);cursor:default}' +
+'.research-sources{margin-top:14px;padding-top:12px;border-top:1px solid var(--line)}' +
 '.research-sources h5{margin:0 0 8px;font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);font-weight:700}' +
 '.research-sources ol{margin:0;padding-left:18px;font-size:12px;line-height:1.6}' +
 '.research-sources li{margin-bottom:7px}' +
@@ -1434,20 +1596,26 @@ function buildHTML(scored, sectors, watchlist, stockDetails, metricDistributions
 '.src-nolink{color:var(--muted);font-weight:600}' +
 '.src-desc{display:block;color:var(--muted);font-size:11.5px;margin-top:2px;font-weight:400}' +
 '.research-sourcing-note{font-size:11px;color:var(--muted);font-style:italic;margin-top:12px;line-height:1.5}' +
-'.research-caveat{font-size:10.5px;color:var(--muted);margin-top:14px;padding-top:10px;border-top:1px solid #16202c}' +
+'.research-caveat{font-size:10.5px;color:var(--muted);margin-top:14px;padding-top:10px;border-top:1px solid var(--line)}' +
 '</style></head><body>' +
 '<header><h1>Stock <span>Screener</span></h1>' +
 '<div class="sub">' + scored.length + ' names ranked &middot; weights: ' + weightsNote + ' &middot; ' + generated + '</div></header>' +
 dashboardHTML +
 '<div class="wrap"><div class="grid">' +
-'<div class="card"><h2>Industries &middot; best to worst</h2>' + sectorRows + '<p class="hint">Avg score of each sector\'s names.</p></div>' +
+'<div class="card"><h2>Industries &middot; best to worst</h2>' + sectorRowsTop + sectorExpandHTML + '<p class="hint">Avg score of each sector\'s names.</p></div>' +
 '<div class="card table-card">' +
-'<input id="stockSearch" type="text" placeholder="Search ticker or company..." style="display:block;width:min(520px,100%);height:46px;padding:0 16px;margin:0 0 16px 0;background:#0f1722;color:#e8eef7;border:1px solid #243244;border-radius:10px;font-size:15px;font-weight:600;outline:none;box-sizing:border-box;box-shadow:0 0 0 1px rgba(255,255,255,.02);">' +
+'<input id="stockSearch" type="text" placeholder="Search ticker or company..." style="display:block;width:min(520px,100%);height:46px;padding:0 16px;margin:0 0 16px 0;background:#0b0f14;color:#e6edf3;border:1px solid #21262d;border-radius:10px;font-size:15px;font-weight:600;font-family:system-ui,sans-serif;outline:none;box-sizing:border-box;box-shadow:0 0 0 1px rgba(255,255,255,.02);">' +
 '<div class="filter-row">' +
 '<div class="view-tabs"><button type="button" class="view-tab active" data-view="all">All (' + scored.length + ')</button>' +
 '<button type="button" class="view-tab" data-view="watchlist">&#9733; Watchlist (<span id="wlCount">' + watchlistSet.size + '</span>)</button></div>' +
 '<label for="classFilter">Classification</label>' +
 '<select id="classFilter"><option value="">All (' + scored.length + ')</option>' + classificationOptions + '</select>' +
+'<div class="col-picker" id="colPicker">' +
+'<button type="button" class="col-picker-btn" id="colPickerBtn">Columns &#9662;</button>' +
+'<div class="col-picker-panel" id="colPickerPanel" hidden>' +
+'<div class="col-picker-presets"><button type="button" id="colPresetAll">Show All</button><button type="button" id="colPresetKey">Key Only</button></div>' +
+'<div class="col-picker-list">' + colPickerCheckboxes + '</div>' +
+'</div></div>' +
 '</div>' +
 '<table id="t"><thead><tr>' +
 '<th data-col="star" class="star-cell">&#9733;</th>' +
@@ -1461,9 +1629,7 @@ dashboardHTML +
 '<th class="num" data-col="valueOpp" data-type="num">Value Opp</th>' +
 '<th class="num" data-col="trapRisk" data-type="num">Trap Risk</th>' + headCols +
 '</tr></thead><tbody>' + bodyRows + '</tbody></table>' +
-'<div class="wl-export"><p class="hint">Stars persist in this browser via localStorage while you keep re-opening this file, but the only thing that survives running <code>node screener.js</code> again is <code>watchlist.json</code>. To make your stars stick across a re-run: click Copy (or select the box below) and paste the result into <code>watchlist.json</code>.</p>' +
-'<button type="button" id="wlCopyBtn">Copy watchlist.json</button> <span id="wlCopyStatus"></span>' +
-'<textarea id="wlJson" readonly rows="4" spellcheck="false"></textarea></div>' +
+'<div class="table-expand"><button type="button" id="tableExpandBtn">Show all ' + scored.length + ' &#9662;</button></div>' +
 '</div></div>' +
 '<div class="card guide"><h2>How to read these numbers</h2>' +
 '<div class="guide-grid">' + guideCards + '</div>' +
@@ -1471,7 +1637,14 @@ dashboardHTML +
 '</div>' +
 '<script>' +
 'var table=document.getElementById("t");var lastCol=null,asc=false;' +
-'var stockSearch=document.getElementById("stockSearch");if(stockSearch){stockSearch.addEventListener("input",function(){var q=this.value.trim().toLowerCase();Array.from(table.tBodies[0].rows).forEach(function(row){row.style.display=row.innerText.toLowerCase().includes(q)?"":"none";});});}' +
+'var stockSearch=document.getElementById("stockSearch");' +
+// Collapsible table: default view shows only the first COLLAPSE_ROWS rows in
+// whatever the CURRENT DOM order is (so it always tracks the active sort,
+// not the original rank). Search/classification/watchlist filters bypass
+// the cap entirely and show every match regardless of position - see
+// applyFilters() below, the single place that reconciles all of this.
+'var COLLAPSE_ROWS=25;var tableExpanded=false;' +
+'var tableExpandBtn=document.getElementById("tableExpandBtn");' +
 'function dataRows(){return [].slice.call(table.tBodies[0].querySelectorAll(".data-row"));}' +
 // Expanded panels are removed (not just hidden) whenever the row order or
 // row visibility changes, since they're not part of the sort/filter model -
@@ -1487,7 +1660,8 @@ dashboardHTML +
 'var rows=dataRows();' +
 'rows.sort(function(a,b){var av=a.querySelector("[data-col=\\""+col+"\\"]").dataset.value;var bv=b.querySelector("[data-col=\\""+col+"\\"]").dataset.value;' +
 'var cmp=(type==="num")?(parseFloat(av)-parseFloat(bv)):String(av).localeCompare(bv);return asc?cmp:-cmp;});' +
-'rows.forEach(function(r){table.tBodies[0].appendChild(r);});});});' +
+'rows.forEach(function(r){table.tBodies[0].appendChild(r);});' +
+'applyFilters();});});' +
 
 // Watchlist: seeded from watchlist.json (embedded at generation time), but
 // once you've starred anything in this browser, localStorage takes over on
@@ -1497,24 +1671,94 @@ dashboardHTML +
 'var stored=localStorage.getItem(STORAGE_KEY);' +
 'var watchlist=new Set(stored!==null?JSON.parse(stored):serverWatchlist);' +
 'function saveWatchlist(){localStorage.setItem(STORAGE_KEY,JSON.stringify(Array.from(watchlist)));}' +
-'function updateWlJson(){document.getElementById("wlJson").value=JSON.stringify(Array.from(watchlist).sort(),null,2);}' +
 'function syncStars(){' +
 'dataRows().forEach(function(r){' +
 'var on=watchlist.has(r.dataset.ticker);r.dataset.watchlisted=on;' +
 'var btn=r.querySelector(".star-btn");if(btn){btn.textContent=on?"\\u2605":"\\u2606";btn.classList.toggle("starred",on);}});' +
-'document.getElementById("wlCount").textContent=watchlist.size;' +
-'updateWlJson();}' +
+'document.getElementById("wlCount").textContent=watchlist.size;}' +
 
 'var currentView="all";' +
 'var classFilter=document.getElementById("classFilter");' +
+// Single source of truth for row visibility: search, classification filter,
+// watchlist view, AND the collapse cap all reconcile here. A row hides if
+// it fails any active filter/search; among rows that pass, only the first
+// COLLAPSE_ROWS (in current DOM/sort order) show UNLESS a filter/search is
+// active or the table has been manually expanded - so searching or
+// filtering always reaches the full 503, never just the visible top slice.
 'function applyFilters(){' +
 'collapseAllDetails();' +
-'var val=classFilter.value;' +
-'dataRows().forEach(function(r){' +
-'var clsOk=!val||r.dataset.classification===val;' +
+'var q=stockSearch?stockSearch.value.trim().toLowerCase():"";' +
+'var hasQuery=q.length>0;' +
+'var clsVal=classFilter.value;' +
+'var filterActive=hasQuery||!!clsVal||currentView==="watchlist";' +
+'var matchCount=0;' +
+'dataRows().forEach(function(r,idx){' +
+'var searchOk=!hasQuery||r.innerText.toLowerCase().includes(q);' +
+'var clsOk=!clsVal||r.dataset.classification===clsVal;' +
 'var wlOk=currentView!=="watchlist"||watchlist.has(r.dataset.ticker);' +
-'r.style.display=(clsOk&&wlOk)?"":"none";});}' +
+'if(!(searchOk&&clsOk&&wlOk)){r.style.display="none";return;}' +
+'matchCount++;' +
+'r.style.display=(filterActive||tableExpanded||idx<COLLAPSE_ROWS)?"":"none";});' +
+'if(tableExpandBtn){' +
+'tableExpandBtn.style.display=(!filterActive&&matchCount>COLLAPSE_ROWS)?"":"none";' +
+'tableExpandBtn.innerHTML=tableExpanded?"Show top "+COLLAPSE_ROWS+" &#9652;":"Show all "+matchCount+" &#9662;";}}' +
+'if(stockSearch)stockSearch.addEventListener("input",applyFilters);' +
 'classFilter.addEventListener("change",applyFilters);' +
+'if(tableExpandBtn)tableExpandBtn.addEventListener("click",function(){tableExpanded=!tableExpanded;applyFilters();});' +
+
+// "What Changed" classification list: a simple static show/hide, unrelated
+// to the table's search/sort/collapse model above - no row filtering here,
+// just one block toggling visibility.
+'var changesExpandBtn=document.getElementById("changesExpandBtn");' +
+'if(changesExpandBtn){changesExpandBtn.addEventListener("click",function(){' +
+'var body=document.getElementById("changesExpandBody");' +
+'var willOpen=body.hasAttribute("hidden");' +
+'if(willOpen){body.removeAttribute("hidden");changesExpandBtn.innerHTML="Hide &#9652;";}' +
+'else{body.setAttribute("hidden","");changesExpandBtn.innerHTML="Show "+changesExpandBtn.dataset.count+" change"+(changesExpandBtn.dataset.count==="1"?"":"s")+" &#9662;";}' +
+'});}' +
+
+// Industries sidebar: same collapse pattern as the main table (top
+// SECTOR_COLLAPSE_ROWS by default, rest behind "Show all"), wording matches
+// the table's button exactly for consistency. No search/sort to compose
+// with here, so it's a plain show/hide toggle like the changes expander.
+'var sectorExpandBtn=document.getElementById("sectorExpandBtn");' +
+'if(sectorExpandBtn){sectorExpandBtn.addEventListener("click",function(){' +
+'var body=document.getElementById("sectorExtraBody");' +
+'var willOpen=body.hasAttribute("hidden");' +
+'if(willOpen){body.removeAttribute("hidden");sectorExpandBtn.innerHTML="Show top 25 &#9652;";}' +
+'else{body.setAttribute("hidden","");sectorExpandBtn.innerHTML="Show all "+sectorExpandBtn.dataset.count+" &#9662;";}' +
+'});}' +
+
+// Column visibility toggle: one dynamically-updated <style> tag is the
+// entire mechanism - hiding a column is a single CSS rule matching every
+// th/td with that data-col, so toggling never touches the 503 rows
+// individually (fast) and composes cleanly with row-level collapse/search
+// (independent mechanisms - display:none on a <tr> vs. on specific <td>s
+// within it are unrelated CSS rules). Never persisted (no localStorage) -
+// resets to the default preset (Show All, for now) on every load.
+'var TOGGLE_COLS=' + JSON.stringify(TOGGLEABLE_COLUMN_KEYS) + ';' +
+'var KEY_ONLY_COLS=' + JSON.stringify(KEY_ONLY_PRESET) + ';' +
+'var colStyleEl=document.createElement("style");document.head.appendChild(colStyleEl);' +
+'function updateColumnCSS(hiddenKeys){' +
+'var sel=hiddenKeys.map(function(k){return \'th[data-col="\'+k+\'"],td[data-col="\'+k+\'"]\';}).join(",");' +
+'colStyleEl.textContent=hiddenKeys.length?sel+"{display:none}":"";}' +
+'function setColumnPreset(visibleKeys){' +
+'document.querySelectorAll(".col-picker-list input[type=checkbox]").forEach(function(cb){' +
+'cb.checked=visibleKeys.indexOf(cb.dataset.colToggle)>=0;});' +
+'updateColumnCSS(TOGGLE_COLS.filter(function(k){return visibleKeys.indexOf(k)<0;}));}' +
+'setColumnPreset(TOGGLE_COLS.slice());' + // default: Show All
+'var colPresetAll=document.getElementById("colPresetAll");if(colPresetAll)colPresetAll.addEventListener("click",function(){setColumnPreset(TOGGLE_COLS.slice());});' +
+'var colPresetKey=document.getElementById("colPresetKey");if(colPresetKey)colPresetKey.addEventListener("click",function(){setColumnPreset(KEY_ONLY_COLS.slice());});' +
+'document.querySelectorAll(".col-picker-list input[type=checkbox]").forEach(function(cb){' +
+'cb.addEventListener("change",function(){' +
+'var checked=Array.from(document.querySelectorAll(".col-picker-list input[type=checkbox]:checked")).map(function(c){return c.dataset.colToggle;});' +
+'updateColumnCSS(TOGGLE_COLS.filter(function(k){return checked.indexOf(k)<0;}));});});' +
+'var colPickerBtn=document.getElementById("colPickerBtn");' +
+'var colPickerPanel=document.getElementById("colPickerPanel");' +
+'if(colPickerBtn&&colPickerPanel){' +
+'colPickerBtn.addEventListener("click",function(e){e.stopPropagation();colPickerPanel.hidden=!colPickerPanel.hidden;});' +
+'document.addEventListener("click",function(e){' +
+'if(!colPickerPanel.hidden&&!document.getElementById("colPicker").contains(e.target))colPickerPanel.hidden=true;});}' +
 
 'document.querySelectorAll(".view-tab").forEach(function(btn){btn.addEventListener("click",function(){' +
 'document.querySelectorAll(".view-tab").forEach(function(b){b.classList.remove("active");});' +
@@ -1526,14 +1770,8 @@ dashboardHTML +
 'if(watchlist.has(t))watchlist.delete(t);else watchlist.add(t);' +
 'saveWatchlist();syncStars();applyFilters();});' +
 
-'document.getElementById("wlCopyBtn").addEventListener("click",function(){' +
-'var box=document.getElementById("wlJson");var status=document.getElementById("wlCopyStatus");' +
-'if(navigator.clipboard&&navigator.clipboard.writeText){' +
-'navigator.clipboard.writeText(box.value).then(function(){status.textContent="Copied - paste into watchlist.json";setTimeout(function(){status.textContent="";},3000);},' +
-'function(){box.focus();box.select();status.textContent="Selected - press Cmd/Ctrl+C";});' +
-'}else{box.focus();box.select();status.textContent="Selected - press Cmd/Ctrl+C";}});' +
-
 'syncStars();' +
+'applyFilters();' +
 
 /* ---- Phase 9: per-stock detail panel ----
  * Lazy: a row's detail <tr> is only created on its first click. The
@@ -1573,6 +1811,18 @@ dashboardHTML +
 'return "<label class=\\"stat-label\\">Compare against the whole universe: <select class=\\"stat-select\\">"+options+"</select></label>"+' +
 '"<div class=\\"stat-chart-container\\"></div>";}' +
 
+// Every STAT_METRICS field for this one stock, at a glance - display-only,
+// reads the same STOCK_DETAIL[ticker].metrics/STAT_METRICS data the
+// percentile chart above already uses (built server-side in
+// buildStockDetails(), unchanged by this). Reuses fmtStatValue() so the
+// numbers read identically to the "This stock: X" readout elsewhere.
+'function buildAllMetricsHTML(ticker){' +
+'var d=STOCK_DETAIL[ticker];' +
+'var rows=Object.keys(STAT_METRICS).map(function(id){' +
+'return "<div class=\\"am-row\\"><span class=\\"am-label\\">"+STAT_METRICS[id].label+"</span><span class=\\"am-value\\">"+fmtStatValue(id,d.metrics[id])+"</span></div>";' +
+'}).join("");' +
+'return "<div class=\\"all-metrics-grid\\">"+rows+"</div>";}' +
+
 // Phase 6 display layer: renders the embedded research note (if any) into
 // the panel's "Research & Analyst Reasoning" section. Pure read of
 // STOCK_DETAIL[ticker].research, which is either the full parsed
@@ -1610,7 +1860,7 @@ dashboardHTML +
 'function researchVerdictBanner(verdict,sources){' +
 'if(!verdict)return "";' +
 'var cls=String(verdict.classification||"").toLowerCase();' +
-'var color=cls.indexOf("trap")>=0?"#ef4444":(cls.indexOf("opportunity")>=0?"#2dd4bf":"#7c8ba1");' +
+'var color=cls.indexOf("trap")>=0?"#ff7b72":(cls.indexOf("opportunity")>=0?"#10b981":"#8b949e");' +
 'var banner="<div class=\\"research-verdict\\" style=\\"border-color:"+color+";color:"+color+"\\">"+' +
 '"<span class=\\"research-verdict-label\\">"+escapeHtml(prettyLabel(verdict.classification))+"</span>"+' +
 '"<span class=\\"research-confidence\\">Confidence: "+escapeHtml(prettyLabel(verdict.confidence))+"</span>"+"</div>";' +
@@ -1717,6 +1967,7 @@ dashboardHTML +
 'function buildDetailHTML(ticker){' +
 'return "<div class=\\"detail-wrap\\">"+' +
 '"<div class=\\"detail-section detail-price-section\\"><h4>Price &amp; Chart</h4>"+buildPriceHTML(ticker)+"</div>"+' +
+'"<div class=\\"detail-section detail-allmetrics-section\\"><h4>All Metrics</h4>"+buildAllMetricsHTML(ticker)+"</div>"+' +
 '"<div class=\\"detail-grid\\">"+' +
 '"<div class=\\"detail-section\\"><h4>Recent News</h4>"+buildNewsHTML(ticker)+"</div>"+' +
 '"<div class=\\"detail-section\\"><h4>Where It Stands</h4>"+buildStatChartHTML()+"</div>"+' +
@@ -1757,12 +2008,12 @@ dashboardHTML +
 'var pct=((below+0.5*equal)/values.length)*100;' +
 'var goodnessPct=cfg.lowerIsBetter?(100-pct):pct;' +
 'var rank=values.filter(function(v){return cfg.lowerIsBetter?v<myValue:v>myValue;}).length+1;' +
-'var band=cfg.neutral?null:detailBandFor(goodnessPct);var markColor=cfg.neutral?"#7c8ba1":(DETAIL_BAND_COLOR[band]||"#7c8ba1");' +
+'var band=cfg.neutral?null:detailBandFor(goodnessPct);var markColor=cfg.neutral?"#8b949e":(DETAIL_BAND_COLOR[band]||"#8b949e");' +
 'var w=520,h=130,barW=w/binCount;' +
 'var bars=bins.map(function(count,i){' +
 'var barH=maxCount?(count/maxCount)*(h-14):0;' +
 'var isMine=(i===myBin);' +
-'var fill=isMine?markColor:"#22303f";' +
+'var fill=isMine?markColor:"#21262d";' +
 'return "<rect x=\\""+(i*barW+1)+"\\" y=\\""+(h-barH)+"\\" width=\\""+(barW-2)+"\\" height=\\""+barH+"\\" fill=\\""+fill+"\\"></rect>";' +
 '}).join("");' +
 'var markerX=myBin*barW+barW/2;' +
@@ -1845,15 +2096,18 @@ dashboardHTML +
 // Phase 9: dashboard "click a ticker -> open it in the real table" - reuses
 // expandRow()/applyFilters() as-is rather than a separate preview. Resets
 // any active classification/watchlist filter first so the target row can
-// never end up hidden right after being expanded.
+// never end up hidden right after being expanded. Also force-expands the
+// collapsed table when the target sits beyond the top COLLAPSE_ROWS, for
+// the same reason - a Morning Brief pick can be ranked anywhere in the 503.
 'document.querySelectorAll(".dashboard [data-jump-ticker]").forEach(function(el){' +
 'el.addEventListener("click",function(){' +
 'var ticker=el.dataset.jumpTicker;' +
 'classFilter.value="";' +
 'currentView="all";' +
 'document.querySelectorAll(".view-tab").forEach(function(b){b.classList.toggle("active",b.dataset.view==="all");});' +
-'applyFilters();' +
 'var tr=document.querySelector(\'tr[data-ticker="\'+ticker+\'"]\');' +
+'if(tr&&dataRows().indexOf(tr)>=COLLAPSE_ROWS)tableExpanded=true;' +
+'applyFilters();' +
 'if(!tr)return;' +
 'expandRow(tr);' +
 'tr.scrollIntoView({behavior:"smooth",block:"center"});' +
