@@ -1480,6 +1480,32 @@ function buildHTML(scored, sectors, watchlist, stockDetails, metricDistributions
   }));
   const politicalTradesAsOf = (congressData.meta && congressData.meta.updatedAt) || null;
 
+  // Paper Trading: the one array the simulator needs - ticker/name/sector/
+  // price for the whole universe, display-only and read-only from the
+  // simulator's side. Price comes straight from cache/quote.json, the same
+  // source buildStockDetails() already reads for STOCK_DETAIL[ticker].price;
+  // read again here (not threaded through) to keep this function
+  // self-contained, same pattern as the congressional-trades block above.
+  const quoteCacheForTickerInfo = readJSONSafe(path.join(__dirname, 'cache', 'quote.json')) || {};
+  const tickerInfo = scored.map((c) => ({
+    ticker: c.ticker,
+    name: c.name,
+    sector: c.sector,
+    price: (quoteCacheForTickerInfo[c.ticker] && quoteCacheForTickerInfo[c.ticker].price) ?? null,
+  }));
+  const tickerInfoAsOf = scored.reduce((latest, c) => {
+    const entry = quoteCacheForTickerInfo[c.ticker];
+    if (!entry || !entry.updatedAt) return latest;
+    return !latest || entry.updatedAt > latest ? entry.updatedAt : latest;
+  }, null);
+
+  // S&P 500 benchmark for the Paper Trading performance chart - read from
+  // its own isolated cache file (never companies.json, never `scored`).
+  // null on first deploy before a run has populated cache/benchmark.json;
+  // the client degrades gracefully in that case (see ppRenderChart()).
+  const benchmarkData = readJSONSafe(path.join(__dirname, 'cache', 'benchmark.json')) || {};
+  const benchmark = benchmarkData.spy ? { price: benchmarkData.spy.price, updatedAt: benchmarkData.spy.updatedAt } : null;
+
   // Same collapse pattern as the main table: ordering/bars untouched, only
   // how many render visible by default changes. No search/sort to compose
   // with here (unlike the table), so this is a plain show/hide toggle -
@@ -1539,7 +1565,8 @@ function buildHTML(scored, sectors, watchlist, stockDetails, metricDistributions
           '</span>'
         : '';
     return '<tr class="data-row" data-classification="' + c.classification + '" data-ticker="' + c.ticker + '" data-watchlisted="' + starred + '">' +
-      '<td data-col="star" class="star-cell"><button type="button" class="star-btn' + (starred ? ' starred' : '') + '" data-ticker="' + c.ticker + '" aria-label="Toggle watchlist for ' + c.ticker + '">' + (starred ? '★' : '☆') + '</button></td>' +
+      '<td data-col="star" class="star-cell"><button type="button" class="star-btn' + (starred ? ' starred' : '') + '" data-ticker="' + c.ticker + '" aria-label="Toggle watchlist for ' + c.ticker + '">' + (starred ? '★' : '☆') + '</button>' +
+      '<button type="button" class="pp-add-btn" data-ticker="' + c.ticker + '" title="Buy in Paper Trading" aria-label="Add ' + c.ticker + ' to paper portfolio">+</button></td>' +
       '<td data-col="rank" data-value="' + c.rank + '" class="num rank">' + c.rank + '</td>' +
       '<td data-col="tier" data-value="' + 'FDCBA'.indexOf(c.tier) + '"><span class="tier" style="background:' + TIER_COLOR[c.tier] + '">' + c.tier + '</span></td>' +
       '<td data-col="ticker" data-value="' + c.ticker + '" class="ticker">' + c.ticker + '</td>' +
@@ -1709,6 +1736,36 @@ function buildHTML(scored, sectors, watchlist, stockDetails, metricDistributions
 '.page-tab:hover{color:var(--ink)}' +
 '.page-tab.active{color:var(--ink);background:var(--panel)}' +
 '.page-view[hidden]{display:none}' +
+'.pp-badge{display:inline-block;margin-left:10px;font-size:10.5px;font-weight:700;letter-spacing:.02em;color:var(--mid);background:rgba(240,168,104,.15);padding:3px 8px;border-radius:20px;vertical-align:middle}' +
+'.pp-settings{display:flex;flex-wrap:wrap;align-items:end;gap:16px;margin-top:16px}' +
+'.pp-settings label{display:flex;flex-direction:column;gap:5px;font-size:12px;color:var(--muted);font-weight:500}' +
+'.pp-settings input{background:#0b0f14;color:#e6edf3;border:1px solid #21262d;border-radius:8px;padding:9px 10px;font-size:13.5px;font-family:system-ui,sans-serif;width:150px}' +
+'.pp-reset-btn{background:rgba(255,123,114,.12);color:var(--bad);border:1px solid rgba(255,123,114,.3);border-radius:8px;padding:9px 14px;font-size:12.5px;font-weight:700;cursor:pointer}' +
+'.pp-reset-btn:hover{background:rgba(255,123,114,.2)}' +
+'.pp-form{display:flex;flex-wrap:wrap;gap:16px;align-items:end}' +
+'.pp-form label{display:flex;flex-direction:column;gap:5px;font-size:12px;color:var(--muted);font-weight:500}' +
+'.pp-form input[type=text],.pp-form input[type=number]{background:#0b0f14;color:#e6edf3;border:1px solid #21262d;border-radius:8px;padding:9px 10px;font-size:13.5px;font-family:system-ui,sans-serif;width:170px}' +
+'.pp-mode-toggle{display:flex;gap:14px;font-size:12.5px;color:var(--muted);align-items:center;padding-bottom:9px}' +
+'.pp-mode-toggle label{flex-direction:row;align-items:center;gap:6px;font-size:12.5px}' +
+'.pp-info{flex-basis:100%;color:var(--muted);font-size:12.5px;min-height:1em}' +
+'.pp-actions{display:flex;gap:10px}' +
+'.pp-buy-btn,.pp-sell-btn,.pp-sell-all-btn{border-radius:8px;padding:9px 18px;font-size:13px;font-weight:700;cursor:pointer;border:1px solid transparent}' +
+'.pp-buy-btn{background:var(--accent);color:#04110b}' +
+'.pp-buy-btn:hover{filter:brightness(1.08)}' +
+'.pp-sell-btn,.pp-sell-all-btn{background:rgba(255,123,114,.12);color:var(--bad);border-color:rgba(255,123,114,.3)}' +
+'.pp-sell-btn:hover,.pp-sell-all-btn:hover{background:rgba(255,123,114,.2)}' +
+'.pp-msg{flex-basis:100%;font-size:12.5px;padding:9px 12px;border-radius:8px;margin-top:2px}' +
+'.pp-msg-ok{background:rgba(52,211,153,.12);color:var(--good)}' +
+'.pp-msg-error{background:rgba(255,123,114,.12);color:var(--bad)}' +
+'.pp-row-sell-btn{background:none;border:1px solid var(--line);color:var(--muted);font-size:11.5px;font-weight:600;cursor:pointer;padding:4px 10px;border-radius:6px}' +
+'.pp-row-sell-btn:hover{color:var(--bad);border-color:var(--bad)}' +
+'.pp-chart-controls{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;margin-top:14px}' +
+'.pp-spy-toggle{display:flex;align-items:center;gap:7px;font-size:13px;color:var(--ink);cursor:pointer;font-weight:500}' +
+'.pp-chart-legend{display:flex;gap:16px}' +
+'.pp-legend-item{display:flex;align-items:center;gap:6px;font-size:12px;color:var(--muted)}' +
+'.pp-legend-dot{display:inline-block;width:9px;height:9px;border-radius:50%}' +
+'#ppChartWrap{margin-top:14px}' +
+'#ppChartContainer svg{overflow:visible}' +
 '.lb-row{display:grid;grid-template-columns:20px 1fr auto;align-items:center;gap:10px;padding:8px 0;border-top:1px solid var(--line);cursor:pointer;transition:background .12s}' +
 '.lb-row:first-child{border-top:none}' +
 '.lb-row:hover{background:rgba(255,255,255,.03)}' +
@@ -1725,7 +1782,9 @@ function buildHTML(scored, sectors, watchlist, stockDetails, metricDistributions
 '.lb-explain{display:none;margin-top:14px;background:#0f141b;border-top:2px solid var(--accent);border-radius:10px;padding:16px 18px}' +
 '.lb-explain.show{display:block}' +
 '.lb-explain .exp-title{font-size:13.5px;font-weight:700;color:var(--accent);margin-bottom:6px}' +
-'.star-cell{text-align:center!important;width:34px;cursor:default!important}' +
+'.star-cell{text-align:center!important;width:58px;cursor:default!important;white-space:nowrap}' +
+'.pp-add-btn{background:none;border:1px solid var(--line);color:var(--muted);font-size:13px;font-weight:700;line-height:1;cursor:pointer;width:20px;height:20px;border-radius:6px;padding:0;margin-left:4px;vertical-align:middle}' +
+'.pp-add-btn:hover{color:var(--accent);border-color:var(--accent)}' +
 '.star-btn{background:none;border:none;color:#3a4148;font-size:17px;cursor:pointer;line-height:1;padding:2px}' +
 '.star-btn:hover{color:#f0a868}' +
 '.star-btn.starred{color:#f0a868}' +
@@ -1822,6 +1881,7 @@ function buildHTML(scored, sectors, watchlist, stockDetails, metricDistributions
 '<div class="page-tabs">' +
 '<button type="button" class="page-tab active" data-page="screener">Screener</button>' +
 '<button type="button" class="page-tab" data-page="political">Political Trades</button>' +
+'<button type="button" class="page-tab" data-page="paper">Paper Trading</button>' +
 '</div>' +
 '<div id="pageScreener" class="page-view">' +
 dashboardHTML +
@@ -1882,6 +1942,84 @@ dashboardHTML +
 '</tr></thead><tbody id="ptTbody"></tbody></table>' +
 '<div class="table-expand"><button type="button" id="ptExpandBtn">Show all &#9662;</button></div>' +
 '<p class="hint" id="ptEmpty" hidden>No congressional trades tracked yet.</p>' +
+'</div>' +
+'</div></div>' +
+
+'<div id="pagePaper" class="page-view" hidden><div class="wrap">' +
+'<div class="card"><h2>Paper Trading<span class="pp-badge">Simulated — not real money</span></h2>' +
+'<p class="hint">Buy and sell at each stock\'s last-known price from the most recent daily report run — not real-time/intraday. Values here update only when the report itself is regenerated. Your portfolio is saved in <b>this browser only</b> via localStorage — it will not sync across devices or browsers, and clearing site data will erase it. Purely a what-if sandbox: it never touches the screener\'s scoring, rankings, or underlying data.</p>' +
+'<div class="pp-settings">' +
+'<label>Fee per trade ($)<input id="ppFeeInput" type="number" min="0" step="0.01"></label>' +
+'<label>Starting cash on reset ($)<input id="ppStartCashInput" type="number" min="0" step="100"></label>' +
+'<button type="button" id="ppResetBtn" class="pp-reset-btn">Reset Portfolio</button>' +
+'</div></div>' +
+
+'<div class="cards" id="ppSummaryCards"></div>' +
+
+'<div class="card">' +
+'<h2>Performance</h2>' +
+'<p class="hint">Builds going forward from when you start using this feature - one data point per report refresh. No backfill is possible, since no daily price history exists before now.</p>' +
+'<div class="pp-chart-controls">' +
+'<label class="pp-spy-toggle"><input type="checkbox" id="ppSpyCheckbox"> Compare to S&amp;P 500 (SPY)</label>' +
+'<div class="pp-chart-legend">' +
+'<span class="pp-legend-item"><i class="pp-legend-dot" style="background:#10b981"></i>Your Portfolio</span>' +
+'<span class="pp-legend-item" id="ppLegendSpy" hidden><i class="pp-legend-dot" style="background:#79b8ff"></i>S&amp;P 500 (SPY)</span>' +
+'</div></div>' +
+'<p class="hint" id="ppSpyNote" hidden>S&amp;P 500 data will appear after the next report run.</p>' +
+'<div id="ppChartWrap"><div id="ppChartContainer"></div></div>' +
+'<p class="hint" id="ppChartEmpty" hidden>Chart builds as you use it - check back after a few days.</p>' +
+'</div>' +
+
+'<div class="card">' +
+'<h2>Trade</h2>' +
+'<div class="pp-form">' +
+'<label>Ticker<input id="ppTicker" type="text" list="ppTickerList" placeholder="e.g. AAPL" autocomplete="off"></label>' +
+'<datalist id="ppTickerList"></datalist>' +
+'<div class="pp-mode-toggle">' +
+'<label><input type="radio" name="ppMode" value="shares" checked> Shares</label>' +
+'<label><input type="radio" name="ppMode" value="dollars"> Dollar amount</label>' +
+'</div>' +
+'<label>Quantity<input id="ppQty" type="number" min="0" step="any" placeholder="0"></label>' +
+'<div class="pp-actions">' +
+'<button type="button" id="ppBuyBtn" class="pp-buy-btn">Buy</button>' +
+'<button type="button" id="ppSellBtn" class="pp-sell-btn">Sell</button>' +
+'<button type="button" id="ppSellAllBtn" class="pp-sell-all-btn">Sell All</button>' +
+'</div>' +
+'<div class="pp-info" id="ppPriceInfo"></div>' +
+'<div class="pp-info" id="ppEstimate"></div>' +
+'<div class="pp-msg" id="ppMsg" hidden></div>' +
+'</div></div>' +
+
+'<div class="card table-card">' +
+'<h2>Holdings</h2>' +
+'<table id="ppHoldingsTable"><thead><tr>' +
+'<th data-col="ticker">Ticker</th>' +
+'<th data-col="name">Name</th>' +
+'<th class="num" data-col="shares">Shares</th>' +
+'<th class="num" data-col="avgCost">Avg Cost</th>' +
+'<th class="num" data-col="costBasis">Cost Basis</th>' +
+'<th class="num" data-col="price">Current Price</th>' +
+'<th class="num" data-col="value">Current Value</th>' +
+'<th class="num" data-col="pnl">Unrealized P&amp;L</th>' +
+'<th data-col="actions"></th>' +
+'</tr></thead><tbody id="ppHoldingsBody"></tbody></table>' +
+'<p class="hint" id="ppHoldingsEmpty" hidden>No open positions yet — use the form above, or the + button on any row in the Screener tab, to buy your first position.</p>' +
+'</div>' +
+
+'<div class="card table-card">' +
+'<h2>Transaction History</h2>' +
+'<table id="ppHistoryTable"><thead><tr>' +
+'<th data-col="date">Date</th>' +
+'<th data-col="action">Action</th>' +
+'<th data-col="ticker">Ticker</th>' +
+'<th class="num" data-col="shares">Shares</th>' +
+'<th class="num" data-col="price">Price</th>' +
+'<th class="num" data-col="amount">Amount</th>' +
+'<th class="num" data-col="fee">Fee</th>' +
+'<th class="num" data-col="realized">Realized P&amp;L</th>' +
+'</tr></thead><tbody id="ppHistoryBody"></tbody></table>' +
+'<div class="table-expand"><button type="button" id="ppHistoryExpandBtn">Show all &#9662;</button></div>' +
+'<p class="hint" id="ppHistoryEmpty" hidden>No trades yet.</p>' +
 '</div>' +
 '</div></div>' +
 
@@ -2015,10 +2153,17 @@ dashboardHTML +
 'btn.classList.add("active");currentView=btn.dataset.view;applyFilters();});});' +
 
 'table.tBodies[0].addEventListener("click",function(e){' +
-'var btn=e.target.closest(".star-btn");if(!btn)return;' +
-'var t=btn.dataset.ticker;' +
+'var starBtn=e.target.closest(".star-btn");' +
+'if(starBtn){' +
+'var t=starBtn.dataset.ticker;' +
 'if(watchlist.has(t))watchlist.delete(t);else watchlist.add(t);' +
-'saveWatchlist();syncStars();applyFilters();});' +
+'saveWatchlist();syncStars();applyFilters();return;}' +
+// Cross-tab integration: jump to Paper Trading and pre-fill a buy for this
+// ticker - defined further down (function declarations are hoisted, so the
+// forward reference is safe) alongside the rest of the simulator.
+'var ppBtn=e.target.closest(".pp-add-btn");' +
+'if(ppBtn){ppGoToTabAndPrefill(ppBtn.dataset.ticker);return;}' +
+'});' +
 
 'syncStars();' +
 'applyFilters();' +
@@ -2037,6 +2182,10 @@ dashboardHTML +
 'var DETAIL_BAND_COLOR=' + JSON.stringify(BAND_COLOR) + ';' +
 'var POLITICAL_TRADES=' + safeJSONEmbed(politicalTrades) + ';' +
 'var POLITICAL_TRADES_ASOF=' + JSON.stringify(politicalTradesAsOf) + ';' +
+'var TICKER_INFO=' + safeJSONEmbed(tickerInfo) + ';' +
+'var TICKER_INFO_ASOF=' + JSON.stringify(tickerInfoAsOf) + ';' +
+'var TICKER_INFO_BY_TICKER={};TICKER_INFO.forEach(function(t){TICKER_INFO_BY_TICKER[t.ticker]=t;});' +
+'var BENCHMARK=' + JSON.stringify(benchmark) + ';' +
 'function detailBandFor(pct){if(pct===null||pct===undefined)return null;if(pct>=200/3)return"good";if(pct>=100/3)return"mid";return"bad";}' +
 
 'function escapeHtml(s){return String(s).replace(/[&<>"\']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;","\\"":"&quot;","\'":"&#39;"}[c];});}' +
@@ -2389,7 +2538,7 @@ dashboardHTML +
 'reopenDetail(tr,detailTr);}' +
 
 'dataRows().forEach(function(tr){tr.addEventListener("click",function(e){' +
-'if(e.target.closest(".star-btn"))return;' +
+'if(e.target.closest(".star-btn")||e.target.closest(".pp-add-btn"))return;' +
 'expandRow(tr);});});' +
 
 // Phase 9: dashboard "click a ticker -> open it in the real table" - reuses
@@ -2413,16 +2562,18 @@ dashboardHTML +
 '});});' +
 
 // Page-level tabs: Screener (the table/sector view above) vs. Political
-// Trades (new). Plain show/hide of two top-level containers - independent
-// of the table's own search/sort/collapse model, same pattern as the
-// changes/sector expanders elsewhere on this page.
-'document.querySelectorAll(".page-tab").forEach(function(btn){btn.addEventListener("click",function(){' +
-'document.querySelectorAll(".page-tab").forEach(function(b){b.classList.remove("active");});' +
-'btn.classList.add("active");' +
-'var page=btn.dataset.page;' +
+// Trades, Paper Trading. Plain show/hide of top-level containers -
+// independent of the table's own search/sort/collapse model, same pattern
+// as the changes/sector expanders elsewhere on this page. switchPage() is
+// also called programmatically by the main table's "+" button (see
+// ppGoToTabAndPrefill further down) to jump here with a ticker pre-filled.
+'function switchPage(page){' +
+'document.querySelectorAll(".page-tab").forEach(function(b){b.classList.toggle("active",b.dataset.page===page);});' +
 'document.getElementById("pageScreener").hidden=(page!=="screener");' +
 'document.getElementById("pagePolitical").hidden=(page!=="political");' +
-'});});' +
+'document.getElementById("pagePaper").hidden=(page!=="paper");' +
+'}' +
+'document.querySelectorAll(".page-tab").forEach(function(btn){btn.addEventListener("click",function(){switchPage(btn.dataset.page);});});' +
 
 // Political Trades page: a feed table (mirrors the main table's
 // collapse/search/sort pattern, minus classification/watchlist) plus two
@@ -2559,6 +2710,347 @@ dashboardHTML +
 'renderLeaderboards();' +
 'wireLeaderboard("tickerLeaderboard","tickerLbExplain","ticker",true);' +
 'wireLeaderboard("memberLeaderboard","memberLbExplain","member",false);' +
+
+// ---- Paper Trading ----
+// Fully client-side simulator. Reads current prices from TICKER_INFO (the
+// same universe data - ticker/name/sector/price - built alongside
+// POLITICAL_TRADES above, sourced from cache/quote.json at report-generation
+// time). Everything else - cash, positions, fee setting, history - lives
+// only in localStorage under PP_STORAGE_KEY, exactly like the watchlist's
+// STORAGE_KEY above. Never reads or writes companies.json, never touches
+// scoring - this is a what-if sandbox layered on top of already-rendered,
+// already-scored data, one-way (reads prices, writes nothing back).
+'var PP_STORAGE_KEY="screenerPaperPortfolio";' +
+'var PP_DEFAULT_STARTING_CASH=100000;' +
+'var PP_DEFAULT_FEE=0;' +
+'var ppHistoryExpanded=false;' +
+'var ppTxnCounter=0;' +
+'function ppNextId(){ppTxnCounter++;return Date.now()+"-"+ppTxnCounter;}' +
+
+'function ppDefaultState(){' +
+'return {version:1,startingCash:PP_DEFAULT_STARTING_CASH,fee:PP_DEFAULT_FEE,cash:PP_DEFAULT_STARTING_CASH,' +
+'positions:{},realizedPnL:0,transactions:[],history:[]};}' +
+
+'function ppLoad(){' +
+'try{' +
+'var raw=localStorage.getItem(PP_STORAGE_KEY);' +
+'if(!raw)return ppDefaultState();' +
+'var parsed=JSON.parse(raw);' +
+'if(!parsed||typeof parsed!=="object")return ppDefaultState();' +
+'var d=ppDefaultState();' +
+'return Object.assign(d,parsed,{' +
+'positions:(parsed.positions&&typeof parsed.positions==="object")?parsed.positions:{},' +
+'transactions:Array.isArray(parsed.transactions)?parsed.transactions:[],' +
+'history:Array.isArray(parsed.history)?parsed.history:[]});' +
+'}catch(e){return ppDefaultState();}}' +
+'function ppSave(){localStorage.setItem(PP_STORAGE_KEY,JSON.stringify(ppState));}' +
+
+'var ppState=ppLoad();' +
+
+'function ppTickerInfo(t){return TICKER_INFO_BY_TICKER[t]||null;}' +
+
+'function ppFmtMoney(n){' +
+'if(n===null||n===undefined||!isFinite(n))return "\\u2014";' +
+'var neg=n<0;n=Math.abs(n);' +
+'var s="$"+n.toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2});' +
+'return neg?("\\u2212"+s):s;}' +
+'function ppFmtPct(n){' +
+'if(n===null||n===undefined||!isFinite(n))return "\\u2014";' +
+'return (n>=0?"+":"")+n.toFixed(2)+"%";}' +
+'function ppFmtShares(n){return n.toLocaleString(undefined,{maximumFractionDigits:4});}' +
+
+'function ppHoldingsValue(){' +
+'var total=0;' +
+'Object.keys(ppState.positions).forEach(function(t){' +
+'var info=ppTickerInfo(t);' +
+'if(info&&info.price!=null)total+=ppState.positions[t].shares*info.price;});' +
+'return total;}' +
+'function ppTotalCostBasis(){' +
+'var total=0;' +
+'Object.keys(ppState.positions).forEach(function(t){total+=ppState.positions[t].costBasis;});' +
+'return total;}' +
+
+'function ppRenderSummary(){' +
+'var holdingsVal=ppHoldingsValue(),costBasis=ppTotalCostBasis();' +
+'var unrealized=holdingsVal-costBasis;' +
+'var unrealizedPct=costBasis>0?(unrealized/costBasis*100):null;' +
+'var totalValue=ppState.cash+holdingsVal;' +
+'var totalPnL=totalValue-ppState.startingCash;' +
+'var totalPnLPct=ppState.startingCash>0?(totalPnL/ppState.startingCash*100):null;' +
+'var posCount=Object.keys(ppState.positions).length;' +
+'var saleCount=ppState.transactions.filter(function(t){return t.action==="SELL";}).length;' +
+'var cards=[' +
+'{k:"Total Portfolio Value",v:ppFmtMoney(totalValue),cls:totalPnL>=0?"em":"warn",d:"Since inception: "+ppFmtMoney(totalPnL)+" ("+ppFmtPct(totalPnLPct)+")"},' +
+'{k:"Cash Balance",v:ppFmtMoney(ppState.cash),d:"Starting cash: "+ppFmtMoney(ppState.startingCash)},' +
+'{k:"Holdings Value",v:ppFmtMoney(holdingsVal),d:posCount+" position"+(posCount===1?"":"s")},' +
+'{k:"Unrealized P&L",v:ppFmtMoney(unrealized),cls:unrealized>=0?"em":"warn",d:ppFmtPct(unrealizedPct)+" on cost basis "+ppFmtMoney(costBasis)},' +
+'{k:"Realized P&L",v:ppFmtMoney(ppState.realizedPnL),cls:ppState.realizedPnL>=0?"em":"warn",d:saleCount+" sale"+(saleCount===1?"":"s")+" so far"}' +
+'];' +
+'document.getElementById("ppSummaryCards").innerHTML=cards.map(function(c){' +
+'return "<div class=\\"stat\\"><div class=\\"k\\">"+escapeHtml(c.k)+"</div><div class=\\"v"+(c.cls?(" "+c.cls):"")+"\\">"+c.v+"</div>"+(c.d?("<div class=\\"d\\">"+escapeHtml(c.d)+"</div>"):"")+"</div>";' +
+'}).join("");}' +
+
+'function ppRenderHoldings(){' +
+'var tbody=document.getElementById("ppHoldingsBody");' +
+'var tickers=Object.keys(ppState.positions).filter(function(t){return ppState.positions[t].shares>1e-7;}).sort();' +
+'document.getElementById("ppHoldingsEmpty").hidden=tickers.length>0;' +
+'tbody.innerHTML=tickers.map(function(t){' +
+'var pos=ppState.positions[t];' +
+'var info=ppTickerInfo(t);' +
+'var price=info?info.price:null;' +
+'var name=info?info.name:"(no longer in current universe)";' +
+'var avgCost=pos.shares>0?pos.costBasis/pos.shares:0;' +
+'var curValue=(price!=null)?pos.shares*price:null;' +
+'var pnl=(curValue!=null)?curValue-pos.costBasis:null;' +
+'var pnlPct=(pos.costBasis>0&&pnl!=null)?(pnl/pos.costBasis*100):null;' +
+'var pnlCls=pnl==null?"":(pnl>=0?"good":"bad");' +
+'return "<tr>"+' +
+'"<td class=\\"ticker\\">"+escapeHtml(t)+"</td>"+' +
+'"<td class=\\"name\\">"+escapeHtml(name)+"</td>"+' +
+'"<td class=\\"num\\">"+ppFmtShares(pos.shares)+"</td>"+' +
+'"<td class=\\"num\\">"+ppFmtMoney(avgCost)+"</td>"+' +
+'"<td class=\\"num\\">"+ppFmtMoney(pos.costBasis)+"</td>"+' +
+'"<td class=\\"num\\">"+ppFmtMoney(price)+"</td>"+' +
+'"<td class=\\"num\\">"+ppFmtMoney(curValue)+"</td>"+' +
+'"<td class=\\"num "+pnlCls+"\\">"+(pnl!=null?(ppFmtMoney(pnl)+" ("+ppFmtPct(pnlPct)+")"):"\\u2014")+"</td>"+' +
+'"<td><button type=\\"button\\" class=\\"pp-row-sell-btn\\" data-ticker=\\""+escapeHtml(t)+"\\">Sell</button></td>"+' +
+'"</tr>";' +
+'}).join("");}' +
+
+'function ppRenderHistory(){' +
+'var tbody=document.getElementById("ppHistoryBody");' +
+'var txns=ppState.transactions.slice().reverse();' +
+'document.getElementById("ppHistoryEmpty").hidden=txns.length>0;' +
+'var expandBtn=document.getElementById("ppHistoryExpandBtn");' +
+'expandBtn.style.display=txns.length>25?"":"none";' +
+'expandBtn.innerHTML=ppHistoryExpanded?"Show top 25 \\u25b2":"Show all "+txns.length+" \\u25be";' +
+'var shown=txns.slice(0,ppHistoryExpanded?txns.length:25);' +
+'tbody.innerHTML=shown.map(function(t){' +
+'var cls=t.action==="BUY"?"pt-buy":"pt-sell";' +
+'return "<tr>"+' +
+'"<td>"+escapeHtml(fmtDate(t.date)||"")+"</td>"+' +
+'"<td><span class=\\"pt-type "+cls+"\\">"+escapeHtml(t.action)+"</span></td>"+' +
+'"<td class=\\"ticker\\">"+escapeHtml(t.ticker)+"</td>"+' +
+'"<td class=\\"num\\">"+ppFmtShares(t.shares)+"</td>"+' +
+'"<td class=\\"num\\">"+ppFmtMoney(t.price)+"</td>"+' +
+'"<td class=\\"num\\">"+ppFmtMoney(t.amount)+"</td>"+' +
+'"<td class=\\"num\\">"+ppFmtMoney(t.fee)+"</td>"+' +
+'"<td class=\\"num\\">"+(t.realized!=null?ppFmtMoney(t.realized):"\\u2014")+"</td>"+' +
+'"</tr>";' +
+'}).join("");}' +
+
+'function ppPopulateTickerList(){' +
+'var dl=document.getElementById("ppTickerList");' +
+'if(dl.childElementCount)return;' +
+'dl.innerHTML=TICKER_INFO.map(function(t){return "<option value=\\""+escapeHtml(t.ticker)+"\\">"+escapeHtml(t.name)+"</option>";}).join("");}' +
+
+// Performance history: one snapshot per report refresh, keyed to the
+// underlying PRICE data's freshness date (TICKER_INFO_ASOF), not the
+// browser's wall-clock date - so opening the tab many times in one day, or
+// on a day the cloud run didn't fire, never creates a duplicate or
+// misleading flat data point. Multiple visits/trades on the same data-refresh
+// day upsert (overwrite) that day's entry rather than appending, so the
+// latest point always reflects current state.
+'function ppSnapshotDateKey(){' +
+'var iso=TICKER_INFO_ASOF||new Date().toISOString();' +
+'return iso.slice(0,10);}' +
+
+'function ppMaybeSnapshot(){' +
+'var key=ppSnapshotDateKey();' +
+'var totalValue=ppState.cash+ppHoldingsValue();' +
+'var spyPrice=(BENCHMARK&&BENCHMARK.price!=null)?BENCHMARK.price:null;' +
+'var last=ppState.history[ppState.history.length-1];' +
+'if(last&&last.date===key){' +
+'last.totalValue=totalValue;' +
+'if(spyPrice!=null)last.spyPrice=spyPrice;' +
+'}else{' +
+'ppState.history.push({date:key,totalValue:totalValue,spyPrice:spyPrice});' +
+'}' +
+'ppSave();}' +
+
+// Builds both series as % return from their own first available data point,
+// so they're comparable regardless of dollar amounts. The SPY series can
+// start later than the portfolio series (e.g. if benchmark.json didn\'t
+// exist yet on early snapshots) - it\'s simply plotted over the tail of the
+// x-axis it actually has data for, never fabricated for earlier points.
+'function ppComputeChartSeries(){' +
+'var hist=ppState.history;' +
+'if(hist.length<2)return null;' +
+'var base=hist[0].totalValue;' +
+'var portfolioPts=hist.map(function(h,i){return {i:i,date:h.date,pct:base>0?((h.totalValue/base-1)*100):0};});' +
+'var firstSpyIdx=hist.findIndex(function(h){return h.spyPrice!=null;});' +
+'var spyPts=null;' +
+'if(firstSpyIdx!==-1){' +
+'var spyBase=hist[firstSpyIdx].spyPrice;' +
+'spyPts=hist.slice(firstSpyIdx).map(function(h,idx){return {i:firstSpyIdx+idx,date:h.date,pct:spyBase>0?((h.spyPrice/spyBase-1)*100):0};});' +
+'}' +
+'return {hist:hist,portfolioPts:portfolioPts,spyPts:spyPts};}' +
+
+'var ppCompareSpy=false;' +
+
+'function ppRenderChart(){' +
+'var series=ppComputeChartSeries();' +
+'var emptyEl=document.getElementById("ppChartEmpty");' +
+'var chartWrap=document.getElementById("ppChartWrap");' +
+'var legendSpy=document.getElementById("ppLegendSpy");' +
+'var spyNote=document.getElementById("ppSpyNote");' +
+'var controls=document.querySelector(".pp-chart-controls");' +
+
+'if(!series){' +
+'emptyEl.hidden=false;chartWrap.hidden=true;controls.hidden=true;spyNote.hidden=true;return;}' +
+'emptyEl.hidden=true;chartWrap.hidden=false;controls.hidden=false;' +
+
+'var hasSpy=!!(series.spyPts&&series.spyPts.length>0);' +
+'legendSpy.hidden=!(hasSpy&&ppCompareSpy);' +
+'spyNote.hidden=!(ppCompareSpy&&!hasSpy);' +
+
+'var W=700,H=240,padL=52,padR=16,padT=16,padB=28;' +
+'var innerW=W-padL-padR,innerH=H-padT-padB;' +
+
+'var allPct=series.portfolioPts.map(function(p){return p.pct;});' +
+'if(ppCompareSpy&&hasSpy)series.spyPts.forEach(function(p){allPct.push(p.pct);});' +
+'var minPct=Math.min(0,Math.min.apply(null,allPct)),maxPct=Math.max(0,Math.max.apply(null,allPct));' +
+'if(minPct===maxPct){minPct-=1;maxPct+=1;}' +
+'var span0=maxPct-minPct,pad=span0*0.15||1;minPct-=pad;maxPct+=pad;var span=maxPct-minPct;' +
+
+'var n=series.hist.length;' +
+'function xFor(i){return n>1?padL+(i/(n-1))*innerW:padL+innerW/2;}' +
+'function yFor(pct){return padT+innerH-((pct-minPct)/span)*innerH;}' +
+'function pathFor(pts){return pts.map(function(p,idx){return (idx===0?"M":"L")+xFor(p.i).toFixed(1)+","+yFor(p.pct).toFixed(1);}).join(" ");}' +
+
+'var zeroY=yFor(0);' +
+'var svg="<line x1=\\""+padL+"\\" y1=\\""+zeroY.toFixed(1)+"\\" x2=\\""+(W-padR)+"\\" y2=\\""+zeroY.toFixed(1)+"\\" stroke=\\"#21262d\\" stroke-width=\\"1\\" stroke-dasharray=\\"3,3\\"></line>";' +
+
+'[maxPct,(maxPct+minPct)/2,minPct].forEach(function(v){' +
+'svg+="<text x=\\""+(padL-8)+"\\" y=\\""+(yFor(v)+4).toFixed(1)+"\\" text-anchor=\\"end\\" font-size=\\"10\\" fill=\\"#8b949e\\">"+v.toFixed(1)+"%</text>";});' +
+
+'var tickIdxs=n<=6?Array.from({length:n},function(_,k){return k;}):[0,Math.round((n-1)*0.25),Math.round((n-1)*0.5),Math.round((n-1)*0.75),n-1];' +
+'tickIdxs.forEach(function(idx){' +
+'svg+="<text x=\\""+xFor(idx).toFixed(1)+"\\" y=\\""+(H-8)+"\\" text-anchor=\\"middle\\" font-size=\\"10\\" fill=\\"#8b949e\\">"+escapeHtml(series.hist[idx].date.slice(5))+"</text>";});' +
+
+'svg+="<path d=\\""+pathFor(series.portfolioPts)+"\\" fill=\\"none\\" stroke=\\"#10b981\\" stroke-width=\\"2.5\\"></path>";' +
+'var lastP=series.portfolioPts[series.portfolioPts.length-1];' +
+'svg+="<circle cx=\\""+xFor(lastP.i).toFixed(1)+"\\" cy=\\""+yFor(lastP.pct).toFixed(1)+"\\" r=\\"3.5\\" fill=\\"#10b981\\"></circle>";' +
+'svg+="<text x=\\""+(xFor(lastP.i)+7).toFixed(1)+"\\" y=\\""+(yFor(lastP.pct)+4).toFixed(1)+"\\" font-size=\\"11\\" font-weight=\\"700\\" fill=\\"#10b981\\">"+(lastP.pct>=0?"+":"")+lastP.pct.toFixed(1)+"%</text>";' +
+
+'if(hasSpy&&ppCompareSpy){' +
+'svg+="<path d=\\""+pathFor(series.spyPts)+"\\" fill=\\"none\\" stroke=\\"#79b8ff\\" stroke-width=\\"2.5\\" stroke-dasharray=\\"5,3\\"></path>";' +
+'var lastS=series.spyPts[series.spyPts.length-1];' +
+'svg+="<circle cx=\\""+xFor(lastS.i).toFixed(1)+"\\" cy=\\""+yFor(lastS.pct).toFixed(1)+"\\" r=\\"3.5\\" fill=\\"#79b8ff\\"></circle>";' +
+'svg+="<text x=\\""+(xFor(lastS.i)+7).toFixed(1)+"\\" y=\\""+(yFor(lastS.pct)+4).toFixed(1)+"\\" font-size=\\"11\\" font-weight=\\"700\\" fill=\\"#79b8ff\\">"+(lastS.pct>=0?"+":"")+lastS.pct.toFixed(1)+"%</text>";}' +
+
+'document.getElementById("ppChartContainer").innerHTML="<svg viewBox=\\"0 0 "+W+" "+H+"\\" style=\\"width:100%;height:auto;display:block\\">"+svg+"</svg>";}' +
+
+'document.getElementById("ppSpyCheckbox").addEventListener("change",function(){ppCompareSpy=this.checked;ppRenderChart();});' +
+
+'function ppRenderAll(){ppMaybeSnapshot();ppRenderSummary();ppRenderHoldings();ppRenderHistory();ppPopulateTickerList();ppRenderChart();}' +
+
+'function ppShowMsg(text,isError){' +
+'var el=document.getElementById("ppMsg");' +
+'el.hidden=false;el.textContent=text;el.className="pp-msg "+(isError?"pp-msg-error":"pp-msg-ok");}' +
+
+'function ppCurrentTicker(){return (document.getElementById("ppTicker").value||"").trim().toUpperCase();}' +
+'function ppCurrentMode(){return document.querySelector(\'input[name="ppMode"]:checked\').value;}' +
+
+'function ppUpdateEstimate(){' +
+'var ticker=ppCurrentTicker();' +
+'var info=ppTickerInfo(ticker);' +
+'var priceEl=document.getElementById("ppPriceInfo"),estEl=document.getElementById("ppEstimate");' +
+'if(!ticker){priceEl.textContent="";estEl.textContent="";return;}' +
+'if(!info){priceEl.textContent="Unknown ticker.";estEl.textContent="";return;}' +
+'if(info.price==null){priceEl.textContent=ticker+" \\u2014 no current price available.";estEl.textContent="";return;}' +
+'var held=ppState.positions[ticker];' +
+'priceEl.innerHTML=escapeHtml(info.name)+" &middot; current price "+ppFmtMoney(info.price)+' +
+'(held?(" &middot; you hold "+ppFmtShares(held.shares)+" shares"):"");' +
+'var qtyRaw=parseFloat(document.getElementById("ppQty").value);' +
+'if(!isFinite(qtyRaw)||qtyRaw<=0){estEl.textContent="";return;}' +
+'var shares=ppCurrentMode()==="dollars"?(qtyRaw/info.price):qtyRaw;' +
+'var cost=shares*info.price,fee=ppState.fee||0;' +
+'estEl.textContent=ppFmtShares(shares)+" shares \\u2248 "+ppFmtMoney(cost)+" + "+ppFmtMoney(fee)+" fee = "+ppFmtMoney(cost+fee)+" total";}' +
+
+'function ppExecuteBuy(){' +
+'var ticker=ppCurrentTicker();' +
+'var info=ppTickerInfo(ticker);' +
+'if(!info||info.price==null){ppShowMsg("No current price available for "+(ticker||"that ticker")+".",true);return;}' +
+'var qtyRaw=parseFloat(document.getElementById("ppQty").value);' +
+'if(!isFinite(qtyRaw)||qtyRaw<=0){ppShowMsg("Enter a valid quantity.",true);return;}' +
+'var shares=ppCurrentMode()==="dollars"?(qtyRaw/info.price):qtyRaw;' +
+'var cost=shares*info.price,fee=ppState.fee||0,totalDebit=cost+fee;' +
+'if(totalDebit>ppState.cash+1e-9){ppShowMsg("Insufficient cash \\u2014 need "+ppFmtMoney(totalDebit)+", have "+ppFmtMoney(ppState.cash)+".",true);return;}' +
+'ppState.cash-=totalDebit;' +
+'var pos=ppState.positions[ticker]||{shares:0,costBasis:0};' +
+'pos.shares+=shares;pos.costBasis+=cost+fee;' +
+'ppState.positions[ticker]=pos;' +
+'ppState.transactions.push({id:ppNextId(),date:new Date().toISOString(),ticker:ticker,name:info.name,action:"BUY",shares:shares,price:info.price,amount:cost,fee:fee,realized:null});' +
+'ppSave();' +
+'ppShowMsg("Bought "+ppFmtShares(shares)+" shares of "+ticker+" for "+ppFmtMoney(cost)+" + "+ppFmtMoney(fee)+" fee.",false);' +
+'ppRenderAll();ppUpdateEstimate();}' +
+
+'function ppExecuteSell(sellAll){' +
+'var ticker=ppCurrentTicker();' +
+'var pos=ppState.positions[ticker];' +
+'if(!pos||pos.shares<=1e-9){ppShowMsg("You don\\u2019t hold any "+(ticker||"that ticker")+".",true);return;}' +
+'var info=ppTickerInfo(ticker);' +
+'if(!info||info.price==null){ppShowMsg("No current price available for "+ticker+" \\u2014 can\\u2019t sell.",true);return;}' +
+'var shares;' +
+'if(sellAll){shares=pos.shares;}' +
+'else{' +
+'var qtyRaw=parseFloat(document.getElementById("ppQty").value);' +
+'if(!isFinite(qtyRaw)||qtyRaw<=0){ppShowMsg("Enter a valid quantity.",true);return;}' +
+'shares=ppCurrentMode()==="dollars"?(qtyRaw/info.price):qtyRaw;}' +
+'if(shares>pos.shares+1e-9){ppShowMsg("You only hold "+ppFmtShares(pos.shares)+" shares of "+ticker+".",true);return;}' +
+'var avgCost=pos.costBasis/pos.shares;' +
+'var costOfSold=avgCost*shares;' +
+'var proceeds=shares*info.price,fee=ppState.fee||0;' +
+'var realized=proceeds-fee-costOfSold;' +
+'ppState.cash+=proceeds-fee;' +
+'pos.shares-=shares;pos.costBasis-=costOfSold;' +
+'if(pos.shares<=1e-9)delete ppState.positions[ticker];else ppState.positions[ticker]=pos;' +
+'ppState.realizedPnL+=realized;' +
+'ppState.transactions.push({id:ppNextId(),date:new Date().toISOString(),ticker:ticker,name:info.name,action:"SELL",shares:shares,price:info.price,amount:proceeds,fee:fee,realized:realized});' +
+'ppSave();' +
+'ppShowMsg("Sold "+ppFmtShares(shares)+" shares of "+ticker+" for "+ppFmtMoney(proceeds)+" \\u2212 "+ppFmtMoney(fee)+" fee. Realized "+ppFmtMoney(realized)+".",false);' +
+'ppRenderAll();ppUpdateEstimate();}' +
+
+// Cross-tab entry point from the main table's "+" button (see the
+// tbody click-delegation handler above).
+'function ppGoToTabAndPrefill(ticker){' +
+'switchPage("paper");' +
+'document.getElementById("ppTicker").value=ticker;' +
+'document.querySelector(\'input[name="ppMode"][value="shares"]\').checked=true;' +
+'document.getElementById("ppQty").value="";' +
+'ppUpdateEstimate();' +
+'setTimeout(function(){document.getElementById("ppTicker").scrollIntoView({behavior:"smooth",block:"center"});document.getElementById("ppTicker").focus();},50);}' +
+
+'document.getElementById("ppTicker").addEventListener("input",ppUpdateEstimate);' +
+'document.getElementById("ppQty").addEventListener("input",ppUpdateEstimate);' +
+'document.querySelectorAll(\'input[name="ppMode"]\').forEach(function(r){r.addEventListener("change",ppUpdateEstimate);});' +
+'document.getElementById("ppBuyBtn").addEventListener("click",ppExecuteBuy);' +
+'document.getElementById("ppSellBtn").addEventListener("click",function(){ppExecuteSell(false);});' +
+'document.getElementById("ppSellAllBtn").addEventListener("click",function(){ppExecuteSell(true);});' +
+'document.getElementById("ppFeeInput").addEventListener("input",function(){' +
+'var v=parseFloat(this.value);ppState.fee=(isFinite(v)&&v>=0)?v:0;ppSave();ppUpdateEstimate();});' +
+'document.getElementById("ppStartCashInput").addEventListener("input",function(){' +
+'var v=parseFloat(this.value);ppState.startingCash=(isFinite(v)&&v>=0)?v:PP_DEFAULT_STARTING_CASH;ppSave();ppRenderSummary();});' +
+'document.getElementById("ppResetBtn").addEventListener("click",function(){' +
+'if(!window.confirm("Reset your paper portfolio? This clears all positions, cash, and history back to the starting cash amount. This cannot be undone."))return;' +
+'var startCash=ppState.startingCash||PP_DEFAULT_STARTING_CASH,fee=ppState.fee||0;' +
+'ppState=ppDefaultState();ppState.startingCash=startCash;ppState.cash=startCash;ppState.fee=fee;' +
+'ppSave();ppRenderAll();ppShowMsg("Portfolio reset.",false);});' +
+'document.getElementById("ppHoldingsBody").addEventListener("click",function(e){' +
+'var btn=e.target.closest(".pp-row-sell-btn");if(!btn)return;' +
+'document.getElementById("ppTicker").value=btn.dataset.ticker;' +
+'document.querySelector(\'input[name="ppMode"][value="shares"]\').checked=true;' +
+'var pos=ppState.positions[btn.dataset.ticker];' +
+'document.getElementById("ppQty").value=pos?pos.shares:"";' +
+'ppUpdateEstimate();' +
+'document.getElementById("ppTicker").scrollIntoView({behavior:"smooth",block:"center"});});' +
+'document.getElementById("ppHistoryExpandBtn").addEventListener("click",function(){' +
+'ppHistoryExpanded=!ppHistoryExpanded;ppRenderHistory();});' +
+
+'document.getElementById("ppFeeInput").value=ppState.fee;' +
+'document.getElementById("ppStartCashInput").value=ppState.startingCash;' +
+'ppRenderAll();' +
 
 '</script></body></html>';
 }

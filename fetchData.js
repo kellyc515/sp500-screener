@@ -190,6 +190,34 @@ async function refreshCongressTrades() {
   console.log('  Congress trades: fetched ' + fresh.length + ' latest (' + added + ' new), ' + merged.length + ' total tracked, provider: ' + fmpCongress.health.state);
 }
 
+/* ---- S&P 500 benchmark (SPY): one price, isolated from the scored universe ----
+ * Written only to cache/benchmark.json - never to companies.json, never
+ * through refreshGroup, never added to TICKERS/loadUniverse(). Powers the
+ * Paper Trading tab's "Compare to S&P 500" chart line client-side; not a
+ * scoring input in any way. Reuses finnhub.fetchQuote(), the exact same
+ * function already used for every scored ticker's price - the isolation is
+ * entirely about where the result is written (its own file, its own
+ * variable, never touching the `companies` array), not a different fetch
+ * mechanism. */
+async function refreshBenchmark() {
+  const FILE = 'benchmark.json';
+  const existing = readCache(FILE);
+
+  if (isFresh(existing.meta, DAILY_MAX_AGE_MS)) {
+    console.log('  Benchmark (SPY): cached (' + (existing.spy && existing.spy.price) + ')');
+    return;
+  }
+
+  const q = await finnhub.fetchQuote('SPY');
+  if (q.price == null) {
+    console.log('  Benchmark (SPY): fetch failed - keeping previous cached value untouched');
+    return;
+  }
+
+  writeCacheAtomic(FILE, { meta: { updatedAt: nowISO() }, spy: { price: q.price, updatedAt: nowISO() } });
+  console.log('  Benchmark (SPY): $' + q.price);
+}
+
 /* ---- fundamentals (weekly): SEC-primary ---- */
 // name/sector/roe/debtEquity only now - pe/pb/beta moved to the daily valuation
 // group below since they're price-derived and price moves daily, not weekly.
@@ -488,6 +516,7 @@ async function main() {
   const newsCache = readCache('news.json');                   // sentiment
 
   await refreshCongressTrades(); // bulk, not per-ticker - see its own comment
+  await refreshBenchmark(); // SPY only, isolated from the scored universe - see its own comment
 
   const companies = [];
   const stats = {
