@@ -32,6 +32,7 @@ loadEnvFile(path.join(__dirname, '.env'));
 
 const finnhub = require('./providers/finnhub');
 const sec = require('./providers/sec');
+const fmpCongress = require('./providers/fmpCongress');
 
 const FINNHUB_KEY = process.env.FINNHUB_API_KEY;
 
@@ -48,6 +49,16 @@ const WEEKLY_MAX_AGE_MS = 7 * 24 * 60 * 60 * 1000; // fundamentals: roe, debtEqu
 // moving the hour count into the 48-72h band for a 3-day/~2.3x-week cadence
 // instead, or back down to DAILY_MAX_AGE_MS to restore the old behavior.
 const ANALYST_NEWS_MAX_AGE_MS = 84 * 60 * 60 * 1000;
+
+// Congressional trade disclosures: one bulk refresh per run, not per-ticker,
+// so it shares the DAILY tier purely to avoid re-fetching twice if the script
+// runs more than once in a day - the real coverage comes from accumulating
+// each day's newest ~100-per-chamber page into cache/congressTrades.json,
+// not from this max-age gate. Records older than ~13 months are pruned on
+// write to bound file growth; that's a display-window choice, unrelated to
+// this refresh-cadence gate.
+const CONGRESS_TRADES_MAX_AGE_MS = DAILY_MAX_AGE_MS;
+const CONGRESS_TRADES_RETENTION_MS = 400 * 24 * 60 * 60 * 1000;
 
 function loadUniverse() {
   if (!fs.existsSync(UNIVERSE_PATH)) {
@@ -138,6 +149,45 @@ async function refreshGroup(label, cache, ticker, maxAgeMs, fetchFn, source, sta
   tickerLog.fetched.push(label);
   const fresh = await fetchFn(ticker);
   return mergeCacheEntry(cache, ticker, fresh, source);
+}
+
+/* ---- congressional trade disclosures: one bulk refresh, not per-ticker ----
+ * cache/congressTrades.json shape: { meta: { updatedAt }, trades: [...] }.
+ * Each run merges freshly-fetched records into whatever's already stored,
+ * deduping by id (see providers/fmpCongress.js) and pruning anything past
+ * CONGRESS_TRADES_RETENTION_MS, so coverage accumulates across runs instead
+ * of being limited to whatever the free tier's page=0 returns on any one day. */
+async function refreshCongressTrades() {
+  const FILE = 'congressTrades.json';
+  const existing = readCache(FILE);
+  const trades = Array.isArray(existing.trades) ? existing.trades : [];
+
+  if (isFresh(existing.meta, CONGRESS_TRADES_MAX_AGE_MS)) {
+    console.log('  Congress trades: cached (' + trades.length + ' records, last refreshed ' + existing.meta.updatedAt + ')');
+    return;
+  }
+  if (!process.env.FMP_API_KEY) {
+    console.log('  Congress trades: skipped (FMP_API_KEY not set)');
+    return;
+  }
+
+  const fresh = await fmpCongress.fetchAllLatest();
+  const byId = new Map(trades.map((t) => [t.id, t]));
+  let added = 0;
+  for (const t of fresh) {
+    if (!byId.has(t.id)) { byId.set(t.id, t); added++; }
+  }
+
+  const cutoffMs = Date.now() - CONGRESS_TRADES_RETENTION_MS;
+  const merged = [...byId.values()]
+    .filter((t) => {
+      const ts = new Date(t.transactionDate).getTime();
+      return !Number.isFinite(ts) || ts >= cutoffMs;
+    })
+    .sort((a, b) => (a.transactionDate < b.transactionDate ? 1 : a.transactionDate > b.transactionDate ? -1 : 0));
+
+  writeCacheAtomic(FILE, { meta: { updatedAt: nowISO() }, trades: merged });
+  console.log('  Congress trades: fetched ' + fresh.length + ' latest (' + added + ' new), ' + merged.length + ' total tracked, provider: ' + fmpCongress.health.state);
 }
 
 /* ---- fundamentals (weekly): SEC-primary ---- */
@@ -437,6 +487,8 @@ async function main() {
   const analystCache = readCache('analyst.json');             // analyst
   const newsCache = readCache('news.json');                   // sentiment
 
+  await refreshCongressTrades(); // bulk, not per-ticker - see its own comment
+
   const companies = [];
   const stats = {
     fundamentals: { cacheHits: 0, fetchAttempts: 0 },
@@ -511,7 +563,7 @@ async function main() {
     + withReturns + ' have at least one of ret3m/ret6m (' + withFullReturns + ' both))');
 
   console.log('\n  Provider health:');
-  for (const p of [sec, finnhub]) {
+  for (const p of [sec, finnhub, fmpCongress]) {
     const h = p.health;
     console.log('  ' + p.name.padEnd(9) + h.state + (h.detail ? ' (' + h.detail + ')' : ''));
   }
