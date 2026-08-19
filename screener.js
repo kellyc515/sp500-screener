@@ -1464,6 +1464,22 @@ function buildHTML(scored, sectors, watchlist, stockDetails, metricDistributions
   const changesCardHTML = buildChangesCardHTML(changes);
   const dashboardHTML = buildDashboardHTML(scored, sectors, watchlist, changes, changesCardHTML, generated);
 
+  // Congressional trade disclosures - display-only, never scored. One flat
+  // list embedded once and shared by both the per-stock detail panel (filtered
+  // client-side by ticker) and the dedicated Political Trades page (feed +
+  // leaderboards) - see buildPoliticalTradesHTML() and the page-political
+  // section further down. Company name is attached here since it's a cheap
+  // ticker->name lookup already available from `scored`, sparing the client
+  // from cross-referencing STOCK_DETAIL just to show a name next to a ticker.
+  const congressData = readJSONSafe(path.join(__dirname, 'cache', 'congressTrades.json')) || {};
+  const nameByTicker = {};
+  for (const c of scored) nameByTicker[c.ticker] = c.name;
+  const politicalTrades = (Array.isArray(congressData.trades) ? congressData.trades : []).map((t) => ({
+    ...t,
+    companyName: nameByTicker[t.ticker] || null,
+  }));
+  const politicalTradesAsOf = (congressData.meta && congressData.meta.updatedAt) || null;
+
   // Same collapse pattern as the main table: ordering/bars untouched, only
   // how many render visible by default changes. No search/sort to compose
   // with here (unlike the table), so this is a plain show/hide toggle -
@@ -1688,6 +1704,27 @@ function buildHTML(scored, sectors, watchlist, stockDetails, metricDistributions
 '.view-tab{background:var(--bg2);color:var(--muted);border:1px solid var(--line);border-radius:8px;padding:6px 11px;font-size:12px;font-family:system-ui,sans-serif;cursor:pointer}' +
 '.view-tab:hover{color:var(--ink)}' +
 '.view-tab.active{color:#04110b;background:var(--accent);border-color:var(--accent);font-weight:700}' +
+'.page-tabs{display:flex;gap:8px;padding:14px 26px 0}' +
+'.page-tab{background:transparent;color:var(--muted);border:1px solid var(--line);border-bottom:none;border-radius:10px 10px 0 0;padding:9px 16px;font-size:13.5px;font-weight:600;font-family:system-ui,sans-serif;cursor:pointer}' +
+'.page-tab:hover{color:var(--ink)}' +
+'.page-tab.active{color:var(--ink);background:var(--panel)}' +
+'.page-view[hidden]{display:none}' +
+'.lb-row{display:grid;grid-template-columns:20px 1fr auto;align-items:center;gap:10px;padding:8px 0;border-top:1px solid var(--line);cursor:pointer;transition:background .12s}' +
+'.lb-row:first-child{border-top:none}' +
+'.lb-row:hover{background:rgba(255,255,255,.03)}' +
+'.lb-row.open{background:rgba(16,185,129,.06)}' +
+'.lb-rank{color:var(--muted);font-size:12px;text-align:center}' +
+'.lb-name{font-size:13.5px;color:var(--ink)}' +
+'.lb-sub{display:block;color:var(--muted);font-size:11px;margin-top:2px}' +
+'.lb-count{font-size:12.5px;text-align:right;color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}' +
+'.lb-count b{color:var(--ink);font-weight:700}' +
+'.lb-arrow{display:inline-block;margin-left:6px;color:var(--muted);font-size:9px}' +
+'.lb-arrow::after{content:"\\25BE"}' +
+'.lb-row.open .lb-arrow{color:var(--accent)}' +
+'.lb-row.open .lb-arrow::after{content:"\\25B4"}' +
+'.lb-explain{display:none;margin-top:14px;background:#0f141b;border-top:2px solid var(--accent);border-radius:10px;padding:16px 18px}' +
+'.lb-explain.show{display:block}' +
+'.lb-explain .exp-title{font-size:13.5px;font-weight:700;color:var(--accent);margin-bottom:6px}' +
 '.star-cell{text-align:center!important;width:34px;cursor:default!important}' +
 '.star-btn{background:none;border:none;color:#3a4148;font-size:17px;cursor:pointer;line-height:1;padding:2px}' +
 '.star-btn:hover{color:#f0a868}' +
@@ -1735,6 +1772,16 @@ function buildHTML(scored, sectors, watchlist, stockDetails, metricDistributions
 '.news-list a{color:var(--ink);text-decoration:none;font-size:13px;line-height:1.4}' +
 '.news-list a:hover{color:var(--accent);text-decoration:underline}' +
 '.news-meta{display:block;color:var(--muted);font-size:11px;margin-top:3px}' +
+'.pt-list{list-style:none;margin:0;padding:0;max-height:280px;overflow-y:auto}' +
+'.pt-row{display:flex;flex-wrap:wrap;align-items:center;gap:8px;padding:8px 0;border-bottom:1px solid var(--line);font-size:12.5px}' +
+'.pt-type{font-weight:600;padding:2px 8px;border-radius:10px;font-size:11px;background:var(--bg2);color:var(--muted)}' +
+'.pt-type.pt-buy{background:rgba(52,211,153,0.16);color:var(--good)}' +
+'.pt-type.pt-sell{background:rgba(255,123,114,0.16);color:var(--bad)}' +
+'.pt-member{color:var(--ink);font-weight:500}' +
+'.pt-chamber,.pt-amount{color:var(--muted)}' +
+'.pt-date{color:var(--muted);margin-left:auto}' +
+'.pt-link{color:var(--accent);text-decoration:none;font-size:11px}' +
+'.pt-link:hover{text-decoration:underline}' +
 '.stat-label{display:block;font-size:12px;color:var(--muted);margin-bottom:8px}' +
 '.stat-select{margin-left:6px;background:var(--bg2);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:4px 7px;font-size:12.5px}' +
 '.stat-chart-container{margin-top:10px}' +
@@ -1772,6 +1819,11 @@ function buildHTML(scored, sectors, watchlist, stockDetails, metricDistributions
 '</style></head><body>' +
 '<header><h1>Stock <span>Screener</span></h1>' +
 '<div class="sub">' + scored.length + ' names ranked &middot; weights: ' + weightsNote + ' &middot; ' + generated + '</div></header>' +
+'<div class="page-tabs">' +
+'<button type="button" class="page-tab active" data-page="screener">Screener</button>' +
+'<button type="button" class="page-tab" data-page="political">Political Trades</button>' +
+'</div>' +
+'<div id="pageScreener" class="page-view">' +
 dashboardHTML +
 '<div class="wrap"><div class="grid">' +
 '<div class="card"><h2>Industries &middot; best to worst</h2>' + sectorRowsTop + sectorExpandHTML + '<p class="hint">Avg score of each sector\'s names.</p></div>' +
@@ -1807,6 +1859,32 @@ dashboardHTML +
 '<div class="guide-grid">' + guideCards + '</div>' +
 '<p class="hint">Rough rules of thumb - always compare within a sector. Cell shading = that stat\'s curved score (teal good, red weak). A research screen, not investment advice.</p></div>' +
 '</div>' +
+'</div>' +
+
+'<div id="pagePolitical" class="page-view" hidden><div class="wrap">' +
+'<div class="card"><h2>Congressional Trading Activity</h2>' +
+'<p class="hint">Stock trades disclosed by members of Congress under the STOCK Act, tracked from official House/Senate filings via Financial Modeling Prep. Amounts are disclosed dollar ranges, not exact figures, and members can file well after the actual trade date. Informational only — not a signal, recommendation, or indication any stock here is being screened favorably.</p>' +
+'</div>' +
+'<div class="dash-grid">' +
+'<div class="card"><h2>Most Traded Tickers</h2><div id="tickerLeaderboard"></div><div class="lb-explain" id="tickerLbExplain"></div></div>' +
+'<div class="card"><h2>Most Active Members</h2><div id="memberLeaderboard"></div><div class="lb-explain" id="memberLbExplain"></div></div>' +
+'</div>' +
+'<div class="card table-card">' +
+'<input id="ptSearch" type="text" placeholder="Search ticker, company, or member..." style="display:block;width:min(520px,100%);height:46px;padding:0 16px;margin:0 0 16px 0;background:#0b0f14;color:#e6edf3;border:1px solid #21262d;border-radius:10px;font-size:15px;font-weight:600;font-family:system-ui,sans-serif;outline:none;box-sizing:border-box;box-shadow:0 0 0 1px rgba(255,255,255,.02);">' +
+'<table id="ptTable"><thead><tr>' +
+'<th data-col="date" data-type="num">Date</th>' +
+'<th data-col="member" data-type="str">Member</th>' +
+'<th data-col="chamber" data-type="str">Chamber</th>' +
+'<th data-col="ticker" data-type="str">Ticker</th>' +
+'<th data-col="type" data-type="str">Type</th>' +
+'<th class="num" data-col="amount" data-type="num">Amount</th>' +
+'<th data-col="link">Filing</th>' +
+'</tr></thead><tbody id="ptTbody"></tbody></table>' +
+'<div class="table-expand"><button type="button" id="ptExpandBtn">Show all &#9662;</button></div>' +
+'<p class="hint" id="ptEmpty" hidden>No congressional trades tracked yet.</p>' +
+'</div>' +
+'</div></div>' +
+
 '<script>' +
 'var table=document.getElementById("t");var lastCol=null,asc=false;' +
 'var stockSearch=document.getElementById("stockSearch");' +
@@ -1957,6 +2035,8 @@ dashboardHTML +
 'var STAT_METRICS=' + safeJSONEmbed(STAT_METRICS) + ';' +
 'var METRIC_EXPLANATIONS=' + safeJSONEmbed(METRIC_EXPLANATIONS) + ';' +
 'var DETAIL_BAND_COLOR=' + JSON.stringify(BAND_COLOR) + ';' +
+'var POLITICAL_TRADES=' + safeJSONEmbed(politicalTrades) + ';' +
+'var POLITICAL_TRADES_ASOF=' + JSON.stringify(politicalTradesAsOf) + ';' +
 'function detailBandFor(pct){if(pct===null||pct===undefined)return null;if(pct>=200/3)return"good";if(pct>=100/3)return"mid";return"bad";}' +
 
 'function escapeHtml(s){return String(s).replace(/[&<>"\']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;","\\"":"&quot;","\'":"&#39;"}[c];});}' +
@@ -1978,6 +2058,24 @@ dashboardHTML +
 '"<span class=\\"news-meta\\">"+escapeHtml(h.source||"")+(h.date?(" \\u00b7 "+escapeHtml(h.date)):"")+"</span></li>";' +
 '}).join("");' +
 'return "<ul class=\\"news-list\\">"+items+"</ul>"+asOf;}' +
+
+'function buildPoliticalTradesHTML(ticker){' +
+'var trades=POLITICAL_TRADES.filter(function(t){return t.ticker===ticker;});' +
+'if(!trades.length)return "<p class=\\"hint\\">No congressional stock trades disclosed for this ticker in the tracked window.</p>";' +
+'var asOf=POLITICAL_TRADES_ASOF?("<p class=\\"hint\\">Cached as of "+fmtDate(POLITICAL_TRADES_ASOF)+"</p>"):"";' +
+'var items=trades.map(function(t){' +
+'var typeClass=/purchase/i.test(t.type||"")?"pt-buy":/sale/i.test(t.type||"")?"pt-sell":"";' +
+'var linkHtml=t.link?(" <a href=\\""+safeUrl(t.link)+"\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"pt-link\\">filing</a>"):"";' +
+'return "<li class=\\"pt-row\\">"+' +
+'"<span class=\\"pt-type "+typeClass+"\\">"+escapeHtml(t.type||"\\u2014")+"</span>"+' +
+'"<span class=\\"pt-member\\">"+escapeHtml(t.member||"")+"</span>"+' +
+'"<span class=\\"pt-chamber\\">"+escapeHtml(t.chamber||"")+"</span>"+' +
+'"<span class=\\"pt-amount\\">"+escapeHtml(t.amount||"")+"</span>"+' +
+'"<span class=\\"pt-date\\">"+escapeHtml(t.transactionDate||"")+"</span>"+linkHtml+' +
+'"</li>";' +
+'}).join("");' +
+'return "<ul class=\\"pt-list\\">"+items+"</ul>"+asOf+' +
+'"<p class=\\"am-disc\\">Sourced from official House/Senate STOCK Act disclosures via Financial Modeling Prep. Amounts shown are the disclosed dollar ranges, not exact figures, and members can file well after the actual trade date. Informational only \\u2014 not a signal, recommendation, or indication this stock is being screened favorably.</p>";}' +
 
 'function buildStatChartHTML(){' +
 'var options=Object.keys(STAT_METRICS).map(function(id){return "<option value=\\""+id+"\\">"+STAT_METRICS[id].label+"</option>";}).join("");' +
@@ -2162,6 +2260,7 @@ dashboardHTML +
 '"<div class=\\"detail-section\\"><h4>Recent News</h4>"+buildNewsHTML(ticker)+"</div>"+' +
 '"<div class=\\"detail-section\\"><h4>Where It Stands</h4>"+buildStatChartHTML()+"</div>"+' +
 '"</div>"+' +
+'"<div class=\\"detail-section\\"><h4>Congressional Trading Activity</h4>"+buildPoliticalTradesHTML(ticker)+"</div>"+' +
 '"<div class=\\\"detail-section\\\"><h4>Why This Score</h4>"+buildWhyScoreSimpleHTML(ticker)+"</div>"+' +
 '"<div class=\\"detail-section detail-research-section\\"><h4>Research &amp; Analyst Reasoning</h4>"+buildResearchHTML(ticker)+"</div>"+' +
 '"</div>";}' +
@@ -2312,6 +2411,154 @@ dashboardHTML +
 'expandRow(tr);' +
 'tr.scrollIntoView({behavior:"smooth",block:"center"});' +
 '});});' +
+
+// Page-level tabs: Screener (the table/sector view above) vs. Political
+// Trades (new). Plain show/hide of two top-level containers - independent
+// of the table's own search/sort/collapse model, same pattern as the
+// changes/sector expanders elsewhere on this page.
+'document.querySelectorAll(".page-tab").forEach(function(btn){btn.addEventListener("click",function(){' +
+'document.querySelectorAll(".page-tab").forEach(function(b){b.classList.remove("active");});' +
+'btn.classList.add("active");' +
+'var page=btn.dataset.page;' +
+'document.getElementById("pageScreener").hidden=(page!=="screener");' +
+'document.getElementById("pagePolitical").hidden=(page!=="political");' +
+'});});' +
+
+// Political Trades page: a feed table (mirrors the main table's
+// collapse/search/sort pattern, minus classification/watchlist) plus two
+// leaderboards, all computed client-side from the single POLITICAL_TRADES
+// array embedded above - no extra data fetch, no server-side aggregation.
+'function ptDataRows(){return [].slice.call(document.getElementById("ptTbody").querySelectorAll("tr"));}' +
+'var PT_COLLAPSE_ROWS=25,ptExpanded=false,ptLastCol=null,ptAsc=false;' +
+'var ptSearch=document.getElementById("ptSearch");' +
+'var ptExpandBtn=document.getElementById("ptExpandBtn");' +
+
+'function parseAmountLow(s){if(!s)return null;var m=String(s).replace(/,/g,"").match(/([\\d.]+)/);return m?parseFloat(m[1]):null;}' +
+
+'function applyPtFilters(){' +
+'var q=ptSearch?ptSearch.value.trim().toLowerCase():"";var hasQuery=q.length>0;var matchCount=0;' +
+'ptDataRows().forEach(function(r,idx){' +
+'var ok=!hasQuery||r.innerText.toLowerCase().includes(q);' +
+'if(!ok){r.style.display="none";return;}' +
+'matchCount++;' +
+'r.style.display=(hasQuery||ptExpanded||idx<PT_COLLAPSE_ROWS)?"":"none";});' +
+'if(ptExpandBtn){' +
+'ptExpandBtn.style.display=(!hasQuery&&matchCount>PT_COLLAPSE_ROWS)?"":"none";' +
+'ptExpandBtn.innerHTML=ptExpanded?"Show top "+PT_COLLAPSE_ROWS+" \\u25B2":"Show all "+matchCount+" \\u25BE";}}' +
+
+'function renderPoliticalFeed(){' +
+'var tbody=document.getElementById("ptTbody");' +
+// Already sorted newest-first by fetchData.js, so no default sort needed here.
+'POLITICAL_TRADES.forEach(function(t){' +
+'var ts=t.transactionDate?new Date(t.transactionDate).getTime():0;' +
+'var typeClass=/purchase/i.test(t.type||"")?"pt-buy":/sale/i.test(t.type||"")?"pt-sell":"";' +
+'var amtLow=parseAmountLow(t.amount);' +
+'var tr=document.createElement("tr");tr.className="data-row";tr.dataset.ticker=t.ticker;' +
+'tr.innerHTML=' +
+'"<td data-col=\\"date\\" data-value=\\""+ts+"\\">"+escapeHtml(t.transactionDate||"")+"</td>"+' +
+'"<td data-col=\\"member\\" data-value=\\""+escapeHtml(t.member||"")+"\\">"+escapeHtml(t.member||"")+"</td>"+' +
+'"<td data-col=\\"chamber\\" data-value=\\""+escapeHtml(t.chamber||"")+"\\">"+escapeHtml(t.chamber||"")+"</td>"+' +
+'"<td data-col=\\"ticker\\" data-value=\\""+escapeHtml(t.ticker||"")+"\\"><b>"+escapeHtml(t.ticker||"")+"</b>"+(t.companyName?(" <span class=\\"news-meta\\">"+escapeHtml(t.companyName)+"</span>"):"")+"</td>"+' +
+'"<td data-col=\\"type\\" data-value=\\""+escapeHtml(t.type||"")+"\\"><span class=\\"pt-type "+typeClass+"\\">"+escapeHtml(t.type||"\\u2014")+"</span></td>"+' +
+'"<td class=\\"num\\" data-col=\\"amount\\" data-value=\\""+(amtLow==null?0:amtLow)+"\\">"+escapeHtml(t.amount||"")+"</td>"+' +
+'"<td data-col=\\"link\\">"+(t.link?("<a href=\\""+safeUrl(t.link)+"\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"pt-link\\">filing</a>"):"")+"</td>";' +
+'tbody.appendChild(tr);});' +
+'var ptEmpty=document.getElementById("ptEmpty");if(ptEmpty)ptEmpty.hidden=POLITICAL_TRADES.length>0;' +
+'applyPtFilters();}' +
+
+'if(ptSearch)ptSearch.addEventListener("input",applyPtFilters);' +
+'if(ptExpandBtn)ptExpandBtn.addEventListener("click",function(){ptExpanded=!ptExpanded;applyPtFilters();});' +
+
+'var ptTable=document.getElementById("ptTable");' +
+'if(ptTable){ptTable.querySelectorAll("th[data-type]").forEach(function(th){th.addEventListener("click",function(){' +
+'var col=th.dataset.col,type=th.dataset.type;ptAsc=(ptLastCol===col)?!ptAsc:false;ptLastCol=col;' +
+'var rows=ptDataRows();var tbody=document.getElementById("ptTbody");' +
+'rows.sort(function(a,b){' +
+'var av=a.querySelector("[data-col=\\""+col+"\\"]").dataset.value;' +
+'var bv=b.querySelector("[data-col=\\""+col+"\\"]").dataset.value;' +
+'var cmp=(type==="num")?(parseFloat(av)-parseFloat(bv)):String(av).localeCompare(bv);return ptAsc?cmp:-cmp;});' +
+'rows.forEach(function(r){tbody.appendChild(r);});' +
+'applyPtFilters();});});}' +
+
+'function lbRowHTML(rank,key,label,sub,count){' +
+'return "<div class=\\"lb-row\\" tabindex=\\"0\\" data-lb-key=\\""+escapeHtml(key)+"\\"><span class=\\"lb-rank\\">"+rank+"</span>"+' +
+'"<span class=\\"lb-name\\">"+escapeHtml(label)+(sub?("<span class=\\"lb-sub\\">"+escapeHtml(sub)+"</span>"):"")+"</span>"+' +
+'"<span class=\\"lb-count\\"><b>"+count+"</b> trade"+(count===1?"":"s")+"<span class=\\"lb-arrow\\"></span></span></div>";}' +
+
+'function renderLeaderboards(){' +
+'var tickerCounts={},tickerNames={},memberCounts={},memberChamber={};' +
+'POLITICAL_TRADES.forEach(function(t){' +
+'tickerCounts[t.ticker]=(tickerCounts[t.ticker]||0)+1;' +
+'if(t.companyName)tickerNames[t.ticker]=t.companyName;' +
+'var key=t.member||"Unknown";' +
+'memberCounts[key]=(memberCounts[key]||0)+1;memberChamber[key]=t.chamber;});' +
+
+'var topTickers=Object.keys(tickerCounts).map(function(k){return {ticker:k,count:tickerCounts[k],name:tickerNames[k]};})' +
+'.sort(function(a,b){return b.count-a.count;}).slice(0,12);' +
+'var topMembers=Object.keys(memberCounts).map(function(k){return {member:k,count:memberCounts[k],chamber:memberChamber[k]};})' +
+'.sort(function(a,b){return b.count-a.count;}).slice(0,12);' +
+
+'var tEl=document.getElementById("tickerLeaderboard");' +
+'tEl.innerHTML=topTickers.length?topTickers.map(function(row,i){return lbRowHTML(i+1,row.ticker,row.ticker,row.name,row.count);}).join("")' +
+':"<p class=\\"hint\\">No congressional trades tracked yet.</p>";' +
+
+'var mEl=document.getElementById("memberLeaderboard");' +
+'mEl.innerHTML=topMembers.length?topMembers.map(function(row,i){return lbRowHTML(i+1,row.member,row.member,row.chamber,row.count);}).join("")' +
+':"<p class=\\"hint\\">No congressional trades tracked yet.</p>";}' +
+
+// Shared trade-row renderer for both leaderboards' expand panels. showMember
+// picks what the row's primary identifier is: the member's name (ticker
+// leaderboard, since ticker is already the group heading) or the
+// ticker+company (member leaderboard, since member is already the group
+// heading) - the group's own key is never repeated inside its own rows.
+// Filing link is simply omitted (not a dead/empty link) when a record has
+// none - matches every trade currently in cache/congressTrades.json, whose
+// provider only ever stores records that already have a link, but this
+// stays defensive rather than assuming that always holds.
+'function lbTradeRowHTML(t,showMember){' +
+'var typeClass=/purchase/i.test(t.type||"")?"pt-buy":/sale/i.test(t.type||"")?"pt-sell":"";' +
+'var primary=showMember' +
+'?("<span class=\\"pt-member\\">"+escapeHtml(t.member||"")+"</span>")' +
+':("<span class=\\"pt-member\\"><b>"+escapeHtml(t.ticker||"")+"</b>"+(t.companyName?(" "+escapeHtml(t.companyName)):"")+"</span>");' +
+'var linkHtml=t.link?(" <a href=\\""+safeUrl(t.link)+"\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"pt-link\\">filing</a>"):"";' +
+'return "<li class=\\"pt-row\\">"+' +
+'"<span class=\\"pt-type "+typeClass+"\\">"+escapeHtml(t.type||"\\u2014")+"</span>"+' +
+'primary+' +
+'"<span class=\\"pt-chamber\\">"+escapeHtml(t.chamber||"")+"</span>"+' +
+'"<span class=\\"pt-amount\\">"+escapeHtml(t.amount||"")+"</span>"+' +
+'"<span class=\\"pt-date\\">"+escapeHtml(t.transactionDate||"")+"</span>"+' +
+'"<span class=\\"pt-date\\">filed "+escapeHtml(t.disclosureDate||"\\u2014")+"</span>"+linkHtml+' +
+'"</li>";}' +
+
+'function lbTradeListHTML(trades,showMember){' +
+'if(!trades.length)return "<p class=\\"hint\\">No trades found.</p>";' +
+'var sorted=trades.slice().sort(function(a,b){' +
+'return (a.transactionDate<b.transactionDate)?1:(a.transactionDate>b.transactionDate?-1:0);});' +
+'return "<ul class=\\"pt-list\\">"+sorted.map(function(t){return lbTradeRowHTML(t,showMember);}).join("")+"</ul>";}' +
+
+// Click-to-expand: one shared panel per leaderboard (like the All Metrics
+// grid's single #amExplain panel) rather than an inline panel per row, so
+// position in the ranked list never matters. Click again collapses; clicking
+// a different row swaps - same interaction as the All Metrics grid.
+'function wireLeaderboard(containerId,explainId,matchField,showMember){' +
+'var container=document.getElementById(containerId);' +
+'var explain=document.getElementById(explainId);' +
+'if(!container||!explain)return;' +
+'container.addEventListener("click",function(e){' +
+'var row=e.target.closest(".lb-row");if(!row)return;' +
+'var key=row.dataset.lbKey,wasOpen=row.classList.contains("open");' +
+'container.querySelectorAll(".lb-row").forEach(function(r){r.classList.remove("open");});' +
+'if(wasOpen){explain.classList.remove("show");explain.innerHTML="";return;}' +
+'row.classList.add("open");' +
+'var trades=POLITICAL_TRADES.filter(function(t){return (matchField==="ticker"?t.ticker:(t.member||"Unknown"))===key;});' +
+'explain.innerHTML="<div class=\\"exp-title\\">"+escapeHtml(key)+"</div>"+lbTradeListHTML(trades,showMember);' +
+'explain.classList.add("show");' +
+'});}' +
+
+'renderPoliticalFeed();' +
+'renderLeaderboards();' +
+'wireLeaderboard("tickerLeaderboard","tickerLbExplain","ticker",true);' +
+'wireLeaderboard("memberLeaderboard","memberLbExplain","member",false);' +
 
 '</script></body></html>';
 }
