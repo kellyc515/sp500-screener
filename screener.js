@@ -679,6 +679,163 @@ const STAT_METRICS = {
   score: { label: 'Score', lowerIsBetter: false },
 };
 
+// Plain-English explanations for the detail panel's "All Metrics" click-to-
+// expand feature. Display-only, purely educational - describes what a
+// metric means and how to read it in general; never a verdict on the
+// specific value shown for any stock. One entry per STAT_METRICS key.
+// Double-quoted strings throughout (this gets embedded into the client
+// script via safeJSONEmbed(), same as STAT_METRICS/STOCK_DETAIL) so natural
+// apostrophes in the prose need no escaping.
+const METRIC_EXPLANATIONS = {
+  pe: {
+    name: "P/E — Price to Earnings",
+    what: "How much you pay for each $1 of the company's trailing annual profit. Share price divided by trailing twelve-month earnings per share.",
+    read: "Lower generally means you're paying less per dollar of current profit - often called \"cheaper.\" Higher means the market is pricing in strong future growth, or the stock is simply expensive relative to what it earns today.",
+    range: "Across this list the middle 80% of names run roughly 13-60, with a median near 25. Left blank when the company has zero or negative earnings, since a P/E on a loss isn't meaningful.",
+    why: "A low P/E is the classic bargain signal this screener is built around, but a very low P/E can also mean the market has priced in real trouble - exactly the value-trap risk this screener tries to flag alongside it. Never read P/E alone.",
+  },
+  pb: {
+    name: "P/B — Price to Book",
+    what: "Price compared to the company's net worth on the books - assets minus liabilities, per share.",
+    read: "Below 1 means the market is valuing the company at less than its stated accounting net worth. Higher multiples mean investors expect the business to earn well above what its balance sheet alone would suggest.",
+    range: "Most names here run roughly 1.5-29, with a median around 4.3 - asset-light, high-margin businesses often carry much higher P/B than asset-heavy ones like insurers or banks, so it's most meaningful compared within a similar type of business.",
+    why: "P/B is most useful for financial and asset-heavy companies, where book value is a decent proxy for real worth. A low P/B paired with solid ROE can be a genuine bargain; a low P/B with weak or falling ROE is a warning that the \"cheap\" assets may be earning less than they used to.",
+  },
+  peg: {
+    name: "PEG — P/E to Growth",
+    what: "The P/E ratio adjusted for how fast the company's earnings are actually growing - P/E divided by the annual EPS growth rate. This screener computes growth itself from SEC filings year-over-year, not analyst estimates.",
+    read: "Around 1 is often read as \"fairly priced for its growth.\" Meaningfully below 1 can mean you're getting real growth cheaply; well above suggests the price has run ahead of the growth backing it up.",
+    range: "Where it's populated, the middle 80% of names run roughly 0.3-4.9, with a median near 1.2. PEG is left blank whenever P/E itself is blank, growth is negative, or growth is below a 2% floor - below that floor the ratio can swing to extreme, meaningless values off an almost-zero denominator, so this screener nulls it out rather than show a misleading number.",
+    why: "PEG helps separate \"cheap and stagnant\" from \"reasonably priced and actually growing.\" A low P/E paired with a low PEG is a more credible bargain signal than a low P/E on its own, which can just mean earnings aren't expected to grow at all.",
+  },
+  roe: {
+    name: "ROE — Return on Equity",
+    what: "How much profit the company generates from shareholders' equity - net income divided by shareholder equity, as a percentage.",
+    read: "Higher means the business converts each dollar of equity into more profit - a sign of an efficient, well-run operation. Consistently high ROE over time is one of the more reliable quality signals.",
+    range: "The middle 80% of names here run roughly 2%-44%, with a median near 14%. Very high ROE is worth a second look - it can come from genuine efficiency or from heavy debt inflating the ratio, so it's worth checking Debt/Equity alongside it. Nulled when shareholder equity is zero or negative, since the ratio isn't economically meaningful there.",
+    why: "This screener leans on ROE as a core quality signal. A cheap stock (low P/E) that also has strong ROE is closer to the \"quality bargain\" this tool is built to surface, rather than just a stock that's cheap because it's a weak business.",
+  },
+  debtEquity: {
+    name: "Debt/Equity",
+    what: "How much debt the company carries relative to shareholder equity - total debt divided by equity.",
+    read: "Lower means more conservative financing. Higher means more leverage, which can boost returns when things go well but adds real risk when they don't.",
+    range: "The middle 80% of names here run roughly 0.02-2.0, with a median near 0.5. What counts as \"high\" varies a lot by industry - utilities, REITs, and banks structurally run higher than software or biotech. Nulled when shareholder equity is zero or negative, for the same reason as ROE.",
+    why: "Heavy debt is a common ingredient in value traps: a stock that looks cheap can stay cheap, or get cheaper, if it's weighed down by obligations it can't easily service. Low debt is one of the things that gives a genuine bargain some margin of safety.",
+  },
+  sentiment: {
+    name: "News Sentiment",
+    what: "A rough read of recent news coverage tone for this company, built from keyword matching against headlines from the last few weeks - not a language model, just a simple positive/negative word count.",
+    read: "Positive values mean the recent headline mix skewed positive; negative values mean it skewed negative. Values sit on roughly a -1 to +1 scale.",
+    range: "The middle 80% of names here run roughly 0.11-0.90, with a median around 0.64 - most coverage in this universe skews mildly-to-moderately positive by this simple measure, so a reading near zero or negative is comparatively more notable.",
+    why: "This is deliberately the noisiest, least rigorous input in the whole screener - it's a light signal of what the news cycle currently thinks, not a fundamental read on the business. Useful as one small piece of context, not something to weight heavily on its own.",
+  },
+  analyst: {
+    name: "Analyst Score",
+    what: "Wall Street's buy/hold/sell consensus on the stock, converted into a single 0-100 score (a strong buy consensus scores near 100, a strong sell near 0).",
+    read: "Higher means analysts covering the stock lean more bullish; lower means they lean more bearish or are split.",
+    range: "The middle 80% of names here run roughly 59-79, with a median near 71 - analyst coverage of large caps tends to skew positive overall, so scores in the 40s or below are comparatively rare and worth noting.",
+    why: "Analyst sentiment can confirm or contradict what the valuation and quality numbers suggest. A cheap, high-quality stock that analysts also like adds confidence; a cheap stock analysts are cool on is worth extra scrutiny before assuming it's a bargain.",
+  },
+  beta: {
+    name: "Beta",
+    what: "How much the stock's price swings relative to the overall market.",
+    read: "1.0 means it moves roughly in line with the market. Above 1 means bigger swings than the market in both directions; below 1 means steadier, smaller swings.",
+    range: "The middle 80% of names here run roughly 0.35-1.56, with a median near 0.93 - close to the market average, as expected for a broad large-cap universe.",
+    why: "Beta isn't a bargain or trap signal by itself - it's a measure of how bumpy the ride tends to be, not whether the destination is good. A high-beta stock isn't automatically a value trap; it just moves more.",
+  },
+  ret3m: {
+    name: "3M Return %",
+    what: "How much the stock's price has changed over the last three months.",
+    read: "Positive means the price is up over that window; negative means it's down. On its own this says nothing about whether the move was justified.",
+    range: "The middle 80% of names here run roughly -9% to +29%, with a median near +7%.",
+    why: "A recent drop can mean a stock has become a genuine bargain, or it can mean the market is correctly pricing in bad news - exactly the distinction Value Opportunity and Trap Risk are built to help with. Treat a big recent move as a prompt to dig in, not a verdict either way.",
+  },
+  ret6m: {
+    name: "6M Return %",
+    what: "How much the stock's price has changed over the last six months.",
+    read: "Same idea as the 3-month return over a longer window - positive is up, negative is down.",
+    range: "The middle 80% of names here run roughly -17% to +34%, with a median near +5%.",
+    why: "A longer window smooths out some short-term noise compared to the 3-month figure, but the same caution applies: a big move up or down is a starting point for research, not a conclusion about value.",
+  },
+  ret1y: {
+    name: "1Y Return %",
+    what: "How much the stock's price has changed over the past year.",
+    read: "Positive is up over the year, negative is down. Like the shorter-window returns, it's descriptive, not a judgment on whether the current price is attractive.",
+    range: "The middle 80% of names here run roughly -24% to +67%, with a median near +11%.",
+    why: "A stock that's fallen hard over a year might be a bargain the market has overlooked, or it might be a business genuinely deteriorating - pairing this with Trap Risk and the quality metrics is how you tell the two apart.",
+  },
+  pctBelow52wHigh: {
+    name: "% Below 52wk High",
+    what: "How far the current price sits below the stock's highest price over the past 52 weeks.",
+    read: "This one is intentionally neutral, not colored good or bad: a small gap means the stock is trading near its recent peak; a large gap means it's well off its high. Neither is inherently better.",
+    range: "The middle 80% of names here run roughly 2%-33% below their 52-week high, with a median near 11%.",
+    why: "Distance from a high is context, not a signal - a stock far below its high could be a beaten-down bargain or a business in real decline. It's most useful alongside the other metrics here, not as a standalone read.",
+  },
+  evEbitda: {
+    name: "EV/EBITDA (TTM)",
+    what: "The company's total value - market value of equity plus debt, minus cash - compared to its core operating earnings (EBITDA) over the trailing twelve months.",
+    read: "Lower means cheaper relative to the cash the business generates from operations. Unlike P/E, it accounts for debt, which makes it a fuller picture of what it would cost to \"buy the whole thing.\"",
+    range: "Where it's populated, the middle 80% of names run roughly 9-38, with a median near 17.5. It's left blank for financial institutions (banks, insurers) where EBITDA isn't a meaningful concept, when the company's EBITDA is zero or negative, or when the reported multiple is an implausibly extreme outlier this screener filters out rather than show.",
+    why: "This is a cleaner cheapness read than P/E for companies carrying meaningful debt, since a buyer would inherit that debt. A low EV/EBITDA on a business with real, stable earnings is a stronger bargain signal than a low P/E alone.",
+  },
+  fcfYield: {
+    name: "Annual FCF Yield %",
+    what: "Free cash flow (cash from operations minus capital spending) over the past year, divided by the company's market value - how much real cash the business threw off relative to what you'd pay for it.",
+    read: "Higher means the business generates more free cash relative to its price - cash that can fund dividends, buybacks, debt paydown, or reinvestment. Negative means the business burned cash rather than generating it.",
+    range: "Where it's populated, the middle 80% of names run roughly -0.05% to +8%, with a median near 3.6%. It's left blank when this screener can't reliably reconstruct the company's annual free cash flow from its SEC filings - a data-availability gap, not a statement about the business.",
+    why: "Free cash flow is harder to dress up than reported earnings, so a genuinely high FCF yield is one of the more trustworthy bargain signals here. A stock with a low or negative FCF yield despite a low P/E is a common value-trap pattern worth investigating.",
+  },
+  roic: {
+    name: "Annual GAAP ROIC %",
+    what: "Return on invested capital - how efficiently the company turns the capital invested in the business (both debt and equity) into profit.",
+    read: "Higher means more profit generated per dollar of capital employed - a sign of a business with a real competitive advantage. Consistently high ROIC, well above the cost of that capital, is a hallmark of a quality company.",
+    range: "Where it's populated, the middle 80% of names run roughly 5%-52%, with a median near 13%. It's left blank when invested capital is zero or negative, since the ratio isn't economically meaningful in that case.",
+    why: "ROIC is one of the stronger quality checks available here - a cheap stock with strong, durable ROIC is a much more credible bargain than a cheap stock with weak or volatile returns on its capital.",
+  },
+  fcfConversion: {
+    name: "Annual FCF Conversion vs Net Income %",
+    what: "How much of the company's reported net income actually shows up as free cash flow - annual free cash flow divided by net income, as a percentage.",
+    read: "Around 100% means reported profit and actual cash generation are closely matched - a good sign that earnings are \"real.\" Well below 100% can mean profits are propped up by non-cash accounting items or growing receivables; well above 100% often just reflects a heavy non-cash expense like depreciation.",
+    range: "Where it's populated, the middle 80% of names run roughly 29%-206%, with a median near 107%. It's left blank for the same reason as FCF Yield - when this screener can't reliably reconstruct annual free cash flow from the company's filings.",
+    why: "This is a quality-of-earnings check. A stock that looks cheap on paper (low P/E) but converts very little of its reported profit into actual cash is a classic red flag worth investigating before assuming the low price is a genuine bargain.",
+  },
+  netDebtEbitda: {
+    name: "Net Debt / EBITDA (TTM)",
+    what: "Roughly how many years of core operating earnings it would take to pay off the company's debt, after netting out its cash. Net debt (total debt minus cash) divided by trailing EBITDA.",
+    read: "Lower is better - less debt relative to earning power. A negative value means the company holds more cash than debt (net cash), which is a real strength, not a gap in the data.",
+    range: "Where it's populated, the middle 80% of names run roughly 0.05-5.7, with a median near 2.0. It's left blank for financial institutions (where this measure doesn't apply), when EBITDA is zero or negative, or when this screener can't align the company's SEC balance-sheet data closely enough to the EBITDA period to trust the comparison.",
+    why: "This is one of the sharper leverage-risk checks here. A high Net Debt/EBITDA is a common thread in value traps - a stock can look cheap precisely because the market is pricing in debt-service risk. A negative reading (net cash) is a genuine cushion.",
+  },
+  basicShareChange: {
+    name: "Annual Basic Weighted-Average Shares Change %",
+    what: "How much the company's basic weighted-average share count changed over the past year - a read on dilution or buybacks.",
+    read: "Positive means the share count grew (dilution - each existing share represents a smaller slice of the company). Negative means the share count shrank (typically from buybacks), which usually benefits remaining shareholders.",
+    range: "The middle 80% of names here run roughly -4.7% to +2.6%, with a median near -0.7%, meaning modest net buybacks are typical across this universe. It's occasionally left blank when a company's filing history doesn't give this screener two clean, consecutive annual data points to compare.",
+    why: "Heavy, ongoing dilution can quietly erode a shareholder's stake even while the headline numbers look fine - worth checking on any stock that otherwise looks like a bargain. Steady buybacks are a mild positive, though not a reason on their own to consider a stock cheap.",
+  },
+  valueOpportunity: {
+    name: "Value Opportunity",
+    what: "This screener's own 0-100 score for how much a stock looks like a genuine bargain, blending sector-relative valuation (weighted heaviest) with profitability, low debt, and a touch of analyst confirmation.",
+    read: "Higher means the combined valuation-and-quality signals point more strongly toward \"cheap and healthy.\" It's ranked against the rest of this list, not an absolute scale.",
+    range: "0-100 across the full universe. The names at the top of this score are the ones the screener is flagging as the most bargain-like by its own combined criteria.",
+    why: "This is one of the two headline numbers the whole screener is built around - the \"does this look cheap for good reasons?\" read. It's meant to be considered together with Trap Risk, not on its own: high Value Opportunity and low Trap Risk together is the combination this tool is trying to surface.",
+  },
+  trapRisk: {
+    name: "Trap Risk",
+    what: "This screener's own 0-100 estimate of how likely a cheap-looking stock is actually a value trap - cheap for a bad reason rather than a good one. Built from valuation extremes, leverage, weak momentum, and negative sentiment/analyst signals.",
+    read: "Higher means more warning signs are present that the low price may be justified rather than a bargain. It only sees valuation, leverage, momentum, sentiment, and analyst data - it cannot see things like deteriorating revenue trends, margin compression, or guidance cuts, so a high reading is a prompt to dig deeper, not a final verdict.",
+    range: "0-100 across the full universe.",
+    why: "This is the direct counterweight to Value Opportunity, built specifically to catch the classic mistake of buying something cheap that keeps getting cheaper. A stock scoring high on both Value Opportunity and Trap Risk is the \"interesting but dangerous\" case worth researching most carefully before drawing any conclusion.",
+  },
+  score: {
+    name: "Composite Score",
+    what: "The overall ranking number for this screener - a blend of six weighted categories: Valuation 35%, Quality 30%, Growth 10%, Sentiment 10%, Risk 10%, and Momentum 5%.",
+    read: "Higher means the stock ranks better across the screener's combined criteria. This is the number that determines the stock's position in the main ranked table.",
+    range: "0-100, relative to the rest of this list - Tier A is roughly the top of the range, Tier F the bottom.",
+    why: "The single summary number is a useful starting point, but the real insight is in its parts - the bucket scores and individual metrics that explain WHY a stock ranks where it does. A high score is a reason to look closer, not a verdict on its own.",
+  },
+};
+
 function statValueFor(metricId, c) {
   if (metricId === 'valueOpportunity') return c.valueOpportunity;
   if (metricId === 'trapRisk') return c.valueTrapRisk;
@@ -1553,9 +1710,24 @@ function buildHTML(scored, sectors, watchlist, stockDetails, metricDistributions
 '.tv-widget-container{min-height:260px}' +
 '.detail-allmetrics-section{margin-bottom:22px;padding-bottom:20px;border-bottom:1px solid var(--line)}' +
 '.all-metrics-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:0 20px}' +
-'.am-row{display:flex;justify-content:space-between;align-items:baseline;gap:10px;padding:8px 0;border-top:1px solid var(--line);font-size:13px}' +
-'.am-label{color:var(--muted)}' +
+'.am-row{display:flex;justify-content:space-between;align-items:baseline;gap:10px;padding:8px 0;border-top:1px solid var(--line);font-size:13px;cursor:pointer;transition:background .12s}' +
+'.am-row:hover{background:rgba(255,255,255,.03)}' +
+'.am-row.open{background:rgba(16,185,129,.06)}' +
+'.am-label{color:var(--muted);display:flex;align-items:center;gap:6px}' +
+'.am-label::after{content:"\\25BE";color:var(--muted);font-size:9px}' +
+'.am-row.open .am-label::after{content:"\\25B4";color:var(--accent)}' +
 '.am-value{font-weight:600;color:var(--ink);white-space:nowrap}' +
+'.am-explain{display:none;margin-top:16px;background:#0f141b;border-top:2px solid var(--accent);border-radius:10px;padding:20px 22px}' +
+'.am-explain.show{display:block}' +
+'.am-explain .exp-title{font-size:14px;font-weight:700;color:var(--accent);margin-bottom:8px}' +
+'.am-explain p{font-size:13px;line-height:1.6;color:#c9d4e3;margin:0 0 8px}' +
+'.am-explain p:last-of-type{margin-bottom:0}' +
+'.exp-row2{display:grid;grid-template-columns:1fr;gap:14px;margin-top:10px}' +
+'@media(min-width:520px){.exp-row2{grid-template-columns:1fr 1fr}}' +
+'.exp-mini{font-size:12px}' +
+'.exp-lbl{color:var(--muted);text-transform:uppercase;letter-spacing:.05em;font-size:10.5px;margin-bottom:3px}' +
+'.exp-txt{color:#c9d4e3;line-height:1.5}' +
+'.am-disc{margin-top:14px;padding:12px 14px;background:var(--bg2);border:1px solid var(--line);border-radius:8px;font-size:11.5px;color:#6e7681;line-height:1.5}' +
 '.detail-grid{display:grid;grid-template-columns:1fr;gap:22px}' +
 '@media(min-width:820px){.detail-grid{grid-template-columns:1fr 1fr}}' +
 '.news-list{list-style:none;margin:0;padding:0;max-height:280px;overflow-y:auto}' +
@@ -1783,6 +1955,7 @@ dashboardHTML +
 'var STOCK_DETAIL=' + safeJSONEmbed(stockDetails) + ';' +
 'var METRIC_DIST=' + safeJSONEmbed(metricDistributions) + ';' +
 'var STAT_METRICS=' + safeJSONEmbed(STAT_METRICS) + ';' +
+'var METRIC_EXPLANATIONS=' + safeJSONEmbed(METRIC_EXPLANATIONS) + ';' +
 'var DETAIL_BAND_COLOR=' + JSON.stringify(BAND_COLOR) + ';' +
 'function detailBandFor(pct){if(pct===null||pct===undefined)return null;if(pct>=200/3)return"good";if(pct>=100/3)return"mid";return"bad";}' +
 
@@ -1819,9 +1992,26 @@ dashboardHTML +
 'function buildAllMetricsHTML(ticker){' +
 'var d=STOCK_DETAIL[ticker];' +
 'var rows=Object.keys(STAT_METRICS).map(function(id){' +
-'return "<div class=\\"am-row\\"><span class=\\"am-label\\">"+STAT_METRICS[id].label+"</span><span class=\\"am-value\\">"+fmtStatValue(id,d.metrics[id])+"</span></div>";' +
+'return "<div class=\\"am-row\\" data-m=\\""+id+"\\"><span class=\\"am-label\\">"+STAT_METRICS[id].label+"</span><span class=\\"am-value\\">"+fmtStatValue(id,d.metrics[id])+"</span></div>";' +
 '}).join("");' +
-'return "<div class=\\"all-metrics-grid\\">"+rows+"</div>";}' +
+'return "<div class=\\"all-metrics-grid\\">"+rows+"</div>"+' +
+'"<div class=\\"am-explain\\" id=\\"amExplain\\"></div>"+' +
+'"<p class=\\"am-disc\\">Click a metric for what it means and how to read it - these explanations do not tell you whether any stock is a buy or sell. A research aid, not financial advice.</p>";}' +
+
+// Renders one metric's explanation (name/what/read/typical range/why it
+// matters) into the shared .am-explain panel below the All Metrics grid -
+// pure lookup into METRIC_EXPLANATIONS, no computation, nothing tied to
+// this specific stock's value.
+'function metricExplainHTML(id){' +
+'var e=METRIC_EXPLANATIONS[id];' +
+'if(!e)return "";' +
+'return "<div class=\\"exp-title\\">"+escapeHtml(e.name)+"</div>"+' +
+'"<p>"+escapeHtml(e.what)+"</p>"+' +
+'"<p>"+escapeHtml(e.read)+"</p>"+' +
+'"<div class=\\"exp-row2\\">"+' +
+'"<div class=\\"exp-mini\\"><div class=\\"exp-lbl\\">Typical range</div><div class=\\"exp-txt\\">"+escapeHtml(e.range)+"</div></div>"+' +
+'"<div class=\\"exp-mini\\"><div class=\\"exp-lbl\\">Why it matters</div><div class=\\"exp-txt\\">"+escapeHtml(e.why)+"</div></div>"+' +
+'"</div>";}' +
 
 // Phase 6 display layer: renders the embedded research note (if any) into
 // the panel's "Research & Analyst Reasoning" section. Pure read of
@@ -2042,7 +2232,17 @@ dashboardHTML +
 'var chartContainer=detailTr.querySelector(".stat-chart-container");' +
 'select.value="score";' +
 'renderStatChart(chartContainer,"score",ticker);' +
-'select.addEventListener("change",function(){renderStatChart(chartContainer,select.value,ticker);});}' +
+'select.addEventListener("change",function(){renderStatChart(chartContainer,select.value,ticker);});' +
+'var amExplain=detailTr.querySelector("#amExplain");' +
+'if(amExplain){detailTr.querySelectorAll(".am-row").forEach(function(row){' +
+'row.addEventListener("click",function(){' +
+'var id=row.dataset.m,wasOpen=row.classList.contains("open");' +
+'detailTr.querySelectorAll(".am-row").forEach(function(r){r.classList.remove("open");});' +
+'if(wasOpen){amExplain.classList.remove("show");amExplain.innerHTML="";return;}' +
+'row.classList.add("open");' +
+'amExplain.innerHTML=metricExplainHTML(id);' +
+'amExplain.classList.add("show");' +
+'});});}}' +
 
 // Closing fades the panel out, then fully removes the <tr> once the CSS
 // transition finishes (220ms, see .detail-wrap) - opacity:0 alone does NOT
