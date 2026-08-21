@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-19T22:42:31.261Z"
+    "updatedAt": "2026-08-21T13:08:52.792Z"
   },
   "trades": [
     {
@@ -1057,6 +1057,45 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf|FCX|2026-07-07|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "FCX",
+      "member": "Ro Khanna",
+      "district": "CA17",
+      "assetDescription": "Freeport-McMoRan Inc",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-07-07",
+      "disclosureDate": "2026-08-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf|WMT|2026-07-07|Purchase|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "WMT",
+      "member": "Ro Khanna",
+      "district": "CA17",
+      "assetDescription": "Walmart Inc",
+      "type": "Purchase",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-07-07",
+      "disclosureDate": "2026-08-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf|APO|2026-07-07|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "APO",
+      "member": "Ro Khanna",
+      "district": "CA17",
+      "assetDescription": "Apollo Global Management Inc",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-07-07",
+      "disclosureDate": "2026-08-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf|MU|2026-07-06|Sale|$1,001 - $15,000",
       "chamber": "House",
       "ticker": "MU",
@@ -1144,6 +1183,19 @@
       "type": "Purchase",
       "amount": "$1,001 - $15,000",
       "transactionDate": "2026-07-02",
+      "disclosureDate": "2026-08-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf|TENB|2026-07-01|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "TENB",
+      "member": "Ro Khanna",
+      "district": "CA17",
+      "assetDescription": "TENABLE HOLDINGS INC",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-07-01",
       "disclosureDate": "2026-08-12",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf"
     },
