@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-24T13:10:57.871Z"
+    "updatedAt": "2026-08-25T13:09:17.976Z"
   },
   "trades": [
     {
@@ -602,6 +602,19 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116290.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf|BE|2026-07-28|Purchase|$500,001 - $1,000,000",
+      "chamber": "House",
+      "ticker": "BE",
+      "member": "Nancy Pelosi",
+      "district": "CA11",
+      "assetDescription": "Bloom Energy Corp",
+      "type": "Purchase",
+      "amount": "$500,001 - $1,000,000",
+      "transactionDate": "2026-07-28",
+      "disclosureDate": "2026-08-24",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf"
+    },
+    {
       "id": "https://efdsearch.senate.gov/search/view/ptr/c993b04b-6773-47e2-9b61-ab5dfe9e68b1/|FCX|2026-07-24|Sale|$1,001 - $15,000",
       "chamber": "Senate",
       "ticker": "FCX",
@@ -626,6 +639,45 @@
       "transactionDate": "2026-07-24",
       "disclosureDate": "2026-08-10",
       "link": "https://efdsearch.senate.gov/search/view/ptr/c993b04b-6773-47e2-9b61-ab5dfe9e68b1/"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf|INTC|2026-07-24|Purchase|$500,001 - $1,000,000",
+      "chamber": "House",
+      "ticker": "INTC",
+      "member": "Nancy Pelosi",
+      "district": "CA11",
+      "assetDescription": "Intel Corp",
+      "type": "Purchase",
+      "amount": "$500,001 - $1,000,000",
+      "transactionDate": "2026-07-24",
+      "disclosureDate": "2026-08-24",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf|INTC|2026-07-24|Purchase|$250,001 - $500,000",
+      "chamber": "House",
+      "ticker": "INTC",
+      "member": "Nancy Pelosi",
+      "district": "CA11",
+      "assetDescription": "Intel Corp",
+      "type": "Purchase",
+      "amount": "$250,001 - $500,000",
+      "transactionDate": "2026-07-24",
+      "disclosureDate": "2026-08-24",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf|BE|2026-07-24|Purchase|$1,000,001 - $5,000,000",
+      "chamber": "House",
+      "ticker": "BE",
+      "member": "Nancy Pelosi",
+      "district": "CA11",
+      "assetDescription": "Bloom Energy Corp",
+      "type": "Purchase",
+      "amount": "$1,000,001 - $5,000,000",
+      "transactionDate": "2026-07-24",
+      "disclosureDate": "2026-08-24",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf"
     },
     {
       "id": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/|SPYM|2026-07-23|Purchase|$1,001 - $15,000",
@@ -673,6 +725,19 @@
       "member": "Ro Khanna",
       "district": "CA17",
       "assetDescription": "Albertsons Cos Inc",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-07-23",
+      "disclosureDate": "2026-08-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf|ZBH|2026-07-23|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "ZBH",
+      "member": "Ro Khanna",
+      "district": "CA17",
+      "assetDescription": "Zimmer Biomet Holdings Inc",
       "type": "Sale",
       "amount": "$1,001 - $15,000",
       "transactionDate": "2026-07-23",
@@ -756,6 +821,19 @@
       "transactionDate": "2026-07-17",
       "disclosureDate": "2026-08-12",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035203.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf|PENN|2026-07-16|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "PENN",
+      "member": "Ro Khanna",
+      "district": "CA17",
+      "assetDescription": "Penn National Gaming Inc",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-07-16",
+      "disclosureDate": "2026-08-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116308.pdf|CRM|2026-07-14|Sale|$15,001 - $50,000",
@@ -1187,6 +1265,19 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf|ETN|2026-07-07|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "ETN",
+      "member": "Ro Khanna",
+      "district": "CA17",
+      "assetDescription": "Eaton Corp PLC",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-07-07",
+      "disclosureDate": "2026-08-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf|MU|2026-07-06|Sale|$1,001 - $15,000",
       "chamber": "House",
       "ticker": "MU",
@@ -1445,6 +1536,188 @@
       "transactionDate": "2025-12-16",
       "disclosureDate": "2026-08-17",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035130.pdf"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/|VNQI|2025-11-21|Sale|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "VNQI",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "Vanguard Global ex-U.S. Real Estate ETF",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2025-11-21",
+      "disclosureDate": "2026-08-24",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/|FTGC|2025-11-21|Sale|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "FTGC",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "FIRST TR GLOBAL TACTICAL CMD",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2025-11-21",
+      "disclosureDate": "2026-08-24",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/|EIPI|2025-11-21|Sale|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "EIPI",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "FT EGY  PARTNER ENHANCED ETF",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2025-11-21",
+      "disclosureDate": "2026-08-24",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/|LLY|2025-11-21|Sale|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "LLY",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "Eli Lilly and Co",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2025-11-21",
+      "disclosureDate": "2026-08-24",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/|VEA|2025-11-21|Sale|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "VEA",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "Vanguard FTSE Developed Markets ETF",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2025-11-21",
+      "disclosureDate": "2026-08-24",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/|FISV|2025-11-21|Sale|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "FISV",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "Fiserv Inc",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2025-11-21",
+      "disclosureDate": "2026-08-24",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/|IWM|2025-11-21|Sale|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "IWM",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "iShares Trust - iShares Russell 2000 ETF",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2025-11-21",
+      "disclosureDate": "2026-08-24",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/|TPYP|2025-11-21|Sale|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "TPYP",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "Managed Portfolio Series Tortoise North American Pipeline Fund",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2025-11-21",
+      "disclosureDate": "2026-08-24",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/|IVV|2025-11-21|Sale|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "IVV",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "iShares Core S&P 500 ETF",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2025-11-21",
+      "disclosureDate": "2026-08-24",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/|RNWGX|2025-11-20|Sale|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "RNWGX",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "NEW WORLD FUND INC",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2025-11-20",
+      "disclosureDate": "2026-08-24",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/|EFA|2025-11-20|Sale|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "EFA",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "iShares MSCI EAFE ETF",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2025-11-20",
+      "disclosureDate": "2026-08-24",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/|GEM|2025-11-20|Sale|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "GEM",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "Goldman Sachs ActiveBeta Emerging Markets Equity ETF",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2025-11-20",
+      "disclosureDate": "2026-08-24",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/|CRM|2025-11-13|Sale|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "CRM",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "salesforce.com Inc",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2025-11-13",
+      "disclosureDate": "2026-08-24",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/|AAXJ|2025-11-06|Sale|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "AAXJ",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "iShares MSCI All Country Asia ex Japan ETF",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2025-11-06",
+      "disclosureDate": "2026-08-24",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf|MSTR|2025-10-21|Sale|$15,001 - $50,000",
