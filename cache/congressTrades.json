@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-25T13:09:17.976Z"
+    "updatedAt": "2026-08-26T13:14:09.352Z"
   },
   "trades": [
     {
@@ -1273,6 +1273,32 @@
       "assetDescription": "Eaton Corp PLC",
       "type": "Purchase",
       "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-07-07",
+      "disclosureDate": "2026-08-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf|WY|2026-07-07|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "WY",
+      "member": "Ro Khanna",
+      "district": "CA17",
+      "assetDescription": "Weyerhaeuser Co",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-07-07",
+      "disclosureDate": "2026-08-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf|ADSK|2026-07-07|Sale|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "ADSK",
+      "member": "Ro Khanna",
+      "district": "CA17",
+      "assetDescription": "AUTODESK Inc",
+      "type": "Sale",
+      "amount": "$15,001 - $50,000",
       "transactionDate": "2026-07-07",
       "disclosureDate": "2026-08-12",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf"
