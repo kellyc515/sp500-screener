@@ -5,6 +5,14 @@
 .claude/
 .DS_Store
 
+# Agent tooling scaffolding (local dev aid, not part of the app)
+graphify-out/
+.agents/
+.codex/
+.freebuff/
+AGENTS.md
+CLAUDE.md
+
 # Dependencies and temporary files
 node_modules/
 *.tmp
