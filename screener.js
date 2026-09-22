@@ -3262,13 +3262,26 @@ function todayDateStr() {
 }
 
 function buildSnapshot(scored, dateStr) {
+  // `scored` (from scoreUniverse(loadCompanies())) never carries a price field -
+  // companies.json doesn't have one. The current price lives in cache/quote.json
+  // (per-ticker) and cache/benchmark.json (SPY), so both are read here rather
+  // than threaded through as extra params - keeps this self-contained and
+  // leaves the call site in main() untouched.
+  const quoteCache = readJSONSafe(path.join(__dirname, 'cache', 'quote.json')) || {};
+  const benchmarkData = readJSONSafe(path.join(__dirname, 'cache', 'benchmark.json')) || {};
+
   const companies = {};
   for (const c of scored) {
     const entry = {};
     for (const f of HISTORY_FIELDS) entry[f] = c[f] !== undefined ? c[f] : null;
+    const q = quoteCache[c.ticker];
+    entry.price = q && q.price != null ? q.price : null;
+    entry.priceAsOf = q && q.updatedAt != null ? q.updatedAt : null;
     companies[c.ticker] = entry;
   }
-  return { date: dateStr, generatedAt: new Date().toISOString(), companies };
+  const spyPrice = benchmarkData.spy && benchmarkData.spy.price != null ? benchmarkData.spy.price : null;
+  const spyPriceAsOf = benchmarkData.spy && benchmarkData.spy.updatedAt != null ? benchmarkData.spy.updatedAt : null;
+  return { date: dateStr, generatedAt: new Date().toISOString(), spyPrice, spyPriceAsOf, companies };
 }
 
 // Same atomic temp+rename pattern as writeCacheAtomic() in fetchData.js.
