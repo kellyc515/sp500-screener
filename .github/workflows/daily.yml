@@ -2,22 +2,23 @@ name: Daily Refresh
 
 on:
   workflow_dispatch: {}
-  # Targets ~8:10 AM America/New_York, weekdays only. GitHub cron is UTC-only
+  # Targets ~6:10 AM America/New_York, weekdays only. GitHub cron is UTC-only
   # with no timezone/DST awareness, and US DST transition dates (2nd Sunday
   # of March / 1st Sunday of November) shift by about a week every year - a
   # cron split on fixed months/days would silently drift wrong near those
   # transitions without yearly maintenance. Instead: fire at BOTH possible
-  # UTC offsets every weekday (12:10 UTC covers EDT/UTC-4, 13:10 covers
-  # EST/UTC-5). GitHub's scheduled triggers are also best-effort and often
-  # fire 30-60+ min late, so the "Guard" step below accepts a wide
-  # ~7:45-11:00 AM America/New_York window (wide enough that BOTH cron
-  # firings can land inside it on the same morning) and separately enforces
-  # "only one real run per calendar day" by checking whether origin/state
-  # was already updated today before doing any work - see the guard step's
-  # own comment for exactly how.
+  # UTC offsets every weekday (10:10 UTC covers EDT/UTC-4, 11:10 covers
+  # EST/UTC-5). Moved 2 hours earlier than the previous 8:10 AM ET target
+  # purely to buy more slack against GitHub's scheduled triggers being
+  # best-effort and often firing 30-60+ min late - see the guard step below
+  # for why that slack matters (a run delayed past ~8 PM America/New_York
+  # crosses into "tomorrow" by the guard's UTC-day check). The guard no
+  # longer restricts execution to a specific local-time window; the sole
+  # gate for scheduled runs is "has origin/state already been updated today
+  # (UTC)" - see the guard step's own comment for exactly how.
   schedule:
-    - cron: '10 12 * * 1-5'
-    - cron: '10 13 * * 1-5'
+    - cron: '10 10 * * 1-5'
+    - cron: '10 11 * * 1-5'
 
 permissions:
   contents: write # needed for the state-branch push in "Publish state"
@@ -33,26 +34,33 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # First and cheapest step, before checkout, so a skip costs only a
-      # few seconds. Three layers, checked in order:
+      # few seconds. Two layers, checked in order:
       # 1. Manual (workflow_dispatch) runs bypass everything below and
       #    always proceed - a human clicking "Run workflow" wants it to run
       #    right now, not be silently skipped for any reason.
-      # 2. Scheduled runs only proceed if the real, live America/New_York
-      #    clock is within ~7:45-11:00 AM - wide enough to absorb GitHub's
-      #    typical scheduling delay (often 30-60+ min), covering both cron
-      #    offsets and their late redeliveries.
-      # 3. That wide window means BOTH cron firings (12:10 and 13:10 UTC)
-      #    can land inside it on the same morning, so a second check asks
-      #    GitHub's API for origin/state's latest commit date: if state was
-      #    already updated today (by either firing, or an earlier manual
-      #    run), skip - the work is already done, so there is nothing this
-      #    run could add, and running again would just be a wasted/
-      #    duplicate refresh. This can't double-run: the FIRST firing to
-      #    reach this check each day sees no commit dated today and
-      #    proceeds; by the time it finishes, "Publish state" has pushed a
-      #    same-day commit, so any later firing (the other cron offset, a
-      #    retry, a redelivery) sees that commit and skips.
-      - name: Guard - once per day, near the intended local time
+      # 2. Scheduled runs proceed unless origin/state was already updated
+      #    "today" - checked entirely in UTC (both `date -u` below and
+      #    GitHub API's commit.committer.date are UTC, never America/
+      #    New_York). This is what prevents a double run: both cron offsets
+      #    (10:10 and 11:10 UTC) land inside the same UTC calendar day on a
+      #    normal weekday, so the FIRST firing to reach this check each day
+      #    sees no commit dated today (UTC) and proceeds; by the time it
+      #    finishes, "Publish state" has pushed a same-UTC-day commit, so
+      #    the other offset (or a retry, or a late redelivery) sees that
+      #    commit and skips - as long as the whole run finishes before UTC
+      #    midnight.
+      #
+      #    Caveat: because the check is UTC-day based while the cron targets
+      #    are Eastern-morning, a SEVERELY delayed run that doesn't actually
+      #    execute until after ~8 PM EDT / 7 PM EST (i.e. past UTC midnight,
+      #    already "tomorrow" in UTC) pushes its state commit dated with
+      #    tomorrow's UTC date. That consumes tomorrow's dedup slot before
+      #    tomorrow's real cron fires, so tomorrow's scheduled run is then
+      #    skipped, not doubled - a day gets silently dropped rather than
+      #    refreshed twice. Moving the cron 2 hours earlier (see `on:`
+      #    above) lengthens GitHub's typical 30-60+ minute delay budget
+      #    before this can happen; it doesn't eliminate the possibility.
+      - name: Guard - once per day (UTC), skip if origin/state already refreshed today
         id: time_guard
         env:
           GH_TOKEN: ${{ github.token }}
@@ -64,23 +72,15 @@ jobs:
             exit 0
           fi
 
-          local_time=$(TZ="America/New_York" date +%H%M)
-          echo "Current America/New_York local time: $local_time"
-          if [ "$local_time" -lt "0745" ] || [ "$local_time" -gt "1100" ]; then
-            echo "proceed=false" >> "$GITHUB_OUTPUT"
-            echo "Outside the intended ~7:45-11:00 America/New_York window - too early/late to be either cron offset. Skipping without error."
-            exit 0
-          fi
-
           today_utc=$(date -u +%Y-%m-%d)
           last_state_date=$(gh api "repos/${{ github.repository }}/commits/state" --jq '.commit.committer.date[0:10]')
           echo "Today (UTC): $today_utc | Latest origin/state commit date (UTC): $last_state_date"
           if [ "$last_state_date" = "$today_utc" ]; then
             echo "proceed=false" >> "$GITHUB_OUTPUT"
-            echo "origin/state was already updated today - a run already completed. Skipping to avoid a duplicate refresh."
+            echo "origin/state was already updated today (UTC) - a run already completed. Skipping to avoid a duplicate refresh."
           else
             echo "proceed=true" >> "$GITHUB_OUTPUT"
-            echo "Within window and origin/state not yet updated today - proceeding."
+            echo "origin/state not yet updated today (UTC) - proceeding."
           fi
 
       - name: Checkout main
