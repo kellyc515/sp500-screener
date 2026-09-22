@@ -73,9 +73,26 @@ jobs:
           fi
 
           today_utc=$(date -u +%Y-%m-%d)
-          last_state_date=$(gh api "repos/${{ github.repository }}/commits/state" --jq '.commit.committer.date[0:10]')
+          last_state_commit=$(gh api "repos/${{ github.repository }}/commits/state" --jq '.commit.committer.date')
+          last_state_date=${last_state_commit:0:10}
           echo "Today (UTC): $today_utc | Latest origin/state commit date (UTC): $last_state_date"
           if [ "$last_state_date" = "$today_utc" ]; then
+            # Tripwire, not an expected path: matching UTC dates should always
+            # mean origin/state was updated well under 24h ago, given this
+            # guard's own logic - so age here should never approach 48h. If it
+            # somehow does (clock skew, an unusual manual commit to the state
+            # branch, a future bug in this comparison), that means the "same
+            # date = fresh" assumption this skip relies on is wrong, so fail
+            # loudly instead of quietly skipping - a real gap should show red,
+            # not a green run that silently did nothing.
+            now_epoch=$(date -u +%s)
+            last_epoch=$(date -u -d "$last_state_commit" +%s)
+            age_hours=$(( (now_epoch - last_epoch) / 3600 ))
+            echo "origin/state last commit age: ${age_hours}h"
+            if [ "$age_hours" -gt 48 ]; then
+              echo "::error::Guard tripwire - about to skip as a same-day dedup, but origin/state's newest commit is ${age_hours}h old (>48h). That shouldn't be possible if it's genuinely dated today (UTC) - failing loudly instead of silently skipping, since a weekday refresh may actually have been missed."
+              exit 1
+            fi
             echo "proceed=false" >> "$GITHUB_OUTPUT"
             echo "origin/state was already updated today (UTC) - a run already completed. Skipping to avoid a duplicate refresh."
           else
