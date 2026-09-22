@@ -1,0 +1,50 @@
+name: State Freshness Watchdog
+
+# Independent, read-only check that the Daily Refresh workflow (daily.yml)
+# is actually publishing to origin/state on schedule. Runs on its own cron,
+# offset from daily.yml's 10:10/11:10 UTC firings, so a gap in daily.yml -
+# including "it silently never ran at all" - gets its own independent
+# chance to be noticed. This workflow never runs fetchData.js/screener.js
+# and never writes to any branch; it only reads origin/state's newest
+# commit date via the GitHub API and fails loudly if that commit looks too
+# old.
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # 18:00 UTC daily (~2 PM EDT / 1 PM EST), including weekends - well
+    # clear of daily.yml's 10:10/11:10 UTC firings and any reasonable delay
+    # on top of them, so a normal weekday's refresh has long since landed
+    # by the time this checks. Runs every day (not just weekdays) since
+    # staleness accumulates across weekends too, and a 72h threshold
+    # already gives Friday's refresh through the weekend before flagging.
+    - cron: '0 18 * * *'
+
+permissions:
+  contents: read # read-only: only queries commit metadata, never writes
+
+jobs:
+  check-state-freshness:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check how old origin/state's newest commit is
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          MAX_AGE_HOURS=72
+
+          last_state_commit=$(gh api "repos/${{ github.repository }}/commits/state" --jq '.commit.committer.date')
+          now_epoch=$(date -u +%s)
+          last_epoch=$(date -u -d "$last_state_commit" +%s)
+          age_hours=$(( (now_epoch - last_epoch) / 3600 ))
+
+          echo "origin/state newest commit: $last_state_commit"
+          echo "Age: ${age_hours}h (threshold: ${MAX_AGE_HOURS}h)"
+
+          if [ "$age_hours" -gt "$MAX_AGE_HOURS" ]; then
+            echo "::error::Daily refresh has not published to origin/state in ${age_hours} hours (threshold ${MAX_AGE_HOURS}h) - the Daily Refresh workflow may not be running."
+            exit 1
+          fi
+
+          echo "OK - origin/state was updated within the last ${MAX_AGE_HOURS}h."
