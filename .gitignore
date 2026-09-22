@@ -23,6 +23,7 @@ node_modules/
 cache/
 companies.json
 history/
+prices/
 screener-report.html
 research-queue.json
 research/
