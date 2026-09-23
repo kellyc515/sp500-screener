@@ -29,6 +29,10 @@ research-queue.json
 research/
 watchlist.json
 
+# One-off backtest tooling output (scripts/reconstructScores.js, scripts/backtest.js)
+secfacts/
+scores/
+
 # Finished one-time migration scripts (already baked into their target file)
 add-growth-metrics.js
 
