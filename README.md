@@ -129,3 +129,49 @@ a separate orphan `state` git branch rather than `main`; each run hydrates
 from it before fetching and pushes updates back afterward. The published
 report itself is a single static HTML file with all data baked in at
 generation time — no API keys or backend are ever exposed to the browser.
+
+---
+
+## Backtest
+
+`scripts/reconstructScores.js` rebuilds what the composite score would have
+been on each monthly rebalance date since 2024-10-01, using only data that
+was actually knowable as of that date (SEC fundamentals selected by filing
+date, prices from a Polygon backfill). `scripts/backtest.js` then runs a
+simple strategy against those reconstructed scores: rebalance monthly, buy
+the top 20 stocks by composite, equal-weighted, hold until the next
+rebalance, benchmarked against SPY over the same dates using the same
+entry/exit-price method. The results below cover the primary period
+(January 2025 – September 2026, 20 completed monthly holding periods —
+the window where the Momentum bucket is actually populated), shown both
+without transaction costs and with a 10 bps round-trip cost assumption.
+
+| | Total return | Max drawdown | Win rate vs SPY | Mean turnover |
+|---|---|---|---|---|
+| Strategy (0 bps) | 30.00% | -4.80% | 55% (11/20 months) | 3.9 / 20 holdings per rebalance |
+| Strategy (10 bps) | 29.03% | -4.93% | 55% (11/20 months) | 3.9 / 20 holdings per rebalance |
+| SPY (benchmark) | 30.30% | -6.57% | — | — |
+
+### Limitations
+
+- **Survivorship bias.** The universe is today's 503 S&P 500 constituents —
+  companies that were removed from the index at any point during the
+  backtest window are absent entirely, which tends to flatter historical
+  performance versus what an investor actually holding the index over that
+  window would have experienced.
+- **80% of scoring weight reconstructed, not 100%.** The Sentiment
+  (news + analyst) and Risk (beta) buckets can't be rebuilt historically —
+  Finnhub only exposes a live snapshot for those, with no archive — so
+  every reconstructed composite rests on Valuation, Quality, Growth, and
+  Momentum only.
+- **Point-in-time integrity, not point-in-time perfection.** SEC
+  fundamentals are selected by each fact's `filed` date, never the
+  reporting period date, so no filing is ever used before it was actually
+  public — but `ret3m`/`ret6m` are a best-effort trailing-return analog
+  from Polygon closes, not a guaranteed match to Finnhub's own undisclosed
+  methodology.
+- **Short sample, one market regime.** 20 completed months (January 2025 –
+  September 2026) is not enough data to draw a statistically confident
+  conclusion, and it covers a single market environment — there's no
+  guarantee these results would hold across a recession, a rate-cut cycle,
+  or a different sector-leadership regime.
