@@ -93,18 +93,34 @@ function ensureCikMap() {
  * fallback behavior, which is still correct for the plain-USD tags that were
  * never actually broken.
  */
-function unitsArray(tag, preferredUnit) {
+// asOfMs (optional): when supplied, drops every fact filed after that
+// instant before any downstream selection logic ever sees it - this is the
+// single choke point every other helper below funnels through, so a
+// point-in-time cutoff here propagates to all of them automatically.
+// Omitted (undefined) = today's exact original behavior, unchanged; every
+// existing fetchData.js call site passes nothing and is byte-for-byte
+// unaffected. Added for scripts/reconstructScores.js's point-in-time
+// backtest, which must never select a fact using knowledge SEC didn't
+// publish until after the reconstruction date.
+function unitsArray(tag, preferredUnit, asOfMs) {
   if (!tag || !tag.units) return null;
   const arr = preferredUnit
     ? tag.units[preferredUnit]
     : (tag.units.USD || Object.values(tag.units)[0]);
-  return Array.isArray(arr) && arr.length ? arr : null;
+  if (!Array.isArray(arr) || !arr.length) return null;
+  if (!Number.isFinite(asOfMs)) return arr;
+  const filtered = arr.filter((row) => {
+    if (!row || !row.filed) return false;
+    const filedMs = new Date(row.filed).getTime();
+    return Number.isFinite(filedMs) && filedMs <= asOfMs;
+  });
+  return filtered.length ? filtered : null;
 }
 
 // Point-in-time figures (balance-sheet items like equity, debt, liabilities):
 // most recent filed value regardless of form.
-function latestInstant(tag, preferredUnit) {
-  const arr = unitsArray(tag, preferredUnit);
+function latestInstant(tag, preferredUnit, asOfMs) {
+  const arr = unitsArray(tag, preferredUnit, asOfMs);
   if (!arr) return null;
   const sorted = [...arr].sort((a, b) => (a.end < b.end ? 1 : -1));
   return num(sorted[0].val);
@@ -113,8 +129,8 @@ function latestInstant(tag, preferredUnit) {
 // Duration figures (income-statement items like net income): prefer a clean
 // annual (10-K, full fiscal year) total over a quarterly one, so we don't
 // understate the ratio by dividing an annual denominator by a quarterly figure.
-function latestAnnual(tag, preferredUnit) {
-  const arr = unitsArray(tag, preferredUnit);
+function latestAnnual(tag, preferredUnit, asOfMs) {
+  const arr = unitsArray(tag, preferredUnit, asOfMs);
   if (!arr) return null;
   const annual = arr.filter((e) => e.fp === 'FY' && e.form && e.form.startsWith('10-K'));
   const pool = annual.length ? annual : arr;
@@ -123,8 +139,8 @@ function latestAnnual(tag, preferredUnit) {
 }
 
 
-function annualSeries(tag, preferredUnit) {
-  const arr = unitsArray(tag, preferredUnit);
+function annualSeries(tag, preferredUnit, asOfMs) {
+  const arr = unitsArray(tag, preferredUnit, asOfMs);
   if (!arr) return [];
 
   const annual = arr
@@ -189,7 +205,7 @@ function basicShareChangeFromTag(tag, asOfMs = Date.now()) {
     prior: null,
     rawValue: null,
   };
-  const rows = unitsArray(tag, 'shares');
+  const rows = unitsArray(tag, 'shares', asOfMs);
   if (!rows) {
     audit.reason = 'missing annual basic weighted-average shares';
     return { value: null, audit };
@@ -290,11 +306,11 @@ function basicShareChangeFromTag(tag, asOfMs = Date.now()) {
   return { value: +rawValue.toFixed(4), audit };
 }
 
-function firstAnnualSeries(usGaap, tagNames, preferredUnit) {
+function firstAnnualSeries(usGaap, tagNames, preferredUnit, asOfMs) {
   const candidates = [];
 
   for (const tagName of tagNames) {
-    const series = annualSeries(usGaap[tagName], preferredUnit);
+    const series = annualSeries(usGaap[tagName], preferredUnit, asOfMs);
     if (!series.length) continue;
 
     candidates.push({
@@ -326,7 +342,7 @@ function firstAnnualSeries(usGaap, tagNames, preferredUnit) {
 // Some may represent only a small component of total revenue (common with REITs).
 // For each exact start/end period, keep the largest positive revenue observation,
 // which is generally the consolidated top-line figure we want for screening.
-function bestRevenueSeries(usGaap) {
+function bestRevenueSeries(usGaap, asOfMs) {
   const revenueTags = [
     'RevenueFromContractWithCustomerExcludingAssessedTax',
     'SalesRevenueNet',
@@ -336,7 +352,7 @@ function bestRevenueSeries(usGaap) {
   const byPeriod = new Map();
 
   for (const tagName of revenueTags) {
-    const series = annualSeries(usGaap[tagName], 'USD');
+    const series = annualSeries(usGaap[tagName], 'USD', asOfMs);
 
     for (const row of series) {
       if (
@@ -374,9 +390,9 @@ function bestRevenueSeries(usGaap) {
 // assessed tax is required for issuers such as NCLH, but keeping it out of
 // bestRevenueSeries() ensures this addition cannot change the existing
 // revenueGrowth scoring input.
-function bestQualityMetricRevenueSeries(usGaap) {
-  const base = bestRevenueSeries(usGaap);
-  const includingTax = annualSeries(usGaap.RevenueFromContractWithCustomerIncludingAssessedTax, 'USD')
+function bestQualityMetricRevenueSeries(usGaap, asOfMs) {
+  const base = bestRevenueSeries(usGaap, asOfMs);
+  const includingTax = annualSeries(usGaap.RevenueFromContractWithCustomerIncludingAssessedTax, 'USD', asOfMs)
     .map((row) => ({ ...row, sourceTag: 'RevenueFromContractWithCustomerIncludingAssessedTax' }));
   const byPeriod = new Map();
   for (const row of [...base, ...includingTax]) {
@@ -423,9 +439,9 @@ function matchAnnualSeries(numeratorSeries, denominatorSeries) {
   );
 }
 
-function matchedAnnualPeriods(usGaap, numeratorTags, denominatorTags, preferredUnit) {
-  const numeratorSeries = firstAnnualSeries(usGaap, numeratorTags, preferredUnit);
-  const denominatorSeries = firstAnnualSeries(usGaap, denominatorTags, preferredUnit);
+function matchedAnnualPeriods(usGaap, numeratorTags, denominatorTags, preferredUnit, asOfMs) {
+  const numeratorSeries = firstAnnualSeries(usGaap, numeratorTags, preferredUnit, asOfMs);
+  const denominatorSeries = firstAnnualSeries(usGaap, denominatorTags, preferredUnit, asOfMs);
 
   if (!numeratorSeries.length || !denominatorSeries.length) return [];
 
@@ -525,10 +541,10 @@ function firstAvailable(usGaap, tagNames, fn) {
   return null;
 }
 
-function sumLatestInstant(usGaap, tagNames, preferredUnit) {
+function sumLatestInstant(usGaap, tagNames, preferredUnit, asOfMs) {
   let sum = 0, found = false;
   for (const t of tagNames) {
-    const v = latestInstant(usGaap[t], preferredUnit);
+    const v = latestInstant(usGaap[t], preferredUnit, asOfMs);
     if (v !== null) { sum += v; found = true; }
   }
   return found ? sum : null;
@@ -555,8 +571,8 @@ function annualFactForPeriod(series, period, preferredAccn, preferLargest = fals
   return pool[0];
 }
 
-function instantFactAt(tag, preferredUnit, targetDate, preferredAccn) {
-  const arr = unitsArray(tag, preferredUnit);
+function instantFactAt(tag, preferredUnit, targetDate, preferredAccn, asOfMs) {
+  const arr = unitsArray(tag, preferredUnit, asOfMs);
   if (!arr || !targetDate) return null;
   const targetMs = new Date(targetDate).getTime();
   if (!Number.isFinite(targetMs)) return null;
@@ -584,9 +600,9 @@ function instantFactAt(tag, preferredUnit, targetDate, preferredAccn) {
   return candidates[0] || null;
 }
 
-function firstInstantFactAt(usGaap, tagNames, targetDate, preferredAccn) {
+function firstInstantFactAt(usGaap, tagNames, targetDate, preferredAccn, asOfMs) {
   for (const tagName of tagNames) {
-    const fact = instantFactAt(usGaap[tagName], 'USD', targetDate, preferredAccn);
+    const fact = instantFactAt(usGaap[tagName], 'USD', targetDate, preferredAccn, asOfMs);
     if (fact) return { ...fact, tagName };
   }
   return null;
@@ -598,9 +614,9 @@ function debtValuesReconcile(total, components) {
   return Math.abs(total - componentTotal) <= tolerance;
 }
 
-function selectDebtAt(usGaap, targetDate, preferredAccn) {
+function selectDebtAt(usGaap, targetDate, preferredAccn, asOfMs) {
   const get = (tagName) => {
-    const fact = instantFactAt(usGaap[tagName], 'USD', targetDate, preferredAccn);
+    const fact = instantFactAt(usGaap[tagName], 'USD', targetDate, preferredAccn, asOfMs);
     return fact ? { ...fact, tagName } : null;
   };
 
@@ -708,14 +724,14 @@ function selectDebtAt(usGaap, targetDate, preferredAccn) {
   };
 }
 
-function balanceInputsAt(usGaap, targetDate, preferredAccn) {
-  const debt = selectDebtAt(usGaap, targetDate, preferredAccn);
+function balanceInputsAt(usGaap, targetDate, preferredAccn, asOfMs) {
+  const debt = selectDebtAt(usGaap, targetDate, preferredAccn, asOfMs);
   const equity = firstInstantFactAt(usGaap, [
     'StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest',
     'StockholdersEquity',
-  ], targetDate, preferredAccn);
-  const cash = firstInstantFactAt(usGaap, ['CashAndCashEquivalentsAtCarryingValue'], targetDate, preferredAccn);
-  const assets = firstInstantFactAt(usGaap, ['Assets'], targetDate, preferredAccn);
+  ], targetDate, preferredAccn, asOfMs);
+  const cash = firstInstantFactAt(usGaap, ['CashAndCashEquivalentsAtCarryingValue'], targetDate, preferredAccn, asOfMs);
+  const assets = firstInstantFactAt(usGaap, ['Assets'], targetDate, preferredAccn, asOfMs);
 
   const investedCapital = Number.isFinite(debt.value) && equity && cash
     ? debt.value + equity.value - cash.value
@@ -727,8 +743,8 @@ function balanceInputsAt(usGaap, targetDate, preferredAccn) {
 // Recent balance-sheet candidates for display-only Net Debt/EBITDA. The
 // orchestrator aligns one of these exact SEC dates to Finnhub's latest EBITDA
 // quarter. Keep rejected candidates too so a null result remains auditable.
-function recentNetDebtBalanceCandidates(usGaap, nowMs = Date.now()) {
-  const assetsRows = unitsArray(usGaap.Assets, 'USD') || [];
+function recentNetDebtBalanceCandidates(usGaap, nowMs = Date.now(), asOfMs) {
+  const assetsRows = unitsArray(usGaap.Assets, 'USD', asOfMs) || [];
   const byDate = new Map();
   for (const row of assetsRows) {
     if (!row || !row.end || !['10-Q', '10-K'].includes(row.form) || !Number.isFinite(num(row.val))) continue;
@@ -749,7 +765,7 @@ function recentNetDebtBalanceCandidates(usGaap, nowMs = Date.now()) {
     .sort((a, b) => String(b.date).localeCompare(String(a.date)))
     .slice(0, 8)
     .map((anchor) => {
-      const balance = balanceInputsAt(usGaap, anchor.date, anchor.accession);
+      const balance = balanceInputsAt(usGaap, anchor.date, anchor.accession, asOfMs);
       const debtFactsShareDate = Array.isArray(balance.debt.facts) &&
         balance.debt.facts.every((fact) => fact.end === anchor.date);
       const cashSharesDate = balance.cash && balance.cash.end === anchor.date;
@@ -803,6 +819,24 @@ async function fetchFundamentals(sym, options = {}) {
       fetchCompanyFacts(entry.cik),
     ]);
 
+  return deriveFundamentals(submissions, facts, options);
+}
+
+// Pure derivation, no network calls - split out of fetchFundamentals() so
+// scripts/reconstructScores.js can fetch a ticker's raw submissions/
+// companyfacts ONCE and re-derive point-in-time fundamentals for many
+// rebalance dates against the same in-memory data (SEC's companyfacts
+// response already contains every filing ever made - one fetch covers every
+// date), instead of re-fetching that full history on every date.
+// options.asOfMs (optional, ms epoch): point-in-time cutoff. Every fact
+// filed after this instant is excluded before any selection logic runs
+// (see unitsArray()) - undefined/omitted preserves the exact original
+// "use whatever's freshest right now" behavior fetchData.js relies on.
+function deriveFundamentals(submissions, facts, options = {}) {
+  const displayMetricsOnly = options.displayMetricsOnly === true;
+  const asOfMs = Number.isFinite(options.asOfMs) ? options.asOfMs : undefined;
+  const nowMs = asOfMs !== undefined ? asOfMs : Date.now();
+
   const usGaap = facts && facts.facts && facts.facts['us-gaap'];
   const dei = facts && facts.facts && facts.facts['dei'];
   const rawSic = displayMetricsOnly ? options.sic : submissions && submissions.sic;
@@ -843,16 +877,16 @@ async function fetchFundamentals(sym, options = {}) {
   if (usGaap) {
     const shareChangeResult = basicShareChangeFromTag(
       usGaap.WeightedAverageNumberOfSharesOutstandingBasic,
-      Number.isFinite(options.asOfMs) ? options.asOfMs : Date.now()
+      nowMs
     );
     basicShareChange = shareChangeResult.value;
     basicShareChangeAudit = shareChangeResult.audit;
-    netDebtBalanceCandidates = recentNetDebtBalanceCandidates(usGaap);
-    const netIncome = firstAvailable(usGaap, ['NetIncomeLoss', 'ProfitLoss'], (tag) => latestAnnual(tag, 'USD'));
+    netDebtBalanceCandidates = recentNetDebtBalanceCandidates(usGaap, nowMs, asOfMs);
+    const netIncome = firstAvailable(usGaap, ['NetIncomeLoss', 'ProfitLoss'], (tag) => latestAnnual(tag, 'USD', asOfMs));
     const equity = firstAvailable(
       usGaap,
       ['StockholdersEquity', 'StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest'],
-      (tag) => latestInstant(tag, 'USD')
+      (tag) => latestInstant(tag, 'USD', asOfMs)
     );
     // ROE and Debt/Equity are not economically meaningful for this scoring
     // model when shareholder equity is zero or negative. Keep them null rather
@@ -870,7 +904,8 @@ async function fetchFundamentals(sym, options = {}) {
     const debt = sumLatestInstant(
       usGaap,
       ['LongTermDebtNoncurrent', 'LongTermDebtCurrent', 'ShortTermBorrowings', 'DebtCurrent'],
-      'USD'
+      'USD',
+      asOfMs
     );
 
     // debtEquity means ACTUAL debt / shareholder equity only.
@@ -887,8 +922,8 @@ async function fetchFundamentals(sym, options = {}) {
 
 
     // Revenue growth: compare the two most recent comparable annual 10-K periods.
-    const revenueSeries = bestRevenueSeries(usGaap);
-    const qualityRevenueSeries = bestQualityMetricRevenueSeries(usGaap);
+    const revenueSeries = bestRevenueSeries(usGaap, asOfMs);
+    const qualityRevenueSeries = bestQualityMetricRevenueSeries(usGaap, asOfMs);
 
     if (revenueSeries.length >= 2) {
       revenueGrowth = growthPct(
@@ -905,7 +940,8 @@ async function fetchFundamentals(sym, options = {}) {
         'PaymentsToAcquirePropertyPlantAndEquipment',
         'PaymentsForAdditionsToPropertyPlantAndEquipment'
       ],
-      'USD'
+      'USD',
+      asOfMs
     );
 
     if (fcfPeriods.length >= 1) {
@@ -948,7 +984,8 @@ async function fetchFundamentals(sym, options = {}) {
     const operatingIncomeSeries = firstAnnualSeries(
       usGaap,
       ['OperatingIncomeLoss'],
-      'USD'
+      'USD',
+      asOfMs
     );
 
     const operatingMarginPeriods = matchAnnualSeries(
@@ -991,15 +1028,15 @@ async function fetchFundamentals(sym, options = {}) {
       };
     } else {
       const period = { start: operatingIncomeFact.start, end: operatingIncomeFact.end };
-      const taxSeries = firstAnnualSeries(usGaap, ['IncomeTaxExpenseBenefit'], 'USD');
+      const taxSeries = firstAnnualSeries(usGaap, ['IncomeTaxExpenseBenefit'], 'USD', asOfMs);
       const pretaxSeries = firstAnnualSeries(usGaap, [
         'IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest',
         'IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments',
-      ], 'USD');
+      ], 'USD', asOfMs);
       const taxFact = annualFactForPeriod(taxSeries, period, operatingIncomeFact.accn);
       const pretaxFact = annualFactForPeriod(pretaxSeries, period, operatingIncomeFact.accn);
-      const begin = balanceInputsAt(usGaap, priorBalanceDate(period.start), operatingIncomeFact.accn);
-      const end = balanceInputsAt(usGaap, period.end, operatingIncomeFact.accn);
+      const begin = balanceInputsAt(usGaap, priorBalanceDate(period.start), operatingIncomeFact.accn, asOfMs);
+      const end = balanceInputsAt(usGaap, period.end, operatingIncomeFact.accn, asOfMs);
       const audit = {
         reason: null,
         period,
@@ -1011,7 +1048,7 @@ async function fetchFundamentals(sym, options = {}) {
       };
 
       if (excludedQualityMetricSector) audit.reason = qualityMetricEligibilityReason;
-      else if (!annualPeriodIsCurrent(period.end)) audit.reason = 'annual period is stale or future-dated';
+      else if (!annualPeriodIsCurrent(period.end, nowMs)) audit.reason = 'annual period is stale or future-dated';
       else if (!taxFact || !pretaxFact) audit.reason = 'missing matching-period tax expense or pretax income';
       else if (!Number.isFinite(pretaxFact.value) || pretaxFact.value <= 0) audit.reason = 'pretax income is not positive';
       else if (begin.debt.reason || end.debt.reason) audit.reason = begin.debt.reason || end.debt.reason;
@@ -1044,12 +1081,12 @@ async function fetchFundamentals(sym, options = {}) {
     // Display-only annual GAAP FCF conversion versus matching-period annual
     // GAAP net income. Negative FCF is preserved when the denominator is a
     // sufficiently meaningful positive earnings base.
-    const ocfSeries = firstAnnualSeries(usGaap, ['NetCashProvidedByUsedInOperatingActivities'], 'USD');
+    const ocfSeries = firstAnnualSeries(usGaap, ['NetCashProvidedByUsedInOperatingActivities'], 'USD', asOfMs);
     const capexSeries = firstAnnualSeries(usGaap, [
       'PaymentsToAcquirePropertyPlantAndEquipment',
       'PaymentsForAdditionsToPropertyPlantAndEquipment',
-    ], 'USD');
-    const netIncomeSeries = firstAnnualSeries(usGaap, ['NetIncomeLoss', 'ProfitLoss'], 'USD');
+    ], 'USD', asOfMs);
+    const netIncomeSeries = firstAnnualSeries(usGaap, ['NetIncomeLoss', 'ProfitLoss'], 'USD', asOfMs);
     const ocfFact = ocfSeries[0] || null;
     if (!ocfFact) {
       fcfConversionAudit = { reason: 'missing annual operating cash flow' };
@@ -1061,7 +1098,7 @@ async function fetchFundamentals(sym, options = {}) {
       const audit = { reason: null, period, operatingCashFlow: ocfFact, capex: capexFact, netIncome: netIncomeFact, revenue: revenueFact };
 
       if (excludedQualityMetricSector) audit.reason = qualityMetricEligibilityReason;
-      else if (!annualPeriodIsCurrent(period.end)) audit.reason = 'annual period is stale or future-dated';
+      else if (!annualPeriodIsCurrent(period.end, nowMs)) audit.reason = 'annual period is stale or future-dated';
       else if (!capexFact || !netIncomeFact || !revenueFact) audit.reason = 'missing matching-period CapEx, net income, or revenue';
       else if (!Number.isFinite(netIncomeFact.value) || netIncomeFact.value <= 0) audit.reason = 'net income is not positive';
       else {
@@ -1083,12 +1120,12 @@ async function fetchFundamentals(sym, options = {}) {
 
     // EPS: prefer the figure companies actually file over deriving one, since
     // filed EPS already accounts for the correct GAAP share-count methodology.
-    secEps = firstAvailable(usGaap, ['EarningsPerShareDiluted', 'EarningsPerShareBasic'], (tag) => latestAnnual(tag, 'USD/shares'));
+    secEps = firstAvailable(usGaap, ['EarningsPerShareDiluted', 'EarningsPerShareBasic'], (tag) => latestAnnual(tag, 'USD/shares', asOfMs));
     if (secEps === null && netIncome !== null) {
       const weightedShares = firstAvailable(
         usGaap,
         ['WeightedAverageNumberOfDilutedSharesOutstanding', 'WeightedAverageNumberOfSharesOutstandingBasic'],
-        (tag) => latestAnnual(tag, 'shares')
+        (tag) => latestAnnual(tag, 'shares', asOfMs)
       );
       if (weightedShares) secEps = +(netIncome / weightedShares).toFixed(4);
     }
@@ -1101,7 +1138,8 @@ async function fetchFundamentals(sym, options = {}) {
         'EarningsPerShareDiluted',
         'EarningsPerShareBasic'
       ],
-      'USD/shares'
+      'USD/shares',
+      asOfMs
     );
 
     if (epsSeries.length >= 2) {
@@ -1120,8 +1158,8 @@ async function fetchFundamentals(sym, options = {}) {
 
     // Book value per share: equity / period-end shares outstanding. dei's cover-page
     // figure is preferred (most current); us-gaap's balance-sheet tag is the fallback.
-    sharesOutstanding = (dei && latestInstant(dei.EntityCommonStockSharesOutstanding, 'shares'))
-      ?? latestInstant(usGaap.CommonStockSharesOutstanding, 'shares');
+    sharesOutstanding = (dei && latestInstant(dei.EntityCommonStockSharesOutstanding, 'shares', asOfMs))
+      ?? latestInstant(usGaap.CommonStockSharesOutstanding, 'shares', asOfMs);
     if (equity && sharesOutstanding) secBookValuePerShare = +(equity / sharesOutstanding).toFixed(4);
   }
 
@@ -1188,4 +1226,13 @@ module.exports = {
   fetchDisplayShareMetrics,
   recentNetDebtBalanceCandidates,
   basicShareChangeFromTag,
+  // Exposed for scripts/reconstructScores.js: fetch a ticker's raw
+  // submissions/companyfacts ONCE, then call deriveFundamentals() many
+  // times with different options.asOfMs cutoffs against that same
+  // in-memory data, instead of re-fetching SEC's full filing history once
+  // per rebalance date.
+  ensureCikMap,
+  fetchSubmissions,
+  fetchCompanyFacts,
+  deriveFundamentals,
 };
