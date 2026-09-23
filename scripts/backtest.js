@@ -39,16 +39,25 @@ const path = require('path');
 const REPO_ROOT = path.join(__dirname, '..');
 const SCORES_DIR = path.join(REPO_ROOT, 'scores');
 const PRICES_DIR = path.join(REPO_ROOT, 'prices');
-const OUT_PATH = path.join(REPO_ROOT, 'backtest-results.json');
-
 const TOP_N = 20;
 const BENCHMARK_TICKER = 'SPY';
 const PRIMARY_PERIOD_START = '2025-01-01';
 
-// v1: no costs. A future version would deduct roughly
+// v1 default: no costs. Optional CLI override for comparison runs (e.g.
+// `node scripts/backtest.js --costBps=10`) without changing the committed
+// default. Deducts roughly
 // (turnoverCount / TOP_N) * (TRANSACTION_COST_BPS / 10000) * 2 (round trip)
 // from each period's raw return - see applyTransactionCosts().
-const TRANSACTION_COST_BPS = 0;
+const TRANSACTION_COST_BPS = (() => {
+  const arg = process.argv.slice(2).find((a) => a.startsWith('--costBps='));
+  return arg ? Number(arg.slice('--costBps='.length)) : 0;
+})();
+
+// Cost-aware output filename so a --costBps run never silently overwrites
+// the zero-cost baseline.
+const OUT_PATH = path.join(REPO_ROOT, TRANSACTION_COST_BPS
+  ? 'backtest-results-costBps' + TRANSACTION_COST_BPS + '.json'
+  : 'backtest-results.json');
 
 function loadScoresIndex() {
   if (!fs.existsSync(SCORES_DIR)) {
