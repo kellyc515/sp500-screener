@@ -1,8 +1,21 @@
 {
   "meta": {
-    "updatedAt": "2026-09-22T17:39:18.221Z"
+    "updatedAt": "2026-09-23T14:56:44.359Z"
   },
   "trades": [
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035499.pdf|AAPL|2026-09-22|Sale|$100,001 - $250,000",
+      "chamber": "House",
+      "ticker": "AAPL",
+      "member": "Pete Sessions",
+      "district": "TX17",
+      "assetDescription": "Apple Inc",
+      "type": "Sale",
+      "amount": "$100,001 - $250,000",
+      "transactionDate": "2026-09-22",
+      "disclosureDate": "2026-09-23",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035499.pdf"
+    },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035480.pdf|GOOGL|2026-09-14|Sale|$15,001 - $50,000",
       "chamber": "House",
@@ -325,6 +338,19 @@
       "type": "Sale",
       "amount": "$1,001 - $15,000",
       "transactionDate": "2026-08-25",
+      "disclosureDate": "2026-09-11",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf|LAMR|2026-08-24|Sale|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "LAMR",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "Lamar Advertising Co",
+      "type": "Sale",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-08-24",
       "disclosureDate": "2026-09-11",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
     },
@@ -665,6 +691,19 @@
       "transactionDate": "2026-08-19",
       "disclosureDate": "2026-09-11",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035489.pdf|BNS|2026-08-19|Sale|$500,001 - $1,000,000",
+      "chamber": "House",
+      "ticker": "BNS",
+      "member": "Sheri Biggs",
+      "district": "SC03",
+      "assetDescription": "The Bank of Nova Scotia",
+      "type": "Sale",
+      "amount": "$500,001 - $1,000,000",
+      "transactionDate": "2026-08-19",
+      "disclosureDate": "2026-09-23",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035489.pdf"
     },
     {
       "id": "https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/|GS|2026-08-18|Purchase|$250,001 - $500,000",
@@ -1107,6 +1146,32 @@
       "transactionDate": "2026-08-12",
       "disclosureDate": "2026-09-16",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035420.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf|AVGO|2026-08-12|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "AVGO",
+      "member": "Richard W. Allen",
+      "district": "GA12",
+      "assetDescription": "Broadcom Inc",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-08-12",
+      "disclosureDate": "2026-09-23",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf|ROL|2026-08-12|Sale|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "ROL",
+      "member": "Richard W. Allen",
+      "district": "GA12",
+      "assetDescription": "ROLLINS Inc",
+      "type": "Sale",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-08-12",
+      "disclosureDate": "2026-09-23",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf|MSFT|2026-08-11|Sale|$15,001 - $50,000",
@@ -1674,6 +1739,19 @@
       "member": "Gilbert Cisneros",
       "district": "CA31",
       "assetDescription": "Electronic Arts Inc",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-08-05",
+      "disclosureDate": "2026-09-11",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf|NXPI|2026-08-05|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "NXPI",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "NXP Semiconductors NV",
       "type": "Sale",
       "amount": "$1,001 - $15,000",
       "transactionDate": "2026-08-05",
