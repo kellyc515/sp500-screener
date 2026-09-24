@@ -121,7 +121,26 @@ jobs:
           git fetch origin state --depth=1
           git checkout origin/state -- .
           echo "Hydrated from origin/state:"
-          ls -la cache/ companies.json history/ research/ research-queue.json watchlist.json
+          ls -la cache/ companies.json history/ research/ research-queue.json universe.json watchlist.json
+
+      # universe.json is state data (see .gitignore), not source - it's no
+      # longer in main's checkout at all, only whatever the hydrate step
+      # above just restored from origin/state. Refreshes it in place;
+      # buildUniverse.js itself refuses to write an implausible constituent
+      # count (see its own threshold comment), and the `|| echo ...` below
+      # means a network failure or that refusal never fails this job -
+      # either way, the hydrated file from the step above is simply left
+      # as-is and the rest of the pipeline continues on it. This is the
+      # ONLY step that writes to main's checkout of universe.json; it's
+      # never committed back to main (permissions.contents: write below is
+      # unrelated to this - it exists solely for the state-branch push in
+      # "Publish state", not for touching main, and nothing in this job
+      # ever pushes to main).
+      - name: Refresh S&P 500 universe (falls back to the hydrated copy on failure)
+        if: github.event_name != 'schedule' || steps.time_guard.outputs.proceed == 'true'
+        run: |
+          set -euo pipefail
+          node buildUniverse.js || echo "::warning::buildUniverse.js failed or returned an implausible constituent count - keeping the existing universe.json (from origin/state) unchanged. See the error above for why."
 
       - name: Fetch data
         if: github.event_name != 'schedule' || steps.time_guard.outputs.proceed == 'true'
@@ -206,6 +225,7 @@ jobs:
             echo "OK: $f ($size bytes)"
           }
           check companies.json
+          check universe.json
           check cache/fundamentals.json
           check cache/quote.json
           check cache/analyst.json
@@ -226,7 +246,7 @@ jobs:
           rsync -a --delete cache/ ../state-worktree/cache/
           rsync -a --delete history/ ../state-worktree/history/
           rsync -a --delete research/ ../state-worktree/research/
-          cp companies.json research-queue.json watchlist.json ../state-worktree/
+          cp companies.json research-queue.json universe.json watchlist.json ../state-worktree/
           cd ../state-worktree
           git add -A
           if git diff --cached --quiet; then

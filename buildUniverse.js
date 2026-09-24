@@ -115,6 +115,25 @@ async function main() {
     });
   }
 
+  // The real index targets exactly 500, but multi-class share structures
+  // (GOOG/GOOGL, BRK.B, FOX/FOXA, NWS/NWSA, ...) push the real constituent
+  // count to ~503-505 in practice. +/-50 around 500 comfortably absorbs
+  // years of normal quarterly churn while still catching a genuinely
+  // broken fetch (a parse failure returning a handful of rows, an HTML
+  // error page misparsed as a tiny CSV, a duplicate-row bug roughly
+  // doubling the count). Thrown BEFORE writeAtomic() below, so a bad
+  // result never touches the existing file - daily.yml's caller treats a
+  // non-zero exit here as "keep what's already there and continue."
+  const MIN_PLAUSIBLE_CONSTITUENTS = 450;
+  const MAX_PLAUSIBLE_CONSTITUENTS = 550;
+  if (constituents.length < MIN_PLAUSIBLE_CONSTITUENTS || constituents.length > MAX_PLAUSIBLE_CONSTITUENTS) {
+    throw new Error(
+      'Implausible constituent count: ' + constituents.length +
+      ' (expected ' + MIN_PLAUSIBLE_CONSTITUENTS + '-' + MAX_PLAUSIBLE_CONSTITUENTS +
+      ') - not writing ' + OUT_PATH + '. Leaving the existing file untouched.'
+    );
+  }
+
   const universe = {
     generatedAt: new Date().toISOString(),
     source: SP500_CSV_URL + ' + ' + SEC_EXCHANGE_URL,

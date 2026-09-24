@@ -28,6 +28,11 @@ screener-report.html
 research-queue.json
 research/
 watchlist.json
+# S&P 500 constituent list - reclassified as state data (rebuilt weekday
+# mornings by daily.yml, published to the state branch), not source. Run
+# `node buildUniverse.js` once locally if you need it and don't already
+# have a copy (e.g. from origin/state).
+universe.json
 
 # One-off backtest tooling output (scripts/reconstructScores.js, scripts/backtest.js)
 secfacts/
