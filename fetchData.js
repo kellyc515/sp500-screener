@@ -50,6 +50,16 @@ const WEEKLY_MAX_AGE_MS = 7 * 24 * 60 * 60 * 1000; // fundamentals: roe, debtEqu
 // instead, or back down to DAILY_MAX_AGE_MS to restore the old behavior.
 const ANALYST_NEWS_MAX_AGE_MS = 84 * 60 * 60 * 1000;
 
+// Event-driven fundamentals refresh: a ticker whose nextExpectedFilingDate
+// (see providers/sec.js) falls within this many days of today gets a cheap
+// submissions.json "peek" even while still fresh by WEEKLY_MAX_AGE_MS - see
+// refreshFundamentalsGroup() below. Ten days each side of the ~91-day mark
+// is a deliberately generous ~3-week window (real filing dates vary), not a
+// guarantee - WEEKLY_MAX_AGE_MS remains the fallback for anything the peek
+// misses or that has no known schedule yet (see lastFiledDateFromCandidates()
+// in providers/sec.js for the first-run case).
+const FILING_DUE_WINDOW_DAYS = 10;
+
 // Congressional trade disclosures: one bulk refresh per run, not per-ticker,
 // so it shares the DAILY tier purely to avoid re-fetching twice if the script
 // runs more than once in a day - the real coverage comes from accumulating
@@ -151,6 +161,60 @@ async function refreshGroup(label, cache, ticker, maxAgeMs, fetchFn, source, sta
   return mergeCacheEntry(cache, ticker, fresh, source);
 }
 
+function isFilingDueSoon(entry) {
+  if (!entry || !entry.nextExpectedFilingDate) return false; // no schedule known - e.g. first run for this ticker
+  const dueMs = new Date(entry.nextExpectedFilingDate).getTime();
+  if (!Number.isFinite(dueMs)) return false;
+  const windowMs = FILING_DUE_WINDOW_DAYS * 24 * 60 * 60 * 1000;
+  return Math.abs(Date.now() - dueMs) <= windowMs;
+}
+
+// Event-driven variant of refreshGroup(), fundamentals-only. Three paths,
+// checked in order:
+//   1. Not fresh by WEEKLY_MAX_AGE_MS (or no cache entry) - full refresh,
+//      exactly like refreshGroup() today. This is the fallback safety net:
+//      it never goes away, so anything off-schedule or missed by path 2
+//      still gets picked up within a week. Also the only path a brand-new
+//      ticker (no lastFiledDate yet) can take, which is how it acquires one.
+//   2. Fresh, but nextExpectedFilingDate says a new filing is plausibly due
+//      - peek submissions.json only (cheap: no companyfacts.json). If it
+//      shows a filing newer than the cached lastFiledDate, do the full
+//      refresh early. If not, the cache entry is left completely untouched
+//      (no mergeCacheEntry call) so it's correctly still due for a peek
+//      again tomorrow, for as long as the due-soon window lasts.
+//   3. Fresh, not due soon - cache hit, zero requests, same as today.
+async function refreshFundamentalsGroup(cache, ticker, stats, tickerLog) {
+  const cached = cache[ticker];
+
+  if (!isFresh(cached, WEEKLY_MAX_AGE_MS)) {
+    stats.fetchAttempts++;
+    tickerLog.fetched.push('fundamentals');
+    const fresh = await fetchFundamentals(ticker);
+    return mergeCacheEntry(cache, ticker, fresh, 'sec');
+  }
+
+  if (isFilingDueSoon(cached)) {
+    stats.submissionsChecked++;
+    const cik = await sec.resolveCik(ticker);
+    if (cik) {
+      const submissions = await sec.fetchSubmissions(cik);
+      const latestFiled = sec.latestPeriodicFilingDate(submissions);
+      if (latestFiled && (!cached.lastFiledDate || latestFiled > cached.lastFiledDate)) {
+        stats.fetchAttempts++;
+        tickerLog.fetched.push('fundamentals(early-filing)');
+        const fresh = await fetchFundamentals(ticker);
+        return mergeCacheEntry(cache, ticker, fresh, 'sec');
+      }
+    }
+    tickerLog.checked.push('fundamentals(due-soon, nothing new)');
+    return cached;
+  }
+
+  stats.cacheHits++;
+  tickerLog.cached.push('fundamentals');
+  return cached;
+}
+
 /* ---- congressional trade disclosures: one bulk refresh, not per-ticker ----
  * cache/congressTrades.json shape: { meta: { updatedAt }, trades: [...] }.
  * Each run merges freshly-fetched records into whatever's already stored,
@@ -244,6 +308,10 @@ const FUNDAMENTALS_MERGE_FIELDS = [
   'fcfConversionAudit',
   'basicShareChangeAudit',
   'netDebtBalanceCandidates',
+  // Scheduling metadata for the event-driven refresh below - never part of
+  // companies.json, same as secEps/secBookValuePerShare above.
+  'lastFiledDate',
+  'nextExpectedFilingDate',
 ];
 
 // Daily, price-derived valuation fields (ret3m/ret6m/ret1y/pctBelow52wHigh
@@ -525,12 +593,13 @@ async function main() {
     analyst: { cacheHits: 0, fetchAttempts: 0 },
     news: { cacheHits: 0, fetchAttempts: 0 },
   };
+  stats.fundamentals.submissionsChecked = 0; // event-driven "peek" count - see refreshFundamentalsGroup()
   console.log('\n  Fetching ' + TICKERS.length + ' tickers...\n');
 
   for (const sym of TICKERS) {
-    const tickerLog = { cached: [], fetched: [] };
+    const tickerLog = { cached: [], fetched: [], checked: [] };
 
-    const fundamentals = await refreshGroup('fundamentals', fundamentalsCache, sym, WEEKLY_MAX_AGE_MS, fetchFundamentals, 'sec', stats.fundamentals, tickerLog);
+    const fundamentals = await refreshFundamentalsGroup(fundamentalsCache, sym, stats.fundamentals, tickerLog);
     const quote = await refreshGroup('quote', quoteCache, sym, DAILY_MAX_AGE_MS, (t) => fetchValuation(t, fundamentals), 'finnhub', stats.quote, tickerLog);
     const analystEntry = await refreshGroup('analyst', analystCache, sym, ANALYST_NEWS_MAX_AGE_MS, finnhub.fetchAnalyst, 'finnhub', stats.analyst, tickerLog);
     const newsEntry = await refreshGroup('news', newsCache, sym, ANALYST_NEWS_MAX_AGE_MS, finnhub.fetchSentiment, 'finnhub', stats.news, tickerLog);
@@ -538,6 +607,7 @@ async function main() {
     const tag = [
       tickerLog.cached.length ? 'cache: ' + tickerLog.cached.join(',') : null,
       tickerLog.fetched.length ? 'fetch: ' + tickerLog.fetched.join(',') : null,
+      tickerLog.checked.length ? 'checked: ' + tickerLog.checked.join(',') : null,
     ].filter(Boolean).join('  ');
     console.log('  - ' + sym + (tag ? '   (' + tag + ')' : ''));
 
@@ -601,6 +671,7 @@ async function main() {
   const fmtStat = (label, tierHours, s) =>
     '  ' + label.padEnd(13) + 'cache: ' + String(s.cacheHits).padStart(2) +
     '   fetched: ' + String(s.fetchAttempts).padStart(2) +
+    (s.submissionsChecked ? '   submissions-checked: ' + String(s.submissionsChecked).padStart(2) : '') +
     '   (max age ' + tierHours + 'h)';
   console.log(fmtStat('fundamentals', Math.round(WEEKLY_MAX_AGE_MS / 3600000), stats.fundamentals));
   console.log(fmtStat('quote', Math.round(DAILY_MAX_AGE_MS / 3600000), stats.quote));

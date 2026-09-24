@@ -792,6 +792,68 @@ function priorBalanceDate(periodStart) {
   return Number.isFinite(startMs) ? new Date(startMs - 24 * 60 * 60 * 1000).toISOString().slice(0, 10) : null;
 }
 
+// Companies file a 10-Q/10-K roughly every 91 days. Used only to schedule
+// the cheap submissions.json "peek" in fetchData.js - never to gate what
+// facts are selected (that's unitsArray()'s job, above).
+const QUARTERLY_FILING_CADENCE_DAYS = 91;
+
+// Most-recently-FILED date among a company's own 10-Q/10-K balance-sheet
+// facts (the same Assets-tag rows recentNetDebtBalanceCandidates() already
+// builds - Assets is about as universal a quarterly-reported tag as XBRL
+// has, and reusing it here avoids a second SEC-parsing path). Null when
+// there's nothing to go on (no candidates, or all filtered out) - callers
+// treat that as "no schedule known," which is exactly the first-run case.
+function lastFiledDateFromCandidates(netDebtBalanceCandidates) {
+  // Filter on c.filed itself first - new Date(null).getTime() is 0 (Jan 1
+  // 1970), not NaN, so a candidate with a missing filed date would
+  // otherwise silently pass the finite check below.
+  const filedMsValues = (netDebtBalanceCandidates || [])
+    .filter((c) => c && c.filed)
+    .map((c) => new Date(c.filed).getTime())
+    .filter((ms) => Number.isFinite(ms));
+  if (!filedMsValues.length) return null;
+  return new Date(Math.max(...filedMsValues)).toISOString().slice(0, 10);
+}
+
+function nextExpectedFilingDate(lastFiledDate) {
+  // new Date(null).getTime() is 0 (Jan 1 1970), not NaN - Number.isFinite()
+  // alone doesn't reject it, so a missing lastFiledDate must be checked
+  // explicitly here rather than trusting that fallthrough.
+  if (!lastFiledDate) return null;
+  const lastMs = new Date(lastFiledDate).getTime();
+  if (!Number.isFinite(lastMs)) return null;
+  return new Date(lastMs + QUARTERLY_FILING_CADENCE_DAYS * 24 * 60 * 60 * 1000).toISOString().slice(0, 10);
+}
+
+// Pure - reads only submissions.json's own filing list (SEC's parallel-array
+// "filings.recent" structure), never companyfacts.json. This is the cheap
+// "peek": is there a 10-Q/10-K newer than what we already have cached?
+// Strict form match (not e.g. "10-Q/A") so an amendment's filing date never
+// masquerades as a new quarter and disrupts the ~91-day cadence signal.
+function latestPeriodicFilingDate(submissions) {
+  const recent = submissions && submissions.filings && submissions.filings.recent;
+  if (!recent || !Array.isArray(recent.form) || !Array.isArray(recent.filingDate)) return null;
+  let latestMs = -Infinity, latest = null;
+  for (let i = 0; i < recent.form.length; i++) {
+    if (recent.form[i] !== '10-Q' && recent.form[i] !== '10-K') continue;
+    if (!recent.filingDate[i]) continue; // guards the same new Date(null) -> 0 gotcha fixed above
+    const ms = new Date(recent.filingDate[i]).getTime();
+    if (Number.isFinite(ms) && ms > latestMs) { latestMs = ms; latest = recent.filingDate[i]; }
+  }
+  return latest;
+}
+
+// Ticker -> CIK resolution, pulled out of fetchFundamentals() so
+// fetchData.js's submissions-only "peek" can resolve a CIK without a whole
+// fetchFundamentals() call (which would also fetch companyfacts.json).
+// Returns the CIK string, or null if the ticker isn't in SEC's map.
+async function resolveCik(sym) {
+  const map = await ensureCikMap();
+  const secTicker = sym.toUpperCase().replace(/\./g, '-');
+  const entry = map[secTicker] || map[sym.toUpperCase()];
+  return entry ? entry.cik : null;
+}
+
 /* ---- per-company lookups ---- */
 async function fetchSubmissions(cik) {
   const r = await client.getJSON(SEC_DATA + '/submissions/CIK' + cik + '.json', 'CIK' + cik + ' submissions');
@@ -804,19 +866,15 @@ async function fetchCompanyFacts(cik) {
 }
 
 async function fetchFundamentals(sym, options = {}) {
-  const map = await ensureCikMap();
-  // SEC's own files use dash for share classes (BRK-B); tickers coming from
-  // universe.json / most market data use dot notation (BRK.B) - normalize.
-  const secTicker = sym.toUpperCase().replace(/\./g, '-');
-  const entry = map[secTicker] || map[sym.toUpperCase()];
-  if (!entry) return {}; // not in SEC's map (e.g. wrong ticker/exchange) - let FMP cover it entirely
+  const cik = await resolveCik(sym);
+  if (!cik) return {}; // not in SEC's map (e.g. wrong ticker/exchange) - let FMP cover it entirely
 
   const displayMetricsOnly = options.displayMetricsOnly === true;
   const [submissions, facts] = displayMetricsOnly
-    ? [null, await fetchCompanyFacts(entry.cik)]
+    ? [null, await fetchCompanyFacts(cik)]
     : await Promise.all([
-      fetchSubmissions(entry.cik),
-      fetchCompanyFacts(entry.cik),
+      fetchSubmissions(cik),
+      fetchCompanyFacts(cik),
     ]);
 
   return deriveFundamentals(submissions, facts, options);
@@ -1163,6 +1221,14 @@ function deriveFundamentals(submissions, facts, options = {}) {
     if (equity && sharesOutstanding) secBookValuePerShare = +(equity / sharesOutstanding).toFixed(4);
   }
 
+  // Scheduling metadata for fetchData.js's event-driven refresh - derived
+  // from the same Assets-tag candidates already computed above for the net
+  // debt calc, not a new SEC round-trip. Both null when there's nothing to
+  // go on (no usGaap, or no qualifying candidates) - the "no schedule known"
+  // case, which callers treat as "fall back to the weekly timer."
+  const lastFiledDate = lastFiledDateFromCandidates(netDebtBalanceCandidates);
+  const nextFilingDate = nextExpectedFilingDate(lastFiledDate);
+
   const name = (submissions && submissions.name) || (facts && facts.entityName) || null;
   const sector = (submissions && submissions.sicDescription) || null;
   return {
@@ -1172,6 +1238,8 @@ function deriveFundamentals(submissions, facts, options = {}) {
     debtEquity,
     secEps,
     secBookValuePerShare,
+    lastFiledDate,
+    nextExpectedFilingDate: nextFilingDate,
     revenueGrowth,
     epsGrowth,
     fcfGrowth,
@@ -1235,4 +1303,9 @@ module.exports = {
   fetchSubmissions,
   fetchCompanyFacts,
   deriveFundamentals,
+  // Exposed for fetchData.js's event-driven fundamentals refresh: resolveCik()
+  // + fetchSubmissions() let it peek a ticker's filing list without pulling
+  // companyfacts.json, and latestPeriodicFilingDate() reads that peek's result.
+  resolveCik,
+  latestPeriodicFilingDate,
 };
