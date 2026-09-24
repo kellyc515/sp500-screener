@@ -6,12 +6,10 @@ Two scripts:
 
 Keep both in the same folder.
 
-> **Provider status (2026-08-10):** FMP was retired to `backup/fmp.js` — it was
-> quota-exhausted on every run and contributed zero real data once SEC/Finnhub
-> became primary. Only `FINNHUB_API_KEY` is required now (SEC needs no key).
-> See `backup/fmp.js`'s header comment for exactly how to re-enable it later.
-> The rest of this file predates that change and the `.env`/`universe.json`
-> setup that came before it - the quick summary below is stale in places.
+> **Data sources:** SEC EDGAR (fundamentals, no key needed) and Finnhub
+> (prices, valuation metrics, analyst consensus, news — `FINNHUB_API_KEY`
+> required). FMP is optional and only powers the congressional-trades
+> display; it has no effect on any score.
 
 ---
 
@@ -32,21 +30,36 @@ open the scoreboard in your browser.
 
 ## Then: feed it real stocks
 
-1. Get two free API keys:
-   - https://financialmodelingprep.com/
-   - https://finnhub.io/
+1. Get a free Finnhub API key: https://finnhub.io/ (required).
+   Optionally, a free FMP key from https://site.financialmodelingprep.com/
+   — only needed if you want the congressional-trades display.
 
-2. Give Terminal your keys (paste your real keys in):
+2. Copy `.env.example` to `.env` and fill it in:
 
    ```
-   export FMP_API_KEY=your_fmp_key_here
-   export FINNHUB_API_KEY=your_finnhub_key_here
+   FINNHUB_API_KEY=your_finnhub_key_here
+   SEC_USER_AGENT="Your Name your@email.com"
+   FMP_API_KEY=                     # optional - leave blank to skip congressional trades
    ```
 
-   (Note: this lasts until you close Terminal. If you reopen it, run
-   these two lines again.)
+   SEC needs no key, but its fair-use policy requires a real contact in
+   `SEC_USER_AGENT`. The scripts read `.env` automatically.
 
-3. Pull the data, then grade it:
+3. Build the stock list. `universe.json` (the S&P 500 constituent list) is
+   no longer tracked in the repo — it's rebuilt each weekday by the
+   automated run and stored on the `state` branch. A fresh clone won't
+   have it, so do **one** of these first:
+
+   ```
+   node buildUniverse.js                                  # build it fresh
+   # or, to get everything the automated run has cached:
+   git fetch origin state && git checkout origin/state -- .
+   ```
+
+   `fetchData.js` exits immediately with "universe.json not found" until
+   one of these has been done.
+
+4. Pull the data, then grade it:
 
    ```
    node fetchData.js     # makes companies.json
@@ -59,17 +72,19 @@ Once set up, the everyday routine is just those two commands.
 
 ## Change what it screens
 
-- **Which stocks:** edit the `TICKERS` list at the top of `fetchData.js`
+- **Which stocks:** the S&P 500, from `universe.json` (see setup step 3)
 - **What matters most:** edit `BUCKET_WEIGHTS` at the top of `screener.js`
-  (Value / Momentum / Quality / Sentiment / Risk — must add up to 1)
+  (Valuation / Quality / Growth / Sentiment / Risk / Momentum — must add up to 1)
 
 ---
 
 ## Heads up
 
 - Needs Node 18 or newer. Check with `node -v`.
-- Each stock = 3 FMP calls + 2 Finnhub calls. FMP's free tier is ~250/day,
-  so keep the ticker list under ~80 names until you upgrade or add caching.
+- Data is cached with a refresh schedule per type (fundamentals weekly or
+  when a new SEC filing is due, prices daily, analyst/news every ~3.5 days),
+  so a first run on an empty cache takes around an hour for all 503 stocks;
+  later runs only refetch what's stale.
 - This ranks *candidates to research* — it is not investment advice.
 
 ---

@@ -822,8 +822,8 @@ const METRIC_EXPLANATIONS = {
   },
   trapRisk: {
     name: "Trap Risk",
-    what: "This screener's own 0-100 estimate of how likely a cheap-looking stock is actually a value trap - cheap for a bad reason rather than a good one. Built from valuation extremes, leverage, weak momentum, and negative sentiment/analyst signals.",
-    read: "Higher means more warning signs are present that the low price may be justified rather than a bargain. It only sees valuation, leverage, momentum, sentiment, and analyst data - it cannot see things like deteriorating revenue trends, margin compression, or guidance cuts, so a high reading is a prompt to dig deeper, not a final verdict.",
+    what: "This screener's own 0-100 estimate of how likely a cheap-looking stock is actually a value trap - cheap for a bad reason rather than a good one. Built from four warning signs: weak recent price momentum (35%), high debt relative to equity (30%), negative news sentiment (20%), and weak analyst support (15%). Valuation itself is not an input - that's Value Opportunity's job.",
+    read: "Higher means more warning signs are present that the low price may be justified rather than a bargain. It only sees momentum, leverage, sentiment, and analyst data - it cannot see things like deteriorating revenue trends, margin compression, or guidance cuts, so a high reading is a prompt to dig deeper, not a final verdict.",
     range: "0-100 across the full universe.",
     why: "This is the direct counterweight to Value Opportunity, built specifically to catch the classic mistake of buying something cheap that keeps getting cheaper. A stock scoring high on both Value Opportunity and Trap Risk is the \"interesting but dangerous\" case worth researching most carefully before drawing any conclusion.",
   },
