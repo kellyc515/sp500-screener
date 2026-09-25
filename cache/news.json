@@ -21519,5 +21519,220 @@
     ],
     "source": "finnhub",
     "updatedAt": "2026-09-22T18:28:13.250Z"
+  },
+  "BE": {
+    "sentiment": 0.318,
+    "headlines": [
+      {
+        "title": "Dow Jones Futures Signal Rebound For Resilient Market; Tesla, Akamai, Taiwan Semi In Focus",
+        "url": "https://finnhub.io/api/news?id=24ee99cacf6450bc4588a67a6b0f3cdd1856b24cc2c800cfd2cda37107ae5a94",
+        "source": "Yahoo",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "3 Industrials Stocks to Consider Right Now",
+        "url": "https://finnhub.io/api/news?id=1ad5e4482e720e285da87a654020a6ec7eb95ff6cb697524d416df511da914d8",
+        "source": "Yahoo",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "BE Stock Eyes Best Month Since April: Oracle Reaffirms 2.4 GW Fuel Cell Deal Amid Project Jupiter Jitters",
+        "url": "https://finnhub.io/api/news?id=fc1e070991f19484331d6c8d4dc48633d0da9f8998ea0f0301d5ecb742b2701f",
+        "source": "Yahoo",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Bloom Energy's Backlog Is 5 Times This Year's Expected Revenue. Here's How Fast It Can Actually Build.",
+        "url": "https://finnhub.io/api/news?id=5c725aeec8dcbe92f5c3b808a1ab08f8544712f85fc44a470430a538a438c50d",
+        "source": "Yahoo",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "JELD-WEN, Shoals, Advanced Energy, American Superconductor, and Bloom Energy Shares Plummet, What You Need To Know",
+        "url": "https://finnhub.io/api/news?id=55e317fcf5216ee035e57793ef46548a1c98b0440bb87aa3a71b85880826a9dd",
+        "source": "Yahoo",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
+        "url": "https://finnhub.io/api/news?id=78238e26136a0958e886dd7b0985f3367f77c2ddd56135f7b81615238bc1bd03",
+        "source": "Yahoo",
+        "date": "2026-09-24"
+      }
+    ],
+    "source": "finnhub",
+    "updatedAt": "2026-09-25T15:14:14.379Z"
+  },
+  "P": {
+    "sentiment": 0.71,
+    "headlines": [
+      {
+        "title": "Dow Jones Futures Signal Rebound For Resilient Market; Tesla, Akamai, Taiwan Semi In Focus",
+        "url": "https://finnhub.io/api/news?id=24ee99cacf6450bc4588a67a6b0f3cdd1856b24cc2c800cfd2cda37107ae5a94",
+        "source": "Yahoo",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Barclays Maintains Equal-Weight on Everpure, Raises Price Target to $132",
+        "url": "https://finnhub.io/api/news?id=e05ac2d24d4a85f7aaa64e1564da7ebcfb86c48bc257f2f97e57715cd6f5feec",
+        "source": "Benzinga",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "US Stock Market Today: S&P 500 Futures Slip As Hot Growth Keeps Rate Fears High",
+        "url": "https://finnhub.io/api/news?id=819bbe3dbe48e20bf27b5921fe79e972f64f4beab1a4a443f0505b1922340720",
+        "source": "Yahoo",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "What Are Everpure Stock Bulls Not Worried About?",
+        "url": "https://finnhub.io/api/news?id=03970817b0e966993c1f17026a1d4240949e80c93e1b93b4e011c7b379b9f13e",
+        "source": "Yahoo",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Review & Preview: It’s All About the Yields",
+        "url": "https://finnhub.io/api/news?id=fa5391cfc61e3edc1064d22825781f686d1b8ef80c0e8d2cbac0d30d3146ff2d",
+        "source": "Yahoo",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
+        "url": "https://finnhub.io/api/news?id=78238e26136a0958e886dd7b0985f3367f77c2ddd56135f7b81615238bc1bd03",
+        "source": "Yahoo",
+        "date": "2026-09-24"
+      }
+    ],
+    "source": "finnhub",
+    "updatedAt": "2026-09-25T15:19:18.093Z"
+  },
+  "ILMN": {
+    "sentiment": 0.846,
+    "headlines": [
+      {
+        "title": "Illumina (ILMN) Tests Valuation As Russell Index Removal Forces A Fresh Look",
+        "url": "https://finnhub.io/api/news?id=ee8b6d2cdf06d5fd5bfed5f295872420f87752a4fada8637c2a797b11a3da751",
+        "source": "Yahoo",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Illumina Stock Surges 94.9% YTD: What's Behind the Rally?",
+        "url": "https://finnhub.io/api/news?id=9180dee01b1435b5949c866d0156ec20e36275e8ed2385a62cbc20a980a110b4",
+        "source": "Yahoo",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Analysts Think 6 S&P 500 Stocks Are Grossly Overvalued",
+        "url": "https://finnhub.io/api/news?id=034d8b2b6aa966fa6d6b73fb0cdaae8497b33158ca3ff07e66397ac36760b3fc",
+        "source": "Yahoo",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "3 Healthcare Stocks with Warning Signs",
+        "url": "https://finnhub.io/api/news?id=dc78c6148bdb8b0f980ac9d35410b43cb3c89937fe7e6742b7cbe19af0bad809",
+        "source": "Yahoo",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "Here's How Much $1000 Invested In Illumina 20 Years Ago Would Be Worth Today",
+        "url": "https://finnhub.io/api/news?id=72487779f8a54375e811f8d45ab6bf6d1ff00954afc1a9cc8d7526bb4f256f5d",
+        "source": "Benzinga",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "NICU Genetic Testing Market Size, Share & Trends Analysis - Global Opportunity Analysis and Industry Forecast (2026-2036)",
+        "url": "https://finnhub.io/api/news?id=d1b6e8b524d0647dcaeec0b1a5b6abcaaf33defc75d8f66fc0c8d15a8e837148",
+        "source": "Yahoo",
+        "date": "2026-09-22"
+      }
+    ],
+    "source": "finnhub",
+    "updatedAt": "2026-09-25T15:22:26.662Z"
+  },
+  "RDDT": {
+    "sentiment": 0.214,
+    "headlines": [
+      {
+        "title": "Reddit Inc. (RDDT) Is a Trending Stock: Facts to Know Before Betting on It",
+        "url": "https://finnhub.io/api/news?id=128cc11391a00692bfd42667abb09126002a1e1a0534b50e0c558b79da3b2f88",
+        "source": "Yahoo",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Reddit Stock And 2 More Quality Stocks",
+        "url": "https://finnhub.io/api/news?id=99435e7fe7c1f50b07893feaffcf73dc5015cd20ef9df243ac36c526d5cb8e80",
+        "source": "Yahoo",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "They Quit Their Jobs With $935K, Traveled 12 Countries And Spent  $35,654 — ‘I STRONGLY Recommend You Pull The Trigger’",
+        "url": "https://finnhub.io/api/news?id=de2073193794e484f53e5408eed55341522dc1b31e49e7508335f51f2efdef1a",
+        "source": "Yahoo",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "AppLovin vs. Reddit: Which Technology Stock Is a Better Buy in 2026?",
+        "url": "https://finnhub.io/api/news?id=d5b0e4bd5fe7c2ed78808346289910a97486184cbd53c9430ad6bdabd92bfe87",
+        "source": "Yahoo",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Meta Rises 3% as Its Month-Long Run Extends on Muse Buzz; Reddit Nudges Higher",
+        "url": "https://finnhub.io/api/news?id=581198fe45ac885252ea376e3c8778dab2a39fff22b985d27d4f9d540b24e7e6",
+        "source": "Yahoo",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Couple In Their 40s Suddenly Gets Nearly $400K — But He Says It Still Feels Like ‘The Same Guy Stressing Over Costco Gas Prices’",
+        "url": "https://finnhub.io/api/news?id=863d61a4aa66dfec9d513bee043d92d93527fd33838319dae073a328348b0ad6",
+        "source": "Yahoo",
+        "date": "2026-09-23"
+      }
+    ],
+    "source": "finnhub",
+    "updatedAt": "2026-09-25T15:28:42.690Z"
+  },
+  "VMRK": {
+    "sentiment": 1,
+    "headlines": [
+      {
+        "title": "Vivmark Residential Declares Third Quarter Dividends",
+        "url": "https://finnhub.io/api/news?id=14d6aaf9a441e78971fa55f842957860e7c84191c18714a3168f9413c0ed63d9",
+        "source": "Yahoo",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Evercore ISI Group Maintains In-Line on Vivmark Residential, Lowers Price Target to $70",
+        "url": "https://finnhub.io/api/news?id=f2fdddb68d8e05c67c571914cc36e709a067dba7f3baac64bf239cf8fa05556b",
+        "source": "Benzinga",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "Higher For Longer And Longer",
+        "url": "https://finnhub.io/api/news?id=a6b9f314d368c0f85dd66ff9dc4d9a2ae7a0142fd937d1ef329f4e9be5d5a302",
+        "source": "SeekingAlpha",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "Scotiabank Maintains Sector Perform on Vivmark Residential, Lowers Price Target to $66",
+        "url": "https://finnhub.io/api/news?id=e79d4ec07e6fbcc8026f4e508bcf71d93d1c3b37d934ada5376e65815b635261",
+        "source": "Benzinga",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "BTIG Reiterates Neutral on Vivmark Residentialto Neutral",
+        "url": "https://finnhub.io/api/news?id=308d9f7a77827220b38787251ec24fed33cbebe3e174ab65c2c129fbde10ca2e",
+        "source": "Benzinga",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "Vivmark Residential (VMRK) Presents at BofA NY Global Real Estate Conference 2026 - Slideshow",
+        "url": "https://finnhub.io/api/news?id=b9415de61b2639f7b3f8ea782312c0dcfb6847a940d152dd9b19ccae23e28a69",
+        "source": "SeekingAlpha",
+        "date": "2026-09-16"
+      }
+    ],
+    "source": "finnhub",
+    "updatedAt": "2026-09-25T15:32:44.838Z"
   }
 }

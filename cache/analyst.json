@@ -2513,5 +2513,30 @@
     "analyst": 66.7,
     "source": "finnhub",
     "updatedAt": "2026-09-22T18:28:11.951Z"
+  },
+  "BE": {
+    "analyst": 69.2,
+    "source": "finnhub",
+    "updatedAt": "2026-09-25T15:14:13.229Z"
+  },
+  "P": {
+    "analyst": 76.9,
+    "source": "finnhub",
+    "updatedAt": "2026-09-25T15:19:16.947Z"
+  },
+  "ILMN": {
+    "analyst": 67,
+    "source": "finnhub",
+    "updatedAt": "2026-09-25T15:22:25.517Z"
+  },
+  "RDDT": {
+    "analyst": 72.4,
+    "source": "finnhub",
+    "updatedAt": "2026-09-25T15:28:41.536Z"
+  },
+  "VMRK": {
+    "analyst": 67.6,
+    "source": "finnhub",
+    "updatedAt": "2026-09-25T15:32:43.696Z"
   }
 }

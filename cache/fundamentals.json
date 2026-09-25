@@ -245776,5 +245776,2153 @@
         "reason": null
       }
     ]
+  },
+  "BE": {
+    "name": "Bloom Energy Corp",
+    "sector": "Electrical Industrial Apparatus",
+    "roe": -32.79,
+    "debtEquity": 2.829,
+    "basicShareChange": 5.734,
+    "secEps": -0.37,
+    "secBookValuePerShare": 3.2395,
+    "revenueGrowth": 37.33,
+    "fcfGrowth": 72.54,
+    "operatingMargin": 3.6,
+    "marginTrend": 2.05,
+    "annualOcf": 113949000,
+    "annualCapex": 56759000,
+    "annualFcf": 57190000,
+    "annualFcfPeriodStart": "2025-01-01",
+    "annualFcfPeriodEnd": "2025-12-31",
+    "sharesOutstanding": 284443868,
+    "sic": 3620,
+    "roicAudit": {
+      "reason": "pretax income is not positive",
+      "period": {
+        "start": "2025-01-01",
+        "end": "2025-12-31"
+      },
+      "operatingIncome": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": 72802000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-09",
+        "accn": "0001628280-26-006516",
+        "frame": "CY2025",
+        "tagName": "OperatingIncomeLoss"
+      },
+      "taxExpense": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": 2736000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-09",
+        "accn": "0001628280-26-006516",
+        "frame": "CY2025",
+        "tagName": "IncomeTaxExpenseBenefit"
+      },
+      "pretaxIncome": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": -84404000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-09",
+        "accn": "0001628280-26-006516",
+        "frame": "CY2025",
+        "tagName": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest"
+      },
+      "begin": {
+        "targetDate": "2024-12-31",
+        "debt": {
+          "value": 1243192000,
+          "reason": null,
+          "method": [
+            "LongTermDebtCurrent",
+            "LongTermDebtNoncurrent",
+            "ShortTermBorrowings"
+          ],
+          "facts": [
+            {
+              "value": 114385000,
+              "end": "2024-12-31",
+              "form": "10-K",
+              "filed": "2026-02-09",
+              "accn": "0001628280-26-006516",
+              "frame": "CY2024Q4I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            },
+            {
+              "value": 1014407000,
+              "end": "2024-12-31",
+              "form": "10-K",
+              "filed": "2026-02-09",
+              "accn": "0001628280-26-006516",
+              "frame": "CY2024Q4I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtNoncurrent"
+            },
+            {
+              "value": 114400000,
+              "end": "2024-12-31",
+              "form": "10-K",
+              "filed": "2026-02-09",
+              "accn": "0001628280-26-006516",
+              "frame": "CY2024Q4I",
+              "offsetDays": 0,
+              "tagName": "ShortTermBorrowings"
+            }
+          ]
+        },
+        "equity": {
+          "value": 585216000,
+          "end": "2024-12-31",
+          "form": "10-K",
+          "filed": "2026-02-09",
+          "accn": "0001628280-26-006516",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest"
+        },
+        "cash": {
+          "value": 802851000,
+          "end": "2024-12-31",
+          "form": "10-K",
+          "filed": "2026-02-09",
+          "accn": "0001628280-26-006516",
+          "frame": "CY2024Q4I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "assets": {
+          "value": 2657354000,
+          "end": "2024-12-31",
+          "form": "10-K",
+          "filed": "2026-02-09",
+          "accn": "0001628280-26-006516",
+          "frame": "CY2024Q4I",
+          "offsetDays": 0,
+          "tagName": "Assets"
+        },
+        "investedCapital": 1025557000
+      },
+      "end": {
+        "targetDate": "2025-12-31",
+        "debt": {
+          "value": 2622079000,
+          "reason": null,
+          "method": [
+            "LongTermDebtCurrent",
+            "LongTermDebtNoncurrent",
+            "ShortTermBorrowings"
+          ],
+          "facts": [
+            {
+              "value": 4153000,
+              "end": "2025-12-31",
+              "form": "10-K",
+              "filed": "2026-02-09",
+              "accn": "0001628280-26-006516",
+              "frame": null,
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            },
+            {
+              "value": 2613726000,
+              "end": "2025-12-31",
+              "form": "10-K",
+              "filed": "2026-02-09",
+              "accn": "0001628280-26-006516",
+              "frame": null,
+              "offsetDays": 0,
+              "tagName": "LongTermDebtNoncurrent"
+            },
+            {
+              "value": 4200000,
+              "end": "2025-12-31",
+              "form": "10-K",
+              "filed": "2026-02-09",
+              "accn": "0001628280-26-006516",
+              "frame": null,
+              "offsetDays": 0,
+              "tagName": "ShortTermBorrowings"
+            }
+          ]
+        },
+        "equity": {
+          "value": 792963000,
+          "end": "2025-12-31",
+          "form": "10-K",
+          "filed": "2026-02-09",
+          "accn": "0001628280-26-006516",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest"
+        },
+        "cash": {
+          "value": 2454108000,
+          "end": "2025-12-31",
+          "form": "10-K",
+          "filed": "2026-02-09",
+          "accn": "0001628280-26-006516",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "assets": {
+          "value": 4396711000,
+          "end": "2025-12-31",
+          "form": "10-K",
+          "filed": "2026-02-09",
+          "accn": "0001628280-26-006516",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "Assets"
+        },
+        "investedCapital": 960934000
+      }
+    },
+    "fcfConversionAudit": {
+      "reason": "net income is not positive",
+      "period": {
+        "start": "2025-01-01",
+        "end": "2025-12-31"
+      },
+      "operatingCashFlow": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": 113949000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-09",
+        "accn": "0001628280-26-006516",
+        "frame": "CY2025",
+        "tagName": "NetCashProvidedByUsedInOperatingActivities"
+      },
+      "capex": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": 56759000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-09",
+        "accn": "0001628280-26-006516",
+        "frame": "CY2025",
+        "tagName": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "netIncome": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": -87140000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-09",
+        "accn": "0001628280-26-006516",
+        "frame": null,
+        "tagName": "ProfitLoss"
+      },
+      "revenue": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": 2023994000,
+        "sourceTag": "Revenues",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-09",
+        "accn": "0001628280-26-006516",
+        "frame": "CY2025"
+      }
+    },
+    "basicShareChangeAudit": {
+      "reason": null,
+      "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+      "unit": "shares",
+      "current": {
+        "value": 240402000,
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "durationDays": 364,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-09",
+        "accn": "0001628280-26-006516",
+        "frame": "CY2025",
+        "duplicateCount": 1,
+        "duplicatesAgree": true
+      },
+      "prior": {
+        "value": 227365000,
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "durationDays": 365,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-09",
+        "accn": "0001628280-26-006516",
+        "frame": "CY2024",
+        "duplicateCount": 1,
+        "duplicatesAgree": true
+      },
+      "rawValue": 5.733952015481725,
+      "accession": "0001628280-26-006516",
+      "filingDate": "2026-02-09",
+      "contradictoryPeriodCount": 0,
+      "asOfDate": "2026-09-25",
+      "currentPeriodAgeDays": 268,
+      "boundaryGapDays": 1
+    },
+    "netDebtBalanceCandidates": [
+      {
+        "date": "2026-03-31",
+        "form": "10-Q",
+        "filed": "2026-04-29",
+        "accession": "0001628280-26-028021",
+        "assets": 4664729000,
+        "debt": {
+          "value": 2606635000,
+          "reason": null,
+          "method": [
+            "LongTermDebtCurrent",
+            "LongTermDebtNoncurrent",
+            "ShortTermBorrowings"
+          ],
+          "facts": [
+            {
+              "value": 3959000,
+              "end": "2026-03-31",
+              "form": "10-Q",
+              "filed": "2026-04-29",
+              "accn": "0001628280-26-028021",
+              "frame": "CY2026Q1I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            },
+            {
+              "value": 2598676000,
+              "end": "2026-03-31",
+              "form": "10-Q",
+              "filed": "2026-04-29",
+              "accn": "0001628280-26-028021",
+              "frame": "CY2026Q1I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtNoncurrent"
+            },
+            {
+              "value": 4000000,
+              "end": "2026-03-31",
+              "form": "10-Q",
+              "filed": "2026-04-29",
+              "accn": "0001628280-26-028021",
+              "frame": "CY2026Q1I",
+              "offsetDays": 0,
+              "tagName": "ShortTermBorrowings"
+            }
+          ]
+        },
+        "cash": {
+          "value": 2491433000,
+          "end": "2026-03-31",
+          "form": "10-Q",
+          "filed": "2026-04-29",
+          "accn": "0001628280-26-028021",
+          "frame": "CY2026Q1I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": 115202000,
+        "reason": null
+      },
+      {
+        "date": "2025-12-31",
+        "form": "10-Q",
+        "filed": "2026-04-29",
+        "accession": "0001628280-26-028021",
+        "assets": 4396711000,
+        "debt": {
+          "value": 2622079000,
+          "reason": null,
+          "method": [
+            "LongTermDebtCurrent",
+            "LongTermDebtNoncurrent",
+            "ShortTermBorrowings"
+          ],
+          "facts": [
+            {
+              "value": 4153000,
+              "end": "2025-12-31",
+              "form": "10-Q",
+              "filed": "2026-04-29",
+              "accn": "0001628280-26-028021",
+              "frame": "CY2025Q4I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            },
+            {
+              "value": 2613726000,
+              "end": "2025-12-31",
+              "form": "10-Q",
+              "filed": "2026-04-29",
+              "accn": "0001628280-26-028021",
+              "frame": "CY2025Q4I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtNoncurrent"
+            },
+            {
+              "value": 4200000,
+              "end": "2025-12-31",
+              "form": "10-Q",
+              "filed": "2026-04-29",
+              "accn": "0001628280-26-028021",
+              "frame": "CY2025Q4I",
+              "offsetDays": 0,
+              "tagName": "ShortTermBorrowings"
+            }
+          ]
+        },
+        "cash": {
+          "value": 2454108000,
+          "end": "2025-12-31",
+          "form": "10-Q",
+          "filed": "2026-04-29",
+          "accn": "0001628280-26-028021",
+          "frame": "CY2025Q4I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": 167971000,
+        "reason": null
+      },
+      {
+        "date": "2025-09-30",
+        "form": "10-Q",
+        "filed": "2025-10-28",
+        "accession": "0001628280-25-046844",
+        "assets": 2638199000,
+        "debt": {
+          "value": 1133716000,
+          "reason": null,
+          "method": [
+            "LongTermDebtCurrent",
+            "LongTermDebtNoncurrent",
+            "ShortTermBorrowings"
+          ],
+          "facts": [
+            {
+              "value": 1424000,
+              "end": "2025-09-30",
+              "form": "10-Q",
+              "filed": "2025-10-28",
+              "accn": "0001628280-25-046844",
+              "frame": "CY2025Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            },
+            {
+              "value": 1130892000,
+              "end": "2025-09-30",
+              "form": "10-Q",
+              "filed": "2025-10-28",
+              "accn": "0001628280-25-046844",
+              "frame": "CY2025Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtNoncurrent"
+            },
+            {
+              "value": 1400000,
+              "end": "2025-09-30",
+              "form": "10-Q",
+              "filed": "2025-10-28",
+              "accn": "0001628280-25-046844",
+              "frame": "CY2025Q3I",
+              "offsetDays": 0,
+              "tagName": "ShortTermBorrowings"
+            }
+          ]
+        },
+        "cash": {
+          "value": 595055000,
+          "end": "2025-09-30",
+          "form": "10-Q",
+          "filed": "2025-10-28",
+          "accn": "0001628280-25-046844",
+          "frame": "CY2025Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": 538661000,
+        "reason": null
+      },
+      {
+        "date": "2025-06-30",
+        "form": "10-Q",
+        "filed": "2025-07-31",
+        "accession": "0001628280-25-037074",
+        "assets": 2530422000,
+        "debt": {
+          "value": 1136597000,
+          "reason": null,
+          "method": [
+            "LongTermDebtCurrent",
+            "LongTermDebtNoncurrent",
+            "ShortTermBorrowings"
+          ],
+          "facts": [
+            {
+              "value": 3707000,
+              "end": "2025-06-30",
+              "form": "10-Q",
+              "filed": "2025-07-31",
+              "accn": "0001628280-25-037074",
+              "frame": "CY2025Q2I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            },
+            {
+              "value": 1129190000,
+              "end": "2025-06-30",
+              "form": "10-Q",
+              "filed": "2025-07-31",
+              "accn": "0001628280-25-037074",
+              "frame": "CY2025Q2I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtNoncurrent"
+            },
+            {
+              "value": 3700000,
+              "end": "2025-06-30",
+              "form": "10-Q",
+              "filed": "2025-07-31",
+              "accn": "0001628280-25-037074",
+              "frame": "CY2025Q2I",
+              "offsetDays": 0,
+              "tagName": "ShortTermBorrowings"
+            }
+          ]
+        },
+        "cash": {
+          "value": 574764000,
+          "end": "2025-06-30",
+          "form": "10-Q",
+          "filed": "2025-07-31",
+          "accn": "0001628280-25-037074",
+          "frame": "CY2025Q2I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": 561833000,
+        "reason": null
+      },
+      {
+        "date": "2025-03-31",
+        "form": "10-Q",
+        "filed": "2025-04-30",
+        "accession": "0001628280-25-021160",
+        "assets": 2607984000,
+        "debt": {
+          "value": 1245413000,
+          "reason": null,
+          "method": [
+            "LongTermDebtCurrent",
+            "LongTermDebtNoncurrent",
+            "ShortTermBorrowings"
+          ],
+          "facts": [
+            {
+              "value": 114631000,
+              "end": "2025-03-31",
+              "form": "10-Q",
+              "filed": "2025-04-30",
+              "accn": "0001628280-25-021160",
+              "frame": "CY2025Q1I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            },
+            {
+              "value": 1016182000,
+              "end": "2025-03-31",
+              "form": "10-Q",
+              "filed": "2025-04-30",
+              "accn": "0001628280-25-021160",
+              "frame": "CY2025Q1I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtNoncurrent"
+            },
+            {
+              "value": 114600000,
+              "end": "2025-03-31",
+              "form": "10-Q",
+              "filed": "2025-04-30",
+              "accn": "0001628280-25-021160",
+              "frame": "CY2025Q1I",
+              "offsetDays": 0,
+              "tagName": "ShortTermBorrowings"
+            }
+          ]
+        },
+        "cash": {
+          "value": 794751000,
+          "end": "2025-03-31",
+          "form": "10-Q",
+          "filed": "2025-04-30",
+          "accn": "0001628280-25-021160",
+          "frame": "CY2025Q1I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": 450662000,
+        "reason": null
+      }
+    ],
+    "lastFiledDate": "2026-04-29",
+    "nextExpectedFilingDate": "2026-07-29",
+    "source": "sec",
+    "updatedAt": "2026-09-25T15:14:09.760Z"
+  },
+  "P": {
+    "name": "Everpure, Inc.",
+    "sector": "Computer Storage Devices",
+    "roe": 12.21,
+    "debtEquity": 0,
+    "fcfConversion": 327.2068,
+    "basicShareChange": 0.8491,
+    "secEps": 0.55,
+    "secBookValuePerShare": 4.624,
+    "revenueGrowth": 15.61,
+    "epsGrowth": 77.42,
+    "fcfGrowth": 16.87,
+    "operatingMargin": 3.13,
+    "marginTrend": 0.44,
+    "annualOcf": 880085000,
+    "annualCapex": 264344000,
+    "annualFcf": 615741000,
+    "annualFcfPeriodStart": "2025-02-03",
+    "annualFcfPeriodEnd": "2026-02-01",
+    "sharesOutstanding": 333227251,
+    "sic": 3572,
+    "roicAudit": {
+      "reason": "incomplete conventional current/noncurrent debt representation",
+      "period": {
+        "start": "2025-02-03",
+        "end": "2026-02-01"
+      },
+      "operatingIncome": {
+        "start": "2025-02-03",
+        "end": "2026-02-01",
+        "value": 114816000,
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-03-25",
+        "accn": "0001474432-26-000027",
+        "frame": "CY2025",
+        "tagName": "OperatingIncomeLoss"
+      },
+      "taxExpense": {
+        "start": "2025-02-03",
+        "end": "2026-02-01",
+        "value": 36103000,
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-03-25",
+        "accn": "0001474432-26-000027",
+        "frame": "CY2025",
+        "tagName": "IncomeTaxExpenseBenefit"
+      },
+      "pretaxIncome": {
+        "start": "2025-02-03",
+        "end": "2026-02-01",
+        "value": 224284000,
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-03-25",
+        "accn": "0001474432-26-000027",
+        "frame": "CY2025",
+        "tagName": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest"
+      },
+      "begin": {
+        "targetDate": "2025-02-02",
+        "debt": {
+          "value": 100000000,
+          "reason": null,
+          "method": [
+            "LongTermDebtCurrent",
+            "LongTermDebtNoncurrent"
+          ],
+          "facts": [
+            {
+              "value": 100000000,
+              "end": "2025-02-02",
+              "form": "10-K",
+              "filed": "2026-03-25",
+              "accn": "0001474432-26-000027",
+              "frame": "CY2024Q4I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            },
+            {
+              "value": 0,
+              "end": "2025-02-02",
+              "form": "10-K",
+              "filed": "2025-03-27",
+              "accn": "0001628280-25-015044",
+              "frame": "CY2024Q4I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtNoncurrent"
+            }
+          ]
+        },
+        "equity": {
+          "value": 1306475000,
+          "end": "2025-02-02",
+          "form": "10-K",
+          "filed": "2026-03-25",
+          "accn": "0001474432-26-000027",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "StockholdersEquity"
+        },
+        "cash": {
+          "value": 723583000,
+          "end": "2025-02-02",
+          "form": "10-K",
+          "filed": "2026-03-25",
+          "accn": "0001474432-26-000027",
+          "frame": "CY2024Q4I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "assets": {
+          "value": 3963942000,
+          "end": "2025-02-02",
+          "form": "10-K",
+          "filed": "2026-03-25",
+          "accn": "0001474432-26-000027",
+          "frame": "CY2024Q4I",
+          "offsetDays": 0,
+          "tagName": "Assets"
+        },
+        "investedCapital": 682892000
+      },
+      "end": {
+        "targetDate": "2026-02-01",
+        "debt": {
+          "value": null,
+          "reason": "incomplete conventional current/noncurrent debt representation",
+          "facts": [
+            {
+              "value": 0,
+              "end": "2026-02-01",
+              "form": "10-K",
+              "filed": "2026-03-25",
+              "accn": "0001474432-26-000027",
+              "frame": "CY2025Q4I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            }
+          ]
+        },
+        "equity": {
+          "value": 1445668000,
+          "end": "2026-02-01",
+          "form": "10-K",
+          "filed": "2026-03-25",
+          "accn": "0001474432-26-000027",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "StockholdersEquity"
+        },
+        "cash": {
+          "value": 854873000,
+          "end": "2026-02-01",
+          "form": "10-K",
+          "filed": "2026-03-25",
+          "accn": "0001474432-26-000027",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "assets": {
+          "value": 4674259000,
+          "end": "2026-02-01",
+          "form": "10-K",
+          "filed": "2026-03-25",
+          "accn": "0001474432-26-000027",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "Assets"
+        },
+        "investedCapital": null
+      }
+    },
+    "fcfConversionAudit": {
+      "reason": null,
+      "period": {
+        "start": "2025-02-03",
+        "end": "2026-02-01"
+      },
+      "operatingCashFlow": {
+        "start": "2025-02-03",
+        "end": "2026-02-01",
+        "value": 880085000,
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-03-25",
+        "accn": "0001474432-26-000027",
+        "frame": "CY2025",
+        "tagName": "NetCashProvidedByUsedInOperatingActivities"
+      },
+      "capex": {
+        "start": "2025-02-03",
+        "end": "2026-02-01",
+        "value": 264344000,
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-03-25",
+        "accn": "0001474432-26-000027",
+        "frame": "CY2025",
+        "tagName": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "netIncome": {
+        "start": "2025-02-03",
+        "end": "2026-02-01",
+        "value": 188181000,
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-03-25",
+        "accn": "0001474432-26-000027",
+        "frame": null,
+        "tagName": "NetIncomeLoss"
+      },
+      "revenue": {
+        "start": "2025-02-03",
+        "end": "2026-02-01",
+        "value": 3662843000,
+        "sourceTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-03-25",
+        "accn": "0001474432-26-000027",
+        "frame": "CY2025"
+      },
+      "revenueFloor": 3662843,
+      "annualFcf": 615741000,
+      "rawValue": 327.20678495703606
+    },
+    "basicShareChangeAudit": {
+      "reason": null,
+      "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+      "unit": "shares",
+      "current": {
+        "value": 328540000,
+        "start": "2025-02-03",
+        "end": "2026-02-01",
+        "durationDays": 363,
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-03-25",
+        "accn": "0001474432-26-000027",
+        "frame": "CY2025",
+        "duplicateCount": 1,
+        "duplicatesAgree": true
+      },
+      "prior": {
+        "value": 325774000,
+        "start": "2024-02-05",
+        "end": "2025-02-02",
+        "durationDays": 363,
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-03-25",
+        "accn": "0001474432-26-000027",
+        "frame": "CY2024",
+        "duplicateCount": 1,
+        "duplicatesAgree": true
+      },
+      "rawValue": 0.8490548662569708,
+      "accession": "0001474432-26-000027",
+      "filingDate": "2026-03-25",
+      "contradictoryPeriodCount": 0,
+      "asOfDate": "2026-09-25",
+      "currentPeriodAgeDays": 236,
+      "boundaryGapDays": 1
+    },
+    "netDebtBalanceCandidates": [
+      {
+        "date": "2026-08-02",
+        "form": "10-Q",
+        "filed": "2026-09-04",
+        "accession": "0001474432-26-000088",
+        "assets": 5220409000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 385694000,
+          "end": "2026-08-02",
+          "form": "10-Q",
+          "filed": "2026-09-04",
+          "accn": "0001474432-26-000088",
+          "frame": "CY2026Q2I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
+        "date": "2026-05-03",
+        "form": "10-Q",
+        "filed": "2026-06-05",
+        "accession": "0001474432-26-000061",
+        "assets": 4749947000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 837794000,
+          "end": "2026-05-03",
+          "form": "10-Q",
+          "filed": "2026-06-05",
+          "accn": "0001474432-26-000061",
+          "frame": "CY2026Q1I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
+        "date": "2026-02-01",
+        "form": "10-Q",
+        "filed": "2026-09-04",
+        "accession": "0001474432-26-000088",
+        "assets": 4674259000,
+        "debt": {
+          "value": null,
+          "reason": "incomplete conventional current/noncurrent debt representation",
+          "facts": [
+            {
+              "value": 0,
+              "end": "2026-02-01",
+              "form": "10-K",
+              "filed": "2026-03-25",
+              "accn": "0001474432-26-000027",
+              "frame": "CY2025Q4I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            }
+          ]
+        },
+        "cash": {
+          "value": 854873000,
+          "end": "2026-02-01",
+          "form": "10-Q",
+          "filed": "2026-09-04",
+          "accn": "0001474432-26-000088",
+          "frame": "CY2025Q4I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "incomplete conventional current/noncurrent debt representation"
+      },
+      {
+        "date": "2025-11-02",
+        "form": "10-Q",
+        "filed": "2025-12-10",
+        "accession": "0001474432-25-000065",
+        "assets": 4218411000,
+        "debt": {
+          "value": null,
+          "reason": "incomplete conventional current/noncurrent debt representation",
+          "facts": [
+            {
+              "value": 0,
+              "end": "2025-11-02",
+              "form": "10-Q",
+              "filed": "2025-12-10",
+              "accn": "0001474432-25-000065",
+              "frame": "CY2025Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            }
+          ]
+        },
+        "cash": {
+          "value": 852838000,
+          "end": "2025-11-02",
+          "form": "10-Q",
+          "filed": "2025-12-10",
+          "accn": "0001474432-25-000065",
+          "frame": "CY2025Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "incomplete conventional current/noncurrent debt representation"
+      },
+      {
+        "date": "2025-08-03",
+        "form": "10-Q",
+        "filed": "2025-09-10",
+        "accession": "0001474432-25-000046",
+        "assets": 4026537000,
+        "debt": {
+          "value": null,
+          "reason": "incomplete conventional current/noncurrent debt representation",
+          "facts": [
+            {
+              "value": 0,
+              "end": "2025-08-03",
+              "form": "10-Q",
+              "filed": "2025-09-10",
+              "accn": "0001474432-25-000046",
+              "frame": "CY2025Q2I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            }
+          ]
+        },
+        "cash": {
+          "value": 887849000,
+          "end": "2025-08-03",
+          "form": "10-Q",
+          "filed": "2025-09-10",
+          "accn": "0001474432-25-000046",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "incomplete conventional current/noncurrent debt representation"
+      },
+      {
+        "date": "2025-05-04",
+        "form": "10-Q",
+        "filed": "2025-06-11",
+        "accession": "0001628280-25-030567",
+        "assets": 3810365000,
+        "debt": {
+          "value": null,
+          "reason": "incomplete conventional current/noncurrent debt representation",
+          "facts": [
+            {
+              "value": 100000000,
+              "end": "2025-05-04",
+              "form": "10-Q",
+              "filed": "2025-06-11",
+              "accn": "0001628280-25-030567",
+              "frame": "CY2025Q1I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            }
+          ]
+        },
+        "cash": {
+          "value": 739336000,
+          "end": "2025-05-04",
+          "form": "10-Q",
+          "filed": "2025-06-11",
+          "accn": "0001628280-25-030567",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "incomplete conventional current/noncurrent debt representation"
+      }
+    ],
+    "lastFiledDate": "2026-09-04",
+    "nextExpectedFilingDate": "2026-12-04",
+    "source": "sec",
+    "updatedAt": "2026-09-25T15:19:13.518Z"
+  },
+  "ILMN": {
+    "name": "ILLUMINA, INC.",
+    "sector": "Laboratory Analytical Instruments",
+    "roe": 29.95,
+    "debtEquity": 0.413,
+    "fcfConversion": 109.5294,
+    "basicShareChange": -2.5157,
+    "secEps": 5.45,
+    "secBookValuePerShare": 18.7947,
+    "revenueGrowth": -0.66,
+    "fcfGrowth": 31.31,
+    "operatingMargin": 18.58,
+    "marginTrend": 37.63,
+    "annualOcf": 1079000000,
+    "annualCapex": 148000000,
+    "annualFcf": 931000000,
+    "annualFcfPeriodStart": "2024-12-30",
+    "annualFcfPeriodEnd": "2025-12-28",
+    "sharesOutstanding": 151000000,
+    "sic": 3826,
+    "roicAudit": {
+      "reason": "no supported debt representation at balance date",
+      "period": {
+        "start": "2024-12-30",
+        "end": "2025-12-28"
+      },
+      "operatingIncome": {
+        "start": "2024-12-30",
+        "end": "2025-12-28",
+        "value": 807000000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-12",
+        "accn": "0001110803-26-000024",
+        "frame": "CY2025",
+        "tagName": "OperatingIncomeLoss"
+      },
+      "taxExpense": {
+        "start": "2024-12-30",
+        "end": "2025-12-28",
+        "value": 236000000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-12",
+        "accn": "0001110803-26-000024",
+        "frame": "CY2025",
+        "tagName": "IncomeTaxExpenseBenefit"
+      },
+      "pretaxIncome": {
+        "start": "2024-12-30",
+        "end": "2025-12-28",
+        "value": 1086000000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-12",
+        "accn": "0001110803-26-000024",
+        "frame": "CY2025",
+        "tagName": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest"
+      },
+      "begin": {
+        "targetDate": "2024-12-29",
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "equity": {
+          "value": 2373000000,
+          "end": "2024-12-29",
+          "form": "10-K",
+          "filed": "2026-02-12",
+          "accn": "0001110803-26-000024",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "StockholdersEquity"
+        },
+        "cash": null,
+        "assets": {
+          "value": 6303000000,
+          "end": "2024-12-29",
+          "form": "10-K",
+          "filed": "2026-02-12",
+          "accn": "0001110803-26-000024",
+          "frame": "CY2024Q4I",
+          "offsetDays": 0,
+          "tagName": "Assets"
+        },
+        "investedCapital": null
+      },
+      "end": {
+        "targetDate": "2025-12-28",
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "equity": {
+          "value": 2723000000,
+          "end": "2025-12-28",
+          "form": "10-K",
+          "filed": "2026-02-12",
+          "accn": "0001110803-26-000024",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "StockholdersEquity"
+        },
+        "cash": null,
+        "assets": {
+          "value": 6644000000,
+          "end": "2025-12-28",
+          "form": "10-K",
+          "filed": "2026-02-12",
+          "accn": "0001110803-26-000024",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "Assets"
+        },
+        "investedCapital": null
+      }
+    },
+    "fcfConversionAudit": {
+      "reason": null,
+      "period": {
+        "start": "2024-12-30",
+        "end": "2025-12-28"
+      },
+      "operatingCashFlow": {
+        "start": "2024-12-30",
+        "end": "2025-12-28",
+        "value": 1079000000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-12",
+        "accn": "0001110803-26-000024",
+        "frame": "CY2025",
+        "tagName": "NetCashProvidedByUsedInOperatingActivities"
+      },
+      "capex": {
+        "start": "2024-12-30",
+        "end": "2025-12-28",
+        "value": 148000000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-12",
+        "accn": "0001110803-26-000024",
+        "frame": "CY2025",
+        "tagName": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "netIncome": {
+        "start": "2024-12-30",
+        "end": "2025-12-28",
+        "value": 850000000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-12",
+        "accn": "0001110803-26-000024",
+        "frame": null,
+        "tagName": "NetIncomeLoss"
+      },
+      "revenue": {
+        "start": "2024-12-30",
+        "end": "2025-12-28",
+        "value": 4343000000,
+        "sourceTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-12",
+        "accn": "0001110803-26-000024",
+        "frame": "CY2025"
+      },
+      "revenueFloor": 4343000,
+      "annualFcf": 931000000,
+      "rawValue": 109.52941176470587
+    },
+    "basicShareChangeAudit": {
+      "reason": null,
+      "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+      "unit": "shares",
+      "current": {
+        "value": 155000000,
+        "start": "2024-12-30",
+        "end": "2025-12-28",
+        "durationDays": 363,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-12",
+        "accn": "0001110803-26-000024",
+        "frame": "CY2025",
+        "duplicateCount": 1,
+        "duplicatesAgree": true
+      },
+      "prior": {
+        "value": 159000000,
+        "start": "2024-01-01",
+        "end": "2024-12-29",
+        "durationDays": 363,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-12",
+        "accn": "0001110803-26-000024",
+        "frame": "CY2024",
+        "duplicateCount": 1,
+        "duplicatesAgree": true
+      },
+      "rawValue": -2.515723270440251,
+      "accession": "0001110803-26-000024",
+      "filingDate": "2026-02-12",
+      "contradictoryPeriodCount": 0,
+      "asOfDate": "2026-09-25",
+      "currentPeriodAgeDays": 271,
+      "boundaryGapDays": 1
+    },
+    "netDebtBalanceCandidates": [
+      {
+        "date": "2026-06-28",
+        "form": "10-Q",
+        "filed": "2026-07-31",
+        "accession": "0001110803-26-000160",
+        "assets": 6650000000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": null,
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
+        "date": "2026-03-29",
+        "form": "10-Q",
+        "filed": "2026-05-04",
+        "accession": "0001110803-26-000092",
+        "assets": 6559000000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": null,
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
+        "date": "2025-12-28",
+        "form": "10-Q",
+        "filed": "2026-07-31",
+        "accession": "0001110803-26-000160",
+        "assets": 6644000000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": null,
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
+        "date": "2025-09-28",
+        "form": "10-Q",
+        "filed": "2025-10-31",
+        "accession": "0001110803-25-000073",
+        "assets": 6177000000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": null,
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
+        "date": "2025-06-29",
+        "form": "10-Q",
+        "filed": "2025-08-01",
+        "accession": "0001110803-25-000060",
+        "assets": 6087000000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": null,
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
+        "date": "2025-03-30",
+        "form": "10-Q",
+        "filed": "2025-05-09",
+        "accession": "0001110803-25-000046",
+        "assets": 6182000000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": null,
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      }
+    ],
+    "lastFiledDate": "2026-07-31",
+    "nextExpectedFilingDate": "2026-10-30",
+    "source": "sec",
+    "updatedAt": "2026-09-25T15:22:22.082Z"
+  },
+  "RDDT": {
+    "name": "Reddit, Inc.",
+    "sector": "Services-Computer Processing & Data Preparation",
+    "roe": 16.12,
+    "fcfConversion": 129.1565,
+    "basicShareChange": 28.1228,
+    "secEps": 2.62,
+    "revenueGrowth": 69.4,
+    "fcfGrowth": 217.01,
+    "operatingMargin": 20.07,
+    "marginTrend": 63.18,
+    "annualOcf": 690875000,
+    "annualCapex": 6706000,
+    "annualFcf": 684169000,
+    "annualFcfPeriodStart": "2025-01-01",
+    "annualFcfPeriodEnd": "2025-12-31",
+    "sic": 7374,
+    "roicAudit": {
+      "reason": "no supported debt representation at balance date",
+      "period": {
+        "start": "2025-01-01",
+        "end": "2025-12-31"
+      },
+      "operatingIncome": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": 441984000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-06",
+        "accn": "0001713445-26-000022",
+        "frame": "CY2025",
+        "tagName": "OperatingIncomeLoss"
+      },
+      "taxExpense": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": -1031000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-06",
+        "accn": "0001713445-26-000022",
+        "frame": "CY2025",
+        "tagName": "IncomeTaxExpenseBenefit"
+      },
+      "pretaxIncome": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": 528690000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-06",
+        "accn": "0001713445-26-000022",
+        "frame": "CY2025",
+        "tagName": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest"
+      },
+      "begin": {
+        "targetDate": "2024-12-31",
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "equity": {
+          "value": 2130749000,
+          "end": "2024-12-31",
+          "form": "10-K",
+          "filed": "2026-02-06",
+          "accn": "0001713445-26-000022",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "StockholdersEquity"
+        },
+        "cash": {
+          "value": 562092000,
+          "end": "2024-12-31",
+          "form": "10-K",
+          "filed": "2026-02-06",
+          "accn": "0001713445-26-000022",
+          "frame": "CY2024Q4I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "assets": {
+          "value": 2336595000,
+          "end": "2024-12-31",
+          "form": "10-K",
+          "filed": "2026-02-06",
+          "accn": "0001713445-26-000022",
+          "frame": "CY2024Q4I",
+          "offsetDays": 0,
+          "tagName": "Assets"
+        },
+        "investedCapital": null
+      },
+      "end": {
+        "targetDate": "2025-12-31",
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "equity": {
+          "value": 2929038000,
+          "end": "2025-12-31",
+          "form": "10-K",
+          "filed": "2026-02-06",
+          "accn": "0001713445-26-000022",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "StockholdersEquity"
+        },
+        "cash": {
+          "value": 953569000,
+          "end": "2025-12-31",
+          "form": "10-K",
+          "filed": "2026-02-06",
+          "accn": "0001713445-26-000022",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "assets": {
+          "value": 3239173000,
+          "end": "2025-12-31",
+          "form": "10-K",
+          "filed": "2026-02-06",
+          "accn": "0001713445-26-000022",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "Assets"
+        },
+        "investedCapital": null
+      }
+    },
+    "fcfConversionAudit": {
+      "reason": null,
+      "period": {
+        "start": "2025-01-01",
+        "end": "2025-12-31"
+      },
+      "operatingCashFlow": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": 690875000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-06",
+        "accn": "0001713445-26-000022",
+        "frame": "CY2025",
+        "tagName": "NetCashProvidedByUsedInOperatingActivities"
+      },
+      "capex": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": 6706000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-06",
+        "accn": "0001713445-26-000022",
+        "frame": "CY2025",
+        "tagName": "PaymentsToAcquirePropertyPlantAndEquipment"
+      },
+      "netIncome": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": 529721000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-06",
+        "accn": "0001713445-26-000022",
+        "frame": null,
+        "tagName": "NetIncomeLoss"
+      },
+      "revenue": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": 2202506000,
+        "sourceTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-06",
+        "accn": "0001713445-26-000022",
+        "frame": "CY2025"
+      },
+      "revenueFloor": 2202506,
+      "annualFcf": 684169000,
+      "rawValue": 129.15648048689783
+    },
+    "basicShareChangeAudit": {
+      "reason": null,
+      "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+      "unit": "shares",
+      "current": {
+        "value": 186383271,
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "durationDays": 364,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-06",
+        "accn": "0001713445-26-000022",
+        "frame": "CY2025",
+        "duplicateCount": 1,
+        "duplicatesAgree": true
+      },
+      "prior": {
+        "value": 145472389,
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "durationDays": 365,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-06",
+        "accn": "0001713445-26-000022",
+        "frame": "CY2024",
+        "duplicateCount": 1,
+        "duplicatesAgree": true
+      },
+      "rawValue": 28.122781430364775,
+      "accession": "0001713445-26-000022",
+      "filingDate": "2026-02-06",
+      "contradictoryPeriodCount": 0,
+      "asOfDate": "2026-09-25",
+      "currentPeriodAgeDays": 268,
+      "boundaryGapDays": 1
+    },
+    "netDebtBalanceCandidates": [
+      {
+        "date": "2026-06-30",
+        "form": "10-Q",
+        "filed": "2026-07-31",
+        "accession": "0001713445-26-000100",
+        "assets": 3636605000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 1486838000,
+          "end": "2026-06-30",
+          "form": "10-Q",
+          "filed": "2026-07-31",
+          "accn": "0001713445-26-000100",
+          "frame": "CY2026Q2I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
+        "date": "2026-03-31",
+        "form": "10-Q",
+        "filed": "2026-05-01",
+        "accession": "0001713445-26-000069",
+        "assets": 3484283000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 1374348000,
+          "end": "2026-03-31",
+          "form": "10-Q",
+          "filed": "2026-05-01",
+          "accn": "0001713445-26-000069",
+          "frame": "CY2026Q1I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
+        "date": "2025-12-31",
+        "form": "10-Q",
+        "filed": "2026-07-31",
+        "accession": "0001713445-26-000100",
+        "assets": 3239173000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 953569000,
+          "end": "2025-12-31",
+          "form": "10-Q",
+          "filed": "2026-07-31",
+          "accn": "0001713445-26-000100",
+          "frame": "CY2025Q4I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
+        "date": "2025-09-30",
+        "form": "10-Q",
+        "filed": "2025-10-31",
+        "accession": "0001713445-25-000227",
+        "assets": 2876376000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 911653000,
+          "end": "2025-09-30",
+          "form": "10-Q",
+          "filed": "2025-10-31",
+          "accn": "0001713445-25-000227",
+          "frame": "CY2025Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
+        "date": "2025-06-30",
+        "form": "10-Q",
+        "filed": "2025-08-01",
+        "accession": "0001713445-25-000196",
+        "assets": 2632202000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 734060000,
+          "end": "2025-06-30",
+          "form": "10-Q",
+          "filed": "2025-08-01",
+          "accn": "0001713445-25-000196",
+          "frame": "CY2025Q2I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
+        "date": "2025-03-31",
+        "form": "10-Q",
+        "filed": "2025-05-02",
+        "accession": "0001713445-25-000102",
+        "assets": 2437024000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 635727000,
+          "end": "2025-03-31",
+          "form": "10-Q",
+          "filed": "2025-05-02",
+          "accn": "0001713445-25-000102",
+          "frame": "CY2025Q1I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      }
+    ],
+    "lastFiledDate": "2026-07-31",
+    "nextExpectedFilingDate": "2026-10-30",
+    "source": "sec",
+    "updatedAt": "2026-09-25T15:28:38.100Z"
+  },
+  "VMRK": {
+    "name": "VIVMARK RESIDENTIAL",
+    "sector": "Real Estate Investment Trusts",
+    "roe": 10.65,
+    "basicShareChange": 0.2152,
+    "secEps": 2.94,
+    "secBookValuePerShare": 28.0441,
+    "revenueGrowth": 4.76,
+    "epsGrowth": 8.09,
+    "operatingMargin": 50.22,
+    "marginTrend": 16.92,
+    "sharesOutstanding": 374944409,
+    "sic": 6798,
+    "roicAudit": {
+      "reason": "excluded REIT SIC 6798",
+      "period": {
+        "start": "2023-01-01",
+        "end": "2023-12-31"
+      },
+      "operatingIncome": {
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "value": 1160585000,
+        "fy": 2023,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2024-02-15",
+        "accn": "0000950170-24-015907",
+        "frame": "CY2023",
+        "tagName": "OperatingIncomeLoss"
+      },
+      "taxExpense": {
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "value": 1148000,
+        "fy": 2023,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2024-02-15",
+        "accn": "0000950170-24-015907",
+        "frame": null,
+        "tagName": "IncomeTaxExpenseBenefit"
+      },
+      "pretaxIncome": {
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "value": 875014000,
+        "fy": 2023,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2024-02-15",
+        "accn": "0000950170-24-015907",
+        "frame": null,
+        "tagName": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments"
+      },
+      "begin": {
+        "targetDate": "2022-12-31",
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "equity": {
+          "value": 11382679000,
+          "end": "2022-12-31",
+          "form": "10-K",
+          "filed": "2024-02-15",
+          "accn": "0000950170-24-015907",
+          "frame": "CY2022Q4I",
+          "offsetDays": 0,
+          "tagName": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest"
+        },
+        "cash": {
+          "value": 53869000,
+          "end": "2022-12-31",
+          "form": "10-K",
+          "filed": "2024-02-15",
+          "accn": "0000950170-24-015907",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "assets": {
+          "value": 20218262000,
+          "end": "2022-12-31",
+          "form": "10-K",
+          "filed": "2024-02-15",
+          "accn": "0000950170-24-015907",
+          "frame": "CY2022Q4I",
+          "offsetDays": 0,
+          "tagName": "Assets"
+        },
+        "investedCapital": null
+      },
+      "end": {
+        "targetDate": "2023-12-31",
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "equity": {
+          "value": 11289128000,
+          "end": "2023-12-31",
+          "form": "10-K",
+          "filed": "2024-02-15",
+          "accn": "0000950170-24-015907",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest"
+        },
+        "cash": {
+          "value": 50743000,
+          "end": "2023-12-31",
+          "form": "10-K",
+          "filed": "2024-02-15",
+          "accn": "0000950170-24-015907",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "assets": {
+          "value": 20034564000,
+          "end": "2023-12-31",
+          "form": "10-K",
+          "filed": "2024-02-15",
+          "accn": "0000950170-24-015907",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "Assets"
+        },
+        "investedCapital": null
+      }
+    },
+    "fcfConversionAudit": {
+      "reason": "excluded REIT SIC 6798",
+      "period": {
+        "start": "2025-01-01",
+        "end": "2025-12-31"
+      },
+      "operatingCashFlow": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": 1648763000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-13",
+        "accn": "0001193125-26-051433",
+        "frame": "CY2025",
+        "tagName": "NetCashProvidedByUsedInOperatingActivities"
+      },
+      "capex": null,
+      "netIncome": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": 1120089000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-13",
+        "accn": "0001193125-26-051433",
+        "frame": "CY2025",
+        "tagName": "NetIncomeLoss"
+      },
+      "revenue": null
+    },
+    "basicShareChangeAudit": {
+      "reason": null,
+      "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+      "unit": "shares",
+      "current": {
+        "value": 379610000,
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "durationDays": 364,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-13",
+        "accn": "0001193125-26-051433",
+        "frame": "CY2025",
+        "duplicateCount": 1,
+        "duplicatesAgree": true
+      },
+      "prior": {
+        "value": 378795000,
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "durationDays": 365,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-13",
+        "accn": "0001193125-26-051433",
+        "frame": "CY2024",
+        "duplicateCount": 1,
+        "duplicatesAgree": true
+      },
+      "rawValue": 0.21515595506804708,
+      "accession": "0001193125-26-051433",
+      "filingDate": "2026-02-13",
+      "contradictoryPeriodCount": 0,
+      "asOfDate": "2026-09-25",
+      "currentPeriodAgeDays": 268,
+      "boundaryGapDays": 1
+    },
+    "netDebtBalanceCandidates": [
+      {
+        "date": "2026-06-30",
+        "form": "10-Q",
+        "filed": "2026-07-30",
+        "accession": "0001193125-26-326170",
+        "assets": 20275577000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 36405000,
+          "end": "2026-06-30",
+          "form": "10-Q",
+          "filed": "2026-07-30",
+          "accn": "0001193125-26-326170",
+          "frame": "CY2026Q2I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
+        "date": "2026-03-31",
+        "form": "10-Q",
+        "filed": "2026-04-30",
+        "accession": "0001193125-26-197417",
+        "assets": 20517153000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 34677000,
+          "end": "2026-03-31",
+          "form": "10-Q",
+          "filed": "2026-04-30",
+          "accn": "0001193125-26-197417",
+          "frame": "CY2026Q1I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
+        "date": "2025-12-31",
+        "form": "10-Q",
+        "filed": "2026-07-30",
+        "accession": "0001193125-26-326170",
+        "assets": 20746023000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 55904000,
+          "end": "2025-12-31",
+          "form": "10-Q",
+          "filed": "2026-07-30",
+          "accn": "0001193125-26-326170",
+          "frame": "CY2025Q4I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
+        "date": "2025-09-30",
+        "form": "10-Q",
+        "filed": "2025-10-30",
+        "accession": "0001193125-25-258599",
+        "assets": 21065063000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 93092000,
+          "end": "2025-09-30",
+          "form": "10-Q",
+          "filed": "2025-10-30",
+          "accn": "0001193125-25-258599",
+          "frame": "CY2025Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
+        "date": "2025-06-30",
+        "form": "10-Q",
+        "filed": "2025-08-06",
+        "accession": "0000950170-25-104090",
+        "assets": 21027514000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 31276000,
+          "end": "2025-06-30",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0000950170-25-104090",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
+        "date": "2025-03-31",
+        "form": "10-Q",
+        "filed": "2025-04-30",
+        "accession": "0000950170-25-061082",
+        "assets": 20562185000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 39849000,
+          "end": "2025-03-31",
+          "form": "10-Q",
+          "filed": "2025-04-30",
+          "accn": "0000950170-25-061082",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      }
+    ],
+    "lastFiledDate": "2026-07-30",
+    "nextExpectedFilingDate": "2026-10-29",
+    "source": "sec",
+    "updatedAt": "2026-09-25T15:32:40.263Z"
   }
 }
