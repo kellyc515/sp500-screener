@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-29T16:28:39.257Z"
+    "updatedAt": "2026-09-30T16:23:13.400Z"
   },
   "trades": [
     {
@@ -495,6 +495,19 @@
       "amount": "$15,001 - $50,000",
       "transactionDate": "2026-09-04",
       "disclosureDate": "2026-09-25",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|OKE|2026-09-04|Sale|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "OKE",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "ONEOK Inc",
+      "type": "Sale",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-04",
+      "disclosureDate": "2026-09-28",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
     },
     {
@@ -1106,6 +1119,19 @@
       "amount": "$100,001 - $250,000",
       "transactionDate": "2026-08-31",
       "disclosureDate": "2026-09-25",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|NVO|2026-08-31|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "NVO",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Novo Nordisk A/S",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-08-31",
+      "disclosureDate": "2026-09-28",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
     },
     {
