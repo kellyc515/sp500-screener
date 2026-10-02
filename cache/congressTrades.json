@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-01T16:59:57.820Z"
+    "updatedAt": "2026-10-02T16:14:24.119Z"
   },
   "trades": [
     {
@@ -15,6 +15,32 @@
       "transactionDate": "2026-09-22",
       "disclosureDate": "2026-09-23",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035499.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf|MPC|2026-09-22|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "MPC",
+      "member": "David Taylor",
+      "district": "OH02",
+      "assetDescription": "Marathon Petroleum Corp (2)",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-22",
+      "disclosureDate": "2026-10-02",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf|HD|2026-09-22|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "HD",
+      "member": "David Taylor",
+      "district": "OH02",
+      "assetDescription": "The Home Depot Inc",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-22",
+      "disclosureDate": "2026-10-02",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|CNP|2026-09-15|Sale|$15,001 - $50,000",
@@ -238,6 +264,32 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf|GOOGL|2026-09-14|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "GOOGL",
+      "member": "Cleo Fields",
+      "district": "LA06",
+      "assetDescription": "Alphabet Inc",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-14",
+      "disclosureDate": "2026-10-02",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf|NFLX|2026-09-14|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "NFLX",
+      "member": "Cleo Fields",
+      "district": "LA06",
+      "assetDescription": "Netflix Inc",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-14",
+      "disclosureDate": "2026-10-02",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|OKE|2026-09-11|Exchange|$100,001 - $250,000",
       "chamber": "House",
       "ticker": "OKE",
@@ -314,6 +366,19 @@
       "transactionDate": "2026-09-10",
       "disclosureDate": "2026-09-28",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf|MSFT|2026-09-10|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "MSFT",
+      "member": "Cleo Fields",
+      "district": "LA06",
+      "assetDescription": "Microsoft Corp",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-10",
+      "disclosureDate": "2026-10-02",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|ITW|2026-09-09|Sale|$15,001 - $50,000",
@@ -446,6 +511,19 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf|AAPL|2026-09-08|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "AAPL",
+      "member": "Cleo Fields",
+      "district": "LA06",
+      "assetDescription": "Apple Inc",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-08",
+      "disclosureDate": "2026-10-02",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|BSX|2026-09-04|Sale|$50,001 - $100,000",
       "chamber": "House",
       "ticker": "BSX",
@@ -509,6 +587,45 @@
       "transactionDate": "2026-09-04",
       "disclosureDate": "2026-09-28",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/|V|2026-09-04|Sale|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "V",
+      "member": "Sheldon Whitehouse",
+      "district": "RI",
+      "assetDescription": "Visa Inc",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-04",
+      "disclosureDate": "2026-10-01",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/|ADI|2026-09-04|Sale|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "ADI",
+      "member": "Sheldon Whitehouse",
+      "district": "RI",
+      "assetDescription": "Analog Devices Inc",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-04",
+      "disclosureDate": "2026-10-01",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/|JPM|2026-09-04|Sale|$15,001 - $50,000",
+      "chamber": "Senate",
+      "ticker": "JPM",
+      "member": "Sheldon Whitehouse",
+      "district": "RI",
+      "assetDescription": "JPMorgan Chase & Co",
+      "type": "Sale",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-04",
+      "disclosureDate": "2026-10-01",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|BSX|2026-09-03|Sale|$1,001 - $15,000",

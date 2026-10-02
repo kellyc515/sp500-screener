@@ -148739,8 +148739,8 @@
   "MKC": {
     "name": "MCCORMICK & CO INC",
     "sector": "Miscellaneous Food Preparations & Kindred Products",
-    "roe": 11.28,
-    "debtEquity": 0.705,
+    "roe": 11.27,
+    "debtEquity": 0.717,
     "secEps": 2.93,
     "revenueGrowth": 1.73,
     "epsGrowth": 0.34,
@@ -148748,7 +148748,7 @@
     "operatingMargin": 15.65,
     "marginTrend": -0.12,
     "source": "sec",
-    "updatedAt": "2026-09-30T16:40:19.706Z",
+    "updatedAt": "2026-10-02T16:40:17.165Z",
     "annualFcf": 389500000,
     "annualFcfPeriodEnd": "2022-11-30",
     "sharesOutstanding": null,
@@ -149038,12 +149038,72 @@
       "accession": "0000063754-26-000037",
       "filingDate": "2026-01-22",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-09-30",
-      "currentPeriodAgeDays": 304,
+      "asOfDate": "2026-10-02",
+      "currentPeriodAgeDays": 306,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:57.915Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-08-31",
+        "form": "10-Q",
+        "filed": "2026-10-01",
+        "accession": "0000063754-26-000329",
+        "assets": 16650600000,
+        "debt": {
+          "value": 5018200000,
+          "reason": null,
+          "method": [
+            "LongTermDebtCurrent",
+            "LongTermDebtNoncurrent",
+            "ShortTermBorrowings"
+          ],
+          "facts": [
+            {
+              "value": 771900000,
+              "end": "2026-08-31",
+              "form": "10-Q",
+              "filed": "2026-10-01",
+              "accn": "0000063754-26-000329",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            },
+            {
+              "value": 2906100000,
+              "end": "2026-08-31",
+              "form": "10-Q",
+              "filed": "2026-10-01",
+              "accn": "0000063754-26-000329",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtNoncurrent"
+            },
+            {
+              "value": 1340200000,
+              "end": "2026-08-31",
+              "form": "10-Q",
+              "filed": "2026-10-01",
+              "accn": "0000063754-26-000329",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "ShortTermBorrowings"
+            }
+          ]
+        },
+        "cash": {
+          "value": 331100000,
+          "end": "2026-08-31",
+          "form": "10-Q",
+          "filed": "2026-10-01",
+          "accn": "0000063754-26-000329",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": 4687100000,
+        "reason": null
+      },
       {
         "date": "2026-05-31",
         "form": "10-Q",
@@ -149167,8 +149227,8 @@
       {
         "date": "2025-11-30",
         "form": "10-Q",
-        "filed": "2026-06-25",
-        "accession": "0000063754-26-000274",
+        "filed": "2026-10-01",
+        "accession": "0000063754-26-000329",
         "assets": 13200400000,
         "debt": {
           "value": 3996300000,
@@ -149183,8 +149243,8 @@
               "value": 509100000,
               "end": "2025-11-30",
               "form": "10-Q",
-              "filed": "2026-06-25",
-              "accn": "0000063754-26-000274",
+              "filed": "2026-10-01",
+              "accn": "0000063754-26-000329",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtCurrent"
@@ -149193,8 +149253,8 @@
               "value": 3105800000,
               "end": "2025-11-30",
               "form": "10-Q",
-              "filed": "2026-06-25",
-              "accn": "0000063754-26-000274",
+              "filed": "2026-10-01",
+              "accn": "0000063754-26-000329",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtNoncurrent"
@@ -149203,8 +149263,8 @@
               "value": 381400000,
               "end": "2025-11-30",
               "form": "10-Q",
-              "filed": "2026-06-25",
-              "accn": "0000063754-26-000274",
+              "filed": "2026-10-01",
+              "accn": "0000063754-26-000329",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "ShortTermBorrowings"
@@ -149215,8 +149275,8 @@
           "value": 95900000,
           "end": "2025-11-30",
           "form": "10-Q",
-          "filed": "2026-06-25",
-          "accn": "0000063754-26-000274",
+          "filed": "2026-10-01",
+          "accn": "0000063754-26-000329",
           "frame": "CY2025Q4I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
@@ -149345,8 +149405,8 @@
         "reason": null
       }
     ],
-    "lastFiledDate": "2026-06-25",
-    "nextExpectedFilingDate": "2026-09-24"
+    "lastFiledDate": "2026-10-01",
+    "nextExpectedFilingDate": "2026-12-31"
   },
   "MCD": {
     "name": "MCDONALDS CORP",
@@ -245712,8 +245772,8 @@
       "accession": "0001628280-26-006516",
       "filingDate": "2026-02-09",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-09-25",
-      "currentPeriodAgeDays": 268,
+      "asOfDate": "2026-10-02",
+      "currentPeriodAgeDays": 275,
       "boundaryGapDays": 1
     },
     "netDebtBalanceCandidates": [
@@ -245956,72 +246016,12 @@
         },
         "netDebt": 561833000,
         "reason": null
-      },
-      {
-        "date": "2025-03-31",
-        "form": "10-Q",
-        "filed": "2025-04-30",
-        "accession": "0001628280-25-021160",
-        "assets": 2607984000,
-        "debt": {
-          "value": 1245413000,
-          "reason": null,
-          "method": [
-            "LongTermDebtCurrent",
-            "LongTermDebtNoncurrent",
-            "ShortTermBorrowings"
-          ],
-          "facts": [
-            {
-              "value": 114631000,
-              "end": "2025-03-31",
-              "form": "10-Q",
-              "filed": "2025-04-30",
-              "accn": "0001628280-25-021160",
-              "frame": "CY2025Q1I",
-              "offsetDays": 0,
-              "tagName": "LongTermDebtCurrent"
-            },
-            {
-              "value": 1016182000,
-              "end": "2025-03-31",
-              "form": "10-Q",
-              "filed": "2025-04-30",
-              "accn": "0001628280-25-021160",
-              "frame": "CY2025Q1I",
-              "offsetDays": 0,
-              "tagName": "LongTermDebtNoncurrent"
-            },
-            {
-              "value": 114600000,
-              "end": "2025-03-31",
-              "form": "10-Q",
-              "filed": "2025-04-30",
-              "accn": "0001628280-25-021160",
-              "frame": "CY2025Q1I",
-              "offsetDays": 0,
-              "tagName": "ShortTermBorrowings"
-            }
-          ]
-        },
-        "cash": {
-          "value": 794751000,
-          "end": "2025-03-31",
-          "form": "10-Q",
-          "filed": "2025-04-30",
-          "accn": "0001628280-25-021160",
-          "frame": "CY2025Q1I",
-          "offsetDays": 0,
-          "tagName": "CashAndCashEquivalentsAtCarryingValue"
-        },
-        "netDebt": 450662000,
-        "reason": null
       }
     ],
     "lastFiledDate": "2026-04-29",
     "nextExpectedFilingDate": "2026-07-29",
     "source": "sec",
-    "updatedAt": "2026-09-25T15:14:09.760Z"
+    "updatedAt": "2026-10-02T16:20:09.140Z"
   },
   "P": {
     "name": "Everpure, Inc.",
@@ -246295,8 +246295,8 @@
       "accession": "0001474432-26-000027",
       "filingDate": "2026-03-25",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-09-25",
-      "currentPeriodAgeDays": 236,
+      "asOfDate": "2026-10-02",
+      "currentPeriodAgeDays": 243,
       "boundaryGapDays": 1
     },
     "netDebtBalanceCandidates": [
@@ -246492,7 +246492,7 @@
     "lastFiledDate": "2026-09-04",
     "nextExpectedFilingDate": "2026-12-04",
     "source": "sec",
-    "updatedAt": "2026-09-25T15:19:13.518Z"
+    "updatedAt": "2026-10-02T16:29:36.698Z"
   },
   "ILMN": {
     "name": "ILLUMINA, INC.",
@@ -246711,8 +246711,8 @@
       "accession": "0001110803-26-000024",
       "filingDate": "2026-02-12",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-09-25",
-      "currentPeriodAgeDays": 271,
+      "asOfDate": "2026-10-02",
+      "currentPeriodAgeDays": 278,
       "boundaryGapDays": 1
     },
     "netDebtBalanceCandidates": [
@@ -246790,27 +246790,12 @@
         "cash": null,
         "netDebt": null,
         "reason": "no supported debt representation at balance date"
-      },
-      {
-        "date": "2025-03-30",
-        "form": "10-Q",
-        "filed": "2025-05-09",
-        "accession": "0001110803-25-000046",
-        "assets": 6182000000,
-        "debt": {
-          "value": null,
-          "reason": "no supported debt representation at balance date",
-          "facts": []
-        },
-        "cash": null,
-        "netDebt": null,
-        "reason": "no supported debt representation at balance date"
       }
     ],
     "lastFiledDate": "2026-07-31",
     "nextExpectedFilingDate": "2026-10-30",
     "source": "sec",
-    "updatedAt": "2026-09-25T15:22:22.082Z"
+    "updatedAt": "2026-10-02T16:35:30.405Z"
   },
   "RDDT": {
     "name": "Reddit, Inc.",
@@ -247044,8 +247029,8 @@
       "accession": "0001713445-26-000022",
       "filingDate": "2026-02-06",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-09-25",
-      "currentPeriodAgeDays": 268,
+      "asOfDate": "2026-10-02",
+      "currentPeriodAgeDays": 275,
       "boundaryGapDays": 1
     },
     "netDebtBalanceCandidates": [
@@ -247168,36 +247153,12 @@
         },
         "netDebt": null,
         "reason": "no supported debt representation at balance date"
-      },
-      {
-        "date": "2025-03-31",
-        "form": "10-Q",
-        "filed": "2025-05-02",
-        "accession": "0001713445-25-000102",
-        "assets": 2437024000,
-        "debt": {
-          "value": null,
-          "reason": "no supported debt representation at balance date",
-          "facts": []
-        },
-        "cash": {
-          "value": 635727000,
-          "end": "2025-03-31",
-          "form": "10-Q",
-          "filed": "2025-05-02",
-          "accn": "0001713445-25-000102",
-          "frame": "CY2025Q1I",
-          "offsetDays": 0,
-          "tagName": "CashAndCashEquivalentsAtCarryingValue"
-        },
-        "netDebt": null,
-        "reason": "no supported debt representation at balance date"
       }
     ],
     "lastFiledDate": "2026-07-31",
     "nextExpectedFilingDate": "2026-10-30",
     "source": "sec",
-    "updatedAt": "2026-09-25T15:28:38.100Z"
+    "updatedAt": "2026-10-02T16:47:10.633Z"
   },
   "VMRK": {
     "name": "VIVMARK RESIDENTIAL",
@@ -247402,8 +247363,8 @@
       "accession": "0001193125-26-051433",
       "filingDate": "2026-02-13",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-09-25",
-      "currentPeriodAgeDays": 268,
+      "asOfDate": "2026-10-02",
+      "currentPeriodAgeDays": 275,
       "boundaryGapDays": 1
     },
     "netDebtBalanceCandidates": [
@@ -247526,35 +247487,11 @@
         },
         "netDebt": null,
         "reason": "no supported debt representation at balance date"
-      },
-      {
-        "date": "2025-03-31",
-        "form": "10-Q",
-        "filed": "2025-04-30",
-        "accession": "0000950170-25-061082",
-        "assets": 20562185000,
-        "debt": {
-          "value": null,
-          "reason": "no supported debt representation at balance date",
-          "facts": []
-        },
-        "cash": {
-          "value": 39849000,
-          "end": "2025-03-31",
-          "form": "10-Q",
-          "filed": "2025-04-30",
-          "accn": "0000950170-25-061082",
-          "frame": null,
-          "offsetDays": 0,
-          "tagName": "CashAndCashEquivalentsAtCarryingValue"
-        },
-        "netDebt": null,
-        "reason": "no supported debt representation at balance date"
       }
     ],
     "lastFiledDate": "2026-07-30",
     "nextExpectedFilingDate": "2026-10-29",
     "source": "sec",
-    "updatedAt": "2026-09-25T15:32:40.263Z"
+    "updatedAt": "2026-10-02T16:54:35.661Z"
   }
 }
