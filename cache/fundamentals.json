@@ -138594,7 +138594,7 @@
   "LEN": {
     "name": "LENNAR CORP /NEW/",
     "sector": "General Bldg Contractors - Residential Bldgs",
-    "roe": 9.61,
+    "roe": 9.64,
     "secEps": 14.31,
     "revenueGrowth": -3.54,
     "epsGrowth": -44.23,
@@ -138602,7 +138602,7 @@
     "operatingMargin": 15.48,
     "marginTrend": 3.01,
     "source": "sec",
-    "updatedAt": "2026-09-30T16:39:20.943Z",
+    "updatedAt": "2026-10-05T19:27:54.545Z",
     "annualFcf": 28183000,
     "annualFcfPeriodEnd": "2025-11-30",
     "sharesOutstanding": null,
@@ -138829,8 +138829,8 @@
       "accession": "0001628280-26-003870",
       "filingDate": "2026-01-28",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-09-30",
-      "currentPeriodAgeDays": 304,
+      "asOfDate": "2026-10-05",
+      "currentPeriodAgeDays": 309,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:45.349Z",
@@ -163600,15 +163600,15 @@
   "NKE": {
     "name": "NIKE, Inc.",
     "sector": "Rubber & Plastics Footwear",
-    "roe": 20.91,
-    "debtEquity": 0.534,
+    "roe": 20.42,
+    "debtEquity": 0.519,
     "secEps": 2.1,
-    "secBookValuePerShare": 17.3788,
+    "secBookValuePerShare": 17.7939,
     "revenueGrowth": 0.19,
     "epsGrowth": -2.78,
     "fcfGrowth": -33.17,
     "source": "sec",
-    "updatedAt": "2026-09-30T16:41:54.137Z",
+    "updatedAt": "2026-10-05T19:30:04.577Z",
     "annualFcf": 2184000000,
     "annualFcfPeriodEnd": "2026-05-31",
     "sharesOutstanding": 855351589,
@@ -163717,17 +163717,66 @@
       "accession": "0000320187-26-000088",
       "filingDate": "2026-07-15",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-09-30",
-      "currentPeriodAgeDays": 122,
+      "asOfDate": "2026-10-05",
+      "currentPeriodAgeDays": 127,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:24.537Z",
     "netDebtBalanceCandidates": [
       {
+        "date": "2026-08-31",
+        "form": "10-Q",
+        "filed": "2026-10-02",
+        "accession": "0000320187-26-000193",
+        "assets": 37794000000,
+        "debt": {
+          "value": 7893000000,
+          "reason": null,
+          "method": [
+            "LongTermDebtCurrent",
+            "LongTermDebtNoncurrent"
+          ],
+          "facts": [
+            {
+              "value": 2000000000,
+              "end": "2026-08-31",
+              "form": "10-Q",
+              "filed": "2026-10-02",
+              "accn": "0000320187-26-000193",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            },
+            {
+              "value": 5893000000,
+              "end": "2026-08-31",
+              "form": "10-Q",
+              "filed": "2026-10-02",
+              "accn": "0000320187-26-000193",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtNoncurrent"
+            }
+          ]
+        },
+        "cash": {
+          "value": 6903000000,
+          "end": "2026-08-31",
+          "form": "10-Q",
+          "filed": "2026-10-02",
+          "accn": "0000320187-26-000193",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": 990000000,
+        "reason": null
+      },
+      {
         "date": "2026-05-31",
-        "form": "10-K",
-        "filed": "2026-07-15",
-        "accession": "0000320187-26-000088",
+        "form": "10-Q",
+        "filed": "2026-10-02",
+        "accession": "0000320187-26-000193",
         "assets": 38410000000,
         "debt": {
           "value": 7942000000,
@@ -163740,9 +163789,9 @@
             {
               "value": 2000000000,
               "end": "2026-05-31",
-              "form": "10-K",
-              "filed": "2026-07-15",
-              "accn": "0000320187-26-000088",
+              "form": "10-Q",
+              "filed": "2026-10-02",
+              "accn": "0000320187-26-000193",
               "frame": "CY2026Q2I",
               "offsetDays": 0,
               "tagName": "LongTermDebtCurrent"
@@ -163750,9 +163799,9 @@
             {
               "value": 5942000000,
               "end": "2026-05-31",
-              "form": "10-K",
-              "filed": "2026-07-15",
-              "accn": "0000320187-26-000088",
+              "form": "10-Q",
+              "filed": "2026-10-02",
+              "accn": "0000320187-26-000193",
               "frame": "CY2026Q2I",
               "offsetDays": 0,
               "tagName": "LongTermDebtNoncurrent"
@@ -163762,9 +163811,9 @@
         "cash": {
           "value": 7563000000,
           "end": "2026-05-31",
-          "form": "10-K",
-          "filed": "2026-07-15",
-          "accn": "0000320187-26-000088",
+          "form": "10-Q",
+          "filed": "2026-10-02",
+          "accn": "0000320187-26-000193",
           "frame": "CY2026Q2I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
@@ -163998,8 +164047,8 @@
         "reason": null
       }
     ],
-    "lastFiledDate": "2026-07-15",
-    "nextExpectedFilingDate": "2026-10-14"
+    "lastFiledDate": "2026-10-02",
+    "nextExpectedFilingDate": "2027-01-01"
   },
   "NI": {
     "name": "NISOURCE INC.",

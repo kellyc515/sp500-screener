@@ -1,8 +1,21 @@
 {
   "meta": {
-    "updatedAt": "2026-10-02T16:14:24.119Z"
+    "updatedAt": "2026-10-05T19:14:59.803Z"
   },
   "trades": [
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf|MSFT|2026-09-28|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "MSFT",
+      "member": "Michael Rulli",
+      "district": null,
+      "assetDescription": "Microsoft Corp",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-28",
+      "disclosureDate": "2026-10-05",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf"
+    },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035499.pdf|AAPL|2026-09-22|Sale|$100,001 - $250,000",
       "chamber": "House",
@@ -36,6 +49,19 @@
       "member": "David Taylor",
       "district": "OH02",
       "assetDescription": "The Home Depot Inc",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-22",
+      "disclosureDate": "2026-10-02",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf|AMGN|2026-09-22|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "AMGN",
+      "member": "David Taylor",
+      "district": "OH02",
+      "assetDescription": "Amgen Inc",
       "type": "Purchase",
       "amount": "$1,001 - $15,000",
       "transactionDate": "2026-09-22",
@@ -628,6 +654,45 @@
       "link": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/"
     },
     {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/|ADI|2026-09-04|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "ADI",
+      "member": "Sheldon Whitehouse",
+      "district": "RI",
+      "assetDescription": "Analog Devices, Inc. - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-04",
+      "disclosureDate": "2026-09-30",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/|V|2026-09-04|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "V",
+      "member": "Sheldon Whitehouse",
+      "district": "RI",
+      "assetDescription": "Visa Inc.",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-04",
+      "disclosureDate": "2026-09-30",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/|JPM|2026-09-04|Sale (Partial)|$15,001 - $50,000",
+      "chamber": "Senate",
+      "ticker": "JPM",
+      "member": "Sheldon Whitehouse",
+      "district": "RI",
+      "assetDescription": "JP Morgan Chase & Co. Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-04",
+      "disclosureDate": "2026-09-30",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|BSX|2026-09-03|Sale|$1,001 - $15,000",
       "chamber": "House",
       "ticker": "BSX",
@@ -678,6 +743,32 @@
       "transactionDate": "2026-09-03",
       "disclosureDate": "2026-09-28",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf|GS|2026-09-03|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "GS",
+      "member": "Michael Rulli",
+      "district": null,
+      "assetDescription": "The Goldman Sachs Group Inc",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-03",
+      "disclosureDate": "2026-10-05",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf|WFC|2026-09-03|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "WFC",
+      "member": "Michael Rulli",
+      "district": null,
+      "assetDescription": "Wells Fargo & Co",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-03",
+      "disclosureDate": "2026-10-05",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|MRSH|2026-09-02|Sale|$1,001 - $15,000",
@@ -912,6 +1003,19 @@
       "transactionDate": "2026-09-01",
       "disclosureDate": "2026-09-23",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035489.pdf"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/028aef33-dc0d-44a1-992f-aa35ee42685b/|WFC-PY|2026-09-01|Purchase|$15,001 - $50,000",
+      "chamber": "Senate",
+      "ticker": "WFC-PY",
+      "member": "Mitch McConnell",
+      "district": "KY",
+      "assetDescription": "Wells Fargo & Company Common Stock",
+      "type": "Purchase",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-01",
+      "disclosureDate": "2026-09-20",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/028aef33-dc0d-44a1-992f-aa35ee42685b/"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|CB|2026-08-31|Purchase|$1,001 - $15,000",
@@ -1460,6 +1564,19 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
     },
     {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/|IVV|2026-08-27|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "IVV",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "iShares Core S&P 500 ETF",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-08-27",
+      "disclosureDate": "2026-09-10",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf|LALDX|2026-08-26|Purchase|$1,001 - $15,000",
       "chamber": "House",
       "ticker": "LALDX",
@@ -1811,6 +1928,19 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
     },
     {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/|JNJ|2026-08-20|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "JNJ",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "Johnson & Johnson Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-08-20",
+      "disclosureDate": "2026-09-10",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/"
+    },
+    {
       "id": "https://efdsearch.senate.gov/search/view/ptr/b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f/|WMB|2026-08-19|Purchase|$1,001 - $15,000",
       "chamber": "Senate",
       "ticker": "WMB",
@@ -1978,6 +2108,19 @@
       "transactionDate": "2026-08-19",
       "disclosureDate": "2026-09-23",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035489.pdf"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/|WWSYX|2026-08-19|Sale (Full)|$15,001 - $50,000",
+      "chamber": "Senate",
+      "ticker": "WWSYX",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "Westwood Quality SmallCap Fund - Westwood Quality SmallCap Fund Ultra Shares",
+      "type": "Sale (Full)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-08-19",
+      "disclosureDate": "2026-09-10",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/"
     },
     {
       "id": "https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/|GS|2026-08-18|Purchase|$250,001 - $500,000",
@@ -2422,6 +2565,58 @@
       "link": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/"
     },
     {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/|CEG|2026-08-13|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "CEG",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "Constellation Energy Corporation - Common Stock When-Issued",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-08-13",
+      "disclosureDate": "2026-09-10",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/|NVDA|2026-08-13|Sale (Partial)|$15,001 - $50,000",
+      "chamber": "Senate",
+      "ticker": "NVDA",
+      "member": "Sheldon Whitehouse",
+      "district": "RI",
+      "assetDescription": "NVIDIA Corporation - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-08-13",
+      "disclosureDate": "2026-09-01",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/|LRCX|2026-08-13|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "LRCX",
+      "member": "Sheldon Whitehouse",
+      "district": "RI",
+      "assetDescription": "Lam Research Corporation - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-08-13",
+      "disclosureDate": "2026-09-01",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/|NVDA|2026-08-13|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "NVDA",
+      "member": "Sheldon Whitehouse",
+      "district": "RI",
+      "assetDescription": "NVIDIA Corporation - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-08-13",
+      "disclosureDate": "2026-09-01",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/"
+    },
+    {
       "id": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/|AMGN|2026-08-12|Sale|$1,001 - $15,000",
       "chamber": "Senate",
       "ticker": "AMGN",
@@ -2511,6 +2706,19 @@
       "transactionDate": "2026-08-12",
       "disclosureDate": "2026-09-23",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/|AMGN|2026-08-12|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "AMGN",
+      "member": "Sheldon Whitehouse",
+      "district": "RI",
+      "assetDescription": "Amgen Inc. - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-08-12",
+      "disclosureDate": "2026-09-01",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf|MSFT|2026-08-11|Sale|$15,001 - $50,000",
@@ -2745,6 +2953,84 @@
       "transactionDate": "2026-08-11",
       "disclosureDate": "2026-09-11",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/|ALNY|2026-08-11|Sale (Full)|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "ALNY",
+      "member": "Cory Booker",
+      "district": "NJ",
+      "assetDescription": "Alnylam Pharmaceuticals, Inc. - Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-08-11",
+      "disclosureDate": "2026-09-08",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/|AMZN|2026-08-11|Sale (Full)|$100,001 - $250,000",
+      "chamber": "Senate",
+      "ticker": "AMZN",
+      "member": "Cory Booker",
+      "district": "NJ",
+      "assetDescription": "Amazon.com, Inc. - Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$100,001 - $250,000",
+      "transactionDate": "2026-08-11",
+      "disclosureDate": "2026-09-08",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/|JD|2026-08-11|Sale (Full)|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "JD",
+      "member": "Cory Booker",
+      "district": "NJ",
+      "assetDescription": "JD.com, Inc. - American Depositary Shares",
+      "type": "Sale (Full)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-08-11",
+      "disclosureDate": "2026-09-08",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/|MCD|2026-08-11|Sale (Full)|$15,001 - $50,000",
+      "chamber": "Senate",
+      "ticker": "MCD",
+      "member": "Cory Booker",
+      "district": "NJ",
+      "assetDescription": "McDonald's Corporation Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-08-11",
+      "disclosureDate": "2026-09-08",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/|NVDA|2026-08-11|Sale (Full)|$15,001 - $50,000",
+      "chamber": "Senate",
+      "ticker": "NVDA",
+      "member": "Cory Booker",
+      "district": "NJ",
+      "assetDescription": "NVIDIA Corporation - Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-08-11",
+      "disclosureDate": "2026-09-08",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/|NFLX|2026-08-11|Sale (Full)|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "NFLX",
+      "member": "Cory Booker",
+      "district": "NJ",
+      "assetDescription": "Netflix, Inc. - Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-08-11",
+      "disclosureDate": "2026-09-08",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/"
     },
     {
       "id": "https://efdsearch.senate.gov/search/view/paper/929216d5-5dbd-429c-858c-1e9332924627/|TKNO|2026-08-10|Sale|$1,001 - $15,000",
