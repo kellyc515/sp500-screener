@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-05T19:14:59.803Z"
+    "updatedAt": "2026-10-06T16:43:13.787Z"
   },
   "trades": [
     {
@@ -67,6 +67,19 @@
       "transactionDate": "2026-09-22",
       "disclosureDate": "2026-10-02",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf|HD|2026-09-17|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "HD",
+      "member": "Lloyd Doggett",
+      "district": "TX37",
+      "assetDescription": "The Home Depot Inc",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-17",
+      "disclosureDate": "2026-10-06",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|CNP|2026-09-15|Sale|$15,001 - $50,000",
@@ -342,6 +355,19 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf|PPG|2026-09-11|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "PPG",
+      "member": "Lloyd Doggett",
+      "district": "TX37",
+      "assetDescription": "PPG Industries Inc",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-11",
+      "disclosureDate": "2026-10-06",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|ETN|2026-09-10|Sale|$1,001 - $15,000",
       "chamber": "House",
       "ticker": "ETN",
@@ -405,6 +431,19 @@
       "transactionDate": "2026-09-10",
       "disclosureDate": "2026-10-02",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf|IBM|2026-09-10|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "IBM",
+      "member": "Lloyd Doggett",
+      "district": "TX37",
+      "assetDescription": "International Business Machines Corp",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-10",
+      "disclosureDate": "2026-10-06",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|ITW|2026-09-09|Sale|$15,001 - $50,000",
@@ -548,6 +587,19 @@
       "transactionDate": "2026-09-08",
       "disclosureDate": "2026-10-02",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf|JNJ|2026-09-08|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "JNJ",
+      "member": "Lloyd Doggett",
+      "district": "TX37",
+      "assetDescription": "Johnson & Johnson",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-08",
+      "disclosureDate": "2026-10-06",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|BSX|2026-09-04|Sale|$50,001 - $100,000",
