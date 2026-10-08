@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T17:23:58.277Z",
+  "generatedAt": "2026-10-08T17:22:01.256Z",
   "source": "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv + https://www.sec.gov/files/company_tickers_exchange.json",
   "count": 503,
   "constituents": [
@@ -2155,7 +2155,7 @@
       "ticker": "PSKY",
       "name": "Paramount Skydance Corporation",
       "sector": "Communication Services",
-      "exchange": "Nasdaq"
+      "exchange": null
     },
     {
       "ticker": "PH",

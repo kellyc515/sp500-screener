@@ -54512,14 +54512,14 @@
   "STZ": {
     "name": "CONSTELLATION BRANDS, INC.",
     "sector": "Beverages",
-    "roe": 2.44,
-    "debtEquity": 1.276,
+    "roe": 2.35,
+    "debtEquity": 1.201,
     "revenueGrowth": -10.48,
     "fcfGrowth": -7.44,
     "operatingMargin": 29.78,
     "marginTrend": 26.3,
     "source": "sec",
-    "updatedAt": "2026-10-07T17:30:43.448Z",
+    "updatedAt": "2026-10-08T17:27:38.088Z",
     "annualFcf": 1794000000,
     "annualFcfPeriodEnd": "2026-02-28",
     "sharesOutstanding": null,
@@ -54798,6 +54798,66 @@
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:16.269Z",
     "netDebtBalanceCandidates": [
       {
+        "date": "2026-08-31",
+        "form": "10-Q",
+        "filed": "2026-10-07",
+        "accession": "0000016918-26-000040",
+        "assets": 22063700000,
+        "debt": {
+          "value": 10315700000,
+          "reason": null,
+          "method": [
+            "LongTermDebtCurrent",
+            "LongTermDebtNoncurrent",
+            "ShortTermBorrowings"
+          ],
+          "facts": [
+            {
+              "value": 1103000000,
+              "end": "2026-08-31",
+              "form": "10-Q",
+              "filed": "2026-10-07",
+              "accn": "0000016918-26-000040",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            },
+            {
+              "value": 9096200000,
+              "end": "2026-08-31",
+              "form": "10-Q",
+              "filed": "2026-10-07",
+              "accn": "0000016918-26-000040",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtNoncurrent"
+            },
+            {
+              "value": 116500000,
+              "end": "2026-08-31",
+              "form": "10-Q",
+              "filed": "2026-10-07",
+              "accn": "0000016918-26-000040",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "ShortTermBorrowings"
+            }
+          ]
+        },
+        "cash": {
+          "value": 98500000,
+          "end": "2026-08-31",
+          "form": "10-Q",
+          "filed": "2026-10-07",
+          "accn": "0000016918-26-000040",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": 10217200000,
+        "reason": null
+      },
+      {
         "date": "2026-05-31",
         "form": "10-Q",
         "filed": "2026-07-01",
@@ -54860,8 +54920,8 @@
       {
         "date": "2026-02-28",
         "form": "10-Q",
-        "filed": "2026-07-01",
-        "accession": "0000016918-26-000029",
+        "filed": "2026-10-07",
+        "accession": "0000016918-26-000040",
         "assets": 21900500000,
         "debt": {
           "value": 10568500000,
@@ -54876,8 +54936,8 @@
               "value": 603600000,
               "end": "2026-02-28",
               "form": "10-Q",
-              "filed": "2026-07-01",
-              "accn": "0000016918-26-000029",
+              "filed": "2026-10-07",
+              "accn": "0000016918-26-000040",
               "frame": "CY2026Q1I",
               "offsetDays": 0,
               "tagName": "LongTermDebtCurrent"
@@ -54886,8 +54946,8 @@
               "value": 9692900000,
               "end": "2026-02-28",
               "form": "10-Q",
-              "filed": "2026-07-01",
-              "accn": "0000016918-26-000029",
+              "filed": "2026-10-07",
+              "accn": "0000016918-26-000040",
               "frame": "CY2026Q1I",
               "offsetDays": 0,
               "tagName": "LongTermDebtNoncurrent"
@@ -54896,8 +54956,8 @@
               "value": 272000000,
               "end": "2026-02-28",
               "form": "10-Q",
-              "filed": "2026-07-01",
-              "accn": "0000016918-26-000029",
+              "filed": "2026-10-07",
+              "accn": "0000016918-26-000040",
               "frame": "CY2026Q1I",
               "offsetDays": 0,
               "tagName": "ShortTermBorrowings"
@@ -54908,8 +54968,8 @@
           "value": 102400000,
           "end": "2026-02-28",
           "form": "10-Q",
-          "filed": "2026-07-01",
-          "accn": "0000016918-26-000029",
+          "filed": "2026-10-07",
+          "accn": "0000016918-26-000040",
           "frame": "CY2026Q1I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
@@ -55098,8 +55158,8 @@
         "reason": null
       }
     ],
-    "lastFiledDate": "2026-07-01",
-    "nextExpectedFilingDate": "2026-09-30"
+    "lastFiledDate": "2026-10-07",
+    "nextExpectedFilingDate": "2027-01-06"
   },
   "CEG": {
     "name": "Constellation Energy Corp",
@@ -167033,19 +167093,19 @@
   "PEP": {
     "name": "PEPSICO INC",
     "sector": "Beverages",
-    "roe": 37.29,
-    "debtEquity": 2.778,
+    "roe": 36.96,
+    "debtEquity": 2.692,
     "secEps": 6,
-    "secBookValuePerShare": 16.1903,
+    "secBookValuePerShare": 16.3582,
     "revenueGrowth": 2.25,
     "epsGrowth": -13.67,
     "operatingMargin": 12.24,
     "marginTrend": -1.79,
     "source": "sec",
-    "updatedAt": "2026-10-07T17:43:54.585Z",
+    "updatedAt": "2026-10-08T17:38:36.564Z",
     "annualFcf": null,
     "annualFcfPeriodEnd": null,
-    "sharesOutstanding": 1364891558,
+    "sharesOutstanding": 1362741092,
     "sic": 2080,
     "annualOcf": null,
     "annualCapex": null,
@@ -167174,8 +167234,8 @@
               "value": 6861000000,
               "end": "2025-12-27",
               "form": "10-Q",
-              "filed": "2026-07-09",
-              "accn": "0000077476-26-000035",
+              "filed": "2026-10-08",
+              "accn": "0000077476-26-000048",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "ShortTermBorrowings"
@@ -167297,12 +167357,47 @@
       "accession": "0000077476-26-000007",
       "filingDate": "2026-02-03",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-07",
-      "currentPeriodAgeDays": 284,
+      "asOfDate": "2026-10-08",
+      "currentPeriodAgeDays": 285,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:41.614Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-09-05",
+        "form": "10-Q",
+        "filed": "2026-10-08",
+        "accession": "0000077476-26-000048",
+        "assets": 111976000000,
+        "debt": {
+          "value": null,
+          "reason": "incomplete conventional current/noncurrent debt representation",
+          "facts": [
+            {
+              "value": 9223000000,
+              "end": "2026-09-05",
+              "form": "10-Q",
+              "filed": "2026-10-08",
+              "accn": "0000077476-26-000048",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "ShortTermBorrowings"
+            }
+          ]
+        },
+        "cash": {
+          "value": 10675000000,
+          "end": "2026-09-05",
+          "form": "10-Q",
+          "filed": "2026-10-08",
+          "accn": "0000077476-26-000048",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "incomplete conventional current/noncurrent debt representation"
+      },
       {
         "date": "2026-06-13",
         "form": "10-Q",
@@ -167396,8 +167491,8 @@
       {
         "date": "2025-12-27",
         "form": "10-Q",
-        "filed": "2026-07-09",
-        "accession": "0000077476-26-000035",
+        "filed": "2026-10-08",
+        "accession": "0000077476-26-000048",
         "assets": 107399000000,
         "debt": {
           "value": null,
@@ -167417,8 +167512,8 @@
               "value": 6861000000,
               "end": "2025-12-27",
               "form": "10-Q",
-              "filed": "2026-07-09",
-              "accn": "0000077476-26-000035",
+              "filed": "2026-10-08",
+              "accn": "0000077476-26-000048",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "ShortTermBorrowings"
@@ -167429,8 +167524,8 @@
           "value": 9159000000,
           "end": "2025-12-27",
           "form": "10-Q",
-          "filed": "2026-07-09",
-          "accn": "0000077476-26-000035",
+          "filed": "2026-10-08",
+          "accn": "0000077476-26-000048",
           "frame": "CY2025Q4I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
@@ -167529,8 +167624,8 @@
         "reason": "incomplete conventional current/noncurrent debt representation"
       }
     ],
-    "lastFiledDate": "2026-07-09",
-    "nextExpectedFilingDate": "2026-10-08"
+    "lastFiledDate": "2026-10-08",
+    "nextExpectedFilingDate": "2027-01-07"
   },
   "PFE": {
     "name": "PFIZER INC",
