@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-08T17:22:03.797Z"
+    "updatedAt": "2026-10-09T16:57:38.620Z"
   },
   "trades": [
     {
@@ -810,6 +810,32 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|CDNS|2026-09-14|Sale (Partial)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "CDNS",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Cadence Design Systems, Inc. - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-14",
+      "disclosureDate": "2026-09-25",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|DVN|2026-09-14|Sale (Partial)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "DVN",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Devon Energy Corporation Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-14",
+      "disclosureDate": "2026-09-25",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|OKE|2026-09-11|Exchange|$100,001 - $250,000",
       "chamber": "House",
       "ticker": "OKE",
@@ -1330,6 +1356,19 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|DVN|2026-09-04|Sale (Partial)|$100,001 - $250,000",
+      "chamber": "House",
+      "ticker": "DVN",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Devon Energy Corporation Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$100,001 - $250,000",
+      "transactionDate": "2026-09-04",
+      "disclosureDate": "2026-09-25",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|BSX|2026-09-03|Sale|$1,001 - $15,000",
       "chamber": "House",
       "ticker": "BSX",
@@ -1663,6 +1702,32 @@
       "assetDescription": "Cadence Design Systems, Inc. - Common Stock",
       "type": "Sale (Partial)",
       "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-02",
+      "disclosureDate": "2026-09-25",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|DHR|2026-09-02|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "DHR",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Danaher Corporation Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-02",
+      "disclosureDate": "2026-09-25",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|DVN|2026-09-02|Sale (Partial)|$100,001 - $250,000",
+      "chamber": "House",
+      "ticker": "DVN",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Devon Energy Corporation Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$100,001 - $250,000",
       "transactionDate": "2026-09-02",
       "disclosureDate": "2026-09-25",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
@@ -2136,6 +2201,32 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|RA|2026-08-31|Sale (Full)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "RA",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Brookfield Real Assets Income Fund Inc. Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-08-31",
+      "disclosureDate": "2026-09-25",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|DHR|2026-08-31|Sale (Full)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "DHR",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Danaher Corporation Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-08-31",
+      "disclosureDate": "2026-09-25",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf|DASH|2026-08-28|Sale|$1,001 - $15,000",
       "chamber": "House",
       "ticker": "DASH",
@@ -2376,6 +2467,19 @@
       "member": "Kevin Hern",
       "district": "OK01",
       "assetDescription": "Colgate-Palmolive Company Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-08-27",
+      "disclosureDate": "2026-09-25",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|CSX|2026-08-27|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "CSX",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "CSX Corporation",
       "type": "Sale (Partial)",
       "amount": "$1,001 - $15,000",
       "transactionDate": "2026-08-27",

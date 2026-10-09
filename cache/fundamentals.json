@@ -139390,7 +139390,7 @@
     "operatingMargin": 15.65,
     "marginTrend": -0.12,
     "source": "sec",
-    "updatedAt": "2026-10-02T16:40:17.165Z",
+    "updatedAt": "2026-10-09T17:12:08.152Z",
     "annualFcf": 389500000,
     "annualFcfPeriodEnd": "2022-11-30",
     "sharesOutstanding": null,
@@ -139680,8 +139680,8 @@
       "accession": "0000063754-26-000037",
       "filingDate": "2026-01-22",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-02",
-      "currentPeriodAgeDays": 306,
+      "asOfDate": "2026-10-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:57.915Z",
@@ -230478,8 +230478,8 @@
       "accession": "0001628280-26-006516",
       "filingDate": "2026-02-09",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-02",
-      "currentPeriodAgeDays": 275,
+      "asOfDate": "2026-10-09",
+      "currentPeriodAgeDays": 282,
       "boundaryGapDays": 1
     },
     "netDebtBalanceCandidates": [
@@ -230727,7 +230727,7 @@
     "lastFiledDate": "2026-04-29",
     "nextExpectedFilingDate": "2026-07-29",
     "source": "sec",
-    "updatedAt": "2026-10-02T16:20:09.140Z"
+    "updatedAt": "2026-10-09T17:00:49.320Z"
   },
   "P": {
     "name": "Everpure, Inc.",
@@ -231001,8 +231001,8 @@
       "accession": "0001474432-26-000027",
       "filingDate": "2026-03-25",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-02",
-      "currentPeriodAgeDays": 243,
+      "asOfDate": "2026-10-09",
+      "currentPeriodAgeDays": 250,
       "boundaryGapDays": 1
     },
     "netDebtBalanceCandidates": [
@@ -231198,7 +231198,7 @@
     "lastFiledDate": "2026-09-04",
     "nextExpectedFilingDate": "2026-12-04",
     "source": "sec",
-    "updatedAt": "2026-10-02T16:29:36.698Z"
+    "updatedAt": "2026-10-09T17:06:05.863Z"
   },
   "ILMN": {
     "name": "ILLUMINA, INC.",
@@ -231417,8 +231417,8 @@
       "accession": "0001110803-26-000024",
       "filingDate": "2026-02-12",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-02",
-      "currentPeriodAgeDays": 278,
+      "asOfDate": "2026-10-09",
+      "currentPeriodAgeDays": 285,
       "boundaryGapDays": 1
     },
     "netDebtBalanceCandidates": [
@@ -231501,7 +231501,7 @@
     "lastFiledDate": "2026-07-31",
     "nextExpectedFilingDate": "2026-10-30",
     "source": "sec",
-    "updatedAt": "2026-10-02T16:35:30.405Z"
+    "updatedAt": "2026-10-09T17:09:24.233Z"
   },
   "RDDT": {
     "name": "Reddit, Inc.",
@@ -231735,8 +231735,8 @@
       "accession": "0001713445-26-000022",
       "filingDate": "2026-02-06",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-02",
-      "currentPeriodAgeDays": 275,
+      "asOfDate": "2026-10-09",
+      "currentPeriodAgeDays": 282,
       "boundaryGapDays": 1
     },
     "netDebtBalanceCandidates": [
@@ -231864,7 +231864,7 @@
     "lastFiledDate": "2026-07-31",
     "nextExpectedFilingDate": "2026-10-30",
     "source": "sec",
-    "updatedAt": "2026-10-02T16:47:10.633Z"
+    "updatedAt": "2026-10-09T17:15:57.541Z"
   },
   "VMRK": {
     "name": "VIVMARK RESIDENTIAL",
@@ -232069,8 +232069,8 @@
       "accession": "0001193125-26-051433",
       "filingDate": "2026-02-13",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-02",
-      "currentPeriodAgeDays": 275,
+      "asOfDate": "2026-10-09",
+      "currentPeriodAgeDays": 282,
       "boundaryGapDays": 1
     },
     "netDebtBalanceCandidates": [
@@ -232198,6 +232198,374 @@
     "lastFiledDate": "2026-07-30",
     "nextExpectedFilingDate": "2026-10-29",
     "source": "sec",
-    "updatedAt": "2026-10-02T16:54:35.661Z"
+    "updatedAt": "2026-10-09T17:20:23.044Z"
+  },
+  "SKYD": {},
+  "TWLO": {
+    "name": "TWILIO INC",
+    "sector": "Services-Prepackaged Software",
+    "roe": 0.38,
+    "basicShareChange": -7.7979,
+    "secEps": 0.21,
+    "secBookValuePerShare": 58.4587,
+    "revenueGrowth": 13.66,
+    "fcfGrowth": -1621.97,
+    "operatingMargin": 3.11,
+    "marginTrend": 4.31,
+    "annualOcf": -58192000,
+    "annualCapex": 46048000,
+    "annualFcf": -104240000,
+    "annualFcfPeriodStart": "2021-01-01",
+    "annualFcfPeriodEnd": "2021-12-31",
+    "sharesOutstanding": 153575220,
+    "sic": 7372,
+    "roicAudit": {
+      "reason": "no supported debt representation at balance date",
+      "period": {
+        "start": "2025-01-01",
+        "end": "2025-12-31"
+      },
+      "operatingIncome": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": 157802000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-24",
+        "accn": "0001447669-26-000021",
+        "frame": "CY2025",
+        "tagName": "OperatingIncomeLoss"
+      },
+      "taxExpense": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": 21260000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-24",
+        "accn": "0001447669-26-000021",
+        "frame": "CY2025",
+        "tagName": "IncomeTaxExpenseBenefit"
+      },
+      "pretaxIncome": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": 55094000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-24",
+        "accn": "0001447669-26-000021",
+        "frame": "CY2025",
+        "tagName": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest"
+      },
+      "begin": {
+        "targetDate": "2024-12-31",
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "equity": {
+          "value": 7952966000,
+          "end": "2024-12-31",
+          "form": "10-K",
+          "filed": "2026-02-24",
+          "accn": "0001447669-26-000021",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "StockholdersEquity"
+        },
+        "cash": {
+          "value": 421297000,
+          "end": "2024-12-31",
+          "form": "10-K",
+          "filed": "2026-02-24",
+          "accn": "0001447669-26-000021",
+          "frame": "CY2024Q4I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "assets": {
+          "value": 9865472000,
+          "end": "2024-12-31",
+          "form": "10-K",
+          "filed": "2026-02-24",
+          "accn": "0001447669-26-000021",
+          "frame": "CY2024Q4I",
+          "offsetDays": 0,
+          "tagName": "Assets"
+        },
+        "investedCapital": null
+      },
+      "end": {
+        "targetDate": "2025-12-31",
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "equity": {
+          "value": 7821546000,
+          "end": "2025-12-31",
+          "form": "10-K",
+          "filed": "2026-02-24",
+          "accn": "0001447669-26-000021",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "StockholdersEquity"
+        },
+        "cash": {
+          "value": 682335000,
+          "end": "2025-12-31",
+          "form": "10-K",
+          "filed": "2026-02-24",
+          "accn": "0001447669-26-000021",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "assets": {
+          "value": 9770890000,
+          "end": "2025-12-31",
+          "form": "10-K",
+          "filed": "2026-02-24",
+          "accn": "0001447669-26-000021",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "Assets"
+        },
+        "investedCapital": null
+      }
+    },
+    "fcfConversionAudit": {
+      "reason": "missing matching-period CapEx, net income, or revenue",
+      "period": {
+        "start": "2025-01-01",
+        "end": "2025-12-31"
+      },
+      "operatingCashFlow": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": 1003244000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-24",
+        "accn": "0001447669-26-000021",
+        "frame": "CY2025",
+        "tagName": "NetCashProvidedByUsedInOperatingActivities"
+      },
+      "capex": null,
+      "netIncome": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": 33834000,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-24",
+        "accn": "0001447669-26-000021",
+        "frame": null,
+        "tagName": "NetIncomeLoss"
+      },
+      "revenue": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": 5067220000,
+        "sourceTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-24",
+        "accn": "0001447669-26-000021",
+        "frame": "CY2025"
+      }
+    },
+    "basicShareChangeAudit": {
+      "reason": null,
+      "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+      "unit": "shares",
+      "current": {
+        "value": 152986390,
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "durationDays": 364,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-24",
+        "accn": "0001447669-26-000021",
+        "frame": "CY2025",
+        "duplicateCount": 1,
+        "duplicatesAgree": true
+      },
+      "prior": {
+        "value": 165925128,
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "durationDays": 365,
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-24",
+        "accn": "0001447669-26-000021",
+        "frame": "CY2024",
+        "duplicateCount": 1,
+        "duplicatesAgree": true
+      },
+      "rawValue": -7.7979376336536514,
+      "accession": "0001447669-26-000021",
+      "filingDate": "2026-02-24",
+      "contradictoryPeriodCount": 0,
+      "asOfDate": "2026-10-09",
+      "currentPeriodAgeDays": 282,
+      "boundaryGapDays": 1
+    },
+    "netDebtBalanceCandidates": [
+      {
+        "date": "2026-06-30",
+        "form": "10-Q",
+        "filed": "2026-08-07",
+        "accession": "0001447669-26-000092",
+        "assets": 10838627000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 823261000,
+          "end": "2026-06-30",
+          "form": "10-Q",
+          "filed": "2026-08-07",
+          "accn": "0001447669-26-000092",
+          "frame": "CY2026Q2I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
+        "date": "2026-03-31",
+        "form": "10-Q",
+        "filed": "2026-05-01",
+        "accession": "0001447669-26-000049",
+        "assets": 9576805000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 541976000,
+          "end": "2026-03-31",
+          "form": "10-Q",
+          "filed": "2026-05-01",
+          "accn": "0001447669-26-000049",
+          "frame": "CY2026Q1I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
+        "date": "2025-12-31",
+        "form": "10-Q",
+        "filed": "2026-08-07",
+        "accession": "0001447669-26-000092",
+        "assets": 9770890000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 682335000,
+          "end": "2025-12-31",
+          "form": "10-Q",
+          "filed": "2026-08-07",
+          "accn": "0001447669-26-000092",
+          "frame": "CY2025Q4I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
+        "date": "2025-09-30",
+        "form": "10-Q",
+        "filed": "2025-10-31",
+        "accession": "0001447669-25-000151",
+        "assets": 9712319000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 734843000,
+          "end": "2025-09-30",
+          "form": "10-Q",
+          "filed": "2025-10-31",
+          "accn": "0001447669-25-000151",
+          "frame": "CY2025Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
+        "date": "2025-06-30",
+        "form": "10-Q",
+        "filed": "2025-08-08",
+        "accession": "0001447669-25-000122",
+        "assets": 9848292000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 969229000,
+          "end": "2025-06-30",
+          "form": "10-Q",
+          "filed": "2025-08-08",
+          "accn": "0001447669-25-000122",
+          "frame": null,
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      }
+    ],
+    "lastFiledDate": "2026-08-07",
+    "nextExpectedFilingDate": "2026-11-06",
+    "source": "sec",
+    "updatedAt": "2026-10-09T17:19:06.452Z"
+  },
+  "VYLR": {
+    "name": "Vylor Inc.",
+    "sector": "Agricultural Production-Crops",
+    "sic": 100,
+    "roicAudit": {
+      "reason": "missing SEC company facts"
+    },
+    "fcfConversionAudit": {
+      "reason": "missing SEC company facts"
+    },
+    "basicShareChangeAudit": {
+      "reason": "missing SEC company facts"
+    },
+    "netDebtBalanceCandidates": [],
+    "source": "sec",
+    "updatedAt": "2026-10-09T17:20:31.491Z"
   }
 }

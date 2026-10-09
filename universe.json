@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T17:22:01.256Z",
+  "generatedAt": "2026-10-09T16:57:36.110Z",
   "source": "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv + https://www.sec.gov/files/company_tickers_exchange.json",
   "count": 503,
   "constituents": [
@@ -769,12 +769,6 @@
       "ticker": "CPAY",
       "name": "Corpay",
       "sector": "Financials",
-      "exchange": "NYSE"
-    },
-    {
-      "ticker": "CTVA",
-      "name": "Corteva",
-      "sector": "Materials",
       "exchange": "NYSE"
     },
     {
@@ -2152,12 +2146,6 @@
       "exchange": "Nasdaq"
     },
     {
-      "ticker": "PSKY",
-      "name": "Paramount Skydance Corporation",
-      "sector": "Communication Services",
-      "exchange": null
-    },
-    {
       "ticker": "PH",
       "name": "Parker Hannifin",
       "sector": "Industrials",
@@ -2476,6 +2464,12 @@
       "exchange": "NYSE"
     },
     {
+      "ticker": "SKYD",
+      "name": "Skydance Corporation",
+      "sector": "Communication Services",
+      "exchange": "NYSE"
+    },
+    {
       "ticker": "SWKS",
       "name": "Skyworks Solutions",
       "sector": "Information Technology",
@@ -2710,6 +2704,12 @@
       "exchange": "NYSE"
     },
     {
+      "ticker": "TWLO",
+      "name": "Twilio",
+      "sector": "Information Technology",
+      "exchange": "NYSE"
+    },
+    {
       "ticker": "TYL",
       "name": "Tyler Technologies",
       "sector": "Information Technology",
@@ -2872,6 +2872,12 @@
       "exchange": "NYSE"
     },
     {
+      "ticker": "VYLR",
+      "name": "Vylor",
+      "sector": "Consumer Staples",
+      "exchange": "NYSE"
+    },
+    {
       "ticker": "WRB",
       "name": "W. R. Berkley Corporation",
       "sector": "Financials",
@@ -2900,12 +2906,6 @@
       "name": "Walt Disney Company (The)",
       "sector": "Communication Services",
       "exchange": "NYSE"
-    },
-    {
-      "ticker": "WBD",
-      "name": "Warner Bros. Discovery",
-      "sector": "Communication Services",
-      "exchange": "Nasdaq"
     },
     {
       "ticker": "WM",
