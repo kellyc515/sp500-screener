@@ -65167,19 +65167,19 @@
   "DAL": {
     "name": "DELTA AIR LINES, INC.",
     "sector": "Air Transportation, Scheduled",
-    "roe": 22.94,
-    "debtEquity": 0.592,
+    "roe": 22.23,
+    "debtEquity": 0.538,
     "secEps": 7.66,
-    "secBookValuePerShare": 33.1725,
+    "secBookValuePerShare": 34.2188,
     "revenueGrowth": 2.79,
     "epsGrowth": 43.71,
     "operatingMargin": 9.19,
     "marginTrend": -0.54,
     "source": "sec",
-    "updatedAt": "2026-10-07T17:31:56.804Z",
+    "updatedAt": "2026-10-12T19:59:14.700Z",
     "annualFcf": null,
     "annualFcfPeriodEnd": null,
-    "sharesOutstanding": 657623030,
+    "sharesOutstanding": 657912380,
     "sic": 4512,
     "annualOcf": null,
     "annualCapex": null,
@@ -65444,12 +65444,61 @@
       "accession": "0000027904-26-000013",
       "filingDate": "2026-02-11",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-07",
-      "currentPeriodAgeDays": 280,
+      "asOfDate": "2026-10-12",
+      "currentPeriodAgeDays": 285,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:29.157Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-09-30",
+        "form": "10-Q",
+        "filed": "2026-10-09",
+        "accession": "0000027904-26-000038",
+        "assets": 86048000000,
+        "debt": {
+          "value": 12851000000,
+          "reason": null,
+          "method": [
+            "LongTermDebtAndCapitalLeaseObligationsCurrent",
+            "LongTermDebtAndCapitalLeaseObligations"
+          ],
+          "facts": [
+            {
+              "value": 3324000000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-10-09",
+              "accn": "0000027904-26-000038",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtAndCapitalLeaseObligationsCurrent"
+            },
+            {
+              "value": 9527000000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-10-09",
+              "accn": "0000027904-26-000038",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtAndCapitalLeaseObligations"
+            }
+          ]
+        },
+        "cash": {
+          "value": 3787000000,
+          "end": "2026-09-30",
+          "form": "10-Q",
+          "filed": "2026-10-09",
+          "accn": "0000027904-26-000038",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": 9064000000,
+        "reason": null
+      },
       {
         "date": "2026-06-30",
         "form": "10-Q",
@@ -65551,8 +65600,8 @@
       {
         "date": "2025-12-31",
         "form": "10-Q",
-        "filed": "2026-07-10",
-        "accession": "0000027904-26-000031",
+        "filed": "2026-10-09",
+        "accession": "0000027904-26-000038",
         "assets": 81317000000,
         "debt": {
           "value": 14112000000,
@@ -65566,8 +65615,8 @@
               "value": 1605000000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-07-10",
-              "accn": "0000027904-26-000031",
+              "filed": "2026-10-09",
+              "accn": "0000027904-26-000038",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtAndCapitalLeaseObligationsCurrent"
@@ -65576,8 +65625,8 @@
               "value": 12507000000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-07-10",
-              "accn": "0000027904-26-000031",
+              "filed": "2026-10-09",
+              "accn": "0000027904-26-000038",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtAndCapitalLeaseObligations"
@@ -65588,8 +65637,8 @@
           "value": 4310000000,
           "end": "2025-12-31",
           "form": "10-Q",
-          "filed": "2026-07-10",
-          "accn": "0000027904-26-000031",
+          "filed": "2026-10-09",
+          "accn": "0000027904-26-000038",
           "frame": "CY2025Q4I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
@@ -65600,8 +65649,8 @@
       {
         "date": "2025-09-30",
         "form": "10-Q",
-        "filed": "2025-10-09",
-        "accession": "0000027904-25-000020",
+        "filed": "2026-10-09",
+        "accession": "0000027904-26-000038",
         "assets": 79623000000,
         "debt": {
           "value": 14879000000,
@@ -65637,8 +65686,8 @@
           "value": 3791000000,
           "end": "2025-09-30",
           "form": "10-Q",
-          "filed": "2025-10-09",
-          "accn": "0000027904-25-000020",
+          "filed": "2026-10-09",
+          "accn": "0000027904-26-000038",
           "frame": "CY2025Q3I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
@@ -65696,8 +65745,8 @@
         "reason": null
       }
     ],
-    "lastFiledDate": "2026-07-10",
-    "nextExpectedFilingDate": "2026-10-09"
+    "lastFiledDate": "2026-10-09",
+    "nextExpectedFilingDate": "2027-01-08"
   },
   "DVN": {
     "name": "DEVON ENERGY CORP/DE",
@@ -153276,7 +153325,7 @@
     "epsGrowth": -2.78,
     "fcfGrowth": -33.17,
     "source": "sec",
-    "updatedAt": "2026-10-05T19:30:04.577Z",
+    "updatedAt": "2026-10-12T20:16:10.865Z",
     "annualFcf": 2184000000,
     "annualFcfPeriodEnd": "2026-05-31",
     "sharesOutstanding": 855351589,
@@ -153385,8 +153434,8 @@
       "accession": "0000320187-26-000088",
       "filingDate": "2026-07-15",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-05",
-      "currentPeriodAgeDays": 127,
+      "asOfDate": "2026-10-12",
+      "currentPeriodAgeDays": 134,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:24.537Z",
