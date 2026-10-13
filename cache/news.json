@@ -21527,180 +21527,204 @@
     "updatedAt": "2026-10-12T20:31:03.457Z"
   },
   "BE": {
-    "sentiment": 0.7,
+    "sentiment": 0.45,
     "headlines": [
       {
-        "title": "Can Bloom Energy Stay Profitable as It Doubles in Size?",
-        "url": "https://finnhub.io/api/news?id=d6dc9833cfda4724175be878e0e141bf221d75825ba880a43f53e39af9a2b86b",
+        "title": "Oracle Proposes Up To $55M In Annual Power Bill Credits, Reaffirms Bloom Energy's Role At Project Jupiter",
+        "url": "https://finnhub.io/api/news?id=a9ac98d760c90fb96b959ede450f8fd1e367ecb7fee336a03ca6099c13b12c53",
         "source": "Yahoo",
-        "date": "2026-10-09"
+        "date": "2026-10-13"
       },
       {
-        "title": "Top S&P500 movers in Thursday's session",
-        "url": "https://finnhub.io/api/news?id=00e3f6f428848d7b5f56e2fc7a444b52168551d6bb7094884d5ba564cf35c7c7",
+        "title": "Tuesday's pre-market session: top gainers and losers in the S&P500 index",
+        "url": "https://finnhub.io/api/news?id=123cdc6d0ab0a2796cf336c8a3776abd50b85fd1ff13a6aa674423cb8464ac24",
         "source": "ChartMill",
-        "date": "2026-10-08"
+        "date": "2026-10-13"
       },
       {
-        "title": "Stocks Sink After OpenAI Report Sours AI Trade",
-        "url": "https://finnhub.io/api/news?id=da8154472d3bc6c344e7ce1d613acdb4acbcbf4c89cc4ed527ddb5d345b5066f",
+        "title": "Jim Cramer Calls the Chip Trade Broken, but Semiconductors Are Still Up 62% in 2026",
+        "url": "https://finnhub.io/api/news?id=08bd7107706792c61866b1c9d72b5409be7efda281b7af89b2d94db79e08777c",
         "source": "Yahoo",
-        "date": "2026-10-08"
+        "date": "2026-10-13"
       },
       {
-        "title": "Here's How Much $100 Invested In Bloom Energy 5 Years Ago Would Be Worth Today",
-        "url": "https://finnhub.io/api/news?id=57b6d3508ee0a2d6d20a80e89832cb8e3747d36c19eb256e01eed53861dd378c",
+        "title": "Calm Down, The AI Bubble Won't Burst Just Yet",
+        "url": "https://finnhub.io/api/news?id=f6503a5cb4bc6512606e24e9ff0ef80f1ac4ac3cf0b16de33d8debc8d1c015c1",
+        "source": "SeekingAlpha",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Bloom Energy Stock Is Falling Tuesday: What's Going On?",
+        "url": "https://finnhub.io/api/news?id=9425006adfc8d3cab8ed954b5e7fd6d6f972b5db1ee0c88a68fd4896d5fd3c8b",
         "source": "Benzinga",
-        "date": "2026-10-08"
+        "date": "2026-10-13"
       },
       {
-        "title": "Stay informed with the top movers within the S&P500 index on Thursday.",
-        "url": "https://finnhub.io/api/news?id=5741fde32d2d428cfb091510e2b9dc970e9a9cdc9798a0a9de13df26fb600389",
-        "source": "ChartMill",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "What Did Bloom Energy Stock Investors Miss Before The Run?",
-        "url": "https://finnhub.io/api/news?id=93d68fac38d58e0c93732bcadc05c4e976d3ffbf98e2302549ae44f236dcc19b",
+        "title": "3 Market-Beating Stocks to Own for Decades",
+        "url": "https://finnhub.io/api/news?id=9566143c225170c8d213dd1c642dcda08b5b8bd24c870161e46ddbf087a996f5",
         "source": "Yahoo",
-        "date": "2026-10-08"
+        "date": "2026-10-13"
       }
     ],
     "source": "finnhub",
-    "updatedAt": "2026-10-09T17:00:54.227Z"
+    "updatedAt": "2026-10-13T17:36:59.498Z"
   },
   "P": {
-    "sentiment": 0.75,
+    "sentiment": 0.714,
     "headlines": [
       {
-        "title": "Top Storage Stock to Buy With $500 Right Now",
-        "url": "https://finnhub.io/api/news?id=647d46c9e0bdf91b7908545a7ede013fffde7b4e561f04a8c2c6c81e3b78da62",
+        "title": "Will NetApp's Strong Balance Sheet Support Its AI Expansion Strategy?",
+        "url": "https://finnhub.io/api/news?id=1741be50948c10051b2a93278db1b7a2347ac820c6e745853b76f959f363fcc1",
         "source": "Yahoo",
-        "date": "2026-10-09"
+        "date": "2026-10-13"
       },
       {
-        "title": "What Are Everpure Investors Betting On?",
-        "url": "https://finnhub.io/api/news?id=85a2f70411db67a50bbd7df7bcc3d4774dae50d6cdf68a0c04690dcadcd839e9",
+        "title": "ValuEngine Weekly Commentary With Strategy Notes",
+        "url": "https://finnhub.io/api/news?id=9e6dafae442f96026a265b8b3c3d2e060891d304bc6b6f2278911b4ff4a22654",
+        "source": "SeekingAlpha",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Everpure Could Almost Double Its Profit, But Valuation Remains High",
+        "url": "https://finnhub.io/api/news?id=68ee7896773f739e220ca8d34827cf74fb7f7e1d3741ce1aa900bdb8d0f8b76c",
+        "source": "SeekingAlpha",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "3 AI Infrastructure Stocks With Real Revenue Tied To Data Center Spending",
+        "url": "https://finnhub.io/api/news?id=61f994a9ac9328d8bb8db6e4873bac9982d2a14fd6f1c14d8f2bfc58461a1e47",
         "source": "Yahoo",
-        "date": "2026-10-09"
+        "date": "2026-10-13"
       },
       {
-        "title": "1 Growth Stock with Explosive Upside and 2 That Underwhelm",
-        "url": "https://finnhub.io/api/news?id=38b87fee1e9b1c8d19c3b12e11ceeb76c41016f18f3100a324bfa35133a6a7b9",
+        "title": "2 S&P 500 Stocks for Long-Term Investors and 1 We Ignore",
+        "url": "https://finnhub.io/api/news?id=fea21928c9d69983f3f23ef2f64b52e32d47d42c4076c595450d494a2809b524",
         "source": "Yahoo",
-        "date": "2026-10-08"
+        "date": "2026-10-12"
       },
       {
-        "title": "Cramer’s Stop Trading: Costco and Everpure",
-        "url": "https://finnhub.io/api/news?id=c5babd416e275805c6ffdc726fecf8775ef0afe209af2bddc287f52d47bb5114",
-        "source": "CNBC",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Eli Lilly To Rally Over 21%? Here Are 10 Top Analyst Forecasts For Thursday",
-        "url": "https://finnhub.io/api/news?id=8712679e68035a7653e67a091e12385ff8167b48802366bb003849d81147b513",
+        "title": "Guggenheim Maintains Buy on Everpure, Raises Price Target to $215",
+        "url": "https://finnhub.io/api/news?id=a9e08a34916c021d54f7051ceac4ae33a0c389a965d8b157da5c7d537fa4ce3e",
         "source": "Benzinga",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Needham Maintains Buy on Everpure, Raises Price Target to $185",
-        "url": "https://finnhub.io/api/news?id=702edefe1bee0d27d68ab682c2a9054c2abef321533b7b55e073d622e35f7313",
-        "source": "Benzinga",
-        "date": "2026-10-08"
+        "date": "2026-10-12"
       }
     ],
     "source": "finnhub",
-    "updatedAt": "2026-10-09T17:06:10.687Z"
+    "updatedAt": "2026-10-13T17:43:07.552Z"
   },
   "ILMN": {
-    "sentiment": 0.684,
+    "sentiment": 0.632,
     "headlines": [
+      {
+        "title": "Mammogen Appoints Diagnostics Industry Leader, Dr. Robert S. Epstein, to Board of Directors",
+        "url": "https://finnhub.io/api/news?id=d54b22e722b141e744e058e7c16fb7b2955c64056b24094c4010687dd24e8779",
+        "source": "Yahoo",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "ValuEngine Weekly Commentary With Strategy Notes",
+        "url": "https://finnhub.io/api/news?id=9e6dafae442f96026a265b8b3c3d2e060891d304bc6b6f2278911b4ff4a22654",
+        "source": "SeekingAlpha",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Global Chromosomal Microarray Reflex Testing Market Report 2026-2030 | Capitalize on 9.1% CAGR as Thermo Fisher, LabCorp, Illumina, Agilent, and Natera Scale Precision Genomics",
+        "url": "https://finnhub.io/api/news?id=d2236c8c28c291f8d06435628151897272438e2c76e2f409c8bed47f16e3d589",
+        "source": "Yahoo",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Illumina’s (ILMN) Sequencing Business Is Recovering, But Is the Stock Getting Ahead of Itself?",
+        "url": "https://finnhub.io/api/news?id=698ff2ae220bf3aed31b49e2c8269d2037a26b847f19f42b230d464681a3af04",
+        "source": "Yahoo",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "3 Profitable Stocks We Steer Clear Of",
+        "url": "https://finnhub.io/api/news?id=aa506e63cf8c83694345374c645af4df5b45c40b18195fdf847ca8d4ff2435eb",
+        "source": "Yahoo",
+        "date": "2026-10-12"
+      },
       {
         "title": "Could You Have Seen The Run In Tempus AI Stock Coming?",
         "url": "https://finnhub.io/api/news?id=3b3344f74bcb61c4bd0118651c3f64969cb03c062ec7f3b9717f18bd5f79bca6",
         "source": "Yahoo",
         "date": "2026-10-09"
-      },
-      {
-        "title": "What is Illumina’s (ILMN) Economic Moat, and is it Widening or Narrowing?",
-        "url": "https://finnhub.io/api/news?id=edc14684f3cf0363f36c21c0b418ab18d69707584494fc319896a92daa48f7ad",
-        "source": "Yahoo",
-        "date": "2026-10-09"
-      },
-      {
-        "title": "Illumina to Announce Third Quarter 2026 Financial Results on Thursday, October 29, 2026",
-        "url": "https://finnhub.io/api/news?id=da9644ce7c0f24243414ef927527d36e1a38f0819ea547ef3eab8274b0700b31",
-        "source": "Yahoo",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Which S&P500 stocks are gapping on Thursday?",
-        "url": "https://finnhub.io/api/news?id=0dd7d1b383dd91d4ef55e272b4d0e25c1c563ddef68dfa481dcf459a3f0016fa",
-        "source": "ChartMill",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Illumina releases SpliceAI2 to help advance rare disease research",
-        "url": "https://finnhub.io/api/news?id=da2eda036a14c09da4078004b02effbf5cd9d6c67b53dfc524dc501cea133f07",
-        "source": "Yahoo",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Barclays Maintains Underweight on Illumina, Raises Price Target to $200",
-        "url": "https://finnhub.io/api/news?id=11401f660caa5ee6fa24bd51d2969b5bafd51b7dd8c68bfe36adfff258914afc",
-        "source": "Benzinga",
-        "date": "2026-10-07"
       }
     ],
     "source": "finnhub",
-    "updatedAt": "2026-10-09T17:09:29.084Z"
+    "updatedAt": "2026-10-13T17:46:33.618Z"
   },
   "RDDT": {
-    "sentiment": 0.5,
+    "sentiment": 0.6,
     "headlines": [
       {
-        "title": "Worker With $600 Saved Says, ‘I’m Ready To Move Out’ At 34, But $22,500 In Debt Has Them Feeling ‘So Behind In Life’",
-        "url": "https://finnhub.io/api/news?id=21b6302e1bcc06e04988c0553e10abf11c630343c9ec61a9ba0beb5b770061b0",
+        "title": "AppLovin vs. Reddit: Which Technology Stock Is a Better Buy in 2026?",
+        "url": "https://finnhub.io/api/news?id=3e84072b982c9465756d755e824f0f6773af12b6362183e0b6d1b36af9650c1e",
         "source": "Yahoo",
-        "date": "2026-10-09"
+        "date": "2026-10-13"
       },
       {
-        "title": "If The Economy Is In Distress, Why Are Flights Sold Out, Hotels Booked And Restaurants Have Wait Times? Where Are The Signs Of Recession?",
-        "url": "https://finnhub.io/api/news?id=7f2b8715197ebef7cebedb50713a378ddd6b7971dbf8d5b2bc181559a76d33bb",
+        "title": "Social Media Stocks Rally as Truist Sets $1,000 Street-High Meta Target on Muse Adoption: Meta and Snap Climb 4%, Reddit Ticks Up",
+        "url": "https://finnhub.io/api/news?id=32c1e145e32856c8a97acf57647f8cb4ac1ebf7935f43cddf68a1ccb6bf4f28a",
         "source": "Yahoo",
-        "date": "2026-10-09"
+        "date": "2026-10-13"
       },
       {
-        "title": "3 Overrated  Stocks We Think Twice About",
-        "url": "https://finnhub.io/api/news?id=8616bd34a1a4b5685b66d997b02d0acb989a49044034a046ffda638125562834",
+        "title": "Meta Platforms Rises 12% in 3 Months: Buy, Sell, or Hold the Stock?",
+        "url": "https://finnhub.io/api/news?id=264c69a90e59f65fe283b1de48cdcdc2b40d3dd4a9f2fefb7417c9207c33407a",
         "source": "Yahoo",
-        "date": "2026-10-09"
+        "date": "2026-10-13"
       },
       {
-        "title": "Needham Reiterates Buy on Reddit, Maintains $300 Price Target",
-        "url": "https://finnhub.io/api/news?id=8bede0cc75690b899600175d0c781cb503a888dd42e0a20a8b125cb077b21447",
-        "source": "Benzinga",
-        "date": "2026-10-09"
+        "title": "Why Reddit (RDDT) Stock Is Trading Lower Today",
+        "url": "https://finnhub.io/api/news?id=515070f3c3a2bc0b8a2eb07017c13d7a9f8fdab3b84b94bc6a88faff9763db14",
+        "source": "Yahoo",
+        "date": "2026-10-13"
       },
       {
-        "title": "Teacher, 27, Has $70K ‘Doing Nothing’ In Savings — Partner Wants To ‘Put Her Money To Work’ Without Moving Too Fast",
-        "url": "https://finnhub.io/api/news?id=6fb1dffc340915632bdabe82c4ce4a7ae171a8b724bcc079907713cd2975eb25",
+        "title": "Is Meta's Next Big Thing Already Here?",
+        "url": "https://finnhub.io/api/news?id=43af6a05122dda33755ff1e245f9e8d3f98bd5b9a2e834efad4024ff57ba4d82",
         "source": "Yahoo",
-        "date": "2026-10-08"
+        "date": "2026-10-12"
       },
       {
-        "title": "Is Reddit (RDDT) Still Below Fair Value After Its New Ad Tools Launch?",
-        "url": "https://finnhub.io/api/news?id=d7133528049dd39767ab74cdb7a1e6961e2dbcee3dc764b7a04fd6481daecc59",
+        "title": "Is Reddit Stock a Good Fit For Your Portfolio Risk?",
+        "url": "https://finnhub.io/api/news?id=02eb0cec2e4b3ae8108bc5bf5ca50b1fb0270247142b11f6ab1e495c9bb66a9f",
         "source": "Yahoo",
-        "date": "2026-10-08"
+        "date": "2026-10-12"
       }
     ],
     "source": "finnhub",
-    "updatedAt": "2026-10-09T17:16:02.376Z"
+    "updatedAt": "2026-10-13T17:53:05.979Z"
   },
   "VMRK": {
     "sentiment": 1,
     "headlines": [
+      {
+        "title": "Piper Sandler Maintains Neutral on Vivmark Residential, Lowers Price Target to $67",
+        "url": "https://finnhub.io/api/news?id=32379701d7c13dd3524d329a16cc2303c36344a247f82eac31ce50f1f6bc882d",
+        "source": "Benzinga",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Dividend Champion, Contender, And Challenger Highlights: Week October 11",
+        "url": "https://finnhub.io/api/news?id=6ecf61a08d4e89e309d2bc77c13f5e7c620f7c06baba3507c179f7718a35d78e",
+        "source": "SeekingAlpha",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "Apartment Supply Is Finally Tightening. These 4 REITs Could Reward Investors",
+        "url": "https://finnhub.io/api/news?id=e0ea3c568adf5132c96e8c1789d79b41ddfd2ccde8c430ab70369a9cff81399d",
+        "source": "Yahoo",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "Vivmark Residential Earnings Preview: What to Expect",
+        "url": "https://finnhub.io/api/news?id=db4ec5df5a82de5642480192dec5128d71f84544442dcd2fc0a052b30bce4380",
+        "source": "Yahoo",
+        "date": "2026-10-09"
+      },
       {
         "title": "Vivmark Residential Announces Third Quarter 2026 Earnings Release Date",
         "url": "https://finnhub.io/api/news?id=9145bbd18633ce5cc216dc0b53d76a6cb75dacff7f7856ff662a14d6cb6daad9",
@@ -21712,162 +21736,138 @@
         "url": "https://finnhub.io/api/news?id=1de9ea2de30fa85b60e041eb6ca427ecb047d31c79a6c90c877467808b9d4f5a",
         "source": "SeekingAlpha",
         "date": "2026-10-08"
-      },
-      {
-        "title": "Why US Residential REIT Stocks Still Look Resilient Under Higher Rates",
-        "url": "https://finnhub.io/api/news?id=a74f7bd32bb0133cd6be6993c06af42416c7f83a5873050fafb40aa42ce93619",
-        "source": "Yahoo",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "Multifamily REITs: The Buyer Nobody's Pricing In",
-        "url": "https://finnhub.io/api/news?id=a7db2f975e2b5b8a05d2b954d64fd17beb54c0be2855ca916830313dd9c27487",
-        "source": "SeekingAlpha",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "M&A Megadeals Mask a Slowdown in CRE Transaction Volume",
-        "url": "https://finnhub.io/api/news?id=5d7f7f81bf5aac5fc50b712d7b1a80f2580ed8b11898a3d2bee586fe967a8b27",
-        "source": "Yahoo",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Buy 5 Barron's Better Bets (Than T-Bills) Out Of 11 'Safer' September DiviDogs",
-        "url": "https://finnhub.io/api/news?id=f99f92cbdd159160feba9c7d4c9c3d12dcfbb7649a368adc49334c44589245cc",
-        "source": "SeekingAlpha",
-        "date": "2026-09-26"
       }
     ],
     "source": "finnhub",
-    "updatedAt": "2026-10-09T17:20:27.857Z"
+    "updatedAt": "2026-10-13T17:57:33.127Z"
   },
   "SKYD": {
-    "sentiment": 0.4,
+    "sentiment": 0.231,
     "headlines": [
       {
-        "title": "Skydance Faces a Tough Lift. Netflix and Disney Are Better Bets.",
-        "url": "https://finnhub.io/api/news?id=9f86627074d8916b46204007a5ebbf469a2a1607a6f8c2beca6e7b8858dff86c",
-        "source": "Yahoo",
-        "date": "2026-10-09"
+        "title": "Skydance: The Next Netflix? Not So Fast",
+        "url": "https://finnhub.io/api/news?id=0abf86f0f2c498ebe646a1abf0c6cf381a3f4a3864f16963c2d18a18009bf0e7",
+        "source": "SeekingAlpha",
+        "date": "2026-10-12"
       },
       {
-        "title": "Skydance Climbs 5% as Buyers Return After Its Debut Selloff; Netflix and Walt Disney Edge Higher",
-        "url": "https://finnhub.io/api/news?id=d8cc765c08408df95ac8412380ee37e88a3abd1820be6f6598a0aa440e56a0c7",
+        "title": "Skydance Shareholders Get Free Warrants Tuesday. Index Selling Could Hurt the Price.",
+        "url": "https://finnhub.io/api/news?id=cb5bc97432ad31a4da15b5f412e6b89e1d44081ff52439d5a9938e3541e5f63a",
         "source": "Yahoo",
-        "date": "2026-10-08"
+        "date": "2026-10-12"
       },
       {
-        "title": "'Disney Has Held Talks With Other Studios About Using Its New Brand For Large-Screen Movie Formats' - Bloomberg News",
-        "url": "https://finnhub.io/api/news?id=b03a60bf93003ddd234a22032bc740de9d39a4d9bf78195f75609adcbd50772e",
+        "title": "StoneX Maintains Buy on Skydance, Lowers Price Target to $11",
+        "url": "https://finnhub.io/api/news?id=3116090777d4f6c6a23a1d5aea2d370c00d9e225f82a815c6045ad995d7d921a",
         "source": "Benzinga",
-        "date": "2026-10-08"
+        "date": "2026-10-12"
       },
       {
-        "title": "'Disney Pitches Paramount, Universal On IMAX Big-Screen Rival' - Bloomberg News",
-        "url": "https://finnhub.io/api/news?id=b201cf4b06dd597eeda18c6fe5ae9d637079e1b58482bb3787d93ae60d276210",
-        "source": "Benzinga",
-        "date": "2026-10-08"
+        "title": "Disney: Skydance Is A Bullish Catalyst",
+        "url": "https://finnhub.io/api/news?id=dc0ddd1b2a13c7571a099adc4b3495f5da5f24bbba6ebd983c2c0bacef741990",
+        "source": "SeekingAlpha",
+        "date": "2026-10-12"
       },
       {
-        "title": "Streaming Video Price Hikes Test Consumer Spending Limits",
-        "url": "https://finnhub.io/api/news?id=54622b60d6b8bb367125c806f037e9e53bb6ee1dbc856577479d99951831a0ec",
+        "title": "Skydance Stock Is a Dicey Bet. 2 Better Plays.",
+        "url": "https://finnhub.io/api/news?id=203bd7ee4a0243d17842b4d1b0f7b2101024e589a0debdf892c625697e60a871",
         "source": "Yahoo",
-        "date": "2026-10-08"
+        "date": "2026-10-10"
       },
       {
-        "title": "Skydance Debuts on NYSE Following 'Historic' Media Merger: NYSE Content Update",
-        "url": "https://finnhub.io/api/news?id=a8f8a5c67308c3888a8d67081349d1664619abb44ec840820c113ccc58d8f503",
+        "title": "MarketBeat Week in Review – 10/05 - 10/09",
+        "url": "https://finnhub.io/api/news?id=ee85d267fc41aa4007e7b70fa392249c3f250740282973465c48448d1e780777",
         "source": "Yahoo",
-        "date": "2026-10-08"
+        "date": "2026-10-10"
       }
     ],
     "source": "finnhub",
-    "updatedAt": "2026-10-09T17:17:15.205Z"
+    "updatedAt": "2026-10-13T17:54:18.973Z"
   },
   "TWLO": {
-    "sentiment": 0.107,
+    "sentiment": 0.435,
     "headlines": [
       {
-        "title": "Twilio to Announce Third Quarter 2026 Results on October 29, 2026",
-        "url": "https://finnhub.io/api/news?id=a317fee31d0deb732c4320874c2460afa6852074f71d0ed1b80ae5a6a064721e",
+        "title": "Trellist Launches Free Personalization Audit as New Research Shows Most Brands Lack Usable Customer Data",
+        "url": "https://finnhub.io/api/news?id=5828554902ce6c4b750184cd94cbb247d53cd91c032b42893018228f92504d01",
         "source": "Yahoo",
-        "date": "2026-10-08"
+        "date": "2026-10-13"
       },
       {
-        "title": "JP Morgan Maintains Overweight on Twilio, Raises Price Target to $335",
-        "url": "https://finnhub.io/api/news?id=e0329b4f75c819055f4c1b25142a3624d8c70cd6e6927d1e614efbc66d119c4c",
+        "title": "Twilio CEO: Voice AI penetration rate is extraordinarily low",
+        "url": "https://finnhub.io/api/news?id=b7c5517f0c50eb8cc7f55e5f287f6039dc9b8b6ec12627c65605b7f4b7c82ed4",
+        "source": "CNBC",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Twilio Q2 2026 Earnings Call: Complete Transcript",
+        "url": "https://finnhub.io/api/news?id=6383c329a0f1cb784501a3ccf61079d819370105178e39c974abb899704c022c",
         "source": "Benzinga",
-        "date": "2026-10-08"
+        "date": "2026-10-13"
       },
       {
-        "title": "Twilio shares up 97% this year as investors focus on third-quarter gross profit growth, Jefferies says",
-        "url": "https://finnhub.io/api/news?id=b4be3d29d04cbd292c7fac6de4745eb79475d240ba6d36062a443e24cfba9446",
+        "title": "Twilio (TWLO) Suffers a Larger Drop Than the General Market: Key Insights",
+        "url": "https://finnhub.io/api/news?id=79f5364e834532006bbba7a9f1a3b92cfbfb5dfec2ef259b48fca436e22a27c7",
         "source": "Yahoo",
-        "date": "2026-10-07"
+        "date": "2026-10-12"
       },
       {
-        "title": "$1000 Invested In Twilio 10 Years Ago Would Be Worth This Much Today",
-        "url": "https://finnhub.io/api/news?id=a89bc8d2f87e76715b61898f78277abea6ab70367006eaf75611bb36a80aad8d",
-        "source": "Benzinga",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "What's Going On With Twilio Stock Tuesday?",
-        "url": "https://finnhub.io/api/news?id=d07a6dee5c066727cf933d667ab2193acef8da31edc997e97b4ed88d42fda2a7",
-        "source": "Benzinga",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "3 Unpopular Stocks with Warning Signs",
-        "url": "https://finnhub.io/api/news?id=bc8c742e52986fb11cd3994106d313913cd70c39368c449fb29f0a5811b58071",
+        "title": "Twilio (TWLO) Shares Just Moved, So What Is Going On?",
+        "url": "https://finnhub.io/api/news?id=15b0505dece938eb5b72c6dd45158e5f25dba2768fd40a1f0aa858b763738a54",
         "source": "Yahoo",
-        "date": "2026-10-06"
+        "date": "2026-10-10"
+      },
+      {
+        "title": "Should Twilio’s (TWLO) Inclusion in the S&P 500 Require Action From Existing Investors?",
+        "url": "https://finnhub.io/api/news?id=c4840bebde98fbfdf9e3f63957807ed63f2d3057406549c8f915910ea6372d84",
+        "source": "Yahoo",
+        "date": "2026-10-10"
       }
     ],
     "source": "finnhub",
-    "updatedAt": "2026-10-09T17:19:11.293Z"
+    "updatedAt": "2026-10-13T17:56:17.246Z"
   },
   "VYLR": {
-    "sentiment": 0.652,
+    "sentiment": 0.609,
     "headlines": [
       {
-        "title": "This Generac Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Thursday",
-        "url": "https://finnhub.io/api/news?id=b557a4227a0a8d2d1bb2fb6ef401b1dad50639b67ab96ff535c3113b10562952",
+        "title": "Vylor: A Food Scarcity Play With Growth Optionality",
+        "url": "https://finnhub.io/api/news?id=f76923662334a4de8385bc7ce8835e3585f5a3add21e77912aa709d81be47c6d",
+        "source": "SeekingAlpha",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "UBS Initiates Coverage On Vylor with Buy Rating, Announces Price Target of $89",
+        "url": "https://finnhub.io/api/news?id=04432d1c0c58c496d371a20d736e20dab4a43dca2b46b7b47b2acb7455a6cc19",
         "source": "Benzinga",
-        "date": "2026-10-08"
+        "date": "2026-10-12"
       },
       {
-        "title": "Goldman Sachs Initiates Coverage On Vylor with Buy Rating, Announces Price Target of $87",
-        "url": "https://finnhub.io/api/news?id=8734d3001ba42a67bb2f351aa34c9ca30fc9688c1e296a26ec1b8769a0b05b56",
+        "title": "Jim Cramer Gives Green Light To This Health Care Stock",
+        "url": "https://finnhub.io/api/news?id=181fa56a3be1775c70e520bc9ba74daa3074560f2f0563cc9e20a27aed58b18c",
         "source": "Benzinga",
-        "date": "2026-10-08"
+        "date": "2026-10-12"
       },
       {
-        "title": "Jim Cramer Sees One Stock to Own After Corteva’s (CTVA) Breakup",
-        "url": "https://finnhub.io/api/news?id=e8c1ca2654858a8f82d7ecaa74cfa85037dd04807a53406adadf634d5ee932ed",
+        "title": "Vylor (VYLR) Stock Looks Discounted Against Its Cash Flow Value",
+        "url": "https://finnhub.io/api/news?id=f7342f10257b4d804a9558ba23cbde1cd0ad4d4983a483b5509d646f25f4579e",
         "source": "Yahoo",
-        "date": "2026-10-08"
+        "date": "2026-10-10"
       },
       {
-        "title": "Caterpillar Is Sliding Today. It Shouldn’t Be.",
-        "url": "https://finnhub.io/api/news?id=8ae128b371218ffd47222a1786ccd8c8e46a5367ae130b77796aece6b7a63137",
+        "title": "Vylor (VYLR) Reshaped Its Debt, Is The Royalty Upside Already Priced In?",
+        "url": "https://finnhub.io/api/news?id=3e76524a1c9126cdd3405d737fe51a8cfc38b4c2f204c237d53b086d3da71bae",
         "source": "Yahoo",
-        "date": "2026-10-07"
+        "date": "2026-10-10"
       },
       {
-        "title": "Keybanc initiates coverage of Vylor at Sector Weight",
-        "url": "https://finnhub.io/api/news?id=1384cb8c9e21426fa6b7788fec995f1f3f81aa7ad676629d8d04284b6ad09796",
-        "source": "Fintel",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "Why Agricultural Stocks Are Falling But This One Is Back In A Buy Zone",
-        "url": "https://finnhub.io/api/news?id=9be8ba12c8d904e937292f5ec22d7cf429fe8e2928571138a4472862d3ec3abb",
+        "title": "What Does Vylor (VYLR) Joining Major Indices Mean For Investors?",
+        "url": "https://finnhub.io/api/news?id=b58e43bbaf49fd36e91cf949df176cb6fa2f5f226ce11e427923d4619e9ec8d1",
         "source": "Yahoo",
-        "date": "2026-10-07"
+        "date": "2026-10-10"
       }
     ],
     "source": "finnhub",
-    "updatedAt": "2026-10-09T17:20:36.286Z"
+    "updatedAt": "2026-10-13T17:57:41.353Z"
   }
 }

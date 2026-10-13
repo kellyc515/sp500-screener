@@ -69249,17 +69249,17 @@
     "name": "DOMINOS PIZZA INC",
     "sector": "Wholesale-Groceries & Related Products",
     "secEps": 17.57,
-    "secBookValuePerShare": -120.3816,
+    "secBookValuePerShare": -120.2302,
     "revenueGrowth": 4.96,
     "epsGrowth": 5.27,
     "fcfGrowth": 31.15,
     "operatingMargin": 19.31,
     "marginTrend": 0.63,
     "source": "sec",
-    "updatedAt": "2026-10-07T17:32:22.595Z",
+    "updatedAt": "2026-10-13T17:41:31.356Z",
     "annualFcf": 671504000,
     "annualFcfPeriodEnd": "2025-12-28",
-    "sharesOutstanding": 33081735,
+    "sharesOutstanding": 32896056,
     "sic": 5140,
     "annualOcf": 792062000,
     "annualCapex": 120558000,
@@ -69556,12 +69556,61 @@
       "accession": "0001193125-26-062321",
       "filingDate": "2026-02-23",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-07",
-      "currentPeriodAgeDays": 283,
+      "asOfDate": "2026-10-13",
+      "currentPeriodAgeDays": 289,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:33.756Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-09-06",
+        "form": "10-Q",
+        "filed": "2026-10-13",
+        "accession": "0001286681-26-000040",
+        "assets": 1766373000,
+        "debt": {
+          "value": 4885904000,
+          "reason": null,
+          "method": [
+            "LongTermDebtAndCapitalLeaseObligationsCurrent",
+            "LongTermDebtAndCapitalLeaseObligations"
+          ],
+          "facts": [
+            {
+              "value": 1326786000,
+              "end": "2026-09-06",
+              "form": "10-Q",
+              "filed": "2026-10-13",
+              "accn": "0001286681-26-000040",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtAndCapitalLeaseObligationsCurrent"
+            },
+            {
+              "value": 3559118000,
+              "end": "2026-09-06",
+              "form": "10-Q",
+              "filed": "2026-10-13",
+              "accn": "0001286681-26-000040",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtAndCapitalLeaseObligations"
+            }
+          ]
+        },
+        "cash": {
+          "value": 229035000,
+          "end": "2026-09-06",
+          "form": "10-Q",
+          "filed": "2026-10-13",
+          "accn": "0001286681-26-000040",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": 4656869000,
+        "reason": null
+      },
       {
         "date": "2026-06-14",
         "form": "10-Q",
@@ -69663,8 +69712,8 @@
       {
         "date": "2025-12-28",
         "form": "10-Q",
-        "filed": "2026-07-20",
-        "accession": "0001286681-26-000035",
+        "filed": "2026-10-13",
+        "accession": "0001286681-26-000040",
         "assets": 1716459000,
         "debt": {
           "value": 4816814000,
@@ -69687,8 +69736,8 @@
               "value": 6131000,
               "end": "2025-12-28",
               "form": "10-Q",
-              "filed": "2026-07-20",
-              "accn": "0001286681-26-000035",
+              "filed": "2026-10-13",
+              "accn": "0001286681-26-000040",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtAndCapitalLeaseObligationsCurrent"
@@ -69697,8 +69746,8 @@
               "value": 4810683000,
               "end": "2025-12-28",
               "form": "10-Q",
-              "filed": "2026-07-20",
-              "accn": "0001286681-26-000035",
+              "filed": "2026-10-13",
+              "accn": "0001286681-26-000040",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtAndCapitalLeaseObligations"
@@ -69709,8 +69758,8 @@
           "value": 125675000,
           "end": "2025-12-28",
           "form": "10-Q",
-          "filed": "2026-07-20",
-          "accn": "0001286681-26-000035",
+          "filed": "2026-10-13",
+          "accn": "0001286681-26-000040",
           "frame": "CY2025Q4I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
@@ -69760,7 +69809,7 @@
           "form": "10-Q",
           "filed": "2025-10-14",
           "accn": "0001193125-25-237878",
-          "frame": "CY2025Q3I",
+          "frame": null,
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
         },
@@ -69817,8 +69866,8 @@
         "reason": null
       }
     ],
-    "lastFiledDate": "2026-07-20",
-    "nextExpectedFilingDate": "2026-10-19"
+    "lastFiledDate": "2026-10-13",
+    "nextExpectedFilingDate": "2027-01-12"
   },
   "DASH": {
     "name": "DoorDash, Inc.",
