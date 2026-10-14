@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-13T17:33:11.542Z"
+    "updatedAt": "2026-10-14T15:02:48.667Z"
   },
   "trades": [
     {
@@ -43,6 +43,19 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035635.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035635.pdf|HD|2026-10-08|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "HD",
+      "member": "Rick Larsen",
+      "district": "WA02",
+      "assetDescription": "The Home Depot Inc",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-08",
+      "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035635.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|THR|2026-10-01|Exchange|$15,001 - $50,000",
       "chamber": "House",
       "ticker": "THR",
@@ -54,6 +67,58 @@
       "transactionDate": "2026-10-01",
       "disclosureDate": "2026-10-13",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|BHE|2026-10-01|Purchase|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "BHE",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "Benchmark Electronics, Inc. Common Stock",
+      "type": "Purchase",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-10-01",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf|IBRX|2026-09-30|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "IBRX",
+      "member": "Lisa McClain",
+      "district": "MI09",
+      "assetDescription": "ImmunityBio, Inc. - Common Stock",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-30",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf|MSFT|2026-09-30|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "MSFT",
+      "member": "Lisa McClain",
+      "district": "MI09",
+      "assetDescription": "Microsoft Corporation - Common Stock",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-30",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf|STX|2026-09-30|Sale (Partial)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "STX",
+      "member": "Lisa McClain",
+      "district": "MI09",
+      "assetDescription": "Seagate Technology Holdings PLC - Ordinary Shares",
+      "type": "Sale (Partial)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-30",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|AEIS|2026-09-29|Purchase|$1,001 - $15,000",
@@ -212,6 +277,123 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|HALO|2026-09-29|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "HALO",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "Halozyme Therapeutics, Inc. - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-29",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|ITT|2026-09-29|Sale (Full)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "ITT",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "ITT Inc. Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-29",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|ALKS|2026-09-29|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "ALKS",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "Alkermes PLC - Ordinary Shares",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-29",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|MTSI|2026-09-29|Sale (Full)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "MTSI",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "MACOM Technology Solutions Holdings, Inc. - Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-29",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|OXM|2026-09-29|Sale (Full)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "OXM",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "Oxford Industries, Inc. Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-29",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|PRAX|2026-09-29|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "PRAX",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "Praxis Precision Medicines, Inc. - Common Stock",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-29",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|SMTC|2026-09-29|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "SMTC",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "Semtech Corporation - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-29",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|ATRC|2026-09-29|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "ATRC",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "AtriCure, Inc. - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-29",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|BBIO|2026-09-29|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "BBIO",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "BridgeBio Pharma, Inc. - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-29",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf|MSFT|2026-09-28|Sale|$1,001 - $15,000",
       "chamber": "House",
       "ticker": "MSFT",
@@ -236,6 +418,32 @@
       "transactionDate": "2026-09-28",
       "disclosureDate": "2026-10-13",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf|CAT|2026-09-28|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "CAT",
+      "member": "Lisa McClain",
+      "district": "MI09",
+      "assetDescription": "Caterpillar, Inc. Common Stock",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-28",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf|IBRX|2026-09-28|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "IBRX",
+      "member": "Lisa McClain",
+      "district": "MI09",
+      "assetDescription": "ImmunityBio, Inc. - Common Stock",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-28",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035590.pdf|MCD|2026-09-25|Sale|$1,001 - $15,000",
@@ -784,6 +992,32 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|ITT|2026-09-21|Sale (Partial)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "ITT",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "ITT Inc. Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-21",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|MTSI|2026-09-21|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "MTSI",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "MACOM Technology Solutions Holdings, Inc. - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-21",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|ABT|2026-09-18|Purchase|$1,001 - $15,000",
       "chamber": "House",
       "ticker": "ABT",
@@ -924,6 +1158,110 @@
       "amount": "$1,001 - $15,000",
       "transactionDate": "2026-09-18",
       "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|DECK|2026-09-18|Sale (Full)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "DECK",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "Deckers Outdoor Corporation",
+      "type": "Sale (Full)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-18",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|DPZ|2026-09-18|Sale (Full)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "DPZ",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "Domino's Pizza Inc - Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-18",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|FIS|2026-09-18|Sale (Full)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "FIS",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "Fidelity National Information Services, Inc. Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-18",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|PODD|2026-09-18|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "PODD",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "Insulet Corporation - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-18",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|INTU|2026-09-18|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "INTU",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "Intuit Inc. - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-18",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|TTD|2026-09-18|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "TTD",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "The Trade Desk, Inc. - Class A Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-18",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|WDC|2026-09-18|Sale (Full)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "WDC",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "Western Digital Corporation - Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-18",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|WUXIF|2026-09-18|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "WUXIF",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "WUXI APPTEC CO REG SHS H",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-18",
+      "disclosureDate": "2026-10-12",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
     },
     {
@@ -1109,6 +1447,32 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|CTVA|2026-09-17|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "CTVA",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "Corteva, Inc. Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-17",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|PTC|2026-09-17|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "PTC",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "PTC Inc. - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-17",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|AVGO|2026-09-16|Sale|$1,001 - $15,000",
       "chamber": "House",
       "ticker": "AVGO",
@@ -1132,6 +1496,32 @@
       "amount": "$1,001 - $15,000",
       "transactionDate": "2026-09-16",
       "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|AVGO|2026-09-16|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "AVGO",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "Broadcom Inc. - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-16",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|MCHP|2026-09-16|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "MCHP",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "Microchip Technology Incorporated - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-16",
+      "disclosureDate": "2026-10-12",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
     },
     {
@@ -1523,6 +1913,71 @@
       "transactionDate": "2026-09-14",
       "disclosureDate": "2026-10-09",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf|CACI|2026-09-14|Purchase|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "CACI",
+      "member": "Lisa McClain",
+      "district": "MI09",
+      "assetDescription": "CACI International, Inc. Class A Common Stock",
+      "type": "Purchase",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-14",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf|NG|2026-09-14|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "NG",
+      "member": "Lisa McClain",
+      "district": "MI09",
+      "assetDescription": "Novagold Resources Inc.",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-14",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf|OLN|2026-09-14|Purchase|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "OLN",
+      "member": "Lisa McClain",
+      "district": "MI09",
+      "assetDescription": "Olin Corporation Common Stock",
+      "type": "Purchase",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-14",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf|RIG|2026-09-14|Purchase|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "RIG",
+      "member": "Lisa McClain",
+      "district": "MI09",
+      "assetDescription": "Transocean Ltd",
+      "type": "Purchase",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-14",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|RBC|2026-09-14|Sale (Full)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "RBC",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "RBC Bearings Incorporated Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-14",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|OKE|2026-09-11|Exchange|$100,001 - $250,000",
@@ -2838,6 +3293,19 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|RVTY|2026-09-09|Sale (Partial)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "RVTY",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "Revvity, Inc. Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-09",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035471.pdf|IBP|2026-09-08|Purchase|$1,001 - $15,000",
       "chamber": "House",
       "ticker": "IBP",
@@ -3228,6 +3696,19 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|RVTY|2026-09-04|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "RVTY",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "Revvity, Inc. Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-04",
+      "disclosureDate": "2026-10-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|BSX|2026-09-03|Sale|$1,001 - $15,000",
       "chamber": "House",
       "ticker": "BSX",
@@ -3329,6 +3810,19 @@
       "amount": "$1,001 - $15,000",
       "transactionDate": "2026-09-03",
       "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|RVTY|2026-09-03|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "RVTY",
+      "member": "Gilbert Cisneros",
+      "district": "CA31",
+      "assetDescription": "Revvity, Inc. Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-03",
+      "disclosureDate": "2026-10-12",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
     },
     {
