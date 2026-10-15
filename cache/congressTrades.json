@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-14T15:02:48.667Z"
+    "updatedAt": "2026-10-15T14:54:51.169Z"
   },
   "trades": [
     {
@@ -54,6 +54,19 @@
       "transactionDate": "2026-10-08",
       "disclosureDate": "2026-10-13",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035635.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf|NEE|2026-10-02|Sale (Full)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "NEE",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "NextEra Energy, Inc. Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-10-02",
+      "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|THR|2026-10-01|Exchange|$15,001 - $50,000",
@@ -849,6 +862,149 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf|CVX|2026-09-23|Sale (Partial)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "CVX",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Chevron Corporation Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-23",
+      "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf|LMT|2026-09-23|Sale (Partial)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "LMT",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Lockheed Martin Corporation Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-23",
+      "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf|LMT|2026-09-23|Sale (Full)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "LMT",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Lockheed Martin Corporation Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-23",
+      "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf|MRSH|2026-09-23|Sale (Full)|$50,001 - $100,000",
+      "chamber": "House",
+      "ticker": "MRSH",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Marsh Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$50,001 - $100,000",
+      "transactionDate": "2026-09-23",
+      "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf|CB|2026-09-23|Sale (Full)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "CB",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Chubb Limited Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-23",
+      "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf|SBUX|2026-09-23|Sale (Full)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "SBUX",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Starbucks Corporation - Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-23",
+      "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf|UNH|2026-09-23|Sale (Full)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "UNH",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "UnitedHealth Group Incorporated Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-23",
+      "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf|AIO|2026-09-23|Sale (Full)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "AIO",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Virtus Artificial Intelligence & Technology Opportunities Fund",
+      "type": "Sale (Full)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-23",
+      "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf|DVN|2026-09-23|Sale (Full)|$50,001 - $100,000",
+      "chamber": "House",
+      "ticker": "DVN",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Devon Energy Corporation Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$50,001 - $100,000",
+      "transactionDate": "2026-09-23",
+      "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf|DVN|2026-09-23|Sale (Partial)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "DVN",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Devon Energy Corporation Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-23",
+      "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf|HD|2026-09-23|Sale (Full)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "HD",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Home Depot, Inc.",
+      "type": "Sale (Full)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-23",
+      "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035499.pdf|AAPL|2026-09-22|Sale|$100,001 - $250,000",
       "chamber": "House",
       "ticker": "AAPL",
@@ -1471,6 +1627,84 @@
       "transactionDate": "2026-09-17",
       "disclosureDate": "2026-10-12",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf|LMT|2026-09-17|Sale (Partial)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "LMT",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Lockheed Martin Corporation Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-17",
+      "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf|LOW|2026-09-17|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "LOW",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Lowe's Companies, Inc. Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-17",
+      "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf|MRSH|2026-09-17|Sale (Partial)|$50,001 - $100,000",
+      "chamber": "House",
+      "ticker": "MRSH",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Marsh Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$50,001 - $100,000",
+      "transactionDate": "2026-09-17",
+      "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf|ROK|2026-09-17|Sale (Partial)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "ROK",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Rockwell Automation, Inc. Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-17",
+      "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf|EMR|2026-09-17|Sale (Partial)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "EMR",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Emerson Electric Company Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-17",
+      "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf|LIN|2026-09-17|Sale (Partial)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "LIN",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Linde PLC - Ordinary Shares",
+      "type": "Sale (Partial)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-17",
+      "disclosureDate": "2026-10-13",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|AVGO|2026-09-16|Sale|$1,001 - $15,000",
@@ -4604,6 +4838,19 @@
       "transactionDate": "2026-08-31",
       "disclosureDate": "2026-09-25",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035487.pdf|NVDA|2026-08-31|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "NVDA",
+      "member": "Daniel Meuser",
+      "district": "PA09",
+      "assetDescription": "NVIDIA Corporation",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-08-31",
+      "disclosureDate": "2026-10-14",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035487.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf|DASH|2026-08-28|Sale|$1,001 - $15,000",
