@@ -54568,7 +54568,7 @@
     "operatingMargin": 29.78,
     "marginTrend": 26.3,
     "source": "sec",
-    "updatedAt": "2026-10-08T17:27:38.088Z",
+    "updatedAt": "2026-10-16T14:57:13.122Z",
     "annualFcf": 1794000000,
     "annualFcfPeriodEnd": "2026-02-28",
     "sharesOutstanding": null,
@@ -167357,7 +167357,7 @@
     "operatingMargin": 12.24,
     "marginTrend": -1.79,
     "source": "sec",
-    "updatedAt": "2026-10-08T17:38:36.564Z",
+    "updatedAt": "2026-10-16T15:18:04.404Z",
     "annualFcf": null,
     "annualFcfPeriodEnd": null,
     "sharesOutstanding": 1362741092,
@@ -167612,8 +167612,8 @@
       "accession": "0000077476-26-000007",
       "filingDate": "2026-02-03",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-08",
-      "currentPeriodAgeDays": 285,
+      "asOfDate": "2026-10-16",
+      "currentPeriodAgeDays": 293,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:41.614Z",
@@ -205300,19 +205300,19 @@
   "TRV": {
     "name": "TRAVELERS COMPANIES, INC.",
     "sector": "Fire, Marine & Casualty Insurance",
-    "roe": 18.98,
-    "debtEquity": 0.204,
+    "roe": 21.69,
+    "debtEquity": 0.233,
     "secEps": 27.43,
-    "secBookValuePerShare": 158.7966,
+    "secBookValuePerShare": 141.4761,
     "revenueGrowth": 5.18,
     "epsGrowth": 27.76,
     "operatingMargin": 13.4,
     "marginTrend": -0.22,
     "source": "sec",
-    "updatedAt": "2026-10-15T15:19:56.554Z",
+    "updatedAt": "2026-10-16T15:25:39.390Z",
     "annualFcf": null,
     "annualFcfPeriodEnd": null,
-    "sharesOutstanding": 208575022,
+    "sharesOutstanding": 204946347,
     "sic": 6331,
     "annualOcf": null,
     "annualCapex": null,
@@ -205532,12 +205532,27 @@
       "accession": "0000086312-26-000065",
       "filingDate": "2026-02-12",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-15",
-      "currentPeriodAgeDays": 288,
+      "asOfDate": "2026-10-16",
+      "currentPeriodAgeDays": 289,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:04:24.602Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-09-30",
+        "form": "10-Q",
+        "filed": "2026-10-16",
+        "accession": "0000086312-26-000181",
+        "assets": 142089000000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": null,
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
       {
         "date": "2026-06-30",
         "form": "10-Q",
@@ -205571,8 +205586,8 @@
       {
         "date": "2025-12-31",
         "form": "10-Q",
-        "filed": "2026-07-17",
-        "accession": "0000086312-26-000145",
+        "filed": "2026-10-16",
+        "accession": "0000086312-26-000181",
         "assets": 143708000000,
         "debt": {
           "value": null,
@@ -205614,8 +205629,8 @@
         "reason": "no supported debt representation at balance date"
       }
     ],
-    "lastFiledDate": "2026-07-17",
-    "nextExpectedFilingDate": "2026-10-16"
+    "lastFiledDate": "2026-10-16",
+    "nextExpectedFilingDate": "2027-01-15"
   },
   "TRMB": {
     "name": "TRIMBLE INC.",

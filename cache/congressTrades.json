@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-15T14:54:51.169Z"
+    "updatedAt": "2026-10-16T14:46:38.419Z"
   },
   "trades": [
     {
@@ -1096,6 +1096,19 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035648.pdf|AZO|2026-09-22|Sale|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "AZO",
+      "member": "Rick Allen",
+      "district": "GA12",
+      "assetDescription": "AutoZone Inc",
+      "type": "Sale",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-22",
+      "disclosureDate": "2026-10-15",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035648.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf|ACI|2026-09-21|Sale|$1,001 - $15,000",
       "chamber": "House",
       "ticker": "ACI",
@@ -1419,6 +1432,32 @@
       "transactionDate": "2026-09-18",
       "disclosureDate": "2026-10-12",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035651.pdf|BRK-A|2026-09-18|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "BRK-A",
+      "member": "Rich McCormick",
+      "district": "GA06",
+      "assetDescription": "Berkshire Hathaway Inc",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-18",
+      "disclosureDate": "2026-10-15",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035651.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035648.pdf|COST|2026-09-18|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "COST",
+      "member": "Rick Allen",
+      "district": "GA12",
+      "assetDescription": "Costco Wholesale Corp",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-18",
+      "disclosureDate": "2026-10-15",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035648.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf|HD|2026-09-17|Purchase|$1,001 - $15,000",
@@ -8972,19 +9011,6 @@
       "transactionDate": "2025-10-07",
       "disclosureDate": "2026-08-05",
       "link": "https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/"
-    },
-    {
-      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf|CRH|2025-09-11|Purchase|$1,001 - $15,000",
-      "chamber": "House",
-      "ticker": "CRH",
-      "member": "Ro Khanna",
-      "district": "CA17",
-      "assetDescription": "CRH PLC",
-      "type": "Purchase",
-      "amount": "$1,001 - $15,000",
-      "transactionDate": "2025-09-11",
-      "disclosureDate": "2026-10-09",
-      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf"
     }
   ]
 }
