@@ -86163,20 +86163,20 @@
   "FAST": {
     "name": "FASTENAL CO",
     "sector": "Retail-Building Materials, Hardware, Garden Supply",
-    "roe": 30.93,
-    "debtEquity": 0.029,
+    "roe": 30.33,
+    "debtEquity": 0.024,
     "secEps": 1.09,
-    "secBookValuePerShare": 3.5458,
+    "secBookValuePerShare": 3.6165,
     "revenueGrowth": 8.67,
     "epsGrowth": -45.5,
     "fcfGrowth": 10.96,
     "operatingMargin": 20.19,
     "marginTrend": 0.18,
     "source": "sec",
-    "updatedAt": "2026-10-15T15:05:32.833Z",
+    "updatedAt": "2026-10-19T17:06:21.016Z",
     "annualFcf": 1050600000,
     "annualFcfPeriodEnd": "2025-12-31",
-    "sharesOutstanding": 1147497573,
+    "sharesOutstanding": 1147301488,
     "sic": 5200,
     "annualOcf": 1295900000,
     "annualCapex": 245300000,
@@ -86455,12 +86455,61 @@
       "accession": "0000815556-26-000009",
       "filingDate": "2026-02-05",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-15",
-      "currentPeriodAgeDays": 288,
+      "asOfDate": "2026-10-19",
+      "currentPeriodAgeDays": 292,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:54.172Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-09-30",
+        "form": "10-Q",
+        "filed": "2026-10-19",
+        "accession": "0000815556-26-000049",
+        "assets": 5494400000,
+        "debt": {
+          "value": 100000000,
+          "reason": null,
+          "method": [
+            "LongTermDebtCurrent",
+            "LongTermDebtNoncurrent"
+          ],
+          "facts": [
+            {
+              "value": 50000000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-10-19",
+              "accn": "0000815556-26-000049",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            },
+            {
+              "value": 50000000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-10-19",
+              "accn": "0000815556-26-000049",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtNoncurrent"
+            }
+          ]
+        },
+        "cash": {
+          "value": 211900000,
+          "end": "2026-09-30",
+          "form": "10-Q",
+          "filed": "2026-10-19",
+          "accn": "0000815556-26-000049",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": -111900000,
+        "reason": null
+      },
       {
         "date": "2026-06-30",
         "form": "10-Q",
@@ -86562,8 +86611,8 @@
       {
         "date": "2025-12-31",
         "form": "10-Q",
-        "filed": "2026-07-16",
-        "accession": "0000815556-26-000041",
+        "filed": "2026-10-19",
+        "accession": "0000815556-26-000049",
         "assets": 5052900000,
         "debt": {
           "value": 125000000,
@@ -86577,8 +86626,8 @@
               "value": 25000000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-07-16",
-              "accn": "0000815556-26-000041",
+              "filed": "2026-10-19",
+              "accn": "0000815556-26-000049",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtCurrent"
@@ -86587,8 +86636,8 @@
               "value": 100000000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-07-16",
-              "accn": "0000815556-26-000041",
+              "filed": "2026-10-19",
+              "accn": "0000815556-26-000049",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtNoncurrent"
@@ -86599,8 +86648,8 @@
           "value": 276800000,
           "end": "2025-12-31",
           "form": "10-Q",
-          "filed": "2026-07-16",
-          "accn": "0000815556-26-000041",
+          "filed": "2026-10-19",
+          "accn": "0000815556-26-000049",
           "frame": "CY2025Q4I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
@@ -86707,8 +86756,8 @@
         "reason": null
       }
     ],
-    "lastFiledDate": "2026-07-16",
-    "nextExpectedFilingDate": "2026-10-15"
+    "lastFiledDate": "2026-10-19",
+    "nextExpectedFilingDate": "2027-01-18"
   },
   "FRT": {
     "name": "FEDERAL REALTY INVESTMENT TRUST",
@@ -139597,7 +139646,7 @@
     "operatingMargin": 15.65,
     "marginTrend": -0.12,
     "source": "sec",
-    "updatedAt": "2026-10-09T17:12:08.152Z",
+    "updatedAt": "2026-10-19T17:11:53.763Z",
     "annualFcf": 389500000,
     "annualFcfPeriodEnd": "2022-11-30",
     "sharesOutstanding": null,
@@ -139887,8 +139936,8 @@
       "accession": "0000063754-26-000037",
       "filingDate": "2026-01-22",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-09",
-      "currentPeriodAgeDays": 313,
+      "asOfDate": "2026-10-19",
+      "currentPeriodAgeDays": 323,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:57.915Z",
@@ -230748,8 +230797,8 @@
       "accession": "0001628280-26-006516",
       "filingDate": "2026-02-09",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-09",
-      "currentPeriodAgeDays": 282,
+      "asOfDate": "2026-10-19",
+      "currentPeriodAgeDays": 292,
       "boundaryGapDays": 1
     },
     "netDebtBalanceCandidates": [
@@ -230997,7 +231046,7 @@
     "lastFiledDate": "2026-04-29",
     "nextExpectedFilingDate": "2026-07-29",
     "source": "sec",
-    "updatedAt": "2026-10-09T17:00:49.320Z"
+    "updatedAt": "2026-10-19T17:00:16.686Z"
   },
   "P": {
     "name": "Everpure, Inc.",
@@ -231271,8 +231320,8 @@
       "accession": "0001474432-26-000027",
       "filingDate": "2026-03-25",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-09",
-      "currentPeriodAgeDays": 250,
+      "asOfDate": "2026-10-19",
+      "currentPeriodAgeDays": 260,
       "boundaryGapDays": 1
     },
     "netDebtBalanceCandidates": [
@@ -231468,7 +231517,7 @@
     "lastFiledDate": "2026-09-04",
     "nextExpectedFilingDate": "2026-12-04",
     "source": "sec",
-    "updatedAt": "2026-10-09T17:06:05.863Z"
+    "updatedAt": "2026-10-19T17:05:42.277Z"
   },
   "ILMN": {
     "name": "ILLUMINA, INC.",
@@ -231687,8 +231736,8 @@
       "accession": "0001110803-26-000024",
       "filingDate": "2026-02-12",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-09",
-      "currentPeriodAgeDays": 285,
+      "asOfDate": "2026-10-19",
+      "currentPeriodAgeDays": 295,
       "boundaryGapDays": 1
     },
     "netDebtBalanceCandidates": [
@@ -231771,7 +231820,7 @@
     "lastFiledDate": "2026-07-31",
     "nextExpectedFilingDate": "2026-10-30",
     "source": "sec",
-    "updatedAt": "2026-10-09T17:09:24.233Z"
+    "updatedAt": "2026-10-19T17:09:08.025Z"
   },
   "RDDT": {
     "name": "Reddit, Inc.",
@@ -232005,8 +232054,8 @@
       "accession": "0001713445-26-000022",
       "filingDate": "2026-02-06",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-09",
-      "currentPeriodAgeDays": 282,
+      "asOfDate": "2026-10-19",
+      "currentPeriodAgeDays": 292,
       "boundaryGapDays": 1
     },
     "netDebtBalanceCandidates": [
@@ -232134,7 +232183,7 @@
     "lastFiledDate": "2026-07-31",
     "nextExpectedFilingDate": "2026-10-30",
     "source": "sec",
-    "updatedAt": "2026-10-09T17:15:57.541Z"
+    "updatedAt": "2026-10-19T17:15:46.829Z"
   },
   "VMRK": {
     "name": "VIVMARK RESIDENTIAL",
@@ -232339,8 +232388,8 @@
       "accession": "0001193125-26-051433",
       "filingDate": "2026-02-13",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-09",
-      "currentPeriodAgeDays": 282,
+      "asOfDate": "2026-10-19",
+      "currentPeriodAgeDays": 292,
       "boundaryGapDays": 1
     },
     "netDebtBalanceCandidates": [
@@ -232468,7 +232517,7 @@
     "lastFiledDate": "2026-07-30",
     "nextExpectedFilingDate": "2026-10-29",
     "source": "sec",
-    "updatedAt": "2026-10-09T17:20:23.044Z"
+    "updatedAt": "2026-10-19T17:20:19.842Z"
   },
   "SKYD": {},
   "TWLO": {
@@ -232690,8 +232739,8 @@
       "accession": "0001447669-26-000021",
       "filingDate": "2026-02-24",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-09",
-      "currentPeriodAgeDays": 282,
+      "asOfDate": "2026-10-19",
+      "currentPeriodAgeDays": 292,
       "boundaryGapDays": 1
     },
     "netDebtBalanceCandidates": [
@@ -232819,7 +232868,7 @@
     "lastFiledDate": "2026-08-07",
     "nextExpectedFilingDate": "2026-11-06",
     "source": "sec",
-    "updatedAt": "2026-10-09T17:19:06.452Z"
+    "updatedAt": "2026-10-19T17:19:01.261Z"
   },
   "VYLR": {
     "name": "Vylor Inc.",
@@ -232836,6 +232885,6 @@
     },
     "netDebtBalanceCandidates": [],
     "source": "sec",
-    "updatedAt": "2026-10-09T17:20:31.491Z"
+    "updatedAt": "2026-10-19T17:20:28.255Z"
   }
 }
