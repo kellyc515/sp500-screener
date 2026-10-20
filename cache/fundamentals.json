@@ -65225,7 +65225,7 @@
     "operatingMargin": 9.19,
     "marginTrend": -0.54,
     "source": "sec",
-    "updatedAt": "2026-10-12T19:59:14.700Z",
+    "updatedAt": "2026-10-20T15:12:14.292Z",
     "annualFcf": null,
     "annualFcfPeriodEnd": null,
     "sharesOutstanding": 657912380,
@@ -65493,8 +65493,8 @@
       "accession": "0000027904-26-000013",
       "filingDate": "2026-02-11",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-12",
-      "currentPeriodAgeDays": 285,
+      "asOfDate": "2026-10-20",
+      "currentPeriodAgeDays": 293,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:29.157Z",
@@ -95023,20 +95023,20 @@
   "GE": {
     "name": "GENERAL ELECTRIC CO",
     "sector": "Electronic & Other Electrical Equipment (No Computer Equip)",
-    "roe": 49.34,
-    "debtEquity": 0.114,
+    "roe": 49.67,
+    "debtEquity": 0.134,
     "secEps": 8.14,
-    "secBookValuePerShare": 17.0014,
+    "secBookValuePerShare": 16.9565,
     "revenueGrowth": 18.48,
     "epsGrowth": 35.89,
     "fcfGrowth": 118.3,
     "operatingMargin": 15.53,
     "marginTrend": 1.51,
     "source": "sec",
-    "updatedAt": "2026-10-15T15:06:37.499Z",
+    "updatedAt": "2026-10-20T15:18:05.864Z",
     "annualFcf": 4545000000,
     "annualFcfPeriodEnd": "2022-12-31",
-    "sharesOutstanding": 1037562513,
+    "sharesOutstanding": 1033351921,
     "sic": 3600,
     "annualOcf": 5916000000,
     "annualCapex": 1371000000,
@@ -95273,12 +95273,27 @@
       "accession": "0000040545-26-000008",
       "filingDate": "2026-01-29",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-15",
-      "currentPeriodAgeDays": 288,
+      "asOfDate": "2026-10-20",
+      "currentPeriodAgeDays": 293,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:05.213Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-09-30",
+        "form": "10-Q",
+        "filed": "2026-10-20",
+        "accession": "0000040545-26-000064",
+        "assets": 127195000000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": null,
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
       {
         "date": "2026-06-30",
         "form": "10-Q",
@@ -95334,8 +95349,8 @@
       {
         "date": "2025-12-31",
         "form": "10-Q",
-        "filed": "2026-07-16",
-        "accession": "0000040545-26-000049",
+        "filed": "2026-10-20",
+        "accession": "0000040545-26-000064",
         "assets": 130169000000,
         "debt": {
           "value": null,
@@ -95410,8 +95425,8 @@
         "reason": "incomplete conventional current/noncurrent debt representation"
       }
     ],
-    "lastFiledDate": "2026-07-16",
-    "nextExpectedFilingDate": "2026-10-15"
+    "lastFiledDate": "2026-10-20",
+    "nextExpectedFilingDate": "2027-01-19"
   },
   "GEHC": {
     "name": "GE HealthCare Technologies Inc.",
@@ -98928,20 +98943,20 @@
   "GPC": {
     "name": "GENUINE PARTS CO",
     "sector": "Wholesale-Motor Vehicle Supplies & New Parts",
-    "roe": 1.46,
-    "debtEquity": 1.1,
+    "roe": 1.42,
+    "debtEquity": 1.099,
     "secEps": 0.47,
-    "secBookValuePerShare": 32.8306,
+    "secBookValuePerShare": 33.7213,
     "revenueGrowth": 3.46,
     "epsGrowth": -92.74,
     "fcfGrowth": -38.45,
     "operatingMargin": 7.64,
     "marginTrend": -0.08,
     "source": "sec",
-    "updatedAt": "2026-10-15T15:07:04.187Z",
+    "updatedAt": "2026-10-20T15:18:49.066Z",
     "annualFcf": 420924000,
     "annualFcfPeriodEnd": "2025-12-31",
-    "sharesOutstanding": 137859758,
+    "sharesOutstanding": 137864682,
     "sic": 5013,
     "annualOcf": 890762000,
     "annualCapex": 469838000,
@@ -99215,12 +99230,63 @@
       "accession": "0000040987-26-000003",
       "filingDate": "2026-02-20",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-15",
-      "currentPeriodAgeDays": 288,
+      "asOfDate": "2026-10-20",
+      "currentPeriodAgeDays": 293,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:09.334Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-09-30",
+        "form": "10-Q",
+        "filed": "2026-10-20",
+        "accession": "0000040987-26-000041",
+        "assets": 21497155000,
+        "debt": {
+          "value": 5110237000,
+          "reason": null,
+          "method": [
+            "LongTermDebtCurrent",
+            "LongTermDebtNoncurrent",
+            "ShortTermBorrowings"
+          ],
+          "facts": [
+            {
+              "value": 250000000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-10-20",
+              "accn": "0000040987-26-000041",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            },
+            {
+              "value": 4472149000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-10-20",
+              "accn": "0000040987-26-000041",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtNoncurrent"
+            },
+            {
+              "value": 388088000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-10-20",
+              "accn": "0000040987-26-000041",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "ShortTermBorrowings"
+            }
+          ]
+        },
+        "cash": null,
+        "netDebt": null,
+        "reason": "cash_missing"
+      },
       {
         "date": "2026-06-30",
         "form": "10-Q",
@@ -99326,8 +99392,8 @@
       {
         "date": "2025-12-31",
         "form": "10-Q",
-        "filed": "2026-07-21",
-        "accession": "0000040987-26-000033",
+        "filed": "2026-10-20",
+        "accession": "0000040987-26-000041",
         "assets": 20795540000,
         "debt": {
           "value": 4795751000,
@@ -99342,8 +99408,8 @@
               "value": 353788000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-07-21",
-              "accn": "0000040987-26-000033",
+              "filed": "2026-10-20",
+              "accn": "0000040987-26-000041",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtCurrent"
@@ -99352,8 +99418,8 @@
               "value": 3498423000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-07-21",
-              "accn": "0000040987-26-000033",
+              "filed": "2026-10-20",
+              "accn": "0000040987-26-000041",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtNoncurrent"
@@ -99362,8 +99428,8 @@
               "value": 943540000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-07-21",
-              "accn": "0000040987-26-000033",
+              "filed": "2026-10-20",
+              "accn": "0000040987-26-000041",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "ShortTermBorrowings"
@@ -99377,8 +99443,8 @@
       {
         "date": "2025-09-30",
         "form": "10-Q",
-        "filed": "2025-10-21",
-        "accession": "0000040987-25-000196",
+        "filed": "2026-10-20",
+        "accession": "0000040987-26-000041",
         "assets": 20694868000,
         "debt": {
           "value": 4758470000,
@@ -99477,8 +99543,8 @@
         "reason": "cash_missing"
       }
     ],
-    "lastFiledDate": "2026-07-21",
-    "nextExpectedFilingDate": "2026-10-20"
+    "lastFiledDate": "2026-10-20",
+    "nextExpectedFilingDate": "2027-01-19"
   },
   "GILD": {
     "name": "GILEAD SCIENCES, INC.",
@@ -153580,7 +153646,7 @@
     "epsGrowth": -2.78,
     "fcfGrowth": -33.17,
     "source": "sec",
-    "updatedAt": "2026-10-12T20:16:10.865Z",
+    "updatedAt": "2026-10-20T15:28:57.565Z",
     "annualFcf": 2184000000,
     "annualFcfPeriodEnd": "2026-05-31",
     "sharesOutstanding": 855351589,
@@ -153689,8 +153755,8 @@
       "accession": "0000320187-26-000088",
       "filingDate": "2026-07-15",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-10-12",
-      "currentPeriodAgeDays": 134,
+      "asOfDate": "2026-10-20",
+      "currentPeriodAgeDays": 142,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:24.537Z",
