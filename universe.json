@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T15:08:34.263Z",
+  "generatedAt": "2026-10-22T15:09:41.484Z",
   "source": "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv + https://www.sec.gov/files/company_tickers_exchange.json",
   "count": 503,
   "constituents": [
@@ -2357,7 +2357,7 @@
     },
     {
       "ticker": "RMD",
-      "name": "ResMed|",
+      "name": "ResMed",
       "sector": "Health Care",
       "exchange": "NYSE"
     },
