@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-22T15:09:44.113Z"
+    "updatedAt": "2026-10-23T14:58:30.779Z"
   },
   "trades": [
     {
@@ -4084,6 +4084,19 @@
       "transactionDate": "2026-09-08",
       "disclosureDate": "2026-09-25",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/6aa5ccb2-ff27-491a-9314-778b9ab37964/|WMB|2026-09-08|Sale (Full)|$250,001 - $500,000",
+      "chamber": "Senate",
+      "ticker": "WMB",
+      "member": "Alan Armstrong",
+      "district": null,
+      "assetDescription": "Williams Companies, Inc. (The) Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$250,001 - $500,000",
+      "transactionDate": "2026-09-08",
+      "disclosureDate": "2026-10-22",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/6aa5ccb2-ff27-491a-9314-778b9ab37964/"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf|BSX|2026-09-04|Sale|$50,001 - $100,000",
