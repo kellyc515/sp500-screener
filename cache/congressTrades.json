@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-23T14:58:30.779Z"
+    "updatedAt": "2026-10-26T16:45:15.272Z"
   },
   "trades": [
     {
@@ -80,6 +80,19 @@
       "transactionDate": "2026-10-09",
       "disclosureDate": "2026-10-16",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035669.pdf|TSM|2026-10-09|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "TSM",
+      "member": "Cleo Fields",
+      "district": "LA06",
+      "assetDescription": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-09",
+      "disclosureDate": "2026-10-23",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035669.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035635.pdf|ADI|2026-10-08|Purchase|$1,001 - $15,000",
@@ -171,6 +184,19 @@
       "transactionDate": "2026-10-01",
       "disclosureDate": "2026-10-12",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035669.pdf|NVDA|2026-10-01|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "NVDA",
+      "member": "Cleo Fields",
+      "district": "LA06",
+      "assetDescription": "NVIDIA Corporation",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-01",
+      "disclosureDate": "2026-10-23",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035669.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf|IBRX|2026-09-30|Purchase|$1,001 - $15,000",

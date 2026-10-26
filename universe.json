@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T14:58:28.214Z",
+  "generatedAt": "2026-10-26T16:45:12.180Z",
   "source": "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv + https://www.sec.gov/files/company_tickers_exchange.json",
   "count": 503,
   "constituents": [
@@ -2278,9 +2278,9 @@
       "exchange": "NYSE"
     },
     {
-      "ticker": "PWR",
-      "name": "Quanta Services",
-      "sector": "Industrials",
+      "ticker": "Q",
+      "name": "Qnity Electronics",
+      "sector": "Information Technology",
       "exchange": "NYSE"
     },
     {
@@ -2290,15 +2290,15 @@
       "exchange": "Nasdaq"
     },
     {
-      "ticker": "DGX",
-      "name": "Quest Diagnostics",
-      "sector": "Health Care",
+      "ticker": "PWR",
+      "name": "Quanta Services",
+      "sector": "Industrials",
       "exchange": "NYSE"
     },
     {
-      "ticker": "Q",
-      "name": "Qnity Electronics",
-      "sector": "Information Technology",
+      "ticker": "DGX",
+      "name": "Quest Diagnostics",
+      "sector": "Health Care",
       "exchange": "NYSE"
     },
     {
@@ -2317,12 +2317,6 @@
       "ticker": "RDDT",
       "name": "Reddit",
       "sector": "Communication Services",
-      "exchange": "NYSE"
-    },
-    {
-      "ticker": "RTX",
-      "name": "RTX Corporation",
-      "sector": "Industrials",
       "exchange": "NYSE"
     },
     {
@@ -2404,6 +2398,12 @@
       "exchange": "NYSE"
     },
     {
+      "ticker": "RTX",
+      "name": "RTX Corporation",
+      "sector": "Industrials",
+      "exchange": "NYSE"
+    },
+    {
       "ticker": "SPGI",
       "name": "S&P Global",
       "sector": "Financials",
@@ -2465,7 +2465,7 @@
     },
     {
       "ticker": "SKYD",
-      "name": "Skydance Corporation",
+      "name": "Skydance",
       "sector": "Communication Services",
       "exchange": "NYSE"
     },
