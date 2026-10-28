@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T15:50:50.737Z",
+  "generatedAt": "2026-10-28T16:34:54.176Z",
   "source": "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv + https://www.sec.gov/files/company_tickers_exchange.json",
   "count": 503,
   "constituents": [
@@ -2254,16 +2254,16 @@
       "exchange": "NYSE"
     },
     {
-      "ticker": "PEG",
-      "name": "Public Service Enterprise Group",
-      "sector": "Utilities",
-      "exchange": "NYSE"
-    },
-    {
       "ticker": "PTC",
       "name": "PTC Inc.",
       "sector": "Information Technology",
       "exchange": "Nasdaq"
+    },
+    {
+      "ticker": "PEG",
+      "name": "Public Service Enterprise Group",
+      "sector": "Utilities",
+      "exchange": "NYSE"
     },
     {
       "ticker": "PSA",
