@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T16:34:54.176Z",
+  "generatedAt": "2026-10-29T16:52:22.268Z",
   "source": "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv + https://www.sec.gov/files/company_tickers_exchange.json",
   "count": 503,
   "constituents": [

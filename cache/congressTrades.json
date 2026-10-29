@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-28T16:34:56.821Z"
+    "updatedAt": "2026-10-29T16:52:25.251Z"
   },
   "trades": [
     {
@@ -56,6 +56,19 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf|LOW|2026-10-22|Sale|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "LOW",
+      "member": "Pete Sessions",
+      "district": "TX17",
+      "assetDescription": "Lowe's Cos Inc",
+      "type": "Sale",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-10-22",
+      "disclosureDate": "2026-10-28",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf|REZI|2026-10-21|Sale|$0 - $1,000",
       "chamber": "House",
       "ticker": "REZI",
@@ -75,6 +88,19 @@
       "member": "Pete Sessions",
       "district": "TX17",
       "assetDescription": "SOLSTICE ADVANCED MTRILS INC",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-21",
+      "disclosureDate": "2026-10-28",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf|PEP|2026-10-21|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "PEP",
+      "member": "Pete Sessions",
+      "district": "TX17",
+      "assetDescription": "PepsiCo Inc",
       "type": "Sale",
       "amount": "$1,001 - $15,000",
       "transactionDate": "2026-10-21",
@@ -142,6 +168,19 @@
       "assetDescription": "Chevron Corp",
       "type": "Sale",
       "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-10-14",
+      "disclosureDate": "2026-10-28",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf|XOM|2026-10-14|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "XOM",
+      "member": "Pete Sessions",
+      "district": "TX17",
+      "assetDescription": "Exxon Mobil Corp",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
       "transactionDate": "2026-10-14",
       "disclosureDate": "2026-10-28",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
@@ -480,6 +519,32 @@
       "assetDescription": "Walmart Inc",
       "type": "Sale",
       "amount": "$50,001 - $100,000",
+      "transactionDate": "2026-10-02",
+      "disclosureDate": "2026-10-28",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf|MSFT|2026-10-02|Sale|$250,001 - $500,000",
+      "chamber": "House",
+      "ticker": "MSFT",
+      "member": "Pete Sessions",
+      "district": "TX17",
+      "assetDescription": "Microsoft Corp",
+      "type": "Sale",
+      "amount": "$250,001 - $500,000",
+      "transactionDate": "2026-10-02",
+      "disclosureDate": "2026-10-28",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf|NVDA|2026-10-02|Sale|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "NVDA",
+      "member": "Pete Sessions",
+      "district": "TX17",
+      "assetDescription": "NVIDIA Corporation",
+      "type": "Sale",
+      "amount": "$15,001 - $50,000",
       "transactionDate": "2026-10-02",
       "disclosureDate": "2026-10-28",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
