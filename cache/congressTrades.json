@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-29T16:52:25.251Z"
+    "updatedAt": "2026-10-30T16:40:21.979Z"
   },
   "trades": [
     {
@@ -41,6 +41,32 @@
       "transactionDate": "2026-10-27",
       "disclosureDate": "2026-10-28",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf|ASML|2026-10-23|Sale|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "ASML",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "ASML Holding NV",
+      "type": "Sale",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-10-23",
+      "disclosureDate": "2026-10-29",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf|STX|2026-10-23|Sale|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "STX",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Seagate Technology Holdings PLC",
+      "type": "Sale",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-10-23",
+      "disclosureDate": "2026-10-29",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf|HD|2026-10-22|Sale|$1,001 - $15,000",
@@ -121,6 +147,19 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
     },
     {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/3ab689df-21ae-44c5-85ac-1f5e4bc8464d/|GS|2026-10-20|Purchase|$250,001 - $500,000",
+      "chamber": "Senate",
+      "ticker": "GS",
+      "member": "Dave McCormick",
+      "district": "PA",
+      "assetDescription": "The Goldman Sachs Group Inc",
+      "type": "Purchase",
+      "amount": "$250,001 - $500,000",
+      "transactionDate": "2026-10-20",
+      "disclosureDate": "2026-10-29",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/3ab689df-21ae-44c5-85ac-1f5e4bc8464d/"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035671.pdf|GOOGL|2026-10-16|Sale|$50,001 - $100,000",
       "chamber": "House",
       "ticker": "GOOGL",
@@ -160,6 +199,97 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf|T|2026-10-15|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "T",
+      "member": "David Taylor",
+      "district": "OH02",
+      "assetDescription": "AT&T Inc",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-15",
+      "disclosureDate": "2026-10-30",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf|LRCX|2026-10-15|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "LRCX",
+      "member": "David Taylor",
+      "district": "OH02",
+      "assetDescription": "Lam Research Corp",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-15",
+      "disclosureDate": "2026-10-30",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf|MPC|2026-10-15|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "MPC",
+      "member": "David Taylor",
+      "district": "OH02",
+      "assetDescription": "Marathon Petroleum Corp",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-15",
+      "disclosureDate": "2026-10-30",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf|PLD|2026-10-15|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "PLD",
+      "member": "David Taylor",
+      "district": "OH02",
+      "assetDescription": "Prologis Inc",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-15",
+      "disclosureDate": "2026-10-30",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf|RPM|2026-10-15|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "RPM",
+      "member": "David Taylor",
+      "district": "OH02",
+      "assetDescription": "RPM International Inc",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-15",
+      "disclosureDate": "2026-10-30",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf|V|2026-10-15|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "V",
+      "member": "David Taylor",
+      "district": "OH02",
+      "assetDescription": "Visa Inc",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-15",
+      "disclosureDate": "2026-10-30",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf|BRK-B|2026-10-15|Sale|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "BRK-B",
+      "member": "Pete Sessions",
+      "district": "TX17",
+      "assetDescription": "Berkshire Hathaway Inc",
+      "type": "Sale",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-10-15",
+      "disclosureDate": "2026-10-28",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf|CVX|2026-10-14|Sale|$15,001 - $50,000",
       "chamber": "House",
       "ticker": "CVX",
@@ -184,6 +314,32 @@
       "transactionDate": "2026-10-14",
       "disclosureDate": "2026-10-28",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/3ab689df-21ae-44c5-85ac-1f5e4bc8464d/|GS|2026-10-14|Purchase|$100,001 - $250,000",
+      "chamber": "Senate",
+      "ticker": "GS",
+      "member": "Dave McCormick",
+      "district": "PA",
+      "assetDescription": "The Goldman Sachs Group Inc",
+      "type": "Purchase",
+      "amount": "$100,001 - $250,000",
+      "transactionDate": "2026-10-14",
+      "disclosureDate": "2026-10-29",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/3ab689df-21ae-44c5-85ac-1f5e4bc8464d/"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf|TXN|2026-10-14|Sale|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "TXN",
+      "member": "Kevin Hern",
+      "district": "OK01",
+      "assetDescription": "Texas Instruments Inc",
+      "type": "Sale",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-10-14",
+      "disclosureDate": "2026-10-29",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf|COST|2026-10-13|Sale|$100,001 - $250,000",
@@ -327,6 +483,19 @@
       "transactionDate": "2026-10-08",
       "disclosureDate": "2026-10-28",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/3ab689df-21ae-44c5-85ac-1f5e4bc8464d/|GS|2026-10-07|Purchase|$250,001 - $500,000",
+      "chamber": "Senate",
+      "ticker": "GS",
+      "member": "Dave McCormick",
+      "district": "PA",
+      "assetDescription": "The Goldman Sachs Group Inc",
+      "type": "Purchase",
+      "amount": "$250,001 - $500,000",
+      "transactionDate": "2026-10-07",
+      "disclosureDate": "2026-10-29",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/3ab689df-21ae-44c5-85ac-1f5e4bc8464d/"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf|NEE|2026-10-02|Sale (Full)|$15,001 - $50,000",

@@ -2,482 +2,482 @@
   "AAPL": {
     "analyst": 68.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:48:45.219Z"
+    "updatedAt": "2026-10-30T16:43:43.408Z"
   },
   "MSFT": {
     "analyst": 82.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:13:07.002Z"
+    "updatedAt": "2026-10-30T17:08:08.492Z"
   },
   "NVDA": {
     "analyst": 82.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:15:23.874Z"
+    "updatedAt": "2026-10-30T17:10:39.006Z"
   },
   "AMD": {
     "analyst": 77.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:45:51.795Z"
+    "updatedAt": "2026-10-30T16:40:58.496Z"
   },
   "GOOGL": {
     "analyst": 80.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:47:03.276Z"
+    "updatedAt": "2026-10-30T16:42:05.682Z"
   },
   "META": {
     "analyst": 79,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:12:35.639Z"
+    "updatedAt": "2026-10-30T17:07:36.293Z"
   },
   "AMZN": {
     "analyst": 80.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:47:19.446Z"
+    "updatedAt": "2026-10-30T16:42:21.307Z"
   },
   "TSLA": {
     "analyst": 64.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:23:42.210Z"
+    "updatedAt": "2026-10-30T17:18:50.128Z"
   },
   "AVGO": {
     "analyst": 80.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:51:46.877Z"
+    "updatedAt": "2026-10-30T16:46:43.679Z"
   },
   "ORCL": {
     "analyst": 77.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:16:10.015Z"
+    "updatedAt": "2026-10-30T17:11:25.271Z"
   },
   "JPM": {
     "analyst": 67.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:09:02.400Z"
+    "updatedAt": "2026-10-30T17:03:55.217Z"
   },
   "BAC": {
     "analyst": 75.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:50:25.321Z"
+    "updatedAt": "2026-10-30T16:45:21.930Z"
   },
   "GS": {
     "analyst": 64.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:05:04.537Z"
+    "updatedAt": "2026-10-30T16:59:38.100Z"
   },
   "MS": {
     "analyst": 70.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:13:42.608Z"
+    "updatedAt": "2026-10-30T17:08:49.712Z"
   },
   "V": {
     "analyst": 78.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:26:54.204Z"
+    "updatedAt": "2026-10-30T17:22:00.256Z"
   },
   "MA": {
     "analyst": 79.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:12:04.860Z"
+    "updatedAt": "2026-10-30T17:07:04.130Z"
   },
   "AXP": {
     "analyst": 67.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:47:41.894Z"
+    "updatedAt": "2026-10-30T16:42:41.536Z"
   },
   "BLK": {
     "analyst": 76.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:51:01.939Z"
+    "updatedAt": "2026-10-30T16:45:58.708Z"
   },
   "JNJ": {
     "analyst": 74.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:08:51.980Z"
+    "updatedAt": "2026-10-30T17:03:44.424Z"
   },
   "PFE": {
     "analyst": 61.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:17:05.964Z"
+    "updatedAt": "2026-10-30T17:12:21.147Z"
   },
   "UNH": {
     "analyst": 75.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:25:43.666Z"
+    "updatedAt": "2026-10-30T17:20:53.383Z"
   },
   "LLY": {
     "analyst": 78.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:10:42.464Z"
+    "updatedAt": "2026-10-30T17:05:38.417Z"
   },
   "ABBV": {
     "analyst": 76.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:45:36.185Z"
+    "updatedAt": "2026-10-30T16:40:42.887Z"
   },
   "MRK": {
     "analyst": 74.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:12:30.709Z"
+    "updatedAt": "2026-10-30T17:07:30.998Z"
   },
   "TMO": {
     "analyst": 79.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:24:03.789Z"
+    "updatedAt": "2026-10-30T17:19:11.468Z"
   },
   "XOM": {
     "analyst": 65.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:01:54.052Z"
+    "updatedAt": "2026-10-30T16:56:24.396Z"
   },
   "CVX": {
     "analyst": 75.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:54:02.862Z"
+    "updatedAt": "2026-10-30T16:48:58.991Z"
   },
   "COP": {
     "analyst": 72.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:55:54.447Z"
+    "updatedAt": "2026-10-30T16:50:48.660Z"
   },
   "SLB": {
     "analyst": 77.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:20:52.670Z"
+    "updatedAt": "2026-10-30T17:15:57.858Z"
   },
   "WMT": {
     "analyst": 78.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:27:31.544Z"
+    "updatedAt": "2026-10-30T17:22:38.228Z"
   },
   "COST": {
     "analyst": 73.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:56:40.504Z"
+    "updatedAt": "2026-10-30T16:51:35.397Z"
   },
   "HD": {
     "analyst": 69,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:05:57.611Z"
+    "updatedAt": "2026-10-30T17:00:40.423Z"
   },
   "LOW": {
     "analyst": 73.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:11:08.824Z"
+    "updatedAt": "2026-10-30T17:06:05.404Z"
   },
   "NKE": {
     "analyst": 59.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:14:37.704Z"
+    "updatedAt": "2026-10-30T17:09:48.627Z"
   },
   "MCD": {
     "analyst": 69.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:12:15.499Z"
+    "updatedAt": "2026-10-30T17:07:14.894Z"
   },
   "SBUX": {
     "analyst": 62.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:22:08.705Z"
+    "updatedAt": "2026-10-30T17:17:15.564Z"
   },
   "DIS": {
     "analyst": 78.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:27:36.977Z"
+    "updatedAt": "2026-10-30T17:22:43.418Z"
   },
   "CAT": {
     "analyst": 69.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:53:04.807Z"
+    "updatedAt": "2026-10-30T16:48:00.273Z"
   },
   "DE": {
     "analyst": 72.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:57:50.232Z"
+    "updatedAt": "2026-10-30T16:52:39.311Z"
   },
   "GE": {
     "analyst": 78.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:03:57.782Z"
+    "updatedAt": "2026-10-30T16:58:29.122Z"
   },
   "HON": {
     "analyst": 70,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:06:07.848Z"
+    "updatedAt": "2026-10-30T17:00:51.979Z"
   },
   "UPS": {
     "analyst": 66.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:25:33.839Z"
+    "updatedAt": "2026-10-30T17:20:43.280Z"
   },
   "KO": {
     "analyst": 75.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:55:18.327Z"
+    "updatedAt": "2026-10-30T16:50:10.252Z"
   },
   "PEP": {
     "analyst": 59.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:17:00.702Z"
+    "updatedAt": "2026-10-30T17:12:15.948Z"
   },
   "PG": {
     "analyst": 66.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:17:59.171Z"
+    "updatedAt": "2026-10-30T17:13:07.861Z"
   },
   "NEE": {
     "analyst": 71.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:14:32.782Z"
+    "updatedAt": "2026-10-30T17:09:43.705Z"
   },
   "DUK": {
     "analyst": 68.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:59:22.824Z"
+    "updatedAt": "2026-10-30T16:54:00.425Z"
   },
   "AMT": {
     "analyst": 78.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:47:52.270Z"
+    "updatedAt": "2026-10-30T16:42:51.792Z"
   },
   "PLD": {
     "analyst": 71.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:18:09.886Z"
+    "updatedAt": "2026-10-30T17:13:18.105Z"
   },
   "SPG": {
     "analyst": 64.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:21:18.370Z"
+    "updatedAt": "2026-10-30T17:16:23.974Z"
   },
   "MMM": {
     "analyst": 66,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:45:20.102Z"
+    "updatedAt": "2026-10-30T16:40:26.566Z"
   },
   "AOS": {
     "analyst": 63.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:45:25.814Z"
+    "updatedAt": "2026-10-30T16:40:32.725Z"
   },
   "ABT": {
     "analyst": 79.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:45:30.878Z"
+    "updatedAt": "2026-10-30T16:40:37.699Z"
   },
   "ACN": {
     "analyst": 68.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:45:41.385Z"
+    "updatedAt": "2026-10-30T16:40:47.807Z"
   },
   "ADBE": {
     "analyst": 60.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:45:46.459Z"
+    "updatedAt": "2026-10-30T16:40:53.081Z"
   },
   "AES": {
     "analyst": 41.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:45:57.224Z"
+    "updatedAt": "2026-10-30T16:41:03.833Z"
   },
   "AFL": {
     "analyst": 42.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:46:02.287Z"
+    "updatedAt": "2026-10-30T16:41:09.187Z"
   },
   "A": {
     "analyst": 75,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:46:07.598Z"
+    "updatedAt": "2026-10-30T16:41:14.143Z"
   },
   "APD": {
     "analyst": 70.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:46:13.338Z"
+    "updatedAt": "2026-10-30T16:41:19.383Z"
   },
   "ABNB": {
     "analyst": 69.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:46:19.830Z"
+    "updatedAt": "2026-10-30T16:41:24.580Z"
   },
   "AKAM": {
     "analyst": 71.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:46:24.981Z"
+    "updatedAt": "2026-10-30T16:41:29.769Z"
   },
   "ALB": {
     "analyst": 72.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:46:31.701Z"
+    "updatedAt": "2026-10-30T16:41:34.982Z"
   },
   "ARE": {
     "analyst": 41.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:46:37.119Z"
+    "updatedAt": "2026-10-30T16:41:39.905Z"
   },
   "ALGN": {
     "analyst": 70.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:46:42.404Z"
+    "updatedAt": "2026-10-30T16:41:45.352Z"
   },
   "ALLE": {
     "analyst": 70.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:46:47.502Z"
+    "updatedAt": "2026-10-30T16:41:50.267Z"
   },
   "LNT": {
     "analyst": 70.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:46:52.555Z"
+    "updatedAt": "2026-10-30T16:41:55.334Z"
   },
   "ALL": {
     "analyst": 61.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:46:57.971Z"
+    "updatedAt": "2026-10-30T16:42:00.740Z"
   },
   "GOOG": {
     "analyst": 80.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:47:08.576Z"
+    "updatedAt": "2026-10-30T16:42:10.627Z"
   },
   "MO": {
     "analyst": 63,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:47:14.039Z"
+    "updatedAt": "2026-10-30T16:42:15.576Z"
   },
   "AMCR": {
     "analyst": 72.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:47:24.475Z"
+    "updatedAt": "2026-10-30T16:42:26.273Z"
   },
   "AEE": {
     "analyst": 71.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:47:30.220Z"
+    "updatedAt": "2026-10-30T16:42:31.632Z"
   },
   "AEP": {
     "analyst": 69.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:47:35.224Z"
+    "updatedAt": "2026-10-30T16:42:36.600Z"
   },
   "AIG": {
     "analyst": 63.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:47:46.899Z"
+    "updatedAt": "2026-10-30T16:42:46.835Z"
   },
   "AWK": {
     "analyst": 60.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:47:57.577Z"
+    "updatedAt": "2026-10-30T16:42:56.724Z"
   },
   "AMP": {
     "analyst": 67.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:48:02.970Z"
+    "updatedAt": "2026-10-30T16:43:01.954Z"
   },
   "AME": {
     "analyst": 70,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:48:08.336Z"
+    "updatedAt": "2026-10-30T16:43:07.208Z"
   },
   "AMGN": {
     "analyst": 61.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:48:13.638Z"
+    "updatedAt": "2026-10-30T16:43:12.433Z"
   },
   "APH": {
     "analyst": 80,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:48:18.978Z"
+    "updatedAt": "2026-10-30T16:43:17.850Z"
   },
   "ADI": {
     "analyst": 81.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:48:23.984Z"
+    "updatedAt": "2026-10-30T16:43:22.781Z"
   },
   "AON": {
     "analyst": 64.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:48:29.416Z"
+    "updatedAt": "2026-10-30T16:43:27.728Z"
   },
   "APA": {
     "analyst": 61.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:48:34.808Z"
+    "updatedAt": "2026-10-30T16:43:32.950Z"
   },
   "APO": {
     "analyst": 73.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:48:39.805Z"
+    "updatedAt": "2026-10-30T16:43:38.179Z"
   },
   "AMAT": {
     "analyst": 79,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:48:50.228Z"
+    "updatedAt": "2026-10-30T16:43:48.365Z"
   },
   "APP": {
     "analyst": 76.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:48:55.522Z"
+    "updatedAt": "2026-10-30T16:43:53.611Z"
   },
   "APTV": {
     "analyst": 77.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:49:00.823Z"
+    "updatedAt": "2026-10-30T16:43:58.798Z"
   },
   "ACGL": {
     "analyst": 68.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:49:06.206Z"
+    "updatedAt": "2026-10-30T16:44:04.015Z"
   },
   "ADM": {
     "analyst": 58.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:49:11.520Z"
+    "updatedAt": "2026-10-30T16:44:09.229Z"
   },
   "ARES": {
     "analyst": 74,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:49:16.547Z"
+    "updatedAt": "2026-10-30T16:44:14.434Z"
   },
   "ANET": {
     "analyst": 80.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:49:21.886Z"
+    "updatedAt": "2026-10-30T16:44:19.676Z"
   },
   "AJG": {
     "analyst": 74.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:49:27.195Z"
+    "updatedAt": "2026-10-30T16:44:24.891Z"
   },
   "AIZ": {
     "analyst": 75,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:49:32.472Z"
+    "updatedAt": "2026-10-30T16:44:30.119Z"
   },
   "T": {
     "analyst": 71.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:49:37.474Z"
+    "updatedAt": "2026-10-30T16:44:35.069Z"
   },
   "ATO": {
     "analyst": 61.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:49:43.052Z"
+    "updatedAt": "2026-10-30T16:44:40.313Z"
   },
   "ADSK": {
     "analyst": 78.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:49:48.048Z"
+    "updatedAt": "2026-10-30T16:44:45.246Z"
   },
   "ADP": {
     "analyst": 58.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:49:53.457Z"
+    "updatedAt": "2026-10-30T16:44:50.464Z"
   },
   "AZO": {
     "analyst": 78,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:49:58.532Z"
+    "updatedAt": "2026-10-30T16:44:55.395Z"
   },
   "AVB": {
     "analyst": 61.5,
@@ -487,102 +487,102 @@
   "AVY": {
     "analyst": 73.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:50:03.936Z"
+    "updatedAt": "2026-10-30T16:45:00.606Z"
   },
   "AXON": {
     "analyst": 80.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:50:09.249Z"
+    "updatedAt": "2026-10-30T16:45:06.176Z"
   },
   "BKR": {
     "analyst": 75.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:50:14.680Z"
+    "updatedAt": "2026-10-30T16:45:11.288Z"
   },
   "BALL": {
     "analyst": 77.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:50:20.005Z"
+    "updatedAt": "2026-10-30T16:45:16.505Z"
   },
   "BAX": {
     "analyst": 57.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:50:30.727Z"
+    "updatedAt": "2026-10-30T16:45:27.863Z"
   },
   "BDX": {
     "analyst": 70,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:50:36.558Z"
+    "updatedAt": "2026-10-30T16:45:33.115Z"
   },
   "BRK.B": {
     "analyst": 30,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:50:41.616Z"
+    "updatedAt": "2026-10-30T16:45:38.396Z"
   },
   "BBY": {
     "analyst": 55,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:50:46.652Z"
+    "updatedAt": "2026-10-30T16:45:43.466Z"
   },
   "TECH": {
     "analyst": 61.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:50:51.650Z"
+    "updatedAt": "2026-10-30T16:45:48.384Z"
   },
   "BIIB": {
     "analyst": 72.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:50:56.647Z"
+    "updatedAt": "2026-10-30T16:45:53.490Z"
   },
   "BX": {
     "analyst": 71.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:51:06.940Z"
+    "updatedAt": "2026-10-30T16:46:03.946Z"
   },
   "XYZ": {
     "analyst": 76.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:51:12.284Z"
+    "updatedAt": "2026-10-30T16:46:09.358Z"
   },
   "BNY": {
     "analyst": 70.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:51:20.352Z"
+    "updatedAt": "2026-10-30T16:46:18.304Z"
   },
   "BA": {
     "analyst": 81.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:51:25.655Z"
+    "updatedAt": "2026-10-30T16:46:23.244Z"
   },
   "BKNG": {
     "analyst": 77.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:51:30.967Z"
+    "updatedAt": "2026-10-30T16:46:28.481Z"
   },
   "BSX": {
     "analyst": 76.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:51:36.283Z"
+    "updatedAt": "2026-10-30T16:46:33.781Z"
   },
   "BMY": {
     "analyst": 65.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:51:41.607Z"
+    "updatedAt": "2026-10-30T16:46:38.718Z"
   },
   "BR": {
     "analyst": 73.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:51:52.288Z"
+    "updatedAt": "2026-10-30T16:46:49.106Z"
   },
   "BRO": {
     "analyst": 56.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:51:57.613Z"
+    "updatedAt": "2026-10-30T16:46:54.059Z"
   },
   "BF.B": {
     "analyst": 41.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:52:02.616Z"
+    "updatedAt": "2026-10-30T16:46:59.016Z"
   },
   "BLDR": {
     "analyst": 65.2,
@@ -592,237 +592,237 @@
   "BG": {
     "analyst": 78.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:52:07.609Z"
+    "updatedAt": "2026-10-30T16:47:03.987Z"
   },
   "BXP": {
     "analyst": 66.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:52:12.974Z"
+    "updatedAt": "2026-10-30T16:47:09.502Z"
   },
   "CHRW": {
     "analyst": 75,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:52:18.328Z"
+    "updatedAt": "2026-10-30T16:47:14.798Z"
   },
   "CDNS": {
     "analyst": 80.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:52:23.332Z"
+    "updatedAt": "2026-10-30T16:47:19.747Z"
   },
   "CPT": {
     "analyst": 61.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:52:28.647Z"
+    "updatedAt": "2026-10-30T16:47:25.088Z"
   },
   "COF": {
     "analyst": 76.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:52:34.059Z"
+    "updatedAt": "2026-10-30T16:47:30.324Z"
   },
   "CAH": {
     "analyst": 80.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:52:39.094Z"
+    "updatedAt": "2026-10-30T16:47:35.253Z"
   },
   "CCL": {
     "analyst": 76.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:52:44.095Z"
+    "updatedAt": "2026-10-30T16:47:40.178Z"
   },
   "CARR": {
     "analyst": 71.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:52:49.094Z"
+    "updatedAt": "2026-10-30T16:47:45.079Z"
   },
   "CVNA": {
     "analyst": 72.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:52:54.428Z"
+    "updatedAt": "2026-10-30T16:47:49.991Z"
   },
   "CASY": {
     "analyst": 75.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:52:59.479Z"
+    "updatedAt": "2026-10-30T16:47:55.072Z"
   },
   "CBOE": {
     "analyst": 59.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:53:10.202Z"
+    "updatedAt": "2026-10-30T16:48:06.964Z"
   },
   "CBRE": {
     "analyst": 80,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:53:15.207Z"
+    "updatedAt": "2026-10-30T16:48:12.250Z"
   },
   "CDW": {
     "analyst": 73.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:53:20.545Z"
+    "updatedAt": "2026-10-30T16:48:17.527Z"
   },
   "COR": {
     "analyst": 72.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:53:26.018Z"
+    "updatedAt": "2026-10-30T16:48:22.789Z"
   },
   "CNC": {
     "analyst": 64.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:53:31.300Z"
+    "updatedAt": "2026-10-30T16:48:27.718Z"
   },
   "CNP": {
     "analyst": 66.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:53:36.314Z"
+    "updatedAt": "2026-10-30T16:48:32.635Z"
   },
   "CF": {
     "analyst": 62.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:53:41.752Z"
+    "updatedAt": "2026-10-30T16:48:37.914Z"
   },
   "CRL": {
     "analyst": 77.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:53:47.062Z"
+    "updatedAt": "2026-10-30T16:48:43.177Z"
   },
   "SCHW": {
     "analyst": 76.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:53:52.064Z"
+    "updatedAt": "2026-10-30T16:48:48.559Z"
   },
   "CHTR": {
     "analyst": 44.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:53:57.529Z"
+    "updatedAt": "2026-10-30T16:48:53.791Z"
   },
   "CMG": {
     "analyst": 72.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:54:08.357Z"
+    "updatedAt": "2026-10-30T16:49:03.923Z"
   },
   "CB": {
     "analyst": 66.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:54:13.396Z"
+    "updatedAt": "2026-10-30T16:49:08.878Z"
   },
   "CHD": {
     "analyst": 66.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:54:18.732Z"
+    "updatedAt": "2026-10-30T16:49:14.448Z"
   },
   "CIEN": {
     "analyst": 77.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:54:23.753Z"
+    "updatedAt": "2026-10-30T16:49:19.376Z"
   },
   "CI": {
     "analyst": 75,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:54:29.081Z"
+    "updatedAt": "2026-10-30T16:49:24.661Z"
   },
   "CINF": {
     "analyst": 65.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:54:34.482Z"
+    "updatedAt": "2026-10-30T16:49:29.593Z"
   },
   "CTAS": {
     "analyst": 67.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:54:39.483Z"
+    "updatedAt": "2026-10-30T16:49:34.543Z"
   },
   "CSCO": {
     "analyst": 70.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:54:44.478Z"
+    "updatedAt": "2026-10-30T16:49:39.486Z"
   },
   "C": {
     "analyst": 75.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:54:51.684Z"
+    "updatedAt": "2026-10-30T16:49:44.555Z"
   },
   "CFG": {
     "analyst": 76.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:54:56.995Z"
+    "updatedAt": "2026-10-30T16:49:49.505Z"
   },
   "CLX": {
     "analyst": 42.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:55:02.018Z"
+    "updatedAt": "2026-10-30T16:49:54.447Z"
   },
   "CME": {
     "analyst": 61.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:55:07.834Z"
+    "updatedAt": "2026-10-30T16:49:59.415Z"
   },
   "CMS": {
     "analyst": 68.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:55:13.319Z"
+    "updatedAt": "2026-10-30T16:50:05.166Z"
   },
   "CTSH": {
     "analyst": 66.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:55:23.340Z"
+    "updatedAt": "2026-10-30T16:50:15.348Z"
   },
   "COHR": {
     "analyst": 76.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:55:28.344Z"
+    "updatedAt": "2026-10-30T16:50:20.297Z"
   },
   "COIN": {
     "analyst": 70.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:55:33.683Z"
+    "updatedAt": "2026-10-30T16:50:25.814Z"
   },
   "CL": {
     "analyst": 70.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:55:39.013Z"
+    "updatedAt": "2026-10-30T16:50:31.507Z"
   },
   "CMCSA": {
     "analyst": 61.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:55:44.087Z"
+    "updatedAt": "2026-10-30T16:50:36.937Z"
   },
   "FIX": {
     "analyst": 82.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:55:49.097Z"
+    "updatedAt": "2026-10-30T16:50:42.902Z"
   },
   "ED": {
     "analyst": 39.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:55:59.446Z"
+    "updatedAt": "2026-10-30T16:50:53.598Z"
   },
   "STZ": {
     "analyst": 66.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:56:04.453Z"
+    "updatedAt": "2026-10-30T16:50:59.372Z"
   },
   "CEG": {
     "analyst": 75.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:56:09.741Z"
+    "updatedAt": "2026-10-30T16:51:04.721Z"
   },
   "COO": {
     "analyst": 62.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:56:14.761Z"
+    "updatedAt": "2026-10-30T16:51:09.656Z"
   },
   "CPRT": {
     "analyst": 73.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:56:19.769Z"
+    "updatedAt": "2026-10-30T16:51:14.644Z"
   },
   "GLW": {
     "analyst": 77.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:56:25.084Z"
+    "updatedAt": "2026-10-30T16:51:19.899Z"
   },
   "CPAY": {
     "analyst": 79.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:56:30.180Z"
+    "updatedAt": "2026-10-30T16:51:25.363Z"
   },
   "CTVA": {
     "analyst": 73.3,
@@ -832,212 +832,212 @@
   "CSGP": {
     "analyst": 68.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:56:35.495Z"
+    "updatedAt": "2026-10-30T16:51:30.338Z"
   },
   "CRH": {
     "analyst": 81,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:56:45.897Z"
+    "updatedAt": "2026-10-30T16:51:40.328Z"
   },
   "CRWD": {
     "analyst": 72.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:56:50.895Z"
+    "updatedAt": "2026-10-30T16:51:45.287Z"
   },
   "CCI": {
     "analyst": 68.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:56:56.194Z"
+    "updatedAt": "2026-10-30T16:51:50.524Z"
   },
   "CSX": {
     "analyst": 72.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:57:01.244Z"
+    "updatedAt": "2026-10-30T16:51:55.512Z"
   },
   "CMI": {
     "analyst": 71.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:57:06.588Z"
+    "updatedAt": "2026-10-30T16:52:00.718Z"
   },
   "CVS": {
     "analyst": 78.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:57:11.898Z"
+    "updatedAt": "2026-10-30T16:52:06.090Z"
   },
   "DHR": {
     "analyst": 81.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:57:23.961Z"
+    "updatedAt": "2026-10-30T16:52:11.040Z"
   },
   "DRI": {
     "analyst": 72.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:57:28.965Z"
+    "updatedAt": "2026-10-30T16:52:15.997Z"
   },
   "DDOG": {
     "analyst": 79.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:57:34.327Z"
+    "updatedAt": "2026-10-30T16:52:21.313Z"
   },
   "DVA": {
     "analyst": 63.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:57:39.872Z"
+    "updatedAt": "2026-10-30T16:52:27.991Z"
   },
   "DECK": {
     "analyst": 66.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:57:45.207Z"
+    "updatedAt": "2026-10-30T16:52:34.399Z"
   },
   "DELL": {
     "analyst": 74.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:57:55.255Z"
+    "updatedAt": "2026-10-30T16:52:44.250Z"
   },
   "DAL": {
     "analyst": 78.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:58:00.266Z"
+    "updatedAt": "2026-10-30T16:52:49.185Z"
   },
   "DVN": {
     "analyst": 80.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:58:05.669Z"
+    "updatedAt": "2026-10-30T16:52:54.417Z"
   },
   "DXCM": {
     "analyst": 82.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:58:10.986Z"
+    "updatedAt": "2026-10-30T16:52:59.961Z"
   },
   "FANG": {
     "analyst": 78.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:58:16.318Z"
+    "updatedAt": "2026-10-30T16:53:05.162Z"
   },
   "DLR": {
     "analyst": 78.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:58:21.691Z"
+    "updatedAt": "2026-10-30T16:53:10.086Z"
   },
   "DG": {
     "analyst": 67.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:58:26.709Z"
+    "updatedAt": "2026-10-30T16:53:15.011Z"
   },
   "DLTR": {
     "analyst": 60,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:58:31.776Z"
+    "updatedAt": "2026-10-30T16:53:20.054Z"
   },
   "D": {
     "analyst": 63,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:58:36.775Z"
+    "updatedAt": "2026-10-30T16:53:24.989Z"
   },
   "DPZ": {
     "analyst": 66.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:58:41.767Z"
+    "updatedAt": "2026-10-30T16:53:29.975Z"
   },
   "DASH": {
     "analyst": 75.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:58:47.249Z"
+    "updatedAt": "2026-10-30T16:53:35.301Z"
   },
   "DOV": {
     "analyst": 75,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:58:58.305Z"
+    "updatedAt": "2026-10-30T16:53:40.248Z"
   },
   "DOW": {
     "analyst": 61,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:59:03.302Z"
+    "updatedAt": "2026-10-30T16:53:45.163Z"
   },
   "DHI": {
     "analyst": 61.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:59:12.938Z"
+    "updatedAt": "2026-10-30T16:53:50.511Z"
   },
   "DTE": {
     "analyst": 72.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:59:17.878Z"
+    "updatedAt": "2026-10-30T16:53:55.433Z"
   },
   "DD": {
     "analyst": 78.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:59:28.172Z"
+    "updatedAt": "2026-10-30T16:54:05.633Z"
   },
   "ETN": {
     "analyst": 77.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:59:33.412Z"
+    "updatedAt": "2026-10-30T16:54:10.833Z"
   },
   "EBAY": {
     "analyst": 62.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:59:38.633Z"
+    "updatedAt": "2026-10-30T16:54:17.331Z"
   },
   "ECHO": {
     "analyst": 80.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:59:43.911Z"
+    "updatedAt": "2026-10-30T16:54:22.609Z"
   },
   "ECL": {
     "analyst": 77.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:59:49.122Z"
+    "updatedAt": "2026-10-30T16:54:28.609Z"
   },
   "EIX": {
     "analyst": 41.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:59:54.099Z"
+    "updatedAt": "2026-10-30T16:54:33.546Z"
   },
   "EW": {
     "analyst": 78.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T16:59:59.444Z"
+    "updatedAt": "2026-10-30T16:54:38.742Z"
   },
   "ELV": {
     "analyst": 73.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:00:05.413Z"
+    "updatedAt": "2026-10-30T16:54:43.661Z"
   },
   "EME": {
     "analyst": 78.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:00:11.448Z"
+    "updatedAt": "2026-10-30T16:54:48.675Z"
   },
   "EMR": {
     "analyst": 71.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:00:17.264Z"
+    "updatedAt": "2026-10-30T16:54:53.893Z"
   },
   "ETR": {
     "analyst": 75,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:00:23.487Z"
+    "updatedAt": "2026-10-30T16:54:58.811Z"
   },
   "EOG": {
     "analyst": 65.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:00:30.002Z"
+    "updatedAt": "2026-10-30T16:55:04.485Z"
   },
   "EQT": {
     "analyst": 77.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:00:36.780Z"
+    "updatedAt": "2026-10-30T16:55:09.415Z"
   },
   "EFX": {
     "analyst": 75,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:00:42.796Z"
+    "updatedAt": "2026-10-30T16:55:14.355Z"
   },
   "EQIX": {
     "analyst": 78.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:00:48.320Z"
+    "updatedAt": "2026-10-30T16:55:19.274Z"
   },
   "EQR": {
     "analyst": 64.4,
@@ -1047,647 +1047,647 @@
   "ERIE": {
     "analyst": 78.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:00:53.621Z"
+    "updatedAt": "2026-10-30T16:55:24.873Z"
   },
   "ESS": {
     "analyst": 58.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:00:58.837Z"
+    "updatedAt": "2026-10-30T16:55:30.468Z"
   },
   "EL": {
     "analyst": 67.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:01:04.296Z"
+    "updatedAt": "2026-10-30T16:55:35.400Z"
   },
   "EG": {
     "analyst": 67.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:01:09.799Z"
+    "updatedAt": "2026-10-30T16:55:40.739Z"
   },
   "EVRG": {
     "analyst": 76.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:01:14.847Z"
+    "updatedAt": "2026-10-30T16:55:45.659Z"
   },
   "ES": {
     "analyst": 63,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:01:22.799Z"
+    "updatedAt": "2026-10-30T16:55:53.539Z"
   },
   "EXC": {
     "analyst": 58,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:01:27.730Z"
+    "updatedAt": "2026-10-30T16:55:58.449Z"
   },
   "EXE": {
     "analyst": 78.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:01:33.077Z"
+    "updatedAt": "2026-10-30T16:56:03.379Z"
   },
   "EXPE": {
     "analyst": 66.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:01:38.281Z"
+    "updatedAt": "2026-10-30T16:56:08.592Z"
   },
   "EXPD": {
     "analyst": 45.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:01:43.655Z"
+    "updatedAt": "2026-10-30T16:56:13.836Z"
   },
   "EXR": {
     "analyst": 63,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:01:48.864Z"
+    "updatedAt": "2026-10-30T16:56:19.188Z"
   },
   "FFIV": {
     "analyst": 66.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:01:59.442Z"
+    "updatedAt": "2026-10-30T16:56:29.626Z"
   },
   "FDS": {
     "analyst": 42.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:02:04.459Z"
+    "updatedAt": "2026-10-30T16:56:34.538Z"
   },
   "FICO": {
     "analyst": 68.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:02:09.759Z"
+    "updatedAt": "2026-10-30T16:56:39.792Z"
   },
   "FAST": {
     "analyst": 60.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:02:14.811Z"
+    "updatedAt": "2026-10-30T16:56:44.710Z"
   },
   "FRT": {
     "analyst": 72.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:02:19.780Z"
+    "updatedAt": "2026-10-30T16:56:49.646Z"
   },
   "FDX": {
     "analyst": 72.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:02:25.068Z"
+    "updatedAt": "2026-10-30T16:56:54.562Z"
   },
   "FDXF": {
     "analyst": 73.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:02:30.432Z"
+    "updatedAt": "2026-10-30T16:57:00.433Z"
   },
   "FERG": {
     "analyst": 74.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:02:35.381Z"
+    "updatedAt": "2026-10-30T16:57:05.643Z"
   },
   "FIS": {
     "analyst": 65.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:02:40.616Z"
+    "updatedAt": "2026-10-30T16:57:10.880Z"
   },
   "FITB": {
     "analyst": 75.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:02:45.816Z"
+    "updatedAt": "2026-10-30T16:57:16.120Z"
   },
   "FSLR": {
     "analyst": 69.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:02:51.268Z"
+    "updatedAt": "2026-10-30T16:57:22.037Z"
   },
   "FE": {
     "analyst": 71.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:02:56.184Z"
+    "updatedAt": "2026-10-30T16:57:26.967Z"
   },
   "FISV": {
     "analyst": 59.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:03:01.102Z"
+    "updatedAt": "2026-10-30T16:57:32.202Z"
   },
   "FLEX": {
     "analyst": 81.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:03:06.523Z"
+    "updatedAt": "2026-10-30T16:57:37.414Z"
   },
   "F": {
     "analyst": 66.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:03:11.456Z"
+    "updatedAt": "2026-10-30T16:57:42.356Z"
   },
   "FTNT": {
     "analyst": 55.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:03:16.720Z"
+    "updatedAt": "2026-10-30T16:57:47.917Z"
   },
   "FTV": {
     "analyst": 59.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:03:21.628Z"
+    "updatedAt": "2026-10-30T16:57:52.842Z"
   },
   "FOXA": {
     "analyst": 68.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:03:26.955Z"
+    "updatedAt": "2026-10-30T16:57:58.046Z"
   },
   "FOX": {
     "analyst": 68.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:03:32.171Z"
+    "updatedAt": "2026-10-30T16:58:03.242Z"
   },
   "BEN": {
     "analyst": 56.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:03:37.486Z"
+    "updatedAt": "2026-10-30T16:58:08.620Z"
   },
   "FCX": {
     "analyst": 71.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:03:42.680Z"
+    "updatedAt": "2026-10-30T16:58:13.821Z"
   },
   "GRMN": {
     "analyst": 65,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:03:47.593Z"
+    "updatedAt": "2026-10-30T16:58:18.857Z"
   },
   "IT": {
     "analyst": 64.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:03:52.867Z"
+    "updatedAt": "2026-10-30T16:58:24.197Z"
   },
   "GEHC": {
     "analyst": 75.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:04:02.698Z"
+    "updatedAt": "2026-10-30T16:58:34.132Z"
   },
   "GEV": {
     "analyst": 76.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:04:07.957Z"
+    "updatedAt": "2026-10-30T16:58:39.032Z"
   },
   "GEN": {
     "analyst": 67.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:04:12.877Z"
+    "updatedAt": "2026-10-30T16:58:44.616Z"
   },
   "GNRC": {
     "analyst": 77.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:04:18.410Z"
+    "updatedAt": "2026-10-30T16:58:49.882Z"
   },
   "GD": {
     "analyst": 71.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:04:23.322Z"
+    "updatedAt": "2026-10-30T16:58:54.971Z"
   },
   "GIS": {
     "analyst": 43.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:04:28.321Z"
+    "updatedAt": "2026-10-30T16:58:59.903Z"
   },
   "GM": {
     "analyst": 78.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:04:33.223Z"
+    "updatedAt": "2026-10-30T16:59:04.884Z"
   },
   "GPC": {
     "analyst": 66.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:04:38.254Z"
+    "updatedAt": "2026-10-30T16:59:09.835Z"
   },
   "GILD": {
     "analyst": 76.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:04:43.476Z"
+    "updatedAt": "2026-10-30T16:59:16.496Z"
   },
   "GPN": {
     "analyst": 64.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:04:48.702Z"
+    "updatedAt": "2026-10-30T16:59:21.779Z"
   },
   "GL": {
     "analyst": 72.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:04:53.903Z"
+    "updatedAt": "2026-10-30T16:59:27.001Z"
   },
   "GDDY": {
     "analyst": 68,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:04:59.253Z"
+    "updatedAt": "2026-10-30T16:59:32.763Z"
   },
   "HAL": {
     "analyst": 74.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:05:09.495Z"
+    "updatedAt": "2026-10-30T16:59:43.572Z"
   },
   "HIG": {
     "analyst": 62.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:05:15.064Z"
+    "updatedAt": "2026-10-30T16:59:48.579Z"
   },
   "HAS": {
     "analyst": 80,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:05:20.492Z"
+    "updatedAt": "2026-10-30T16:59:54.486Z"
   },
   "HCA": {
     "analyst": 68.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:05:25.396Z"
+    "updatedAt": "2026-10-30T16:59:59.438Z"
   },
   "DOC": {
     "analyst": 63.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:05:30.906Z"
+    "updatedAt": "2026-10-30T17:00:05.846Z"
   },
   "HSIC": {
     "analyst": 69.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:05:37.007Z"
+    "updatedAt": "2026-10-30T17:00:12.966Z"
   },
   "HSY": {
     "analyst": 60.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:05:42.362Z"
+    "updatedAt": "2026-10-30T17:00:21.340Z"
   },
   "HPE": {
     "analyst": 71.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:05:47.329Z"
+    "updatedAt": "2026-10-30T17:00:27.244Z"
   },
   "HLT": {
     "analyst": 68.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:05:52.704Z"
+    "updatedAt": "2026-10-30T17:00:34.182Z"
   },
   "HONA": {
     "analyst": 65.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:06:02.920Z"
+    "updatedAt": "2026-10-30T17:00:46.419Z"
   },
   "HRL": {
     "analyst": 61.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:06:12.768Z"
+    "updatedAt": "2026-10-30T17:00:57.355Z"
   },
   "HST": {
     "analyst": 73,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:06:17.685Z"
+    "updatedAt": "2026-10-30T17:01:02.995Z"
   },
   "HWM": {
     "analyst": 79.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:06:22.982Z"
+    "updatedAt": "2026-10-30T17:01:09.709Z"
   },
   "HPQ": {
     "analyst": 41.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:06:27.888Z"
+    "updatedAt": "2026-10-30T17:01:14.911Z"
   },
   "HUBB": {
     "analyst": 70.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:06:32.790Z"
+    "updatedAt": "2026-10-30T17:01:20.088Z"
   },
   "HUM": {
     "analyst": 68,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:06:37.754Z"
+    "updatedAt": "2026-10-30T17:01:25.339Z"
   },
   "HBAN": {
     "analyst": 74,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:06:42.680Z"
+    "updatedAt": "2026-10-30T17:01:31.187Z"
   },
   "HII": {
     "analyst": 69.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:06:47.998Z"
+    "updatedAt": "2026-10-30T17:01:36.961Z"
   },
   "IBM": {
     "analyst": 68.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:06:52.907Z"
+    "updatedAt": "2026-10-30T17:01:42.006Z"
   },
   "IEX": {
     "analyst": 75,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:06:58.318Z"
+    "updatedAt": "2026-10-30T17:01:46.960Z"
   },
   "IDXX": {
     "analyst": 75,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:07:04.022Z"
+    "updatedAt": "2026-10-30T17:01:52.347Z"
   },
   "ITW": {
     "analyst": 41.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:07:09.314Z"
+    "updatedAt": "2026-10-30T17:01:57.296Z"
   },
   "INCY": {
     "analyst": 68.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:07:17.560Z"
+    "updatedAt": "2026-10-30T17:02:05.461Z"
   },
   "IR": {
     "analyst": 72.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:07:23.632Z"
+    "updatedAt": "2026-10-30T17:02:10.770Z"
   },
   "PODD": {
     "analyst": 71.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:07:28.979Z"
+    "updatedAt": "2026-10-30T17:02:16.204Z"
   },
   "INTC": {
     "analyst": 60,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:07:34.329Z"
+    "updatedAt": "2026-10-30T17:02:22.454Z"
   },
   "IBKR": {
     "analyst": 76.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:07:39.702Z"
+    "updatedAt": "2026-10-30T17:02:28.217Z"
   },
   "ICE": {
     "analyst": 78.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:07:44.923Z"
+    "updatedAt": "2026-10-30T17:02:33.528Z"
   },
   "IFF": {
     "analyst": 76,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:07:50.139Z"
+    "updatedAt": "2026-10-30T17:02:39.140Z"
   },
   "IP": {
     "analyst": 76.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:07:55.397Z"
+    "updatedAt": "2026-10-30T17:02:44.769Z"
   },
   "INTU": {
     "analyst": 68.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:08:00.328Z"
+    "updatedAt": "2026-10-30T17:02:50.074Z"
   },
   "ISRG": {
     "analyst": 75.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:08:05.232Z"
+    "updatedAt": "2026-10-30T17:02:55.260Z"
   },
   "IVZ": {
     "analyst": 63.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:08:10.621Z"
+    "updatedAt": "2026-10-30T17:03:00.836Z"
   },
   "INVH": {
     "analyst": 67.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:08:15.843Z"
+    "updatedAt": "2026-10-30T17:03:07.221Z"
   },
   "IQV": {
     "analyst": 79.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:08:20.746Z"
+    "updatedAt": "2026-10-30T17:03:12.419Z"
   },
   "IRM": {
     "analyst": 75,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:08:25.952Z"
+    "updatedAt": "2026-10-30T17:03:17.899Z"
   },
   "JBHT": {
     "analyst": 71.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:08:31.930Z"
+    "updatedAt": "2026-10-30T17:03:23.188Z"
   },
   "JBL": {
     "analyst": 82.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:08:36.877Z"
+    "updatedAt": "2026-10-30T17:03:28.392Z"
   },
   "JKHY": {
     "analyst": 75,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:08:41.777Z"
+    "updatedAt": "2026-10-30T17:03:33.573Z"
   },
   "J": {
     "analyst": 75,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:08:47.070Z"
+    "updatedAt": "2026-10-30T17:03:39.237Z"
   },
   "JCI": {
     "analyst": 70.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:08:56.904Z"
+    "updatedAt": "2026-10-30T17:03:49.663Z"
   },
   "KVUE": {
     "analyst": 60,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:09:07.601Z"
+    "updatedAt": "2026-10-30T17:04:01.199Z"
   },
   "KDP": {
     "analyst": 71.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:09:12.516Z"
+    "updatedAt": "2026-10-30T17:04:06.654Z"
   },
   "KEY": {
     "analyst": 68.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:09:17.720Z"
+    "updatedAt": "2026-10-30T17:04:12.112Z"
   },
   "KEYS": {
     "analyst": 78.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:09:22.652Z"
+    "updatedAt": "2026-10-30T17:04:17.271Z"
   },
   "KMB": {
     "analyst": 64.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:09:27.865Z"
+    "updatedAt": "2026-10-30T17:04:22.765Z"
   },
   "KIM": {
     "analyst": 66.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:09:33.074Z"
+    "updatedAt": "2026-10-30T17:04:28.904Z"
   },
   "KMI": {
     "analyst": 67.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:09:39.175Z"
+    "updatedAt": "2026-10-30T17:04:34.084Z"
   },
   "KKR": {
     "analyst": 76.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:09:44.401Z"
+    "updatedAt": "2026-10-30T17:04:39.545Z"
   },
   "KLAC": {
     "analyst": 75.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:09:49.654Z"
+    "updatedAt": "2026-10-30T17:04:45.404Z"
   },
   "KHC": {
     "analyst": 41.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:09:55.005Z"
+    "updatedAt": "2026-10-30T17:04:50.848Z"
   },
   "KR": {
     "analyst": 72,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:09:59.909Z"
+    "updatedAt": "2026-10-30T17:04:56.040Z"
   },
   "LHX": {
     "analyst": 71.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:10:05.441Z"
+    "updatedAt": "2026-10-30T17:05:01.257Z"
   },
   "LH": {
     "analyst": 77.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:10:10.848Z"
+    "updatedAt": "2026-10-30T17:05:06.752Z"
   },
   "LRCX": {
     "analyst": 78.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:10:16.020Z"
+    "updatedAt": "2026-10-30T17:05:11.970Z"
   },
   "LVS": {
     "analyst": 71.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:10:21.841Z"
+    "updatedAt": "2026-10-30T17:05:17.148Z"
   },
   "LDOS": {
     "analyst": 66,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:10:27.355Z"
+    "updatedAt": "2026-10-30T17:05:22.691Z"
   },
   "LEN": {
     "analyst": 38.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:10:32.309Z"
+    "updatedAt": "2026-10-30T17:05:27.866Z"
   },
   "LII": {
     "analyst": 59.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:10:37.218Z"
+    "updatedAt": "2026-10-30T17:05:33.107Z"
   },
   "LIN": {
     "analyst": 69.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:10:48.090Z"
+    "updatedAt": "2026-10-30T17:05:43.683Z"
   },
   "LYV": {
     "analyst": 75.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:10:53.551Z"
+    "updatedAt": "2026-10-30T17:05:49.150Z"
   },
   "LMT": {
     "analyst": 67,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:10:58.530Z"
+    "updatedAt": "2026-10-30T17:05:54.758Z"
   },
   "L": {
     "analyst": 28.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:11:03.852Z"
+    "updatedAt": "2026-10-30T17:06:00.236Z"
   },
   "LULU": {
     "analyst": 45.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:11:13.732Z"
+    "updatedAt": "2026-10-30T17:06:10.566Z"
   },
   "LITE": {
     "analyst": 77.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:11:18.719Z"
+    "updatedAt": "2026-10-30T17:06:15.736Z"
   },
   "LYB": {
     "analyst": 56,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:11:23.982Z"
+    "updatedAt": "2026-10-30T17:06:21.537Z"
   },
   "MTB": {
     "analyst": 61.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:11:29.184Z"
+    "updatedAt": "2026-10-30T17:06:26.974Z"
   },
   "MPC": {
     "analyst": 65.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:11:34.376Z"
+    "updatedAt": "2026-10-30T17:06:32.423Z"
   },
   "MAR": {
     "analyst": 65.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:11:39.635Z"
+    "updatedAt": "2026-10-30T17:06:37.872Z"
   },
   "MRSH": {
     "analyst": 61.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:11:44.583Z"
+    "updatedAt": "2026-10-30T17:06:43.039Z"
   },
   "MLM": {
     "analyst": 70.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:11:49.823Z"
+    "updatedAt": "2026-10-30T17:06:48.601Z"
   },
   "MRVL": {
     "analyst": 78.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:11:54.726Z"
+    "updatedAt": "2026-10-30T17:06:53.766Z"
   },
   "MAS": {
     "analyst": 63.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:11:59.640Z"
+    "updatedAt": "2026-10-30T17:06:58.963Z"
   },
   "MKC": {
     "analyst": 65,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:12:10.566Z"
+    "updatedAt": "2026-10-30T17:07:09.321Z"
   },
   "MCK": {
     "analyst": 77.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:12:20.776Z"
+    "updatedAt": "2026-10-30T17:07:20.367Z"
   },
   "MDT": {
     "analyst": 73.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:12:25.709Z"
+    "updatedAt": "2026-10-30T17:07:25.539Z"
   },
   "MET": {
     "analyst": 74,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:12:40.898Z"
+    "updatedAt": "2026-10-30T17:07:41.913Z"
   },
   "MTD": {
     "analyst": 65.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:12:46.302Z"
+    "updatedAt": "2026-10-30T17:07:47.528Z"
   },
   "MGM": {
     "analyst": 62.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:12:51.502Z"
+    "updatedAt": "2026-10-30T17:07:52.697Z"
   },
   "MCHP": {
     "analyst": 76.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:12:56.730Z"
+    "updatedAt": "2026-10-30T17:07:58.143Z"
   },
   "MU": {
     "analyst": 81.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:13:01.695Z"
+    "updatedAt": "2026-10-30T17:08:03.321Z"
   },
   "MAA": {
     "analyst": 58.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:13:11.929Z"
+    "updatedAt": "2026-10-30T17:08:13.677Z"
   },
   "MRNA": {
     "analyst": 58.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:13:17.149Z"
+    "updatedAt": "2026-10-30T17:08:19.231Z"
   },
   "TAP": {
     "analyst": 44.8,
@@ -1697,172 +1697,172 @@
   "MDLZ": {
     "analyst": 73.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:13:22.108Z"
+    "updatedAt": "2026-10-30T17:08:24.440Z"
   },
   "MPWR": {
     "analyst": 78.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:13:27.512Z"
+    "updatedAt": "2026-10-30T17:08:29.898Z"
   },
   "MNST": {
     "analyst": 70.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:13:32.412Z"
+    "updatedAt": "2026-10-30T17:08:39.455Z"
   },
   "MCO": {
     "analyst": 75.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:13:37.334Z"
+    "updatedAt": "2026-10-30T17:08:44.403Z"
   },
   "MOS": {
     "analyst": 61,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:13:47.927Z"
+    "updatedAt": "2026-10-30T17:08:54.936Z"
   },
   "MSI": {
     "analyst": 77.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:13:53.189Z"
+    "updatedAt": "2026-10-30T17:09:00.159Z"
   },
   "MSCI": {
     "analyst": 76,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:13:58.102Z"
+    "updatedAt": "2026-10-30T17:09:05.092Z"
   },
   "NDAQ": {
     "analyst": 78.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:14:03.024Z"
+    "updatedAt": "2026-10-30T17:09:13.081Z"
   },
   "NTAP": {
     "analyst": 64.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:14:07.950Z"
+    "updatedAt": "2026-10-30T17:09:17.994Z"
   },
   "NFLX": {
     "analyst": 74.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:14:12.912Z"
+    "updatedAt": "2026-10-30T17:09:22.920Z"
   },
   "NEM": {
     "analyst": 80.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:14:17.835Z"
+    "updatedAt": "2026-10-30T17:09:28.251Z"
   },
   "NWSA": {
     "analyst": 78.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:14:22.795Z"
+    "updatedAt": "2026-10-30T17:09:33.533Z"
   },
   "NWS": {
     "analyst": 78.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:14:27.701Z"
+    "updatedAt": "2026-10-30T17:09:38.792Z"
   },
   "NI": {
     "analyst": 78,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:14:42.951Z"
+    "updatedAt": "2026-10-30T17:09:53.543Z"
   },
   "NDSN": {
     "analyst": 71.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:14:47.872Z"
+    "updatedAt": "2026-10-30T17:09:58.453Z"
   },
   "NSC": {
     "analyst": 60.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:14:53.151Z"
+    "updatedAt": "2026-10-30T17:10:03.907Z"
   },
   "NTRS": {
     "analyst": 45,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:14:58.382Z"
+    "updatedAt": "2026-10-30T17:10:09.886Z"
   },
   "NOC": {
     "analyst": 70.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:15:03.479Z"
+    "updatedAt": "2026-10-30T17:10:15.107Z"
   },
   "NCLH": {
     "analyst": 64,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:15:08.751Z"
+    "updatedAt": "2026-10-30T17:10:23.974Z"
   },
   "NRG": {
     "analyst": 77.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:15:14.002Z"
+    "updatedAt": "2026-10-30T17:10:29.185Z"
   },
   "NUE": {
     "analyst": 72.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:15:18.923Z"
+    "updatedAt": "2026-10-30T17:10:34.090Z"
   },
   "NVR": {
     "analyst": 42.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:15:29.146Z"
+    "updatedAt": "2026-10-30T17:10:44.306Z"
   },
   "NXPI": {
     "analyst": 74.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:15:34.061Z"
+    "updatedAt": "2026-10-30T17:10:49.430Z"
   },
   "ORLY": {
     "analyst": 77.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:15:39.005Z"
+    "updatedAt": "2026-10-30T17:10:54.679Z"
   },
   "OXY": {
     "analyst": 65.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:15:44.243Z"
+    "updatedAt": "2026-10-30T17:11:00.015Z"
   },
   "ODFL": {
     "analyst": 65.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:15:49.527Z"
+    "updatedAt": "2026-10-30T17:11:05.313Z"
   },
   "OMC": {
     "analyst": 65.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:15:54.491Z"
+    "updatedAt": "2026-10-30T17:11:10.214Z"
   },
   "ON": {
     "analyst": 66.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:15:59.717Z"
+    "updatedAt": "2026-10-30T17:11:15.402Z"
   },
   "OKE": {
     "analyst": 64.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:16:04.915Z"
+    "updatedAt": "2026-10-30T17:11:20.326Z"
   },
   "OTIS": {
     "analyst": 66.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:16:15.286Z"
+    "updatedAt": "2026-10-30T17:11:30.873Z"
   },
   "PCAR": {
     "analyst": 65.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:16:20.517Z"
+    "updatedAt": "2026-10-30T17:11:35.780Z"
   },
   "PKG": {
     "analyst": 70.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:16:25.427Z"
+    "updatedAt": "2026-10-30T17:11:41.223Z"
   },
   "PLTR": {
     "analyst": 73.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:16:30.624Z"
+    "updatedAt": "2026-10-30T17:11:46.406Z"
   },
   "PANW": {
     "analyst": 75,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:16:35.563Z"
+    "updatedAt": "2026-10-30T17:11:51.318Z"
   },
   "PSKY": {
     "analyst": 40.2,
@@ -1872,382 +1872,382 @@
   "PH": {
     "analyst": 75.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:16:40.474Z"
+    "updatedAt": "2026-10-30T17:11:56.232Z"
   },
   "PAYX": {
     "analyst": 59.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:16:45.473Z"
+    "updatedAt": "2026-10-30T17:12:01.146Z"
   },
   "PYPL": {
     "analyst": 57.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:16:50.392Z"
+    "updatedAt": "2026-10-30T17:12:06.042Z"
   },
   "PNR": {
     "analyst": 67,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:16:55.306Z"
+    "updatedAt": "2026-10-30T17:12:10.951Z"
   },
   "PCG": {
     "analyst": 67,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:17:12.584Z"
+    "updatedAt": "2026-10-30T17:12:26.948Z"
   },
   "PM": {
     "analyst": 76.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:17:17.554Z"
+    "updatedAt": "2026-10-30T17:12:32.813Z"
   },
   "PSX": {
     "analyst": 68,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:17:22.873Z"
+    "updatedAt": "2026-10-30T17:12:37.722Z"
   },
   "PNW": {
     "analyst": 65.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:17:28.092Z"
+    "updatedAt": "2026-10-30T17:12:43.073Z"
   },
   "PNC": {
     "analyst": 76,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:17:38.545Z"
+    "updatedAt": "2026-10-30T17:12:48.254Z"
   },
   "PPG": {
     "analyst": 66.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:17:43.457Z"
+    "updatedAt": "2026-10-30T17:12:53.150Z"
   },
   "PPL": {
     "analyst": 76.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:17:48.386Z"
+    "updatedAt": "2026-10-30T17:12:58.048Z"
   },
   "PFG": {
     "analyst": 43.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:17:53.288Z"
+    "updatedAt": "2026-10-30T17:13:02.956Z"
   },
   "PGR": {
     "analyst": 60.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:18:04.974Z"
+    "updatedAt": "2026-10-30T17:13:13.066Z"
   },
   "PRU": {
     "analyst": 40,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:18:15.387Z"
+    "updatedAt": "2026-10-30T17:13:23.274Z"
   },
   "PEG": {
     "analyst": 63.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:18:20.627Z"
+    "updatedAt": "2026-10-30T17:13:33.724Z"
   },
   "PTC": {
     "analyst": 72.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:18:25.844Z"
+    "updatedAt": "2026-10-30T17:13:28.525Z"
   },
   "PSA": {
     "analyst": 61.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:18:31.302Z"
+    "updatedAt": "2026-10-30T17:13:38.643Z"
   },
   "PHM": {
     "analyst": 68.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:18:36.234Z"
+    "updatedAt": "2026-10-30T17:13:44.263Z"
   },
   "PWR": {
     "analyst": 78.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:18:52.104Z"
+    "updatedAt": "2026-10-30T17:13:59.572Z"
   },
   "QCOM": {
     "analyst": 62,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:18:46.825Z"
+    "updatedAt": "2026-10-30T17:13:54.648Z"
   },
   "DGX": {
     "analyst": 70.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:18:57.745Z"
+    "updatedAt": "2026-10-30T17:14:04.473Z"
   },
   "Q": {
     "analyst": 80.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:18:41.622Z"
+    "updatedAt": "2026-10-30T17:13:49.434Z"
   },
   "RL": {
     "analyst": 80.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:19:03.007Z"
+    "updatedAt": "2026-10-30T17:14:09.686Z"
   },
   "RJF": {
     "analyst": 63.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:19:08.218Z"
+    "updatedAt": "2026-10-30T17:14:15.543Z"
   },
   "RTX": {
     "analyst": 71.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:20:27.410Z"
+    "updatedAt": "2026-10-30T17:15:33.007Z"
   },
   "O": {
     "analyst": 62.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:19:16.580Z"
+    "updatedAt": "2026-10-30T17:14:24.023Z"
   },
   "REG": {
     "analyst": 69.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:19:21.492Z"
+    "updatedAt": "2026-10-30T17:14:28.929Z"
   },
   "REGN": {
     "analyst": 73,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:19:26.709Z"
+    "updatedAt": "2026-10-30T17:14:34.637Z"
   },
   "RF": {
     "analyst": 62.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:19:36.135Z"
+    "updatedAt": "2026-10-30T17:14:39.850Z"
   },
   "RSG": {
     "analyst": 69.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:19:41.183Z"
+    "updatedAt": "2026-10-30T17:14:45.849Z"
   },
   "RMD": {
     "analyst": 63.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:19:46.084Z"
+    "updatedAt": "2026-10-30T17:14:50.742Z"
   },
   "RVTY": {
     "analyst": 64.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:19:51.015Z"
+    "updatedAt": "2026-10-30T17:14:55.648Z"
   },
   "HOOD": {
     "analyst": 76.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:19:56.202Z"
+    "updatedAt": "2026-10-30T17:15:00.622Z"
   },
   "ROK": {
     "analyst": 66.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:20:01.511Z"
+    "updatedAt": "2026-10-30T17:15:06.305Z"
   },
   "ROL": {
     "analyst": 59.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:20:06.527Z"
+    "updatedAt": "2026-10-30T17:15:12.493Z"
   },
   "ROP": {
     "analyst": 64.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:20:12.147Z"
+    "updatedAt": "2026-10-30T17:15:17.921Z"
   },
   "ROST": {
     "analyst": 75.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:20:17.115Z"
+    "updatedAt": "2026-10-30T17:15:23.008Z"
   },
   "RCL": {
     "analyst": 75.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:20:22.327Z"
+    "updatedAt": "2026-10-30T17:15:28.111Z"
   },
   "SPGI": {
     "analyst": 79.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:20:32.404Z"
+    "updatedAt": "2026-10-30T17:15:37.957Z"
   },
   "CRM": {
     "analyst": 72.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:20:37.312Z"
+    "updatedAt": "2026-10-30T17:15:42.859Z"
   },
   "SNDK": {
     "analyst": 79.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:20:42.221Z"
+    "updatedAt": "2026-10-30T17:15:47.756Z"
   },
   "SBAC": {
     "analyst": 69.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:20:47.461Z"
+    "updatedAt": "2026-10-30T17:15:52.951Z"
   },
   "STX": {
     "analyst": 77.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:20:57.875Z"
+    "updatedAt": "2026-10-30T17:16:03.431Z"
   },
   "SRE": {
     "analyst": 76,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:21:02.776Z"
+    "updatedAt": "2026-10-30T17:16:08.706Z"
   },
   "NOW": {
     "analyst": 79.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:21:08.225Z"
+    "updatedAt": "2026-10-30T17:16:13.606Z"
   },
   "SHW": {
     "analyst": 68,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:21:13.453Z"
+    "updatedAt": "2026-10-30T17:16:18.789Z"
   },
   "SWKS": {
     "analyst": 45,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:21:27.725Z"
+    "updatedAt": "2026-10-30T17:16:33.687Z"
   },
   "SJM": {
     "analyst": 71.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:21:32.722Z"
+    "updatedAt": "2026-10-30T17:16:38.595Z"
   },
   "SW": {
     "analyst": 78.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:21:38.027Z"
+    "updatedAt": "2026-10-30T17:16:43.781Z"
   },
   "SNA": {
     "analyst": 62.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:21:42.928Z"
+    "updatedAt": "2026-10-30T17:16:48.864Z"
   },
   "SOLV": {
     "analyst": 70.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:21:48.277Z"
+    "updatedAt": "2026-10-30T17:16:54.143Z"
   },
   "SO": {
     "analyst": 63.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:21:53.233Z"
+    "updatedAt": "2026-10-30T17:16:59.089Z"
   },
   "LUV": {
     "analyst": 60.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:21:58.137Z"
+    "updatedAt": "2026-10-30T17:17:04.954Z"
   },
   "SWK": {
     "analyst": 63.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:22:03.449Z"
+    "updatedAt": "2026-10-30T17:17:10.338Z"
   },
   "STT": {
     "analyst": 70,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:22:13.908Z"
+    "updatedAt": "2026-10-30T17:17:20.525Z"
   },
   "STLD": {
     "analyst": 69.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:22:19.661Z"
+    "updatedAt": "2026-10-30T17:17:25.421Z"
   },
   "STE": {
     "analyst": 73.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:22:24.561Z"
+    "updatedAt": "2026-10-30T17:17:30.789Z"
   },
   "SYK": {
     "analyst": 79.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:22:29.782Z"
+    "updatedAt": "2026-10-30T17:17:36.541Z"
   },
   "SMCI": {
     "analyst": 45,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:22:34.683Z"
+    "updatedAt": "2026-10-30T17:17:41.435Z"
   },
   "SYF": {
     "analyst": 72.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:22:39.598Z"
+    "updatedAt": "2026-10-30T17:17:46.714Z"
   },
   "SNPS": {
     "analyst": 80,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:22:44.504Z"
+    "updatedAt": "2026-10-30T17:17:51.617Z"
   },
   "SYY": {
     "analyst": 64.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:22:49.459Z"
+    "updatedAt": "2026-10-30T17:17:56.800Z"
   },
   "TMUS": {
     "analyst": 75.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:22:54.682Z"
+    "updatedAt": "2026-10-30T17:18:02.032Z"
   },
   "TROW": {
     "analyst": 37.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:22:59.890Z"
+    "updatedAt": "2026-10-30T17:18:07.927Z"
   },
   "TTWO": {
     "analyst": 80.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:23:04.789Z"
+    "updatedAt": "2026-10-30T17:18:13.133Z"
   },
   "TPR": {
     "analyst": 75,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:23:09.741Z"
+    "updatedAt": "2026-10-30T17:18:18.044Z"
   },
   "TRGP": {
     "analyst": 80,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:23:15.010Z"
+    "updatedAt": "2026-10-30T17:18:23.219Z"
   },
   "TGT": {
     "analyst": 61.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:23:19.917Z"
+    "updatedAt": "2026-10-30T17:18:28.137Z"
   },
   "TEL": {
     "analyst": 77.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:23:25.109Z"
+    "updatedAt": "2026-10-30T17:18:33.448Z"
   },
   "TDY": {
     "analyst": 72.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:23:32.001Z"
+    "updatedAt": "2026-10-30T17:18:38.350Z"
   },
   "TER": {
     "analyst": 72.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:23:37.297Z"
+    "updatedAt": "2026-10-30T17:18:45.229Z"
   },
   "TXN": {
     "analyst": 65.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:23:48.090Z"
+    "updatedAt": "2026-10-30T17:18:55.267Z"
   },
   "TPL": {
     "analyst": 64.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:23:53.283Z"
+    "updatedAt": "2026-10-30T17:19:00.505Z"
   },
   "TXT": {
     "analyst": 67.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:23:58.507Z"
+    "updatedAt": "2026-10-30T17:19:05.432Z"
   },
   "TJX": {
     "analyst": 75.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:24:08.706Z"
+    "updatedAt": "2026-10-30T17:19:16.375Z"
   },
   "TKO": {
     "analyst": 79.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:24:13.948Z"
+    "updatedAt": "2026-10-30T17:19:21.707Z"
   },
   "TTD": {
     "analyst": 46.7,
@@ -2257,162 +2257,162 @@
   "TSCO": {
     "analyst": 69.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:24:19.180Z"
+    "updatedAt": "2026-10-30T17:19:26.904Z"
   },
   "TT": {
     "analyst": 72.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:24:24.369Z"
+    "updatedAt": "2026-10-30T17:19:33.553Z"
   },
   "TDG": {
     "analyst": 65.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:24:29.559Z"
+    "updatedAt": "2026-10-30T17:19:38.816Z"
   },
   "TRV": {
     "analyst": 55,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:24:34.844Z"
+    "updatedAt": "2026-10-30T17:19:43.730Z"
   },
   "TRMB": {
     "analyst": 82.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:24:39.745Z"
+    "updatedAt": "2026-10-30T17:19:48.634Z"
   },
   "TFC": {
     "analyst": 57,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:24:44.985Z"
+    "updatedAt": "2026-10-30T17:19:53.529Z"
   },
   "TYL": {
     "analyst": 78.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:24:53.151Z"
+    "updatedAt": "2026-10-30T17:20:01.786Z"
   },
   "TSN": {
     "analyst": 60.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:24:58.351Z"
+    "updatedAt": "2026-10-30T17:20:07.096Z"
   },
   "USB": {
     "analyst": 70.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:25:03.540Z"
+    "updatedAt": "2026-10-30T17:20:12.286Z"
   },
   "UBER": {
     "analyst": 77.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:25:08.882Z"
+    "updatedAt": "2026-10-30T17:20:17.501Z"
   },
   "UDR": {
     "analyst": 61.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:25:13.785Z"
+    "updatedAt": "2026-10-30T17:20:22.520Z"
   },
   "ULTA": {
     "analyst": 74.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:25:18.681Z"
+    "updatedAt": "2026-10-30T17:20:27.541Z"
   },
   "UNP": {
     "analyst": 75.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:25:23.666Z"
+    "updatedAt": "2026-10-30T17:20:32.807Z"
   },
   "UAL": {
     "analyst": 77.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:25:28.567Z"
+    "updatedAt": "2026-10-30T17:20:37.783Z"
   },
   "URI": {
     "analyst": 73.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:25:38.741Z"
+    "updatedAt": "2026-10-30T17:20:48.194Z"
   },
   "UHS": {
     "analyst": 61,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:25:52.883Z"
+    "updatedAt": "2026-10-30T17:20:58.730Z"
   },
   "VLO": {
     "analyst": 64,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:25:58.166Z"
+    "updatedAt": "2026-10-30T17:21:03.661Z"
   },
   "VEEV": {
     "analyst": 75,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:26:03.081Z"
+    "updatedAt": "2026-10-30T17:21:09.130Z"
   },
   "VTR": {
     "analyst": 76.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:26:08.440Z"
+    "updatedAt": "2026-10-30T17:21:14.024Z"
   },
   "VLTO": {
     "analyst": 72.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:26:13.356Z"
+    "updatedAt": "2026-10-30T17:21:19.092Z"
   },
   "VRSN": {
     "analyst": 75,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:26:18.254Z"
+    "updatedAt": "2026-10-30T17:21:24.801Z"
   },
   "VRSK": {
     "analyst": 72.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:26:23.171Z"
+    "updatedAt": "2026-10-30T17:21:29.698Z"
   },
   "VZ": {
     "analyst": 67.1,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:26:28.407Z"
+    "updatedAt": "2026-10-30T17:21:34.705Z"
   },
   "VRTX": {
     "analyst": 76.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:26:33.596Z"
+    "updatedAt": "2026-10-30T17:21:39.884Z"
   },
   "VRT": {
     "analyst": 79.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:26:38.891Z"
+    "updatedAt": "2026-10-30T17:21:44.781Z"
   },
   "VTRS": {
     "analyst": 73.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:26:44.067Z"
+    "updatedAt": "2026-10-30T17:21:50.107Z"
   },
   "VICI": {
     "analyst": 73.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:26:49.299Z"
+    "updatedAt": "2026-10-30T17:21:55.003Z"
   },
   "VST": {
     "analyst": 80.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:26:59.106Z"
+    "updatedAt": "2026-10-30T17:22:05.515Z"
   },
   "VMC": {
     "analyst": 71.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:27:07.148Z"
+    "updatedAt": "2026-10-30T17:22:13.528Z"
   },
   "WRB": {
     "analyst": 39.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:27:16.401Z"
+    "updatedAt": "2026-10-30T17:22:22.794Z"
   },
   "GWW": {
     "analyst": 58.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:27:21.723Z"
+    "updatedAt": "2026-10-30T17:22:28.421Z"
   },
   "WAB": {
     "analyst": 76.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:27:26.645Z"
+    "updatedAt": "2026-10-30T17:22:33.315Z"
   },
   "WBD": {
     "analyst": 58,
@@ -2422,97 +2422,97 @@
   "WM": {
     "analyst": 76.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:27:42.173Z"
+    "updatedAt": "2026-10-30T17:22:48.325Z"
   },
   "WAT": {
     "analyst": 75,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:27:47.088Z"
+    "updatedAt": "2026-10-30T17:22:53.225Z"
   },
   "WEC": {
     "analyst": 62.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:27:52.337Z"
+    "updatedAt": "2026-10-30T17:22:58.976Z"
   },
   "WFC": {
     "analyst": 71.7,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:27:57.569Z"
+    "updatedAt": "2026-10-30T17:23:03.873Z"
   },
   "WELL": {
     "analyst": 76.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:28:02.478Z"
+    "updatedAt": "2026-10-30T17:23:08.771Z"
   },
   "WST": {
     "analyst": 81.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:28:07.692Z"
+    "updatedAt": "2026-10-30T17:23:15.638Z"
   },
   "WDC": {
     "analyst": 75,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:28:12.619Z"
+    "updatedAt": "2026-10-30T17:23:20.538Z"
   },
   "WY": {
     "analyst": 73.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:28:17.847Z"
+    "updatedAt": "2026-10-30T17:23:25.836Z"
   },
   "WSM": {
     "analyst": 67.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:28:22.749Z"
+    "updatedAt": "2026-10-30T17:23:30.743Z"
   },
   "WMB": {
     "analyst": 77.6,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:28:28.000Z"
+    "updatedAt": "2026-10-30T17:23:36.020Z"
   },
   "WTW": {
     "analyst": 71.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:28:33.275Z"
+    "updatedAt": "2026-10-30T17:23:40.911Z"
   },
   "WDAY": {
     "analyst": 67.3,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:28:38.409Z"
+    "updatedAt": "2026-10-30T17:23:45.826Z"
   },
   "WYNN": {
     "analyst": 81,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:28:43.732Z"
+    "updatedAt": "2026-10-30T17:23:51.012Z"
   },
   "XEL": {
     "analyst": 79.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:28:48.937Z"
+    "updatedAt": "2026-10-30T17:23:57.090Z"
   },
   "XYL": {
     "analyst": 75,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:28:54.182Z"
+    "updatedAt": "2026-10-30T17:24:02.019Z"
   },
   "YUM": {
     "analyst": 66.4,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:28:59.378Z"
+    "updatedAt": "2026-10-30T17:24:07.197Z"
   },
   "ZBRA": {
     "analyst": 72.8,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:29:04.605Z"
+    "updatedAt": "2026-10-30T17:24:12.368Z"
   },
   "ZBH": {
     "analyst": 60.9,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:29:09.797Z"
+    "updatedAt": "2026-10-30T17:24:17.801Z"
   },
   "ZTS": {
     "analyst": 65.2,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:29:15.102Z"
+    "updatedAt": "2026-10-30T17:24:22.968Z"
   },
   "BE": {
     "analyst": 67.9,
@@ -2542,7 +2542,7 @@
   "SKYD": {
     "analyst": 40.5,
     "source": "finnhub",
-    "updatedAt": "2026-10-26T17:21:23.657Z"
+    "updatedAt": "2026-10-30T17:16:29.315Z"
   },
   "TWLO": {
     "analyst": 78.3,
