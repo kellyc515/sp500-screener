@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-02T20:17:12.106Z"
+    "updatedAt": "2026-11-03T17:45:37.866Z"
   },
   "trades": [
     {
@@ -288,6 +288,32 @@
       "transactionDate": "2026-10-15",
       "disclosureDate": "2026-10-28",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/|AMGN|2026-10-15|Sale|$15,001 - $50,000",
+      "chamber": "Senate",
+      "ticker": "AMGN",
+      "member": "Sheldon Whitehouse",
+      "district": "RI",
+      "assetDescription": "Amgen Inc",
+      "type": "Sale",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-10-15",
+      "disclosureDate": "2026-11-03",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/|MSFT|2026-10-15|Sale|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "MSFT",
+      "member": "Sheldon Whitehouse",
+      "district": "RI",
+      "assetDescription": "Microsoft Corp",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-15",
+      "disclosureDate": "2026-11-03",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf|CVX|2026-10-14|Sale|$15,001 - $50,000",
@@ -771,6 +797,19 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf|MU|2026-10-01|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "MU",
+      "member": "John McGuire",
+      "district": "VA05",
+      "assetDescription": "Micron Technology Inc",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-01",
+      "disclosureDate": "2026-11-02",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf|IBRX|2026-09-30|Purchase|$1,001 - $15,000",
       "chamber": "House",
       "ticker": "IBRX",
@@ -808,6 +847,32 @@
       "transactionDate": "2026-09-30",
       "disclosureDate": "2026-10-12",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf|JNJ|2026-09-30|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "JNJ",
+      "member": "Thomas Kean",
+      "district": "NJ07",
+      "assetDescription": "Johnson & Johnson Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-30",
+      "disclosureDate": "2026-10-30",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf|SYK|2026-09-30|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "SYK",
+      "member": "Thomas Kean",
+      "district": "NJ07",
+      "assetDescription": "Stryker Corporation Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-30",
+      "disclosureDate": "2026-10-30",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|AEIS|2026-09-29|Purchase|$1,001 - $15,000",
@@ -1083,6 +1148,32 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035734.pdf|HONA|2026-09-29|Sale|$0 - $1,000",
+      "chamber": "House",
+      "ticker": "HONA",
+      "member": "Carol Devine Miller",
+      "district": "WV01",
+      "assetDescription": "HONEYWELL AEROSPACE INC",
+      "type": "Sale",
+      "amount": "$0 - $1,000",
+      "transactionDate": "2026-09-29",
+      "disclosureDate": "2026-11-02",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035734.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf|ESAB|2026-09-29|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "ESAB",
+      "member": "Thomas Kean",
+      "district": "NJ07",
+      "assetDescription": "ESAB Corporation Common Stock",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-29",
+      "disclosureDate": "2026-10-30",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf|MSFT|2026-09-28|Sale|$1,001 - $15,000",
       "chamber": "House",
       "ticker": "MSFT",
@@ -1224,6 +1315,19 @@
       "transactionDate": "2026-09-25",
       "disclosureDate": "2026-10-21",
       "link": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf|MU|2026-09-25|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "MU",
+      "member": "John McGuire",
+      "district": "VA05",
+      "assetDescription": "Micron Technology Inc",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-25",
+      "disclosureDate": "2026-11-02",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf|GS|2026-09-24|Sale|$1,001 - $15,000",
@@ -1629,6 +1733,32 @@
       "link": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf|AVGO|2026-09-24|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "AVGO",
+      "member": "John McGuire",
+      "district": "VA05",
+      "assetDescription": "Broadcom Inc",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-24",
+      "disclosureDate": "2026-11-02",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf|MU|2026-09-24|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "MU",
+      "member": "John McGuire",
+      "district": "VA05",
+      "assetDescription": "Micron Technology Inc",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-24",
+      "disclosureDate": "2026-11-02",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf|CHWY|2026-09-23|Purchase|$1,001 - $15,000",
       "chamber": "House",
       "ticker": "CHWY",
@@ -1796,6 +1926,19 @@
       "transactionDate": "2026-09-23",
       "disclosureDate": "2026-10-13",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf|MDLZ|2026-09-23|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "MDLZ",
+      "member": "Thomas Kean",
+      "district": "NJ07",
+      "assetDescription": "Mondelez International, Inc. - Class A Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-23",
+      "disclosureDate": "2026-10-30",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035499.pdf|AAPL|2026-09-22|Sale|$100,001 - $250,000",
@@ -2576,6 +2719,32 @@
       "transactionDate": "2026-09-17",
       "disclosureDate": "2026-10-13",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf|ABT|2026-09-17|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "ABT",
+      "member": "Thomas Kean",
+      "district": "NJ07",
+      "assetDescription": "Abbott Laboratories Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-17",
+      "disclosureDate": "2026-10-30",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf|TXN|2026-09-17|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "TXN",
+      "member": "Thomas Kean",
+      "district": "NJ07",
+      "assetDescription": "Texas Instruments Incorporated - Common Stock",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-17",
+      "disclosureDate": "2026-10-30",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|AVGO|2026-09-16|Sale|$1,001 - $15,000",
