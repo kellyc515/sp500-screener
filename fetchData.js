@@ -169,13 +169,53 @@ function isFilingDueSoon(entry) {
   return Math.abs(Date.now() - dueMs) <= windowMs;
 }
 
+// Each ticker's weekly fundamentals refresh is pinned to one weekday
+// (Mon-Fri, 1-5 in getUTCDay() terms), derived from a hash of the ticker
+// string so it's stable across runs and unaffected by other tickers joining
+// or leaving the universe. Without this, every entry refreshed on the same
+// day (e.g. after a cold-cache run) expires on the same day 7 days later,
+// and stays bunched forever. Weekdays only, not 7 slots: daily.yml only runs
+// Mon-Fri, so weekend slots would all land on Monday's run.
+const FUNDAMENTALS_REFRESH_SLOTS = 5;
+const DAY_MS = 24 * 60 * 60 * 1000;
+
+function fnv1a32(s) {
+  let h = 0x811c9dc5;
+  for (let i = 0; i < s.length; i++) {
+    h ^= s.charCodeAt(i);
+    h = Math.imul(h, 0x01000193) >>> 0;
+  }
+  return h;
+}
+
+function refreshSlotWeekday(ticker) {
+  return 1 + (fnv1a32(ticker) % FUNDAMENTALS_REFRESH_SLOTS); // 1=Mon .. 5=Fri (UTC)
+}
+
+// True when this ticker's slot weekday has come around since the entry was
+// last written - i.e. it hasn't been refreshed on or after the start (UTC
+// midnight) of its most recent slot day. Anchored to the calendar, not to
+// the last refresh, so an early refresh (the due-soon path below) or a
+// missed run never permanently shifts a ticker off its slot.
+function missedRefreshSlot(entry, ticker, nowMs = Date.now()) {
+  if (!entry || !entry.updatedAt) return true;
+  const updatedMs = new Date(entry.updatedAt).getTime();
+  if (!Number.isFinite(updatedMs)) return true;
+  const todayStartMs = Math.floor(nowMs / DAY_MS) * DAY_MS;
+  const daysSinceSlot = (new Date(todayStartMs).getUTCDay() - refreshSlotWeekday(ticker) + 7) % 7;
+  return updatedMs < todayStartMs - daysSinceSlot * DAY_MS;
+}
+
 // Event-driven variant of refreshGroup(), fundamentals-only. Three paths,
 // checked in order:
-//   1. Not fresh by WEEKLY_MAX_AGE_MS (or no cache entry) - full refresh,
-//      exactly like refreshGroup() today. This is the fallback safety net:
-//      it never goes away, so anything off-schedule or missed by path 2
-//      still gets picked up within a week. Also the only path a brand-new
-//      ticker (no lastFiledDate yet) can take, which is how it acquires one.
+//   1. Not fresh by WEEKLY_MAX_AGE_MS, or this ticker's refresh-slot weekday
+//      has come around since it was last refreshed (see missedRefreshSlot()
+//      above), or no cache entry at all - full refresh. The WEEKLY_MAX_AGE_MS
+//      check is the fallback safety net and never goes away: anything
+//      off-schedule or missed by path 2 still gets picked up within a week.
+//      The slot check only ever refreshes a ticker earlier than that, never
+//      later. Also the only path a brand-new ticker (no lastFiledDate yet)
+//      can take, which is how it acquires one.
 //   2. Fresh, but nextExpectedFilingDate says a new filing is plausibly due
 //      - peek submissions.json only (cheap: no companyfacts.json). If it
 //      shows a filing newer than the cached lastFiledDate, do the full
@@ -186,7 +226,7 @@ function isFilingDueSoon(entry) {
 async function refreshFundamentalsGroup(cache, ticker, stats, tickerLog) {
   const cached = cache[ticker];
 
-  if (!isFresh(cached, WEEKLY_MAX_AGE_MS)) {
+  if (!isFresh(cached, WEEKLY_MAX_AGE_MS) || missedRefreshSlot(cached, ticker)) {
     stats.fetchAttempts++;
     tickerLog.fetched.push('fundamentals');
     const fresh = await fetchFundamentals(ticker);
