@@ -2549,5 +2549,10 @@
     "source": "finnhub",
     "updatedAt": "2026-11-02T20:39:31.914Z"
   },
-  "VYLR": {}
+  "VYLR": {},
+  "OKTA": {
+    "analyst": 76,
+    "source": "finnhub",
+    "updatedAt": "2026-11-05T18:15:57.096Z"
+  }
 }

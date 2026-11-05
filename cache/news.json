@@ -21971,5 +21971,48 @@
     ],
     "source": "finnhub",
     "updatedAt": "2026-11-02T20:40:58.933Z"
+  },
+  "OKTA": {
+    "sentiment": 0.533,
+    "headlines": [
+      {
+        "title": "3 Cybersecurity Stocks To Watch With Up To 45% Earnings Growth",
+        "url": "https://finnhub.io/api/news?id=671c0058d5390aba172050537f1a05513c22e8e4590cd63d2329c3deb766599e",
+        "source": "Yahoo",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "CRWD Stock Plunges 13% in a Month: Should You Hold or Book Profits?",
+        "url": "https://finnhub.io/api/news?id=5890b28f6b0582b2c21639b00db1a0085121566f8e64372c9904ec638f1d7fd1",
+        "source": "Yahoo",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Cellebrite Appoints Rogerio Rizzi Executive Vice President of Corporate Strategy and Development",
+        "url": "https://finnhub.io/api/news?id=2cae923a8e76442f32f93fde78983a5285d360df1d6cde8096b00b55563894f8",
+        "source": "Yahoo",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "ProShares Ultra S&P500 2x Shares (SSO) Buys $2.7 Million More OKTA on Nov. 3",
+        "url": "https://finnhub.io/api/news?id=3ad50a6ad9432c131445032dbab824e9675e28713eb7ec9a0715e48eafb4ceaf",
+        "source": "Yahoo",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "What State Street Tech Select SPDR (XLK) Bought: Okta Leads on Nov. 3",
+        "url": "https://finnhub.io/api/news?id=63adc9ab27776a16b8a6e702b42e0420c4ded3e60dfd2eb9c456d73c87f7fd3a",
+        "source": "Yahoo",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "iShares S&P Mid-Cap 400 Growth (IJK) Buys $58 Million More Glaukos on Tuesday",
+        "url": "https://finnhub.io/api/news?id=6c1fca1952283410b6367cf37d504d704f70da1a4cf5a8e87446f16c3f7a7fc4",
+        "source": "Yahoo",
+        "date": "2026-11-05"
+      }
+    ],
+    "source": "finnhub",
+    "updatedAt": "2026-11-05T18:15:58.253Z"
   }
 }

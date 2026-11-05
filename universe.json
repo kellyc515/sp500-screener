@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T17:57:32.458Z",
+  "generatedAt": "2026-11-05T17:58:01.173Z",
   "source": "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv + https://www.sec.gov/files/company_tickers_exchange.json",
   "count": 503,
   "constituents": [
@@ -1618,12 +1618,6 @@
       "exchange": "NYSE"
     },
     {
-      "ticker": "KVUE",
-      "name": "Kenvue",
-      "sector": "Consumer Staples",
-      "exchange": "NYSE"
-    },
-    {
       "ticker": "KDP",
       "name": "Keurig Dr Pepper",
       "sector": "Consumer Staples",
@@ -2084,6 +2078,12 @@
       "name": "Occidental Petroleum",
       "sector": "Energy",
       "exchange": "NYSE"
+    },
+    {
+      "ticker": "OKTA",
+      "name": "Okta, Inc.",
+      "sector": "Information Technology",
+      "exchange": "Nasdaq"
     },
     {
       "ticker": "ODFL",
