@@ -161,9 +161,27 @@ async function refreshGroup(label, cache, ticker, maxAgeMs, fetchFn, source, sta
   return mergeCacheEntry(cache, ticker, fresh, source);
 }
 
+// The newest periodic filing we know about for this ticker: lastFiledDate
+// comes from companyfacts.json (what our cached numbers actually reflect),
+// lastSeenFilingDate from a submissions.json peek that found a newer filing
+// whose numbers companyfacts.json didn't contain yet. SEC sometimes lists a
+// 10-Q in submissions.json days or weeks before its facts appear in
+// companyfacts.json (seen with combined parent/subsidiary filers such as
+// CMS, PCG, KIM, ESS), and without remembering the seen date the peek would
+// trigger a full refresh every day until the due window closed.
+function latestKnownFilingDate(entry) {
+  const a = entry.lastFiledDate || null;
+  const b = entry.lastSeenFilingDate || null;
+  if (!a) return b;
+  if (!b) return a;
+  return a > b ? a : b;
+}
+
 function isFilingDueSoon(entry) {
-  if (!entry || !entry.nextExpectedFilingDate) return false; // no schedule known - e.g. first run for this ticker
-  const dueMs = new Date(entry.nextExpectedFilingDate).getTime();
+  if (!entry) return false;
+  const nextDue = sec.nextExpectedFilingDate(latestKnownFilingDate(entry));
+  if (!nextDue) return false; // no schedule known - e.g. first run for this ticker
+  const dueMs = new Date(nextDue).getTime();
   if (!Number.isFinite(dueMs)) return false;
   const windowMs = FILING_DUE_WINDOW_DAYS * 24 * 60 * 60 * 1000;
   return Math.abs(Date.now() - dueMs) <= windowMs;
@@ -216,12 +234,16 @@ function missedRefreshSlot(entry, ticker, nowMs = Date.now()) {
 //      The slot check only ever refreshes a ticker earlier than that, never
 //      later. Also the only path a brand-new ticker (no lastFiledDate yet)
 //      can take, which is how it acquires one.
-//   2. Fresh, but nextExpectedFilingDate says a new filing is plausibly due
-//      - peek submissions.json only (cheap: no companyfacts.json). If it
-//      shows a filing newer than the cached lastFiledDate, do the full
-//      refresh early. If not, the cache entry is left completely untouched
-//      (no mergeCacheEntry call) so it's correctly still due for a peek
-//      again tomorrow, for as long as the due-soon window lasts.
+//   2. Fresh, but a new filing is plausibly due (see isFilingDueSoon()) -
+//      peek submissions.json only (cheap: no companyfacts.json). If it shows
+//      a filing newer than latestKnownFilingDate(), do the full refresh
+//      early. If that refresh succeeds but companyfacts.json still doesn't
+//      contain the new filing, record it as lastSeenFilingDate so this
+//      filing never triggers another early refresh; the weekly/slot refresh
+//      picks up its numbers once SEC publishes them. If the peek shows
+//      nothing new, the cache entry is left completely untouched (no
+//      mergeCacheEntry call) so it's still due for a peek tomorrow, for as
+//      long as the due-soon window lasts.
 //   3. Fresh, not due soon - cache hit, zero requests, same as today.
 async function refreshFundamentalsGroup(cache, ticker, stats, tickerLog) {
   const cached = cache[ticker];
@@ -239,11 +261,20 @@ async function refreshFundamentalsGroup(cache, ticker, stats, tickerLog) {
     if (cik) {
       const submissions = await sec.fetchSubmissions(cik);
       const latestFiled = sec.latestPeriodicFilingDate(submissions);
-      if (latestFiled && (!cached.lastFiledDate || latestFiled > cached.lastFiledDate)) {
+      const known = latestKnownFilingDate(cached);
+      if (latestFiled && (!known || latestFiled > known)) {
         stats.fetchAttempts++;
         tickerLog.fetched.push('fundamentals(early-filing)');
         const fresh = await fetchFundamentals(ticker);
-        return mergeCacheEntry(cache, ticker, fresh, 'sec');
+        const entry = mergeCacheEntry(cache, ticker, fresh, 'sec');
+        // Only when the fetch itself succeeded (fresh carries a lastFiledDate)
+        // but still predates the filing the peek saw - a failed fetch leaves
+        // this unset so tomorrow's run retries it.
+        if (fresh.lastFiledDate && fresh.lastFiledDate < latestFiled) {
+          entry.lastSeenFilingDate = latestFiled;
+          tickerLog.checked.push('fundamentals(filing ' + latestFiled + ' not in companyfacts yet)');
+        }
+        return entry;
       }
     }
     tickerLog.checked.push('fundamentals(due-soon, nothing new)');

@@ -1308,4 +1308,5 @@ module.exports = {
   // companyfacts.json, and latestPeriodicFilingDate() reads that peek's result.
   resolveCik,
   latestPeriodicFilingDate,
+  nextExpectedFilingDate,
 };
