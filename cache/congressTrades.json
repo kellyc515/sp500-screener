@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-05T17:58:03.737Z"
+    "updatedAt": "2026-11-06T17:25:44.529Z"
   },
   "trades": [
     {
@@ -43,6 +43,19 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf|AMAT|2026-10-26|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "AMAT",
+      "member": "Josh Gottheimer",
+      "district": "NJ05",
+      "assetDescription": "Applied Materials, Inc. - Common Stock",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-26",
+      "disclosureDate": "2026-11-05",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf|ASML|2026-10-23|Sale|$15,001 - $50,000",
       "chamber": "House",
       "ticker": "ASML",
@@ -67,6 +80,45 @@
       "transactionDate": "2026-10-23",
       "disclosureDate": "2026-10-29",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf|CSCO|2026-10-23|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "CSCO",
+      "member": "Maria Elvira Salazar",
+      "district": "FL27",
+      "assetDescription": "Cisco Systems Inc",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-23",
+      "disclosureDate": "2026-11-05",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf|NVDA|2026-10-23|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "NVDA",
+      "member": "Maria Elvira Salazar",
+      "district": "FL27",
+      "assetDescription": "NVIDIA Corporation",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-23",
+      "disclosureDate": "2026-11-05",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf|PG|2026-10-23|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "PG",
+      "member": "Maria Elvira Salazar",
+      "district": "FL27",
+      "assetDescription": "The Procter & Gamble Co",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-23",
+      "disclosureDate": "2026-11-05",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf|HD|2026-10-22|Sale|$1,001 - $15,000",
@@ -132,6 +184,58 @@
       "transactionDate": "2026-10-21",
       "disclosureDate": "2026-10-28",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/|AAPL|2026-10-21|Sale|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "AAPL",
+      "member": "Shelley Moore Capito",
+      "district": "WV",
+      "assetDescription": "Apple Inc",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-21",
+      "disclosureDate": "2026-11-05",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/|META|2026-10-21|Sale|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "META",
+      "member": "Shelley Moore Capito",
+      "district": "WV",
+      "assetDescription": "Meta Platforms Inc",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-21",
+      "disclosureDate": "2026-11-05",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/|MSFT|2026-10-21|Sale|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "MSFT",
+      "member": "Shelley Moore Capito",
+      "district": "WV",
+      "assetDescription": "Microsoft Corp",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-21",
+      "disclosureDate": "2026-11-05",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/|ZTS|2026-10-21|Sale|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "ZTS",
+      "member": "Shelley Moore Capito",
+      "district": "WV",
+      "assetDescription": "Zoetis Inc",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-21",
+      "disclosureDate": "2026-11-05",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf|IBM|2026-10-20|Sale|$1,001 - $15,000",
@@ -329,6 +433,19 @@
       "link": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf|TLK|2026-10-15|Sale (Full)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "TLK",
+      "member": "Josh Gottheimer",
+      "district": "NJ05",
+      "assetDescription": "PT Telekomunikasi Indonesia, Tbk",
+      "type": "Sale (Full)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-15",
+      "disclosureDate": "2026-11-05",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf|CVX|2026-10-14|Sale|$15,001 - $50,000",
       "chamber": "House",
       "ticker": "CVX",
@@ -405,6 +522,19 @@
       "transactionDate": "2026-10-12",
       "disclosureDate": "2026-10-16",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf|BHE|2026-10-12|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "BHE",
+      "member": "Josh Gottheimer",
+      "district": "NJ05",
+      "assetDescription": "Benchmark Electronics, Inc. Common Stock",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-12",
+      "disclosureDate": "2026-11-05",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf|T|2026-10-09|Purchase|$1,001 - $15,000",
@@ -1341,6 +1471,19 @@
       "transactionDate": "2026-09-25",
       "disclosureDate": "2026-11-02",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035662.pdf|NVDA|2026-09-25|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "NVDA",
+      "member": "Daniel Meuser",
+      "district": "PA09",
+      "assetDescription": "NVIDIA Corporation",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-25",
+      "disclosureDate": "2026-11-05",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035662.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf|GS|2026-09-24|Sale|$1,001 - $15,000",
