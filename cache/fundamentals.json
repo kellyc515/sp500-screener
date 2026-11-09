@@ -2665,7 +2665,7 @@
     "operatingMargin": 36.63,
     "marginTrend": 5.28,
     "source": "sec",
-    "updatedAt": "2026-11-05T17:58:21.521Z",
+    "updatedAt": "2026-11-09T20:40:03.170Z",
     "annualFcf": 9852000000,
     "annualFcfPeriodEnd": "2025-11-28",
     "sharesOutstanding": 389200000,
@@ -2914,8 +2914,8 @@
       "accession": "0000796343-26-000003",
       "filingDate": "2026-01-15",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 342,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 346,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:07.184Z",
@@ -3737,7 +3737,7 @@
     "revenueGrowth": -0.37,
     "epsGrowth": -46.61,
     "source": "sec",
-    "updatedAt": "2026-11-04T17:57:57.582Z",
+    "updatedAt": "2026-11-09T20:40:14.857Z",
     "annualFcf": -1623000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 713564658,
@@ -3846,8 +3846,8 @@
       "accession": "0000874761-26-000063",
       "filingDate": "2026-03-02",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-04",
-      "currentPeriodAgeDays": 308,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:08.321Z",
@@ -5461,7 +5461,7 @@
     "operatingMargin": 20.78,
     "marginTrend": -2.22,
     "source": "sec",
-    "updatedAt": "2026-11-06T17:26:18.413Z",
+    "updatedAt": "2026-11-09T20:40:36.321Z",
     "annualFcf": 3405000000,
     "annualFcfPeriodEnd": "2022-12-31",
     "sharesOutstanding": null,
@@ -5729,8 +5729,8 @@
       "accession": "0001559720-26-000004",
       "filingDate": "2026-02-12",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-06",
-      "currentPeriodAgeDays": 310,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:10.632Z",
@@ -6036,19 +6036,19 @@
   "AKAM": {
     "name": "AKAMAI TECHNOLOGIES INC",
     "sector": "Services-Business Services, NEC",
-    "roe": 9.52,
+    "roe": 8.78,
     "secEps": 3.07,
-    "secBookValuePerShare": 33.0408,
+    "secBookValuePerShare": 35.6975,
     "revenueGrowth": 6.96,
     "epsGrowth": -6.12,
     "fcfGrowth": -10.43,
     "operatingMargin": 12.63,
     "marginTrend": -7.01,
     "source": "sec",
-    "updatedAt": "2026-11-05T17:58:42.826Z",
+    "updatedAt": "2026-11-09T20:40:42.338Z",
     "annualFcf": 1010979000,
     "annualFcfPeriodEnd": "2025-12-31",
-    "sharesOutstanding": 143716609,
+    "sharesOutstanding": 144229175,
     "sic": 7389,
     "annualOcf": 1518765000,
     "annualCapex": 507786000,
@@ -6272,12 +6272,36 @@
       "accession": "0001086222-26-000022",
       "filingDate": "2026-02-20",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:11.185Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-09-30",
+        "form": "10-Q",
+        "filed": "2026-11-06",
+        "accession": "0001086222-26-000100",
+        "assets": 15546924000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 1149359000,
+          "end": "2026-09-30",
+          "form": "10-Q",
+          "filed": "2026-11-06",
+          "accn": "0001086222-26-000100",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
       {
         "date": "2026-06-30",
         "form": "10-Q",
@@ -6329,8 +6353,8 @@
       {
         "date": "2025-12-31",
         "form": "10-Q",
-        "filed": "2026-08-07",
-        "accession": "0001086222-26-000086",
+        "filed": "2026-11-06",
+        "accession": "0001086222-26-000100",
         "assets": 11479643000,
         "debt": {
           "value": null,
@@ -6341,8 +6365,8 @@
           "value": 930231000,
           "end": "2025-12-31",
           "form": "10-Q",
-          "filed": "2026-08-07",
-          "accn": "0001086222-26-000086",
+          "filed": "2026-11-06",
+          "accn": "0001086222-26-000100",
           "frame": "CY2025Q4I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
@@ -6367,7 +6391,7 @@
           "form": "10-Q",
           "filed": "2025-11-07",
           "accn": "0001086222-25-000256",
-          "frame": "CY2025Q3I",
+          "frame": null,
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
         },
@@ -6399,8 +6423,8 @@
         "reason": "no supported debt representation at balance date"
       }
     ],
-    "lastFiledDate": "2026-08-07",
-    "nextExpectedFilingDate": "2026-11-06"
+    "lastFiledDate": "2026-11-06",
+    "nextExpectedFilingDate": "2027-02-05"
   },
   "ALB": {
     "name": "ALBEMARLE CORP",
@@ -8946,7 +8970,7 @@
     "operatingMargin": 32.03,
     "marginTrend": -0.08,
     "source": "sec",
-    "updatedAt": "2026-11-05T17:59:06.313Z",
+    "updatedAt": "2026-11-09T20:41:20.014Z",
     "annualFcf": 73266000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 12294000000,
@@ -9228,8 +9252,8 @@
       "accession": "0001652044-26-000018",
       "filingDate": "2026-02-05",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:16.494Z",
@@ -10142,7 +10166,7 @@
     "operatingMargin": 42.52,
     "marginTrend": -4.28,
     "source": "sec",
-    "updatedAt": "2026-11-05T17:59:12.398Z",
+    "updatedAt": "2026-11-09T20:41:30.939Z",
     "annualFcf": 9074000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 1663436915,
@@ -10446,8 +10470,8 @@
       "accession": "0000764180-26-000017",
       "filingDate": "2026-02-25",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:17.425Z",
@@ -11502,7 +11526,7 @@
     "operatingMargin": 8.08,
     "marginTrend": 1.36,
     "source": "sec",
-    "updatedAt": "2026-11-06T17:26:53.287Z",
+    "updatedAt": "2026-11-09T20:41:42.254Z",
     "annualFcf": 443900000,
     "annualFcfPeriodEnd": "2019-06-30",
     "sharesOutstanding": 462345690,
@@ -11788,8 +11812,8 @@
       "accession": "0001748790-25-000023",
       "filingDate": "2025-08-15",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-06",
-      "currentPeriodAgeDays": 494,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 497,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:18.095Z",
@@ -12106,7 +12130,7 @@
     "operatingMargin": 23.03,
     "marginTrend": 3.14,
     "source": "sec",
-    "updatedAt": "2026-11-05T17:59:21.216Z",
+    "updatedAt": "2026-11-09T20:41:47.905Z",
     "annualFcf": -775000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 276843251,
@@ -12410,8 +12434,8 @@
       "accession": "0001002910-26-000009",
       "filingDate": "2026-02-18",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:18.722Z",
@@ -13904,7 +13928,7 @@
     "operatingMargin": 45.52,
     "marginTrend": 0.92,
     "source": "sec",
-    "updatedAt": "2026-11-04T17:58:58.961Z",
+    "updatedAt": "2026-11-09T20:42:09.804Z",
     "annualFcf": 3783600000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 463763555,
@@ -14196,8 +14220,8 @@
       "accession": "0001053507-26-000035",
       "filingDate": "2026-02-24",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-04",
-      "currentPeriodAgeDays": 308,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:20.996Z",
@@ -15383,7 +15407,7 @@
     "operatingMargin": 25.81,
     "marginTrend": 0.17,
     "source": "sec",
-    "updatedAt": "2026-11-04T17:59:07.720Z",
+    "updatedAt": "2026-11-09T20:42:26.632Z",
     "annualFcf": 1671515000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 229317998,
@@ -15632,8 +15656,8 @@
       "accession": "0001037868-26-000016",
       "filingDate": "2026-02-17",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-04",
-      "currentPeriodAgeDays": 308,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:23.537Z",
@@ -15865,7 +15889,7 @@
     "operatingMargin": 24.71,
     "marginTrend": 3,
     "source": "sec",
-    "updatedAt": "2026-11-04T17:59:11.039Z",
+    "updatedAt": "2026-11-09T20:42:32.419Z",
     "annualFcf": 8100000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 540911490,
@@ -16147,8 +16171,8 @@
       "accession": "0000318154-26-000010",
       "filingDate": "2026-02-13",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-04",
-      "currentPeriodAgeDays": 308,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:24.276Z",
@@ -16464,7 +16488,7 @@
     "operatingMargin": 25.41,
     "marginTrend": 4.67,
     "source": "sec",
-    "updatedAt": "2026-11-02T20:18:51.728Z",
+    "updatedAt": "2026-11-09T20:42:38.084Z",
     "annualFcf": 4378100000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 2469261188,
@@ -16764,8 +16788,8 @@
       "accession": "0001104659-26-013549",
       "filingDate": "2026-02-11",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-02",
-      "currentPeriodAgeDays": 306,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:24.919Z",
@@ -19043,7 +19067,7 @@
     "operatingMargin": 33.01,
     "marginTrend": 1.04,
     "source": "sec",
-    "updatedAt": "2026-11-03T17:49:02.173Z",
+    "updatedAt": "2026-11-09T20:43:05.361Z",
     "annualFcf": 136056000000,
     "annualFcfPeriodEnd": "2026-09-26",
     "sharesOutstanding": 14532182000,
@@ -19325,8 +19349,8 @@
       "accession": "0000320193-26-000026",
       "filingDate": "2026-11-03",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-03",
-      "currentPeriodAgeDays": 38,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 44,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:27.421Z",
@@ -21398,7 +21422,7 @@
     "revenueGrowth": 14.27,
     "epsGrowth": 3.66,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:00:14.459Z",
+    "updatedAt": "2026-11-09T20:43:27.487Z",
     "annualFcf": null,
     "annualFcfPeriodEnd": null,
     "sharesOutstanding": 325525336,
@@ -21493,8 +21517,8 @@
       "accession": "0000947484-26-000017",
       "filingDate": "2026-02-26",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:29.342Z",
@@ -22140,12 +22164,12 @@
   "ARES": {
     "name": "Ares Management Corp",
     "sector": "Investment Advice",
-    "roe": 13.29,
+    "roe": 13.77,
     "secEps": 6.5627,
-    "secBookValuePerShare": 38.401,
+    "secBookValuePerShare": 37.0699,
     "revenueGrowth": 44.19,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:00:20.643Z",
+    "updatedAt": "2026-11-09T20:43:38.941Z",
     "annualFcf": -1435521000,
     "annualFcfPeriodEnd": "2018-12-31",
     "sharesOutstanding": 103332418,
@@ -22215,6 +22239,21 @@
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:30.124Z",
     "netDebtBalanceCandidates": [
       {
+        "date": "2026-09-30",
+        "form": "10-Q",
+        "filed": "2026-11-06",
+        "accession": "0001628280-26-071628",
+        "assets": 30287348000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": null,
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
+      {
         "date": "2026-06-30",
         "form": "10-Q",
         "filed": "2026-08-07",
@@ -22247,8 +22286,8 @@
       {
         "date": "2025-12-31",
         "form": "10-Q",
-        "filed": "2026-08-07",
-        "accession": "0001628280-26-054538",
+        "filed": "2026-11-06",
+        "accession": "0001628280-26-071628",
         "assets": 28633369000,
         "debt": {
           "value": null,
@@ -22290,8 +22329,8 @@
         "reason": "no supported debt representation at balance date"
       }
     ],
-    "lastFiledDate": "2026-08-07",
-    "nextExpectedFilingDate": "2026-11-06"
+    "lastFiledDate": "2026-11-06",
+    "nextExpectedFilingDate": "2027-02-05"
   },
   "ANET": {
     "name": "Arista Networks, Inc.",
@@ -23015,7 +23054,7 @@
     "epsGrowth": 17.08,
     "fcfGrowth": 43.82,
     "source": "sec",
-    "updatedAt": "2026-11-06T17:28:04.851Z",
+    "updatedAt": "2026-11-09T20:43:55.272Z",
     "annualFcf": 1598400000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 49066851,
@@ -23121,8 +23160,8 @@
       "accession": "0001267238-26-000010",
       "filingDate": "2026-02-19",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-06",
-      "currentPeriodAgeDays": 310,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:31.356Z",
@@ -23774,7 +23813,7 @@
     "operatingMargin": 33.17,
     "marginTrend": 0.63,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:00:36.183Z",
+    "updatedAt": "2026-11-09T20:44:06.408Z",
     "annualFcf": null,
     "annualFcfPeriodEnd": null,
     "sharesOutstanding": 168988553,
@@ -24060,8 +24099,8 @@
       "accession": "0000731802-25-000056",
       "filingDate": "2025-11-14",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 401,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 405,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:32.445Z",
@@ -24372,7 +24411,7 @@
     "operatingMargin": 21.9,
     "marginTrend": -0.18,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:00:39.206Z",
+    "updatedAt": "2026-11-09T20:44:12.073Z",
     "annualFcf": 2409000000,
     "annualFcfPeriodEnd": "2026-01-31",
     "sharesOutstanding": 209000000,
@@ -24610,8 +24649,8 @@
       "accession": "0000769397-26-000015",
       "filingDate": "2026-03-03",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 278,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 282,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:33.008Z",
@@ -28904,15 +28943,15 @@
   "BRK.B": {
     "name": "BERKSHIRE HATHAWAY INC",
     "sector": "Fire, Marine & Casualty Insurance",
-    "roe": 8.95,
+    "roe": 8.8,
     "secEps": 3035,
-    "secBookValuePerShare": 794397.3378,
+    "secBookValuePerShare": 808691.8376,
     "revenueGrowth": 0,
     "fcfGrowth": 115.58,
     "operatingMargin": 12.36,
     "marginTrend": 0.4,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:01:10.968Z",
+    "updatedAt": "2026-11-09T20:45:06.276Z",
     "annualFcf": 25042000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 941481,
@@ -29136,11 +29175,26 @@
       "accession": "0001193125-15-070966",
       "filingDate": "2015-03-02",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 4327
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 4331
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:40.977Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-09-30",
+        "form": "10-Q",
+        "filed": "2026-11-09",
+        "accession": "0001193125-26-452412",
+        "assets": 1303907000000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": null,
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
       {
         "date": "2026-06-30",
         "form": "10-Q",
@@ -29174,8 +29228,8 @@
       {
         "date": "2025-12-31",
         "form": "10-Q",
-        "filed": "2026-08-10",
-        "accession": "0001193125-26-341032",
+        "filed": "2026-11-09",
+        "accession": "0001193125-26-452412",
         "assets": 1222176000000,
         "debt": {
           "value": null,
@@ -29217,8 +29271,8 @@
         "reason": "no supported debt representation at balance date"
       }
     ],
-    "lastFiledDate": "2026-08-10",
-    "nextExpectedFilingDate": "2026-11-09"
+    "lastFiledDate": "2026-11-09",
+    "nextExpectedFilingDate": "2027-02-08"
   },
   "BBY": {
     "name": "BEST BUY CO INC",
@@ -29827,20 +29881,20 @@
   "TECH": {
     "name": "BIO-TECHNE Corp",
     "sector": "Biological Products, (No Diagnostic Substances)",
-    "roe": 3.48,
-    "debtEquity": 0.006,
+    "roe": 3.39,
+    "debtEquity": 0.098,
     "secEps": 1.16,
-    "secBookValuePerShare": 13.4234,
+    "secBookValuePerShare": 13.7862,
     "revenueGrowth": -0.38,
     "epsGrowth": 152.17,
     "fcfGrowth": 2.6,
     "operatingMargin": 20.73,
     "marginTrend": 12.35,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:01:17.777Z",
+    "updatedAt": "2026-11-09T20:45:17.927Z",
     "annualFcf": 263223000,
     "annualFcfPeriodEnd": "2026-06-30",
-    "sharesOutstanding": 157055564,
+    "sharesOutstanding": 157090727,
     "sic": 2836,
     "annualOcf": 292073000,
     "annualCapex": 28850000,
@@ -29941,7 +29995,7 @@
           "form": "10-K",
           "filed": "2026-08-24",
           "accn": "0001104659-26-100322",
-          "frame": "CY2026Q2I",
+          "frame": null,
           "offsetDays": 0,
           "tagName": "StockholdersEquity"
         },
@@ -29951,7 +30005,7 @@
           "form": "10-K",
           "filed": "2026-08-24",
           "accn": "0001104659-26-100322",
-          "frame": "CY2026Q2I",
+          "frame": null,
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
         },
@@ -29961,7 +30015,7 @@
           "form": "10-K",
           "filed": "2026-08-24",
           "accn": "0001104659-26-100322",
-          "frame": "CY2026Q2I",
+          "frame": null,
           "offsetDays": 0,
           "tagName": "Assets"
         },
@@ -30064,17 +30118,52 @@
       "accession": "0001104659-26-100322",
       "filingDate": "2026-08-24",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 128,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 132,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:42.681Z",
     "netDebtBalanceCandidates": [
       {
+        "date": "2026-09-30",
+        "form": "10-Q",
+        "filed": "2026-11-06",
+        "accession": "0001104659-26-123907",
+        "assets": 2636820000,
+        "debt": {
+          "value": null,
+          "reason": "incomplete conventional current/noncurrent debt representation",
+          "facts": [
+            {
+              "value": 200000000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-11-06",
+              "accn": "0001104659-26-123907",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "ShortTermBorrowings"
+            }
+          ]
+        },
+        "cash": {
+          "value": 350036000,
+          "end": "2026-09-30",
+          "form": "10-Q",
+          "filed": "2026-11-06",
+          "accn": "0001104659-26-123907",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "incomplete conventional current/noncurrent debt representation"
+      },
+      {
         "date": "2026-06-30",
-        "form": "10-K",
-        "filed": "2026-08-24",
-        "accession": "0001104659-26-100322",
+        "form": "10-Q",
+        "filed": "2026-11-06",
+        "accession": "0001104659-26-123907",
         "assets": 2586726000,
         "debt": {
           "value": null,
@@ -30084,9 +30173,9 @@
         "cash": {
           "value": 264712000,
           "end": "2026-06-30",
-          "form": "10-K",
-          "filed": "2026-08-24",
-          "accn": "0001104659-26-100322",
+          "form": "10-Q",
+          "filed": "2026-11-06",
+          "accn": "0001104659-26-123907",
           "frame": "CY2026Q2I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
@@ -30191,8 +30280,8 @@
         "reason": "no supported debt representation at balance date"
       }
     ],
-    "lastFiledDate": "2026-08-24",
-    "nextExpectedFilingDate": "2026-11-23"
+    "lastFiledDate": "2026-11-06",
+    "nextExpectedFilingDate": "2027-02-05"
   },
   "BIIB": {
     "name": "BIOGEN INC.",
@@ -30517,7 +30606,7 @@
     "operatingMargin": 29.09,
     "marginTrend": -8.02,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:01:24.549Z",
+    "updatedAt": "2026-11-09T20:45:29.063Z",
     "annualFcf": 3552000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 154926181,
@@ -30741,8 +30830,8 @@
       "accession": "0001193125-26-071966",
       "filingDate": "2026-02-25",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:43.848Z",
@@ -30898,17 +30987,17 @@
   "BX": {
     "name": "Blackstone Inc.",
     "sector": "Investment Advice",
-    "roe": 33.49,
+    "roe": 34.16,
     "secEps": 3.87,
-    "secBookValuePerShare": 12.0094,
+    "secBookValuePerShare": 11.7667,
     "revenueGrowth": 9.22,
     "epsGrowth": 6.91,
     "fcfGrowth": 32.96,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:01:27.862Z",
+    "updatedAt": "2026-11-09T20:45:35.110Z",
     "annualFcf": 4547458000,
     "annualFcfPeriodEnd": "2025-12-31",
-    "sharesOutstanding": 750625114,
+    "sharesOutstanding": 751115317,
     "sic": 6282,
     "annualOcf": 4663161000,
     "annualCapex": 115703000,
@@ -31011,12 +31100,36 @@
       "accession": "0001193125-26-082531",
       "filingDate": "2026-02-27",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:44.289Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-09-30",
+        "form": "10-Q",
+        "filed": "2026-11-06",
+        "accession": "0001193125-26-451802",
+        "assets": 49635967000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 3037534000,
+          "end": "2026-09-30",
+          "form": "10-Q",
+          "filed": "2026-11-06",
+          "accn": "0001193125-26-451802",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
       {
         "date": "2026-06-30",
         "form": "10-Q",
@@ -31068,8 +31181,8 @@
       {
         "date": "2025-12-31",
         "form": "10-Q",
-        "filed": "2026-08-07",
-        "accession": "0001193125-26-340208",
+        "filed": "2026-11-06",
+        "accession": "0001193125-26-451802",
         "assets": 47708975000,
         "debt": {
           "value": null,
@@ -31080,8 +31193,8 @@
           "value": 2631241000,
           "end": "2025-12-31",
           "form": "10-Q",
-          "filed": "2026-08-07",
-          "accn": "0001193125-26-340208",
+          "filed": "2026-11-06",
+          "accn": "0001193125-26-451802",
           "frame": "CY2025Q4I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
@@ -31138,8 +31251,8 @@
         "reason": "no supported debt representation at balance date"
       }
     ],
-    "lastFiledDate": "2026-08-07",
-    "nextExpectedFilingDate": "2026-11-06"
+    "lastFiledDate": "2026-11-06",
+    "nextExpectedFilingDate": "2027-02-05"
   },
   "XYZ": {
     "name": "Block, Inc.",
@@ -33329,7 +33442,7 @@
     "revenueGrowth": -0.22,
     "fcfGrowth": -7.87,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:01:49.315Z",
+    "updatedAt": "2026-11-09T20:46:10.979Z",
     "annualFcf": 12845000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 2044085831,
@@ -33438,8 +33551,8 @@
       "accession": "0000014272-26-000004",
       "filingDate": "2026-02-11",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:47.198Z",
@@ -36650,7 +36763,7 @@
     "epsGrowth": -38.55,
     "fcfGrowth": -267.75,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:02:04.091Z",
+    "updatedAt": "2026-11-09T20:46:38.019Z",
     "annualFcf": -879000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 192143784,
@@ -36759,8 +36872,8 @@
       "accession": "0001628280-26-009842",
       "filingDate": "2026-02-19",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:50.672Z",
@@ -37139,7 +37252,7 @@
     "operatingMargin": 34.9,
     "marginTrend": 2.53,
     "source": "sec",
-    "updatedAt": "2026-11-06T17:29:41.943Z",
+    "updatedAt": "2026-11-09T20:46:43.828Z",
     "annualFcf": null,
     "annualFcfPeriodEnd": null,
     "sharesOutstanding": 159661556,
@@ -37330,8 +37443,8 @@
       "accession": "0001037540-26-000006",
       "filingDate": "2026-02-27",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-06",
-      "currentPeriodAgeDays": 310,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:51.018Z",
@@ -41793,7 +41906,7 @@
     "operatingMargin": 16.5,
     "marginTrend": -3.67,
     "source": "sec",
-    "updatedAt": "2026-11-04T18:02:01.159Z",
+    "updatedAt": "2026-11-09T20:47:37.496Z",
     "annualFcf": 8918000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 457594174,
@@ -42062,8 +42175,8 @@
       "accession": "0000018230-26-000008",
       "filingDate": "2026-02-13",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-04",
-      "currentPeriodAgeDays": 308,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:57.864Z",
@@ -42250,7 +42363,7 @@
     "operatingMargin": 16.68,
     "marginTrend": -28.71,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:02:41.564Z",
+    "updatedAt": "2026-11-09T20:47:43.183Z",
     "annualFcf": 1681600000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 104330235,
@@ -42510,8 +42623,8 @@
       "accession": "0001628280-26-010013",
       "filingDate": "2026-02-20",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:00:58.495Z",
@@ -46469,18 +46582,18 @@
   "SCHW": {
     "name": "SCHWAB CHARLES CORP",
     "sector": "Security Brokers, Dealers & Flotation Companies",
-    "roe": 17.65,
-    "debtEquity": 0.34,
+    "roe": 17.21,
+    "debtEquity": 0.331,
     "secEps": 4.65,
-    "secBookValuePerShare": 28.9978,
+    "secBookValuePerShare": 29.8064,
     "revenueGrowth": 22.01,
     "epsGrowth": 55.52,
     "fcfGrowth": 327.46,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:03:07.014Z",
+    "updatedAt": "2026-11-09T20:48:26.933Z",
     "annualFcf": 8763000000,
     "annualFcfPeriodEnd": "2025-12-31",
-    "sharesOutstanding": 1729335714,
+    "sharesOutstanding": 1726007705,
     "sic": 6211,
     "annualOcf": 9311000000,
     "annualCapex": 548000000,
@@ -46583,12 +46696,60 @@
       "accession": "0000316709-26-000009",
       "filingDate": "2026-02-25",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:04.672Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-09-30",
+        "form": "10-Q",
+        "filed": "2026-11-06",
+        "accession": "0000316709-26-000038",
+        "assets": 520674000000,
+        "debt": {
+          "value": 23808000000,
+          "reason": null,
+          "method": [
+            "LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities"
+          ],
+          "facts": [
+            {
+              "value": 23808000000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-11-06",
+              "accn": "0000316709-26-000038",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities"
+            },
+            {
+              "value": 23808000000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-11-06",
+              "accn": "0000316709-26-000038",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtAndCapitalLeaseObligations"
+            }
+          ]
+        },
+        "cash": {
+          "value": 36657000000,
+          "end": "2026-09-30",
+          "form": "10-Q",
+          "filed": "2026-11-06",
+          "accn": "0000316709-26-000038",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": -12849000000,
+        "reason": null
+      },
       {
         "date": "2026-06-30",
         "form": "10-Q",
@@ -46688,8 +46849,8 @@
       {
         "date": "2025-12-31",
         "form": "10-Q",
-        "filed": "2026-08-07",
-        "accession": "0000316709-26-000031",
+        "filed": "2026-11-06",
+        "accession": "0000316709-26-000038",
         "assets": 490995000000,
         "debt": {
           "value": 22199000000,
@@ -46702,8 +46863,8 @@
               "value": 22199000000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-08-07",
-              "accn": "0000316709-26-000031",
+              "filed": "2026-11-06",
+              "accn": "0000316709-26-000038",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities"
@@ -46712,8 +46873,8 @@
               "value": 22199000000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-08-07",
-              "accn": "0000316709-26-000031",
+              "filed": "2026-11-06",
+              "accn": "0000316709-26-000038",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtAndCapitalLeaseObligations"
@@ -46724,8 +46885,8 @@
           "value": 46030000000,
           "end": "2025-12-31",
           "form": "10-Q",
-          "filed": "2026-08-07",
-          "accn": "0000316709-26-000031",
+          "filed": "2026-11-06",
+          "accn": "0000316709-26-000038",
           "frame": "CY2025Q4I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
@@ -46774,7 +46935,7 @@
           "form": "10-Q",
           "filed": "2025-11-07",
           "accn": "0000316709-25-000051",
-          "frame": "CY2025Q3I",
+          "frame": null,
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
         },
@@ -46830,23 +46991,23 @@
         "reason": null
       }
     ],
-    "lastFiledDate": "2026-08-07",
-    "nextExpectedFilingDate": "2026-11-06"
+    "lastFiledDate": "2026-11-06",
+    "nextExpectedFilingDate": "2027-02-05"
   },
   "CHTR": {
     "name": "CHARTER COMMUNICATIONS, INC. /MO/",
     "sector": "Cable & Other Pay Television Services",
-    "roe": 29.42,
-    "debtEquity": 6.007,
+    "roe": 45.41,
+    "debtEquity": 10.464,
     "secEps": 36.21,
-    "secBookValuePerShare": 62.5702,
+    "secBookValuePerShare": 40.5385,
     "revenueGrowth": -0.56,
     "epsGrowth": 3.55,
     "fcfGrowth": 39.77,
     "operatingMargin": 23.57,
     "marginTrend": -0.24,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:03:10.036Z",
+    "updatedAt": "2026-11-09T20:48:32.846Z",
     "annualFcf": 4418000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 270927828,
@@ -47128,12 +47289,61 @@
       "accession": "0001091667-26-000017",
       "filingDate": "2026-01-30",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:05.004Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-09-30",
+        "form": "10-Q",
+        "filed": "2026-11-06",
+        "accession": "0001091667-26-000073",
+        "assets": 178465000000,
+        "debt": {
+          "value": 107052000000,
+          "reason": null,
+          "method": [
+            "LongTermDebtCurrent",
+            "LongTermDebtNoncurrent"
+          ],
+          "facts": [
+            {
+              "value": 1990000000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-11-06",
+              "accn": "0001091667-26-000073",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            },
+            {
+              "value": 105062000000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-11-06",
+              "accn": "0001091667-26-000073",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtNoncurrent"
+            }
+          ]
+        },
+        "cash": {
+          "value": 573000000,
+          "end": "2026-09-30",
+          "form": "10-Q",
+          "filed": "2026-11-06",
+          "accn": "0001091667-26-000073",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": 106479000000,
+        "reason": null
+      },
       {
         "date": "2026-06-30",
         "form": "10-Q",
@@ -47235,8 +47445,8 @@
       {
         "date": "2025-12-31",
         "form": "10-Q",
-        "filed": "2026-07-24",
-        "accession": "0001091667-26-000052",
+        "filed": "2026-11-06",
+        "accession": "0001091667-26-000073",
         "assets": 154213000000,
         "debt": {
           "value": 94756000000,
@@ -47250,8 +47460,8 @@
               "value": 750000000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-07-24",
-              "accn": "0001091667-26-000052",
+              "filed": "2026-11-06",
+              "accn": "0001091667-26-000073",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtCurrent"
@@ -47260,8 +47470,8 @@
               "value": 94006000000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-07-24",
-              "accn": "0001091667-26-000052",
+              "filed": "2026-11-06",
+              "accn": "0001091667-26-000073",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtNoncurrent"
@@ -47272,8 +47482,8 @@
           "value": 477000000,
           "end": "2025-12-31",
           "form": "10-Q",
-          "filed": "2026-07-24",
-          "accn": "0001091667-26-000052",
+          "filed": "2026-11-06",
+          "accn": "0001091667-26-000073",
           "frame": "CY2025Q4I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
@@ -47380,8 +47590,8 @@
         "reason": null
       }
     ],
-    "lastFiledDate": "2026-07-24",
-    "nextExpectedFilingDate": "2026-10-23"
+    "lastFiledDate": "2026-11-06",
+    "nextExpectedFilingDate": "2027-02-05"
   },
   "CVX": {
     "name": "CHEVRON CORP",
@@ -49495,7 +49705,7 @@
     "operatingMargin": 3.35,
     "marginTrend": -0.46,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:03:28.868Z",
+    "updatedAt": "2026-11-09T20:49:04.996Z",
     "annualFcf": 8435000000,
     "annualFcfPeriodEnd": "2019-12-31",
     "sharesOutstanding": 263502561,
@@ -49841,7 +50051,7 @@
     "epsGrowth": 4.4,
     "fcfGrowth": 17.7,
     "source": "sec",
-    "updatedAt": "2026-11-03T17:55:04.569Z",
+    "updatedAt": "2026-11-09T20:49:10.670Z",
     "annualFcf": 3092000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 153510324,
@@ -49947,8 +50157,8 @@
       "accession": "0000020286-26-000008",
       "filingDate": "2026-02-23",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-03",
-      "currentPeriodAgeDays": 307,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:08.805Z",
@@ -51246,7 +51456,7 @@
     "revenueGrowth": 5.04,
     "epsGrowth": 17.68,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:03:41.161Z",
+    "updatedAt": "2026-11-09T20:49:27.005Z",
     "annualFcf": -74152000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 1749319009,
@@ -51352,8 +51562,8 @@
       "accession": "0000831001-26-000011",
       "filingDate": "2026-02-20",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:10.451Z",
@@ -53087,7 +53297,7 @@
     "operatingMargin": 28.71,
     "marginTrend": 7.48,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:03:57.698Z",
+    "updatedAt": "2026-11-09T20:49:54.239Z",
     "annualFcf": 5296000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 4301902335,
@@ -53387,8 +53597,8 @@
       "accession": "0001628280-26-010047",
       "filingDate": "2026-02-20",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:12.930Z",
@@ -54319,7 +54529,7 @@
     "operatingMargin": 2.04,
     "marginTrend": 2.76,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:04:03.737Z",
+    "updatedAt": "2026-11-09T20:50:05.822Z",
     "annualFcf": -1023395000,
     "annualFcfPeriodEnd": "2026-06-30",
     "sharesOutstanding": 196958669,
@@ -54596,8 +54806,8 @@
       "accession": "0000820318-26-000020",
       "filingDate": "2026-08-14",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 128,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 132,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:13.618Z",
@@ -54913,7 +55123,7 @@
     "operatingMargin": 19.99,
     "marginTrend": -15.16,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:04:07.009Z",
+    "updatedAt": "2026-11-09T20:50:11.518Z",
     "annualFcf": -1588352000,
     "annualFcfPeriodEnd": "2022-12-31",
     "sharesOutstanding": 264756000,
@@ -55198,8 +55408,8 @@
       "accession": "0001679788-26-000015",
       "filingDate": "2026-02-12",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:13.937Z",
@@ -56632,7 +56842,7 @@
     "operatingMargin": 14.44,
     "marginTrend": 3.78,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:04:16.616Z",
+    "updatedAt": "2026-11-09T20:50:28.636Z",
     "annualFcf": 1031453000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 34985904,
@@ -56892,8 +57102,8 @@
       "accession": "0001104659-26-017530",
       "filingDate": "2026-02-19",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:14.984Z",
@@ -57580,19 +57790,19 @@
   "ED": {
     "name": "CONSOLIDATED EDISON INC",
     "sector": "Electric & Other Services Combined",
-    "roe": 7.9,
-    "debtEquity": 1.024,
+    "roe": 7.69,
+    "debtEquity": 0.996,
     "secEps": 5.64,
-    "secBookValuePerShare": 69.4544,
+    "secBookValuePerShare": 70.8505,
     "revenueGrowth": 10.21,
     "epsGrowth": 7.63,
     "operatingMargin": 17.22,
     "marginTrend": -0.04,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:04:22.925Z",
+    "updatedAt": "2026-11-09T20:50:40.140Z",
     "annualFcf": -530000000,
     "annualFcfPeriodEnd": "2022-12-31",
-    "sharesOutstanding": 368529705,
+    "sharesOutstanding": 371133760,
     "sic": 4931,
     "annualOcf": 3935000000,
     "annualCapex": 4465000000,
@@ -57857,12 +58067,36 @@
       "accession": "0001047862-26-000031",
       "filingDate": "2026-02-19",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:15.914Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-09-30",
+        "form": "10-Q",
+        "filed": "2026-11-05",
+        "accession": "0001047862-26-000155",
+        "assets": 77190000000,
+        "debt": {
+          "value": null,
+          "reason": "no supported debt representation at balance date",
+          "facts": []
+        },
+        "cash": {
+          "value": 100000000,
+          "end": "2026-09-30",
+          "form": "10-Q",
+          "filed": "2026-11-05",
+          "accn": "0001047862-26-000155",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "no supported debt representation at balance date"
+      },
       {
         "date": "2026-03-31",
         "form": "10-Q",
@@ -57890,8 +58124,8 @@
       {
         "date": "2025-12-31",
         "form": "10-Q",
-        "filed": "2026-05-07",
-        "accession": "0001047862-26-000091",
+        "filed": "2026-11-05",
+        "accession": "0001047862-26-000155",
         "assets": 74603000000,
         "debt": {
           "value": 25801000000,
@@ -57927,8 +58161,8 @@
           "value": 1629000000,
           "end": "2025-12-31",
           "form": "10-Q",
-          "filed": "2026-05-07",
-          "accn": "0001047862-26-000091",
+          "filed": "2026-11-05",
+          "accn": "0001047862-26-000155",
           "frame": "CY2025Q4I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
@@ -57939,8 +58173,8 @@
       {
         "date": "2025-09-30",
         "form": "10-Q",
-        "filed": "2025-11-06",
-        "accession": "0001047862-25-000138",
+        "filed": "2026-11-05",
+        "accession": "0001047862-26-000155",
         "assets": 71844000000,
         "debt": {
           "value": null,
@@ -57985,8 +58219,8 @@
         "reason": "no supported debt representation at balance date"
       }
     ],
-    "lastFiledDate": "2026-05-07",
-    "nextExpectedFilingDate": "2026-08-06"
+    "lastFiledDate": "2026-11-05",
+    "nextExpectedFilingDate": "2027-02-04"
   },
   "STZ": {
     "name": "CONSTELLATION BRANDS, INC.",
@@ -58652,7 +58886,7 @@
     "operatingMargin": 12.09,
     "marginTrend": -6.38,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:04:28.964Z",
+    "updatedAt": "2026-11-09T20:50:51.645Z",
     "annualFcf": 1288000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 354307379,
@@ -58932,8 +59166,8 @@
       "accession": "0001868275-26-000032",
       "filingDate": "2026-02-24",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:16.706Z",
@@ -59174,7 +59408,8 @@
       }
     ],
     "lastFiledDate": "2026-08-06",
-    "nextExpectedFilingDate": "2026-11-05"
+    "nextExpectedFilingDate": "2026-11-05",
+    "lastSeenFilingDate": "2026-11-09"
   },
   "COO": {
     "name": "COOPER COMPANIES, INC.",
@@ -63034,7 +63269,7 @@
     "secBookValuePerShare": 4.9825,
     "fcfGrowth": 16.27,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:04:53.922Z",
+    "updatedAt": "2026-11-09T20:51:35.720Z",
     "annualFcf": 1310241000,
     "annualFcfPeriodEnd": "2026-01-31",
     "sharesOutstanding": 1023934842,
@@ -63280,8 +63515,8 @@
       "accession": "0001535527-26-000010",
       "filingDate": "2026-03-05",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 278,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 282,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:20.852Z",
@@ -64047,7 +64282,7 @@
     "operatingMargin": 32.08,
     "marginTrend": -3.99,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:05:00.033Z",
+    "updatedAt": "2026-11-09T20:51:47.060Z",
     "annualFcf": 1711000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 1843398210,
@@ -64324,8 +64559,8 @@
       "accession": "0000277948-26-000006",
       "filingDate": "2026-02-12",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:22.270Z",
@@ -65232,7 +65467,7 @@
     "operatingMargin": 1.16,
     "marginTrend": -1.12,
     "source": "sec",
-    "updatedAt": "2026-11-04T18:04:30.639Z",
+    "updatedAt": "2026-11-09T20:51:58.797Z",
     "annualFcf": 7807000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 1279474188,
@@ -65524,8 +65759,8 @@
       "accession": "0000064803-26-000010",
       "filingDate": "2026-02-10",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-04",
-      "currentPeriodAgeDays": 308,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:23.591Z",
@@ -71487,7 +71722,7 @@
     "operatingMargin": 5.16,
     "marginTrend": 0.94,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:05:45.665Z",
+    "updatedAt": "2026-11-09T20:53:08.177Z",
     "annualFcf": null,
     "annualFcfPeriodEnd": null,
     "sharesOutstanding": 220616790,
@@ -71755,8 +71990,8 @@
       "accession": "0001104659-26-032325",
       "filingDate": "2026-03-20",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 279,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 283,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:31.577Z",
@@ -72609,7 +72844,7 @@
     "operatingMargin": 26.71,
     "marginTrend": 4.25,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:05:51.918Z",
+    "updatedAt": "2026-11-09T20:53:19.743Z",
     "annualFcf": 224000000,
     "annualFcfPeriodEnd": "2019-12-31",
     "sharesOutstanding": 879455403,
@@ -72877,8 +73112,8 @@
       "accession": "0001193125-26-063120",
       "filingDate": "2026-02-23",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:32.735Z",
@@ -74716,7 +74951,7 @@
     "revenueGrowth": -6.97,
     "epsGrowth": -335.67,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:06:03.890Z",
+    "updatedAt": "2026-11-09T20:53:41.319Z",
     "annualFcf": null,
     "annualFcfPeriodEnd": null,
     "sharesOutstanding": 723881907,
@@ -74811,8 +75046,8 @@
       "accession": "0001751788-26-000018",
       "filingDate": "2026-02-03",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:35.537Z",
@@ -77351,7 +77586,7 @@
     "operatingMargin": 20.51,
     "marginTrend": -2.03,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:06:21.441Z",
+    "updatedAt": "2026-11-09T20:54:14.187Z",
     "annualFcf": 1434000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 439000000,
@@ -77631,8 +77866,8 @@
       "accession": "0001065088-26-000027",
       "filingDate": "2026-02-19",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:38.431Z",
@@ -77940,7 +78175,7 @@
     "operatingMargin": -118.12,
     "marginTrend": -116.2,
     "source": "sec",
-    "updatedAt": "2026-11-03T18:00:01.389Z",
+    "updatedAt": "2026-11-09T20:54:20.239Z",
     "annualFcf": -1065104000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 47687039,
@@ -78232,8 +78467,8 @@
       "accession": "0001104659-26-021817",
       "filingDate": "2026-03-02",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-03",
-      "currentPeriodAgeDays": 307,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:39.158Z",
@@ -78603,7 +78838,7 @@
     "operatingMargin": 17.02,
     "marginTrend": -0.78,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:06:27.188Z",
+    "updatedAt": "2026-11-09T20:54:26.471Z",
     "annualFcf": 1904300000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 280467785,
@@ -78903,8 +79138,8 @@
       "accession": "0001104659-26-018357",
       "filingDate": "2026-02-23",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:39.505Z",
@@ -79273,7 +79508,7 @@
     "operatingMargin": 36.72,
     "marginTrend": 20.07,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:06:30.225Z",
+    "updatedAt": "2026-11-09T20:54:32.268Z",
     "annualFcf": -715000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 384787221,
@@ -79577,8 +79812,8 @@
       "accession": "0000827052-26-000012",
       "filingDate": "2026-02-18",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:39.853Z",
@@ -81465,7 +81700,7 @@
     "epsGrowth": 17.78,
     "fcfGrowth": -8.44,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:06:42.342Z",
+    "updatedAt": "2026-11-09T20:54:54.156Z",
     "annualFcf": 2667000000,
     "annualFcfPeriodEnd": "2025-09-30",
     "sharesOutstanding": 557800000,
@@ -81574,8 +81809,8 @@
       "accession": "0000032604-25-000087",
       "filingDate": "2025-11-10",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 401,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 405,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:41.843Z",
@@ -86365,7 +86600,7 @@
     "operatingMargin": 22.06,
     "marginTrend": 1.82,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:07:20.361Z",
+    "updatedAt": "2026-11-09T20:55:56.224Z",
     "annualFcf": -45097000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 376674754,
@@ -86631,8 +86866,8 @@
       "accession": "0001628280-26-008461",
       "filingDate": "2026-02-17",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:47.265Z",
@@ -90931,7 +91166,7 @@
     "operatingMargin": 20.19,
     "marginTrend": 0.18,
     "source": "sec",
-    "updatedAt": "2026-11-03T18:02:43.542Z",
+    "updatedAt": "2026-11-09T20:56:50.178Z",
     "annualFcf": 1050600000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 1147301488,
@@ -91213,8 +91448,8 @@
       "accession": "0000815556-26-000009",
       "filingDate": "2026-02-05",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-03",
-      "currentPeriodAgeDays": 307,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:54.172Z",
@@ -92472,7 +92707,7 @@
     "operatingMargin": 6.14,
     "marginTrend": -9.65,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:07:58.968Z",
+    "updatedAt": "2026-11-09T20:57:06.468Z",
     "annualFcf": null,
     "annualFcfPeriodEnd": null,
     "sharesOutstanding": 149521266,
@@ -92735,8 +92970,8 @@
       "accession": "0001628280-26-053359",
       "filingDate": "2026-08-05",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 158,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 162,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:55.513Z",
@@ -93440,7 +93675,7 @@
     "operatingMargin": 16.31,
     "marginTrend": -0.57,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:08:05.121Z",
+    "updatedAt": "2026-11-09T20:57:17.643Z",
     "annualFcf": 4193000000,
     "annualFcfPeriodEnd": "2023-12-31",
     "sharesOutstanding": 515470244,
@@ -93719,8 +93954,8 @@
       "accession": "0001136893-26-000013",
       "filingDate": "2026-02-24",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:56.238Z",
@@ -94033,7 +94268,7 @@
     "epsGrowth": 12.42,
     "fcfGrowth": 63.07,
     "source": "sec",
-    "updatedAt": "2026-11-04T18:07:33.399Z",
+    "updatedAt": "2026-11-09T20:57:23.632Z",
     "annualFcf": 3930000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 903645765,
@@ -94128,8 +94363,8 @@
       "accession": "0000035527-26-000124",
       "filingDate": "2026-02-24",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-04",
-      "currentPeriodAgeDays": 308,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:56.979Z",
@@ -94284,7 +94519,7 @@
     "operatingMargin": 30.59,
     "marginTrend": -2.56,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:08:11.508Z",
+    "updatedAt": "2026-11-09T20:57:29.288Z",
     "annualFcf": 1187230000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 107481151,
@@ -94533,8 +94768,8 @@
       "accession": "0001274494-26-000021",
       "filingDate": "2026-02-24",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:01:58.598Z",
@@ -95878,7 +96113,7 @@
     "operatingMargin": 4.9,
     "marginTrend": 0.37,
     "source": "sec",
-    "updatedAt": "2026-11-02T20:27:05.497Z",
+    "updatedAt": "2026-11-09T20:57:45.523Z",
     "annualFcf": 1052000000,
     "annualFcfPeriodEnd": "2026-03-31",
     "sharesOutstanding": 369460804,
@@ -96160,8 +96395,8 @@
       "accession": "0000866374-26-000012",
       "filingDate": "2026-05-20",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-02",
-      "currentPeriodAgeDays": 216,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 223,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:00.756Z",
@@ -97438,7 +97673,7 @@
     "operatingMargin": 17.32,
     "marginTrend": -2.04,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:08:29.354Z",
+    "updatedAt": "2026-11-09T20:58:02.143Z",
     "annualFcf": 978100000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 297644456,
@@ -97720,8 +97955,8 @@
       "accession": "0001659166-26-000007",
       "filingDate": "2026-02-25",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:01.958Z",
@@ -98867,19 +99102,19 @@
   "FCX": {
     "name": "FREEPORT-MCMORAN INC",
     "sector": "Metal Mining",
-    "roe": 4.89,
-    "debtEquity": 0.467,
+    "roe": 5.6,
+    "debtEquity": 0.448,
     "secEps": 2.9,
-    "secBookValuePerShare": 14.0033,
+    "secBookValuePerShare": 14.6216,
     "revenueGrowth": 1.81,
     "epsGrowth": 607.32,
     "operatingMargin": 25.15,
     "marginTrend": -1.82,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:08:41.695Z",
+    "updatedAt": "2026-11-09T20:58:24.066Z",
     "annualFcf": null,
     "annualFcfPeriodEnd": null,
-    "sharesOutstanding": 1436017523,
+    "sharesOutstanding": 1434936034,
     "sic": 1000,
     "annualOcf": null,
     "annualCapex": null,
@@ -99144,12 +99379,61 @@
       "accession": "0000831259-26-000012",
       "filingDate": "2026-02-13",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:03.445Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-09-30",
+        "form": "10-Q",
+        "filed": "2026-11-06",
+        "accession": "0000831259-26-000051",
+        "assets": 61479000000,
+        "debt": {
+          "value": 9398000000,
+          "reason": null,
+          "method": [
+            "LongTermDebtCurrent",
+            "LongTermDebtNoncurrent"
+          ],
+          "facts": [
+            {
+              "value": 1680000000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-11-06",
+              "accn": "0000831259-26-000051",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            },
+            {
+              "value": 7718000000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-11-06",
+              "accn": "0000831259-26-000051",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtNoncurrent"
+            }
+          ]
+        },
+        "cash": {
+          "value": 4335000000,
+          "end": "2026-09-30",
+          "form": "10-Q",
+          "filed": "2026-11-06",
+          "accn": "0000831259-26-000051",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": 5063000000,
+        "reason": null
+      },
       {
         "date": "2026-06-30",
         "form": "10-Q",
@@ -99251,8 +99535,8 @@
       {
         "date": "2025-12-31",
         "form": "10-Q",
-        "filed": "2026-08-06",
-        "accession": "0000831259-26-000036",
+        "filed": "2026-11-06",
+        "accession": "0000831259-26-000051",
         "assets": 58167000000,
         "debt": {
           "value": 9379000000,
@@ -99266,8 +99550,8 @@
               "value": 466000000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-08-06",
-              "accn": "0000831259-26-000036",
+              "filed": "2026-11-06",
+              "accn": "0000831259-26-000051",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtCurrent"
@@ -99276,8 +99560,8 @@
               "value": 8913000000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-08-06",
-              "accn": "0000831259-26-000036",
+              "filed": "2026-11-06",
+              "accn": "0000831259-26-000051",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtNoncurrent"
@@ -99288,8 +99572,8 @@
           "value": 3824000000,
           "end": "2025-12-31",
           "form": "10-Q",
-          "filed": "2026-08-06",
-          "accn": "0000831259-26-000036",
+          "filed": "2026-11-06",
+          "accn": "0000831259-26-000051",
           "frame": "CY2025Q4I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
@@ -99300,8 +99584,8 @@
       {
         "date": "2025-09-30",
         "form": "10-Q",
-        "filed": "2025-11-06",
-        "accession": "0000831259-25-000050",
+        "filed": "2026-11-06",
+        "accession": "0000831259-26-000051",
         "assets": 56828000000,
         "debt": {
           "value": 9298000000,
@@ -99396,8 +99680,8 @@
         "reason": null
       }
     ],
-    "lastFiledDate": "2026-08-06",
-    "nextExpectedFilingDate": "2026-11-05"
+    "lastFiledDate": "2026-11-06",
+    "nextExpectedFilingDate": "2027-02-05"
   },
   "GRMN": {
     "name": "GARMIN LTD",
@@ -105274,7 +105558,7 @@
     "operatingMargin": 34.04,
     "marginTrend": 28.26,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:09:18.062Z",
+    "updatedAt": "2026-11-09T20:59:28.695Z",
     "annualFcf": 9456000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 1240338614,
@@ -105533,8 +105817,8 @@
       "accession": "0000882095-26-000006",
       "filingDate": "2026-02-24",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:09.694Z",
@@ -108298,7 +108582,7 @@
     "operatingMargin": 10.11,
     "marginTrend": 17.11,
     "source": "sec",
-    "updatedAt": "2026-11-03T18:05:56.382Z",
+    "updatedAt": "2026-11-09T21:00:01.655Z",
     "annualFcf": 5753000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 267413397,
@@ -108515,8 +108799,8 @@
       "accession": "0000874766-26-000012",
       "filingDate": "2026-02-20",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-03",
-      "currentPeriodAgeDays": 307,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:12.260Z",
@@ -109492,7 +109776,7 @@
     "revenueGrowth": 4.52,
     "epsGrowth": -72.22,
     "source": "sec",
-    "updatedAt": "2026-11-04T18:09:08.228Z",
+    "updatedAt": "2026-11-09T21:00:22.040Z",
     "annualFcf": null,
     "annualFcfPeriodEnd": null,
     "sharesOutstanding": 689543752,
@@ -109587,8 +109871,8 @@
       "accession": "0001628280-26-005044",
       "filingDate": "2026-02-03",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-04",
-      "currentPeriodAgeDays": 308,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:14.842Z",
@@ -116763,7 +117047,7 @@
     "operatingMargin": 5.26,
     "marginTrend": 0.62,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:10:32.848Z",
+    "updatedAt": "2026-11-09T21:01:45.192Z",
     "annualFcf": 794000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 39406060,
@@ -117030,8 +117314,8 @@
       "accession": "0001501585-26-000006",
       "filingDate": "2026-02-05",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:23.596Z",
@@ -117700,7 +117984,7 @@
     "operatingMargin": 20.23,
     "marginTrend": -0.49,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:10:38.909Z",
+    "updatedAt": "2026-11-09T21:01:56.582Z",
     "annualFcf": 616800000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 73452801,
@@ -117982,8 +118266,8 @@
       "accession": "0000832101-26-000003",
       "filingDate": "2026-02-19",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:24.291Z",
@@ -121540,7 +121824,7 @@
     "revenueGrowth": 23.42,
     "epsGrowth": -67.97,
     "source": "sec",
-    "updatedAt": "2026-11-06T17:38:23.670Z",
+    "updatedAt": "2026-11-09T21:02:37.600Z",
     "annualFcf": null,
     "annualFcfPeriodEnd": null,
     "sharesOutstanding": 42231651,
@@ -121635,8 +121919,8 @@
       "accession": "0001381197-26-000062",
       "filingDate": "2026-02-27",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-06",
-      "currentPeriodAgeDays": 310,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:28.194Z",
@@ -124563,7 +124847,7 @@
     "operatingMargin": -10.91,
     "marginTrend": -24.63,
     "source": "sec",
-    "updatedAt": "2026-11-04T18:10:47.216Z",
+    "updatedAt": "2026-11-09T21:03:10.019Z",
     "annualFcf": 1441000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 439528938,
@@ -124787,8 +125071,8 @@
       "accession": "0000914208-26-000079",
       "filingDate": "2026-02-24",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-04",
-      "currentPeriodAgeDays": 308,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:31.326Z",
@@ -125890,7 +126174,7 @@
     "operatingMargin": 16.86,
     "marginTrend": 0.44,
     "source": "sec",
-    "updatedAt": "2026-11-06T17:38:55.047Z",
+    "updatedAt": "2026-11-09T21:03:27.929Z",
     "annualFcf": -931629000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 297833786,
@@ -126164,8 +126448,8 @@
       "accession": "0001020569-26-000013",
       "filingDate": "2026-02-12",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-06",
-      "currentPeriodAgeDays": 310,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:32.711Z",
@@ -126445,7 +126729,7 @@
     "operatingMargin": 8.68,
     "marginTrend": -2.32,
     "source": "sec",
-    "updatedAt": "2026-11-02T20:30:12.254Z",
+    "updatedAt": "2026-11-09T21:03:33.835Z",
     "annualFcf": 947585000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 93218722,
@@ -126727,8 +127011,8 @@
       "accession": "0001437749-26-005294",
       "filingDate": "2026-02-24",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-02",
-      "currentPeriodAgeDays": 306,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:33.239Z",
@@ -130369,20 +130653,20 @@
   "KDP": {
     "name": "Keurig Dr Pepper Inc.",
     "sector": "Beverages",
-    "roe": 8.31,
-    "debtEquity": 1.327,
+    "roe": 8.18,
+    "debtEquity": 1.247,
     "secEps": 1.53,
-    "secBookValuePerShare": 18.3947,
+    "secBookValuePerShare": 18.6826,
     "revenueGrowth": 8.16,
     "epsGrowth": 45.71,
     "fcfGrowth": -9.12,
     "operatingMargin": 21.53,
     "marginTrend": 4.65,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:11:56.585Z",
+    "updatedAt": "2026-11-09T21:04:11.944Z",
     "annualFcf": 1505000000,
     "annualFcfPeriodEnd": "2025-12-31",
-    "sharesOutstanding": 1360826038,
+    "sharesOutstanding": 1360948350,
     "sic": 2080,
     "annualOcf": 1991000000,
     "annualCapex": 486000000,
@@ -130661,12 +130945,61 @@
       "accession": "0001418135-26-000016",
       "filingDate": "2026-02-24",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:38.239Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-09-30",
+        "form": "10-Q",
+        "filed": "2026-11-09",
+        "accession": "0001418135-26-000066",
+        "assets": 86872000000,
+        "debt": {
+          "value": 24435000000,
+          "reason": null,
+          "method": [
+            "LongTermDebtCurrent",
+            "LongTermDebtNoncurrent"
+          ],
+          "facts": [
+            {
+              "value": 2840000000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-11-09",
+              "accn": "0001418135-26-000066",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            },
+            {
+              "value": 21595000000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-11-09",
+              "accn": "0001418135-26-000066",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtNoncurrent"
+            }
+          ]
+        },
+        "cash": {
+          "value": 1290000000,
+          "end": "2026-09-30",
+          "form": "10-Q",
+          "filed": "2026-11-09",
+          "accn": "0001418135-26-000066",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": 23145000000,
+        "reason": null
+      },
       {
         "date": "2026-06-30",
         "form": "10-Q",
@@ -130768,8 +131101,8 @@
       {
         "date": "2025-12-31",
         "form": "10-Q",
-        "filed": "2026-08-10",
-        "accession": "0001418135-26-000051",
+        "filed": "2026-11-09",
+        "accession": "0001418135-26-000066",
         "assets": 55459000000,
         "debt": {
           "value": 13931000000,
@@ -130783,8 +131116,8 @@
               "value": 895000000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-08-10",
-              "accn": "0001418135-26-000051",
+              "filed": "2026-11-09",
+              "accn": "0001418135-26-000066",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtCurrent"
@@ -130793,8 +131126,8 @@
               "value": 13036000000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-08-10",
-              "accn": "0001418135-26-000051",
+              "filed": "2026-11-09",
+              "accn": "0001418135-26-000066",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtNoncurrent"
@@ -130805,8 +131138,8 @@
           "value": 1026000000,
           "end": "2025-12-31",
           "form": "10-Q",
-          "filed": "2026-08-10",
-          "accn": "0001418135-26-000051",
+          "filed": "2026-11-09",
+          "accn": "0001418135-26-000066",
           "frame": "CY2025Q4I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
@@ -130913,8 +131246,8 @@
         "reason": null
       }
     ],
-    "lastFiledDate": "2026-08-10",
-    "nextExpectedFilingDate": "2026-11-09"
+    "lastFiledDate": "2026-11-09",
+    "nextExpectedFilingDate": "2027-02-08"
   },
   "KEY": {
     "name": "KEYCORP /NEW/",
@@ -131134,7 +131467,7 @@
     "operatingMargin": 16.3,
     "marginTrend": -0.43,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:12:02.562Z",
+    "updatedAt": "2026-11-09T21:04:23.030Z",
     "annualFcf": 1281000000,
     "annualFcfPeriodEnd": "2025-10-31",
     "sharesOutstanding": 170244745,
@@ -131416,8 +131749,8 @@
       "accession": "0001601046-25-000127",
       "filingDate": "2025-12-17",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 370,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 374,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:39.146Z",
@@ -137230,7 +137563,7 @@
     "operatingMargin": 12.28,
     "marginTrend": 1.31,
     "source": "sec",
-    "updatedAt": "2026-11-03T18:11:56.752Z",
+    "updatedAt": "2026-11-09T21:05:28.127Z",
     "annualFcf": 871000000,
     "annualFcfPeriodEnd": "2020-01-03",
     "sharesOutstanding": 121994697,
@@ -137516,8 +137849,8 @@
       "accession": "0001336920-26-000030",
       "filingDate": "2026-02-17",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-03",
-      "currentPeriodAgeDays": 305,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 311,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:44.955Z",
@@ -141345,7 +141678,7 @@
     "operatingMargin": 11.77,
     "marginTrend": -0.74,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:13:04.074Z",
+    "updatedAt": "2026-11-09T21:06:11.300Z",
     "annualFcf": 7651000000,
     "annualFcfPeriodEnd": "2026-01-30",
     "sharesOutstanding": 561054019,
@@ -141645,8 +141978,8 @@
       "accession": "0000060667-26-000029",
       "filingDate": "2026-03-23",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 279,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 283,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:50.413Z",
@@ -141922,7 +142255,7 @@
     "operatingMargin": 19.91,
     "marginTrend": -3.76,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:13:07.126Z",
+    "updatedAt": "2026-11-09T21:06:17.351Z",
     "annualFcf": 921675000,
     "annualFcfPeriodEnd": "2026-02-01",
     "sharesOutstanding": 105594064,
@@ -142142,8 +142475,8 @@
       "accession": "0001397187-26-000020",
       "filingDate": "2026-03-17",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 277,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 281,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:02:50.978Z",
@@ -150304,7 +150637,7 @@
     "epsGrowth": 8.01,
     "fcfGrowth": -31.7,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:13:54.538Z",
+    "updatedAt": "2026-11-09T21:07:38.308Z",
     "annualFcf": 12360000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 2465245688,
@@ -150413,8 +150746,8 @@
       "accession": "0000310158-26-000063",
       "filingDate": "2026-02-24",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:03.112Z",
@@ -151723,7 +152056,7 @@
     "epsGrowth": 3.88,
     "fcfGrowth": -1.83,
     "source": "sec",
-    "updatedAt": "2026-11-06T17:41:19.607Z",
+    "updatedAt": "2026-11-09T21:07:54.529Z",
     "annualFcf": 848648000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 19890405,
@@ -151832,8 +152165,8 @@
       "accession": "0001037646-26-000011",
       "filingDate": "2026-02-06",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-06",
-      "currentPeriodAgeDays": 310,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:05.474Z",
@@ -153135,7 +153468,7 @@
     "operatingMargin": 74.59,
     "marginTrend": 48.45,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:14:14.282Z",
+    "updatedAt": "2026-11-09T21:08:11.395Z",
     "annualFcf": 58963000000,
     "annualFcfPeriodEnd": "2026-09-03",
     "sharesOutstanding": 1131423212,
@@ -153415,8 +153748,8 @@
       "accession": "0000723125-26-000023",
       "filingDate": "2026-10-09",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 63,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 67,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:08.778Z",
@@ -155591,7 +155924,7 @@
     "operatingMargin": 9.21,
     "marginTrend": -8.2,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:14:26.862Z",
+    "updatedAt": "2026-11-09T21:08:33.127Z",
     "annualFcf": 3235000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 1265838379,
@@ -155868,8 +156201,8 @@
       "accession": "0001628280-26-005345",
       "filingDate": "2026-02-04",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:12.370Z",
@@ -157798,7 +158131,7 @@
     "operatingMargin": 6.82,
     "marginTrend": 1.23,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:14:42.057Z",
+    "updatedAt": "2026-11-09T21:09:00.072Z",
     "annualFcf": -534600000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 317903655,
@@ -158096,8 +158429,8 @@
       "accession": "0001285785-26-000017",
       "filingDate": "2026-02-27",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:17.621Z",
@@ -159532,7 +159865,7 @@
     "operatingMargin": 28.21,
     "marginTrend": 3.91,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:14:50.818Z",
+    "updatedAt": "2026-11-09T21:09:16.639Z",
     "annualFcf": 1989000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 554962751,
@@ -159798,8 +160131,8 @@
       "accession": "0001628280-26-007703",
       "filingDate": "2026-02-12",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:19.889Z",
@@ -161568,7 +161901,7 @@
     "epsGrowth": -50.24,
     "fcfGrowth": 1.52,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:15:02.594Z",
+    "updatedAt": "2026-11-09T21:09:38.373Z",
     "annualFcf": 602000000,
     "annualFcfPeriodEnd": "2024-06-30",
     "sharesOutstanding": 579000000,
@@ -161674,8 +162007,8 @@
       "accession": "0001564708-26-000175",
       "filingDate": "2026-08-07",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 128,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 132,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:23.547Z",
@@ -165917,7 +166250,7 @@
     "operatingMargin": 19.44,
     "marginTrend": 0.45,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:15:29.229Z",
+    "updatedAt": "2026-11-09T21:10:27.356Z",
     "annualFcf": -1169860000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 459275445,
@@ -166237,8 +166570,8 @@
       "accession": "0001104659-26-022067",
       "filingDate": "2026-03-02",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:29.741Z",
@@ -169084,17 +169417,17 @@
     "name": "O REILLY AUTOMOTIVE INC",
     "sector": "Retail-Auto & Home Supply Stores",
     "secEps": 2.97,
-    "secBookValuePerShare": -2.2692,
+    "secBookValuePerShare": -2.6091,
     "revenueGrowth": 6.42,
     "epsGrowth": -92.7,
     "fcfGrowth": -21.37,
     "operatingMargin": 19.46,
     "marginTrend": 0,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:15:47.489Z",
+    "updatedAt": "2026-11-09T21:11:01.285Z",
     "annualFcf": 1593178000,
     "annualFcfPeriodEnd": "2025-12-31",
-    "sharesOutstanding": 808960792,
+    "sharesOutstanding": 802048733,
     "sic": 5531,
     "annualOcf": 2761993000,
     "annualCapex": 1168815000,
@@ -169340,12 +169673,47 @@
       "accession": "0000898173-26-000009",
       "filingDate": "2026-02-27",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:33.690Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-09-30",
+        "form": "10-Q",
+        "filed": "2026-11-06",
+        "accession": "0000898173-26-000053",
+        "assets": 17601879000,
+        "debt": {
+          "value": null,
+          "reason": "incomplete conventional current/noncurrent debt representation",
+          "facts": [
+            {
+              "value": 7711498000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-11-06",
+              "accn": "0000898173-26-000053",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtNoncurrent"
+            }
+          ]
+        },
+        "cash": {
+          "value": 194445000,
+          "end": "2026-09-30",
+          "form": "10-Q",
+          "filed": "2026-11-06",
+          "accn": "0000898173-26-000053",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "incomplete conventional current/noncurrent debt representation"
+      },
       {
         "date": "2026-06-30",
         "form": "10-Q",
@@ -169419,8 +169787,8 @@
       {
         "date": "2025-12-31",
         "form": "10-Q",
-        "filed": "2026-08-07",
-        "accession": "0000898173-26-000045",
+        "filed": "2026-11-06",
+        "accession": "0000898173-26-000053",
         "assets": 16538253000,
         "debt": {
           "value": null,
@@ -169430,8 +169798,8 @@
               "value": 6016904000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-08-07",
-              "accn": "0000898173-26-000045",
+              "filed": "2026-11-06",
+              "accn": "0000898173-26-000053",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtNoncurrent"
@@ -169442,8 +169810,8 @@
           "value": 193793000,
           "end": "2025-12-31",
           "form": "10-Q",
-          "filed": "2026-08-07",
-          "accn": "0000898173-26-000045",
+          "filed": "2026-11-06",
+          "accn": "0000898173-26-000053",
           "frame": "CY2025Q4I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
@@ -169522,8 +169890,8 @@
         "reason": "incomplete conventional current/noncurrent debt representation"
       }
     ],
-    "lastFiledDate": "2026-08-07",
-    "nextExpectedFilingDate": "2026-11-06"
+    "lastFiledDate": "2026-11-06",
+    "nextExpectedFilingDate": "2027-02-05"
   },
   "OXY": {
     "name": "OCCIDENTAL PETROLEUM CORP /DE/",
@@ -172657,7 +173025,7 @@
     "operatingMargin": 14.78,
     "marginTrend": 0.7,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:16:15.722Z",
+    "updatedAt": "2026-11-09T21:11:44.718Z",
     "annualFcf": null,
     "annualFcfPeriodEnd": null,
     "sharesOutstanding": 380710513,
@@ -172947,8 +173315,8 @@
       "accession": "0001781335-26-000011",
       "filingDate": "2026-02-05",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:37.258Z",
@@ -174436,7 +174804,7 @@
     "operatingMargin": 6.05,
     "marginTrend": -7.43,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:16:27.528Z",
+    "updatedAt": "2026-11-09T21:12:06.368Z",
     "annualFcf": null,
     "annualFcfPeriodEnd": null,
     "sharesOutstanding": 818000000,
@@ -174649,8 +175017,8 @@
       "accession": "0001327567-26-000023",
       "filingDate": "2026-09-10",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 97,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 101,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:38.930Z",
@@ -175849,7 +176217,7 @@
     "operatingMargin": 38.55,
     "marginTrend": -1.07,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:16:33.859Z",
+    "updatedAt": "2026-11-09T21:12:17.345Z",
     "annualFcf": 2321800000,
     "annualFcfPeriodEnd": "2026-05-31",
     "sharesOutstanding": 355980473,
@@ -176153,8 +176521,8 @@
       "accession": "0001193125-26-307785",
       "filingDate": "2026-07-17",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 158,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 162,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:40.069Z",
@@ -176511,7 +176879,7 @@
     "operatingMargin": 18.28,
     "marginTrend": 1.53,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:16:36.866Z",
+    "updatedAt": "2026-11-09T21:12:23.140Z",
     "annualFcf": 5564000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 830658298,
@@ -176763,8 +177131,8 @@
       "accession": "0001633917-26-000024",
       "filingDate": "2026-02-03",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:40.400Z",
@@ -181349,7 +181717,7 @@
     "operatingMargin": 23.22,
     "marginTrend": 2.66,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:17:06.558Z",
+    "updatedAt": "2026-11-09T21:13:16.282Z",
     "annualFcf": -1401000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 752350362,
@@ -181653,8 +182021,8 @@
       "accession": "0000922224-26-000008",
       "filingDate": "2026-02-20",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:46.170Z",
@@ -181913,7 +182281,7 @@
     "revenueGrowth": -3.11,
     "epsGrowth": -21.41,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:17:09.630Z",
+    "updatedAt": "2026-11-09T21:13:22.437Z",
     "annualFcf": null,
     "annualFcfPeriodEnd": null,
     "sharesOutstanding": 212376467,
@@ -182008,8 +182376,8 @@
       "accession": "0001104659-26-017031",
       "filingDate": "2026-02-18",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:46.537Z",
@@ -182241,7 +182609,7 @@
     "operatingMargin": 22.69,
     "marginTrend": -1.57,
     "source": "sec",
-    "updatedAt": "2026-11-02T20:35:31.815Z",
+    "updatedAt": "2026-11-09T21:13:28.586Z",
     "annualFcf": 15147000000,
     "annualFcfPeriodEnd": "2026-06-30",
     "sharesOutstanding": 2317783143,
@@ -182500,8 +182868,8 @@
       "accession": "0000080424-26-000103",
       "filingDate": "2026-08-04",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-02",
-      "currentPeriodAgeDays": 125,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 132,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:47.106Z",
@@ -184608,7 +184976,7 @@
     "operatingMargin": 53.33,
     "marginTrend": -0.35,
     "source": "sec",
-    "updatedAt": "2026-11-03T18:21:22.777Z",
+    "updatedAt": "2026-11-09T21:14:00.724Z",
     "annualFcf": null,
     "annualFcfPeriodEnd": null,
     "sharesOutstanding": 186843449,
@@ -184810,8 +185178,8 @@
       "accession": "0001628280-26-007696",
       "filingDate": "2026-02-12",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-03",
-      "currentPeriodAgeDays": 307,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:50.042Z",
@@ -189707,16 +190075,16 @@
   "RF": {
     "name": "REGIONS FINANCIAL CORP",
     "sector": "National Commercial Banks",
-    "roe": 11.44,
-    "debtEquity": 0.159,
+    "roe": 12.08,
+    "debtEquity": 0.252,
     "secEps": 2.3,
-    "secBookValuePerShare": 22.1145,
+    "secBookValuePerShare": 21.025,
     "epsGrowth": 19.17,
     "source": "sec",
-    "updatedAt": "2026-11-06T17:45:15.598Z",
+    "updatedAt": "2026-11-09T21:15:04.225Z",
     "annualFcf": null,
     "annualFcfPeriodEnd": null,
-    "sharesOutstanding": 851929506,
+    "sharesOutstanding": 848847340,
     "sic": 6021,
     "annualOcf": null,
     "annualCapex": null,
@@ -189925,12 +190293,41 @@
       "accession": "0001281761-26-000019",
       "filingDate": "2026-02-24",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-06",
-      "currentPeriodAgeDays": 310,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:57.827Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-09-30",
+        "form": "10-Q",
+        "filed": "2026-11-09",
+        "accession": "0001281761-26-000073",
+        "assets": 163213000000,
+        "debt": {
+          "value": 10482000000,
+          "reason": null,
+          "method": [
+            "DebtAndCapitalLeaseObligations"
+          ],
+          "facts": [
+            {
+              "value": 10482000000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-11-09",
+              "accn": "0001281761-26-000073",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "DebtAndCapitalLeaseObligations"
+            }
+          ]
+        },
+        "cash": null,
+        "netDebt": null,
+        "reason": "cash_missing"
+      },
       {
         "date": "2026-06-30",
         "form": "10-Q",
@@ -189992,8 +190389,8 @@
       {
         "date": "2025-12-31",
         "form": "10-Q",
-        "filed": "2026-08-06",
-        "accession": "0001281761-26-000055",
+        "filed": "2026-11-09",
+        "accession": "0001281761-26-000073",
         "assets": 158814000000,
         "debt": {
           "value": 4884000000,
@@ -190006,8 +190403,8 @@
               "value": 4884000000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-08-06",
-              "accn": "0001281761-26-000055",
+              "filed": "2026-11-09",
+              "accn": "0001281761-26-000073",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "DebtAndCapitalLeaseObligations"
@@ -190077,8 +190474,8 @@
         "reason": "cash_missing"
       }
     ],
-    "lastFiledDate": "2026-08-06",
-    "nextExpectedFilingDate": "2026-11-05"
+    "lastFiledDate": "2026-11-09",
+    "nextExpectedFilingDate": "2027-02-08"
   },
   "RSG": {
     "name": "REPUBLIC SERVICES, INC.",
@@ -190763,7 +191160,7 @@
     "operatingMargin": 33.37,
     "marginTrend": 0.62,
     "source": "sec",
-    "updatedAt": "2026-11-02T20:36:34.399Z",
+    "updatedAt": "2026-11-09T21:15:15.883Z",
     "annualFcf": 1649544000,
     "annualFcfPeriodEnd": "2026-06-30",
     "sharesOutstanding": 140657071,
@@ -191012,8 +191409,8 @@
       "accession": "0000943819-26-000047",
       "filingDate": "2026-08-13",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-02",
-      "currentPeriodAgeDays": 125,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 132,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:03:58.812Z",
@@ -197453,7 +197850,7 @@
     "operatingMargin": 33.57,
     "marginTrend": 12.79,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:18:56.526Z",
+    "updatedAt": "2026-11-09T21:16:31.526Z",
     "annualFcf": 3105000000,
     "annualFcfPeriodEnd": "2026-07-03",
     "sharesOutstanding": 229561109,
@@ -197735,8 +198132,8 @@
       "accession": "0001137789-26-000159",
       "filingDate": "2026-08-04",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 125,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 129,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:04:04.652Z",
@@ -203437,7 +203834,7 @@
     "operatingMargin": 14.97,
     "marginTrend": 1.16,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:19:36.676Z",
+    "updatedAt": "2026-11-09T21:17:40.773Z",
     "annualFcf": 687900000,
     "annualFcfPeriodEnd": "2026-01-03",
     "sharesOutstanding": 148696226,
@@ -203703,8 +204100,8 @@
       "accession": "0000093556-26-000009",
       "filingDate": "2026-02-24",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 306,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 310,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:04:10.464Z",
@@ -205474,7 +205871,7 @@
     "operatingMargin": 18.56,
     "marginTrend": 2.69,
     "source": "sec",
-    "updatedAt": "2026-11-06T17:46:53.385Z",
+    "updatedAt": "2026-11-09T21:18:02.200Z",
     "annualFcf": 972400000,
     "annualFcfPeriodEnd": "2026-03-31",
     "sharesOutstanding": 97107020,
@@ -205743,8 +206140,8 @@
       "accession": "0001628280-26-039136",
       "filingDate": "2026-05-29",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-06",
-      "currentPeriodAgeDays": 220,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 223,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:04:11.951Z",
@@ -207134,7 +207531,7 @@
     "operatingMargin": 12.97,
     "marginTrend": -9.16,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:20:01.918Z",
+    "updatedAt": "2026-11-09T21:18:23.948Z",
     "annualFcf": 1349154000,
     "annualFcfPeriodEnd": "2025-10-31",
     "sharesOutstanding": 191636646,
@@ -207416,8 +207813,8 @@
       "accession": "0000883241-25-000028",
       "filingDate": "2025-12-22",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 370,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 374,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:04:14.474Z",
@@ -208304,7 +208701,7 @@
     "operatingMargin": 20.7,
     "marginTrend": -1.43,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:20:08.687Z",
+    "updatedAt": "2026-11-09T21:18:35.128Z",
     "annualFcf": 17995000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 1059272571,
@@ -208573,8 +208970,8 @@
       "accession": "0001283699-26-000010",
       "filingDate": "2026-02-11",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:04:15.569Z",
@@ -209204,7 +209601,7 @@
     "operatingMargin": -1.57,
     "marginTrend": 76.37,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:20:14.927Z",
+    "updatedAt": "2026-11-09T21:18:46.084Z",
     "annualFcf": 461500000,
     "annualFcfPeriodEnd": "2026-03-31",
     "sharesOutstanding": 186980443,
@@ -209470,8 +209867,8 @@
       "accession": "0001628280-26-037434",
       "filingDate": "2026-05-22",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 219,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 223,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:04:16.486Z",
@@ -211183,119 +211580,69 @@
   "TEL": {
     "name": "TE Connectivity plc",
     "sector": "Wholesale-Electronic Parts & Equipment, NEC",
-    "roe": 14.8,
+    "roe": 26.13,
     "debtEquity": 0.477,
-    "secEps": 6.16,
-    "secBookValuePerShare": 42.9998,
-    "revenueGrowth": 8.94,
-    "epsGrowth": -40.37,
-    "fcfGrowth": 14.52,
-    "operatingMargin": 18.6,
-    "marginTrend": 0.95,
+    "secEps": 11.06,
+    "secBookValuePerShare": 43.4224,
+    "revenueGrowth": 15.2,
+    "epsGrowth": 79.55,
+    "fcfGrowth": 6.24,
+    "operatingMargin": 20.07,
+    "marginTrend": 1.47,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:20:27.320Z",
-    "annualFcf": 3203000000,
-    "annualFcfPeriodEnd": "2025-09-26",
-    "sharesOutstanding": 289513228,
+    "updatedAt": "2026-11-09T21:19:07.936Z",
+    "annualFcf": 3403000000,
+    "annualFcfPeriodEnd": "2026-09-25",
+    "sharesOutstanding": 286695097,
     "sic": 5065,
-    "annualOcf": 4139000000,
-    "annualCapex": 936000000,
-    "annualFcfPeriodStart": "2024-09-28",
+    "annualOcf": 4525000000,
+    "annualCapex": 1122000000,
+    "annualFcfPeriodStart": "2025-09-27",
     "roic": null,
-    "fcfConversion": 173.8871,
+    "fcfConversion": 104.6111,
     "roicAudit": {
       "reason": "incomplete conventional current/noncurrent debt representation",
       "period": {
-        "start": "2024-09-28",
-        "end": "2025-09-26"
+        "start": "2025-09-27",
+        "end": "2026-09-25"
       },
       "operatingIncome": {
-        "start": "2024-09-28",
-        "end": "2025-09-26",
-        "value": 3211000000,
-        "fy": 2025,
+        "start": "2025-09-27",
+        "end": "2026-09-25",
+        "value": 3991000000,
+        "fy": 2026,
         "fp": "FY",
         "form": "10-K",
-        "filed": "2025-11-10",
-        "accn": "0001104659-25-109150",
-        "frame": "CY2025",
+        "filed": "2026-11-09",
+        "accn": "0001104659-26-124497",
+        "frame": "CY2026",
         "tagName": "OperatingIncomeLoss"
       },
       "taxExpense": {
-        "start": "2024-09-28",
-        "end": "2025-09-26",
-        "value": 1361000000,
-        "fy": 2025,
+        "start": "2025-09-27",
+        "end": "2026-09-25",
+        "value": 695000000,
+        "fy": 2026,
         "fp": "FY",
         "form": "10-K",
-        "filed": "2025-11-10",
-        "accn": "0001104659-25-109150",
-        "frame": "CY2025",
+        "filed": "2026-11-09",
+        "accn": "0001104659-26-124497",
+        "frame": "CY2026",
         "tagName": "IncomeTaxExpenseBenefit"
       },
       "pretaxIncome": {
-        "start": "2024-09-28",
-        "end": "2025-09-26",
-        "value": 3204000000,
-        "fy": 2025,
+        "start": "2025-09-27",
+        "end": "2026-09-25",
+        "value": 3950000000,
+        "fy": 2026,
         "fp": "FY",
         "form": "10-K",
-        "filed": "2025-11-10",
-        "accn": "0001104659-25-109150",
-        "frame": "CY2025",
+        "filed": "2026-11-09",
+        "accn": "0001104659-26-124497",
+        "frame": "CY2026",
         "tagName": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest"
       },
       "begin": {
-        "targetDate": "2024-09-27",
-        "debt": {
-          "value": null,
-          "reason": "incomplete conventional current/noncurrent debt representation",
-          "facts": [
-            {
-              "value": 3332000000,
-              "end": "2024-09-27",
-              "form": "10-K",
-              "filed": "2025-11-10",
-              "accn": "0001104659-25-109150",
-              "frame": "CY2024Q3I",
-              "offsetDays": 0,
-              "tagName": "LongTermDebtNoncurrent"
-            }
-          ]
-        },
-        "equity": {
-          "value": 12355000000,
-          "end": "2024-09-27",
-          "form": "10-K",
-          "filed": "2025-11-10",
-          "accn": "0001104659-25-109150",
-          "frame": null,
-          "offsetDays": 0,
-          "tagName": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest"
-        },
-        "cash": {
-          "value": 1319000000,
-          "end": "2024-09-27",
-          "form": "10-K",
-          "filed": "2025-11-10",
-          "accn": "0001104659-25-109150",
-          "frame": "CY2024Q3I",
-          "offsetDays": 0,
-          "tagName": "CashAndCashEquivalentsAtCarryingValue"
-        },
-        "assets": {
-          "value": 22854000000,
-          "end": "2024-09-27",
-          "form": "10-K",
-          "filed": "2025-11-10",
-          "accn": "0001104659-25-109150",
-          "frame": "CY2024Q3I",
-          "offsetDays": 0,
-          "tagName": "Assets"
-        },
-        "investedCapital": null
-      },
-      "end": {
         "targetDate": "2025-09-26",
         "debt": {
           "value": null,
@@ -211305,9 +211652,9 @@
               "value": 4842000000,
               "end": "2025-09-26",
               "form": "10-K",
-              "filed": "2025-11-10",
-              "accn": "0001104659-25-109150",
-              "frame": null,
+              "filed": "2026-11-09",
+              "accn": "0001104659-26-124497",
+              "frame": "CY2025Q3I",
               "offsetDays": 0,
               "tagName": "LongTermDebtNoncurrent"
             }
@@ -211317,9 +211664,9 @@
           "value": 12585000000,
           "end": "2025-09-26",
           "form": "10-K",
-          "filed": "2025-11-10",
-          "accn": "0001104659-25-109150",
-          "frame": null,
+          "filed": "2026-11-09",
+          "accn": "0001104659-26-124497",
+          "frame": "CY2025Q3I",
           "offsetDays": 0,
           "tagName": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest"
         },
@@ -211327,9 +211674,9 @@
           "value": 1255000000,
           "end": "2025-09-26",
           "form": "10-K",
-          "filed": "2025-11-10",
-          "accn": "0001104659-25-109150",
-          "frame": null,
+          "filed": "2026-11-09",
+          "accn": "0001104659-26-124497",
+          "frame": "CY2025Q3I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
         },
@@ -211337,9 +211684,59 @@
           "value": 25081000000,
           "end": "2025-09-26",
           "form": "10-K",
-          "filed": "2025-11-10",
-          "accn": "0001104659-25-109150",
-          "frame": null,
+          "filed": "2026-11-09",
+          "accn": "0001104659-26-124497",
+          "frame": "CY2025Q3I",
+          "offsetDays": 0,
+          "tagName": "Assets"
+        },
+        "investedCapital": null
+      },
+      "end": {
+        "targetDate": "2026-09-25",
+        "debt": {
+          "value": null,
+          "reason": "incomplete conventional current/noncurrent debt representation",
+          "facts": [
+            {
+              "value": 5137000000,
+              "end": "2026-09-25",
+              "form": "10-K",
+              "filed": "2026-11-09",
+              "accn": "0001104659-26-124497",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtNoncurrent"
+            }
+          ]
+        },
+        "equity": {
+          "value": 13573000000,
+          "end": "2026-09-25",
+          "form": "10-K",
+          "filed": "2026-11-09",
+          "accn": "0001104659-26-124497",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest"
+        },
+        "cash": {
+          "value": 1697000000,
+          "end": "2026-09-25",
+          "form": "10-K",
+          "filed": "2026-11-09",
+          "accn": "0001104659-26-124497",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "assets": {
+          "value": 26672000000,
+          "end": "2026-09-25",
+          "form": "10-K",
+          "filed": "2026-11-09",
+          "accn": "0001104659-26-124497",
+          "frame": "CY2026Q3I",
           "offsetDays": 0,
           "tagName": "Assets"
         },
@@ -211349,105 +211746,140 @@
     "fcfConversionAudit": {
       "reason": null,
       "period": {
-        "start": "2024-09-28",
-        "end": "2025-09-26"
+        "start": "2025-09-27",
+        "end": "2026-09-25"
       },
       "operatingCashFlow": {
-        "start": "2024-09-28",
-        "end": "2025-09-26",
-        "value": 4139000000,
-        "fy": 2025,
+        "start": "2025-09-27",
+        "end": "2026-09-25",
+        "value": 4525000000,
+        "fy": 2026,
         "fp": "FY",
         "form": "10-K",
-        "filed": "2025-11-10",
-        "accn": "0001104659-25-109150",
-        "frame": "CY2025",
+        "filed": "2026-11-09",
+        "accn": "0001104659-26-124497",
+        "frame": "CY2026",
         "tagName": "NetCashProvidedByUsedInOperatingActivities"
       },
       "capex": {
-        "start": "2024-09-28",
-        "end": "2025-09-26",
-        "value": 936000000,
-        "fy": 2025,
+        "start": "2025-09-27",
+        "end": "2026-09-25",
+        "value": 1122000000,
+        "fy": 2026,
         "fp": "FY",
         "form": "10-K",
-        "filed": "2025-11-10",
-        "accn": "0001104659-25-109150",
-        "frame": "CY2025",
+        "filed": "2026-11-09",
+        "accn": "0001104659-26-124497",
+        "frame": "CY2026",
         "tagName": "PaymentsToAcquirePropertyPlantAndEquipment"
       },
       "netIncome": {
-        "start": "2024-09-28",
-        "end": "2025-09-26",
-        "value": 1842000000,
-        "fy": 2025,
+        "start": "2025-09-27",
+        "end": "2026-09-25",
+        "value": 3253000000,
+        "fy": 2026,
         "fp": "FY",
         "form": "10-K",
-        "filed": "2025-11-10",
-        "accn": "0001104659-25-109150",
-        "frame": "CY2025",
+        "filed": "2026-11-09",
+        "accn": "0001104659-26-124497",
+        "frame": "CY2026",
         "tagName": "NetIncomeLoss"
       },
       "revenue": {
-        "start": "2024-09-28",
-        "end": "2025-09-26",
-        "value": 17262000000,
+        "start": "2025-09-27",
+        "end": "2026-09-25",
+        "value": 19885000000,
         "sourceTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
-        "fy": 2025,
+        "fy": 2026,
         "fp": "FY",
         "form": "10-K",
-        "filed": "2025-11-10",
-        "accn": "0001104659-25-109150",
-        "frame": "CY2025"
+        "filed": "2026-11-09",
+        "accn": "0001104659-26-124497",
+        "frame": "CY2026"
       },
-      "revenueFloor": 17262000,
-      "annualFcf": 3203000000,
-      "rawValue": 173.8870792616721
+      "revenueFloor": 19885000,
+      "annualFcf": 3403000000,
+      "rawValue": 104.61112818936367
     },
     "displayQualityUpdatedAt": "2026-08-17T00:56:59.737Z",
-    "basicShareChange": -3.2573,
+    "basicShareChange": -1.6835,
     "basicShareChangeAudit": {
       "reason": null,
       "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
       "unit": "shares",
       "current": {
-        "value": 297000000,
-        "start": "2024-09-28",
-        "end": "2025-09-26",
+        "value": 292000000,
+        "start": "2025-09-27",
+        "end": "2026-09-25",
         "durationDays": 363,
-        "fy": 2025,
+        "fy": 2026,
         "fp": "FY",
         "form": "10-K",
-        "filed": "2025-11-10",
-        "accn": "0001104659-25-109150",
-        "frame": "CY2025",
+        "filed": "2026-11-09",
+        "accn": "0001104659-26-124497",
+        "frame": "CY2026",
         "duplicateCount": 1,
         "duplicatesAgree": true
       },
       "prior": {
-        "value": 307000000,
-        "start": "2023-09-30",
-        "end": "2024-09-27",
+        "value": 297000000,
+        "start": "2024-09-28",
+        "end": "2025-09-26",
         "durationDays": 363,
-        "fy": 2025,
+        "fy": 2026,
         "fp": "FY",
         "form": "10-K",
-        "filed": "2025-11-10",
-        "accn": "0001104659-25-109150",
-        "frame": "CY2024",
+        "filed": "2026-11-09",
+        "accn": "0001104659-26-124497",
+        "frame": "CY2025",
         "duplicateCount": 1,
         "duplicatesAgree": true
       },
-      "rawValue": -3.2573289902280145,
-      "accession": "0001104659-25-109150",
-      "filingDate": "2025-11-10",
+      "rawValue": -1.683501683501687,
+      "accession": "0001104659-26-124497",
+      "filingDate": "2026-11-09",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 405,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 45,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:04:17.835Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-09-25",
+        "form": "10-K",
+        "filed": "2026-11-09",
+        "accession": "0001104659-26-124497",
+        "assets": 26672000000,
+        "debt": {
+          "value": null,
+          "reason": "incomplete conventional current/noncurrent debt representation",
+          "facts": [
+            {
+              "value": 5137000000,
+              "end": "2026-09-25",
+              "form": "10-K",
+              "filed": "2026-11-09",
+              "accn": "0001104659-26-124497",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtNoncurrent"
+            }
+          ]
+        },
+        "cash": {
+          "value": 1697000000,
+          "end": "2026-09-25",
+          "form": "10-K",
+          "filed": "2026-11-09",
+          "accn": "0001104659-26-124497",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "incomplete conventional current/noncurrent debt representation"
+      },
       {
         "date": "2026-06-26",
         "form": "10-Q",
@@ -211555,9 +211987,9 @@
       },
       {
         "date": "2025-09-26",
-        "form": "10-Q",
-        "filed": "2026-07-24",
-        "accession": "0001104659-26-086509",
+        "form": "10-K",
+        "filed": "2026-11-09",
+        "accession": "0001104659-26-124497",
         "assets": 25081000000,
         "debt": {
           "value": null,
@@ -211566,9 +211998,9 @@
             {
               "value": 4842000000,
               "end": "2025-09-26",
-              "form": "10-Q",
-              "filed": "2026-07-24",
-              "accn": "0001104659-26-086509",
+              "form": "10-K",
+              "filed": "2026-11-09",
+              "accn": "0001104659-26-124497",
               "frame": "CY2025Q3I",
               "offsetDays": 0,
               "tagName": "LongTermDebtNoncurrent"
@@ -211578,9 +212010,9 @@
         "cash": {
           "value": 1255000000,
           "end": "2025-09-26",
-          "form": "10-Q",
-          "filed": "2026-07-24",
-          "accn": "0001104659-26-086509",
+          "form": "10-K",
+          "filed": "2026-11-09",
+          "accn": "0001104659-26-124497",
           "frame": "CY2025Q3I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
@@ -211624,8 +212056,8 @@
         "reason": "incomplete conventional current/noncurrent debt representation"
       }
     ],
-    "lastFiledDate": "2026-07-24",
-    "nextExpectedFilingDate": "2026-10-23"
+    "lastFiledDate": "2026-11-09",
+    "nextExpectedFilingDate": "2027-02-08"
   },
   "TDY": {
     "name": "TELEDYNE TECHNOLOGIES INC",
@@ -212239,7 +212671,7 @@
     "operatingMargin": 20.38,
     "marginTrend": -0.68,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:20:33.417Z",
+    "updatedAt": "2026-11-09T21:19:19.498Z",
     "annualFcf": 450406000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 156124751,
@@ -212477,8 +212909,8 @@
       "accession": "0001193125-26-059002",
       "filingDate": "2026-02-19",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:04:18.915Z",
@@ -212699,7 +213131,7 @@
     "operatingMargin": 4.59,
     "marginTrend": -2.65,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:20:36.434Z",
+    "updatedAt": "2026-11-09T21:19:25.186Z",
     "annualFcf": 6220000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 3952757946,
@@ -212926,8 +213358,8 @@
       "accession": "0001628280-26-003952",
       "filingDate": "2026-01-29",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:04:19.260Z",
@@ -213691,7 +214123,7 @@
     "operatingMargin": 74.19,
     "marginTrend": -2.19,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:20:42.181Z",
+    "updatedAt": "2026-11-09T21:19:36.146Z",
     "annualFcf": 428182000,
     "annualFcfPeriodEnd": "2022-12-31",
     "sharesOutstanding": 68974683,
@@ -213904,8 +214336,8 @@
       "accession": "0001811074-26-000018",
       "filingDate": "2026-02-18",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:04:20.049Z",
@@ -217507,7 +217939,7 @@
     "operatingMargin": 13.4,
     "marginTrend": -0.22,
     "source": "sec",
-    "updatedAt": "2026-11-02T20:39:19.405Z",
+    "updatedAt": "2026-11-09T21:20:20.226Z",
     "annualFcf": null,
     "annualFcfPeriodEnd": null,
     "sharesOutstanding": 204946347,
@@ -217730,8 +218162,8 @@
       "accession": "0000086312-26-000065",
       "filingDate": "2026-02-12",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-02",
-      "currentPeriodAgeDays": 306,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:04:24.602Z",
@@ -217843,7 +218275,7 @@
     "operatingMargin": 16.5,
     "marginTrend": 3.99,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:21:09.624Z",
+    "updatedAt": "2026-11-09T21:20:26.064Z",
     "annualFcf": 360900000,
     "annualFcfPeriodEnd": "2026-01-02",
     "sharesOutstanding": 229243001,
@@ -218112,8 +218544,8 @@
       "accession": "0000864749-26-000015",
       "filingDate": "2026-02-25",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 307,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 311,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:04:25.421Z",
@@ -221273,7 +221705,7 @@
     "operatingMargin": 40.17,
     "marginTrend": 0.12,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:21:37.446Z",
+    "updatedAt": "2026-11-09T21:21:12.823Z",
     "annualFcf": 5499000000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": 594250416,
@@ -221573,8 +222005,8 @@
       "accession": "0000100885-26-000037",
       "filingDate": "2026-02-06",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:04:29.031Z",
@@ -224072,8 +224504,8 @@
   "UHS": {
     "name": "UNIVERSAL HEALTH SERVICES INC",
     "sector": "Services-General Medical & Surgical Hospitals, NEC",
-    "roe": 19.81,
-    "debtEquity": 0.646,
+    "roe": 19.6,
+    "debtEquity": 0.751,
     "secEps": 23.1,
     "revenueGrowth": 9.71,
     "epsGrowth": 37.34,
@@ -224081,7 +224513,7 @@
     "operatingMargin": 11.48,
     "marginTrend": 0.85,
     "source": "sec",
-    "updatedAt": "2026-11-06T17:48:50.495Z",
+    "updatedAt": "2026-11-09T21:21:40.522Z",
     "annualFcf": 849245000,
     "annualFcfPeriodEnd": "2025-12-31",
     "sharesOutstanding": null,
@@ -224363,12 +224795,61 @@
       "accession": "0001193125-26-071676",
       "filingDate": "2026-02-25",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-06",
-      "currentPeriodAgeDays": 310,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:04:31.357Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-09-30",
+        "form": "10-Q",
+        "filed": "2026-11-06",
+        "accession": "0001193125-26-451866",
+        "assets": 17185766000,
+        "debt": {
+          "value": 5707341000,
+          "reason": null,
+          "method": [
+            "LongTermDebtCurrent",
+            "LongTermDebtNoncurrent"
+          ],
+          "facts": [
+            {
+              "value": 79813000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-11-06",
+              "accn": "0001193125-26-451866",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            },
+            {
+              "value": 5627528000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-11-06",
+              "accn": "0001193125-26-451866",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtNoncurrent"
+            }
+          ]
+        },
+        "cash": {
+          "value": 168749000,
+          "end": "2026-09-30",
+          "form": "10-Q",
+          "filed": "2026-11-06",
+          "accn": "0001193125-26-451866",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": 5538592000,
+        "reason": null
+      },
       {
         "date": "2026-06-30",
         "form": "10-Q",
@@ -224470,8 +224951,8 @@
       {
         "date": "2025-12-31",
         "form": "10-Q",
-        "filed": "2026-08-07",
-        "accession": "0001193125-26-340278",
+        "filed": "2026-11-06",
+        "accession": "0001193125-26-451866",
         "assets": 15527593000,
         "debt": {
           "value": 4752551000,
@@ -224485,8 +224966,8 @@
               "value": 748158000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-08-07",
-              "accn": "0001193125-26-340278",
+              "filed": "2026-11-06",
+              "accn": "0001193125-26-451866",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtCurrent"
@@ -224495,8 +224976,8 @@
               "value": 4004393000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-08-07",
-              "accn": "0001193125-26-340278",
+              "filed": "2026-11-06",
+              "accn": "0001193125-26-451866",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtNoncurrent"
@@ -224507,8 +224988,8 @@
           "value": 137797000,
           "end": "2025-12-31",
           "form": "10-Q",
-          "filed": "2026-08-07",
-          "accn": "0001193125-26-340278",
+          "filed": "2026-11-06",
+          "accn": "0001193125-26-451866",
           "frame": "CY2025Q4I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
@@ -224558,7 +225039,7 @@
           "form": "10-Q",
           "filed": "2025-11-07",
           "accn": "0001193125-25-272385",
-          "frame": "CY2025Q3I",
+          "frame": null,
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
         },
@@ -224615,8 +225096,8 @@
         "reason": null
       }
     ],
-    "lastFiledDate": "2026-08-07",
-    "nextExpectedFilingDate": "2026-11-06"
+    "lastFiledDate": "2026-11-06",
+    "nextExpectedFilingDate": "2027-02-05"
   },
   "VLO": {
     "name": "VALERO ENERGY CORP/TX",
@@ -230165,20 +230646,20 @@
   "VST": {
     "name": "Vistra Corp.",
     "sector": "Electric Services",
-    "roe": 17.22,
+    "roe": 14.97,
     "debtEquity": 0,
     "secEps": 2.18,
-    "secBookValuePerShare": 16.3332,
+    "secBookValuePerShare": 18.5801,
     "revenueGrowth": 2.98,
     "epsGrowth": -68.86,
     "fcfGrowth": -46.96,
     "operatingMargin": 10.75,
     "marginTrend": -12.94,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:22:34.097Z",
+    "updatedAt": "2026-11-09T21:22:51.116Z",
     "annualFcf": 1318000000,
     "annualFcfPeriodEnd": "2025-12-31",
-    "sharesOutstanding": 335635195,
+    "sharesOutstanding": 339394683,
     "sic": 4911,
     "annualOcf": 4070000000,
     "annualCapex": 2752000000,
@@ -230475,12 +230956,70 @@
       "accession": "0001692819-26-000006",
       "filingDate": "2026-02-27",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:04:36.887Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-09-30",
+        "form": "10-Q",
+        "filed": "2026-11-09",
+        "accession": "0001692819-26-000025",
+        "assets": 45029000000,
+        "debt": {
+          "value": 21146000000,
+          "reason": null,
+          "method": [
+            "LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities"
+          ],
+          "facts": [
+            {
+              "value": 21146000000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-11-09",
+              "accn": "0001692819-26-000025",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities"
+            },
+            {
+              "value": 2877000000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-11-09",
+              "accn": "0001692819-26-000025",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtAndCapitalLeaseObligationsCurrent"
+            },
+            {
+              "value": 18269000000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-11-09",
+              "accn": "0001692819-26-000025",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtAndCapitalLeaseObligations"
+            }
+          ]
+        },
+        "cash": {
+          "value": 2743000000,
+          "end": "2026-09-30",
+          "form": "10-Q",
+          "filed": "2026-11-09",
+          "accn": "0001692819-26-000025",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": 18403000000,
+        "reason": null
+      },
       {
         "date": "2026-06-30",
         "form": "10-Q",
@@ -230600,8 +231139,8 @@
       {
         "date": "2025-12-31",
         "form": "10-Q",
-        "filed": "2026-08-10",
-        "accession": "0001692819-26-000019",
+        "filed": "2026-11-09",
+        "accession": "0001692819-26-000025",
         "assets": 41550000000,
         "debt": {
           "value": 17043000000,
@@ -230614,8 +231153,8 @@
               "value": 17043000000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-08-10",
-              "accn": "0001692819-26-000019",
+              "filed": "2026-11-09",
+              "accn": "0001692819-26-000025",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities"
@@ -230624,8 +231163,8 @@
               "value": 1201000000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-08-10",
-              "accn": "0001692819-26-000019",
+              "filed": "2026-11-09",
+              "accn": "0001692819-26-000025",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtAndCapitalLeaseObligationsCurrent"
@@ -230634,8 +231173,8 @@
               "value": 15842000000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-08-10",
-              "accn": "0001692819-26-000019",
+              "filed": "2026-11-09",
+              "accn": "0001692819-26-000025",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtAndCapitalLeaseObligations"
@@ -230646,8 +231185,8 @@
           "value": 785000000,
           "end": "2025-12-31",
           "form": "10-Q",
-          "filed": "2026-08-10",
-          "accn": "0001692819-26-000019",
+          "filed": "2026-11-09",
+          "accn": "0001692819-26-000025",
           "frame": "CY2025Q4I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
@@ -230772,8 +231311,8 @@
         "reason": null
       }
     ],
-    "lastFiledDate": "2026-08-10",
-    "nextExpectedFilingDate": "2026-11-09"
+    "lastFiledDate": "2026-11-09",
+    "nextExpectedFilingDate": "2027-02-08"
   },
   "VMC": {
     "name": "Vulcan Materials CO",
@@ -236301,7 +236840,7 @@
     "revenueGrowth": -1.56,
     "epsGrowth": 16.57,
     "source": "sec",
-    "updatedAt": "2026-11-04T18:21:59.413Z",
+    "updatedAt": "2026-11-09T21:23:53.105Z",
     "annualFcf": null,
     "annualFcfPeriodEnd": null,
     "sharesOutstanding": 3001850317,
@@ -236385,8 +236924,8 @@
       "accession": "0000072971-26-000133",
       "filingDate": "2026-02-24",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-04",
-      "currentPeriodAgeDays": 308,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:04:41.492Z",
@@ -241048,7 +241587,7 @@
     "operatingMargin": 17.03,
     "marginTrend": -2.17,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:23:46.571Z",
+    "updatedAt": "2026-11-09T21:24:47.122Z",
     "annualFcf": 2004756000,
     "annualFcfPeriodEnd": "2012-12-31",
     "sharesOutstanding": 641874448,
@@ -241303,8 +241842,8 @@
       "accession": "0000072903-26-000009",
       "filingDate": "2026-02-25",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:04:46.599Z",
@@ -242118,17 +242657,17 @@
     "name": "YUM BRANDS INC",
     "sector": "Retail-Eating  Places",
     "secEps": 5.55,
-    "secBookValuePerShare": -26.0424,
+    "secBookValuePerShare": -22.9816,
     "revenueGrowth": 8.81,
     "epsGrowth": 6.32,
     "fcfGrowth": 14.46,
     "operatingMargin": 31.34,
     "marginTrend": -0.49,
     "source": "sec",
-    "updatedAt": "2026-11-05T18:23:52.351Z",
+    "updatedAt": "2026-11-09T21:24:58.829Z",
     "annualFcf": 1639000000,
     "annualFcfPeriodEnd": "2025-12-31",
-    "sharesOutstanding": 272901085,
+    "sharesOutstanding": 268258657,
     "sic": 5812,
     "annualOcf": 2010000000,
     "annualCapex": 371000000,
@@ -242425,12 +242964,57 @@
       "accession": "0001041061-26-000084",
       "filingDate": "2026-02-20",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-05",
-      "currentPeriodAgeDays": 309,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 313,
       "boundaryGapDays": 1
     },
     "basicShareChangeUpdatedAt": "2026-08-17T03:04:47.765Z",
     "netDebtBalanceCandidates": [
+      {
+        "date": "2026-09-30",
+        "form": "10-Q",
+        "filed": "2026-11-06",
+        "accession": "0001041061-26-000210",
+        "assets": 8769000000,
+        "debt": {
+          "value": null,
+          "reason": "incomplete conventional current/noncurrent debt representation",
+          "facts": [
+            {
+              "value": 2146000000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-11-06",
+              "accn": "0001041061-26-000210",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "LongTermDebtCurrent"
+            },
+            {
+              "value": 2141000000,
+              "end": "2026-09-30",
+              "form": "10-Q",
+              "filed": "2026-11-06",
+              "accn": "0001041061-26-000210",
+              "frame": "CY2026Q3I",
+              "offsetDays": 0,
+              "tagName": "ShortTermBorrowings"
+            }
+          ]
+        },
+        "cash": {
+          "value": 2108000000,
+          "end": "2026-09-30",
+          "form": "10-Q",
+          "filed": "2026-11-06",
+          "accn": "0001041061-26-000210",
+          "frame": "CY2026Q3I",
+          "offsetDays": 0,
+          "tagName": "CashAndCashEquivalentsAtCarryingValue"
+        },
+        "netDebt": null,
+        "reason": "incomplete conventional current/noncurrent debt representation"
+      },
       {
         "date": "2026-06-30",
         "form": "10-Q",
@@ -242524,8 +243108,8 @@
       {
         "date": "2025-12-31",
         "form": "10-Q",
-        "filed": "2026-08-05",
-        "accession": "0001041061-26-000160",
+        "filed": "2026-11-06",
+        "accession": "0001041061-26-000210",
         "assets": 8197000000,
         "debt": {
           "value": 11976000000,
@@ -242558,8 +243142,8 @@
               "value": 11872000000,
               "end": "2025-12-31",
               "form": "10-Q",
-              "filed": "2026-08-05",
-              "accn": "0001041061-26-000160",
+              "filed": "2026-11-06",
+              "accn": "0001041061-26-000210",
               "frame": "CY2025Q4I",
               "offsetDays": 0,
               "tagName": "LongTermDebtAndCapitalLeaseObligations"
@@ -242570,8 +243154,8 @@
           "value": 709000000,
           "end": "2025-12-31",
           "form": "10-Q",
-          "filed": "2026-08-05",
-          "accn": "0001041061-26-000160",
+          "filed": "2026-11-06",
+          "accn": "0001041061-26-000210",
           "frame": "CY2025Q4I",
           "offsetDays": 0,
           "tagName": "CashAndCashEquivalentsAtCarryingValue"
@@ -242670,8 +243254,8 @@
         "reason": "incomplete conventional current/noncurrent debt representation"
       }
     ],
-    "lastFiledDate": "2026-08-05",
-    "nextExpectedFilingDate": "2026-11-04"
+    "lastFiledDate": "2026-11-06",
+    "nextExpectedFilingDate": "2027-02-05"
   },
   "ZBRA": {
     "name": "ZEBRA TECHNOLOGIES CORP",
@@ -245213,8 +245797,8 @@
       "accession": "0001474432-26-000027",
       "filingDate": "2026-03-25",
       "contradictoryPeriodCount": 0,
-      "asOfDate": "2026-11-03",
-      "currentPeriodAgeDays": 275,
+      "asOfDate": "2026-11-09",
+      "currentPeriodAgeDays": 281,
       "boundaryGapDays": 1
     },
     "netDebtBalanceCandidates": [
@@ -245370,47 +245954,12 @@
         },
         "netDebt": null,
         "reason": "incomplete conventional current/noncurrent debt representation"
-      },
-      {
-        "date": "2025-05-04",
-        "form": "10-Q",
-        "filed": "2025-06-11",
-        "accession": "0001628280-25-030567",
-        "assets": 3810365000,
-        "debt": {
-          "value": null,
-          "reason": "incomplete conventional current/noncurrent debt representation",
-          "facts": [
-            {
-              "value": 100000000,
-              "end": "2025-05-04",
-              "form": "10-Q",
-              "filed": "2025-06-11",
-              "accn": "0001628280-25-030567",
-              "frame": "CY2025Q1I",
-              "offsetDays": 0,
-              "tagName": "LongTermDebtCurrent"
-            }
-          ]
-        },
-        "cash": {
-          "value": 739336000,
-          "end": "2025-05-04",
-          "form": "10-Q",
-          "filed": "2025-06-11",
-          "accn": "0001628280-25-030567",
-          "frame": null,
-          "offsetDays": 0,
-          "tagName": "CashAndCashEquivalentsAtCarryingValue"
-        },
-        "netDebt": null,
-        "reason": "incomplete conventional current/noncurrent debt representation"
       }
     ],
     "lastFiledDate": "2026-09-04",
     "nextExpectedFilingDate": "2026-12-04",
     "source": "sec",
-    "updatedAt": "2026-11-03T18:01:45.570Z"
+    "updatedAt": "2026-11-09T20:55:52.774Z"
   },
   "ILMN": {
     "name": "ILLUMINA, INC.",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T17:25:41.974Z",
+  "generatedAt": "2026-11-09T20:39:31.937Z",
   "source": "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv + https://www.sec.gov/files/company_tickers_exchange.json",
   "count": 503,
   "constituents": [
@@ -1393,7 +1393,7 @@
       "ticker": "HLT",
       "name": "Hilton Worldwide",
       "sector": "Consumer Discretionary",
-      "exchange": "NYSE"
+      "exchange": "Nasdaq"
     },
     {
       "ticker": "HD",

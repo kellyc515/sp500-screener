@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-06T17:25:44.529Z"
+    "updatedAt": "2026-11-09T20:39:34.716Z"
   },
   "trades": [
     {
@@ -238,6 +238,58 @@
       "link": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/"
     },
     {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/|ZTS|2026-10-21|Sale (Full)|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "ZTS",
+      "member": "Shelley Moore Capito",
+      "district": "WV",
+      "assetDescription": "Zoetis Inc. Class A Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-21",
+      "disclosureDate": "2026-11-04",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/|MSFT|2026-10-21|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "MSFT",
+      "member": "Shelley Moore Capito",
+      "district": "WV",
+      "assetDescription": "Microsoft Corporation - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-21",
+      "disclosureDate": "2026-11-04",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/|META|2026-10-21|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "META",
+      "member": "Shelley Moore Capito",
+      "district": "WV",
+      "assetDescription": "Meta Platforms, Inc. - Class A Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-21",
+      "disclosureDate": "2026-11-04",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/|AAPL|2026-10-21|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "AAPL",
+      "member": "Shelley Moore Capito",
+      "district": "WV",
+      "assetDescription": "Apple Inc. - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-21",
+      "disclosureDate": "2026-11-04",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf|IBM|2026-10-20|Sale|$1,001 - $15,000",
       "chamber": "House",
       "ticker": "IBM",
@@ -444,6 +496,32 @@
       "transactionDate": "2026-10-15",
       "disclosureDate": "2026-11-05",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/|MSFT|2026-10-15|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "MSFT",
+      "member": "Sheldon Whitehouse",
+      "district": "RI",
+      "assetDescription": "Microsoft Corporation - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-15",
+      "disclosureDate": "2026-11-02",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/|AMGN|2026-10-15|Sale (Full)|$15,001 - $50,000",
+      "chamber": "Senate",
+      "ticker": "AMGN",
+      "member": "Sheldon Whitehouse",
+      "district": "RI",
+      "assetDescription": "Amgen Inc. - Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-10-15",
+      "disclosureDate": "2026-11-02",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf|CVX|2026-10-14|Sale|$15,001 - $50,000",
@@ -2097,6 +2175,19 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf"
     },
     {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/|STLN|2026-09-23|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "STLN",
+      "member": "Richard Blumenthal",
+      "district": null,
+      "assetDescription": "Starling Oncology, Inc. - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-23",
+      "disclosureDate": "2026-10-26",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035499.pdf|AAPL|2026-09-22|Sale|$100,001 - $250,000",
       "chamber": "House",
       "ticker": "AAPL",
@@ -2199,6 +2290,32 @@
       "transactionDate": "2026-09-22",
       "disclosureDate": "2026-10-15",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035648.pdf"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/|STLN|2026-09-22|Sale (Partial)|$15,001 - $50,000",
+      "chamber": "Senate",
+      "ticker": "STLN",
+      "member": "Richard Blumenthal",
+      "district": null,
+      "assetDescription": "Starling Oncology, Inc. - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-22",
+      "disclosureDate": "2026-10-26",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/|STLN|2026-09-22|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "STLN",
+      "member": "Richard Blumenthal",
+      "district": null,
+      "assetDescription": "Starling Oncology, Inc. - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-22",
+      "disclosureDate": "2026-10-26",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf|ACI|2026-09-21|Sale|$1,001 - $15,000",
@@ -2589,6 +2706,32 @@
       "transactionDate": "2026-09-18",
       "disclosureDate": "2026-10-19",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035490.pdf"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/|STLN|2026-09-18|Sale (Partial)|$15,001 - $50,000",
+      "chamber": "Senate",
+      "ticker": "STLN",
+      "member": "Richard Blumenthal",
+      "district": null,
+      "assetDescription": "Starling Oncology, Inc. - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-09-18",
+      "disclosureDate": "2026-10-26",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/|STLN|2026-09-18|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "STLN",
+      "member": "Richard Blumenthal",
+      "district": null,
+      "assetDescription": "Starling Oncology, Inc. - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-09-18",
+      "disclosureDate": "2026-10-26",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf|HD|2026-09-17|Purchase|$1,001 - $15,000",
