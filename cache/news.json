@@ -21629,51 +21629,63 @@
     "updatedAt": "2026-11-09T21:25:20.056Z"
   },
   "BE": {
-    "sentiment": 0.188,
+    "sentiment": 0.471,
     "headlines": [
       {
-        "title": "Oklo Soars 16% as Narrower-Than-Expected Q3 Loss Sparks Rebound From Election Sell-Off",
-        "url": "https://finnhub.io/api/news?id=af8aa3e25d3c01fb9d0795003888dcaa8657f3ca2ee9f6d39ec0be5bc2184114",
-        "source": "Yahoo",
-        "date": "2026-11-06"
-      },
-      {
-        "title": "S&P 500 Premarket Movers: Tech and Semiconductor Stocks Lead Gainers as AXON and ROL Fall",
-        "url": "https://finnhub.io/api/news?id=3ddd5756ebb49544a30f152edd7763c7482f382d299c3762604eac63883a5699",
+        "title": "S&P 500 Premarket Losers: GEV, CAT, VRT Fall After Yesterday's Gains",
+        "url": "https://finnhub.io/api/news?id=f17d401fae34a1d9ee203ac968a63655755792f5520d52d6ee6c97e343e3b847",
         "source": "ChartMill",
-        "date": "2026-11-06"
+        "date": "2026-11-10"
       },
       {
-        "title": "Bloom Energy Scores Major Role In Google's 702-Megawatt Power Project",
-        "url": "https://finnhub.io/api/news?id=4bd3c43f246b9e3cbd2a86ddd9e6b29653a595a1961e72f730a3f101513b8685",
-        "source": "Benzinga",
-        "date": "2026-11-06"
-      },
-      {
-        "title": "12 Industrials Stocks Moving In Friday's Pre-Market Session",
-        "url": "https://finnhub.io/api/news?id=7ffc5f9c83321a5e2642896eb2a79f9929bf19a41e127b9b7c6b7b6e6f38fa7e",
-        "source": "Benzinga",
-        "date": "2026-11-06"
-      },
-      {
-        "title": "Is Bloom Energy (BE) A Bargain Following Election Driven AI Data Center Fears?",
-        "url": "https://finnhub.io/api/news?id=e4223a7d5715e7af5cb430465e21b462e62fe1e13b013a18cd356ac43ba95478",
+        "title": "Why Bloom Energy Stock Slumped 26.6% in October, and Why the Pullback is a Buying Opportunity",
+        "url": "https://finnhub.io/api/news?id=997e9bdf7de37940d3d7178b820a2a13f5c679566217d38d39e01d28e9cbc25d",
         "source": "Yahoo",
-        "date": "2026-11-06"
+        "date": "2026-11-10"
       },
       {
-        "title": "Should You Wait Before Buying Bloom Energy Stock?",
-        "url": "https://finnhub.io/api/news?id=8c93ca9f066fddf9fd494cdf1b184608f9d5396e5c1721f3e3c0a4b1ecb4152b",
+        "title": "Why Is Bloom Energy Stock Falling on Tuesday?",
+        "url": "https://finnhub.io/api/news?id=6238b5b3eedef058e7e0cee39ab384a1f4e535967e0ead778a7f3caaeffe9e33",
+        "source": "Benzinga",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Stock Market Today, Nov. 9: Plug Power Rises 3.45% on Positioning Ahead of Q3 Report",
+        "url": "https://finnhub.io/api/news?id=dd7f22519ccfdee024f2ce0a4d9666e5d02a1ed5bb78277b95639b080d8764fa",
         "source": "Yahoo",
-        "date": "2026-11-06"
+        "date": "2026-11-09"
+      },
+      {
+        "title": "Is Bloom Energy Really Worth $200 Right Now? Here's the Math.",
+        "url": "https://finnhub.io/api/news?id=d53556811262f7f87fb27f24f6ecfc4c21fbcf44230e7002900922219647213a",
+        "source": "Yahoo",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "S&P 500 Top Movers: Gainers and Losers for Nov. 9, 2026",
+        "url": "https://finnhub.io/api/news?id=8dbe13d7bad59b65126f092b011cd055233dfd03d70a27cbf9c95faf7c97444b",
+        "source": "ChartMill",
+        "date": "2026-11-09"
       }
     ],
     "source": "finnhub",
-    "updatedAt": "2026-11-06T17:29:11.548Z"
+    "updatedAt": "2026-11-10T17:46:26.375Z"
   },
   "P": {
-    "sentiment": 0.35,
+    "sentiment": 0.429,
     "headlines": [
+      {
+        "title": "Nvidia Stock Shock Has Investors Rethinking AI Infrastructure ETFs",
+        "url": "https://finnhub.io/api/news?id=cad2ac137a56759e65c316a92708a667586330b4648b2a546a2a3bc10ead3729",
+        "source": "Yahoo",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "$100 Invested In Everpure 10 Years Ago Would Be Worth This Much Today",
+        "url": "https://finnhub.io/api/news?id=0c5d9a094d251a5985e0ca74d7358b74246ea80d6990c21828406f8843a98a4c",
+        "source": "Benzinga",
+        "date": "2026-11-06"
+      },
       {
         "title": "12 Information Technology Stocks Moving In Friday's Pre-Market Session",
         "url": "https://finnhub.io/api/news?id=59e07d89f133f9990ddca1e4a2919b3c2e79931dd11f55cc190d2782e6371b44",
@@ -21697,198 +21709,204 @@
         "url": "https://finnhub.io/api/news?id=d0d789d0fbfdece788b4443bb7721d4d64e7b743b3438bef707a65381ed45e4d",
         "source": "ChartMill",
         "date": "2026-11-05"
-      },
-      {
-        "title": "S&P 500 Gap-Up and Gap-Down Stocks for Nov. 5, 2026",
-        "url": "https://finnhub.io/api/news?id=00a936d046e1880fbaca72711950c8dd94392c73e66f255397e72504b850c177",
-        "source": "ChartMill",
-        "date": "2026-11-05"
-      },
-      {
-        "title": "BlackSky Technology Inc. (BKSY) Reports Q3 Loss, Tops Revenue Estimates",
-        "url": "https://finnhub.io/api/news?id=0aeb883a9540f8b418c001936134ac8437e192774232f40049c96d046615ac72",
-        "source": "Yahoo",
-        "date": "2026-11-05"
       }
     ],
     "source": "finnhub",
-    "updatedAt": "2026-11-06T17:34:44.213Z"
+    "updatedAt": "2026-11-10T17:54:18.663Z"
   },
   "ILMN": {
-    "sentiment": 0.25,
+    "sentiment": 0.56,
     "headlines": [
       {
-        "title": "A Bloody Bad Time: Grail Gutted On Light Blood Test Sales",
-        "url": "https://finnhub.io/api/news?id=3a37111d94eeffedb7f57b4ae297fc4b1150fecfe3f7611a4bb21bc5a3f30afc",
+        "title": "Nucleic Acid Isolation and Purification - Global Strategic Business Report: Capture the $3.9 Billion Revenue Surge by 2030 as Thermo Fisher, Qiagen, Danaher, Illumina, and Bio-Rad Battle for Share",
+        "url": "https://finnhub.io/api/news?id=782ff2cfdac9121fa8044b00b04728e2382986ec0c5e740fc996c8a0e39294f0",
         "source": "Yahoo",
-        "date": "2026-11-05"
+        "date": "2026-11-10"
       },
       {
-        "title": "Illumina selected to help bring precision medicine into everyday healthcare in Singapore",
-        "url": "https://finnhub.io/api/news?id=305095648e8aedc33cf28cf0ac649d0c48aa25fa762893c1d1cac7187e6ed3f0",
+        "title": "Gene Panels - Global Strategic Business Report 2026: Capitalize on 17.9% CAGR as Market Triples to $12.6B by 2032 - Track Key Players Illumina, Roche, QIAGEN, Thermo Fisher, Agilent and More",
+        "url": "https://finnhub.io/api/news?id=1b1fa753189bb9863ac671c598aa2910f37c810d20245c432e1319afb9671b8f",
         "source": "Yahoo",
-        "date": "2026-11-04"
+        "date": "2026-11-10"
       },
       {
-        "title": "Grail Comes Up Short, Reporting Light Sales Of Its Cancer-Detecting Blood Test",
-        "url": "https://finnhub.io/api/news?id=21c556ed11c4c3f7b1ca9e107082329e93edccc23527d36f2343cfa2a78d5c2c",
+        "title": "Global DNA and Genomic Profiling Kits Market Report 2026 | Capture the $2.09B Market by 2030 | Features Profiles of Thermo Fisher, Illumina, QIAGEN and More",
+        "url": "https://finnhub.io/api/news?id=777bdd1f71675e140f5e75ccd3b63e3a364e2775f48ad684bddf0f4a4ea5b3ac",
         "source": "Yahoo",
-        "date": "2026-11-04"
+        "date": "2026-11-10"
       },
       {
-        "title": "Microarray Analysis - Global Strategic Business Report 2026: Secure Share in a $5.1 Billion Market by 2032, Featuring Profiles of Key Players Agilent, Illumina, Roche and Thermo Fisher",
-        "url": "https://finnhub.io/api/news?id=2c4e0198a409faef55183468f5c99b62784af2b777fbdcdfe95c2d92ec19f4a0",
+        "title": "Structural Biology and Molecular Modeling Techniques - Global Strategic Business Report 2026: Capitalize on the $18 Billion 2032 Market with Agilent, Bruker Daltonics, Dassault Systemes, and Illumina",
+        "url": "https://finnhub.io/api/news?id=d7aaeb881014b8c196cba9c9ce4485e90e12ca0c17090acd06fe3f99187b8388",
         "source": "Yahoo",
-        "date": "2026-11-04"
+        "date": "2026-11-09"
       },
       {
-        "title": "REGN vs. ILMN: Which Stock Is the Better Value Option?",
-        "url": "https://finnhub.io/api/news?id=8d2c9e0f07e52ee6af511e5ea6e1dcba3da6c6e922b04fb45d6ee0abc9415186",
+        "title": "Global Genome Annotation Services Market Report 2026: Trends and Forecast to 2030 | Capitalize on AI and Precision Medicine with Roche, Thermo Fisher, Illumina, QIAGEN",
+        "url": "https://finnhub.io/api/news?id=ba74337af57be0df82364244b0c708010ec510ef34318a81f0186e25b873b1c6",
         "source": "Yahoo",
-        "date": "2026-11-04"
+        "date": "2026-11-09"
       },
       {
-        "title": "AI in Life Sciences Market to Worth USD 69.34 Billion by 2031, at a CAGR of 26.3% – MarketsandMarkets™",
-        "url": "https://finnhub.io/api/news?id=cdc9fb29064d73e4b9552dab51b031a1a0ba46daad3d76bd4b695f65d75fb54e",
+        "title": "Global Clinical Genomics Software Market Report 2026 | Capitalize on 14.8% CAGR Through 2030 as Google, Microsoft, NVIDIA and Illumina Scale AI, Cloud and Precision Medicine",
+        "url": "https://finnhub.io/api/news?id=fd0bda3f09edf4bb377ab13068ed41b551438e1a76b91a38a178b7c0fb42103e",
         "source": "Yahoo",
-        "date": "2026-11-04"
+        "date": "2026-11-09"
       }
     ],
     "source": "finnhub",
-    "updatedAt": "2026-11-06T17:38:06.540Z"
+    "updatedAt": "2026-11-10T17:57:49.420Z"
   },
   "RDDT": {
-    "sentiment": 0,
+    "sentiment": 0.2,
     "headlines": [
       {
-        "title": "Wife Earns $220K But Has $20K In Credit Card Debt And Pays 25% Of Household Costs. She Says ‘There Is No Joy In Life’ If She Can’t Spend Freely",
-        "url": "https://finnhub.io/api/news?id=40f1eade99f7d06c0fb8a8b0ceed14ca3385f2d33fe7a837b8c7ab799f621e8c",
+        "title": "Woman Filed For Bankruptcy, Then Racked Up Another $17K In Debt. ‘I Don’t Understand Why Companies Keep Giving Her Credit,’ Sibling Says",
+        "url": "https://finnhub.io/api/news?id=bc8cf09fc4018248a8f9b190e11baa421946dfffec1fb82e3b689cc3628734ee",
         "source": "Yahoo",
-        "date": "2026-11-06"
+        "date": "2026-11-10"
       },
       {
-        "title": "Reddit (RDDT) Highlights 1,300 Gaming Communities For Marketers",
-        "url": "https://finnhub.io/api/news?id=6f77e904541ca56001eeec1a3c59759bb16c74dfc7062c6b548347f7f5b64988",
-        "source": "Yahoo",
-        "date": "2026-11-06"
+        "title": "Guggenheim Maintains Buy on Reddit, Lowers Price Target to $140",
+        "url": "https://finnhub.io/api/news?id=da1c40a26332d7c7b516bfd7075e567ac815f1b23f73c76c858af91c4ae2f98f",
+        "source": "Benzinga",
+        "date": "2026-11-10"
       },
       {
-        "title": "Do You Like Cash? Consider Reddit Stock",
-        "url": "https://finnhub.io/api/news?id=32528a35b4b89b595891c6e3a347ebd1fc856a2297a0857355c75cc3493ed9ac",
+        "title": "These 5 Internet Platform Stocks Run on Advertising Dollars",
+        "url": "https://finnhub.io/api/news?id=11847a028aea03a7aad8f2cd4050008656969a4a215730adc919c7abcb22449d",
         "source": "Yahoo",
-        "date": "2026-11-06"
+        "date": "2026-11-10"
       },
       {
-        "title": "Reddit Sinks 8% as Social Ad Worries Deepen in Tech Rout",
-        "url": "https://finnhub.io/api/news?id=6191b8e02e60b4fd11cb66451cc10b1f73abc1d81b816402145f6977ed5a1825",
-        "source": "Yahoo",
-        "date": "2026-11-05"
+        "title": "Reddit Consensus Price Target Decreased by 10.41% to $156.95",
+        "url": "https://finnhub.io/api/news?id=0a139ebf18b1f9fe0d15f02d373d9826a7ee578d18847d7712cc6086ac9154ba",
+        "source": "Fintel",
+        "date": "2026-11-09"
       },
       {
-        "title": "Workers Caught In 'The Great 2026 Mass Layoff Wave' Share What Life Looks Like Now. 'Been Playing A Lot Of Video Games, But…'",
-        "url": "https://finnhub.io/api/news?id=e421d2ee88f78063688f6882830a7604fe733f12d7390f1366e40c6aea4026d9",
+        "title": "Reddit (RDDT), What Is Behind The Fresh Attention?",
+        "url": "https://finnhub.io/api/news?id=19acbc1d6a329e51ea4beaaa4ac1451d8c28aa89b65fa6ea18df73468b71fb75",
         "source": "Yahoo",
-        "date": "2026-11-05"
+        "date": "2026-11-09"
       },
       {
-        "title": "Pinterest Sinks 5% as Reddit Down 5% on Sluggish Ad Sales Amid Tech Selloff",
-        "url": "https://finnhub.io/api/news?id=ec0b86bd98f0c831aeacee9f226fb2f4db679c0871abbba51edfe51814c79f0a",
+        "title": "Am I the Only Gen Xer Who Isn't Thinking About Retirement? One Person's Question Sparks A Heated Debate",
+        "url": "https://finnhub.io/api/news?id=4d74e17ae81f393912cbf5fc597e76ac2de7354355519ea60ffbfffaa4725010",
         "source": "Yahoo",
-        "date": "2026-11-05"
+        "date": "2026-11-09"
       }
     ],
     "source": "finnhub",
-    "updatedAt": "2026-11-06T17:45:06.136Z"
+    "updatedAt": "2026-11-10T18:04:46.615Z"
   },
   "VMRK": {
-    "sentiment": 0.3,
+    "sentiment": 0.364,
     "headlines": [
+      {
+        "title": "Vivmark Residential 2026 Q3 - Results - Earnings Call Presentation",
+        "url": "https://finnhub.io/api/news?id=8fbb60d015e21adf7b28de91e23a14776d3524c94aacc2d4707ea7e2cd6fe8db",
+        "source": "SeekingAlpha",
+        "date": "2026-11-10"
+      },
       {
         "title": "Vivmark Residential (VMRK) Q3 2026 Earnings Call Transcript",
-        "url": "https://finnhub.io/api/news?id=b27e8dcbae5d8d4860a03bdcebd536662426ef9101c6db809d6eb80fd070df0e",
-        "source": "Yahoo",
-        "date": "2026-11-06"
+        "url": "https://finnhub.io/api/news?id=36d85f3b242393cd8584c33ad4c82dfe65e85c98670493328b5e1ae12dfbee17",
+        "source": "SeekingAlpha",
+        "date": "2026-11-10"
       },
       {
-        "title": "Vivmark finds additional efficiencies after completing AVB-EQR merger",
-        "url": "https://finnhub.io/api/news?id=69d950fdf173cdd10cb9aee6e38adf615406e9664dfdc49a9641beed5f079d94",
-        "source": "Yahoo",
-        "date": "2026-11-05"
+        "title": "Vonovia: Long-Term Modelling Shows Resilience; A Short-Term Positive Trigger Is Probable",
+        "url": "https://finnhub.io/api/news?id=bbe27ab70745a8b935de2f0a9f76821c8cec86d49a7a057d4eeebc34aa848977",
+        "source": "SeekingAlpha",
+        "date": "2026-11-10"
       },
       {
-        "title": "Vivmark (VMRK) Tops Q3 Earnings and Revenue Estimates",
-        "url": "https://finnhub.io/api/news?id=1cd341f61a2b2ce2f6c2255ec539687ab8bb43525674728d4a6a908bf2e3fc3b",
-        "source": "Yahoo",
-        "date": "2026-11-05"
-      },
-      {
-        "title": "Vivmark Residential Q3 2026 Earnings Call Transcript",
-        "url": "https://finnhub.io/api/news?id=36e60ae09b9b806e4c7112ed2da36f3bf13eec76b36c34dd0922d19ac6a9c2d6",
+        "title": "Cantor Fitzgerald Maintains Neutral on Vivmark Residential, Lowers Price Target to $68",
+        "url": "https://finnhub.io/api/news?id=7933aa1df71fa3cb1d61ae8c180db3230e9ebf2af8718f3b1188c62893575024",
         "source": "Benzinga",
-        "date": "2026-11-05"
+        "date": "2026-11-09"
       },
       {
-        "title": "Vivmark: Q3 Earnings Snapshot",
-        "url": "https://finnhub.io/api/news?id=773b240d5c0081d0ce955c8b512ba44536e3a862a6baaa0274bdac1234827323",
-        "source": "Yahoo",
-        "date": "2026-11-05"
+        "title": "Vivmark Residential: A +4% Yield From This REIT Powerhouse",
+        "url": "https://finnhub.io/api/news?id=e3d42d84426caa02838848fa9741f83c3cb7c3b48a37a12fadf8d09e894f9dcb",
+        "source": "SeekingAlpha",
+        "date": "2026-11-09"
       },
       {
-        "title": "S&P 500 After-Hours Losers: FICO, EXPE, QCOM Lead Postmarket Declines",
-        "url": "https://finnhub.io/api/news?id=e6926bd0a3cc30d0d7df74db5ea86514c9eb9f23e0c3cf7876bc9114b59a4efd",
-        "source": "ChartMill",
-        "date": "2026-11-04"
+        "title": "Blue Wave Fuels REIT Rally",
+        "url": "https://finnhub.io/api/news?id=339f72684beedd7d743f3f576702c1d359f57dd3bbda267e59e17cc92ae9a3b6",
+        "source": "SeekingAlpha",
+        "date": "2026-11-08"
       }
     ],
     "source": "finnhub",
-    "updatedAt": "2026-11-06T17:49:34.616Z"
+    "updatedAt": "2026-11-10T18:09:21.734Z"
   },
   "SKYD": {
-    "sentiment": -0.087,
+    "sentiment": -0.429,
     "headlines": [
       {
-        "title": "Skydance (SKYD) Names Nitin Chawla To Lead Global Content Sales Finance",
-        "url": "https://finnhub.io/api/news?id=62ddba6c5c3feef63cd5aa98ae49df62cc603d0458b80d4989e75f3008fb7207",
+        "title": "Skydance Sinks 9% as Warner Bros. Film Slump Overshadows Earnings Beat; Netflix Falls 2%, Disney Dips",
+        "url": "https://finnhub.io/api/news?id=b30e915e92b76ac889f4852b7effdb6b2f52f5dd4d8af29bca1e0b9662cdb2b7",
         "source": "Yahoo",
-        "date": "2026-11-05"
+        "date": "2026-11-10"
       },
       {
-        "title": "'Skydance Says Eight Execs To Leave After Paramount-Warner Bros Discovery Merger; Says Sarah Bergman And Mickey Carter Will Lead Its Distribution Business' - Reuters Exclusive",
-        "url": "https://finnhub.io/api/news?id=fc07a153683a1c92a265f09f025213badb1e92db522ad448f934b62f9962bce3",
-        "source": "Benzinga",
-        "date": "2026-11-03"
-      },
-      {
-        "title": "Disney: Mickey Mouse To Lay Off Thousands",
-        "url": "https://finnhub.io/api/news?id=c7ad0e2417d8de964435d175845810414be2e4cd7a5aeac18780500062da38e9",
+        "title": "Skydance Q3 earnings: Eyeing $6 billion in cuts amid heavy debt load",
+        "url": "https://finnhub.io/api/news?id=698712506d47a93944a5d11a5762c6525f8ee0a1de1a897de67f82605fe6012a",
         "source": "Yahoo",
-        "date": "2026-11-03"
+        "date": "2026-11-10"
       },
       {
-        "title": "Disney Targets Thousands of Jobs in Fresh Cost-Cutting Blitz: Report",
-        "url": "https://finnhub.io/api/news?id=4a5215867ce3db434208d23d1b393f84e3078f95a4a5248e67f384cba042f705",
-        "source": "Benzinga",
-        "date": "2026-11-03"
-      },
-      {
-        "title": "Author Tom Coyne, actor Bill Murray on 'A Course Called Ireland' on Paramount+",
-        "url": "https://finnhub.io/api/news?id=8361d66eb34299bd7b9dd1934a05fa60c6b5362552bf5a22d8946c2c81bde8d9",
-        "source": "CNBC",
-        "date": "2026-11-02"
-      },
-      {
-        "title": "Can Skydance (SKYD) Still Be A Bargain After Musk’s $1b Investment?",
-        "url": "https://finnhub.io/api/news?id=8a62995c1e249f1cbf68607b165c8e3c060976538218456e973bf1c161516575",
+        "title": "The Freeman Company Elects David Berson and Andrew Page to Board of Directors",
+        "url": "https://finnhub.io/api/news?id=177b8d8aa97dc9ca440d70a2344a61ce3b53e73e180cb4e1c36ba0827000bb8b",
         "source": "Yahoo",
-        "date": "2026-11-02"
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Paramount Skydance revenue rises 5% as streaming and studios offset television decline",
+        "url": "https://finnhub.io/api/news?id=1dcf37f81451bdef1fb6ab5d6a63b50f14ae32f76d15bfd0e3b46548afd50269",
+        "source": "Yahoo",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Skydance Q3 Advertising Slips 3%, D2C Up 13%",
+        "url": "https://finnhub.io/api/news?id=c3cc2846b933b2cfe9c09c4eaa1bcc57cbb897e74e3c2695541fca4ecc89fc09",
+        "source": "Yahoo",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Skydance Corp (SKYD) (Q3 2026) Earnings Call Highlights: $6 Billion Synergy Program, Streaming ...",
+        "url": "https://finnhub.io/api/news?id=3b038e5acd305bca6419a3effa5049eabf97ee557bdbe206a79bc40c19744ca5",
+        "source": "Yahoo",
+        "date": "2026-11-10"
       }
     ],
     "source": "finnhub",
-    "updatedAt": "2026-11-06T17:46:19.706Z"
+    "updatedAt": "2026-11-10T18:06:02.980Z"
   },
   "TWLO": {
-    "sentiment": 0.571,
+    "sentiment": 0.63,
     "headlines": [
+      {
+        "title": "Verint Appoints Abhi Sharma as Chief Product and Technology Officer",
+        "url": "https://finnhub.io/api/news?id=c74cf2810071f5b4e1c43a361741c0a0477300d6c5fe72ec15507339cf6436d4",
+        "source": "Yahoo",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "The AI Expectations Gap: Twilio’s Report Finds Businesses Are Measuring AI Success on Metrics Customers Don't Care About",
+        "url": "https://finnhub.io/api/news?id=127337fdc33ba3f0505869c8a17d59ffd4dc2be0d418ab58aeb6fcab6068ecee",
+        "source": "Yahoo",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "Here's How Much $100 Invested In Twilio 10 Years Ago Would Be Worth Today",
+        "url": "https://finnhub.io/api/news?id=2ffa64816ea92ac5eb55111a7b59eebf3518059bfbdccce4773c83c72120c5d3",
+        "source": "Benzinga",
+        "date": "2026-11-09"
+      },
       {
         "title": "Allspring Growth Fund Q3 2026 Performers And Detractors",
         "url": "https://finnhub.io/api/news?id=425fc9a42ce20c5cb4afdd378520e3a5b71bcbb28e731a6a6cccda58df26b94c",
@@ -21906,32 +21924,38 @@
         "url": "https://finnhub.io/api/news?id=966d98a392bd61fca1e150439979ba1d7d8a9acd1bddabeeed47622bade5edee",
         "source": "Yahoo",
         "date": "2026-11-05"
-      },
-      {
-        "title": "8X8 Q2 Earnings Call Highlights",
-        "url": "https://finnhub.io/api/news?id=374096455ee8fc84b335d74a6d8467e9b5f1c13fdd7f578410c183ee6a30a20e",
-        "source": "Yahoo",
-        "date": "2026-11-05"
-      },
-      {
-        "title": "Tigress Financial Maintains Buy on Twilio, Raises Price Target to $320",
-        "url": "https://finnhub.io/api/news?id=f2c3f8e0515c15b1e294d4eb2f2d29aebfa41f4628d08fb57a72575d0ce9285f",
-        "source": "Benzinga",
-        "date": "2026-11-04"
-      },
-      {
-        "title": "Should Twilio Stock Holders Look At Fortinet Instead?",
-        "url": "https://finnhub.io/api/news?id=fd085bb9ccc42c528f0c6204c3c9d1f05d2448db8120f5dce0dddea522be9297",
-        "source": "Yahoo",
-        "date": "2026-11-04"
       }
     ],
     "source": "finnhub",
-    "updatedAt": "2026-11-06T17:48:18.898Z"
+    "updatedAt": "2026-11-10T18:08:01.277Z"
   },
   "VYLR": {
-    "sentiment": 0.6,
+    "sentiment": 0.714,
     "headlines": [
+      {
+        "title": "Corteva’s First Report Since the Vylor Split and Franco-Nevada’s Gold-Defying Run Both Face a Test",
+        "url": "https://finnhub.io/api/news?id=4a6ae775bc1bc4d2b7c73db34da20a0ce299277f2f9ba87d838a494f299326d0",
+        "source": "Yahoo",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Invesco S&P 500 Equal Weight (RSP) Adds Vylor and Moderna on Nov. 5",
+        "url": "https://finnhub.io/api/news?id=0bda31c4db5aa3e66c7213b9a1a7fb7040ca081a93516b681502909ee5b849f5",
+        "source": "Yahoo",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "32 ETFs Add to Vylor (VYLR) on Nov. 5",
+        "url": "https://finnhub.io/api/news?id=3ef467342b517109f4bf89d8057b38c930c185311815bb36b6fbe5336908ecdf",
+        "source": "Yahoo",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "Earnings Volatility Watch: CoreWeave Reports Into an AI Rally Test, and Options Expect a 21% Move",
+        "url": "https://finnhub.io/api/news?id=c10e11583135d31eb8d1a8fe2058402baba656869a38940f593db60bd507f2e4",
+        "source": "Benzinga",
+        "date": "2026-11-08"
+      },
       {
         "title": "What SPDR S&P 500 ETF (SPY) Bought: Okta Leads on Nov. 3",
         "url": "https://finnhub.io/api/news?id=216431e31513ba131033c066f720767e1b6637bd3ceb523fa53482e3d2b2fa3a",
@@ -21943,34 +21967,10 @@
         "url": "https://finnhub.io/api/news?id=9192ab583c916d2c0f5aff7278b94ec04e115c4fdc6b87a1354145273dc902ce",
         "source": "Yahoo",
         "date": "2026-11-03"
-      },
-      {
-        "title": "Vylor (VYLR) Stock Could Be 34% Below Fair Value Following $3b Buyback Plan",
-        "url": "https://finnhub.io/api/news?id=150c2731ae04fec7766a634dd405a20300bf3e754082e40ce73c9be35b76b3eb",
-        "source": "Yahoo",
-        "date": "2026-11-03"
-      },
-      {
-        "title": "What iShares S&P 500 Value ETF (IVE) Bought: Vylor Leads on Friday",
-        "url": "https://finnhub.io/api/news?id=5aa45cf7a333b8ccb8ce4eeac41427f19fd76bca27a6cff8154a11c3e7c2fb08",
-        "source": "Yahoo",
-        "date": "2026-11-03"
-      },
-      {
-        "title": "iShares Russell Mid-Cap ETF (IWR) Adds Vylor and Hasbro on Friday",
-        "url": "https://finnhub.io/api/news?id=c4fced4dceb71da22eeacb1dcf8cf2a817d17f96e20d17e95c7dc0f30df9084f",
-        "source": "Yahoo",
-        "date": "2026-11-03"
-      },
-      {
-        "title": "What State Street SPDR Portfolio S&P 500 ETF (SPYM) Bought: Vylor Leads on Oct. 30",
-        "url": "https://finnhub.io/api/news?id=f0a63407639329ba3f858778a129e2a7f203c2a3a16daa78eae35be8fe088797",
-        "source": "Yahoo",
-        "date": "2026-11-03"
       }
     ],
     "source": "finnhub",
-    "updatedAt": "2026-11-06T17:49:42.441Z"
+    "updatedAt": "2026-11-10T18:09:29.790Z"
   },
   "OKTA": {
     "sentiment": 0.5,

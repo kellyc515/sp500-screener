@@ -2517,27 +2517,27 @@
   "BE": {
     "analyst": 68.8,
     "source": "finnhub",
-    "updatedAt": "2026-11-06T17:29:10.374Z"
+    "updatedAt": "2026-11-10T17:46:25.138Z"
   },
   "P": {
     "analyst": 76.9,
     "source": "finnhub",
-    "updatedAt": "2026-11-06T17:34:43.059Z"
+    "updatedAt": "2026-11-10T17:54:17.460Z"
   },
   "ILMN": {
     "analyst": 65.2,
     "source": "finnhub",
-    "updatedAt": "2026-11-06T17:38:05.382Z"
+    "updatedAt": "2026-11-10T17:57:48.029Z"
   },
   "RDDT": {
     "analyst": 70,
     "source": "finnhub",
-    "updatedAt": "2026-11-06T17:45:04.670Z"
+    "updatedAt": "2026-11-10T18:04:45.427Z"
   },
   "VMRK": {
     "analyst": 65.5,
     "source": "finnhub",
-    "updatedAt": "2026-11-06T17:49:33.465Z"
+    "updatedAt": "2026-11-10T18:09:20.547Z"
   },
   "SKYD": {
     "analyst": 40.8,
@@ -2547,7 +2547,7 @@
   "TWLO": {
     "analyst": 77.6,
     "source": "finnhub",
-    "updatedAt": "2026-11-06T17:48:17.744Z"
+    "updatedAt": "2026-11-10T18:07:59.977Z"
   },
   "VYLR": {},
   "OKTA": {
