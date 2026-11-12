@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-11T17:51:02.968Z"
+    "updatedAt": "2026-11-12T18:11:52.306Z"
   },
   "trades": [
     {
@@ -388,6 +388,19 @@
       "district": "TN03",
       "assetDescription": "The Select Sector SPDR Trust - The Energy Select Sector SPDR Fund",
       "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-22",
+      "disclosureDate": "2026-11-11",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116403.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116403.pdf|MDYG|2026-10-22|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "MDYG",
+      "member": "Charles J. \"Chuck\" Fleischmann",
+      "district": "TN03",
+      "assetDescription": "SPDR S&P 400 Mid Cap Growth ETF",
+      "type": "Purchase",
       "amount": "$1,001 - $15,000",
       "transactionDate": "2026-10-22",
       "disclosureDate": "2026-11-11",
@@ -2472,6 +2485,19 @@
       "transactionDate": "2026-10-09",
       "disclosureDate": "2026-11-10",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf|SHW|2026-10-09|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "SHW",
+      "member": "Rick Allen",
+      "district": "GA12",
+      "assetDescription": "The Sherwin-Williams Co",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-09",
+      "disclosureDate": "2026-11-12",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035635.pdf|ADI|2026-10-08|Purchase|$1,001 - $15,000",
