@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-16T20:21:32.142Z"
+    "updatedAt": "2026-11-17T19:07:31.009Z"
   },
   "trades": [
     {
@@ -2604,6 +2604,19 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf|MSGE|2026-10-12|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "MSGE",
+      "member": "Jonathan Jackson",
+      "district": "IL01",
+      "assetDescription": "Madison Square Garden Entertainment Corp",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-12",
+      "disclosureDate": "2026-11-16",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf|T|2026-10-09|Purchase|$1,001 - $15,000",
       "chamber": "House",
       "ticker": "T",
@@ -3395,6 +3408,19 @@
       "transactionDate": "2026-10-01",
       "disclosureDate": "2026-11-12",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035826.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf|BP|2026-10-01|Sale|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "BP",
+      "member": "Jonathan Jackson",
+      "district": "IL01",
+      "assetDescription": "BP PLC",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-01",
+      "disclosureDate": "2026-11-16",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf|IBRX|2026-09-30|Purchase|$1,001 - $15,000",
