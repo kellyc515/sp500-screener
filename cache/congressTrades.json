@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-17T19:07:31.009Z"
+    "updatedAt": "2026-11-18T18:48:33.609Z"
   },
   "trades": [
     {
@@ -808,6 +808,58 @@
       "transactionDate": "2026-10-21",
       "disclosureDate": "2026-11-10",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/06b7b716-bdc0-4c47-a4aa-96624e1e702c/|HYBB|2026-10-21|Purchase|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "HYBB",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "iShares BB Rated Corporate Bond ETF",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-21",
+      "disclosureDate": "2026-11-17",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/06b7b716-bdc0-4c47-a4aa-96624e1e702c/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/06b7b716-bdc0-4c47-a4aa-96624e1e702c/|MBB|2026-10-21|Purchase|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "MBB",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "iShares MBS ETF",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-21",
+      "disclosureDate": "2026-11-17",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/06b7b716-bdc0-4c47-a4aa-96624e1e702c/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/21941188-c04d-4713-8e6f-d954918e93fd/|CMBS|2026-10-21|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "CMBS",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "iShares CMBS ETF",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-21",
+      "disclosureDate": "2026-11-17",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/21941188-c04d-4713-8e6f-d954918e93fd/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/21941188-c04d-4713-8e6f-d954918e93fd/|TLH|2026-10-21|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "TLH",
+      "member": "John Boozman",
+      "district": "AR",
+      "assetDescription": "iShares 10-20 Year Treasury Bond ETF",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-21",
+      "disclosureDate": "2026-11-17",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/21941188-c04d-4713-8e6f-d954918e93fd/"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf|IBM|2026-10-20|Sale|$1,001 - $15,000",
@@ -3330,6 +3382,58 @@
       "transactionDate": "2026-10-02",
       "disclosureDate": "2026-11-09",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116399.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf|ADSK|2026-10-02|Sale (Full)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "ADSK",
+      "member": "Byron Donalds",
+      "district": "FL19",
+      "assetDescription": "Autodesk, Inc. - Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-02",
+      "disclosureDate": "2026-11-16",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf|IBKR|2026-10-02|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "IBKR",
+      "member": "Byron Donalds",
+      "district": "FL19",
+      "assetDescription": "Interactive Brokers Group, Inc. - Class A Common Stock",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-02",
+      "disclosureDate": "2026-11-16",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf|NFLX|2026-10-02|Sale (Full)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "NFLX",
+      "member": "Byron Donalds",
+      "district": "FL19",
+      "assetDescription": "Netflix, Inc. - Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-02",
+      "disclosureDate": "2026-11-16",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf|ZTS|2026-10-02|Sale (Full)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "ZTS",
+      "member": "Byron Donalds",
+      "district": "FL19",
+      "assetDescription": "Zoetis Inc. Class A Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-02",
+      "disclosureDate": "2026-11-16",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf|THR|2026-10-01|Exchange|$15,001 - $50,000",
