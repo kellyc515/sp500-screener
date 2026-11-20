@@ -1,8 +1,21 @@
 {
   "meta": {
-    "updatedAt": "2026-11-19T18:57:30.368Z"
+    "updatedAt": "2026-11-20T18:32:41.658Z"
   },
   "trades": [
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf|COST|2026-11-12|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "COST",
+      "member": "Michael Rulli",
+      "district": "OH06",
+      "assetDescription": "Costco Wholesale Corporation - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-11-12",
+      "disclosureDate": "2026-11-18",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf"
+    },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035807.pdf|JBGS|2026-11-09|Sale|$1,001 - $15,000",
       "chamber": "House",
@@ -67,6 +80,71 @@
       "transactionDate": "2026-11-05",
       "disclosureDate": "2026-11-13",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036864.pdf|TPR|2026-11-05|Sale (Full)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "TPR",
+      "member": "Terri A. Sewell",
+      "district": "AL07",
+      "assetDescription": "Tapestry, Inc. Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-11-05",
+      "disclosureDate": "2026-11-18",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036864.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf|GOOGL|2026-11-04|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "GOOGL",
+      "member": "Michael Rulli",
+      "district": "OH06",
+      "assetDescription": "Alphabet Inc. - Class A Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-11-04",
+      "disclosureDate": "2026-11-18",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf|LLY|2026-11-04|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "LLY",
+      "member": "Michael Rulli",
+      "district": "OH06",
+      "assetDescription": "Eli Lilly and Company Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-11-04",
+      "disclosureDate": "2026-11-18",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf|LITE|2026-11-04|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "LITE",
+      "member": "Michael Rulli",
+      "district": "OH06",
+      "assetDescription": "Lumentum Holdings Inc. - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-11-04",
+      "disclosureDate": "2026-11-18",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf|MSFT|2026-11-04|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "MSFT",
+      "member": "Michael Rulli",
+      "district": "OH06",
+      "assetDescription": "Microsoft Corporation - Common Stock",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-11-04",
+      "disclosureDate": "2026-11-18",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf|GOOGL|2026-11-03|Purchase|$1,001 - $15,000",
@@ -238,6 +316,19 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116399.pdf"
     },
     {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf|NVDA|2026-10-28|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "NVDA",
+      "member": "Michael Rulli",
+      "district": "OH06",
+      "assetDescription": "NVIDIA Corporation - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-28",
+      "disclosureDate": "2026-11-18",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf|AMZN|2026-10-27|Sale|$15,001 - $50,000",
       "chamber": "House",
       "ticker": "AMZN",
@@ -353,6 +444,45 @@
       "transactionDate": "2026-10-27",
       "disclosureDate": "2026-11-10",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf|JNJ|2026-10-27|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "JNJ",
+      "member": "Thomas Kean",
+      "district": "NJ07",
+      "assetDescription": "Johnson & Johnson Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-27",
+      "disclosureDate": "2026-11-19",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf|MSFT|2026-10-27|Sale (Partial)|$15,001 - $50,000",
+      "chamber": "House",
+      "ticker": "MSFT",
+      "member": "Thomas Kean",
+      "district": "NJ07",
+      "assetDescription": "Microsoft Corporation - Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$15,001 - $50,000",
+      "transactionDate": "2026-10-27",
+      "disclosureDate": "2026-11-19",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf|SYK|2026-10-27|Sale (Partial)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "SYK",
+      "member": "Thomas Kean",
+      "district": "NJ07",
+      "assetDescription": "Stryker Corporation Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-27",
+      "disclosureDate": "2026-11-19",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf|AMAT|2026-10-26|Purchase|$1,001 - $15,000",
@@ -2953,6 +3083,32 @@
       "transactionDate": "2026-10-07",
       "disclosureDate": "2026-11-10",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf|WBD|2026-10-07|Sale (Full)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "WBD",
+      "member": "Thomas Kean",
+      "district": "NJ07",
+      "assetDescription": "Warner Bros. Discovery, Inc. - Series A Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-07",
+      "disclosureDate": "2026-11-19",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036849.pdf|WBD|2026-10-07|Sale (Full)|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "WBD",
+      "member": "Steve Cohen",
+      "district": "TN09",
+      "assetDescription": "Warner Bros. Discovery, Inc. - Series A Common Stock",
+      "type": "Sale (Full)",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-10-07",
+      "disclosureDate": "2026-11-18",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036849.pdf"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf|HD|2026-10-06|Sale (Partial)|$1,001 - $15,000",
