@@ -1,8 +1,34 @@
 {
   "meta": {
-    "updatedAt": "2026-11-20T18:32:41.658Z"
+    "updatedAt": "2026-11-23T22:45:37.727Z"
   },
   "trades": [
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036883.pdf|VZ|2026-11-19|Sale (Partial)|$50,001 - $100,000",
+      "chamber": "House",
+      "ticker": "VZ",
+      "member": "Jennifer McClellan",
+      "district": "VA04",
+      "assetDescription": "Verizon Communications Inc. Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$50,001 - $100,000",
+      "transactionDate": "2026-11-19",
+      "disclosureDate": "2026-11-20",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036883.pdf"
+    },
+    {
+      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036891.pdf|AAPL|2026-11-16|Purchase|$1,001 - $15,000",
+      "chamber": "House",
+      "ticker": "AAPL",
+      "member": "Ed Case",
+      "district": "HI01",
+      "assetDescription": "Apple Inc. - Common Stock",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-11-16",
+      "disclosureDate": "2026-11-21",
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036891.pdf"
+    },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf|COST|2026-11-12|Sale (Partial)|$1,001 - $15,000",
       "chamber": "House",
@@ -15,6 +41,19 @@
       "transactionDate": "2026-11-12",
       "disclosureDate": "2026-11-18",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/f0f7eba0-ca09-4b80-a97b-64b6dafb835e/|GS|2026-11-11|Sale (Partial)|$250,001 - $500,000",
+      "chamber": "Senate",
+      "ticker": "GS",
+      "member": "Ted Cruz",
+      "district": "TX",
+      "assetDescription": "Goldman Sachs Group, Inc. (The) Common Stock",
+      "type": "Sale (Partial)",
+      "amount": "$250,001 - $500,000",
+      "transactionDate": "2026-11-11",
+      "disclosureDate": "2026-11-20",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/f0f7eba0-ca09-4b80-a97b-64b6dafb835e/"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035807.pdf|JBGS|2026-11-09|Sale|$1,001 - $15,000",
