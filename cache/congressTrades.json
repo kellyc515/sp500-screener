@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-24T20:37:14.957Z"
+    "updatedAt": "2026-11-26T20:06:17.021Z"
   },
   "trades": [
     {
@@ -69,6 +69,32 @@
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035807.pdf"
     },
     {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/|NVDA|2026-11-09|Purchase|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "NVDA",
+      "member": "Rand Paul",
+      "district": null,
+      "assetDescription": "NVIDIA Corporation - Common Stock",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-11-09",
+      "disclosureDate": "2026-11-25",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/|NVDA|2026-11-07|Purchase|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "NVDA",
+      "member": "Rand Paul",
+      "district": null,
+      "assetDescription": "NVIDIA Corporation - Common Stock",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-11-07",
+      "disclosureDate": "2026-11-25",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/"
+    },
+    {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf|AVGO|2026-11-05|Purchase|$1,001 - $15,000",
       "chamber": "House",
       "ticker": "AVGO",
@@ -132,6 +158,19 @@
       "transactionDate": "2026-11-05",
       "disclosureDate": "2026-11-18",
       "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036864.pdf"
+    },
+    {
+      "id": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/|NVDA|2026-11-05|Purchase|$1,001 - $15,000",
+      "chamber": "Senate",
+      "ticker": "NVDA",
+      "member": "Rand Paul",
+      "district": null,
+      "assetDescription": "NVIDIA Corporation - Common Stock",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "transactionDate": "2026-11-05",
+      "disclosureDate": "2026-11-25",
+      "link": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/"
     },
     {
       "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf|GOOGL|2026-11-04|Sale (Partial)|$1,001 - $15,000",
@@ -14276,19 +14315,6 @@
       "transactionDate": "2025-11-06",
       "disclosureDate": "2026-08-24",
       "link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
-    },
-    {
-      "id": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf|MSTR|2025-10-21|Sale|$15,001 - $50,000",
-      "chamber": "House",
-      "ticker": "MSTR",
-      "member": "Shri Thanedar",
-      "district": "MI13",
-      "assetDescription": "MicroStrategy Inc",
-      "type": "Sale",
-      "amount": "$15,001 - $50,000",
-      "transactionDate": "2025-10-21",
-      "disclosureDate": "2026-08-14",
-      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf"
     }
   ]
 }
